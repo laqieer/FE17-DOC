@@ -1,0 +1,565 @@
+﻿key,text
+MID_BT1_#001,""" M003_イルシオン兵_ボス b 
+* M003_イルシオン兵_ボス 
+Angry 
+M003_イルシオン兵_ボス 
+I have my orders. No one reaches the vault."
+MID_BT2_#001,"[Alear] t 
+[Alear] 
+Angry 
+
+[Alear] 
+Who are you, and what do you want?"
+MID_BT2_#002,""" M003_イルシオン兵_ボス b 
+* M003_イルシオン兵_ボス 
+Angry 
+M003_イルシオン兵_ボス 
+I am here to fight, not exchange words."
+MID_BT3_#001,""" M003_イルシオン兵_ボス b 
+( M003_イルシオン兵_ボス Pain 
+M003_イルシオン兵_ボス 
+You're not just any soldiers, are you?"
+MID_ED1_#001,"[Alear] 2 
+
+[Alear] 
+Looks like we cleared the way. Let's get to the 
+Ring Vault!"
+MID_ED2_#001,
+MID_ED2_#002,"Default 
+[Alear] 2 
+
+[Alear] 
+Whoever it is you are, the rest of your forces 
+have all been defeated."
+MID_ED2_#003,"So surrender now. If you refuse, I will stop you."
+MID_ED2_#004,"[Veyle] 
+Hm."
+MID_ED2_#005,"[Alear] 
+Ah! But how?!"
+MID_ED2_#006,"[Veyle] 
+Do I detect a hint of fear? Of course I do."
+MID_ED2_#007,[Alear]
+MID_ED3_#004,No...
+MID_ED3_#005,"[Framme] 3 
+[Framme] 
+Here, Queen Lumera! I'll fix you up!"
+MID_ED3_#006,
+MID_ED3_#007,Huh?!
+MID_ED3_#008,"[Alear] 
+What's the matter?"
+MID_ED3_#009,"[Framme] 
+My staff isn't helping her. She's hurt really bad, and..."
+MID_ED3_#010,"It's her Divine Dragon powers─they're almost 
+totally wiped out!"
+MID_ED3_#011,"[Alear] 
+..."
+MID_ED3_#012,"[Framme] 
+A Divine Dragon losing their power... It's the same 
+as losing years of their life."
+MID_ED3_#013,"The thing is, there's no reason Queen Lumera should 
+be drained like this. It doesn't make any sense!"
+MID_ED3_#014,"[Framme] 
+
+[Lumera] 
+It's simple, my young one... I gave my power 
+unto you."
+MID_ED3_#015,"[Alear] 
+But why?"
+MID_ED3_#016,"[Lumera] 
+All the years you were sleeping...healing...I was 
+transferring my Divine Dragon powers to you."
+MID_ED3_#017,"I hoped it would be enough to bring you back to me someday. 
+But now, it would seem that I am completely spent."
+MID_ED3_#018,"[Alear] 
+Oh no, this is my fault! I did this!"
+MID_ED3_#019,"[Lumera] 
+No, my dear... You have to push those thoughts away."
+MID_ED3_#020,"There is nothing a mother wouldn't do...to see 
+life return again...to her beloved child."
+MID_ED3_#021,"[Alear] 
+But I..."
+MID_ED3_#022,[Lumera]
+MID_ED3_#023,"This ring... It belongs to you now. The Ring of 
+the Holy Knight."
+MID_ED3_#024,"I had...so hoped to give you the ring I made, 
+as well...but that's not possible now..."
+MID_ED3_#028,"Listen to me, child... Those who invaded here... 
+I sensed the power of the Fell Dragon within them."
+MID_ED3_#029,"[Alear] 
+..."
+MID_ED3_#030,"[Lumera] 
+You must not allow them to capture any more of the rings."
+MID_ED3_#031,Please...I beg of you... Gather together all 12 rings.
+MID_ED3_#032,"And...when your scattered memories return to you, you must 
+fight on with the utmost divinity. I believe in you, my child!"
+MID_ED3_#033,"[Alear] 
+I understand. I'll collect the rings. I swear to you!"
+MID_ED3_#034,"And I'll fight. I'll do whatever you want. 
+But please...don't leave me..."
+MID_ED3_#035,Mother!
+MID_ED3_#036,"[Lumera] 
+Ah... Ah, young one...how I've longed to hear 
+you call me that..."
+MID_ED3_#037,"All those years...I held out hope. My heart 
+is fuller than you could ever know."
+MID_ED3_#038,"[Alear] 
+It can't end like this. You were going to give me that 
+ring once my memories came back... You promised!"
+MID_ED3_#039,"And there...there are so many things you haven't 
+told me yet! You said that we would talk!"
+MID_ED3_#040,"[Lumera] 
+I did... There's still so much I wanted to say to you..."
+MID_ED3_#041,"Being your mother─becoming your mother─ 
+has brought so much happiness into my life."
+MID_ED3_#042,"[Alear] 
+I know...and I'm happy to be your child, in this moment─ 
+here and now─and a thousand years ago. I am."
+MID_ED3_#043,"Don't go... Stay with me until I remember again! 
+Please, Mother─I need more time!"
+MID_ED3_#044,"[Lumera] 
+Haha... Oh, my sweet one."
+MID_ED3_#045,"Now. Let's make a promise... Mother and child. 
+We'll make it a pinky promise. I swear to you..."
+MID_ED3_#045_2,I'll be with you always and forever.
+MID_ED3_#046,"And the ring, remember... Once you've rested... 
+we will talk..."
+MID_ED3_#047,You and I...
+MID_ED3_#048,
+MID_ED3_#049,"[Alear] 
+Mother..."
+MID_ED3_#050,[Lumera]
+MID_ED3_#051,"[Lumera] 
+
+[Alear] 
+No! Please!"
+MID_ED3_#052,"[Vander] 3 
+
+[Vander] 
+This simply cannot have happened... 
+Queen Lumera..."
+MID_ED3_#053,"[Vander] 
+[Alfred] 3 
+[Alfred] 
+The Divine Dragon Queen... She has left us."
+MID_ED3_#054,"[Alfred] 
+
+[Alear] 
+Mother, please wake up..."
+MID_ED3_#055,"You promised you'd stay by my side... You have 
+to... You have to keep your promise!"
+MID_ED3_#056,
+MID_ED4_#001,"[Vander] 1 
+[Alear] 2 
+[Clanne] 3 
+[Framme] 4 
+
+[Alear] 
+Thank you for helping with my mother's funeral."
+MID_ED4_#002,"[Vander] 
+It was the final service we could provide 
+Queen Lumera as stewards."
+MID_ED4_#003,"[Vander] 
+[Framme] 
+I can't believe she's gone."
+MID_ED4_#004,"[Clanne] 
+C'mon, Framme. Think how hard this must be 
+on the Divine Dragon. We gotta hold it together."
+MID_ED4_#005,"[Framme] 
+I'm trying, but..."
+MID_ED4_#006,"[Framme] 
+[Clanne] 
+[Marth] 3 
+[Sigurd] 1 
+[Marth] 
+..."
+MID_ED4_#007,"Lumera. I never thought our paths would 
+diverge so soon."
+MID_ED4_#008,"[Sigurd] 
+Nor I. And to leave a child behind. I did that 
+in death... A bitter memory."
+MID_ED4_#009,"I vow to protect your offspring in your 
+absence, Lumera."
+MID_ED4_#010,"[Marth] 
+If we could grant our power now..."
+MID_ED4_#011,"[Sigurd] 
+Marth. You know that's not possible without the 
+other Emblems here."
+MID_ED4_#012,"[Marth] 
+Yes, yes, I know."
+MID_ED4_#013,"[Marth] 
+
+[Sigurd] 
+[Alfred] 1 
+[Alfred] 
+This is awful. Sorry I couldn't have 
+done...something."
+MID_ED4_#014,"[Vander] 3 
+
+[Vander] 
+No, Prince Alfred. Without you, our losses may 
+have been even greater."
+MID_ED4_#015,"Though I must ask, why did you come? 
+Was there something you needed?"
+MID_ED4_#016,"[Vander] 
+[Alfred] 
+Our kingdom is in danger. My mother sent me 
+to ask Queen Lumera for help."
+MID_ED4_#017,"All over Firene, our people are being attacked 
+by these...these...creatures."
+MID_ED4_#018,"[Alear] 
+Creatures? What kind of creatures?"
+MID_ED4_#019,"[Alfred] 
+These things are like people, but...cracked, 
+almost crumbling."
+MID_ED4_#020,"[Alear] 
+The Corrupted."
+MID_ED4_#021,"[Alfred] 
+Oh, so that's what you call them."
+MID_ED4_#022,"[Alear] 
+Yes. Corpses brought back to life."
+MID_ED4_#023,"[Alfred] 
+No wonder they wouldn't listen to us. They just 
+keep attacking everything."
+MID_ED4_#024,"We sent our knights out to hold them off, but 
+it's a losing battle."
+MID_ED4_#025,My kingdom is being destroyed.
+MID_ED4_#026,Divine One...will you help us?
+MID_ED4_#027,"Please, come with me to Firene."
+MID_ED4_#028,"[Alear] 
+Me? What can I do? It was my mother's help 
+you wanted, not mine."
+MID_ED4_#029,"[Alfred] 
+Queen Lumera is gone. You're the last 
+Divine Dragon."
+MID_ED4_#030,"We need the power of the rings to save Firene. 
+And only you can do that."
+MID_ED4_#031,"[Alear] 
+..."
+MID_ED4_#032,"[Alfred] 
+Sorry. I don't mean to press the topic."
+MID_ED4_#033,I'll return to Firene. We'll...do what we can.
+MID_ED4_#034,"[Alear] 
+I'm coming with you."
+MID_ED4_#035,"[Alfred] 
+You will?!"
+MID_ED4_#036,"[Alear] 
+I don't want more families to be torn apart─ 
+more people to suffer."
+MID_ED4_#037,"Even if I'm scared, I have to push through 
+my fear."
+MID_ED4_#038,"Now that my mother is gone, it's my duty to 
+step into the role of Divine Dragon."
+MID_ED4_#039,"And if each kingdom is protecting rings, I take it 
+Firene has one, correct?"
+MID_ED4_#040,"[Alfred] 
+That's right."
+MID_ED4_#041,"[Alear] 
+Then I need to go there anyway to honor my 
+mother's request."
+MID_ED4_#042,"She asked me to gather all of the rings and 
+bring peace back to Elyos."
+MID_ED4_#043,"As the Divine Dragon, I officially accept the 
+kingdom of Firene's request for aid."
+MID_ED4_#044,"[Alfred] 
+That's great to hear! Thank you, Divine One."
+MID_ED4_#045,"[Alear] 
+Happy to help, Prince Alfred."
+MID_ED4_#046,"[Alfred] 
+Just ""Alfred"" is fine. I've been visiting you at the 
+Somniel since I was a boy."
+MID_ED4_#047,"I think of you as...an old friend. A very, very 
+old friend."
+MID_ED4_#048,"[Alear] 
+I appreciate that. Actually, I can't remember 
+anything from before I fell asleep."
+MID_ED4_#049,"[Alfred] 
+Nothing?"
+MID_ED4_#050,"[Alear] 
+This world is new to me. I appreciate having 
+friends who can teach me about it."
+MID_ED4_#051,"[Alfred] 
+I'll do my best."
+MID_ED4_#052,"Can't say I'll know much compared to Queen 
+Lumera, but I'll try."
+MID_ED4_#053,"[Alear] 
+Thank you, Alfred."
+MID_ED5_#001,"[Vander] 1 
+[Alear] 2 
+
+[Vander] 
+We ought to establish a base of operations 
+before we begin our journey."
+MID_ED5_#002,The Somniel would be uniquely useful.
+MID_ED5_#003,"[Alear] 
+A little out of the way, isn't it?"
+MID_ED5_#004,"I can't imagine how we'd get everyone there 
+and back."
+MID_ED5_#005,"[Vander] 
+As a Divine Dragon, you can travel there no 
+matter where you are in the world."
+MID_ED5_#006,"[Alear] 
+I can?"
+MID_ED5_#007,"[Vander] 
+Indeed. Furthermore, one can only enter the 
+Somniel with a Divine Dragon's power."
+MID_ED5_#008,"Without Queen Lumera's blessing, even we 
+stewards couldn't have set foot there."
+MID_ED5_#009,That is what makes it a safe haven.
+MID_ED5_#010,"[Alear] 
+Well then, yes. Let's use it as our base."
+MID_ED5_#011,"But before we depart, can you give me 
+a moment?"
+MID_ED5_#012,"[Vander] 
+[Vander] Normal 
+Hm?"
+MID_ED5_#013,"[Alear] 
+We'll be gone a while, so...I'd like to say 
+goodbye to my mother."
+MID_ED5_#014,"[Vander] 
+Of course. Take as much time as you need."
+MID_ED5_#015,"[Vander] 
+
+[Alear] 
+..."
+MID_ED5_#016,Thank you for watching over me all this time.
+MID_ED5_#017,"This journey will be a long one, but don't worry. 
+Vander and the others will be right beside me."
+MID_ED5_#018,"I will fulfill my duty as the Divine Dragon. I will 
+find all of the rings, just as you asked."
+MID_ED5_#019,"And then I'll return to you, Mother. I promise."
+MID_ED6_#001,"[Vander] 1 
+[Alear] 2 
+
+[Alear] 
+Here we are, safely returned to the Somniel."
+MID_ED6_#002,I didn't realize how...spacious this place was.
+MID_ED6_#003,"[Vander] 
+It is rather quiet, I know. But it will liven up 
+as we gain allies."
+MID_ED6_#004,"We may need someone to supply us with 
+equipment as well. Something to consider."
+MID_ED6_#005,"[Alear] 
+Right."
+MID_ED6_#006,"[Vander] 
+Oh, by the way, Divine One. Might this 
+be yours?"
+MID_ED6_#007,"[Alear] 
+Hm? A piece of jewelry... I don't recognize it. 
+The crystal looks unusual."
+MID_ED6_#008,Where did you get this?
+MID_ED6_#009,"[Vander] 
+On the ground in the Ring Vault, after the siege."
+MID_ED6_#010,"I thought it might be yours, but apparently 
+I was mistaken."
+MID_ED6_#011,"No one has come forward, so it must have 
+belonged to an enemy soldier. I'll dispose of it."
+MID_ED6_#012,"[Alear] 
+Wait."
+MID_ED6_#013,"It's familiar somehow, even though I've never 
+seen it."
+MID_ED6_#014,"[Vander] 
+Then please, do take it. Perhaps it will help 
+jog your memory."
+MID_ED6_#015,"[Alear] 
+Thank you, Vander."
+MID_ED6_#016,"Once we've rested for a bit, let's set out 
+for Firene."
+MID_EV1_#001,"[Alear] t 
+[Alear] Pain 
+
+[Alear] 
+There are too many of them. We'll never make 
+it to the Ring Vault..."
+MID_EV1_#002,"[Alfred] b 
+( [Alfred] MPID_Unknown 
+[Alfred] StandBy 
+[Alfred] 
+[Alfred] 
+Through this door, right?"
+MID_EV1_#003,"[Alfred] 
+
+[Etie] b 
+&amp; 
+[Etie] MPID_Unknown 
+
+[Etie] StandBy 
+
+[Etie] 
+
+[Etie] 
+Yes. This is the one."
+MID_EV1_#004,"[Etie] 
+
+[Boucheron] b 
+&amp; 
+[Boucheron] MPID_Unknown 
+
+[Boucheron] 
+Angry 
+
+[Boucheron] 
+
+[Boucheron] 
+Then let's go."
+MID_EV1_#005,"[Boucheron] 
+[Alear] Surprise 
+
+[Alear] 
+I hear voices. Someone's coming."
+MID_EV2_#001,"[Alear] t 
+
+[Alear] 
+Prince Alfred of...Firene, you said?"
+MID_EV2_#002,"[Alfred] b 
+[Alfred] Surprise 
+[Alfred] 
+Could it be? Are you the Divine 
+Dragon ?"
+MID_EV2_#003,You finally woke up?!
+MID_EV2_#004,"[Alear] Surprise 
+
+[Alear] 
+I did, yes."
+MID_EV2_#005,"[Alfred] 
+Smile 
+[Alfred] 
+That's amazing! You know, I've waited ages for 
+this to happen."
+MID_EV2_#006,"[Alfred] Normal 
+There's so much to talk about. Later, of course. 
+After we've taken care of these scoundrels."
+MID_EV2_#007,"Who are they, anyway?"
+MID_EV2_#008,"[Alear] Normal 
+
+[Alear] 
+We're not sure. They attacked so suddenly."
+MID_EV2_#009,"[Alfred] 
+Well, let's do this quickly─pin down whoever's 
+in charge and get some answers."
+MID_EV2_#010,"[Alfred] Strike 
+Oh, these are my retainers, Etie and Boucheron. 
+From now on, consider us at your disposal."
+MID_EV2_#011,"Lead the way, Divine One!"
+MID_EV2_#012,"[Alear] 
+Smile 
+
+[Alear] 
+Thank you for your help."
+MID_EV3_#001,"[Boucheron] t 
+
+[Boucheron] Status 
+
+[Boucheron] 
+Sorry, Divine One─I didn't have a chance to 
+introduce myself. My name's Boucheron."
+MID_EV3_#002,"If I'm near an enemy you're fighting, I can jump 
+in and land another hit on them."
+MID_EV3_#003,"[Boucheron] StandBy 
+Call on me if you need some extra oomph."
+MID_EV4_#001,"[Etie] t 
+
+[Etie] 
+Smile 
+
+[Etie] 
+It's an honor to meet you, Divine One. I'm Etie."
+MID_EV5_#001,"[Etie] t 
+
+[Etie] Status 
+
+[Etie] 
+My arrows are perfect for knocking airborne 
+enemies out of the sky."
+MID_EV5_#002,"[Etie] 
+Smile 
+With these muscles, I'll have those fliers 
+dropping like flies!"
+MID_MOVIE1_#001,"[Lumera] 
+Why are...you here alone?"
+MID_MOVIE1_#002,"[Alear] 
+Hehe..."
+MID_MOVIE2_#001,"[Alfred] 
+Made it! And not a moment too soon..."
+MID_MOVIE2_#002,The Crown Prince Alfred of Firene is here to help.
+MID_MOVIE2_#002_2,Let me at 'em!
+MID_MOVIE3_#001,Time to die.
+MID_MOVIE3_#002,Look out!
+MID_MOVIE3_#003,Ah!
+MID_MOVIE3_#004,"Now, why don't you hand the rings over to me."
+MID_MOVIE3_#005,Leave here at once!
+MID_MOVIE3_#006,Hm.
+MID_OP1_#001,"[Alear] 2 
+
+[Alear] 
+..."
+MID_OP1_#002,What was that? Was that me?
+MID_OP1_#003,"[Marth] 1 
+[Marth] 
+Are you all right? It looked as though you were 
+having a bad dream."
+MID_OP1_#004,"[Alear] 
+I was. But yes, I'm all right."
+MID_OP1_#005,Were you here this whole time?
+MID_OP1_#006,"[Marth] 
+You were wearing my ring when you went 
+to bed."
+MID_OP1_#007,"[Alear] 
+Oh, I'm sorry. I forgot to take it off."
+MID_OP1_#008,"[Marth] 
+That's all right. Keep it on. Then if something 
+happens, I will be able to help."
+MID_OP1_#009,"Besides, after a millennium together, I would 
+feel uncomfortable if we were separated now."
+MID_OP1_#010,"[Alear] 
+Marth... What was I like?"
+MID_OP1_#011,"[Marth] 
+Hmm..."
+MID_OP1_#012,"[Alear] 
+You knew me back then. You must be able to 
+tell me something."
+MID_OP1_#013,"[Marth] 
+Well..."
+MID_OP1_#014,"You were kind, as you are now. There's no need 
+to remember everything at once."
+MID_OP1_#015,"Take your time. Ease back into your memories. 
+Lumera advised that, too, didn't she?"
+MID_OP1_#016,"[Alear] 
+Yes, she did. Sorry─I don't mean to 
+be impatient."
+MID_OP1_#017,"[Marth] 
+It's all right."
+MID_OP1_#018,...
+MID_OP1_#019,"[Alear] 
+What was that?"
+MID_OP1_#020,"[Marth] 
+I'm not sure. An enemy raid?"
+MID_OP1_#021,"We had best take a look. I'm worried about 
+Lumera and the others."
+MID_OP1_#022,"[Alear] 
+Agreed."
+MID_OP2_#001,"TS 
+
+[Vander] 1 
+[Alear] 2 
+[Framme] 3 
+[Clanne] 4 
+
+[Alear] 
+Vander! Clanne! Framme!"
+MID_OP2_#002,"[Vander] 
+Ah, Divine One! Thank goodness you're safe."
+MID_OP2_#003,"[Alear] 
+What's happening? Tell me."
+MID_OP2_#004,"[Framme] 
+Some enemies busted right through the castle 
+walls like paper. Suddenly, BAM! They're here!"
+MID_OP2_#005,"[Clanne] 
+What's worse, they fought their way into the Ring Vault. If you 
+ask me, they're trying to get their hands on the Emblem Rings!"
+MID_OP2_#006,"[Vander] 
+Even as we speak, Queen Lumera is defending 
+the vault."
+MID_OP2_#006_2,"[Vander] 
+Quickly! We must fly to her aid!"
+MID_OP2_#007,"[Alear] 
+Sounds like a plan. Follow me!"

@@ -1,0 +1,888 @@
+﻿key,text
+MID_BT10_#001,"M021_グリ b 
+M021_グリ Pain 
+M021_グリ 
+Death means no more pain. And who 
+needs that?"
+MID_BT1_#001,"M021_ヴェイル b 
+M021_ヴェイル 
+Smile 
+M021_ヴェイル 
+Who are you looking at? The me in front 
+of you? Or the me from before?"
+MID_BT2_#001,"M021_ヴェイル b 
+M021_ヴェイル 
+Smile 
+M021_ヴェイル 
+Oh, how I wanted to find you. How I wanted to 
+kill you."
+MID_BT2_#002,"M021_ヴェイル 
+Angry 
+Queen Lumera's pet. The whimpering, pathetic 
+worm. You are not my sibling."
+MID_BT2_#003,"[Alear] t 
+[Alear] Strike 
+
+[Alear] 
+And you're not mine. Veyle is. Give her back."
+MID_BT2_#004,"M021_ヴェイル 
+I am Veyle! And I'll prove it─here and now─by 
+destroying you!"
+MID_BT3_#001,"M021_ヴェイル b 
+M021_ヴェイル 
+Smile 
+M021_ヴェイル 
+Ah! My loyal knight, Mauvier. Aren't you going 
+to protect me anymore?"
+MID_BT3_#002,"[Mauvier] t 
+[Mauvier] 
+Angry 
+[Mauvier] 
+My time with the Four Hounds is behind me. 
+I will not protect you."
+MID_BT3_#003,"M021_ヴェイル Sad 
+M021_ヴェイル 
+Same as ever, Mauvier. You won't acknowledge 
+me. You won't even say my name."
+MID_BT3_#004,"M021_ヴェイル 
+Smile 
+Well, don't worry, I haven't forgotten your 
+reward. How about a swift death?"
+MID_BT3_#005,"[Mauvier] Die 
+[Mauvier] 
+I will sacrifice anything─everything─to save 
+Lady Veyle from you."
+MID_BT3_#006,"[Mauvier] Strike 
+Give me strength, Marni!"
+MID_BT4_#001,"M021_ヴェイル b 
+M021_ヴェイル Pain 
+M021_ヴェイル 
+I... I..."
+MID_BT5_#001,"M021_セピア b 
+M021_セピア 
+It's nothing personal. I'm merely following 
+Lady Veyle's orders."
+MID_BT6_#001,"M021_セピア b 
+M021_セピア Sad 
+M021_セピア 
+It is a sad day that I must fight you, Mauvier."
+MID_BT6_#002,"M021_セピア 
+Angry 
+And here I thought we were family..."
+MID_BT6_#003,"[Mauvier] t 
+[Mauvier] Strike 
+[Mauvier] 
+Family?! You killed Marni!"
+MID_BT6_#004,"[Mauvier] 
+Angry 
+I should have stepped in sooner. Then Lady 
+Veyle and Marni might have had a chance..."
+MID_BT7_#001,"M021_セピア b 
+M021_セピア Pain 
+M021_セピア 
+Perhaps you do have what it takes..."
+MID_BT8_#001,"M021_グリ b 
+M021_グリ 
+Relax 
+M021_グリ 
+Two hounds or four, doesn't matter to me. 
+I'll fight, and that's that."
+MID_BT9_#001,"M021_グリ b 
+M021_グリ Normal 
+M021_グリ 
+If it isn't the traitor. Don't worry, you'll see 
+Marni soon."
+MID_BT9_#002,"[Mauvier] t 
+[Mauvier] 
+Angry 
+[Mauvier] 
+How dare you speak her name!"
+MID_BT9_#003,"[Mauvier] Strike 
+I will kill you quickly. You'll be buried before 
+you feel any pain."
+MID_ED1_#001,"[Alear] 2 
+ヴェイル_黒_善 1 
+ヴェイル_黒_善 
+What... What's happening?"
+MID_ED1_#002,"Why are you here, ?"
+MID_ED1_#003,"[Alear] 
+Veyle? Veyle! It's really you, isn't it?!"
+MID_ED1_#004,"[Alear] 
+ヴェイル_黒_善 
+[Zephia] 1 
+[Zephia] 
+This doesn't make sense. Her changing back 
+wasn't supposed to be possible..."
+MID_ED1_#005,The enchanted helmet... It's cracked!
+MID_ED1_#006,"[Zephia] 
+[Mauvier] 2 
+[Mauvier] 
+Marni's attack worked?"
+MID_ED1_#007,Marni... Such bravery.
+MID_ED1_#008,"[Mauvier] 
+[Alear] 2 
+ヴェイル_黒_善 1 
+ヴェイル_黒_善 
+Where...are we?"
+MID_ED1_#009,"[Alear] 
+Lythos Castle. You've been under Zephia's 
+control."
+MID_ED1_#010,"ヴェイル_黒_善 
+My head hurts...really bad. And─ Wait a second. 
+What am I...wearing?"
+MID_ED1_#011,And...where did I get this ring?
+MID_ED1_#012,"This is yours, right? I remember... We were near 
+the cathedral. You said it was important to you."
+MID_ED1_#013,"Here. Please, take this."
+MID_ED1_#014,"[Alear] 
+Thank you, Veyle."
+MID_ED1_#015,"ヴェイル_黒_善 
+[Sombron] 1 
+
+[Sombron] 
+I will not allow it."
+MID_ED1_#016,"[Alear] 
+..."
+MID_ED2_#001,"Default 
+[Alear] 2 
+[Veyle] 1 
+
+[Veyle] 
+Why did you do that?! You shouldn't have 
+jumped in front of me, !"
+MID_ED2_#002,"[Alear] 
+I did what I...had to do...to keep you out of 
+harm's way."
+MID_ED2_#003,"I wanted to make up for all the times I couldn't 
+protect you. All the times I wasn't there for you..."
+MID_ED2_#004,"I'm so sorry...Veyle...for all those awful things 
+I said."
+MID_ED2_#005,"[Veyle] 
+I don't care! I don't care about that! Please, don't die!"
+MID_ED2_#006,"[Alear] 
+It'll be all right... There's still so...much I have to do..."
+MID_ED2_#006_2,"[Alear] 
+I can't die until I've told you everything..."
+MID_ED2_#007,There's still...too much left unsaid... Who I...am.
+MID_ED2_#007_2,"Listen, Veyle, I'm your..."
+MID_ED2_#008,
+MID_ED2_#009,"[Alear] 
+
+[Veyle] 
+? Huh? No, you can't... 
+Don't leave me!"
+MID_ED2_#010,"Don't leave me, !"
+MID_ED2_#011,"[Sombron] 2 
+
+[Sombron] 
+Now there is nothing to stand in my way."
+MID_ED2_#012,"[Vander] 3 
+
+[Vander] 
+The Divine Dragon...is gone. That I should see this day..."
+MID_ED2_#013,"[Vander] 
+[Alfred] 3 
+[Alfred] 
+But how... How could this..."
+MID_ED2_#014,"[Alfred] 
+
+[Veyle] 
+Wait, the dragonstone!"
+MID_ED2_#014_2,"[Alfred] 
+
+[Veyle] 
+But why would..."
+MID_ED2_#015,"[Sombron] 
+This wayward creature was another of my children."
+MID_ED2_#015_2,"[Sombron] 
+The one you've been searching for all this time."
+MID_ED2_#015_3,"[Sombron] 
+Your brother."
+MID_ED2_#015_F,"[Sombron] 
+This wayward creature was another of my children."
+MID_ED2_#015_F_2,"[Sombron] 
+The one you've been searching for all this time."
+MID_ED2_#015_F_3,"[Sombron] 
+Your sister."
+MID_ED2_#016,"[Veyle] 
+Huh?"
+MID_ED2_#017,"[Sombron] 
+The Divine Dragon took the traitor in after the 
+events of the last war. Thus the fool did survive."
+MID_ED2_#018,"No child of mine should live as a Divine Dragon. 
+Death was this one's inexorable fate."
+MID_ED2_#019,"[Veyle] 
+No... But the stone shouldn't break... The stone 
+shouldn't shatter unless..."
+MID_ED2_#020,All that time...you were my brother...
+MID_ED2_#020_2,I found you... I finally found you!
+MID_ED2_#020_F,All that time...you were my sister...
+MID_ED2_#020_F_2,I found you... I finally found you!
+MID_ED2_#021,"Please, don't be gone─I need to talk to you! I don't 
+understand why you would sacrifice yourself for me!"
+MID_ED2_#022,
+MID_ED2_#023,"[Sombron] 
+Such pathetic children. All 12 of the rings are 
+finally in my possession."
+MID_ED2_#024,"[Veyle] 
+No! Give them back! Now! Those rings belong to 
+my brother!"
+MID_ED2_#024_F,"[Veyle] 
+No! Give them back! Now! Those rings belong to 
+my sister!"
+MID_ED2_#025,Their friends fought so hard even to make it here!
+MID_ED2_#026,"[Sombron] 
+Yet, for all of that...I control the Emblem Rings."
+MID_ED2_#027,"Together, their power is so great... Granted once 
+every thousand years!"
+MID_ED2_#027_2,"And now, that unrivaled power is mine!"
+MID_ED3_#001,"[Vander] 1 
+ヴェイル_黒_善 2 
+
+[Vander] 
+Impossible. Gradlon...restored..."
+MID_ED3_#002,"ヴェイル_黒_善 
+Papa, where are you going? You've destroyed 
+everything. You killed your own child."
+MID_ED3_#003,This is what you wanted?
+MID_ED3_#004,"[Vander] 
+[Zephia] 1 
+[Zephia] 
+Looks like it's over for you all, hm?"
+MID_ED3_#005,"ヴェイル_黒_善 
+Zephia!"
+MID_ED3_#006,"[Zephia] 
+Lady Defect. You survived here only because 
+of all those who came to your aid."
+MID_ED3_#007,"What a shame...because now it's time for you to 
+say farewell."
+MID_ED3_#008,"ヴェイル_黒_善 
+Farewell?"
+MID_ED3_#009,M-my head!
+MID_ED3_#010,"[Mauvier] 4 
+[Mauvier] 
+Lady Veyle?!"
+MID_ED3_#011,"ヴェイル_黒_善 
+I don't...want...her to have control!"
+MID_ED3_#012,"[Mauvier] 
+But Marni broke the helmet!"
+MID_ED3_#013,"[Zephia] 
+Oh, Mauvier. Simple, simple Mauvier. It was only 
+cracked. That certainly weakened it..."
+MID_ED3_#014,"But with Lord Sombron's elevation to power, 
+the helmet works far better than before."
+MID_ED3_#015,"[Mauvier] 
+..."
+MID_ED3_#016,"[Zephia] 
+Lady Veyle? Come on out. Join us, if 
+you would..."
+MID_ED3_#017,"ヴェイル_黒_悪 2 
+ヴェイル_黒_悪 
+Ngh... Ah!"
+MID_ED3_#018,Hahaha!
+MID_ED3_#019,"[Mauvier] 
+No!"
+MID_ED3_#020,"ヴェイル_黒_悪 
+Father! Hahaha! What power! You've finally 
+done it."
+MID_ED3_#021,"I wanted to kill the Divine Dragon myself, but... 
+oh well."
+MID_ED3_#022,"[Zephia] 
+Lady Veyle... Lord Sombron will gladly welcome 
+you as his daughter now."
+MID_ED3_#023,"[Griss] 3 
+[Griss] 
+Good to see you back. Would've had to kill 
+you otherwise."
+MID_ED3_#024,"ヴェイル_黒_悪 
+Zephia, Griss, return to Father. I'll catch up 
+with you soon."
+MID_ED3_#025,"[Zephia] 
+Of course."
+MID_ED3_#026,"[Griss] 
+Yeah, I figured you'd say that."
+MID_ED3_#027,"[Zephia] 
+[Griss] 
+ヴェイル_黒_悪 
+[Mauvier] 
+ヴェイル_黒_悪 1 
+ヴェイル_黒_悪 
+As for all of you. Death is inevitable. But I'd like 
+this mess dealt with now."
+MID_ED3_#028,Clean this up for me. Leave no one alive.
+MID_ED3_#029,"[Diamant] 2 
+[Diamant] 
+The Corrupted! And more than we can handle 
+on our own!"
+MID_ED3_#030,"[Timerra] 4 
+
+[Timerra] 
+We don't even have our rings..."
+MID_ED3_#031,"ヴェイル_黒_悪 
+Rings? They'd be useless to you. The Divine 
+Dragon is dead."
+MID_ED3_#032,"None of you have the ability to 
+summon Emblems."
+MID_ED3_#033,"[Diamant] 
+[Ivy] 2 
+
+[Ivy] 
+This is the end... We have no way out."
+MID_ED3_#034,"ヴェイル_黒_悪 
+So, who wants to die first? There's no need 
+for any of you to squirm or struggle."
+MID_ED3_#035,"You're all about to join your beloved 
+""Divine Dragon,"" ."
+MID_ED3_#036,"[Ivy] 
+[Alfred] 2 
+[Alfred] 
+Are we all going to die here?"
+MID_ED3_#037,"There must be something we can do! 
+Please, !"
+MID_EV1_#001,"[Mauvier] t 
+[Mauvier] 
+Angry 
+[Mauvier] 
+Divine One... I am with you from this 
+day forward!"
+MID_MOVIE1_#001,"[Sombron] 
+Heed me well, O defective daughter of mine."
+MID_MOVIE1_#002,"[Veyle] 
+Papa..."
+MID_MOVIE1_#003,"[Sombron] 
+My goal is so close I can taste it, but their kindness 
+makes you weak."
+MID_MOVIE1_#003_2,"[Sombron] 
+Now go, and reclaim my Emblem Rings at once!"
+MID_MOVIE1_#004,"[Veyle] 
+I won't!"
+MID_MOVIE1_#005,"[Sombron] 
+So I see. That is a shame."
+MID_MOVIE1_#006,"Well, then...there is nothing more you can do for me."
+MID_MOVIE1_#006_2,"And I have never been in the habit...of keeping 
+that which has no value."
+MID_MOVIE1_#007,"[Veyle] 
+Ah!"
+MID_MOVIE1_#008,"[Alear] 
+Veyle!"
+MID_MOVIE1_#009,"[Veyle] 
+..."
+MID_MOVIE1_#010,"[Alear] 
+Aaah! Ngh... Ugh..."
+MID_MOVIE1_#011,"[Veyle] 
+No!"
+MID_MOVIE1_#012,"[Sombron] 
+My foolish child."
+MID_MOVIE1_#013,Twice now have I struck you down.
+MID_MOVIE1_#013_2,"But I promise you...no amount of sleep will bring 
+you back from this moment."
+MID_MOVIE1_#014,This time...
+MID_MOVIE1_#014_2,your defeat is final.
+MID_MOVIE2_#002,"[Sombron] 
+Heed me, Emblem Rings... Grant me infinite power!"
+MID_MOVIE2_#004,
+MID_MOVIE2_#006,"Gradlon, rise up... Rise up once again!"
+MID_MOVIE2_#009,Hahahaha...
+MID_OP1_#001,"[Alear] 2 
+[Mauvier] 4 
+[Mauvier] 
+Our ship is docked here."
+MID_OP1_#002,"[Alear] 
+Thank you for escorting us."
+MID_OP1_#003,"[Marni] 1 
+[Marni] 
+Mauvier! All ready, like you asked! Feel free to 
+tell me how great I am! Wait a minute."
+MID_OP1_#004,What's the Divine Dragon doing here?!
+MID_OP1_#005,"[Alear] 
+Marni?"
+MID_OP1_#006,"[Marni] 
+What do you want?! We don't have any 
+more rings!"
+MID_OP1_#007,"[Mauvier] 
+There are circumstances that require we travel 
+together to Lythos."
+MID_OP1_#008,"[Marni] 
+Huh?!"
+MID_OP1_#009,"[Mauvier] 
+Divine Dragon. After Marni and I lost the rings, 
+Zephia disciplined us...to an unjust extreme."
+MID_OP1_#010,"So, on my honor, I will not betray you once 
+at sea. I will deliver you safely to Lythos."
+MID_OP1_#011,Will you trust me?
+MID_OP1_#012,"[Alear] 
+I will. Take us to Lythos."
+MID_OP1_#013,"[Marni] 
+What?! Why would you help them?! They're 
+not our friends. They're enemies!"
+MID_OP1_#014,"[Mauvier] 
+The Divine Dragon should meet with 
+Lady Veyle."
+MID_OP1_#015,"[Alear] 
+We have no reason to fight. As long as you 
+don't start trouble."
+MID_OP1_#016,"[Marni] 
+I know a threat about not threatening people 
+when I hear one. Mauvier! What's happening?!"
+MID_OP1_#017,"[Mauvier] 
+You will hear details once we're aboard. If that 
+is unsatisfactory, then you may remain here."
+MID_OP1_#018,"[Marni] 
+Hey! What?! Fine! Fine. OK?"
+MID_OP1_#019,"Temporary truce until I get back to Zephia 
+and the others in Lythos."
+MID_OP1_#020,"[Mauvier] 
+So be it. Let us go, Divine Dragon."
+MID_OP1_#021,"[Alear] 
+OK."
+MID_OP2_#001,"[Alear] 2 
+[Mauvier] 1 
+[Marni] 3 
+[Marni] 
+You're Lord Sombron's child?! What?!"
+MID_OP2_#002,"[Alear] 
+Yes."
+MID_OP2_#003,"[Marni] 
+So that means...you're the sibling Lady Veyle 
+has been looking for all along?!"
+MID_OP2_#004,"And that's why we're headed to Lythos... 
+Hang on. Does Griss know about this?"
+MID_OP2_#005,"[Alear] 
+He's the one who told me."
+MID_OP2_#006,"[Mauvier] 
+Griss picked a fight at Elusia Castle to verify the 
+truth, even surrendering a ring to do so."
+MID_OP2_#007,"[Marni] 
+What?! Nobody told me that was the plan!"
+MID_OP2_#008,"[Alear] 
+Why are Sombron and Veyle going to Lythos?"
+MID_OP2_#009,"[Mauvier] 
+It's about Gradlon, the Fell Dragon's land lost 
+under the sea. He intends to restore it."
+MID_OP2_#010,"[Vander] 4 
+
+[Vander] 
+To restore that unholy land?! My word."
+MID_OP2_#011,"[Alear] 
+What more do you know about this, Vander?"
+MID_OP2_#012,"[Vander] 
+Gradlon sank beneath the waves one thousand 
+years ago."
+MID_OP2_#013,"It was, of course, Sombron's land."
+MID_OP2_#014,"Gradlon was a wicked place─one as much 
+as Lythos is holy."
+MID_OP2_#015,"[Vander] 
+[Mauvier] 
+To raise and revive it, Sombron needs to 
+destroy the Divine Dragon Shard in Lythos."
+MID_OP2_#016,"That shard is what chains Gradlon beneath the 
+waves. Lord Sombron finds it...problematic."
+MID_OP2_#017,"[Alear] 
+So, you're saying that Sombron's greatest 
+desire...is to restore Gradlon?"
+MID_OP2_#018,"[Mauvier] 
+Far from it. His desire─if such a word is fitting 
+for Lord Sombron─is to invade other worlds."
+MID_OP2_#019,"[Alear] 
+Other worlds?!"
+MID_OP2_#020,"[Mauvier] 
+The continent of Elyos is only a stepping-stone. 
+He plans to extend himself─everywhere."
+MID_OP2_#021,"[Alear] 
+There are other worlds, and he wants to rule 
+them all. How is that even possible?"
+MID_OP2_#022,"[Mauvier] 
+I'm well beyond what I know for certain. Lord 
+Sombron has shared little of this with me."
+MID_OP2_#023,"I can say Lady Veyle is a pawn in service of 
+his greater ambitions."
+MID_OP2_#024,"[Alear] 
+Please, tell me anything more you know."
+MID_OP2_#025,"I've heard that Veyle's called a defect. What 
+does that even mean?"
+MID_OP2_#026,"[Mauvier] 
+Well, as a start, dragon royalty should be able to 
+summon Emblems. She cannot."
+MID_OP2_#027,"Lord Sombron learned this recently, soon after 
+his revival, when reunited with Lady Veyle."
+MID_OP2_#028,"His children all fought in the war. But she, his 
+youngest, never saw battle─or any Emblems."
+MID_OP2_#029,"[Alear] 
+She told me we met once, all that time ago."
+MID_OP2_#030,"[Mauvier] 
+You were among her many siblings. They all, 
+in time, died fighting in the war."
+MID_OP2_#031,All...save for you.
+MID_OP2_#032,"[Alear] 
+..."
+MID_OP2_#033,"[Mauvier] 
+Then Sombron was imprisoned and Lady 
+Veyle's mother died, leaving her alone."
+MID_OP2_#034,"She could find no friends in an age when it was 
+rumored a last Fell Dragon child had survived."
+MID_OP2_#035,"Lady Veyle lived in hiding, knowing that─were 
+she discovered─she would be killed."
+MID_OP2_#036,"[Alear] 
+A thousand years, living like that... All alone 
+that whole time?"
+MID_OP2_#037,"[Mauvier] 
+Not exactly. A few centuries ago, she came into 
+contact with worshippers of the Fell Dragon..."
+MID_OP2_#038,"In their care, she slept in a hidden temple─until 
+Lord Sombron's release."
+MID_OP2_#039,"She had been, long ago, close with those in 
+that temple. But when she recently awoke..."
+MID_OP2_#040,"[Alear] 
+They were all dead, weren't they..."
+MID_OP2_#041,"[Mauvier] 
+So, Lady Veyle was relieved, even overjoyed, 
+to find herself reunited with Lord Sombron."
+MID_OP2_#042,"He detested her and proclaimed her a defect 
+lacking a Fell Dragon's abilities and character."
+MID_OP2_#043,"Sombron required her obedience, however, so 
+he ordered Zephia to tamper with her nature."
+MID_OP2_#044,"Lady Veyle may have thought she was no longer 
+alone, but she's never been more so...ever."
+MID_OP2_#045,"[Alear] 
+How awful..."
+MID_OP2_#046,"[Marni] 
+..."
+MID_OP2_#047,"[Mauvier] 
+What is it, Marni? Is it the waves? Are 
+you seasick?"
+MID_OP2_#048,"[Marni] 
+No! I'm trying not to cry! But...I never knew 
+Lady Veyle's life was so sad."
+MID_OP2_#049,"I thought I was the one with the tragic story. 
+I should've maybe been nicer to her, probably."
+MID_OP2_#050,"[Mauvier] 
+You have never told me of your past, Marni."
+MID_OP2_#051,"[Marni] 
+I mean, you know, happens all the time... I was 
+just abandoned by my mom, that's all."
+MID_OP2_#052,"I had a lot─a lot─of brothers, and she decided 
+she didn't need a girl."
+MID_OP2_#053,"Which is weird since I was way superior to 
+those useless jerks, even back then..."
+MID_OP2_#054,"I mean, I was better at helping her, but she 
+never said thank you or good job...or anything."
+MID_OP2_#055,"The first time we went for a walk, just us, was 
+so she could find somewhere to dump me."
+MID_OP2_#056,"Imagine, my hand in hers, and we're strolling 
+from place to place. She left me at a church."
+MID_OP2_#057,"[Alear] 
+I can't believe it..."
+MID_OP2_#058,"[Marni] 
+It's fine! The priest was nice. Long as I helped 
+free Lord Sombron, I got lots of thank-yous."
+MID_OP2_#059,"Eventually, I met Zephia and joined the Hounds. 
+See? Lady Veyle's story is so much sadder."
+MID_OP2_#060,"[Mauvier] 
+Zephia filled out the Four Hounds with devout 
+followers of the Fell Dragon."
+MID_OP2_#061,"[Alear] 
+Did that include you, Mauvier?"
+MID_OP2_#062,"[Mauvier] 
+Yes. I was there at the hidden temple where 
+Lady Veyle slept. When she awoke..."
+MID_OP2_#063,"I was there to speak with her. She, a royal 
+dragon, asked me to be her friend."
+MID_OP2_#064,"I said it was impossible. Lady Veyle then asked 
+if I could offer my service to her as a knight."
+MID_OP2_#065,"[Alear] 
+And you accepted."
+MID_OP2_#066,"[Mauvier] 
+That I could not refuse."
+MID_OP2_#067,"[Marni] 
+It's a big deal to be hand-picked like that, 
+by royalty. Who woulda thought!"
+MID_OP2_#068,"You, made her knight? That's just cool. I mean 
+that, Mauvier. That's really cool."
+MID_OP2_#069,"[Mauvier] 
+Should you wish, I am sure Lady Veyle would 
+also accept you as her knight."
+MID_OP2_#070,"[Marni] 
+What? No way. I don't wanna work with you 
+that much. No praise, no thank-yous. I hate you."
+MID_OP2_#071,"[Mauvier] 
+Is that so?"
+MID_OP2_#072,"[Marni] 
+Besides, I already belong somewhere. I need to 
+get back to Zephia."
+MID_OP2_#073,"Since you're helping the Divine Dragon, you're 
+probably gonna get kicked out of the Hounds."
+MID_OP2_#074,"[Mauvier] 
+I expect as much."
+MID_OP2_#075,"[Marni] 
+Yeah, well, I like being one of the Four Hounds. 
+As soon as we're off this boat, we're enemies."
+MID_OP2_#076,"[Mauvier] 
+You do hate me, after all. So surely, you'll 
+be happier."
+MID_OP2_#077,"[Marni] 
+Right, so... Yes. I'm done talking. This is a 
+waste of my time."
+MID_OP2_#078,"[Marni] 
+
+[Alear] 
+Mauvier, thank you for telling us all of that."
+MID_OP2_#079,"When we find Veyle, I hope you will do what 
+you think is best for her."
+MID_OP2_#080,Even if that means we'll cross blades again.
+MID_OP2_#081,"[Mauvier] 
+I shall."
+MID_OP3_#001,"[Alear] 2 
+
+[Vander] 1 
+
+[Alear] 
+What's happened to Lythos? The land─it's 
+fallen to rot and ruin."
+MID_OP3_#002,"[Vander] 
+A sure sign of Gradlon's return, or that our foes 
+are now destroying the Divine Dragon Shard."
+MID_OP3_#003,"[Alear] 
+We have to stop Sombron. Where is the shard?"
+MID_OP3_#004,"[Vander] 
+It's in the castle─Queen Lumera's home."
+MID_OP3_#005,"[Alear] 
+Who would have thought we'd return here 
+to see everything...come to this."
+MID_OP4_#001,"[Alear] 2 
+
+[Alear] 
+I know you're here, Sombron! Show yourself!"
+MID_OP4_#002,"[Zephia] 1 
+[Zephia] 
+Ah, the Divine Dragon has arrived."
+MID_OP4_#003,"Or should I call you the ""Divine Impostor""?"
+MID_OP4_#004,"[Alear] 
+..."
+MID_OP4_#005,"[Zephia] 
+You've arrived earlier than expected. How did 
+you know where to find us?"
+MID_OP4_#006,"My other two children haven't even caught 
+up to us yet..."
+MID_OP4_#007,"[Alear] 
+[Mauvier] 2 
+[Marni] 4 
+[Mauvier] 
+I assume you mean us."
+MID_OP4_#008,"[Griss] 3 
+[Griss] 
+Why are you with them?!"
+MID_OP4_#009,"[Zephia] 
+You two brought them here? And betrayed us? 
+Unbelievable."
+MID_OP4_#010,"[Marni] 
+Please, no! You have it wrong!"
+MID_OP4_#011,"[Griss] 
+Wrong?! Tch, looks pretty clear to me."
+MID_OP4_#012,"[Mauvier] 
+This is my doing. I want Lady Veyle to meet 
+with the Divine Dragon."
+MID_OP4_#013,"I might have even forced them to come. But it 
+wasn't necessary. Marni had no part in this."
+MID_OP4_#014,"[Marni] 
+Mauvier..."
+MID_OP4_#015,"[Mauvier] 
+Return to the Hounds, Marni."
+MID_OP4_#016,"[Marni] 
+B-but..."
+MID_OP4_#017,"[Mauvier] 
+Do not hesitate. Go. Now!"
+MID_OP4_#018,"[Marni] 
+[Zephia] 
+Marni, welcome back. But, Mauvier, what will 
+we do with you?"
+MID_OP4_#019,"I'm willing to forgive and forget, if you can 
+explain yourself. We are family, after all."
+MID_OP4_#020,"[Mauvier] 
+What nonsense. I know you're going to punish 
+me. But Lady Veyle will see the Divine Dragon."
+MID_OP4_#021,"[Zephia] 
+You rude, self-serving..."
+MID_OP4_#022,"[Griss] 
+[Veyle] 3 
+
+[Veyle] 
+I don't mind. I was just thinking I'd like to talk 
+to the Divine Dragon myself."
+MID_OP5C_#001,"[Marni] 
+HYAAAH!"
+MID_OP5C_#002,...
+MID_OP5C_#003,"[Veyle] 
+Marni, that was simply pathetic. An attack like that 
+couldn't put a scratch on Father's gift."
+MID_OP5C_#004,"[Marni] 
+I swung with all my strength, and it did nothing?"
+MID_OP5C_#005,"[Veyle] 
+I take it you were trying to free me, fool that you are. 
+But as it turns out, you have failed in your attempt."
+MID_OP5C_#006,"[Marni] 
+No..."
+MID_OP5C_#007,"[Zephia] 
+I ordered you to stop, did I not?"
+MID_OP5C_#008,Such a bad girl.
+MID_OP5C_#009,"[Marni] 
+I..."
+MID_OP5C_#010,"[Alear] 4 
+
+[Alear] 
+..."
+MID_OP5C_#011,"[Zephia] 
+You are a very naughty child. If only you had 
+done as I had said..."
+MID_OP5C_#012,"[Marni] 
+Ze...phi...a..."
+MID_OP5C_#013,"[Marni] 
+
+[Alear] 
+[Mauvier] 4 
+[Mauvier] 
+Marni!"
+MID_OP5C_#014,"[Marni] 2 
+[Marni] 
+Mauvier..."
+MID_OP5C_#015,"I'm sorry... I tried to save her, but...in the end, 
+I guess...I wasn't strong enough."
+MID_OP5C_#016,"If she's...ever her old self again...will you tell her 
+something for me?"
+MID_OP5C_#017,"Please tell her that...she's done...so well, huh?"
+MID_OP5C_#018,...
+MID_OP5C_#019,"[Mauvier] 
+Don't go... Please! Marni!"
+MID_OP5C_#020,"[Marni] 
+..."
+MID_OP5C_#021,"[Marni] 
+[Zephia] 
+Aw, did she die in your arms? How very tragic..."
+MID_OP5C_#022,"[Veyle] 
+
+[Griss] 1 
+[Griss] 
+What a waste. Got killed for nothing."
+MID_OP5C_#023,"[Mauvier] 
+AAAH!"
+MID_OP5_#001,"[Alear] 2 
+ヴェイル_黒_悪 1 
+[Mauvier] 4 
+
+[Alear] 
+Veyle? What's happened to you?"
+MID_OP5_#002,"ヴェイル_黒_悪 
+Hehehe... It's good to see you again."
+MID_OP5_#003,"[Mauvier] 
+What did you do to Lady Veyle?"
+MID_OP5_#004,"[Zephia] 3 
+[Zephia] 
+I told you about Lord Sombron's enchanted 
+helmet. My spell has now truly taken hold."
+MID_OP5_#005,"[Alear] 
+Veyle, do you know who I am?!"
+MID_OP5_#006,"ヴェイル_黒_悪 
+Why, you're my dear long-lost brother. 
+What a happy reunion."
+MID_OP5_#006_F,"ヴェイル_黒_悪 
+Why, you're my dear long-lost sister. 
+What a happy reunion."
+MID_OP5_#007,"[Alear] 
+..."
+MID_OP5_#008,"[Alear] 
+[Mauvier] 
+[Marni] 2 
+[Marni] 
+What the... This is what you've been trying to 
+do to her? Can the other Lady Veyle return?"
+MID_OP5_#009,"[Zephia] 
+No, never. Not as long as that helmet remains 
+attached and intact."
+MID_OP5_#010,That other side of her is dead.
+MID_OP5_#011,"[Marni] 
+D-dead?"
+MID_OP5_#012,"[Zephia] 
+Oh, please. You should be delighted. You don't 
+have to talk to the defect anymore."
+MID_OP5_#013,"[Marni] 
+Zephia, I know about Veyle's past... Do you? 
+You were alive way back then..."
+MID_OP5_#014,"[Zephia] 
+What?"
+MID_OP5_#015,"[Marni] 
+I mean, I didn't know...when I helped you with 
+all of these awful things."
+MID_OP5_#016,"Lady Veyle was all alone for so long. And she 
+was so excited to see her family again."
+MID_OP5_#017,"She never got to enjoy it. And now she 
+never will. It's all so terrible..."
+MID_OP5_#018,"[Zephia] 
+What is this, Marni?"
+MID_OP5_#019,"[Marni] 
+Zephia, I loved it when you gave me praise."
+MID_OP5_#020,"I loved it when you said we were family. I loved 
+belonging somewhere. I loved the Four Hounds."
+MID_OP5_#021,But this has gone too far.
+MID_OP5_#022,"I have to do what I know is right, praise 
+or no praise."
+MID_OP5_#023,"[Zephia] 
+Marni?!"
+MID_OP5_#024,"[Marni] 
+I'm going to free Lady Veyle! I'm going to break 
+that helmet to pieces!"
+MID_OP5_#025,"[Zephia] 
+No! Stop!"
+MID_OP5_2_#001,"[Alear] 2 
+
+[Alear] 
+Marni was just...trying to restore Veyle."
+MID_OP5_2_#002,And all this...for that?
+MID_OP5_2_#003,"[Mauvier] 3 
+[Mauvier] 
+I will never stand by you again, Zephia. Save for 
+the moment my blade pierces your heart!"
+MID_OP5_2_#004,"Divine Dragon, I beg of you! Allow me to fight 
+at your side."
+MID_OP5_2_#005,"To avenge Marni, and to save Lady Veyle."
+MID_OP5_2_#006,"[Alear] 
+Mauvier, of course."
+MID_OP5_2_#007,"[Griss] 
+ヴェイル_黒_悪 1 
+ヴェイル_黒_悪 
+So, you're just going to betray me? Leave me 
+sad and lonely again?"
+MID_OP5_2_#008,"And you, Brother. I thought you'd be happy to 
+be reunited with me after...so long."
+MID_OP5_2_#008_F,"And you, Sister. I thought you'd be happy to 
+be reunited with me after...so long."
+MID_OP5_2_#009,
+MID_OP5_2_#010,"[Alear] 
+You are not our Veyle."
+MID_OP5_2_#011,"ヴェイル_黒_悪 
+This must be about my new look. Then you're 
+not going to like this look either."
+MID_OP5_2_#012,"[Zephia] 
+[Marth] 3 
+
+[Alear] 
+Marth."
+MID_OP5_2_#013,"ヴェイル_黒_悪 
+His fellow Emblems, stolen away. You turned 
+your back on him. Oh, lonely thing."
+MID_OP5_2_#014,"Just like me. But I'm here for you, little Emblem. 
+I'm all you need."
+MID_OP5_2_#015,"Now, had I known I had a sibling who survived 
+the years...I would have killed you."
+MID_OP5_2_#016,"I'd like to make sure I'm my Father's one 
+and only child."
+MID_OP5_2_#017,"[Alear] 
+You want to be alone forever?"
+MID_OP5_2_#018,"ヴェイル_黒_悪 
+Yes, that's right. I have no need for this sort of 
+family, or friendships, or bonds of loyalty."
+MID_OP5_2_#019,"I do appreciate you bringing the rings to me, 
+but that's where our relationship ends..."
+MID_OP5_2_#020,"Now, goodbye, Brother."
+MID_OP5_2_#020_F,"Now, goodbye, Sister."
+MID_OP5_2_#021,
+MID_OP5_2_#022,"[Alear] 
+Veyle..."

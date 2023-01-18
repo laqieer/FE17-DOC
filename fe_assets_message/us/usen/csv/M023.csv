@@ -1,0 +1,626 @@
+﻿key,text
+MID_BT10_#001,"M023_グリ b 
+M023_グリ Pain 
+M023_グリ 
+Oh, yeah. Mortal wounds... The really good 
+ones. Can't say no to any of that."
+MID_BT1_#001,"M023_セピア b 
+"" M023_セピア StandBy 
+M023_セピア 
+Will it be me or you who dies here, I wonder?"
+MID_BT2_#001,"M023_セピア b 
+M023_セピア 
+Smile 
+M023_セピア 
+Ah, Lady Veyle. You mean to kill me, do you?"
+MID_BT2_#002,"[Veyle] t 
+[Veyle] Strike 
+
+[Veyle] 
+That's right."
+MID_BT2_#003,"M023_セピア 
+Those eyes... So like your father's."
+MID_BT2_#004,"You really resemble him, you know. Far more 
+than the other Lady Veyle did."
+MID_BT2_#005,"[Veyle] 
+You don't see me, do you, Zephia?"
+MID_BT2_#006,"[Veyle] Sad 
+You see me and you think of Papa. Or that 
+other me."
+MID_BT2_#007,"When we met, you seemed so kind. I really 
+liked you."
+MID_BT2_#008,""" M023_セピア StandBy 
+M023_セピア 
+Really? I hated you. No, that's not right... 
+I was indifferent to you."
+MID_BT2_#009,"[Veyle] 
+..."
+MID_BT2_#010,"M023_セピア Die 
+M023_セピア 
+Lord Sombron's puppet. That's all you were. 
+A thing to be used and cast off."
+MID_BT2_#011,"M023_セピア Normal 
+Yet somehow...I knew this day would come."
+MID_BT2_#012,"[Veyle] Strike 
+
+[Veyle] 
+The day I would kill you? No wonder you 
+didn't like me."
+MID_BT2_#013,"M023_セピア 
+Smile 
+M023_セピア 
+Well... You finally have my undivided attention."
+MID_BT3_#001,"M023_セピア b 
+M023_セピア 
+Smile 
+M023_セピア 
+My dear, sweet Divine Dragon. We've been 
+through a lot together, haven't we?"
+MID_BT3_#002,"[Alear] t 
+[Alear] Strike 
+
+[Alear] 
+Zephia... You must have known who I was 
+a thousand years ago."
+MID_BT3_#003,"M023_セピア 
+Relax 
+M023_セピア 
+Yes, I believe we met. But the details are hazy."
+MID_BT3_#004,"M023_セピア Die 
+Lord Sombron had so many children, you see."
+MID_BT3_#005,"M023_セピア 
+Smile 
+A bug would have had more luck getting 
+my attention."
+MID_BT3_#006,"[Alear] 
+Angry 
+
+[Alear] 
+Oh? Am I that forgettable?"
+MID_BT3_#007,"M023_セピア 
+Angry 
+M023_セピア 
+Oh, not at all. You're the Divine Dragon now. 
+But in due time, you'll be me."
+MID_BT3_#008,"M023_セピア Shy 
+One tends to lose count of the lives that 
+pass by. You'll understand one day."
+MID_BT3_#009,"[Alear] 
+I will never be like you."
+MID_BT3_#010,"M023_セピア 
+Smile 
+M023_セピア 
+Haha. Well, it barely matters anyway. You 
+aren't leaving this place."
+MID_BT3_#011,"M023_セピア Strike 
+You're going to die right now."
+MID_BT4_#001,"M023_セピア b 
+M023_セピア 
+Angry 
+M023_セピア 
+You're going to kill me, Mauvier? 
+After everything?"
+MID_BT4_#002,"[Mauvier] t 
+[Mauvier] StandBy 
+[Mauvier] 
+At one time, I would not have imagined it 
+myself. I believed our path to be just."
+MID_BT4_#003,"[Mauvier] Sad 
+That we were family."
+MID_BT4_#004,"$ M023_セピア Surprise 
+M023_セピア 
+Family... I'm surprised to hear that from you."
+MID_BT4_#005,"[Mauvier] Normal 
+[Mauvier] 
+I am, I admit, solitary by nature. But I felt a true 
+bond with the Hounds."
+MID_BT4_#006,"[Mauvier] 
+Angry 
+I let our ""family"" distract me too long. Until you 
+took Marni from us."
+MID_BT4_#007,"M023_セピア 
+Smile 
+M023_セピア 
+You know, Mauvier... You can turn your back 
+on all this. You can leave."
+MID_BT4_#008,"M023_セピア 
+Angry 
+[Mauvier] StandBy 
+[Mauvier] 
+I left you, Zephia, after you made a wreckage of 
+the Hounds."
+MID_BT4_#009,"[Mauvier] Strike 
+I don't have any last sentiments. You see... 
+I learned something from you in the end."
+MID_BT5_#001,"M023_セピア b 
+M023_セピア Pain 
+M023_セピア 
+Lord Sombron... No..."
+MID_BT6_#001,"M023_グリ b 
+M023_グリ 
+Smile 
+M023_グリ 
+Live as a hound... Die as a hound."
+MID_BT7_#001,"M023_グリ b 
+M023_グリ Normal 
+M023_グリ 
+So, Lady Veyle! Where's my reward?"
+MID_BT7_#002,"[Veyle] t 
+[Veyle] Strike 
+
+[Veyle] 
+Reward?"
+MID_BT7_#003,"M023_グリ 
+Smile 
+M023_グリ 
+The real Lady Veyle promised me all the agony 
+my heart could want."
+MID_BT7_#004,"M023_グリ Die 
+I was really looking forward to it! The cold, 
+the severity..."
+MID_BT7_#005,"M023_グリ Sad 
+But in the end, nothing. Not even a scratch."
+MID_BT7_#006,"[Veyle] Sad 
+
+[Veyle] 
+That Veyle... She's gone now."
+MID_BT7_#007,"M023_グリ Normal 
+M023_グリ 
+Yeah, 'cause you killed her! So you can't be 
+all bad."
+MID_BT7_#008,"M023_グリ 
+Smile 
+Now, you tell me─how are you gonna do it? 
+Kill me, I mean."
+MID_BT7_#009,"[Veyle] 
+I'll never forgive you, Griss. But I never hated 
+you, at least from the start."
+MID_BT7_#010,"I think I understand why you were with the 
+Hounds. Why you're you."
+MID_BT7_#011,"[Veyle] Strike 
+But I'm not cruel. None of this will be... 
+a reward."
+MID_BT8_#001,"M023_グリ b 
+M023_グリ 
+Smile 
+M023_グリ 
+That's a neat trick, getting killed but not dying. 
+Just what I'd expect from the Fell Dragon's kid."
+MID_BT8_#002,"[Alear] t 
+[Alear] 
+Angry 
+
+[Alear] 
+Griss... All else aside, I'm grateful you told 
+me the truth."
+MID_BT8_#003,"While I can't forgive what you've done, I do 
+want to ask you one thing."
+MID_BT8_#004,"Why are you doing all of this? Is Zephia 
+making you?"
+MID_BT8_#005,""" M023_グリ Surprise 
+M023_グリ 
+What kinda question is that?! I'm here because 
+I wanna be, OK?"
+MID_BT8_#006,"[Alear] Sad 
+
+[Alear] 
+I see."
+MID_BT8_#007,"M023_グリ StandBy 
+M023_グリ 
+Hah! How sweet! Worried about little old Griss!"
+MID_BT8_#008,"M023_グリ Strike 
+That's an insult to me and Zephia! I won't 
+forgive that ever. Ever! EVER!"
+MID_BT8_#009,"M023_グリ 
+Angry 
+I'm gonna hurt you every which way, and then 
+kill you once and for all!"
+MID_BT9_#001,"M023_グリ b 
+M023_グリ Shy 
+M023_グリ 
+You come to get revenge? Or were you hoping 
+the Hounds would take you back?"
+MID_BT9_#002,"M023_グリ Shy 
+We were a family, Mauvier. That makes us 
+like brothers."
+MID_BT9_#003,No one would blame you for missing us.
+MID_BT9_#004,"[Mauvier] t 
+[Mauvier] 
+Angry 
+[Mauvier] 
+I am here to strike you down. I have nothing 
+more to say."
+MID_BT9_#005,"M023_グリ 
+Geez, a stiff till the end. Guess there's no point 
+in holding back the killing, then."
+MID_ED1_#001,"[Veyle] 2 
+[Alear] 4 
+[Zephia] 1 
+[Zephia] 
+Heh... I suppose you've won. I'm sorry, 
+Lord Sombron."
+MID_ED1_#002,"[Alear] 
+The battle is over. We should go."
+MID_ED1_#003,"[Veyle] 
+Goodbye, Zephia. Goodbye, Griss. I'm glad 
+I could say that properly this time."
+MID_ED1_#004,"[Zephia] 
+Oh, Griss can't hear anything now."
+MID_ED1_#005,But don't worry. I'll tell him on the other side.
+MID_ED1_#006,"[Veyle] 
+Thank you."
+MID_ED1_#007,"[Zephia] 
+Ngh..."
+MID_ED1_#008,"One last thing, before I go... You won't be able 
+to break the next Fell Dragon Shard."
+MID_ED1_#009,"[Veyle] 
+What do you mean?"
+MID_ED1_#010,"[Zephia] 
+Well, it used to be in the mountains."
+MID_ED1_#011,"Gradlon rose so mightily. But those mountains 
+crumbled. That spot is now under a lake."
+MID_ED1_#012,"Reaching the shard would be difficult, and 
+then destroying it? Surely impossible."
+MID_ED1_#013,"[Alear] 
+It's at the bottom of a lake?!"
+MID_ED1_#014,"[Veyle] 
+I did sense that one of them was weaker and 
+farther away than the others."
+MID_ED1_#015,But I never imagined this...
+MID_ED1_#016,"[Alear] 
+What do we do now?"
+MID_ED1_#017,"[Zephia] 
+Simple. You raise the mountains. Or drain 
+the lake."
+MID_ED1_#018,"Please, take this, an enchanted crystal that 
+will bring that location...in reach."
+MID_ED1_#019,"[Veyle] 
+How did you get this?"
+MID_ED1_#020,"[Zephia] 
+I am a Mage Dragon. My kind are capable of 
+making magical objects..."
+MID_ED1_#021,"Small charms and such, you understand. But 
+magic of this magnitude...that drains our years."
+MID_ED1_#022,"To craft an object that would alter the very 
+terrain around you...I've paid a steep price."
+MID_ED1_#023,"[Veyle] 
+Zephia, you don't mean..."
+MID_ED1_#024,"[Zephia] 
+Yes, it's making this crystal that has led to my 
+end. The magic, in exchange for my life."
+MID_ED1_#025,"[Veyle] 
+..."
+MID_ED1_#026,"[Zephia] 
+You two were quite fortunate, you know."
+MID_ED1_#027,"Of all the Mage Dragons that ever were, only 
+I am powerful enough to create this."
+MID_ED1_#028,"I learned at the youngest age that I had vast 
+powers that were...difficult to control."
+MID_ED1_#029,"I would control them, in time, but not before 
+my mother, father, and many others, died."
+MID_ED1_#030,"Oh, memories... Back to the here and now... 
+My very powerful gift."
+MID_ED1_#031,"[Veyle] 
+Why are you helping us now?"
+MID_ED1_#032,"[Zephia] 
+Hah...I'm not sure of that myself."
+MID_ED1_#033,"Perhaps here at the close, I'm feeling that it's 
+just the right thing to do."
+MID_ED1_#034,"The crystal's enchantment will last for only a 
+few hours. So, hurry along. The shard awaits."
+MID_ED1_#035,"Do be careful, Lady Veyle. I'll pray for your 
+good fortune in the battles ahead."
+MID_ED1_#036,"[Veyle] 
+You─ You could have done this at any time! 
+Any time at all!"
+MID_ED1_#037,"But now you're dying! We could have made 
+things right!"
+MID_ED1_#038,"If only you'd told us any of this before we 
+fought, maybe we could have forgiven..."
+MID_ED1_#039,"[Zephia] 
+Why now, indeed? Because it is the end."
+MID_ED1_#040,"[Veyle] 
+Huh?"
+MID_ED1_#041,"[Zephia] 
+I can be kind, just this once, because it's too 
+late for me to make things right."
+MID_ED1_#042,"Had I done any of this earlier, would you have 
+really forgiven me? We, allies? Heh, nonsense."
+MID_ED1_#043,"I had no intention of dying today, but then all 
+this happened. So, I made you a crystal."
+MID_ED1_#044,"I doubt any of you could swim to that shard. 
+It's a long, long way down."
+MID_ED1_#045,"[Veyle] 
+..."
+MID_ED1_#046,"Zephia, I... I don't understand you."
+MID_ED1_#047,"[Zephia] 
+Some advice, dear. Leave those you cannot 
+understand behind─forget them entirely."
+MID_ED1_#048,"It's just unsettling to let someone like that 
+linger in your thoughts as you grow older."
+MID_ED1_#049,"[Veyle] 
+Once we defeat Papa, and peace arrives..."
+MID_ED1_#050,"I won't forget you, Zephia. No matter how many 
+hundreds or thousands of years may pass."
+MID_ED1_#051,"[Zephia] 
+Oh, child... No more of that, please. Hurry 
+off to that shard."
+MID_ED1_#052,"Unless you prefer to stay and watch me die. 
+Would that make you feel safer?"
+MID_ED1_#053,"[Veyle] 
+..."
+MID_ED1_#054,"[Alear] 
+Let's go, Veyle."
+MID_ED1_#055,"[Zephia] 
+Yes, go. We can at least end things with 
+a clean slate."
+MID_ED1_#056,"Goodbye, Lady Veyle. And to you, our new 
+Emblem, ."
+MID_ED1_#057,"[Alear] 
+Goodbye."
+MID_ED1_#058,"[Veyle] 
+Goodbye, Zephia."
+MID_ED1_#059,...
+MID_ED1_#060,Thank you...for everything.
+MID_ED1_#061,"[Zephia] 
+You are too kind, child."
+MID_ED2_#001,"Default 
+[Zephia] 2 
+
+[Griss] 1 
+[Griss] 
+Hell of a time to switch sides."
+MID_ED2_#002,"[Zephia] 
+My word. I thought they had killed you."
+MID_ED2_#003,"[Griss] 
+What, you think I'm gonna kick off in the middle of this once-in-a- 
+lifetime pain? This is the good stuff. I gotta savor every last drop."
+MID_ED2_#004,"Woulda been real ticked off if they'd put me out 
+of my misery, not gonna lie..."
+MID_ED2_#005,"[Zephia] 
+That's really the reason you were playing dead? 
+Even at the end...you're an odd man."
+MID_ED2_#006,"[Griss] 
+How come...you told 'em about the shard?"
+MID_ED2_#007,"[Zephia] 
+Like I said. I'm just trying to wipe the slate clean."
+MID_ED2_#008,"[Griss] 
+Cut that out. I wanna know the truth, OK?"
+MID_ED2_#009,"[Zephia] 
+To get back at Lord Sombron, I guess. Why should 
+I die in the dust, while he..."
+MID_ED2_#010,"While he gets everything he wanted, just like that. 
+Does that seem fair?"
+MID_ED2_#011,"Now that they know about the shard, they're sure to break it... 
+and he'll know I've met my end─that he's lost me forever."
+MID_ED2_#012,"[Griss] 
+You gotta really love somebody...if you wanna hurt 
+'em that badly."
+MID_ED2_#013,"[Zephia] 
+I wasn't in love with Lord Sombron. I just wanted 
+him to give me a child of my own."
+MID_ED2_#014,"That was the dream I clung to through all of the long 
+years. A family. The love of a daughter or a son..."
+MID_ED2_#015,"When I called the Hounds my family, I meant 
+every word of it."
+MID_ED2_#015_2,"What we had was something very rare, indeed."
+MID_ED2_#016,"You, me, Marni, Mauvier. Working together to 
+protect Lord Sombron and Lady Veyle."
+MID_ED2_#017,"[Griss] 
+But it's too late for all that now..."
+MID_ED2_#018,"If you were gonna turn on Sombron, why'd ya wait? 
+If you'd done it sooner, maybe we'd still be together."
+MID_ED2_#019,"And maybe I wouldn't find myself bleeding out 
+at the moment."
+MID_ED2_#020,"[Zephia] 
+I have to wonder if you'd have been happier on 
+the other side."
+MID_ED2_#021,"[Griss] 
+You really think I would just abandon you? 
+Not a chance in hell."
+MID_ED2_#022,"[Zephia] 
+Huh?"
+MID_ED2_#023,"[Griss] 
+The Four Hounds, a family..."
+MID_ED2_#023_2,"[Griss] 
+I always did like the sound of that."
+MID_ED2_#024,"I can't even remember what my parents' faces looked 
+like. You're the closest thing I had to a mother."
+MID_ED2_#025,"Ever since the first day you met me, poor little Twisted 
+Disciple that I was...hoping that my suffering would 
+be good enough in the eyes of Lord Sombron."
+MID_ED2_#026,"You were like a mom to me. And a big sister. Honestly, 
+even a god. The most important person in the world to me."
+MID_ED2_#027,"[Zephia] 
+Griss...I don't like this joke."
+MID_ED2_#028,"[Griss] 
+It's no joke. I'd follow you anywhere...dummy."
+MID_ED2_#029,"[Zephia] 
+You're right. How could I have been so blind?"
+MID_ED2_#029_2,"[Zephia] 
+The one thing I always wanted...staring me in the 
+face all the while."
+MID_ED2_#030,If only I had realized...
+MID_ED2_#030_2,But no. It's too late to think of that.
+MID_ED2_#031,I hope you forgive me. We are...a family.
+MID_ED2_#032,"I thank you, Griss."
+MID_ED2_#033,...
+MID_ED2_#034,"[Zephia] 
+[Griss] 
+Zephia?"
+MID_ED2_#035,You drifted off already?
+MID_ED2_#035_2,Guess I will...too.
+MID_ED2_#036,No reason to stick around without her...
+MID_ED2_#037,Nothing hurts me...anymore.
+MID_EV1_#001,"[Veyle] t 
+[Veyle] 
+Angry 
+
+[Veyle] 
+We have to defeat Zephia and Griss. Then we 
+can break the shard."
+MID_EV2_#001,"[Alear] t 
+[Alear] Surprise 
+
+[Alear] 
+What was that?!"
+MID_EV2_#002,"[Veyle] b 
+[Veyle] 
+Angry 
+
+[Veyle] 
+Those two... It must be their doing."
+MID_EV2_#003,"They can attack using the shard. And I'm sure 
+they'll do it again."
+MID_EV3_#001,"M023_セピア b 
+M023_セピア 
+Angry 
+M023_セピア 
+Retreat isn't an option. I will die, if I must, 
+to protect the shard."
+MID_EV3_#002,"M023_グリ t 
+"" M023_グリ Surprise 
+M023_グリ 
+You? That's crazy talk. If anyone's dying today, 
+I've got first dibs. Besides..."
+MID_EV3_#003,"M023_グリ Status 
+We'll fling these babies at 'em till nothing's left 
+but bone char!"
+MID_EV3_2_#001,"M023_セピア b 
+M023_セピア 
+Angry 
+M023_セピア 
+Retreat isn't an option. I will die, if I must, 
+to protect the shard."
+MID_EV3_2_#002,"But first, in Griss's name, I will burn you all 
+to cinders!"
+MID_EV3_3_#001,"M023_グリ b 
+M023_グリ 
+Angry 
+M023_グリ 
+Zephia's down... It's all on me, huh? Well, 
+I won't go down easy."
+MID_EV3_3_#002,"M023_グリ Strike 
+I'll fling these babies at you till nothing's left 
+but bone char!"
+MID_EV4_#001,"[Alear] t 
+[Alear] 
+Smile 
+
+[Alear] 
+We did it... We broke the Fell Dragon Shard!"
+MID_OP1_#001,"[Alear] 2 
+[Veyle] 1 
+
+[Veyle] 
+Over here! The Fell Dragon Shard is nearby!"
+MID_OP1_#002,"[Alear] 
+I'm glad you can tell where they are, Veyle. 
+I can't really sense them myself."
+MID_OP1_#003,"[Veyle] 
+Hold on, I see people. It looks like..."
+MID_OP1_#004,"[Alear] 
+Yes. Zephia and Griss."
+MID_OP1_#005,"[Veyle] 
+..."
+MID_OP1_#006,"[Alear] 
+They must be guarding the shard. Are you 
+going to be OK?"
+MID_OP1_#007,"[Veyle] 
+If I'm going to stop Papa, then I can't avoid this."
+MID_OP1_#008,"Sooner or later, I have to face them. Let's go."
+MID_OP1_#009,"[Alear] 
+All right."
+MID_OP2_#001,"[Veyle] 2 
+
+[Veyle] 
+Zephia. Griss."
+MID_OP2_#002,"[Griss] 3 
+[Zephia] 1 
+[Zephia] 
+My lady! We have been awaiting your arrival."
+MID_OP2_#003,"[Veyle] 
+..."
+MID_OP2_#004,"[Zephia] 
+Oh, I see... It's you again."
+MID_OP2_#005,"And from the looks of it, the other Lady Veyle is 
+no longer with us. She's...gone?"
+MID_OP2_#006,"[Veyle] 
+That's right."
+MID_OP2_#007,"[Griss] 
+Wormed your way back in, huh? I never 
+thought you'd come out on top, defect."
+MID_OP2_#008,"[Alear] 4 
+
+[Alear] 
+Stop calling her that. No one will speak that 
+way about Veyle ever again."
+MID_OP2_#009,"[Zephia] 
+You?!"
+MID_OP2_#010,"[Griss] 
+Hey! Whoa! What's this? Aren't you dead?"
+MID_OP2_#011,"[Alear] 
+I have become an Emblem─by the power of all 
+the Emblem Rings, so I can save this world."
+MID_OP2_#012,"[Veyle] 
+We're here to stop Papa. Both of you, please, 
+step out of the way."
+MID_OP2_#013,"[Zephia] 
+And let you through? I think not. Lord Sombron 
+is opening the portal to other worlds."
+MID_OP2_#014,"We're here to protect this shard. Not even our 
+Lady Veyle could command us to step aside."
+MID_OP2_#015,"[Veyle] 
+Then you're prepared to die."
+MID_OP2_#016,"[Zephia] 
+You mean to kill us, Lady Veyle? Oh, what a 
+sad turn of events."
+MID_OP2_#017,"Even after I doted upon you, cared for you, 
+as if you were my own."
+MID_OP2_#018,"[Veyle] 
+It used to make me happy when you said things 
+like that. But I know they're lies...now."
+MID_OP2_#019,"You're just two of Papa's followers. Enemies 
+to defeat, that's all."
+MID_OP2_#020,"[Griss] 
+Why you singling us out? There were four of us."
+MID_OP2_#021,"[Veyle] 
+Mauvier was my knight. Marni too..."
+MID_OP2_#022,I've been told...she died trying to save me.
+MID_OP2_#023,"Why did you kill her? I didn't even get to tell 
+her goodbye."
+MID_OP2_#024,"[Zephia] 
+I took Marni into my family. I looked after her. 
+What did I get in return? Betrayal."
+MID_OP2_#025,"[Veyle] 
+How can you call the Four Hounds family? 
+Treating them so...viciously."
+MID_OP2_#026,"[Zephia] 
+Because I loved them. When children stray, one 
+must punish them─or worse, as needed."
+MID_OP2_#027,"[Alear] 
+That isn't real love..."
+MID_OP2_#028,"[Zephia] 
+Oh? Is that right? Then maybe I've never 
+known ""real love."""
+MID_OP2_#029,"I know my own heart and my own thoughts. 
+That's all that's important to me."
+MID_OP2_#030,"But we'll never see eye to eye. Not in a 
+thousand years."
+MID_OP2_#031,I serve Lord Sombron.
+MID_OP2_#032,"I've done so for a very long time, fully 
+committed to anything he needs."
+MID_OP2_#033,"[Griss] 
+I got no plans to switch sides. Not even if 
+we lose. Got it?"
+MID_OP2_#034,"[Veyle] 
+I see. I suppose this is goodbye, then."
+MID_OP2_#035,"I'm sorry to say, we've got no other choice 
+but to fight them."
+MID_OP2_#036,"[Alear] 
+Are you sure?"
+MID_OP2_#037,"[Veyle] 
+They're not listening. If only they would leave 
+for their own sakes, but they want to fight."
+MID_OP2_#038,"We need to stop Papa. That means I have to 
+put them behind me. It's...about time I do."
