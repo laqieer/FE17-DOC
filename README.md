@@ -23,8 +23,8 @@ Documentation for FE17: Fire Emblem Engage
 |Cook.csv|MID_FOODRANK_COND_xxx|Food condition|料理相性|菜适合什么样的人吃|
 |Die.csv|MID_DIE_xxx|Death quote|敗北時のセリフ|战败遗言|
 |Fortune.csv|MID_FORTUNE_xxx|Fortune|占い|占卜|
-|FriendList.csv|MID_FRIENDLIST_xxx_TextA/B/C/D/S|Ally Notebook|仲間手帖|花名册|
-|GR_xxx.csv|MID_GR_xxx_A/B/C_#001-4|Bond Convo|絆会話|牵绊会话|
+|FriendList.csv|MID_FRIENDLIST_xxx_TextA/B/C/D/S|Ally Notebook|仲間手帖|伙伴手册|
+|GR_xxx.csv|MID_GR_xxx_A/B/C_#001-4|Bond Convo|絆会話|牵绊对话|
 |GameData.csv|MCID_Mooo|Main story chapter title|章タイトル|主线章节标题|
 |GameData.csv|MCID_Mooo_PLACE|Main story chapter place|場所|主线章节地点|
 |GameData.csv|MCID_Mooo_PREFIX|Main story chapter title prefix|章番号|章节标题前缀（第几章）|
@@ -83,5 +83,5 @@ Documentation for FE17: Fire Emblem Engage
 |Skill.csv|MSID_H_xxx|Skill help|スキル説明|技能说明|
 |Sortie.csv|MID_SORTIE_xxx<br>MID_SELECTRING_xxx<br>MID_TROOPLIST_PAGETITLE_xxx|Sortie|進軍準備|战前准备|
 |System.csv|MID_xxx|System|システム|系统|
-|Tutorial.csv|MID_TIPS_xxx<br>MID_TUT_xxx|Guide|指南|教学手册|
-|WakeUp_xxx.csv|MID_WU_xxx|Wake-Up event|お目覚め会話|唤醒会话（喊你起床）|
+|Tutorial.csv|MID_TIPS_xxx<br>MID_TUT_xxx|Guide|指南|指南|
+|WakeUp_xxx.csv|MID_WU_xxx|Wake-Up event|お目覚め会話|唤醒对话（叫醒、起床）|
