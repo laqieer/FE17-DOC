@@ -7,7 +7,7 @@ Documentation for FE17: Fire Emblem Engage
 - [日本語](https://github.com/laqieer/FE17-DOC/tree/main/fe_assets_message/jp/jpja/csv)
 - [中文](https://github.com/laqieer/FE17-DOC/tree/main/fe_assets_message/cn/cnch/csv)
 
-## Notes
+### Notes
 
 |File|Key|English|日本語|中文|
 |---|---|---|---|---|
