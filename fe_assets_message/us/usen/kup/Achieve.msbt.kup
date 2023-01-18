@@ -1,0 +1,599 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_ACHIEVE_RELIANCE_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Complete a support conversation with &#xE;&#x1;&#x0;&#x0;.</original>
+			<edited>Complete a support conversation with &#xE;&#x1;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RELIANCE_B_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Reach support level B with an ally.</original>
+			<edited>Reach support level B with an ally.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RELIANCE_B_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Reach support level B with &#xE;&#x1;&#x0;&#x0; allies.</original>
+			<edited>Reach support level B with &#xE;&#x1;&#x0;&#x0; allies.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RELIANCE_A_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Reach support level A with an ally.</original>
+			<edited>Reach support level A with an ally.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RELIANCE_A_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Reach support level A with &#xE;&#x1;&#x0;&#x0; allies.</original>
+			<edited>Reach support level A with &#xE;&#x1;&#x0;&#x0; allies.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RELIANCE_ENGAGE" offset="00" relocatable="true" max_length="0">
+			<original>See a &#xE;&#x8;&#x2;&#x1A;&#x18;&#x0;R&#x0;e&#x0;l&#x0;i&#x0;a&#x0;n&#x0;c&#x0;e&#x0;R&#x0;i&#x0;n&#x0;g&#x0; conversation.</original>
+			<edited>See a &#xE;&#x8;&#x2;&#x1A;&#x18;&#x0;R&#x0;e&#x0;l&#x0;i&#x0;a&#x0;n&#x0;c&#x0;e&#x0;R&#x0;i&#x0;n&#x0;g&#x0; conversation.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_PLAY_TIME" offset="00" relocatable="true" max_length="0">
+			<original>Play for &#xE;&#x1;&#x0;&#x0; hours.</original>
+			<edited>Play for &#xE;&#x1;&#x0;&#x0; hours.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_CHAPTER_CLEAR" offset="00" relocatable="true" max_length="0">
+			<original>Cleared &#xE;&#x1;&#x0;&#x0;, "&#xE;&#x1;&#x1;&#x0;."</original>
+			<edited>Cleared &#xE;&#x1;&#x0;&#x0;, "&#xE;&#x1;&#x1;&#x0;."</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ENCOUNT_BATTLE_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Fight in a skirmish.</original>
+			<edited>Fight in a skirmish.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ENCOUNT_BATTLE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Fight in &#xE;&#x1;&#x0;&#x0; skirmishes.</original>
+			<edited>Fight in &#xE;&#x1;&#x0;&#x0; skirmishes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BATTLE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Fight in &#xE;&#x1;&#x0;&#x0; individual combats.</original>
+			<edited>Fight in &#xE;&#x1;&#x0;&#x0; individual combats.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_SOLDIER_DEFEAT_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Defeat an enemy soldier.</original>
+			<edited>Defeat an enemy soldier.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_SOLDIER_DEFEAT_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Defeat &#xE;&#x1;&#x0;&#x0; enemy soldiers.</original>
+			<edited>Defeat &#xE;&#x1;&#x0;&#x0; enemy soldiers.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_MORPH_DEFEAT_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Defeat a Corrupted foe.</original>
+			<edited>Defeat a Corrupted foe.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_MORPH_DEFEAT_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Defeat &#xE;&#x1;&#x0;&#x0; Corrupted foes.</original>
+			<edited>Defeat &#xE;&#x1;&#x0;&#x0; Corrupted foes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BANDITS_DEFEAT_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Defeat a thief.</original>
+			<edited>Defeat a thief.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BANDITS_DEFEAT_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Defeat &#xE;&#x1;&#x0;&#x0; thieves.</original>
+			<edited>Defeat &#xE;&#x1;&#x0;&#x0; thieves.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_CANE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Use staves &#xE;&#x1;&#x0;&#x0; times.</original>
+			<edited>Use staves &#xE;&#x1;&#x0;&#x0; times.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_SORTIE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Deploy &#xE;&#x1;&#x0;&#x0; &#xE;&#x1;&#x1;&#x0; times.</original>
+			<edited>Deploy &#xE;&#x1;&#x0;&#x0; &#xE;&#x1;&#x1;&#x0; times.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_CRITICAL_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Land a critical hit.</original>
+			<edited>Land a critical hit.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_CRITICAL_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Land a critical hit &#xE;&#x1;&#x0;&#x0; times.</original>
+			<edited>Land a critical hit &#xE;&#x1;&#x0;&#x0; times.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ENGAGE_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Engage with an Emblem.</original>
+			<edited>Engage with an Emblem.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ENGAGE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Engage with an Emblem &#xE;&#x1;&#x0;&#x0; times.</original>
+			<edited>Engage with an Emblem &#xE;&#x1;&#x0;&#x0; times.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ENGAGEATTACK_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Use an engage attack.</original>
+			<edited>Use an engage attack.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ENGAGEATTACK_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Use engage attacks &#xE;&#x1;&#x0;&#x0; times.</original>
+			<edited>Use engage attacks &#xE;&#x1;&#x0;&#x0; times.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_AVOIDANCE_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Avoid an attack.</original>
+			<edited>Avoid an attack.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_AVOIDANCE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Avoid an attack &#xE;&#x1;&#x0;&#x0; times.</original>
+			<edited>Avoid an attack &#xE;&#x1;&#x0;&#x0; times.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_DEGENSE_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Block an attack.</original>
+			<edited>Block an attack.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_DEGENSE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Block an attack &#xE;&#x1;&#x0;&#x0; times.</original>
+			<edited>Block an attack &#xE;&#x1;&#x0;&#x0; times.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_CHAIN_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Use a chain attack.</original>
+			<edited>Use a chain attack.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_CHAIN_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Use chain attacks &#xE;&#x1;&#x0;&#x0; times.</original>
+			<edited>Use chain attacks &#xE;&#x1;&#x0;&#x0; times.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_CHAIN_UNIT_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Perform a chain attack with &#xE;&#x1;&#x0;&#x0; units.</original>
+			<edited>Perform a chain attack with &#xE;&#x1;&#x0;&#x0; units.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BREAK_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Break a foe in combat.</original>
+			<edited>Break a foe in combat.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BREAK_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Break foes &#xE;&#x1;&#x0;&#x0; times.</original>
+			<edited>Break foes &#xE;&#x1;&#x0;&#x0; times.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_SMASH_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Use a smash attack in combat.</original>
+			<edited>Use a smash attack in combat.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_SMASH_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Use a smash attack &#xE;&#x1;&#x0;&#x0; times.</original>
+			<edited>Use a smash attack &#xE;&#x1;&#x0;&#x0; times.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_MINIGAME_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Did an activity for the first time.</original>
+			<edited>Did an activity for the first time.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_MINIGAME_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Did activities &#xE;&#x1;&#x0;&#x0; times.</original>
+			<edited>Did activities &#xE;&#x1;&#x0;&#x0; times.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RING_FORM_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Create a Bond Ring.</original>
+			<edited>Create a Bond Ring.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RING_FORM_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Create &#xE;&#x1;&#x0;&#x0; Bond Rings.</original>
+			<edited>Create &#xE;&#x1;&#x0;&#x0; Bond Rings.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RING_MIX_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Meld Bond Rings for the first time.</original>
+			<edited>Meld Bond Rings for the first time.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RING_MIX_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Meld Bond Rings &#xE;&#x1;&#x0;&#x0; times.</original>
+			<edited>Meld Bond Rings &#xE;&#x1;&#x0;&#x0; times.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BONDSRING_C_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Obtain &#xE;&#x1;&#x0;&#x0; C-rank Bond Rings.</original>
+			<edited>Obtain &#xE;&#x1;&#x0;&#x0; C-rank Bond Rings.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BONDSRING_B_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Obtain &#xE;&#x1;&#x0;&#x0; B-rank Bond Rings.</original>
+			<edited>Obtain &#xE;&#x1;&#x0;&#x0; B-rank Bond Rings.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BONDSRING_A_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Obtain &#xE;&#x1;&#x0;&#x0; A-rank Bond Rings.</original>
+			<edited>Obtain &#xE;&#x1;&#x0;&#x0; A-rank Bond Rings.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BONDSRING_S_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Obtain an S-rank Bond Ring.</original>
+			<edited>Obtain an S-rank Bond Ring.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BONDSRING_S_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Obtain &#xE;&#x1;&#x0;&#x0; S-rank Bond Rings.</original>
+			<edited>Obtain &#xE;&#x1;&#x0;&#x0; S-rank Bond Rings.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RING_CLEANING_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Polish a ring&#xE;&#x1;
+&#x0; for the first time.</original>
+			<edited>Polish a ring&#xE;&#x1;
+&#x0; for the first time.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RING_CLEANING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Polish rings&#xE;&#x1;&#xB;&#x0; &#xE;&#x1;&#x0;&#x0; times.</original>
+			<edited>Polish rings&#xE;&#x1;&#xB;&#x0; &#xE;&#x1;&#x0;&#x0; times.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_INVESTMENT_FILENE" offset="00" relocatable="true" max_length="0">
+			<original>Donate to Firene.</original>
+			<edited>Donate to Firene.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_INVESTMENT_BRODIA" offset="00" relocatable="true" max_length="0">
+			<original>Donate to Brodia.</original>
+			<edited>Donate to Brodia.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_INVESTMENT_IRCION" offset="00" relocatable="true" max_length="0">
+			<original>Donate to Elusia.</original>
+			<edited>Donate to Elusia.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_INVESTMENT_SOLUM" offset="00" relocatable="true" max_length="0">
+			<original>Donate to Solm.</original>
+			<edited>Donate to Solm.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_INVESTMENT_FILENE_STAGE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Bring Firene to donation level &#xE;&#x1;&#x0;&#x0;.</original>
+			<edited>Bring Firene to donation level &#xE;&#x1;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_INVESTMENT_BRODIA_STAGE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Bring Brodia to donation level &#xE;&#x1;&#x0;&#x0;.</original>
+			<edited>Bring Brodia to donation level &#xE;&#x1;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_INVESTMENT_IRCION_STAGE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Bring Elusia to donation level &#xE;&#x1;&#x0;&#x0;.</original>
+			<edited>Bring Elusia to donation level &#xE;&#x1;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_INVESTMENT_SOLUM_STAGE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Bring Solm to donation level &#xE;&#x1;&#x0;&#x0;.</original>
+			<edited>Bring Solm to donation level &#xE;&#x1;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_INVESTMENT_ALL_STAGE_MAX" offset="00" relocatable="true" max_length="0">
+			<original>Reach max donation for all countries.</original>
+			<edited>Reach max donation for all countries.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_INVESTMENT_MONEY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Donate a total of &#xE;&#x1;&#x0;&#x0;.</original>
+			<edited>Donate a total of &#xE;&#x1;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_COOK_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Cook for the first time.</original>
+			<edited>Cook for the first time.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_COOK_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Cook &#xE;&#x1;&#x0;&#x0; times.</original>
+			<edited>Cook &#xE;&#x1;&#x0;&#x0; times.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_COOK_RANK_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Make a rank &#xE;&#x1;&#x0;&#x0; meal.</original>
+			<edited>Make a rank &#xE;&#x1;&#x0;&#x0; meal.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_COOK_RANK_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Make a rank &#xE;&#x1;&#x0;&#x0; meal &#xE;&#x1;&#x1;&#x0; times.</original>
+			<edited>Make a rank &#xE;&#x1;&#x0;&#x0; meal &#xE;&#x1;&#x1;&#x0; times.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_SLEEP_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Wake up to an ally for the first time.</original>
+			<edited>Wake up to an ally for the first time.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_SLEEP_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Wake up to an ally &#xE;&#x1;&#x0;&#x0; times.</original>
+			<edited>Wake up to an ally &#xE;&#x1;&#x0;&#x0; times.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_WAKEUP_EVENT_C_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Wake up to &#xE;&#x1;&#x0;&#x0; C-support allies.</original>
+			<edited>Wake up to &#xE;&#x1;&#x0;&#x0; C-support allies.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_WAKEUP_EVENT_B_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Wake up to &#xE;&#x1;&#x0;&#x0; B-support allies.</original>
+			<edited>Wake up to &#xE;&#x1;&#x0;&#x0; B-support allies.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_WAKEUP_EVENT_A_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Wake up to &#xE;&#x1;&#x0;&#x0; A-support allies.</original>
+			<edited>Wake up to &#xE;&#x1;&#x0;&#x0; A-support allies.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_WAKEUP_EVENT_S" offset="00" relocatable="true" max_length="0">
+			<original>Wake up to your &#xE;&#x8;&#x2;&#x1A;&#x18;&#x0;R&#x0;e&#x0;l&#x0;i&#x0;a&#x0;n&#x0;c&#x0;e&#x0;R&#x0;i&#x0;n&#x0;g&#x0;-support ally.</original>
+			<edited>Wake up to your &#xE;&#x8;&#x2;&#x1A;&#x18;&#x0;R&#x0;e&#x0;l&#x0;i&#x0;a&#x0;n&#x0;c&#x0;e&#x0;R&#x0;i&#x0;n&#x0;g&#x0;-support ally.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ARENA_UNIT_BATTLE_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Fight an ally in the Arena.</original>
+			<edited>Fight an ally in the Arena.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ARENA_UNIT_BATTLE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Fight an ally in the Arena &#xE;&#x1;&#x0;&#x0; times.</original>
+			<edited>Fight an ally in the Arena &#xE;&#x1;&#x0;&#x0; times.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ARENA_UNIT_WIN_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Defeat an ally in the Arena.</original>
+			<edited>Defeat an ally in the Arena.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ARENA_UNIT_WIN_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Defeat an ally in the Arena &#xE;&#x1;&#x0;&#x0; times.</original>
+			<edited>Defeat an ally in the Arena &#xE;&#x1;&#x0;&#x0; times.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ARENA_GOD_BATTLE_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Fight an Emblem in the Arena.</original>
+			<edited>Fight an Emblem in the Arena.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ARENA_GOD_BATTLE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Fight an Emblem in the Arena &#xE;&#x1;&#x0;&#x0; times.</original>
+			<edited>Fight an Emblem in the Arena &#xE;&#x1;&#x0;&#x0; times.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ARENA_GOD_WIN_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Defeat an Emblem in the Arena.</original>
+			<edited>Defeat an Emblem in the Arena.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ARENA_GOD_WIN_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Defeat an Emblem in the Arena &#xE;&#x1;&#x0;&#x0; times.</original>
+			<edited>Defeat an Emblem in the Arena &#xE;&#x1;&#x0;&#x0; times.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_WEAPON_BUY_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Buy a weapon.</original>
+			<edited>Buy a weapon.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_WEAPON_BUY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Buy &#xE;&#x1;&#x0;&#x0; weapons.</original>
+			<edited>Buy &#xE;&#x1;&#x0;&#x0; weapons.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_SWORD_BUY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Buy &#xE;&#x1;&#x0;&#x0; swords.</original>
+			<edited>Buy &#xE;&#x1;&#x0;&#x0; swords.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_LANCE_BUY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Buy &#xE;&#x1;&#x0;&#x0; lances.</original>
+			<edited>Buy &#xE;&#x1;&#x0;&#x0; lances.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_AXE_BUY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Buy &#xE;&#x1;&#x0;&#x0; axes.</original>
+			<edited>Buy &#xE;&#x1;&#x0;&#x0; axes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BOW_BUY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Buy &#xE;&#x1;&#x0;&#x0; bows.</original>
+			<edited>Buy &#xE;&#x1;&#x0;&#x0; bows.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_KNIFE_BUY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Buy &#xE;&#x1;&#x0;&#x0; knives.</original>
+			<edited>Buy &#xE;&#x1;&#x0;&#x0; knives.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_MAGIC_BUY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Buy &#xE;&#x1;&#x0;&#x0; tomes.</original>
+			<edited>Buy &#xE;&#x1;&#x0;&#x0; tomes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_FIST_BUY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Buy &#xE;&#x1;&#x0;&#x0; scrolls.</original>
+			<edited>Buy &#xE;&#x1;&#x0;&#x0; scrolls.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_WEAPON_SELL_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Sell a weapon.</original>
+			<edited>Sell a weapon.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_WEAPON_SELL_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Sell &#xE;&#x1;&#x0;&#x0; weapons.</original>
+			<edited>Sell &#xE;&#x1;&#x0;&#x0; weapons.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ITEM_BUY_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Buy an item.</original>
+			<edited>Buy an item.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ITEM_BUY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Buy &#xE;&#x1;&#x0;&#x0; items.</original>
+			<edited>Buy &#xE;&#x1;&#x0;&#x0; items.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ROD_BUY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Buy &#xE;&#x1;&#x0;&#x0; staves.</original>
+			<edited>Buy &#xE;&#x1;&#x0;&#x0; staves.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ITEM_SELL_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Sell an item.</original>
+			<edited>Sell an item.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ITEM_SELL_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Sell &#xE;&#x1;&#x0;&#x0; items.</original>
+			<edited>Sell &#xE;&#x1;&#x0;&#x0; items.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ACCESSORIES_BUY_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Buy an outfit or accessory at the boutique.</original>
+			<edited>Buy an outfit or accessory at the boutique.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ACCESSORIES_BUY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Buy &#xE;&#x1;&#x0;&#x0; outfits/accessories at the boutique.</original>
+			<edited>Buy &#xE;&#x1;&#x0;&#x0; outfits/accessories at the boutique.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ACCESSORIES_CHANGE_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Change outfits or accessories for the first time.</original>
+			<edited>Change outfits or accessories for the first time.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ACCESSORIES_CHANGE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Change outfits/accessories &#xE;&#x1;&#x0;&#x0; times.</original>
+			<edited>Change outfits/accessories &#xE;&#x1;&#x0;&#x0; times.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_WEAPON_FORGING_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Refine a weapon.</original>
+			<edited>Refine a weapon.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_WEAPON_FORGING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Refine &#xE;&#x1;&#x0;&#x0; weapons.</original>
+			<edited>Refine &#xE;&#x1;&#x0;&#x0; weapons.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_SWORD_FORGING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Refine swords &#xE;&#x1;&#x0;&#x0; times.</original>
+			<edited>Refine swords &#xE;&#x1;&#x0;&#x0; times.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_LANCE_FORGING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Refine lances &#xE;&#x1;&#x0;&#x0; times.</original>
+			<edited>Refine lances &#xE;&#x1;&#x0;&#x0; times.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_AXE_FORGING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Refine axes &#xE;&#x1;&#x0;&#x0; times.</original>
+			<edited>Refine axes &#xE;&#x1;&#x0;&#x0; times.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BOW_FORGING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Refine bows &#xE;&#x1;&#x0;&#x0; times.</original>
+			<edited>Refine bows &#xE;&#x1;&#x0;&#x0; times.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_KNIFE_FORGING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Refine knives &#xE;&#x1;&#x0;&#x0; times.</original>
+			<edited>Refine knives &#xE;&#x1;&#x0;&#x0; times.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_MAGIC_FORGING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Refine tomes &#xE;&#x1;&#x0;&#x0; times.</original>
+			<edited>Refine tomes &#xE;&#x1;&#x0;&#x0; times.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_FIST_FORGING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Refine art scrolls &#xE;&#x1;&#x0;&#x0; times.</original>
+			<edited>Refine art scrolls &#xE;&#x1;&#x0;&#x0; times.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ENGRAVE_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Engrave a weapon.</original>
+			<edited>Engrave a weapon.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ENGRAVE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Engrave &#xE;&#x1;&#x0;&#x0; weapons.</original>
+			<edited>Engrave &#xE;&#x1;&#x0;&#x0; weapons.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_NETMATCH_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Take part in an Outrealm Trial.</original>
+			<edited>Take part in an Outrealm Trial.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_NETMATCH_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Take part in &#xE;&#x1;&#x0;&#x0; Outrealm Trials.</original>
+			<edited>Take part in &#xE;&#x1;&#x0;&#x0; Outrealm Trials.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_NETMATCH_WIN_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Win an Outrealm Trial.</original>
+			<edited>Win an Outrealm Trial.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_NETMATCH_WIN_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Win &#xE;&#x1;&#x0;&#x0; Outrealm Trials.</original>
+			<edited>Win &#xE;&#x1;&#x0;&#x0; Outrealm Trials.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RELAYBATTLE_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Take part in a Relay Trial.</original>
+			<edited>Take part in a Relay Trial.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RELAYBATTLE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Take part in &#xE;&#x1;&#x0;&#x0; Relay Trials.</original>
+			<edited>Take part in &#xE;&#x1;&#x0;&#x0; Relay Trials.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RELAYBATTLE_WIN_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Win a Relay Trial.</original>
+			<edited>Win a Relay Trial.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RELAYBATTLE_WIN_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Win &#xE;&#x1;&#x0;&#x0; Relay Trials.</original>
+			<edited>Win &#xE;&#x1;&#x0;&#x0; Relay Trials.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_SERIESBATTLE_RANK1" offset="00" relocatable="true" max_length="0">
+			<original>Clear the &#xE;&#x1;&#x0;&#x0; Tempest Trial at any difficulty.</original>
+			<edited>Clear the &#xE;&#x1;&#x0;&#x0; Tempest Trial at any difficulty.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_SERIESBATTLE_RANK" offset="00" relocatable="true" max_length="0">
+			<original>Clear the &#xE;&#x1;&#x0;&#x0; Tempest Trial at difficulty &#xE;&#x1;&#x1;&#x0;.</original>
+			<edited>Clear the &#xE;&#x1;&#x0;&#x0; Tempest Trial at difficulty &#xE;&#x1;&#x1;&#x0;.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

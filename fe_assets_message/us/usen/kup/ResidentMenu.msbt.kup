@@ -1,0 +1,2339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_MENU_YES" offset="00" relocatable="true" max_length="0">
+			<original>OK</original>
+			<edited>OK</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_START" offset="00" relocatable="true" max_length="0">
+			<original>Start</original>
+			<edited>Start</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_NO" offset="00" relocatable="true" max_length="0">
+			<original>No</original>
+			<edited>No</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CANCEL" offset="00" relocatable="true" max_length="0">
+			<original>Return</original>
+			<edited>Return</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CANCEL_NO" offset="00" relocatable="true" max_length="0">
+			<original>Cancel</original>
+			<edited>Cancel</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MONETARY_UNIT" offset="00" relocatable="true" max_length="0">
+			<original>G</original>
+			<edited>G</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_UNIT_LIST" offset="00" relocatable="true" max_length="0">
+			<original>Units</original>
+			<edited>Units</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_UNIT_LIST_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Compare stats for all allies.</original>
+			<edited>Compare stats for all allies.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_UNIT_LIST_TITLEHELP" offset="00" relocatable="true" max_length="0">
+			<original>Compare stats for all allies.</original>
+			<edited>Compare stats for all allies.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ORDER" offset="00" relocatable="true" max_length="0">
+			<original>Auto-Battle</original>
+			<edited>Auto-Battle</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ORDER_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Set an overall strategy and let units fight on their own.</original>
+			<edited>Set an overall strategy and let units fight on their own.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REWIND" offset="00" relocatable="true" max_length="0">
+			<original>Time Crystal</original>
+			<edited>Time Crystal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REWIND_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Go back in time to try a different approach.</original>
+			<edited>Go back in time to try a different approach.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SYSTEM" offset="00" relocatable="true" max_length="0">
+			<original>System</original>
+			<edited>System</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_H_SYSTEM" offset="00" relocatable="true" max_length="0">
+			<original>Review tutorials and settings.</original>
+			<edited>Review tutorials and settings.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TUTORIAL" offset="00" relocatable="true" max_length="0">
+			<original>Guide</original>
+			<edited>Guide</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TUTORIAL_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Select a category.</original>
+			<edited>Select a category.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_H_TUTORIAL" offset="00" relocatable="true" max_length="0">
+			<original>Refer back to various tutorials.</original>
+			<edited>Refer back to various tutorials.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CONFIG" offset="00" relocatable="true" max_length="0">
+			<original>Settings</original>
+			<edited>Settings</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CONFIG_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Adjust settings to your liking.</original>
+			<edited>Adjust settings to your liking.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_H_CONFIG" offset="00" relocatable="true" max_length="0">
+			<original>Configure settings.</original>
+			<edited>Configure settings.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_RESTART" offset="00" relocatable="true" max_length="0">
+			<original>Retry</original>
+			<edited>Retry</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_RESTART_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Start this battle over from the
+beginning.</original>
+			<edited>Start this battle over from the
+beginning.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_RESTART_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>Start this battle over from the beginning?
+(This will reset everything, including any EXP
+you've earned so far.)</original>
+			<edited>Start this battle over from the beginning?
+(This will reset everything, including any EXP
+you've earned so far.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_RESTART_CONFIRM_YES" offset="00" relocatable="true" max_length="0">
+			<original>Retry</original>
+			<edited>Retry</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CONTINUEBATTLE_RESTART" offset="00" relocatable="true" max_length="0">
+			<original>Retry Series</original>
+			<edited>Retry Series</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CONTINUEBATTLE_RESTART_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Start this series of battles
+over from the first.</original>
+			<edited>Start this series of battles
+over from the first.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CONTINUEBATTLE_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>Start this series over from the first battle?
+(This will reset everything, including any EXP
+you've earned so far.)</original>
+			<edited>Start this series over from the first battle?
+(This will reset everything, including any EXP
+you've earned so far.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_RESET" offset="00" relocatable="true" max_length="0">
+			<original>Quit</original>
+			<edited>Quit</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_RESET_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Return to the title screen.</original>
+			<edited>Return to the title screen.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_RESET_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>Return to the title screen?
+Unsaved progress will be lost.</original>
+			<edited>Return to the title screen?
+Unsaved progress will be lost.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_RESET_CONFIRM_YES" offset="00" relocatable="true" max_length="0">
+			<original>Return to Title</original>
+			<edited>Return to Title</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TEMPORARY_SAVE" offset="00" relocatable="true" max_length="0">
+			<original>Bookmark</original>
+			<edited>Bookmark</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TEMPORARY_SAVE_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Save this battle and temporarily suspend the game.</original>
+			<edited>Save this battle and temporarily suspend the game.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_END_TURN" offset="00" relocatable="true" max_length="0">
+			<original>End Turn</original>
+			<edited>End Turn</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_END_TURN_HELP" offset="00" relocatable="true" max_length="0">
+			<original>End your army's turn.</original>
+			<edited>End your army's turn.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_MVP" offset="00" relocatable="true" max_length="0">
+			<original>MVP:</original>
+			<edited>MVP:</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TURN_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Turn:</original>
+			<edited>Turn:</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TURNS_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Turns:</original>
+			<edited>Turns:</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_WAIT_UNIT_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Units Ready:</original>
+			<edited>Units Ready:</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STATUS_STYLE" offset="00" relocatable="true" max_length="0">
+			<original>Type</original>
+			<edited>Type</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STATUS_ATTACK_DEFENSE" offset="00" relocatable="true" max_length="0">
+			<original>Ph Atk/Def</original>
+			<edited>Ph Atk/Def</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STATUS_MAGIC_ATTACK_DEFENSE" offset="00" relocatable="true" max_length="0">
+			<original>Mag Atk/Res</original>
+			<edited>Mag Atk/Res</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STATUS_HIT_AVOIDANCE" offset="00" relocatable="true" max_length="0">
+			<original>Hit/Avo</original>
+			<edited>Hit/Avo</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STATUS_CRITICAL_SECURE" offset="00" relocatable="true" max_length="0">
+			<original>Crit/Ddg</original>
+			<edited>Crit/Ddg</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STATUS_TECHNIQUE_SPEED" offset="00" relocatable="true" max_length="0">
+			<original>Dex/Spd</original>
+			<edited>Dex/Spd</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STATUS_MOVE_PHYSIQUE" offset="00" relocatable="true" max_length="0">
+			<original>Mov/Bld</original>
+			<edited>Mov/Bld</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STATUS_NONE" offset="00" relocatable="true" max_length="0">
+			<original>Hide</original>
+			<edited>Hide</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STATUS_MINIMAP" offset="00" relocatable="true" max_length="0">
+			<original>Minimap</original>
+			<edited>Minimap</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STATUS_MINIMAP_SMALL" offset="00" relocatable="true" max_length="0">
+			<original>Small</original>
+			<edited>Small</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STATUS_MINIMAP_BIG" offset="00" relocatable="true" max_length="0">
+			<original>Large</original>
+			<edited>Large</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_INITIALIZE" offset="00" relocatable="true" max_length="0">
+			<original>Revert to default settings?</original>
+			<edited>Revert to default settings?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_GRID" offset="00" relocatable="true" max_length="0">
+			<original>Grid Visibility</original>
+			<edited>Grid Visibility</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_GRID" offset="00" relocatable="true" max_length="0">
+			<original>Adjust the thickness of grid lines or remove them altogether.</original>
+			<edited>Adjust the thickness of grid lines or remove them altogether.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_OVERALLINFORMATION" offset="00" relocatable="true" max_length="0">
+			<original>Danger Radius</original>
+			<edited>Danger Radius</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_OVERALLINFORMATION_TOGGLE" offset="00" relocatable="true" max_length="0">
+			<original>Toggle</original>
+			<edited>Toggle</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_OVERALLINFORMATION_TOGGLE" offset="00" relocatable="true" max_length="0">
+			<original>Toggle danger radius by pressing &#xE;&#x8;&#x2;&#x6;&#x4;&#x0;Z&#x0;L&#x0;.</original>
+			<edited>Toggle danger radius by pressing &#xE;&#x8;&#x2;&#x6;&#x4;&#x0;Z&#x0;L&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_OVERALLINFORMATION_PUSH" offset="00" relocatable="true" max_length="0">
+			<original>Hold</original>
+			<edited>Hold</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_OVERALLINFORMATION_PUSH" offset="00" relocatable="true" max_length="0">
+			<original>Show danger radius only while &#xE;&#x8;&#x2;&#x6;&#x4;&#x0;Z&#x0;L&#x0; is held down.</original>
+			<edited>Show danger radius only while &#xE;&#x8;&#x2;&#x6;&#x4;&#x0;Z&#x0;L&#x0; is held down.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_COMBATANIME" offset="00" relocatable="true" max_length="0">
+			<original>Combat Animations</original>
+			<edited>Combat Animations</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_COMBATANIME_ON" offset="00" relocatable="true" max_length="0">
+			<original>On</original>
+			<edited>On</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_COMBATANIME_ON" offset="00" relocatable="true" max_length="0">
+			<original>Always display combat animations.</original>
+			<edited>Always display combat animations.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_COMBATANIME_OFF" offset="00" relocatable="true" max_length="0">
+			<original>Off</original>
+			<edited>Off</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_COMBATANIME_OFF" offset="00" relocatable="true" max_length="0">
+			<original>Never display combat animations.</original>
+			<edited>Never display combat animations.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_COMBATANIME_MYUNIT" offset="00" relocatable="true" max_length="0">
+			<original>Allied Units</original>
+			<edited>Allied Units</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_COMBATANIME_MYUNIT" offset="00" relocatable="true" max_length="0">
+			<original>Display combat animations only when allied units are involved.</original>
+			<edited>Display combat animations only when allied units are involved.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_COMBATANIME_MYTURN" offset="00" relocatable="true" max_length="0">
+			<original>Your Turn</original>
+			<edited>Your Turn</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_COMBATANIME_MYTURN" offset="00" relocatable="true" max_length="0">
+			<original>Display combat animations only when it is your turn.</original>
+			<edited>Display combat animations only when it is your turn.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_ROD_DANCE" offset="00" relocatable="true" max_length="0">
+			<original>Staff/Dance Animations</original>
+			<edited>Staff/Dance Animations</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_ROD_DANCE_ON" offset="00" relocatable="true" max_length="0">
+			<original>On</original>
+			<edited>On</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_ROD_DANCE_ON" offset="00" relocatable="true" max_length="0">
+			<original>Display staff and dance animations.</original>
+			<edited>Display staff and dance animations.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_ROD_DANCE_OFF" offset="00" relocatable="true" max_length="0">
+			<original>Off</original>
+			<edited>Off</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_ROD_DANCE_OFF" offset="00" relocatable="true" max_length="0">
+			<original>Do not display staff or dance animations.</original>
+			<edited>Do not display staff or dance animations.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_ROD_DANCE_MYUNIT" offset="00" relocatable="true" max_length="0">
+			<original>Allied Units</original>
+			<edited>Allied Units</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_ROD_DANCE_MYUNIT" offset="00" relocatable="true" max_length="0">
+			<original>Display staff and dance animations only with allied units.</original>
+			<edited>Display staff and dance animations only with allied units.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_ROD_DANCE_MYTURN" offset="00" relocatable="true" max_length="0">
+			<original>Your Turn</original>
+			<edited>Your Turn</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_ROD_DANCE_MYTURN" offset="00" relocatable="true" max_length="0">
+			<original>Display staff and dance animations only when it is your turn.</original>
+			<edited>Display staff and dance animations only when it is your turn.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_ENGAGE" offset="00" relocatable="true" max_length="0">
+			<original>Engage Animations</original>
+			<edited>Engage Animations</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_ENGAGE_ON" offset="00" relocatable="true" max_length="0">
+			<original>On</original>
+			<edited>On</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_ENGAGE_ON" offset="00" relocatable="true" max_length="0">
+			<original>Display engage animations.</original>
+			<edited>Display engage animations.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_ENGAGE_OFF" offset="00" relocatable="true" max_length="0">
+			<original>Off</original>
+			<edited>Off</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_ENGAGE_OFF" offset="00" relocatable="true" max_length="0">
+			<original>Do not display engage animations.</original>
+			<edited>Do not display engage animations.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_ENGAGE_ONCE" offset="00" relocatable="true" max_length="0">
+			<original>First Time</original>
+			<edited>First Time</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_ENGAGE_ONCE" offset="00" relocatable="true" max_length="0">
+			<original>Play only the first engage animation of each turn.</original>
+			<edited>Play only the first engage animation of each turn.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_AI_SKIP" offset="00" relocatable="true" max_length="0">
+			<original>Action Skip</original>
+			<edited>Action Skip</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_AI_SKIP_ON" offset="00" relocatable="true" max_length="0">
+			<original>On</original>
+			<edited>On</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_AI_SKIP_ON" offset="00" relocatable="true" max_length="0">
+			<original>Skip through actions during Auto-Battle.</original>
+			<edited>Skip through actions during Auto-Battle.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_AI_SKIP_OFF" offset="00" relocatable="true" max_length="0">
+			<original>Off</original>
+			<edited>Off</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_AI_SKIP_OFF" offset="00" relocatable="true" max_length="0">
+			<original>Do not skip through actions during Auto-Battle.</original>
+			<edited>Do not skip through actions during Auto-Battle.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_UNITHELP_PAGE" offset="00" relocatable="true" max_length="0">
+			<original>Additional Info Config</original>
+			<edited>Additional Info Config</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_UNITHELP_PAGE_H_STYLE" offset="00" relocatable="true" max_length="0">
+			<original>Display unit type as additional information.</original>
+			<edited>Display unit type as additional information.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_UNITHELP_PAGE_H_ATTACK_DEFENSE" offset="00" relocatable="true" max_length="0">
+			<original>Display Ph Atk and Def as additional information.</original>
+			<edited>Display Ph Atk and Def as additional information.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_UNITHELP_PAGE_H_MAGIC_ATTACK_DEFENSE" offset="00" relocatable="true" max_length="0">
+			<original>Display Mag Atk and Res as additional information.</original>
+			<edited>Display Mag Atk and Res as additional information.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_UNITHELP_PAGE_H_HIT_AVOIDANCE" offset="00" relocatable="true" max_length="0">
+			<original>Display Hit and Avo as additional information.</original>
+			<edited>Display Hit and Avo as additional information.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_UNITHELP_PAGE_H_CRITICAL_SECURE" offset="00" relocatable="true" max_length="0">
+			<original>Display Crit and Ddg as additional information.</original>
+			<edited>Display Crit and Ddg as additional information.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_UNITHELP_PAGE_H_TECHNIQUE_SPEED" offset="00" relocatable="true" max_length="0">
+			<original>Display Dex and Spd as additional information.</original>
+			<edited>Display Dex and Spd as additional information.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_UNITHELP_PAGE_H_MOVE_PHYSIQUE" offset="00" relocatable="true" max_length="0">
+			<original>Display Mov and Bld as additional information.</original>
+			<edited>Display Mov and Bld as additional information.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_BATTLE_MINIMAP" offset="00" relocatable="true" max_length="0">
+			<original>Battle Minimap</original>
+			<edited>Battle Minimap</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_BATTLE_MINIMAP_BIG" offset="00" relocatable="true" max_length="0">
+			<original>Large Minimap</original>
+			<edited>Large Minimap</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_BATTLE_MINIMAP_SMALL" offset="00" relocatable="true" max_length="0">
+			<original>Small Minimap</original>
+			<edited>Small Minimap</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_BATTLE_MINIMAP_OFF" offset="00" relocatable="true" max_length="0">
+			<original>No Minimap</original>
+			<edited>No Minimap</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_MAPUNIT" offset="00" relocatable="true" max_length="0">
+			<original>Unit Control Style</original>
+			<edited>Unit Control Style</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_MAPUNIT_DIRECT" offset="00" relocatable="true" max_length="0">
+			<original>Direct</original>
+			<edited>Direct</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_MAPUNIT_DIRECT" offset="00" relocatable="true" max_length="0">
+			<original>Control units directly by selecting them.</original>
+			<edited>Control units directly by selecting them.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_MAPUNIT_INDIRECT" offset="00" relocatable="true" max_length="0">
+			<original>Cursor</original>
+			<edited>Cursor</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_MAPUNIT_INDIRECT" offset="00" relocatable="true" max_length="0">
+			<original>Control units indirectly by selecting a target space with the cursor.</original>
+			<edited>Control units indirectly by selecting a target space with the cursor.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_MINIMAP_ROTATION" offset="00" relocatable="true" max_length="0">
+			<original>Minimap Rotation</original>
+			<edited>Minimap Rotation</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_MINIMAP_ROTATION_ON" offset="00" relocatable="true" max_length="0">
+			<original>On</original>
+			<edited>On</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_MINIMAP_ROTATION_ON" offset="00" relocatable="true" max_length="0">
+			<original>Minimap will rotate with camera movement while exploring.</original>
+			<edited>Minimap will rotate with camera movement while exploring.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_MINIMAP_ROTATION_OFF" offset="00" relocatable="true" max_length="0">
+			<original>Off</original>
+			<edited>Off</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_MINIMAP_ROTATION_OFF" offset="00" relocatable="true" max_length="0">
+			<original>Minimap will not rotate while exploring.</original>
+			<edited>Minimap will not rotate while exploring.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_CAMERA_SPEED" offset="00" relocatable="true" max_length="0">
+			<original>Camera Sensitivity</original>
+			<edited>Camera Sensitivity</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_CAMERA_SPEED" offset="00" relocatable="true" max_length="0">
+			<original>Adjust camera sensitivity for exploring and the Somniel.</original>
+			<edited>Adjust camera sensitivity for exploring and the Somniel.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_COMBATCAMERA_HORIZON" offset="00" relocatable="true" max_length="0">
+			<original>Combat Camera (Horizontal)</original>
+			<edited>Combat Camera (Horizontal)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_COMBATCAMERA_HORIZON_NOMAL" offset="00" relocatable="true" max_length="0">
+			<original>Normal</original>
+			<edited>Normal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_COMBATCAMERA_HORIZON_NOMAL" offset="00" relocatable="true" max_length="0">
+			<original>Sets horizontal controls for the combat camera to standard.</original>
+			<edited>Sets horizontal controls for the combat camera to standard.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_COMBATCAMERA_HORIZON_REVERSE" offset="00" relocatable="true" max_length="0">
+			<original>Inverted</original>
+			<edited>Inverted</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_COMBATCAMERA_HORIZON_REVERSE" offset="00" relocatable="true" max_length="0">
+			<original>Inverts horizontal combat-camera controls.</original>
+			<edited>Inverts horizontal combat-camera controls.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_COMBATCAMERA_VERTICAL" offset="00" relocatable="true" max_length="0">
+			<original>Combat Camera (Vertical)</original>
+			<edited>Combat Camera (Vertical)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_COMBATCAMERA_VERTICAL_NOMAL" offset="00" relocatable="true" max_length="0">
+			<original>Normal</original>
+			<edited>Normal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_COMBATCAMERA_VERTICAL_NOMAL" offset="00" relocatable="true" max_length="0">
+			<original>Sets vertical controls for the combat camera to standard.</original>
+			<edited>Sets vertical controls for the combat camera to standard.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_COMBATCAMERA_VERTICAL_REVERSE" offset="00" relocatable="true" max_length="0">
+			<original>Inverted</original>
+			<edited>Inverted</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_COMBATCAMERA_VERTICAL_REVERSE" offset="00" relocatable="true" max_length="0">
+			<original>Inverts vertical combat-camera controls.</original>
+			<edited>Inverts vertical combat-camera controls.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_HABCAMERA_HORIZON" offset="00" relocatable="true" max_length="0">
+			<original>Walking Camera (Horizontal)</original>
+			<edited>Walking Camera (Horizontal)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_HABCAMERA_HORIZON_NOMAL" offset="00" relocatable="true" max_length="0">
+			<original>Normal</original>
+			<edited>Normal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_HABCAMERA_HORIZON_NOMAL" offset="00" relocatable="true" max_length="0">
+			<original>Sets horizontal controls for the walking camera to standard.</original>
+			<edited>Sets horizontal controls for the walking camera to standard.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_HABCAMERA_HORIZON_REVERSE" offset="00" relocatable="true" max_length="0">
+			<original>Inverted</original>
+			<edited>Inverted</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_HABCAMERA_HORIZON_REVERSE" offset="00" relocatable="true" max_length="0">
+			<original>Inverts horizontal walking-camera controls.</original>
+			<edited>Inverts horizontal walking-camera controls.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_HABCAMERA_VERTICAL" offset="00" relocatable="true" max_length="0">
+			<original>Walking Camera (Vertical)</original>
+			<edited>Walking Camera (Vertical)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_HABCAMERA_VERTICAL_NOMAL" offset="00" relocatable="true" max_length="0">
+			<original>Normal</original>
+			<edited>Normal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_HABCAMERA_VERTICAL_NOMAL" offset="00" relocatable="true" max_length="0">
+			<original>Sets vertical controls for the walking camera to standard.</original>
+			<edited>Sets vertical controls for the walking camera to standard.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_HABCAMERA_VERTICAL_REVERSE" offset="00" relocatable="true" max_length="0">
+			<original>Inverted</original>
+			<edited>Inverted</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_HABCAMERA_VERTICAL_REVERSE" offset="00" relocatable="true" max_length="0">
+			<original>Inverts vertical walking-camera controls.</original>
+			<edited>Inverts vertical walking-camera controls.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_GAMESPEED" offset="00" relocatable="true" max_length="0">
+			<original>Game Speed</original>
+			<edited>Game Speed</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_GAMESPEED_FAST" offset="00" relocatable="true" max_length="0">
+			<original>Fast</original>
+			<edited>Fast</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_GAMESPEED_FAST" offset="00" relocatable="true" max_length="0">
+			<original>Set game flow (movement, etc.) to fast.</original>
+			<edited>Set game flow (movement, etc.) to fast.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_GAMESPEED_NOMAL" offset="00" relocatable="true" max_length="0">
+			<original>Normal</original>
+			<edited>Normal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_GAMESPEED_NOMAL" offset="00" relocatable="true" max_length="0">
+			<original>Set game flow (movement, etc.) to normal.</original>
+			<edited>Set game flow (movement, etc.) to normal.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_GAMESPEED_SLOW" offset="00" relocatable="true" max_length="0">
+			<original>Slow</original>
+			<edited>Slow</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_GAMESPEED_SLOW" offset="00" relocatable="true" max_length="0">
+			<original>Set game flow (movement, etc.) to slow.</original>
+			<edited>Set game flow (movement, etc.) to slow.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_HPGAGE" offset="00" relocatable="true" max_length="0">
+			<original>HP Gauges</original>
+			<edited>HP Gauges</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_HPGAGE_ON" offset="00" relocatable="true" max_length="0">
+			<original>On</original>
+			<edited>On</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_HPGAGE_ON" offset="00" relocatable="true" max_length="0">
+			<original>HP gauges will display.</original>
+			<edited>HP gauges will display.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_HPGAGE_OFF" offset="00" relocatable="true" max_length="0">
+			<original>Off</original>
+			<edited>Off</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_HPGAGE_OFF" offset="00" relocatable="true" max_length="0">
+			<original>HP gauges will not display.</original>
+			<edited>HP gauges will not display.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_SPEAKMODE" offset="00" relocatable="true" max_length="0">
+			<original>Conversation Advancement</original>
+			<edited>Conversation Advancement</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_SPEAKMODE_MANUAL" offset="00" relocatable="true" max_length="0">
+			<original>Manual</original>
+			<edited>Manual</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_SPEAKMODE_MANUAL" offset="00" relocatable="true" max_length="0">
+			<original>Advance conversation manually.</original>
+			<edited>Advance conversation manually.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_SPEAKMODE_AUTOMATIC" offset="00" relocatable="true" max_length="0">
+			<original>Automatic</original>
+			<edited>Automatic</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_SPEAKMODE_AUTOMATIC" offset="00" relocatable="true" max_length="0">
+			<original>Advance conversation automatically.</original>
+			<edited>Advance conversation automatically.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_BGM" offset="00" relocatable="true" max_length="0">
+			<original>Music Volume</original>
+			<edited>Music Volume</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_BGM" offset="00" relocatable="true" max_length="0">
+			<original>Adjust the volume of music.</original>
+			<edited>Adjust the volume of music.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_SE" offset="00" relocatable="true" max_length="0">
+			<original>SFX Volume</original>
+			<edited>SFX Volume</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_SE" offset="00" relocatable="true" max_length="0">
+			<original>Adjust the volume of sound effects.</original>
+			<edited>Adjust the volume of sound effects.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_VOICE" offset="00" relocatable="true" max_length="0">
+			<original>Voice Volume</original>
+			<edited>Voice Volume</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_VOICE" offset="00" relocatable="true" max_length="0">
+			<original>Adjust the volume of voices.</original>
+			<edited>Adjust the volume of voices.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_BGM_CHANGE_MYTURN" offset="00" relocatable="true" max_length="0">
+			<original>Music Settings (Player Phase)</original>
+			<edited>Music Settings (Player Phase)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_BGM_CHANGE_MYTURN" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; will play during non-story player phase.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; will play during non-story player phase.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_BGM_CHANGE_MYTURN_NONE" offset="00" relocatable="true" max_length="0">
+			<original>Music will not change during non-story player phase.</original>
+			<edited>Music will not change during non-story player phase.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_BGM_CHANGE_ENEMYTURN" offset="00" relocatable="true" max_length="0">
+			<original>Music Settings (Enemy Phase)</original>
+			<edited>Music Settings (Enemy Phase)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_BGM_CHANGE_ENEMYTURN" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; will play during non-story enemy phase.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; will play during non-story enemy phase.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_BGM_CHANGE_ENEMYTURN_NONE" offset="00" relocatable="true" max_length="0">
+			<original>Music will not change during non-story enemy phase.</original>
+			<edited>Music will not change during non-story enemy phase.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_BGM_CHANGE_DECIDE" offset="00" relocatable="true" max_length="0">
+			<original>Change Setting</original>
+			<edited>Change Setting</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_BGM_CHANGE_NOSELECT" offset="00" relocatable="true" max_length="0">
+			<original>No Selection</original>
+			<edited>No Selection</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_TUTORIAL" offset="00" relocatable="true" max_length="0">
+			<original>Guide Display</original>
+			<edited>Guide Display</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_TUTORIAL_ON" offset="00" relocatable="true" max_length="0">
+			<original>On</original>
+			<edited>On</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_TUTORIAL_ON" offset="00" relocatable="true" max_length="0">
+			<original>Tutorials will appear during gameplay.</original>
+			<edited>Tutorials will appear during gameplay.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_TUTORIAL_OFF" offset="00" relocatable="true" max_length="0">
+			<original>Off</original>
+			<edited>Off</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_TUTORIAL_OFF" offset="00" relocatable="true" max_length="0">
+			<original>Tutorials will not appear during gameplay (with some exceptions).</original>
+			<edited>Tutorials will not appear during gameplay (with some exceptions).</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_NETWORK" offset="00" relocatable="true" max_length="0">
+			<original>Network Features</original>
+			<edited>Network Features</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_NETWORK_ON" offset="00" relocatable="true" max_length="0">
+			<original>On</original>
+			<edited>On</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_NETWORK_ON" offset="00" relocatable="true" max_length="0">
+			<original>Enable online-communication features.</original>
+			<edited>Enable online-communication features.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_NETWORK_OFF" offset="00" relocatable="true" max_length="0">
+			<original>Off</original>
+			<edited>Off</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_NETWORK_OFF" offset="00" relocatable="true" max_length="0">
+			<original>Disable online-communication features.</original>
+			<edited>Disable online-communication features.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TITLE_GMAP" offset="00" relocatable="true" max_length="0">
+			<original>World Map Menu</original>
+			<edited>World Map Menu</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TITLE_KIZUNA" offset="00" relocatable="true" max_length="0">
+			<original>Exploration Menu</original>
+			<edited>Exploration Menu</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TITLE_HUB" offset="00" relocatable="true" max_length="0">
+			<original>Somniel Menu</original>
+			<edited>Somniel Menu</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TITLE_FASTTRAVEL" offset="00" relocatable="true" max_length="0">
+			<original>Fast Travel</original>
+			<edited>Fast Travel</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TITLE_FASTTRAVEL_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Select a location to visit.</original>
+			<edited>Select a location to visit.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_CHAPTER" offset="00" relocatable="true" max_length="0">
+			<original>Begin Chapter</original>
+			<edited>Begin Chapter</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_CHAPTER_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Continue the story.</original>
+			<edited>Continue the story.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_ENCOUNTER" offset="00" relocatable="true" max_length="0">
+			<original>Begin Skirmish</original>
+			<edited>Begin Skirmish</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_ENCOUNTER_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Battle enemies here.</original>
+			<edited>Battle enemies here.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_TRAINING" offset="00" relocatable="true" max_length="0">
+			<original>Begin Training</original>
+			<edited>Begin Training</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_TRAINING_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Train with the soldiers here.</original>
+			<edited>Train with the soldiers here.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_CHAPTER_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>Begin this chapter?</original>
+			<edited>Begin this chapter?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_CHAPTER_CONFIRM_M010" offset="00" relocatable="true" max_length="0">
+			<original>Once you start this chapter, there is a series
+of battles before you can return to the Somniel.</original>
+			<edited>Once you start this chapter, there is a series
+of battles before you can return to the Somniel.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_ENCOUNTER_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>Begin this skirmish?</original>
+			<edited>Begin this skirmish?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_TRAINING_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>Begin this training?</original>
+			<edited>Begin this training?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_YES" offset="00" relocatable="true" max_length="0">
+			<original>Begin</original>
+			<edited>Begin</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_CHAPTER_OPEN_M026" offset="00" relocatable="true" max_length="0">
+			<original>You can access the final battle with Fell Dragon
+Sombron from the second floor balcony of the
+Somniel's Café Terrace.</original>
+			<edited>You can access the final battle with Fell Dragon
+Sombron from the second floor balcony of the
+Somniel's Café Terrace.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FRIEND" offset="00" relocatable="true" max_length="0">
+			<original>Reference</original>
+			<edited>Reference</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FRIEND_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Check info/support on allies &amp; Emblems.</original>
+			<edited>Check info/support on allies &amp; Emblems.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FRIEND_LIST" offset="00" relocatable="true" max_length="0">
+			<original>Ally Notebook</original>
+			<edited>Ally Notebook</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FRIEND_LIST_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Review notes on allies.</original>
+			<edited>Review notes on allies.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FRIEND_LIST_SELECT_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Select an ally to review.</original>
+			<edited>Select an ally to review.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FRIEND_LIST_NONE" offset="00" relocatable="true" max_length="0">
+			<original>No notes yet. Try speaking with your allies on
+the Somniel.</original>
+			<edited>No notes yet. Try speaking with your allies on
+the Somniel.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_RING_LIST" offset="00" relocatable="true" max_length="0">
+			<original>Ring Reference</original>
+			<edited>Ring Reference</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_RING_LIST_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Review Emblems and Bond Rings.</original>
+			<edited>Review Emblems and Bond Rings.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_RING_LIST_SELECT_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Select a ring&#xE;&#x1;
+&#x0; to review.</original>
+			<edited>Select a ring&#xE;&#x1;
+&#x0; to review.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HUB_MATERIAL" offset="00" relocatable="true" max_length="0">
+			<original>Storehouse</original>
+			<edited>Storehouse</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HUB_MATERIAL_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Review materials and gifts.</original>
+			<edited>Review materials and gifts.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HUB_MAP_CHECK" offset="00" relocatable="true" max_length="0">
+			<original>Somniel Map</original>
+			<edited>Somniel Map</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HUB_MAP_CHECK_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Fast travel and review facility information.</original>
+			<edited>Fast travel and review facility information.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_KIZUNA_DEPART" offset="00" relocatable="true" max_length="0">
+			<original>Depart</original>
+			<edited>Depart</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_KIZUNA_DEPART_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Proceed to your next destination.</original>
+			<edited>Proceed to your next destination.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TO_SOLANEL" offset="00" relocatable="true" max_length="0">
+			<original>To Somniel</original>
+			<edited>To Somniel</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TO_SOLANEL_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Travel to your base on the Somniel.</original>
+			<edited>Travel to your base on the Somniel.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TO_SOLANEL_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>Travel to the Somniel?</original>
+			<edited>Travel to the Somniel?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TO_GMAP" offset="00" relocatable="true" max_length="0">
+			<original>To World Map</original>
+			<edited>To World Map</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TO_GMAP_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Depart to the world map.</original>
+			<edited>Depart to the world map.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOPPING" offset="00" relocatable="true" max_length="0">
+			<original>Marketplace</original>
+			<edited>Marketplace</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOPPING_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Buy or sell weapons and items.</original>
+			<edited>Buy or sell weapons and items.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_Recall_Reliance" offset="00" relocatable="true" max_length="0">
+			<original>Support</original>
+			<edited>Support</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_H_Recall_Reliance" offset="00" relocatable="true" max_length="0">
+			<original>View support relationships.</original>
+			<edited>View support relationships.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_Recall_Reliance_Unit" offset="00" relocatable="true" max_length="0">
+			<original>Supports</original>
+			<edited>Supports</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_Recall_GodReliance" offset="00" relocatable="true" max_length="0">
+			<original>Bond</original>
+			<edited>Bond</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_H_Recall_GodReliance" offset="00" relocatable="true" max_length="0">
+			<original>View bond relationships.</original>
+			<edited>View bond relationships.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_Recall_GodReliance_Unit" offset="00" relocatable="true" max_length="0">
+			<original>Bonds</original>
+			<edited>Bonds</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SoundList" offset="00" relocatable="true" max_length="0">
+			<original>Songs</original>
+			<edited>Songs</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_TRAINING" offset="00" relocatable="true" max_length="0">
+			<original>Training!</original>
+			<edited>Training!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_ENCOUNTER" offset="00" relocatable="true" max_length="0">
+			<original>Skirmish!</original>
+			<edited>Skirmish!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_RarEnemy_EXP" offset="00" relocatable="true" max_length="0">
+			<original>Silver Corrupted!</original>
+			<edited>Silver Corrupted!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_RarEnemy_Gold" offset="00" relocatable="true" max_length="0">
+			<original>Gold Corrupted!</original>
+			<edited>Gold Corrupted!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Position" offset="00" relocatable="true" max_length="0">
+			<original>Suggested:</original>
+			<edited>Suggested:</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_PositionLv" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; Lvl &#xE;&#x1;&#x1;&#x0;</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; Lvl &#xE;&#x1;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Investment" offset="00" relocatable="true" max_length="0">
+			<original>Donation Lvl &#xE;&#x1;&#x0;&#x0;</original>
+			<edited>Donation Lvl &#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Material" offset="00" relocatable="true" max_length="0">
+			<original>Materials</original>
+			<edited>Materials</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Food" offset="00" relocatable="true" max_length="0">
+			<original>Ingredients</original>
+			<edited>Ingredients</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Animal" offset="00" relocatable="true" max_length="0">
+			<original>Animals</original>
+			<edited>Animals</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Animal_Capture_OK" offset="00" relocatable="true" max_length="0">
+			<original>Can Adopt</original>
+			<edited>Can Adopt</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Animal_Capture_NG" offset="00" relocatable="true" max_length="0">
+			<original>Can't Adopt</original>
+			<edited>Can't Adopt</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Animal_Capture_Verification" offset="00" relocatable="true" max_length="0">
+			<original>Adopt &#xE;&#x1;&#x0;&#x0; and bring it back to the Somniel?</original>
+			<edited>Adopt &#xE;&#x1;&#x0;&#x0; and bring it back to the Somniel?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Animal_Capture_Yes" offset="00" relocatable="true" max_length="0">
+			<original>Adopt</original>
+			<edited>Adopt</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Animal_Capture_Attention" offset="00" relocatable="true" max_length="0">
+			<original>You can't adopt this &#xE;&#x1;&#x0;&#x0; because
+you don't know how to raise it.
+See the donation section of the bulletin board
+at Café Terrace to learn more.</original>
+			<edited>You can't adopt this &#xE;&#x1;&#x0;&#x0; because
+you don't know how to raise it.
+See the donation section of the bulletin board
+at Café Terrace to learn more.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Animal_Capture_Get" offset="00" relocatable="true" max_length="0">
+			<original>Adopt</original>
+			<edited>Adopt</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Animal_Capture_Got" offset="00" relocatable="true" max_length="0">
+			<original>Adopted!</original>
+			<edited>Adopted!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ORDER_ADVANCE" offset="00" relocatable="true" max_length="0">
+			<original>Advance</original>
+			<edited>Advance</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ORDER_ADVANCE_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Proceed in a balanced and
+flexible way.</original>
+			<edited>Proceed in a balanced and
+flexible way.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ORDER_RUSH" offset="00" relocatable="true" max_length="0">
+			<original>Charge</original>
+			<edited>Charge</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ORDER_RUSH_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Attack aggressively.</original>
+			<edited>Attack aggressively.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ORDER_ESCORT" offset="00" relocatable="true" max_length="0">
+			<original>Protect</original>
+			<edited>Protect</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ORDER_ESCORT_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Focus on protecting
+&#xE;&#x6;&#x3;&#x0;.</original>
+			<edited>Focus on protecting
+&#xE;&#x6;&#x3;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ORDER_WITHDRAW" offset="00" relocatable="true" max_length="0">
+			<original>Fall Back</original>
+			<edited>Fall Back</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ORDER_WITHDRAW_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Keep away from the enemy.</original>
+			<edited>Keep away from the enemy.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_BREAK_DOWN" offset="00" relocatable="true" max_length="0">
+			<original>Seize</original>
+			<edited>Seize</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_BREAK_DOWN" offset="00" relocatable="true" max_length="0">
+			<original>Clear this map.</original>
+			<edited>Clear this map.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ESCAPE" offset="00" relocatable="true" max_length="0">
+			<original>Escape</original>
+			<edited>Escape</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_ESCAPE" offset="00" relocatable="true" max_length="0">
+			<original>Exit the map.</original>
+			<edited>Exit the map.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ATTACK" offset="00" relocatable="true" max_length="0">
+			<original>Attack</original>
+			<edited>Attack</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_ATTACK" offset="00" relocatable="true" max_length="0">
+			<original>Combat a foe.</original>
+			<edited>Combat a foe.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENGAGE_COMMAND" offset="00" relocatable="true" max_length="0">
+			<original>Engage</original>
+			<edited>Engage</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENGAGE_COMMAND_RELEASE" offset="00" relocatable="true" max_length="0">
+			<original>Disengage</original>
+			<edited>Disengage</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_ENGAGE_COMMAND" offset="00" relocatable="true" max_length="0">
+			<original>Merge with an Emblem.</original>
+			<edited>Merge with an Emblem.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENGAGE_HELP_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Bond Effects</original>
+			<edited>Bond Effects</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ALTERNATE_HELP_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Effects Altered</original>
+			<edited>Effects Altered</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENGAGE_LINK" offset="00" relocatable="true" max_length="0">
+			<original>Engage+</original>
+			<edited>Engage+</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_ENGAGE_LINK" offset="00" relocatable="true" max_length="0">
+			<original>Unit and an adjacent ally
+both become engaged.</original>
+			<edited>Unit and an adjacent ally
+both become engaged.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENGAGE_LINK_OUT_OF_MOVE_RANGE" offset="00" relocatable="true" max_length="0">
+			<original>You are not within movement range to do this.</original>
+			<edited>You are not within movement range to do this.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CANNON" offset="00" relocatable="true" max_length="0">
+			<original>Fire</original>
+			<edited>Fire</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_CANNON" offset="00" relocatable="true" max_length="0">
+			<original>Use mounted weapon to attack a foe.</original>
+			<edited>Use mounted weapon to attack a foe.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CANNON_NO_AVAILABLE_BOW" offset="00" relocatable="true" max_length="0">
+			<original>Unit has no bow.</original>
+			<edited>Unit has no bow.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CANNON_NO_AVAILABLE_MAGIC" offset="00" relocatable="true" max_length="0">
+			<original>Unit has no tome.</original>
+			<edited>Unit has no tome.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CANNON_OUT_OF_AMMO" offset="00" relocatable="true" max_length="0">
+			<original>No more uses left.</original>
+			<edited>No more uses left.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CANNON_OUT_OF_RANGE" offset="00" relocatable="true" max_length="0">
+			<original>No enemies in range.</original>
+			<edited>No enemies in range.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_DESTROY" offset="00" relocatable="true" max_length="0">
+			<original>Destroy</original>
+			<edited>Destroy</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_DESTROY" offset="00" relocatable="true" max_length="0">
+			<original>Break through walls or obstacles.</original>
+			<edited>Break through walls or obstacles.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ROD" offset="00" relocatable="true" max_length="0">
+			<original>Staff</original>
+			<edited>Staff</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_ROD" offset="00" relocatable="true" max_length="0">
+			<original>Heal allies, impair enemies, etc.</original>
+			<edited>Heal allies, impair enemies, etc.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_VISIT" offset="00" relocatable="true" max_length="0">
+			<original>Visit</original>
+			<edited>Visit</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_VISIT" offset="00" relocatable="true" max_length="0">
+			<original>Speak to people in houses.</original>
+			<edited>Speak to people in houses.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TREASURE_BOX" offset="00" relocatable="true" max_length="0">
+			<original>Chest</original>
+			<edited>Chest</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_TREASURE_BOX" offset="00" relocatable="true" max_length="0">
+			<original>Obtain an item from a chest.</original>
+			<edited>Obtain an item from a chest.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TORCH_ON" offset="00" relocatable="true" max_length="0">
+			<original>Light</original>
+			<edited>Light</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_TORCH_ON" offset="00" relocatable="true" max_length="0">
+			<original>Light up surroundings.</original>
+			<edited>Light up surroundings.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_DOOR" offset="00" relocatable="true" max_length="0">
+			<original>Door</original>
+			<edited>Door</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_DOOR" offset="00" relocatable="true" max_length="0">
+			<original>Open a door.</original>
+			<edited>Open a door.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>Items</original>
+			<edited>Items</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>Use or equip items.</original>
+			<edited>Use or equip items.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TRADE" offset="00" relocatable="true" max_length="0">
+			<original>Trade</original>
+			<edited>Trade</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_TRADE" offset="00" relocatable="true" max_length="0">
+			<original>Swap items with an ally.</original>
+			<edited>Swap items with an ally.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TRANSPORTER" offset="00" relocatable="true" max_length="0">
+			<original>Convoy</original>
+			<edited>Convoy</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_TRANSPORTER" offset="00" relocatable="true" max_length="0">
+			<original>Store/retrieve items.</original>
+			<edited>Store/retrieve items.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TITLEHELP_TRANSPORTER" offset="00" relocatable="true" max_length="0">
+			<original>Store/retrieve items.</original>
+			<edited>Store/retrieve items.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TALK" offset="00" relocatable="true" max_length="0">
+			<original>Talk</original>
+			<edited>Talk</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_TALK" offset="00" relocatable="true" max_length="0">
+			<original>Speak to a unit on the map.</original>
+			<edited>Speak to a unit on the map.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_GUARD" offset="00" relocatable="true" max_length="0">
+			<original>Chain Guard</original>
+			<edited>Chain Guard</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_GUARD" offset="00" relocatable="true" max_length="0">
+			<original>Shield adjacent allies from attack.</original>
+			<edited>Shield adjacent allies from attack.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_GUARD_FULL_HP" offset="00" relocatable="true" max_length="0">
+			<original>Can only be used with full HP.</original>
+			<edited>Can only be used with full HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_DANCE" offset="00" relocatable="true" max_length="0">
+			<original>Dance</original>
+			<edited>Dance</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_DANCE" offset="00" relocatable="true" max_length="0">
+			<original>Inspire allies to act again this phase.</original>
+			<edited>Inspire allies to act again this phase.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_WAIT" offset="00" relocatable="true" max_length="0">
+			<original>Wait</original>
+			<edited>Wait</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_WAIT" offset="00" relocatable="true" max_length="0">
+			<original>End this unit's turn.</original>
+			<edited>End this unit's turn.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_EQUIP" offset="00" relocatable="true" max_length="0">
+			<original>Equip</original>
+			<edited>Equip</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_REMOVE" offset="00" relocatable="true" max_length="0">
+			<original>Remove</original>
+			<edited>Remove</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_ARRANGE" offset="00" relocatable="true" max_length="0">
+			<original>Arrange</original>
+			<edited>Arrange</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_USE" offset="00" relocatable="true" max_length="0">
+			<original>Use</original>
+			<edited>Use</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_USE_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>Use &#xE;&#x1;&#x0;&#x0;?</original>
+			<edited>Use &#xE;&#x1;&#x0;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_USE_DOPING_FOREVER" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; increased by &#xE;&#x1;&#x1;&#x0;.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; increased by &#xE;&#x1;&#x1;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_USE_DOPING_TEMPORARY" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; increased by &#xE;&#x1;&#x1;&#x0; for one battle.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; increased by &#xE;&#x1;&#x1;&#x0; for one battle.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_TRADE" offset="00" relocatable="true" max_length="0">
+			<original>Trade</original>
+			<edited>Trade</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_DISCARD" offset="00" relocatable="true" max_length="0">
+			<original>Discard</original>
+			<edited>Discard</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_DISCARD_NOTIFY" offset="00" relocatable="true" max_length="0">
+			<original>Your inventory is
+full. Choose one
+item to discard.</original>
+			<edited>Your inventory is
+full. Choose one
+item to discard.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_SEND_NOTIFY" offset="00" relocatable="true" max_length="0">
+			<original>You cannot carry
+any more. Send one
+item to the convoy.</original>
+			<edited>You cannot carry
+any more. Send one
+item to the convoy.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_SEND_EQUIP" offset="00" relocatable="true" max_length="0">
+			<original>You cannot send or discard a weapon that is
+currently equipped.</original>
+			<edited>You cannot send or discard a weapon that is
+currently equipped.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_DISCARD_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>Discard &#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;?</original>
+			<edited>Discard &#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_DISCARD_CONFIRM_YES" offset="00" relocatable="true" max_length="0">
+			<original>Discard</original>
+			<edited>Discard</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_SEND_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>Send &#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0; to the convoy?</original>
+			<edited>Send &#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0; to the convoy?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_SEND_YES" offset="00" relocatable="true" max_length="0">
+			<original>Send</original>
+			<edited>Send</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_CASH_ANNOUNCE" offset="00" relocatable="true" max_length="0">
+			<original>Convoy storage limit exceeded. One or more of
+your least valuable items have been sold to free
+up space.</original>
+			<edited>Convoy storage limit exceeded. One or more of
+your least valuable items have been sold to free
+up space.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ITEMMENU_TITLE_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>Items</original>
+			<edited>Items</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ITEMMENU_TITLE_ATTACK" offset="00" relocatable="true" max_length="0">
+			<original>Weapon Selection</original>
+			<edited>Weapon Selection</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ITEMMENU_TITLE_ROD" offset="00" relocatable="true" max_length="0">
+			<original>Staff Selection</original>
+			<edited>Staff Selection</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ITEMMENU_TITLE_TRANSPORTER" offset="00" relocatable="true" max_length="0">
+			<original>Convoy</original>
+			<edited>Convoy</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ITEMMENU_ITEM_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Number</original>
+			<edited>Number</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ITEMMENU_ITEM_ALL" offset="00" relocatable="true" max_length="0">
+			<original>ALL</original>
+			<edited>ALL</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REWIND_INFO_TURN" offset="00" relocatable="true" max_length="0">
+			<original>Turn:</original>
+			<edited>Turn:</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REWIND_INFO_TURNS" offset="00" relocatable="true" max_length="0">
+			<original>Turns</original>
+			<edited>Turns</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REWIND_INFO_REST_UNIT" offset="00" relocatable="true" max_length="0">
+			<original>Units Ready:</original>
+			<edited>Units Ready:</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REWIND_INFO_TIMES" offset="00" relocatable="true" max_length="0">
+			<original>Charges</original>
+			<edited>Charges</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REWIND_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>This is not during your own army's phase.
+Do you still wish to rewind to this point?</original>
+			<edited>This is not during your own army's phase.
+Do you still wish to rewind to this point?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REWIND_DECIDE_YES" offset="00" relocatable="true" max_length="0">
+			<original>Rewind</original>
+			<edited>Rewind</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Select an action.</original>
+			<edited>Select an action.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_BUY" offset="00" relocatable="true" max_length="0">
+			<original>Buy</original>
+			<edited>Buy</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_BUY_EMPTY" offset="00" relocatable="true" max_length="0">
+			<original>Nothing available.</original>
+			<edited>Nothing available.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_BUY_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>Buy this item?</original>
+			<edited>Buy this item?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_PurchasedItem" offset="00" relocatable="true" max_length="0">
+			<original>Item to Buy</original>
+			<edited>Item to Buy</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_BUY_CONFIRM_YES" offset="00" relocatable="true" max_length="0">
+			<original>Buy</original>
+			<edited>Buy</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_BUY_NOTICE_FULL" offset="00" relocatable="true" max_length="0">
+			<original>Unable to purchase. You cannot carry any more.</original>
+			<edited>Unable to purchase. You cannot carry any more.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_SELL" offset="00" relocatable="true" max_length="0">
+			<original>Sell</original>
+			<edited>Sell</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_SELL_EMPTY" offset="00" relocatable="true" max_length="0">
+			<original>(No items)</original>
+			<edited>(No items)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_SELL_CANNOT" offset="00" relocatable="true" max_length="0">
+			<original>Can't Sell</original>
+			<edited>Can't Sell</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_SELL_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>Sell this item?</original>
+			<edited>Sell this item?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_SELL_CONFIRM_Multiple" offset="00" relocatable="true" max_length="0">
+			<original>Sell these items?</original>
+			<edited>Sell these items?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_SELL_CONFIRM_Other" offset="00" relocatable="true" max_length="0">
+			<original>Other: &#xE;&#x1;&#x0;&#x0;</original>
+			<edited>Other: &#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_SaleItem" offset="00" relocatable="true" max_length="0">
+			<original>Items</original>
+			<edited>Items</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_SELL_CONFIRM_YES" offset="00" relocatable="true" max_length="0">
+			<original>Sell</original>
+			<edited>Sell</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>Items</original>
+			<edited>Items</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_STOCK" offset="00" relocatable="true" max_length="0">
+			<original>Stock</original>
+			<edited>Stock</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_USABLE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Uses</original>
+			<edited>Uses</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_PRICE" offset="00" relocatable="true" max_length="0">
+			<original>Cost</original>
+			<edited>Cost</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_SELLING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Qty</original>
+			<edited>Qty</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_SELLING_TOTAL" offset="00" relocatable="true" max_length="0">
+			<original>Price</original>
+			<edited>Price</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_WEAPON_SHOP" offset="00" relocatable="true" max_length="0">
+			<original>Armory</original>
+			<edited>Armory</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_WEAPON_SHOP_BUY_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Select a weapon to buy.</original>
+			<edited>Select a weapon to buy.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_WEAPON_SHOP_HOLDING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Inventory</original>
+			<edited>Inventory</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_WEAPON_SHOP_EQUIPPED_POSSIBLE" offset="00" relocatable="true" max_length="0">
+			<original>Equippable</original>
+			<edited>Equippable</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_SHOP" offset="00" relocatable="true" max_length="0">
+			<original>Item Shop</original>
+			<edited>Item Shop</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_SHOP_BUY_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Select an item to buy.</original>
+			<edited>Select an item to buy.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_SHOP_SELL_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Select items to sell.</original>
+			<edited>Select items to sell.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_SHOP_HOLDING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Inventory </original>
+			<edited>Inventory </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACCESSORY_SHOP" offset="00" relocatable="true" max_length="0">
+			<original>Boutique</original>
+			<edited>Boutique</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACCESSORY_SHOP_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>Change</original>
+			<edited>Change</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACCESSORY_SHOP_BUY_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Select what to buy.</original>
+			<edited>Select what to buy.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACCESSORY_SHOP_BUY_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>Purchase this accessory?</original>
+			<edited>Purchase this accessory?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACCESSORY_SHOP_ACCESSORY" offset="00" relocatable="true" max_length="0">
+			<original>Accessories</original>
+			<edited>Accessories</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACCESSORY_SHOP_PART_BODY" offset="00" relocatable="true" max_length="0">
+			<original>Body</original>
+			<edited>Body</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACCESSORY_SHOP_PART_HEAD" offset="00" relocatable="true" max_length="0">
+			<original>Head</original>
+			<edited>Head</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACCESSORY_SHOP_PART_FACE" offset="00" relocatable="true" max_length="0">
+			<original>Face</original>
+			<edited>Face</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACCESSORY_SHOP_PART_BACK" offset="00" relocatable="true" max_length="0">
+			<original>Back</original>
+			<edited>Back</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACCESSORY_SHOP_CHANGE_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Select outfit/accessory to wear.</original>
+			<edited>Select outfit/accessory to wear.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACCESSORY_SHOP_CHANGE_EMPTY" offset="00" relocatable="true" max_length="0">
+			<original>(None)</original>
+			<edited>(None)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP" offset="00" relocatable="true" max_length="0">
+			<original>Smithy</original>
+			<edited>Smithy</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_REFINE" offset="00" relocatable="true" max_length="0">
+			<original>Refine</original>
+			<edited>Refine</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_REFINE_WEAPONS" offset="00" relocatable="true" max_length="0">
+			<original>Weapons</original>
+			<edited>Weapons</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_REFINE_GODSYMBOL" offset="00" relocatable="true" max_length="0">
+			<original>Emblems</original>
+			<edited>Emblems</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_ENGRAVE" offset="00" relocatable="true" max_length="0">
+			<original>Engrave</original>
+			<edited>Engrave</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE" offset="00" relocatable="true" max_length="0">
+			<original>Exchange</original>
+			<edited>Exchange</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_REFINE_BASE_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Select a weapon to upgrade.</original>
+			<edited>Select a weapon to upgrade.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_REFINE_BASE_EMPTY" offset="00" relocatable="true" max_length="0">
+			<original>(No Weapons)</original>
+			<edited>(No Weapons)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_REFINE_TARGET_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Select a weapon to refine into.</original>
+			<edited>Select a weapon to refine into.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_REFINE_TARGET_UNKNOWN" offset="00" relocatable="true" max_length="0">
+			<original>???</original>
+			<edited>???</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_REFINE_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>Refine this weapon?</original>
+			<edited>Refine this weapon?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_REFINE_CONTENTS" offset="00" relocatable="true" max_length="0">
+			<original>Refine:</original>
+			<edited>Refine:</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_REFINE_CONFIRM_YES" offset="00" relocatable="true" max_length="0">
+			<original>Refine</original>
+			<edited>Refine</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EVOLVE_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>Transform this weapon?</original>
+			<edited>Transform this weapon?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EVOLVE_CONTENTS" offset="00" relocatable="true" max_length="0">
+			<original>Transform:</original>
+			<edited>Transform:</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EVOLVE_CONFIRM_YES" offset="00" relocatable="true" max_length="0">
+			<original>Transform</original>
+			<edited>Transform</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_ENGRAVE_ITEM_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Select a weapon to engrave.</original>
+			<edited>Select a weapon to engrave.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_ENGRAVE_ITEM_EMPTY" offset="00" relocatable="true" max_length="0">
+			<original>(No Weapons)</original>
+			<edited>(No Weapons)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_ENGRAVE_GOD_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Select an Emblem to engrave.</original>
+			<edited>Select an Emblem to engrave.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_ENGRAVE_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>Engrave this Emblem?</original>
+			<edited>Engrave this Emblem?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_ENGRAVE_CONTENTS" offset="00" relocatable="true" max_length="0">
+			<original>Engraved</original>
+			<edited>Engraved</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_ENGRAVE_CONFIRM_YES" offset="00" relocatable="true" max_length="0">
+			<original>Engrave</original>
+			<edited>Engrave</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_ENGRAVE_CONFIRM_TO_REPLACE" offset="00" relocatable="true" max_length="0">
+			<original>Your &#xE;&#x1;&#x1;&#x0; already has the Emblem of &#xE;&#x1;&#x0;&#x0; engraved on it. Engrave it on this weapon instead?</original>
+			<edited>Your &#xE;&#x1;&#x1;&#x0; already has the Emblem of &#xE;&#x1;&#x0;&#x0; engraved on it. Engrave it on this weapon instead?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_ENGRAVE_EMPTY" offset="00" relocatable="true" max_length="0">
+			<original>(No Emblems)</original>
+			<edited>(No Emblems)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_SELECT_TARGET" offset="00" relocatable="true" max_length="0">
+			<original>What metal do you want?</original>
+			<edited>What metal do you want?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_SELECT_SOURCE" offset="00" relocatable="true" max_length="0">
+			<original>What metal will you offer?</original>
+			<edited>What metal will you offer?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_SELECT_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>How many will you trade?</original>
+			<edited>How many will you trade?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_SOURCE" offset="00" relocatable="true" max_length="0">
+			<original>Offered</original>
+			<edited>Offered</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_GET" offset="00" relocatable="true" max_length="0">
+			<original>Obtained</original>
+			<edited>Obtained</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_POSSIBLE" offset="00" relocatable="true" max_length="0">
+			<original>Tradable</original>
+			<edited>Tradable</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_ADJUSTMENT" offset="00" relocatable="true" max_length="0">
+			<original>Change</original>
+			<edited>Change</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_IMPOSSIBLE" offset="00" relocatable="true" max_length="0">
+			<original>Not enough capacity to trade.</original>
+			<edited>Not enough capacity to trade.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_Lack" offset="00" relocatable="true" max_length="0">
+			<original>Not enough metal.</original>
+			<edited>Not enough metal.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_01" offset="00" relocatable="true" max_length="0">
+			<original>Make this exchange?</original>
+			<edited>Make this exchange?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_02" offset="00" relocatable="true" max_length="0">
+			<original>Unable to obtain &#xE;&#x1;&#x1;&#x0; &#xE;&#x1;&#x0;&#x0; because
+you are at maximum capacity.</original>
+			<edited>Unable to obtain &#xE;&#x1;&#x1;&#x0; &#xE;&#x1;&#x0;&#x0; because
+you are at maximum capacity.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_YES" offset="00" relocatable="true" max_length="0">
+			<original>Trade</original>
+			<edited>Trade</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FLEA_MARKET" offset="00" relocatable="true" max_length="0">
+			<original>Flea Market</original>
+			<edited>Flea Market</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FLEA_MARKET_NOUNIT" offset="00" relocatable="true" max_length="0">
+			<original>No one is tending the store, but you can shop.</original>
+			<edited>No one is tending the store, but you can shop.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FORTUNE_TELLING_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Fortune</original>
+			<edited>Fortune</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FORTUNE_TELLING_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Select a unit to fortune-read.</original>
+			<edited>Select a unit to fortune-read.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FORTUNE_TELLING_RESULT0" offset="00" relocatable="true" max_length="0">
+			<original>Current Worry</original>
+			<edited>Current Worry</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FORTUNE_TELLING_RESULT1" offset="00" relocatable="true" max_length="0">
+			<original>Thinking Of</original>
+			<edited>Thinking Of</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_PROFILE_CARD" offset="00" relocatable="true" max_length="0">
+			<original>Profile Card</original>
+			<edited>Profile Card</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_PROFILE_CARD_HELP" offset="00" relocatable="true" max_length="0">
+			<original>View your card and exchange
+cards with others online.</original>
+			<edited>View your card and exchange
+cards with others online.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RINGLIST_SKILLLIST_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Bond Effects</original>
+			<edited>Bond Effects</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RINGLIST_BONDSRING_NAME" offset="00" relocatable="true" max_length="0">
+			<original>Bond Ring</original>
+			<edited>Bond Ring</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RINGLIST_BONDSRING_NAME_MULTIPLE" offset="00" relocatable="true" max_length="0">
+			<original>Bond Rings</original>
+			<edited>Bond Rings</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RINGLIST_BONDSRINGLIST_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Bond Ring Effects</original>
+			<edited>Bond Ring Effects</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_START" offset="00" relocatable="true" max_length="0">
+			<original>New Game</original>
+			<edited>New Game</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_CONTINUE" offset="00" relocatable="true" max_length="0">
+			<original>Continue</original>
+			<edited>Continue</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_OPTION" offset="00" relocatable="true" max_length="0">
+			<original>Options</original>
+			<edited>Options</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_SAVEDATA_COPY" offset="00" relocatable="true" max_length="0">
+			<original>Copy</original>
+			<edited>Copy</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_SAVEDATA_DELETE" offset="00" relocatable="true" max_length="0">
+			<original>Delete</original>
+			<edited>Delete</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_LANGUAGE_SETTING" offset="00" relocatable="true" max_length="0">
+			<original>Change Language</original>
+			<edited>Change Language</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_LANGUAGE_SETTING_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Change the language displayed while playing.</original>
+			<edited>Change the language displayed while playing.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_LANGUAGE_MESS" offset="00" relocatable="true" max_length="0">
+			<original>Text</original>
+			<edited>Text</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_LANGUAGE_VOICE" offset="00" relocatable="true" max_length="0">
+			<original>Voice</original>
+			<edited>Voice</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_LANGUAGE_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>Change language?</original>
+			<edited>Change language?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_LANGUAGE_CONFIRM_YES" offset="00" relocatable="true" max_length="0">
+			<original>Change</original>
+			<edited>Change</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_PRIVILEFE_LABEL" offset="00" relocatable="true" max_length="0">
+			<original>© Nintendo / INTELLIGENT SYSTEMS</original>
+			<edited>© Nintendo / INTELLIGENT SYSTEMS</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_GAME_VERSION" offset="00" relocatable="true" max_length="0">
+			<original>Ver. &#xE;&#x1;&#x0;&#x0;</original>
+			<edited>Ver. &#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PRESS_ANY_BUTTON" offset="00" relocatable="true" max_length="0">
+			<original>PRESS ANY BUTTON</original>
+			<edited>PRESS ANY BUTTON</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_MODE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Mode</original>
+			<edited>Mode</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_NAME_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Name</original>
+			<edited>Name</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_BIRTHDAY_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Birthday</original>
+			<edited>Birthday</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_DIFFICULTY_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Difficulty</original>
+			<edited>Difficulty</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_GROWMODE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Growth Type</original>
+			<edited>Growth Type</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_NETWORK_SERVICE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Network</original>
+			<edited>Network</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_DIFFICULTY_SELECT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Select Difficulty</original>
+			<edited>Select Difficulty</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_DIFFICULTY_SELECT_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Select a difficulty level.</original>
+			<edited>Select a difficulty level.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_MODE_SELECT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Select Mode</original>
+			<edited>Select Mode</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_MODE_SELECT_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Select a mode.</original>
+			<edited>Select a mode.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_GROWMODE_SELECT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Stat Growth</original>
+			<edited>Stat Growth</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_GROWMODE_SELECT_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Select your units' growth type.</original>
+			<edited>Select your units' growth type.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_GROEMODE_LOCKED_BY_LUNATIC" offset="00" relocatable="true" max_length="0">
+			<original>You need to clear the game on Maddening
+difficulty first before you can select Random
+as your units' growth type in Maddening.</original>
+			<edited>You need to clear the game on Maddening
+difficulty first before you can select Random
+as your units' growth type in Maddening.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_NETWORK_SERVICE_ON" offset="00" relocatable="true" max_length="0">
+			<original>Connected</original>
+			<edited>Connected</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_NETWORK_SERVICE_OFF" offset="00" relocatable="true" max_length="0">
+			<original>Unconnected</original>
+			<edited>Unconnected</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_GENDER_SELECT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Appearance</original>
+			<edited>Appearance</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_GENDER_SELECT_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Select a form.</original>
+			<edited>Select a form.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_NAME_INPUT" offset="00" relocatable="true" max_length="0">
+			<original>Enter your name.</original>
+			<edited>Enter your name.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_NAME_CHECK" offset="00" relocatable="true" max_length="0">
+			<original>Is this name OK? (Characters that cannot be
+displayed will show as &#xE;&#x1;&#x0;&#x0;.)</original>
+			<edited>Is this name OK? (Characters that cannot be
+displayed will show as &#xE;&#x1;&#x0;&#x0;.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_NAME_CHECK_YES" offset="00" relocatable="true" max_length="0">
+			<original>Yes</original>
+			<edited>Yes</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_NAME_CHECK_NO" offset="00" relocatable="true" max_length="0">
+			<original>No</original>
+			<edited>No</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_BIRTHDAY_INPUT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Enter Birthday</original>
+			<edited>Enter Birthday</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_BIRTHDAY_INPUT_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Enter birthday.</original>
+			<edited>Enter birthday.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_BIRTHDAY_INPUT_MONTH" offset="00" relocatable="true" max_length="0">
+			<original>Month</original>
+			<edited>Month</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_BIRTHDAY_INPUT_DAY" offset="00" relocatable="true" max_length="0">
+			<original>Day</original>
+			<edited>Day</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_BIRTHDAY_INPUT_MONTH_DAY" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;/&#xE;&#x1;&#x1;&#x0;</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;/&#xE;&#x1;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_NETWORK_SERVICE_SELECT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Configure Network</original>
+			<edited>Configure Network</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_NETWORK_SERVICE_SELECT_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Set up online play.</original>
+			<edited>Set up online play.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_CONFIRM_FINAL" offset="00" relocatable="true" max_length="0">
+			<original>Start the game?</original>
+			<edited>Start the game?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_CONFIRM_FINAL_OK" offset="00" relocatable="true" max_length="0">
+			<original>Start</original>
+			<edited>Start</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

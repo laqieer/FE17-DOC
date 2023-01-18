@@ -1,0 +1,591 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_WU_C_1_IN_#001" offset="00" relocatable="true" max_length="0">
+			<original>I'm here to wake you up, if that's all right.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I'm here to wake you up, if that's all right.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_SOON_#001" offset="00" relocatable="true" max_length="0">
+			<original>Oh, you woke up right away.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Oh, you woke up right away.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_SOON_#002" offset="00" relocatable="true" max_length="0">
+			<original>I'm sorry.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I'm sorry.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_SOON_#003" offset="00" relocatable="true" max_length="0">
+			<original>I might be a bit too good at this.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I might be a bit too good at this.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_WAKEUP_#001" offset="00" relocatable="true" max_length="0">
+			<original>Still asleep, are you? Perhaps my voice is a
+touch too soothing.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Still asleep, are you? Perhaps my voice is a
+touch too soothing.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_WAKEUP_#002" offset="00" relocatable="true" max_length="0">
+			<original>That's all right. Feel free to enjoy your rest
+a while longer.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>That's all right. Feel free to enjoy your rest
+a while longer.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_WAKEUP_#003" offset="00" relocatable="true" max_length="0">
+			<original>Wake up at your leisure.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Wake up at your leisure.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_HELLO_#001" offset="00" relocatable="true" max_length="0">
+			<original>Good morning.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Good morning.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_HELLO_#002" offset="00" relocatable="true" max_length="0">
+			<original>Are you happy to see me?&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Are you happy to see me?&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_HELLO_#003" offset="00" relocatable="true" max_length="0">
+			<original>Of course you are.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Of course you are.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_IN_#001" offset="00" relocatable="true" max_length="0">
+			<original>Here I am, fresh off a morning bath.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Here I am, fresh off a morning bath.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_SOON_#001" offset="00" relocatable="true" max_length="0">
+			<original>Good morning. Ready to face the day?&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Good morning. Ready to face the day?&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_SOON_#002" offset="00" relocatable="true" max_length="0">
+			<original>You should begin with a refreshing bath.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>You should begin with a refreshing bath.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_SOON_#003" offset="00" relocatable="true" max_length="0">
+			<original>Nothing will put you in a calmer mindset.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Nothing will put you in a calmer mindset.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_WAKEUP_#001" offset="00" relocatable="true" max_length="0">
+			<original>There's only one problem with my
+morning routine.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>There's only one problem with my
+morning routine.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_WAKEUP_#002" offset="00" relocatable="true" max_length="0">
+			<original>Once I get in the bath, I don't want to get out.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Once I get in the bath, I don't want to get out.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_WAKEUP_#003" offset="00" relocatable="true" max_length="0">
+			<original>The rest of the world is cold and dirty...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>The rest of the world is cold and dirty...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_HELLO_#001" offset="00" relocatable="true" max_length="0">
+			<original>Good morning.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Good morning.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_HELLO_#002" offset="00" relocatable="true" max_length="0">
+			<original>You know...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>You know...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_HELLO_#003" offset="00" relocatable="true" max_length="0">
+			<original>I went out of my way to help you start your day.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I went out of my way to help you start your day.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_HELLO_#004" offset="00" relocatable="true" max_length="0">
+			<original>That deserves to be acknowledged.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>That deserves to be acknowledged.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_IN_#001" offset="00" relocatable="true" max_length="0">
+			<original>I'm sorry, but you need to wake up immediately.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I'm sorry, but you need to wake up immediately.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_SOON_#001" offset="00" relocatable="true" max_length="0">
+			<original>Surprise─you slept until noon.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Surprise─you slept until noon.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_SOON_#002" offset="00" relocatable="true" max_length="0">
+			<original>Feeling refreshed?&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Feeling refreshed?&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_SOON_#003" offset="00" relocatable="true" max_length="0">
+			<original>I thought you needed the rest...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I thought you needed the rest...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_SOON_#004" offset="00" relocatable="true" max_length="0">
+			<original>so I decided to sleep in. You're welcome.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>so I decided to sleep in. You're welcome.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_WAKEUP_#001" offset="00" relocatable="true" max_length="0">
+			<original>Ugh! I can't believe how late I slept.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Ugh! I can't believe how late I slept.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_WAKEUP_#002" offset="00" relocatable="true" max_length="0">
+			<original>Why don't my friends come by to wake me in
+the morning?&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Why don't my friends come by to wake me in
+the morning?&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_WAKEUP_#003" offset="00" relocatable="true" max_length="0">
+			<original>I suppose they don't want to disturb me...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I suppose they don't want to disturb me...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_HELLO_#001" offset="00" relocatable="true" max_length="0">
+			<original>Sorry...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Sorry...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_HELLO_#002" offset="00" relocatable="true" max_length="0">
+			<original>It took quite a bit of effort to wake you...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>It took quite a bit of effort to wake you...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_HELLO_#003" offset="00" relocatable="true" max_length="0">
+			<original>and it's already noon.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>and it's already noon.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_HELLO_#004" offset="00" relocatable="true" max_length="0">
+			<original>Excuse me? I'm sorry, what?&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Excuse me? I'm sorry, what?&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_HELLO_#005" offset="00" relocatable="true" max_length="0">
+			<original>Are you actually suggesting I'm the one
+who overslept?&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Are you actually suggesting I'm the one
+who overslept?&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_IN_#001" offset="00" relocatable="true" max_length="0">
+			<original>I wonder how others go about waking you...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I wonder how others go about waking you...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_SOON_#001" offset="00" relocatable="true" max_length="0">
+			<original>Ah. You're already up.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Ah. You're already up.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_SOON_#002" offset="00" relocatable="true" max_length="0">
+			<original>I guess my talents aren't required here...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I guess my talents aren't required here...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_SOON_#003" offset="00" relocatable="true" max_length="0">
+			<original>unless you want to go back to sleep, of course.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>unless you want to go back to sleep, of course.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_SOON_#004" offset="00" relocatable="true" max_length="0">
+			<original>It is still early, you know.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>It is still early, you know.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_WAKEUP_#001" offset="00" relocatable="true" max_length="0">
+			<original>I thought I could easily get anyone wrapped
+around my finger...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I thought I could easily get anyone wrapped
+around my finger...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_WAKEUP_#002" offset="00" relocatable="true" max_length="0">
+			<original>Why is the Divine Dragon immune to
+my charms?&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Why is the Divine Dragon immune to
+my charms?&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_WAKEUP_#003" offset="00" relocatable="true" max_length="0">
+			<original>What do I need to do differently?&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>What do I need to do differently?&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_HELLO_#001" offset="00" relocatable="true" max_length="0">
+			<original>Ah. You're awake.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Ah. You're awake.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_HELLO_#002" offset="00" relocatable="true" max_length="0">
+			<original>You meant it when you said I was charming,
+right? Could you do me a favor?&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>You meant it when you said I was charming,
+right? Could you do me a favor?&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_HELLO_#003" offset="00" relocatable="true" max_length="0">
+			<original>Could you say it again?&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Could you say it again?&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_IN_#001" offset="00" relocatable="true" max_length="0">
+			<original>My idea is perfect.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>My idea is perfect.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_IN_#002" offset="00" relocatable="true" max_length="0">
+			<original>No one else will have thought of this, I'm sure
+of it.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>No one else will have thought of this, I'm sure
+of it.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_SOON_#001" offset="00" relocatable="true" max_length="0">
+			<original>You're up.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>You're up.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_SOON_#002" offset="00" relocatable="true" max_length="0">
+			<original>I understand if you're eager to see me...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I understand if you're eager to see me...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_SOON_#003" offset="00" relocatable="true" max_length="0">
+			<original>but I didn't even get to use my new
+wake-up technique.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>but I didn't even get to use my new
+wake-up technique.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_SOON_#004" offset="00" relocatable="true" max_length="0">
+			<original>Could you be more considerate of my needs?&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Could you be more considerate of my needs?&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_WAKEUP_#001" offset="00" relocatable="true" max_length="0">
+			<original>I've prepared a little surprise for you.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I've prepared a little surprise for you.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_WAKEUP_#002" offset="00" relocatable="true" max_length="0">
+			<original>The most calming way to wake.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>The most calming way to wake.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_WAKEUP_#003" offset="00" relocatable="true" max_length="0">
+			<original>Listen to the flowing water, and be transported.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Listen to the flowing water, and be transported.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_WAKEUP_#004" offset="00" relocatable="true" max_length="0">
+			<original>Isn't it soothing?&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Isn't it soothing?&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_HELLO_#001" offset="00" relocatable="true" max_length="0">
+			<original>Good morning.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Good morning.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_HELLO_#002" offset="00" relocatable="true" max_length="0">
+			<original>How was that?&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>How was that?&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_HELLO_#003" offset="00" relocatable="true" max_length="0">
+			<original>Relaxing? Revitalizing?&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Relaxing? Revitalizing?&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_HELLO_#004" offset="00" relocatable="true" max_length="0">
+			<original>There's no need to thank me...but go on and
+do it anyway.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>There's no need to thank me...but go on and
+do it anyway.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_IN_#001" offset="00" relocatable="true" max_length="0">
+			<original>The most popular person in the world is here
+to wake you.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>The most popular person in the world is here
+to wake you.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_SOON_#001" offset="00" relocatable="true" max_length="0">
+			<original>You got up quickly.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>You got up quickly.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_SOON_#002" offset="00" relocatable="true" max_length="0">
+			<original>Don't tell me you were in suspense
+or something.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Don't tell me you were in suspense
+or something.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_SOON_#003" offset="00" relocatable="true" max_length="0">
+			<original>You had to know it couldn't have been anyone
+but me.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>You had to know it couldn't have been anyone
+but me.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_WAKEUP_#001" offset="00" relocatable="true" max_length="0">
+			<original>Well... Maybe second most.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Well... Maybe second most.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_WAKEUP_#002" offset="00" relocatable="true" max_length="0">
+			<original>You're obviously more popular than I am...but
+that's all right.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>You're obviously more popular than I am...but
+that's all right.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_WAKEUP_#003" offset="00" relocatable="true" max_length="0">
+			<original>I'll take Elusia...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I'll take Elusia...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_WAKEUP_#004" offset="00" relocatable="true" max_length="0">
+			<original>and you can have the rest of the world.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>and you can have the rest of the world.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_HELLO_#001" offset="00" relocatable="true" max_length="0">
+			<original>Good morning.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Good morning.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_HELLO_#002" offset="00" relocatable="true" max_length="0">
+			<original>I wanted to thank you again for telling me
+you found me charming.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I wanted to thank you again for telling me
+you found me charming.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_HELLO_#003" offset="00" relocatable="true" max_length="0">
+			<original>My confidence is back now...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>My confidence is back now...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_HELLO_#004" offset="00" relocatable="true" max_length="0">
+			<original>and it's all because of you.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>and it's all because of you.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_IN_#001" offset="00" relocatable="true" max_length="0">
+			<original>Your perfect partner is here to wake you...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Your perfect partner is here to wake you...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_SOON_#001" offset="00" relocatable="true" max_length="0">
+			<original>Good morning.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Good morning.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_SOON_#002" offset="00" relocatable="true" max_length="0">
+			<original>Are you as happy to see me as I am to see you?&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Are you as happy to see me as I am to see you?&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_SOON_#003" offset="00" relocatable="true" max_length="0">
+			<original>I'm so lucky to have you all to myself.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I'm so lucky to have you all to myself.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_SOON_#004" offset="00" relocatable="true" max_length="0">
+			<original>The rest of the world will have to miss out.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>The rest of the world will have to miss out.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_WAKEUP_#001" offset="00" relocatable="true" max_length="0">
+			<original>My voice isn't enough to wake you?&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>My voice isn't enough to wake you?&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_WAKEUP_#002" offset="00" relocatable="true" max_length="0">
+			<original>You must be very tired.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>You must be very tired.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_WAKEUP_#003" offset="00" relocatable="true" max_length="0">
+			<original>You're the most hard-working person I know.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>You're the most hard-working person I know.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_WAKEUP_#004" offset="00" relocatable="true" max_length="0">
+			<original>I truly admire that.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I truly admire that.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_WAKEUP_#005" offset="00" relocatable="true" max_length="0">
+			<original>I know I'm not normally the type to flatter,
+but for you...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I know I'm not normally the type to flatter,
+but for you...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_WAKEUP_#006" offset="00" relocatable="true" max_length="0">
+			<original>I'll make an exception.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I'll make an exception.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_WAKEUP_#007" offset="00" relocatable="true" max_length="0">
+			<original>That's just one of the perks you get for being
+my partner.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>That's just one of the perks you get for being
+my partner.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_WAKEUP_#008" offset="00" relocatable="true" max_length="0">
+			<original>Another is that I love you.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Another is that I love you.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_HELLO_#001" offset="00" relocatable="true" max_length="0">
+			<original>Good morning.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Good morning.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_HELLO_#002" offset="00" relocatable="true" max_length="0">
+			<original>Does the sight of me fill you with happiness?&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Does the sight of me fill you with happiness?&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_HELLO_#003" offset="00" relocatable="true" max_length="0">
+			<original>Wait, what? It really does?&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Wait, what? It really does?&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_HELLO_#004" offset="00" relocatable="true" max_length="0">
+			<original>I was only teasing you, you know...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I was only teasing you, you know...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_HELLO_#005" offset="00" relocatable="true" max_length="0">
+			<original>You're so sincere it throws me off.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>You're so sincere it throws me off.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_IN_#001" offset="00" relocatable="true" max_length="0">
+			<original>Are you awake yet? Or still asleep?&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Are you awake yet? Or still asleep?&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_IN_#002" offset="00" relocatable="true" max_length="0">
+			<original>Either way, I'm here to see you.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Either way, I'm here to see you.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_SOON_#001" offset="00" relocatable="true" max_length="0">
+			<original>Good morning.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Good morning.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_SOON_#002" offset="00" relocatable="true" max_length="0">
+			<original>Since you're up early...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Since you're up early...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_SOON_#003" offset="00" relocatable="true" max_length="0">
+			<original>why don't we spend a little time together?&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>why don't we spend a little time together?&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_SOON_#004" offset="00" relocatable="true" max_length="0">
+			<original>I relish every moment we get to spend alone.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I relish every moment we get to spend alone.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_SOON_#005" offset="00" relocatable="true" max_length="0">
+			<original>It's when I feel closest to you.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>It's when I feel closest to you.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_WAKEUP_#001" offset="00" relocatable="true" max_length="0">
+			<original>Too busy dreaming about me to wake up?&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Too busy dreaming about me to wake up?&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_WAKEUP_#002" offset="00" relocatable="true" max_length="0">
+			<original>Hah, I told myself I'd stop doing that.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Hah, I told myself I'd stop doing that.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_WAKEUP_#003" offset="00" relocatable="true" max_length="0">
+			<original>Instead of pretending I know what your
+feelings are...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Instead of pretending I know what your
+feelings are...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_WAKEUP_#004" offset="00" relocatable="true" max_length="0">
+			<original>I'll just tell you mine.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I'll just tell you mine.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_WAKEUP_#005" offset="00" relocatable="true" max_length="0">
+			<original>Awake or asleep, I'm happy to spend time
+with you.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Awake or asleep, I'm happy to spend time
+with you.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_WAKEUP_#006" offset="00" relocatable="true" max_length="0">
+			<original>You already know why that is, but I'll say
+it again.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>You already know why that is, but I'll say
+it again.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_WAKEUP_#007" offset="00" relocatable="true" max_length="0">
+			<original>It's because I'm in love with you.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>It's because I'm in love with you.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_HELLO_#001" offset="00" relocatable="true" max_length="0">
+			<original>Does it make you happy to be woken up by
+your perfect partner?&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Does it make you happy to be woken up by
+your perfect partner?&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_HELLO_#002" offset="00" relocatable="true" max_length="0">
+			<original>I'm sorry...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I'm sorry...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_HELLO_#003" offset="00" relocatable="true" max_length="0">
+			<original>but the happiest one in the world is actually me.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>but the happiest one in the world is actually me.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_HELLO_#004" offset="00" relocatable="true" max_length="0">
+			<original>That's because I was given a beautiful ring...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>That's because I was given a beautiful ring...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_HELLO_#005" offset="00" relocatable="true" max_length="0">
+			<original>by the love of my life.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>by the love of my life.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

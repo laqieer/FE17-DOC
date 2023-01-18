@@ -1,0 +1,2820 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_CARD_KEYHELP_TURN_OVER" offset="00" relocatable="true" max_length="0">
+			<original>Flip Card</original>
+			<edited>Flip Card</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CARD_KEYHELP_EDIT" offset="00" relocatable="true" max_length="0">
+			<original>Edit</original>
+			<edited>Edit</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CARD_KEYHELP_CARD_LIST" offset="00" relocatable="true" max_length="0">
+			<original>Card List</original>
+			<edited>Card List</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CARD_KEYHELP_STAMP_LIST" offset="00" relocatable="true" max_length="0">
+			<original>Stamp List</original>
+			<edited>Stamp List</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CARD_KEYHELP_STAMP_SWITCHING" offset="00" relocatable="true" max_length="0">
+			<original>Edit</original>
+			<edited>Edit</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CARD_KEYHELP_DELETE" offset="00" relocatable="true" max_length="0">
+			<original>Delete</original>
+			<edited>Delete</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CARD_KEYHELP_END" offset="00" relocatable="true" max_length="0">
+			<original>End</original>
+			<edited>End</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard" offset="00" relocatable="true" max_length="0">
+			<original>Profile Card</original>
+			<edited>Profile Card</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_MyCard" offset="00" relocatable="true" max_length="0">
+			<original>My Card</original>
+			<edited>My Card</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_MyCard_Description" offset="00" relocatable="true" max_length="0">
+			<original>Edit your profile card's text and
+customize its appearance.</original>
+			<edited>Edit your profile card's text and
+customize its appearance.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Notes_Terms" offset="00" relocatable="true" max_length="0">
+			<original>The Community Guidelines apply to shared
+content and can be found on Nintendo's website.
+Please be considerate to your fellow players.</original>
+			<edited>The Community Guidelines apply to shared
+content and can be found on Nintendo's website.
+Please be considerate to your fellow players.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Album" offset="00" relocatable="true" max_length="0">
+			<original>Other Cards</original>
+			<edited>Other Cards</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Album_Help" offset="00" relocatable="true" max_length="0">
+			<original>View &amp; Delete Other Cards</original>
+			<edited>View &amp; Delete Other Cards</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Album_Description" offset="00" relocatable="true" max_length="0">
+			<original>View the profile cards you have
+obtained at the Tower of Trials.</original>
+			<edited>View the profile cards you have
+obtained at the Tower of Trials.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Photo" offset="00" relocatable="true" max_length="0">
+			<original>Photo Shoot</original>
+			<edited>Photo Shoot</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Photo_Description" offset="00" relocatable="true" max_length="0">
+			<original>Snap a photo of your favorite
+allies for your profile card.</original>
+			<edited>Snap a photo of your favorite
+allies for your profile card.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Photo_Warning" offset="00" relocatable="true" max_length="0">
+			<original>Outdoor Somniel locations only.</original>
+			<edited>Outdoor Somniel locations only.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Setting" offset="00" relocatable="true" max_length="0">
+			<original>Privacy</original>
+			<edited>Privacy</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Setting_Description" offset="00" relocatable="true" max_length="0">
+			<original>You can change the privacy setting
+for your profile card.</original>
+			<edited>You can change the privacy setting
+for your profile card.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Setting_Warning_Public" offset="00" relocatable="true" max_length="0">
+			<original>Current Setting: Public</original>
+			<edited>Current Setting: Public</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Setting_Warning_Private" offset="00" relocatable="true" max_length="0">
+			<original>Current Setting: Private</original>
+			<edited>Current Setting: Private</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Setting_Confirm" offset="00" relocatable="true" max_length="0">
+			<original>Choose a privacy setting for your profile card.
+(You can change this setting at any time.
+Note: changes will not affect cards that have
+already been exchanged.)</original>
+			<edited>Choose a privacy setting for your profile card.
+(You can change this setting at any time.
+Note: changes will not affect cards that have
+already been exchanged.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Setting_Public" offset="00" relocatable="true" max_length="0">
+			<original>Set to Public</original>
+			<edited>Set to Public</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Setting_Private" offset="00" relocatable="true" max_length="0">
+			<original>Set to Private</original>
+			<edited>Set to Private</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_ShowStamp" offset="00" relocatable="true" max_length="0">
+			<original>Stamp Setting</original>
+			<edited>Stamp Setting</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_ShowStamp_Description" offset="00" relocatable="true" max_length="0">
+			<original>You can choose whether to show
+or hide stamps on the profile cards
+you have obtained.</original>
+			<edited>You can choose whether to show
+or hide stamps on the profile cards
+you have obtained.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_ShowStamp_Warning_Show" offset="00" relocatable="true" max_length="0">
+			<original>Current Stamp Setting: Show</original>
+			<edited>Current Stamp Setting: Show</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_ShowStamp_Warning_Hide" offset="00" relocatable="true" max_length="0">
+			<original>Current Stamp Setting: Hide</original>
+			<edited>Current Stamp Setting: Hide</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_ShowStamp_Confirm" offset="00" relocatable="true" max_length="0">
+			<original>Choose a display setting for profile card stamps.
+(You can change this setting at any time.)</original>
+			<edited>Choose a display setting for profile card stamps.
+(You can change this setting at any time.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_ShowStamp_Show" offset="00" relocatable="true" max_length="0">
+			<original>Show</original>
+			<edited>Show</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_ShowStamp_Hide" offset="00" relocatable="true" max_length="0">
+			<original>Hide</original>
+			<edited>Hide</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Settings_Cannot_Change" offset="00" relocatable="true" max_length="0">
+			<original>This setting is restricted by parental controls
+and cannot be changed.</original>
+			<edited>This setting is restricted by parental controls
+and cannot be changed.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_PlayerInfo" offset="00" relocatable="true" max_length="0">
+			<original>Player Information</original>
+			<edited>Player Information</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_TolalPlayTime" offset="00" relocatable="true" max_length="0">
+			<original>Total Play Time</original>
+			<edited>Total Play Time</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_Birthday" offset="00" relocatable="true" max_length="0">
+			<original>Birthday</original>
+			<edited>Birthday</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_Difficulty" offset="00" relocatable="true" max_length="0">
+			<original>Difficulty</original>
+			<edited>Difficulty</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_GameMode" offset="00" relocatable="true" max_length="0">
+			<original>Mode</original>
+			<edited>Mode</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_FaivoriteCharacter" offset="00" relocatable="true" max_length="0">
+			<original>Favorite Character</original>
+			<edited>Favorite Character</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_Relay" offset="00" relocatable="true" max_length="0">
+			<original>Relay Trials</original>
+			<edited>Relay Trials</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_FavoriteMap" offset="00" relocatable="true" max_length="0">
+			<original>Favorite Map</original>
+			<edited>Favorite Map</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_PlayingCount" offset="00" relocatable="true" max_length="0">
+			<original>Times Played</original>
+			<edited>Times Played</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_Versus" offset="00" relocatable="true" max_length="0">
+			<original>Outrealm Trials</original>
+			<edited>Outrealm Trials</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_ThemeOfEditMap" offset="00" relocatable="true" max_length="0">
+			<original>Map Theme</original>
+			<edited>Map Theme</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_VersusRate" offset="00" relocatable="true" max_length="0">
+			<original>Custom Battle Rank</original>
+			<edited>Custom Battle Rank</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_SortieCount" offset="00" relocatable="true" max_length="0">
+			<original>Times Deployed</original>
+			<edited>Times Deployed</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_AchievementCount" offset="00" relocatable="true" max_length="0">
+			<original>Completed Achievements</original>
+			<edited>Completed Achievements</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_MyCard_Help" offset="00" relocatable="true" max_length="0">
+			<original>View and edit card content.</original>
+			<edited>View and edit card content.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit" offset="00" relocatable="true" max_length="0">
+			<original>Edit Card</original>
+			<edited>Edit Card</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Help" offset="00" relocatable="true" max_length="0">
+			<original>Select what to edit.</original>
+			<edited>Select what to edit.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Title" offset="00" relocatable="true" max_length="0">
+			<original>Title</original>
+			<edited>Title</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Title_Help" offset="00" relocatable="true" max_length="0">
+			<original>Select a title.</original>
+			<edited>Select a title.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Title_Caption" offset="00" relocatable="true" max_length="0">
+			<original>Title List</original>
+			<edited>Title List</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Comment" offset="00" relocatable="true" max_length="0">
+			<original>Comment</original>
+			<edited>Comment</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Comment_Help" offset="00" relocatable="true" max_length="0">
+			<original>Select three terms.</original>
+			<edited>Select three terms.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Comment_Caption" offset="00" relocatable="true" max_length="0">
+			<original>Create Comment</original>
+			<edited>Create Comment</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_FavoriteCharacter" offset="00" relocatable="true" max_length="0">
+			<original>Favorite Character</original>
+			<edited>Favorite Character</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_FavoriteCharacter_Help" offset="00" relocatable="true" max_length="0">
+			<original>Select a character.</original>
+			<edited>Select a character.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_FavoriteCharacter_Caption" offset="00" relocatable="true" max_length="0">
+			<original>Character List</original>
+			<edited>Character List</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_FavoriteRelayMap" offset="00" relocatable="true" max_length="0">
+			<original>Favorite Map</original>
+			<edited>Favorite Map</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_FavoriteRelayMap_Help" offset="00" relocatable="true" max_length="0">
+			<original>Select a map.</original>
+			<edited>Select a map.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_FavoriteRelayMap_Caption" offset="00" relocatable="true" max_length="0">
+			<original>Map List</original>
+			<edited>Map List</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Bg" offset="00" relocatable="true" max_length="0">
+			<original>Background</original>
+			<edited>Background</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Bg_Help" offset="00" relocatable="true" max_length="0">
+			<original>Select a design.</original>
+			<edited>Select a design.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Bg_Caption" offset="00" relocatable="true" max_length="0">
+			<original>Background List</original>
+			<edited>Background List</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Frame" offset="00" relocatable="true" max_length="0">
+			<original>Card Border</original>
+			<edited>Card Border</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Frame_Help" offset="00" relocatable="true" max_length="0">
+			<original>Select a design.</original>
+			<edited>Select a design.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Frame_Caption" offset="00" relocatable="true" max_length="0">
+			<original>Card Border List</original>
+			<edited>Card Border List</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_TextDeco" offset="00" relocatable="true" max_length="0">
+			<original>Color Theme</original>
+			<edited>Color Theme</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_TextDeco_Help" offset="00" relocatable="true" max_length="0">
+			<original>Select a theme.</original>
+			<edited>Select a theme.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_TextDeco_Caption" offset="00" relocatable="true" max_length="0">
+			<original>Theme List</original>
+			<edited>Theme List</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_TextColor" offset="00" relocatable="true" max_length="0">
+			<original>Text Color</original>
+			<edited>Text Color</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_TextColor_Help" offset="00" relocatable="true" max_length="0">
+			<original>Choose a text color.</original>
+			<edited>Choose a text color.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_TextColor_Caption" offset="00" relocatable="true" max_length="0">
+			<original>Text Color List</original>
+			<edited>Text Color List</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_CharecterStamp" offset="00" relocatable="true" max_length="0">
+			<original>Icon</original>
+			<edited>Icon</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_CharecterStamp_Help" offset="00" relocatable="true" max_length="0">
+			<original>Select an icon.</original>
+			<edited>Select an icon.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_CharecterStamp_Caption" offset="00" relocatable="true" max_length="0">
+			<original>Icon List</original>
+			<edited>Icon List</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Stamp" offset="00" relocatable="true" max_length="0">
+			<original>Stamps</original>
+			<edited>Stamps</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Stamp_Help" offset="00" relocatable="true" max_length="0">
+			<original>Decorate your card.</original>
+			<edited>Decorate your card.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Stamp_Count" offset="00" relocatable="true" max_length="0">
+			<original>No. of Stamps</original>
+			<edited>No. of Stamps</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Stamp_ConfirmToClear" offset="00" relocatable="true" max_length="0">
+			<original>Erase all stamps?
+(This cannot be undone.)</original>
+			<edited>Erase all stamps?
+(This cannot be undone.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Stamp_ConfirmToClear_Yes" offset="00" relocatable="true" max_length="0">
+			<original>Erase All</original>
+			<edited>Erase All</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Stamp_ConfirmToClose" offset="00" relocatable="true" max_length="0">
+			<original>End stamp placement?</original>
+			<edited>End stamp placement?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Stamp_SaveAndClose" offset="00" relocatable="true" max_length="0">
+			<original>End (Save Changes)</original>
+			<edited>End (Save Changes)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Stamp_NoSaveAndClose" offset="00" relocatable="true" max_length="0">
+			<original>End (Discard Changes)</original>
+			<edited>End (Discard Changes)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Stamp_ContinueToEdit" offset="00" relocatable="true" max_length="0">
+			<original>Cancel</original>
+			<edited>Cancel</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Album_ConfirmToDelete" offset="00" relocatable="true" max_length="0">
+			<original>Delete &#xE;&#x1;&#x0;&#x0;'s Profile Card?</original>
+			<edited>Delete &#xE;&#x1;&#x0;&#x0;'s Profile Card?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Album_Delete" offset="00" relocatable="true" max_length="0">
+			<original>Delete</original>
+			<edited>Delete</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Possession" offset="00" relocatable="true" max_length="0">
+			<original>Number Held</original>
+			<edited>Number Held</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Language_Attention" offset="00" relocatable="true" max_length="0">
+			<original>Due to a change in language setting,
+your comment has been reset.</original>
+			<edited>Due to a change in language setting,
+your comment has been reset.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Net_Save_Confirm_Match" offset="00" relocatable="true" max_length="0">
+			<original>Save other player's profile card?</original>
+			<edited>Save other player's profile card?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Net_Save_Confirm_Relay" offset="00" relocatable="true" max_length="0">
+			<original>Save Relay Trial players' profile cards?</original>
+			<edited>Save Relay Trial players' profile cards?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Net_Save_Done" offset="00" relocatable="true" max_length="0">
+			<original>Saved.</original>
+			<edited>Saved.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Net_Overlimit_Title" offset="00" relocatable="true" max_length="0">
+			<original>Delete Cards</original>
+			<edited>Delete Cards</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Net_Overlimit_Title_Help" offset="00" relocatable="true" max_length="0">
+			<original>Select profile card to delete.</original>
+			<edited>Select profile card to delete.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Net_Overlimit_Incomplete" offset="00" relocatable="true" max_length="0">
+			<original>You have exceeded the number of profile cards
+allowed. Please delete enough profile cards to
+fit within the limit.</original>
+			<edited>You have exceeded the number of profile cards
+allowed. Please delete enough profile cards to
+fit within the limit.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Comment_CharacterFeeling" offset="00" relocatable="true" max_length="0">
+			<original>Personality Traits</original>
+			<edited>Personality Traits</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Comment_FeaturePosition" offset="00" relocatable="true" max_length="0">
+			<original>Roles &amp; Armaments</original>
+			<edited>Roles &amp; Armaments</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Comment_AdpositionConjection" offset="00" relocatable="true" max_length="0">
+			<original>Linking Words &amp; Titles</original>
+			<edited>Linking Words &amp; Titles</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Comment_Tearms" offset="00" relocatable="true" max_length="0">
+			<original>Game Terms</original>
+			<edited>Game Terms</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Comment_ClassStyle" offset="00" relocatable="true" max_length="0">
+			<original>Class Names &amp; Unit Types</original>
+			<edited>Class Names &amp; Unit Types</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Comment_PersonName" offset="00" relocatable="true" max_length="0">
+			<original>Character Names</original>
+			<edited>Character Names</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STAMP_KEYHELP_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Stamp Controls</original>
+			<edited>Stamp Controls</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STAMP_KEYHELP_PUT_A_STAMP" offset="00" relocatable="true" max_length="0">
+			<original>Stamp</original>
+			<edited>Stamp</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STAMP_KEYHELP_LR_REVERSE" offset="00" relocatable="true" max_length="0">
+			<original>Flip</original>
+			<edited>Flip</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STAMP_KEYHELP_ROTATE_SCALE" offset="00" relocatable="true" max_length="0">
+			<original>Size/Rotate</original>
+			<edited>Size/Rotate</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STAMP_KEYHELP_ROTATE_SCALE_RESET" offset="00" relocatable="true" max_length="0">
+			<original>Reset Size/Rotation</original>
+			<edited>Reset Size/Rotation</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STAMP_KEYHELP_HIGH_SPEED" offset="00" relocatable="true" max_length="0">
+			<original>Fast Move</original>
+			<edited>Fast Move</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STAMP_KEYHELP_ERASE_ALL" offset="00" relocatable="true" max_length="0">
+			<original>Erase All</original>
+			<edited>Erase All</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STAMP_KEYHELP_TWEAK" offset="00" relocatable="true" max_length="0">
+			<original>Adjust</original>
+			<edited>Adjust</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Stamp_Unit" offset="00" relocatable="true" max_length="0">
+			<original>Units</original>
+			<edited>Units</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Stamp_GodUnit" offset="00" relocatable="true" max_length="0">
+			<original>Emblems</original>
+			<edited>Emblems</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Stamp_Weapon" offset="00" relocatable="true" max_length="0">
+			<original>Weapons</original>
+			<edited>Weapons</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Stamp_GodWeapon" offset="00" relocatable="true" max_length="0">
+			<original>Engage Weapons</original>
+			<edited>Engage Weapons</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Stamp_RodAndItem" offset="00" relocatable="true" max_length="0">
+			<original>Staves and Items</original>
+			<edited>Staves and Items</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Stamp_System" offset="00" relocatable="true" max_length="0">
+			<original>System</original>
+			<edited>System</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Stamp_Others" offset="00" relocatable="true" max_length="0">
+			<original>Others</original>
+			<edited>Others</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_FireEmblem" offset="00" relocatable="true" max_length="0">
+			<original>Fire Emblem</original>
+			<edited>Fire Emblem</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ShadowDragon" offset="00" relocatable="true" max_length="0">
+			<original>Blade of Light</original>
+			<edited>Blade of Light</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_NewShadowDragon" offset="00" relocatable="true" max_length="0">
+			<original>Shadow Dragon</original>
+			<edited>Shadow Dragon</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_MysteryOfTheEmblem" offset="00" relocatable="true" max_length="0">
+			<original>Mystery of the Emblem</original>
+			<edited>Mystery of the Emblem</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_NewMysteryOfTheEmblem" offset="00" relocatable="true" max_length="0">
+			<original>New Mystery of the Emblem</original>
+			<edited>New Mystery of the Emblem</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_SideStory" offset="00" relocatable="true" max_length="0">
+			<original>Gaiden</original>
+			<edited>Gaiden</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_GenealogyOfTheHolyWar" offset="00" relocatable="true" max_length="0">
+			<original>Genealogy of the Holy War</original>
+			<edited>Genealogy of the Holy War</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Thracia776" offset="00" relocatable="true" max_length="0">
+			<original>Thracia 776</original>
+			<edited>Thracia 776</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_TheBindingBlade" offset="00" relocatable="true" max_length="0">
+			<original>The Binding Blade</original>
+			<edited>The Binding Blade</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_TheBlazingBlade" offset="00" relocatable="true" max_length="0">
+			<original>The Blazing Blade</original>
+			<edited>The Blazing Blade</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_TheSacredStones" offset="00" relocatable="true" max_length="0">
+			<original>The Sacred Stones</original>
+			<edited>The Sacred Stones</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_PathOfRadiance" offset="00" relocatable="true" max_length="0">
+			<original>Path of Radiance</original>
+			<edited>Path of Radiance</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RadiantDawn" offset="00" relocatable="true" max_length="0">
+			<original>Radiant Dawn</original>
+			<edited>Radiant Dawn</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Awakening" offset="00" relocatable="true" max_length="0">
+			<original>Awakening</original>
+			<edited>Awakening</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Fates" offset="00" relocatable="true" max_length="0">
+			<original>Fates</original>
+			<edited>Fates</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Birthright" offset="00" relocatable="true" max_length="0">
+			<original>Birthright</original>
+			<edited>Birthright</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Conquest" offset="00" relocatable="true" max_length="0">
+			<original>Conquest</original>
+			<edited>Conquest</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Echoes" offset="00" relocatable="true" max_length="0">
+			<original>Echoes</original>
+			<edited>Echoes</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ThreeHouses" offset="00" relocatable="true" max_length="0">
+			<original>Three Houses</original>
+			<edited>Three Houses</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Heroes" offset="00" relocatable="true" max_length="0">
+			<original>Heroes</original>
+			<edited>Heroes</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Marth" offset="00" relocatable="true" max_length="0">
+			<original>"For Altea!"</original>
+			<edited>"For Altea!"</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Celica" offset="00" relocatable="true" max_length="0">
+			<original>"May Mila be with you."</original>
+			<edited>"May Mila be with you."</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Siglud" offset="00" relocatable="true" max_length="0">
+			<original>"Raise your sword!"</original>
+			<edited>"Raise your sword!"</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Leaf" offset="00" relocatable="true" max_length="0">
+			<original>"Whatever it takes!"</original>
+			<edited>"Whatever it takes!"</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Roy" offset="00" relocatable="true" max_length="0">
+			<original>"I won't lose. I won't!"</original>
+			<edited>"I won't lose. I won't!"</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Lin" offset="00" relocatable="true" max_length="0">
+			<original>"The plains call me..."</original>
+			<edited>"The plains call me..."</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Eirik" offset="00" relocatable="true" max_length="0">
+			<original>"If this is war, so be it!"</original>
+			<edited>"If this is war, so be it!"</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Ike" offset="00" relocatable="true" max_length="0">
+			<original>"Don't get in my way."</original>
+			<edited>"Don't get in my way."</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Micaiah" offset="00" relocatable="true" max_length="0">
+			<original>"I have to fight!"</original>
+			<edited>"I have to fight!"</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Lucina" offset="00" relocatable="true" max_length="0">
+			<original>"I challenge my fate!"</original>
+			<edited>"I challenge my fate!"</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Kamui" offset="00" relocatable="true" max_length="0">
+			<original>"I've made my choice!"</original>
+			<edited>"I've made my choice!"</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Byleth" offset="00" relocatable="true" max_length="0">
+			<original>"Let the lesson begin!"</original>
+			<edited>"Let the lesson begin!"</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Lueur" offset="00" relocatable="true" max_length="0">
+			<original>"For the Divine Dragon!"</original>
+			<edited>"For the Divine Dragon!"</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RelianceC_WithAllUnit" offset="00" relocatable="true" max_length="0">
+			<original>C Rank</original>
+			<edited>C Rank</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RelianceB_WithAllUnit" offset="00" relocatable="true" max_length="0">
+			<original>B Rank</original>
+			<edited>B Rank</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RelianceA_WithAllUnit" offset="00" relocatable="true" max_length="0">
+			<original>A Rank</original>
+			<edited>A Rank</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RelianceRing" offset="00" relocatable="true" max_length="0">
+			<original>Ring Rank</original>
+			<edited>Ring Rank</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_SortieWithAllUnitCount5" offset="00" relocatable="true" max_length="0">
+			<original>Skirmisher</original>
+			<edited>Skirmisher</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_EncountBattleCount45" offset="00" relocatable="true" max_length="0">
+			<original>Battle-Tested</original>
+			<edited>Battle-Tested</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BattleCount5000" offset="00" relocatable="true" max_length="0">
+			<original>Battle-Hardened</original>
+			<edited>Battle-Hardened</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_DefeatSoldierCount500" offset="00" relocatable="true" max_length="0">
+			<original>Soldier Slayer</original>
+			<edited>Soldier Slayer</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_DefeatMorphCount500" offset="00" relocatable="true" max_length="0">
+			<original>Corrupted Slayer</original>
+			<edited>Corrupted Slayer</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_DefeatBanditsCount500" offset="00" relocatable="true" max_length="0">
+			<original>Thief Slayer</original>
+			<edited>Thief Slayer</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CaneCount500" offset="00" relocatable="true" max_length="0">
+			<original>Cleric</original>
+			<edited>Cleric</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CriticalCount300" offset="00" relocatable="true" max_length="0">
+			<original>Professional</original>
+			<edited>Professional</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_EngageCount300" offset="00" relocatable="true" max_length="0">
+			<original>Engage!</original>
+			<edited>Engage!</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_EngageAttackCount300" offset="00" relocatable="true" max_length="0">
+			<original>Engage Attacker</original>
+			<edited>Engage Attacker</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_AvoidanceCount500" offset="00" relocatable="true" max_length="0">
+			<original>Dodger</original>
+			<edited>Dodger</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ChainGuardCount300" offset="00" relocatable="true" max_length="0">
+			<original>Protector</original>
+			<edited>Protector</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ChainAttackCount300" offset="00" relocatable="true" max_length="0">
+			<original>Helper</original>
+			<edited>Helper</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ChainUnitCount10" offset="00" relocatable="true" max_length="0">
+			<original>Coordinator</original>
+			<edited>Coordinator</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BreakCount300" offset="00" relocatable="true" max_length="0">
+			<original>Breaker</original>
+			<edited>Breaker</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_SmashCount50" offset="00" relocatable="true" max_length="0">
+			<original>Smasher</original>
+			<edited>Smasher</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_MiniGamePlayCount100" offset="00" relocatable="true" max_length="0">
+			<original>Busybody</original>
+			<edited>Busybody</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CreateRingCount5000" offset="00" relocatable="true" max_length="0">
+			<original>Ring Collector</original>
+			<edited>Ring Collector</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_SynthesizeRingCount500" offset="00" relocatable="true" max_length="0">
+			<original>Maximum Melding</original>
+			<edited>Maximum Melding</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_GetBondRingC_Count1000" offset="00" relocatable="true" max_length="0">
+			<original>C Rank</original>
+			<edited>C Rank</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_GetBondRingB_Count100" offset="00" relocatable="true" max_length="0">
+			<original>B Rank</original>
+			<edited>B Rank</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_GetBondRingA_Count50" offset="00" relocatable="true" max_length="0">
+			<original>A Rank</original>
+			<edited>A Rank</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_GetBondRingS_Count10" offset="00" relocatable="true" max_length="0">
+			<original>S Rank</original>
+			<edited>S Rank</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CleaningRingCount100" offset="00" relocatable="true" max_length="0">
+			<original>Spotless</original>
+			<edited>Spotless</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_InvestmentFileneStage5" offset="00" relocatable="true" max_length="0">
+			<original>Firene Ambassador</original>
+			<edited>Firene Ambassador</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_InvestmentBrodiaStage5" offset="00" relocatable="true" max_length="0">
+			<original>Brodia Ambassador</original>
+			<edited>Brodia Ambassador</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_InvestmentIrcionStage5" offset="00" relocatable="true" max_length="0">
+			<original>Elusia Ambassador</original>
+			<edited>Elusia Ambassador</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_InvestmentSolumStage5" offset="00" relocatable="true" max_length="0">
+			<original>Solm Ambassador</original>
+			<edited>Solm Ambassador</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_InvestmentStage5All" offset="00" relocatable="true" max_length="0">
+			<original>Elyos Ambassador</original>
+			<edited>Elyos Ambassador</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_InvestmentTotalValue1000000" offset="00" relocatable="true" max_length="0">
+			<original>Wealthy</original>
+			<edited>Wealthy</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CookingCount100" offset="00" relocatable="true" max_length="0">
+			<original>Chef</original>
+			<edited>Chef</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CookingG_Count5" offset="00" relocatable="true" max_length="0">
+			<original>Aspiring Chef</original>
+			<edited>Aspiring Chef</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CookingF_Count5" offset="00" relocatable="true" max_length="0">
+			<original>Learning Chef</original>
+			<edited>Learning Chef</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CookingE_Count5" offset="00" relocatable="true" max_length="0">
+			<original>Folk Food Chef</original>
+			<edited>Folk Food Chef</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CookingD_Count5" offset="00" relocatable="true" max_length="0">
+			<original>Apprentice Chef</original>
+			<edited>Apprentice Chef</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CookingC_Count20" offset="00" relocatable="true" max_length="0">
+			<original>Adequate Chef</original>
+			<edited>Adequate Chef</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CookingB_Count20" offset="00" relocatable="true" max_length="0">
+			<original>Average Chef</original>
+			<edited>Average Chef</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CookingA_Count20" offset="00" relocatable="true" max_length="0">
+			<original>Popular Chef</original>
+			<edited>Popular Chef</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CookingS_Count5" offset="00" relocatable="true" max_length="0">
+			<original>Elite Chef</original>
+			<edited>Elite Chef</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CookingSS_Count3" offset="00" relocatable="true" max_length="0">
+			<original>Legendary Chef</original>
+			<edited>Legendary Chef</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Sleep100" offset="00" relocatable="true" max_length="0">
+			<original>Sleepyhead</original>
+			<edited>Sleepyhead</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_WakeUpC_People30" offset="00" relocatable="true" max_length="0">
+			<original>Late Riser</original>
+			<edited>Late Riser</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_WakeUpB_People30" offset="00" relocatable="true" max_length="0">
+			<original>Up and at 'Em</original>
+			<edited>Up and at 'Em</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_WakeUpA_People30" offset="00" relocatable="true" max_length="0">
+			<original>Sleep Specialist</original>
+			<edited>Sleep Specialist</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_WakeUpS" offset="00" relocatable="true" max_length="0">
+			<original>Favored Awakener</original>
+			<edited>Favored Awakener</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ArenaCount100" offset="00" relocatable="true" max_length="0">
+			<original>Training Enthusiast</original>
+			<edited>Training Enthusiast</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ArenaWinCount100" offset="00" relocatable="true" max_length="0">
+			<original>Custom Battler</original>
+			<edited>Custom Battler</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ArenaVsGodCount100" offset="00" relocatable="true" max_length="0">
+			<original>Bond Forger</original>
+			<edited>Bond Forger</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ArenaWinVsGodCount100" offset="00" relocatable="true" max_length="0">
+			<original>Victorious Emblem</original>
+			<edited>Victorious Emblem</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BuyWeaponCount100" offset="00" relocatable="true" max_length="0">
+			<original>Armed and Ready</original>
+			<edited>Armed and Ready</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BuySwordCount50" offset="00" relocatable="true" max_length="0">
+			<original>Master of Swords</original>
+			<edited>Master of Swords</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BuyLanceCount50" offset="00" relocatable="true" max_length="0">
+			<original>Master of Lances</original>
+			<edited>Master of Lances</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BuyAxeCount50" offset="00" relocatable="true" max_length="0">
+			<original>Master of Axes</original>
+			<edited>Master of Axes</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BuyBowCount50" offset="00" relocatable="true" max_length="0">
+			<original>Master of Bows</original>
+			<edited>Master of Bows</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BuyKnifeCount50" offset="00" relocatable="true" max_length="0">
+			<original>Master of Knives</original>
+			<edited>Master of Knives</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BuyMagicCount50" offset="00" relocatable="true" max_length="0">
+			<original>Master of Magic</original>
+			<edited>Master of Magic</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BuyFistCount50" offset="00" relocatable="true" max_length="0">
+			<original>Master of Arts</original>
+			<edited>Master of Arts</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_SellWeaponCount50" offset="00" relocatable="true" max_length="0">
+			<original>Top Shopper</original>
+			<edited>Top Shopper</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BuyItemCount500" offset="00" relocatable="true" max_length="0">
+			<original>Ready for Anything</original>
+			<edited>Ready for Anything</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_SellItemCount50" offset="00" relocatable="true" max_length="0">
+			<original>Merchant</original>
+			<edited>Merchant</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BuyRodCount50" offset="00" relocatable="true" max_length="0">
+			<original>Master of Staves</original>
+			<edited>Master of Staves</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BuyAccessoryCount25" offset="00" relocatable="true" max_length="0">
+			<original>Fashionista</original>
+			<edited>Fashionista</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ChangeAccessoryCount100" offset="00" relocatable="true" max_length="0">
+			<original>All Dressed Up</original>
+			<edited>All Dressed Up</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RefineCount100" offset="00" relocatable="true" max_length="0">
+			<original>Refiner</original>
+			<edited>Refiner</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RefineSwordCount50" offset="00" relocatable="true" max_length="0">
+			<original>Sword Refiner</original>
+			<edited>Sword Refiner</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RefineLanceCount50" offset="00" relocatable="true" max_length="0">
+			<original>Lance Refiner</original>
+			<edited>Lance Refiner</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RefineAxeCount50" offset="00" relocatable="true" max_length="0">
+			<original>Axe Refiner</original>
+			<edited>Axe Refiner</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RefineBowCount50" offset="00" relocatable="true" max_length="0">
+			<original>Bow Refiner</original>
+			<edited>Bow Refiner</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RefineKnifeCount50" offset="00" relocatable="true" max_length="0">
+			<original>Knife Refiner</original>
+			<edited>Knife Refiner</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RefineMagicCount50" offset="00" relocatable="true" max_length="0">
+			<original>Tome Refiner</original>
+			<edited>Tome Refiner</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RefineFistCount50" offset="00" relocatable="true" max_length="0">
+			<original>Art Refiner</original>
+			<edited>Art Refiner</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_EngraveCount100" offset="00" relocatable="true" max_length="0">
+			<original>Engraver</original>
+			<edited>Engraver</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_PlayTime240Hours" offset="00" relocatable="true" max_length="0">
+			<original>Extended Engagement</original>
+			<edited>Extended Engagement</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ClearedChapter26" offset="00" relocatable="true" max_length="0">
+			<original>Savior</original>
+			<edited>Savior</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_VersusCount200" offset="00" relocatable="true" max_length="0">
+			<original>Challenger</original>
+			<edited>Challenger</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_VersusWinCount100" offset="00" relocatable="true" max_length="0">
+			<original>Champion</original>
+			<edited>Champion</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RelayCount200" offset="00" relocatable="true" max_length="0">
+			<original>Team Player</original>
+			<edited>Team Player</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RelayWinCount100" offset="00" relocatable="true" max_length="0">
+			<original>Team Leader</original>
+			<edited>Team Leader</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ChallengeMap1Rank50" offset="00" relocatable="true" max_length="0">
+			<original>Verdant Plain Master</original>
+			<edited>Verdant Plain Master</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ChallengeMap2Rank50" offset="00" relocatable="true" max_length="0">
+			<original>Floral Field Master</original>
+			<edited>Floral Field Master</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ChallengeMap3Rank50" offset="00" relocatable="true" max_length="0">
+			<original>Mountain Peak Master</original>
+			<edited>Mountain Peak Master</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ChallengeMap4Rank50" offset="00" relocatable="true" max_length="0">
+			<original>Snowy Forest Master</original>
+			<edited>Snowy Forest Master</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ChallengeMap5Rank50" offset="00" relocatable="true" max_length="0">
+			<original>Desert Dunes Master</original>
+			<edited>Desert Dunes Master</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ChallengeMap6Rank50" offset="00" relocatable="true" max_length="0">
+			<original>Vicious Volcano Master</original>
+			<edited>Vicious Volcano Master</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_E004_Kill_Count" offset="00" relocatable="true" max_length="0">
+			<original>Enemy of My Enemy</original>
+			<edited>Enemy of My Enemy</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Nothing" offset="00" relocatable="true" max_length="0">
+			<original>(Blank)</original>
+			<edited>(Blank)</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling1" offset="00" relocatable="true" max_length="0">
+			<original>eager</original>
+			<edited>eager</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling2" offset="00" relocatable="true" max_length="0">
+			<original>carefree</original>
+			<edited>carefree</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling3" offset="00" relocatable="true" max_length="0">
+			<original>optimistic</original>
+			<edited>optimistic</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling4" offset="00" relocatable="true" max_length="0">
+			<original>charming</original>
+			<edited>charming</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling5" offset="00" relocatable="true" max_length="0">
+			<original>cowardly</original>
+			<edited>cowardly</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling6" offset="00" relocatable="true" max_length="0">
+			<original>shy</original>
+			<edited>shy</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling7" offset="00" relocatable="true" max_length="0">
+			<original>rascally</original>
+			<edited>rascally</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling8" offset="00" relocatable="true" max_length="0">
+			<original>fun-loving</original>
+			<edited>fun-loving</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling9" offset="00" relocatable="true" max_length="0">
+			<original>pleasant</original>
+			<edited>pleasant</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling10" offset="00" relocatable="true" max_length="0">
+			<original>cheerful</original>
+			<edited>cheerful</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling11" offset="00" relocatable="true" max_length="0">
+			<original>vibrant</original>
+			<edited>vibrant</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling12" offset="00" relocatable="true" max_length="0">
+			<original>kind</original>
+			<edited>kind</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling13" offset="00" relocatable="true" max_length="0">
+			<original>warm</original>
+			<edited>warm</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling14" offset="00" relocatable="true" max_length="0">
+			<original>polite</original>
+			<edited>polite</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling15" offset="00" relocatable="true" max_length="0">
+			<original>clever</original>
+			<edited>clever</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling16" offset="00" relocatable="true" max_length="0">
+			<original>bright</original>
+			<edited>bright</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling17" offset="00" relocatable="true" max_length="0">
+			<original>adoring</original>
+			<edited>adoring</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling18" offset="00" relocatable="true" max_length="0">
+			<original>energetic</original>
+			<edited>energetic</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling19" offset="00" relocatable="true" max_length="0">
+			<original>proud</original>
+			<edited>proud</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling20" offset="00" relocatable="true" max_length="0">
+			<original>thoughtful</original>
+			<edited>thoughtful</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling21" offset="00" relocatable="true" max_length="0">
+			<original>outgoing</original>
+			<edited>outgoing</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling22" offset="00" relocatable="true" max_length="0">
+			<original>devoted</original>
+			<edited>devoted</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling23" offset="00" relocatable="true" max_length="0">
+			<original>precious</original>
+			<edited>precious</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature1" offset="00" relocatable="true" max_length="0">
+			<original>athlete</original>
+			<edited>athlete</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature2" offset="00" relocatable="true" max_length="0">
+			<original>archer</original>
+			<edited>archer</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature3" offset="00" relocatable="true" max_length="0">
+			<original>champion</original>
+			<edited>champion</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature4" offset="00" relocatable="true" max_length="0">
+			<original>retainer</original>
+			<edited>retainer</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature5" offset="00" relocatable="true" max_length="0">
+			<original>stablehand</original>
+			<edited>stablehand</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature6" offset="00" relocatable="true" max_length="0">
+			<original>knight</original>
+			<edited>knight</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature7" offset="00" relocatable="true" max_length="0">
+			<original>trainee</original>
+			<edited>trainee</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature8" offset="00" relocatable="true" max_length="0">
+			<original>mentor</original>
+			<edited>mentor</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature9" offset="00" relocatable="true" max_length="0">
+			<original>singer</original>
+			<edited>singer</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature10" offset="00" relocatable="true" max_length="0">
+			<original>chef</original>
+			<edited>chef</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature11" offset="00" relocatable="true" max_length="0">
+			<original>angler</original>
+			<edited>angler</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature12" offset="00" relocatable="true" max_length="0">
+			<original>dancer</original>
+			<edited>dancer</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature13" offset="00" relocatable="true" max_length="0">
+			<original>assassin</original>
+			<edited>assassin</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature14" offset="00" relocatable="true" max_length="0">
+			<original>Divine Dragon</original>
+			<edited>Divine Dragon</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature15" offset="00" relocatable="true" max_length="0">
+			<original>Prince</original>
+			<edited>Prince</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature16" offset="00" relocatable="true" max_length="0">
+			<original>Princess</original>
+			<edited>Princess</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature17" offset="00" relocatable="true" max_length="0">
+			<original>smith</original>
+			<edited>smith</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature18" offset="00" relocatable="true" max_length="0">
+			<original>armorer</original>
+			<edited>armorer</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature19" offset="00" relocatable="true" max_length="0">
+			<original>merchant</original>
+			<edited>merchant</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature20" offset="00" relocatable="true" max_length="0">
+			<original>tailor</original>
+			<edited>tailor</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature21" offset="00" relocatable="true" max_length="0">
+			<original>steward</original>
+			<edited>steward</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature22" offset="00" relocatable="true" max_length="0">
+			<original>gatekeeper</original>
+			<edited>gatekeeper</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature23" offset="00" relocatable="true" max_length="0">
+			<original>author</original>
+			<edited>author</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature24" offset="00" relocatable="true" max_length="0">
+			<original>Falchion</original>
+			<edited>Falchion</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature25" offset="00" relocatable="true" max_length="0">
+			<original>Breidablik</original>
+			<edited>Breidablik</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature26" offset="00" relocatable="true" max_length="0">
+			<original>Bolganone</original>
+			<edited>Bolganone</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature27" offset="00" relocatable="true" max_length="0">
+			<original>Thoron</original>
+			<edited>Thoron</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature28" offset="00" relocatable="true" max_length="0">
+			<original>Rexcalibur</original>
+			<edited>Rexcalibur</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Adposition1" offset="00" relocatable="true" max_length="0">
+			<original>is</original>
+			<edited>is</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Adposition2" offset="00" relocatable="true" max_length="0">
+			<original>are</original>
+			<edited>are</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Adposition3" offset="00" relocatable="true" max_length="0">
+			<original>the</original>
+			<edited>the</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Adposition4" offset="00" relocatable="true" max_length="0">
+			<original>of</original>
+			<edited>of</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Adposition5" offset="00" relocatable="true" max_length="0">
+			<original>to</original>
+			<edited>to</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Adposition6" offset="00" relocatable="true" max_length="0">
+			<original>with</original>
+			<edited>with</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Adposition7" offset="00" relocatable="true" max_length="0">
+			<original>&amp;</original>
+			<edited>&amp;</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Adposition8" offset="00" relocatable="true" max_length="0">
+			<original>VS</original>
+			<edited>VS</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Adposition9" offset="00" relocatable="true" max_length="0">
+			<original>at</original>
+			<edited>at</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection1" offset="00" relocatable="true" max_length="0">
+			<original>therefore</original>
+			<edited>therefore</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection2" offset="00" relocatable="true" max_length="0">
+			<original>however</original>
+			<edited>however</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection3" offset="00" relocatable="true" max_length="0">
+			<original>never</original>
+			<edited>never</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection4" offset="00" relocatable="true" max_length="0">
+			<original>and yet</original>
+			<edited>and yet</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection5" offset="00" relocatable="true" max_length="0">
+			<original>but still</original>
+			<edited>but still</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection6" offset="00" relocatable="true" max_length="0">
+			<original>actually</original>
+			<edited>actually</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection7" offset="00" relocatable="true" max_length="0">
+			<original>everyone</original>
+			<edited>everyone</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection8" offset="00" relocatable="true" max_length="0">
+			<original>or</original>
+			<edited>or</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection9" offset="00" relocatable="true" max_length="0">
+			<original>anyone</original>
+			<edited>anyone</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection10" offset="00" relocatable="true" max_length="0">
+			<original>not really</original>
+			<edited>not really</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection11" offset="00" relocatable="true" max_length="0">
+			<original>i.e.</original>
+			<edited>i.e.</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection12" offset="00" relocatable="true" max_length="0">
+			<original>anyway</original>
+			<edited>anyway</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection13" offset="00" relocatable="true" max_length="0">
+			<original>especially</original>
+			<edited>especially</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection14" offset="00" relocatable="true" max_length="0">
+			<original>and</original>
+			<edited>and</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection15" offset="00" relocatable="true" max_length="0">
+			<original>because</original>
+			<edited>because</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection16" offset="00" relocatable="true" max_length="0">
+			<original>more</original>
+			<edited>more</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection17" offset="00" relocatable="true" max_length="0">
+			<original>&gt;</original>
+			<edited>&gt;</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection18" offset="00" relocatable="true" max_length="0">
+			<original>&lt;</original>
+			<edited>&lt;</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection19" offset="00" relocatable="true" max_length="0">
+			<original>also</original>
+			<edited>also</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection20" offset="00" relocatable="true" max_length="0">
+			<original>???</original>
+			<edited>???</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection21" offset="00" relocatable="true" max_length="0">
+			<original>/</original>
+			<edited>/</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Honorific1" offset="00" relocatable="true" max_length="0">
+			<original>☆</original>
+			<edited>☆</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Honorific2" offset="00" relocatable="true" max_length="0">
+			<original>=</original>
+			<edited>=</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Honorific3" offset="00" relocatable="true" max_length="0">
+			<original>♪</original>
+			<edited>♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Honorific4" offset="00" relocatable="true" max_length="0">
+			<original>Lord</original>
+			<edited>Lord</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Honorific5" offset="00" relocatable="true" max_length="0">
+			<original>Lady</original>
+			<edited>Lady</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Team1" offset="00" relocatable="true" max_length="0">
+			<original>Emblem</original>
+			<edited>Emblem</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Team2" offset="00" relocatable="true" max_length="0">
+			<original>Engage!</original>
+			<edited>Engage!</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Team3" offset="00" relocatable="true" max_length="0">
+			<original>chain</original>
+			<edited>chain</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Team4" offset="00" relocatable="true" max_length="0">
+			<original>guard</original>
+			<edited>guard</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Team5" offset="00" relocatable="true" max_length="0">
+			<original>attack</original>
+			<edited>attack</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Solanel" offset="00" relocatable="true" max_length="0">
+			<original>Somniel</original>
+			<edited>Somniel</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Eleos" offset="00" relocatable="true" max_length="0">
+			<original>Elyos</original>
+			<edited>Elyos</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Player" offset="00" relocatable="true" max_length="0">
+			<original>player</original>
+			<edited>player</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Enemy" offset="00" relocatable="true" max_length="0">
+			<original>foe</original>
+			<edited>foe</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_VIP" offset="00" relocatable="true" max_length="0">
+			<original>MVP</original>
+			<edited>MVP</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Training" offset="00" relocatable="true" max_length="0">
+			<original>training</original>
+			<edited>training</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Party" offset="00" relocatable="true" max_length="0">
+			<original>party</original>
+			<edited>party</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Others1" offset="00" relocatable="true" max_length="0">
+			<original>summon</original>
+			<edited>summon</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Others2" offset="00" relocatable="true" max_length="0">
+			<original>battle</original>
+			<edited>battle</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Others3" offset="00" relocatable="true" max_length="0">
+			<original>support</original>
+			<edited>support</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Others4" offset="00" relocatable="true" max_length="0">
+			<original>bond</original>
+			<edited>bond</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Others5" offset="00" relocatable="true" max_length="0">
+			<original>strength</original>
+			<edited>strength</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Others6" offset="00" relocatable="true" max_length="0">
+			<original>magic</original>
+			<edited>magic</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Others7" offset="00" relocatable="true" max_length="0">
+			<original>skill</original>
+			<edited>skill</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Position" offset="00" relocatable="true" max_length="0">
+			<original>class</original>
+			<edited>class</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_BasicPosition" offset="00" relocatable="true" max_length="0">
+			<original>base class</original>
+			<edited>base class</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_SeniorPosition" offset="00" relocatable="true" max_length="0">
+			<original>advanced class</original>
+			<edited>advanced class</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_SpecialPosition" offset="00" relocatable="true" max_length="0">
+			<original>special class</original>
+			<edited>special class</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Style" offset="00" relocatable="true" max_length="0">
+			<original>unit type</original>
+			<edited>unit type</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Map_Theme_Select" offset="00" relocatable="true" max_length="0">
+			<original>Select a theme for the map that you made.
+(It will be applied to your profile card.)</original>
+			<edited>Select a theme for the map that you made.
+(It will be applied to your profile card.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Theme_Unit" offset="00" relocatable="true" max_length="0">
+			<original>Placed Units</original>
+			<edited>Placed Units</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Unit1" offset="00" relocatable="true" max_length="0">
+			<original>Ranged</original>
+			<edited>Ranged</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Unit2" offset="00" relocatable="true" max_length="0">
+			<original>Melee</original>
+			<edited>Melee</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Unit3" offset="00" relocatable="true" max_length="0">
+			<original>Deployed</original>
+			<edited>Deployed</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Unit4" offset="00" relocatable="true" max_length="0">
+			<original>Armored</original>
+			<edited>Armored</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Unit5" offset="00" relocatable="true" max_length="0">
+			<original>Cavalry</original>
+			<edited>Cavalry</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Unit6" offset="00" relocatable="true" max_length="0">
+			<original>Flying</original>
+			<edited>Flying</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Unit7" offset="00" relocatable="true" max_length="0">
+			<original>Backup</original>
+			<edited>Backup</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Unit8" offset="00" relocatable="true" max_length="0">
+			<original>Covert</original>
+			<edited>Covert</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Unit9" offset="00" relocatable="true" max_length="0">
+			<original>Qi Adept</original>
+			<edited>Qi Adept</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Unit10" offset="00" relocatable="true" max_length="0">
+			<original>Mystical</original>
+			<edited>Mystical</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Theme_Map" offset="00" relocatable="true" max_length="0">
+			<original>Map</original>
+			<edited>Map</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Map1" offset="00" relocatable="true" max_length="0">
+			<original>Fortress</original>
+			<edited>Fortress</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Map2" offset="00" relocatable="true" max_length="0">
+			<original>Maze</original>
+			<edited>Maze</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Map3" offset="00" relocatable="true" max_length="0">
+			<original>Avoid</original>
+			<edited>Avoid</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Map4" offset="00" relocatable="true" max_length="0">
+			<original>Cannon</original>
+			<edited>Cannon</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Map5" offset="00" relocatable="true" max_length="0">
+			<original>Garden</original>
+			<edited>Garden</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Map6" offset="00" relocatable="true" max_length="0">
+			<original>Eastern</original>
+			<edited>Eastern</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Map7" offset="00" relocatable="true" max_length="0">
+			<original>Siege</original>
+			<edited>Siege</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Map8" offset="00" relocatable="true" max_length="0">
+			<original>Temple</original>
+			<edited>Temple</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Map9" offset="00" relocatable="true" max_length="0">
+			<original>Simple</original>
+			<edited>Simple</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Theme_Object" offset="00" relocatable="true" max_length="0">
+			<original>Placed Terrain</original>
+			<edited>Placed Terrain</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Object1" offset="00" relocatable="true" max_length="0">
+			<original>Alpaca</original>
+			<edited>Alpaca</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Object2" offset="00" relocatable="true" max_length="0">
+			<original>Spiritual</original>
+			<edited>Spiritual</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Object3" offset="00" relocatable="true" max_length="0">
+			<original>Sandy</original>
+			<edited>Sandy</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Object4" offset="00" relocatable="true" max_length="0">
+			<original>Icy</original>
+			<edited>Icy</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Object5" offset="00" relocatable="true" max_length="0">
+			<original>Pillar-y</original>
+			<edited>Pillar-y</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Theme_Conception" offset="00" relocatable="true" max_length="0">
+			<original>Atmosphere</original>
+			<edited>Atmosphere</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Conception1" offset="00" relocatable="true" max_length="0">
+			<original>Sweet</original>
+			<edited>Sweet</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Conception2" offset="00" relocatable="true" max_length="0">
+			<original>Classy</original>
+			<edited>Classy</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Conception3" offset="00" relocatable="true" max_length="0">
+			<original>Scary</original>
+			<edited>Scary</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Conception4" offset="00" relocatable="true" max_length="0">
+			<original>Cool</original>
+			<edited>Cool</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Conception5" offset="00" relocatable="true" max_length="0">
+			<original>Fancy</original>
+			<edited>Fancy</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Conception6" offset="00" relocatable="true" max_length="0">
+			<original>Nice</original>
+			<edited>Nice</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Theme_Onomatopoeia" offset="00" relocatable="true" max_length="0">
+			<original>Onomatopoeia</original>
+			<edited>Onomatopoeia</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Onomatopoeia1" offset="00" relocatable="true" max_length="0">
+			<original>Ting</original>
+			<edited>Ting</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Onomatopoeia2" offset="00" relocatable="true" max_length="0">
+			<original>Whoosh</original>
+			<edited>Whoosh</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Onomatopoeia3" offset="00" relocatable="true" max_length="0">
+			<original>Brrr</original>
+			<edited>Brrr</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Onomatopoeia4" offset="00" relocatable="true" max_length="0">
+			<original>Zoom</original>
+			<edited>Zoom</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Onomatopoeia5" offset="00" relocatable="true" max_length="0">
+			<original>Crash</original>
+			<edited>Crash</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Area_Select" offset="00" relocatable="true" max_length="0">
+			<original>Background</original>
+			<edited>Background</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Area_Select_Help" offset="00" relocatable="true" max_length="0">
+			<original>Select a background location.</original>
+			<edited>Select a background location.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Area_List" offset="00" relocatable="true" max_length="0">
+			<original>Locations</original>
+			<edited>Locations</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Placement_Limit" offset="00" relocatable="true" max_length="0">
+			<original>No. of Placeable Allies</original>
+			<edited>No. of Placeable Allies</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Spot_Title" offset="00" relocatable="true" max_length="0">
+			<original>Ally to Place</original>
+			<edited>Ally to Place</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Spot_01" offset="00" relocatable="true" max_length="0">
+			<original>Spot 1</original>
+			<edited>Spot 1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Spot_02" offset="00" relocatable="true" max_length="0">
+			<original>Spot 2</original>
+			<edited>Spot 2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Spot_03" offset="00" relocatable="true" max_length="0">
+			<original>Spot 3</original>
+			<edited>Spot 3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Spot_Weapon" offset="00" relocatable="true" max_length="0">
+			<original>Weapons</original>
+			<edited>Weapons</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Spot_Scarf" offset="00" relocatable="true" max_length="0">
+			<original>Scarf Colors</original>
+			<edited>Scarf Colors</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Photo_Finish_Confirm" offset="00" relocatable="true" max_length="0">
+			<original>Return to background selection?</original>
+			<edited>Return to background selection?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Save_Confirm" offset="00" relocatable="true" max_length="0">
+			<original>Your photo was saved and applied to your
+profile card. (You can only save 1 image.)</original>
+			<edited>Your photo was saved and applied to your
+profile card. (You can only save 1 image.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Hyphen01" offset="00" relocatable="true" max_length="0">
+			<original>－</original>
+			<edited>－</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Hyphen05" offset="00" relocatable="true" max_length="0">
+			<original>－－－－－</original>
+			<edited>－－－－－</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_UI_ON" offset="00" relocatable="true" max_length="0">
+			<original>Photo Mode</original>
+			<edited>Photo Mode</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_UI_OFF" offset="00" relocatable="true" max_length="0">
+			<original>End Photo Mode</original>
+			<edited>End Photo Mode</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_PHOTO" offset="00" relocatable="true" max_length="0">
+			<original>Take Photo</original>
+			<edited>Take Photo</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_RANDOM" offset="00" relocatable="true" max_length="0">
+			<original>Randomize</original>
+			<edited>Randomize</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_LIST" offset="00" relocatable="true" max_length="0">
+			<original>Show List</original>
+			<edited>Show List</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_AREA_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>Cycle Spots</original>
+			<edited>Cycle Spots</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_CAMERA_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>Switch Camera</original>
+			<edited>Switch Camera</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_CAMERA_HORIZON" offset="00" relocatable="true" max_length="0">
+			<original>Pan Left/Right</original>
+			<edited>Pan Left/Right</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_CAMERA_VERTICAL" offset="00" relocatable="true" max_length="0">
+			<original>Pan Up/Down</original>
+			<edited>Pan Up/Down</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_CAMERA" offset="00" relocatable="true" max_length="0">
+			<original>Camera Controls</original>
+			<edited>Camera Controls</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_SAVE" offset="00" relocatable="true" max_length="0">
+			<original>Save</original>
+			<edited>Save</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_NO_SAVE" offset="00" relocatable="true" max_length="0">
+			<original>Retake</original>
+			<edited>Retake</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PoseType_1" offset="00" relocatable="true" max_length="0">
+			<original>1</original>
+			<edited>1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PoseType_2" offset="00" relocatable="true" max_length="0">
+			<original>2</original>
+			<edited>2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PoseType_3" offset="00" relocatable="true" max_length="0">
+			<original>3</original>
+			<edited>3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PoseType_4" offset="00" relocatable="true" max_length="0">
+			<original>4</original>
+			<edited>4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PoseType_5" offset="00" relocatable="true" max_length="0">
+			<original>5</original>
+			<edited>5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PoseType_6" offset="00" relocatable="true" max_length="0">
+			<original>6</original>
+			<edited>6</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PoseType_7" offset="00" relocatable="true" max_length="0">
+			<original>7</original>
+			<edited>7</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PoseType_Normal" offset="00" relocatable="true" max_length="0">
+			<original>Standard Poses</original>
+			<edited>Standard Poses</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PoseType_Battle" offset="00" relocatable="true" max_length="0">
+			<original>Battle Poses</original>
+			<edited>Battle Poses</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PoseType_Solanel" offset="00" relocatable="true" max_length="0">
+			<original>Somniel Poses</original>
+			<edited>Somniel Poses</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Normal" offset="00" relocatable="true" max_length="0">
+			<original>Idle </original>
+			<edited>Idle </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Angry" offset="00" relocatable="true" max_length="0">
+			<original>Angry </original>
+			<edited>Angry </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Deny" offset="00" relocatable="true" max_length="0">
+			<original>Refusing </original>
+			<edited>Refusing </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Deny2" offset="00" relocatable="true" max_length="0">
+			<original>Shaking Head </original>
+			<edited>Shaking Head </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Give" offset="00" relocatable="true" max_length="0">
+			<original>Giving </original>
+			<edited>Giving </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Joy" offset="00" relocatable="true" max_length="0">
+			<original>Joyful </original>
+			<edited>Joyful </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Joy2" offset="00" relocatable="true" max_length="0">
+			<original>Cheerful </original>
+			<edited>Cheerful </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_LookR" offset="00" relocatable="true" max_length="0">
+			<original>Looking Right </original>
+			<edited>Looking Right </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_LookL" offset="00" relocatable="true" max_length="0">
+			<original>Looking Left </original>
+			<edited>Looking Left </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Pray" offset="00" relocatable="true" max_length="0">
+			<original>Praying </original>
+			<edited>Praying </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Proud" offset="00" relocatable="true" max_length="0">
+			<original>Proud </original>
+			<edited>Proud </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Relax" offset="00" relocatable="true" max_length="0">
+			<original>Relaxed </original>
+			<edited>Relaxed </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Sad" offset="00" relocatable="true" max_length="0">
+			<original>Discouraged </original>
+			<edited>Discouraged </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Sad2" offset="00" relocatable="true" max_length="0">
+			<original>Sad </original>
+			<edited>Sad </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Shy" offset="00" relocatable="true" max_length="0">
+			<original>Bashful </original>
+			<edited>Bashful </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Surprise" offset="00" relocatable="true" max_length="0">
+			<original>Shocked </original>
+			<edited>Shocked </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Surprise2" offset="00" relocatable="true" max_length="0">
+			<original>Surprised </original>
+			<edited>Surprised </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Talk" offset="00" relocatable="true" max_length="0">
+			<original>Speaking </original>
+			<edited>Speaking </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Talk2" offset="00" relocatable="true" max_length="0">
+			<original>Chatting </original>
+			<edited>Chatting </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Think" offset="00" relocatable="true" max_length="0">
+			<original>Thoughtful </original>
+			<edited>Thoughtful </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Tired" offset="00" relocatable="true" max_length="0">
+			<original>Weary </original>
+			<edited>Weary </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Wave" offset="00" relocatable="true" max_length="0">
+			<original>Waving </original>
+			<edited>Waving </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Posing" offset="00" relocatable="true" max_length="0">
+			<original>Casual </original>
+			<edited>Casual </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Posing2" offset="00" relocatable="true" max_length="0">
+			<original>Cool </original>
+			<edited>Cool </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Cheer1" offset="00" relocatable="true" max_length="0">
+			<original>Cheering For </original>
+			<edited>Cheering For </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Cheer2" offset="00" relocatable="true" max_length="0">
+			<original>Cheering On </original>
+			<edited>Cheering On </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_FishShow" offset="00" relocatable="true" max_length="0">
+			<original>Encouraging </original>
+			<edited>Encouraging </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Guitar" offset="00" relocatable="true" max_length="0">
+			<original>Air Guitar </original>
+			<edited>Air Guitar </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Pick1" offset="00" relocatable="true" max_length="0">
+			<original>Picking </original>
+			<edited>Picking </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Pick2" offset="00" relocatable="true" max_length="0">
+			<original>Checking </original>
+			<edited>Checking </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Pick3" offset="00" relocatable="true" max_length="0">
+			<original>Harvesting </original>
+			<edited>Harvesting </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_ScatterR" offset="00" relocatable="true" max_length="0">
+			<original>Feeding 1 </original>
+			<edited>Feeding 1 </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_ScatterL" offset="00" relocatable="true" max_length="0">
+			<original>Feeding 2 </original>
+			<edited>Feeding 2 </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Sing" offset="00" relocatable="true" max_length="0">
+			<original>Singing </original>
+			<edited>Singing </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_SitUp_Start" offset="00" relocatable="true" max_length="0">
+			<original>Start Sit-up </original>
+			<edited>Start Sit-up </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_SitUp_End" offset="00" relocatable="true" max_length="0">
+			<original>Finish Sit-up </original>
+			<edited>Finish Sit-up </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Squat_Start" offset="00" relocatable="true" max_length="0">
+			<original>Start Squat </original>
+			<edited>Start Squat </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Squat_End" offset="00" relocatable="true" max_length="0">
+			<original>Finish Squat </original>
+			<edited>Finish Squat </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_PushUp_Start" offset="00" relocatable="true" max_length="0">
+			<original>Start Push-up </original>
+			<edited>Start Push-up </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_PushUp_End" offset="00" relocatable="true" max_length="0">
+			<original>Finish Push-up </original>
+			<edited>Finish Push-up </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_WateringR" offset="00" relocatable="true" max_length="0">
+			<original>Watering 1 </original>
+			<edited>Watering 1 </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_WateringL" offset="00" relocatable="true" max_length="0">
+			<original>Watering 2 </original>
+			<edited>Watering 2 </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Splash_OneHand" offset="00" relocatable="true" max_length="0">
+			<original>One-Hand Splash </original>
+			<edited>One-Hand Splash </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_SplashothHands" offset="00" relocatable="true" max_length="0">
+			<original>Two-Hand Splash </original>
+			<edited>Two-Hand Splash </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Splash" offset="00" relocatable="true" max_length="0">
+			<original>Being Splashed </original>
+			<edited>Being Splashed </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_StrokeStand" offset="00" relocatable="true" max_length="0">
+			<original>Brushing </original>
+			<edited>Brushing </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_SitNormal" offset="00" relocatable="true" max_length="0">
+			<original>Sitting </original>
+			<edited>Sitting </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_ChairNormal" offset="00" relocatable="true" max_length="0">
+			<original>Seated in Chair </original>
+			<edited>Seated in Chair </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Reactionbad" offset="00" relocatable="true" max_length="0">
+			<original>Gross </original>
+			<edited>Gross </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_ReactionGood" offset="00" relocatable="true" max_length="0">
+			<original>Tasty </original>
+			<edited>Tasty </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_ReactionGreat" offset="00" relocatable="true" max_length="0">
+			<original>Delicious </original>
+			<edited>Delicious </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Battle_Sword" offset="00" relocatable="true" max_length="0">
+			<original>Sword Pose </original>
+			<edited>Sword Pose </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Battle_Lance" offset="00" relocatable="true" max_length="0">
+			<original>Lance Pose </original>
+			<edited>Lance Pose </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Battle_Axe" offset="00" relocatable="true" max_length="0">
+			<original>Axe Pose </original>
+			<edited>Axe Pose </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Battle_Bow" offset="00" relocatable="true" max_length="0">
+			<original>Bow Pose </original>
+			<edited>Bow Pose </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Battle_Magic" offset="00" relocatable="true" max_length="0">
+			<original>Tome Pose </original>
+			<edited>Tome Pose </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Battle_Knife" offset="00" relocatable="true" max_length="0">
+			<original>Knife Pose </original>
+			<edited>Knife Pose </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Battle_Fist" offset="00" relocatable="true" max_length="0">
+			<original>Art Pose </original>
+			<edited>Art Pose </edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_Normal" offset="00" relocatable="true" max_length="0">
+			<original>Idle</original>
+			<edited>Idle</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_Angry" offset="00" relocatable="true" max_length="0">
+			<original>Angry</original>
+			<edited>Angry</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_Joy" offset="00" relocatable="true" max_length="0">
+			<original>Joyful</original>
+			<edited>Joyful</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_Cheer" offset="00" relocatable="true" max_length="0">
+			<original>Cheerful</original>
+			<edited>Cheerful</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_Petted" offset="00" relocatable="true" max_length="0">
+			<original>Calm</original>
+			<edited>Calm</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_Sad" offset="00" relocatable="true" max_length="0">
+			<original>Sad</original>
+			<edited>Sad</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_GestureR" offset="00" relocatable="true" max_length="0">
+			<original>Looking Right</original>
+			<edited>Looking Right</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_GestureL" offset="00" relocatable="true" max_length="0">
+			<original>Looking Left</original>
+			<edited>Looking Left</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_Eat" offset="00" relocatable="true" max_length="0">
+			<original>Eating</original>
+			<edited>Eating</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_Drop" offset="00" relocatable="true" max_length="0">
+			<original>Stretching</original>
+			<edited>Stretching</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_GetUp" offset="00" relocatable="true" max_length="0">
+			<original>Cool</original>
+			<edited>Cool</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_Sit" offset="00" relocatable="true" max_length="0">
+			<original>Sitting</original>
+			<edited>Sitting</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_Sleep" offset="00" relocatable="true" max_length="0">
+			<original>Sleeping</original>
+			<edited>Sleeping</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Entrance_front1" offset="00" relocatable="true" max_length="0">
+			<original>Plaza 1</original>
+			<edited>Plaza 1</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Entrance_front2" offset="00" relocatable="true" max_length="0">
+			<original>Plaza 2</original>
+			<edited>Plaza 2</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Entrance1" offset="00" relocatable="true" max_length="0">
+			<original>Plaza 3</original>
+			<edited>Plaza 3</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Entrance2" offset="00" relocatable="true" max_length="0">
+			<original>Plaza 4</original>
+			<edited>Plaza 4</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Cafeteria_front1" offset="00" relocatable="true" max_length="0">
+			<original>Café Terrace 1</original>
+			<edited>Café Terrace 1</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Cafeteria_front2" offset="00" relocatable="true" max_length="0">
+			<original>Café Terrace 2</original>
+			<edited>Café Terrace 2</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Cafeteria1" offset="00" relocatable="true" max_length="0">
+			<original>Café Terrace 3</original>
+			<edited>Café Terrace 3</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Cafeteria2" offset="00" relocatable="true" max_length="0">
+			<original>Café Terrace 4</original>
+			<edited>Café Terrace 4</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Cafeteria3" offset="00" relocatable="true" max_length="0">
+			<original>Café Terrace 5</original>
+			<edited>Café Terrace 5</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_WeaponShop_front" offset="00" relocatable="true" max_length="0">
+			<original>Armory 1</original>
+			<edited>Armory 1</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_WeaponShop1" offset="00" relocatable="true" max_length="0">
+			<original>Armory 2</original>
+			<edited>Armory 2</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_ItemShop_front" offset="00" relocatable="true" max_length="0">
+			<original>Item Shop 1</original>
+			<edited>Item Shop 1</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_ItemShop1" offset="00" relocatable="true" max_length="0">
+			<original>Item Shop 2</original>
+			<edited>Item Shop 2</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_RefineShop_front" offset="00" relocatable="true" max_length="0">
+			<original>Smithy 1</original>
+			<edited>Smithy 1</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_RefineShop1" offset="00" relocatable="true" max_length="0">
+			<original>Smithy 2</original>
+			<edited>Smithy 2</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_AccessoryShop_front" offset="00" relocatable="true" max_length="0">
+			<original>Boutique 1</original>
+			<edited>Boutique 1</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_AccessoryShop1" offset="00" relocatable="true" max_length="0">
+			<original>Boutique 2</original>
+			<edited>Boutique 2</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Poolside_front" offset="00" relocatable="true" max_length="0">
+			<original>Poolside 1</original>
+			<edited>Poolside 1</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Poolside1" offset="00" relocatable="true" max_length="0">
+			<original>Poolside 2</original>
+			<edited>Poolside 2</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_FleaMarket_front" offset="00" relocatable="true" max_length="0">
+			<original>Flea Market 1</original>
+			<edited>Flea Market 1</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_FleaMarket1" offset="00" relocatable="true" max_length="0">
+			<original>Flea Market 2</original>
+			<edited>Flea Market 2</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Fortune_front" offset="00" relocatable="true" max_length="0">
+			<original>Fortune-Teller 1</original>
+			<edited>Fortune-Teller 1</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Fortune1" offset="00" relocatable="true" max_length="0">
+			<original>Fortune-Teller 2</original>
+			<edited>Fortune-Teller 2</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Orchard_front" offset="00" relocatable="true" max_length="0">
+			<original>Orchard 1</original>
+			<edited>Orchard 1</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Orchard1" offset="00" relocatable="true" max_length="0">
+			<original>Orchard 2</original>
+			<edited>Orchard 2</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Fountain_front" offset="00" relocatable="true" max_length="0">
+			<original>Fountain 1</original>
+			<edited>Fountain 1</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Fountain1" offset="00" relocatable="true" max_length="0">
+			<original>Fountain 2</original>
+			<edited>Fountain 2</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Corridor1" offset="00" relocatable="true" max_length="0">
+			<original>Hallway 1</original>
+			<edited>Hallway 1</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Pond_front" offset="00" relocatable="true" max_length="0">
+			<original>Pond 1</original>
+			<edited>Pond 1</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Pond1" offset="00" relocatable="true" max_length="0">
+			<original>Pond 2</original>
+			<edited>Pond 2</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Pond2" offset="00" relocatable="true" max_length="0">
+			<original>Pond 3</original>
+			<edited>Pond 3</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_TrainingSpot_front" offset="00" relocatable="true" max_length="0">
+			<original>Training Yard 1</original>
+			<edited>Training Yard 1</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_TrainingSpot1" offset="00" relocatable="true" max_length="0">
+			<original>Training Yard 2</original>
+			<edited>Training Yard 2</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_TrainingSpot2" offset="00" relocatable="true" max_length="0">
+			<original>Training Yard 3</original>
+			<edited>Training Yard 3</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_TrainingSpot3" offset="00" relocatable="true" max_length="0">
+			<original>Training Yard 4</original>
+			<edited>Training Yard 4</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_TrainingSpot4" offset="00" relocatable="true" max_length="0">
+			<original>Training Yard 5</original>
+			<edited>Training Yard 5</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Farm_front" offset="00" relocatable="true" max_length="0">
+			<original>Farmyard 1</original>
+			<edited>Farmyard 1</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Farm1" offset="00" relocatable="true" max_length="0">
+			<original>Farmyard 2</original>
+			<edited>Farmyard 2</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Farm2" offset="00" relocatable="true" max_length="0">
+			<original>Farmyard 3</original>
+			<edited>Farmyard 3</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Farm3" offset="00" relocatable="true" max_length="0">
+			<original>Farmyard 4</original>
+			<edited>Farmyard 4</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Cave_front" offset="00" relocatable="true" max_length="0">
+			<original>Grotto 1</original>
+			<edited>Grotto 1</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Cave1" offset="00" relocatable="true" max_length="0">
+			<original>Grotto 2</original>
+			<edited>Grotto 2</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_GoodViewSpot_front" offset="00" relocatable="true" max_length="0">
+			<original>Lookout Ridge 1</original>
+			<edited>Lookout Ridge 1</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_GoodViewSpot1" offset="00" relocatable="true" max_length="0">
+			<original>Lookout Ridge 2</original>
+			<edited>Lookout Ridge 2</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Tower_front" offset="00" relocatable="true" max_length="0">
+			<original>Tower of Trials 1</original>
+			<edited>Tower of Trials 1</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Tower1" offset="00" relocatable="true" max_length="0">
+			<original>Tower of Trials 2</original>
+			<edited>Tower of Trials 2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_1" offset="00" relocatable="true" max_length="0">
+			<original>Peach</original>
+			<edited>Peach</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_2" offset="00" relocatable="true" max_length="0">
+			<original>Strawberry</original>
+			<edited>Strawberry</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_3" offset="00" relocatable="true" max_length="0">
+			<original>Ocean</original>
+			<edited>Ocean</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_4" offset="00" relocatable="true" max_length="0">
+			<original>Orange</original>
+			<edited>Orange</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_5" offset="00" relocatable="true" max_length="0">
+			<original>Lemon</original>
+			<edited>Lemon</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_6" offset="00" relocatable="true" max_length="0">
+			<original>Sky</original>
+			<edited>Sky</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_7" offset="00" relocatable="true" max_length="0">
+			<original>Mint</original>
+			<edited>Mint</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_8" offset="00" relocatable="true" max_length="0">
+			<original>Leaf</original>
+			<edited>Leaf</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_9" offset="00" relocatable="true" max_length="0">
+			<original>Olive</original>
+			<edited>Olive</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_10" offset="00" relocatable="true" max_length="0">
+			<original>Grape</original>
+			<edited>Grape</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_11" offset="00" relocatable="true" max_length="0">
+			<original>Charcoal</original>
+			<edited>Charcoal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_12" offset="00" relocatable="true" max_length="0">
+			<original>Rice</original>
+			<edited>Rice</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

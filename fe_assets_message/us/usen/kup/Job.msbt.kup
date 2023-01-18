@@ -1,0 +1,875 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MJID_DragonLord" offset="00" relocatable="true" max_length="0">
+			<original>Dragon Child</original>
+			<edited>Dragon Child</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_DragonLord" offset="00" relocatable="true" max_length="0">
+			<original>A descendant of a line of dragons
+going back to ancient days. Can use
+swords unique to the Divine Dragon.</original>
+			<edited>A descendant of a line of dragons
+going back to ancient days. Can use
+swords unique to the Divine Dragon.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_DragonKing" offset="00" relocatable="true" max_length="0">
+			<original>Divine Dragon</original>
+			<edited>Divine Dragon</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_DragonKing" offset="00" relocatable="true" max_length="0">
+			<original>Keeper of the power of the great
+reigning dragon. Uses Divine Dragon
+swords and martial arts.</original>
+			<edited>Keeper of the power of the great
+reigning dragon. Uses Divine Dragon
+swords and martial arts.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_ShadowLord" offset="00" relocatable="true" max_length="0">
+			<original>Fell Child</original>
+			<edited>Fell Child</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_ShadowLord" offset="00" relocatable="true" max_length="0">
+			<original>Mindless minion of the Fell Dragon.
+Uses powerful sword techniques.</original>
+			<edited>Mindless minion of the Fell Dragon.
+Uses powerful sword techniques.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_ShadowPrincess" offset="00" relocatable="true" max_length="0">
+			<original>Fell Child</original>
+			<edited>Fell Child</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_ShadowPrincess" offset="00" relocatable="true" max_length="0">
+			<original>Inheritor of the blood of the Fell
+Dragon. Excels in Fell skills and
+powerful dark magic.</original>
+			<edited>Inheritor of the blood of the Fell
+Dragon. Excels in Fell skills and
+powerful dark magic.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_ShadowKing" offset="00" relocatable="true" max_length="0">
+			<original>Fell Monarch</original>
+			<edited>Fell Monarch</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_ShadowKing" offset="00" relocatable="true" max_length="0">
+			<original>One who seeks to rule the world
+as a tyrant. Wields the dark arts to
+cause maximum destruction.</original>
+			<edited>One who seeks to rule the world
+as a tyrant. Wields the dark arts to
+cause maximum destruction.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_ShadowDragon" offset="00" relocatable="true" max_length="0">
+			<original>Great Fell Dragon</original>
+			<edited>Great Fell Dragon</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_ShadowDragon" offset="00" relocatable="true" max_length="0">
+			<original>The Fell Dragon wielding the power
+of the Emblem Rings. Capable now
+of opening a gate to another world.</original>
+			<edited>The Fell Dragon wielding the power
+of the Emblem Rings. Capable now
+of opening a gate to another world.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_AvenirLC" offset="00" relocatable="true" max_length="0">
+			<original>Noble</original>
+			<edited>Noble</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_AvenirLC" offset="00" relocatable="true" max_length="0">
+			<original>One born into a noble royal family.
+A proficient horseman and skilled
+lancer.</original>
+			<edited>One born into a noble royal family.
+A proficient horseman and skilled
+lancer.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Avenir" offset="00" relocatable="true" max_length="0">
+			<original>Avenir</original>
+			<edited>Avenir</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Avenir" offset="00" relocatable="true" max_length="0">
+			<original>A dashing prince who rides a white
+horse into battle. Excels with a lance
+and serviceable with a blade.</original>
+			<edited>A dashing prince who rides a white
+horse into battle. Excels with a lance
+and serviceable with a blade.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_FleurageLC" offset="00" relocatable="true" max_length="0">
+			<original>Noble</original>
+			<edited>Noble</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_FleurageLC" offset="00" relocatable="true" max_length="0">
+			<original>One born into a noble royal family.
+A proficient magic user who is also
+serviceable with a sword.</original>
+			<edited>One born into a noble royal family.
+A proficient magic user who is also
+serviceable with a sword.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Fleurage" offset="00" relocatable="true" max_length="0">
+			<original>Vidame</original>
+			<edited>Vidame</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Fleurage" offset="00" relocatable="true" max_length="0">
+			<original>Magic-wielding swordswoman who
+can cut through enemy mages. She
+is also capable of wielding staves.</original>
+			<edited>Magic-wielding swordswoman who
+can cut through enemy mages. She
+is also capable of wielding staves.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_SuccesseurLC" offset="00" relocatable="true" max_length="0">
+			<original>Lord</original>
+			<edited>Lord</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_SuccesseurLC" offset="00" relocatable="true" max_length="0">
+			<original>One born into a family that leads
+a nation. Proficient with a sword.</original>
+			<edited>One born into a family that leads
+a nation. Proficient with a sword.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Successeur" offset="00" relocatable="true" max_length="0">
+			<original>Successeur</original>
+			<edited>Successeur</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Successeur" offset="00" relocatable="true" max_length="0">
+			<original>One with the will and strength to
+lead a nation. Skilled with both the
+blade and the axe.</original>
+			<edited>One with the will and strength to
+lead a nation. Skilled with both the
+blade and the axe.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_TirailleurLC" offset="00" relocatable="true" max_length="0">
+			<original>Lord</original>
+			<edited>Lord</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_TirailleurLC" offset="00" relocatable="true" max_length="0">
+			<original>One born into a family that leads
+a nation. Proficient with a bow.</original>
+			<edited>One born into a family that leads
+a nation. Proficient with a bow.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Tirailleur" offset="00" relocatable="true" max_length="0">
+			<original>Tireur d'élite</original>
+			<edited>Tireur d'élite</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Tirailleur" offset="00" relocatable="true" max_length="0">
+			<original>An archer gifted with incredible
+aim. Each shot can eliminate a foe.</original>
+			<edited>An archer gifted with incredible
+aim. Each shot can eliminate a foe.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_LindwurmLC" offset="00" relocatable="true" max_length="0">
+			<original>Wing Tamer</original>
+			<edited>Wing Tamer</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_LindwurmLC" offset="00" relocatable="true" max_length="0">
+			<original>A knight who has a rapport with
+beasts. Rides a wyvern into battle
+and uses magic and staves.</original>
+			<edited>A knight who has a rapport with
+beasts. Rides a wyvern into battle
+and uses magic and staves.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Lindwurm" offset="00" relocatable="true" max_length="0">
+			<original>Lindwurm</original>
+			<edited>Lindwurm</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Lindwurm" offset="00" relocatable="true" max_length="0">
+			<original>A magic-using wyvern rider who
+destroys enemies from above. Can
+use powerful magic and staves.</original>
+			<edited>A magic-using wyvern rider who
+destroys enemies from above. Can
+use powerful magic and staves.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_SleipnirLC" offset="00" relocatable="true" max_length="0">
+			<original>Wing Tamer</original>
+			<edited>Wing Tamer</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_SleipnirLC" offset="00" relocatable="true" max_length="0">
+			<original>A knight who has a rapport with
+beasts. Rides a pegasus into battle
+and is skilled with tome and staff.</original>
+			<edited>A knight who has a rapport with
+beasts. Rides a pegasus into battle
+and is skilled with tome and staff.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Sleipnir" offset="00" relocatable="true" max_length="0">
+			<original>Sleipnir Rider</original>
+			<edited>Sleipnir Rider</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Sleipnir" offset="00" relocatable="true" max_length="0">
+			<original>A knight who rides the charming
+pegasus Sleipnir. Uses powerful
+staves and is skilled with tomes.</original>
+			<edited>A knight who rides the charming
+pegasus Sleipnir. Uses powerful
+staves and is skilled with tomes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_PitchforkLC" offset="00" relocatable="true" max_length="0">
+			<original>Sentinel</original>
+			<edited>Sentinel</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_PitchforkLC" offset="00" relocatable="true" max_length="0">
+			<original>A Sentinel who takes up arms to
+defend her nation. Proficient with
+the lance.</original>
+			<edited>A Sentinel who takes up arms to
+defend her nation. Proficient with
+the lance.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Pitchfork" offset="00" relocatable="true" max_length="0">
+			<original>Picket</original>
+			<edited>Picket</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Pitchfork" offset="00" relocatable="true" max_length="0">
+			<original>A lancer who pierces the enemy lines
+with flawless skill. Her bouncy steps
+presage deadly attacks.</original>
+			<edited>A lancer who pierces the enemy lines
+with flawless skill. Her bouncy steps
+presage deadly attacks.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_CupidoLC" offset="00" relocatable="true" max_length="0">
+			<original>Sentinel</original>
+			<edited>Sentinel</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_CupidoLC" offset="00" relocatable="true" max_length="0">
+			<original>A Sentinel who takes up arms to
+defend his nation. A proficient
+rider and archer.</original>
+			<edited>A Sentinel who takes up arms to
+defend his nation. A proficient
+rider and archer.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Cupido" offset="00" relocatable="true" max_length="0">
+			<original>Cupido</original>
+			<edited>Cupido</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Cupido" offset="00" relocatable="true" max_length="0">
+			<original>A charming bow knight who fights
+with casual flair. Skilled with both
+bow and sword, he toys with his foe.</original>
+			<edited>A charming bow knight who fights
+with casual flair. Skilled with both
+bow and sword, he toys with his foe.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_SwordFighter" offset="00" relocatable="true" max_length="0">
+			<original>Sword Fighter</original>
+			<edited>Sword Fighter</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_SwordFighter" offset="00" relocatable="true" max_length="0">
+			<original>Footsoldiers who take pride in their
+skill with a blade. They avoid enemy
+attacks with nimble footwork.</original>
+			<edited>Footsoldiers who take pride in their
+skill with a blade. They avoid enemy
+attacks with nimble footwork.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_SwordMaster" offset="00" relocatable="true" max_length="0">
+			<original>Swordmaster</original>
+			<edited>Swordmaster</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_SwordMaster" offset="00" relocatable="true" max_length="0">
+			<original>Master sword fighters who avoid
+attacks by a hair's breadth and
+retaliate with mighty skills.</original>
+			<edited>Master sword fighters who avoid
+attacks by a hair's breadth and
+retaliate with mighty skills.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_BraveHero" offset="00" relocatable="true" max_length="0">
+			<original>Hero</original>
+			<edited>Hero</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_BraveHero" offset="00" relocatable="true" max_length="0">
+			<original>Accomplished veterans proficient
+in several weapons and can easily
+cut through the front lines.</original>
+			<edited>Accomplished veterans proficient
+in several weapons and can easily
+cut through the front lines.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_LanceFighter" offset="00" relocatable="true" max_length="0">
+			<original>Lance Fighter</original>
+			<edited>Lance Fighter</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_LanceFighter" offset="00" relocatable="true" max_length="0">
+			<original>Soldiers who fight with a lance. They
+strike just the right balance between
+offense and defense.</original>
+			<edited>Soldiers who fight with a lance. They
+strike just the right balance between
+offense and defense.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Halberdier" offset="00" relocatable="true" max_length="0">
+			<original>Halberdier</original>
+			<edited>Halberdier</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Halberdier" offset="00" relocatable="true" max_length="0">
+			<original>Lance-wielders with a great deal of
+battlefield experience. Several cuts
+above common lance fighters.</original>
+			<edited>Lance-wielders with a great deal of
+battlefield experience. Several cuts
+above common lance fighters.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_RoyalKnight" offset="00" relocatable="true" max_length="0">
+			<original>Royal Knight</original>
+			<edited>Royal Knight</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_RoyalKnight" offset="00" relocatable="true" max_length="0">
+			<original>Noble knights who tear across the
+battlefield on horseback, rallying
+their allies. They can also use staves.</original>
+			<edited>Noble knights who tear across the
+battlefield on horseback, rallying
+their allies. They can also use staves.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_AxFighter" offset="00" relocatable="true" max_length="0">
+			<original>Axe Fighter</original>
+			<edited>Axe Fighter</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_AxFighter" offset="00" relocatable="true" max_length="0">
+			<original>Proven warriors with an axe. Their
+swings are fierce, but leave them
+open to retaliation.</original>
+			<edited>Proven warriors with an axe. Their
+swings are fierce, but leave them
+open to retaliation.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Berserker" offset="00" relocatable="true" max_length="0">
+			<original>Berserker</original>
+			<edited>Berserker</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Berserker" offset="00" relocatable="true" max_length="0">
+			<original>Mighty warriors of unparalleled
+strength. They cleave foes in twain
+with huge axes.</original>
+			<edited>Mighty warriors of unparalleled
+strength. They cleave foes in twain
+with huge axes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Warrior" offset="00" relocatable="true" max_length="0">
+			<original>Warrior</original>
+			<edited>Warrior</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Warrior" offset="00" relocatable="true" max_length="0">
+			<original>Skilled experts in annihilating their
+enemies. They are capable with
+bows as well as axes.</original>
+			<edited>Skilled experts in annihilating their
+enemies. They are capable with
+bows as well as axes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Archer" offset="00" relocatable="true" max_length="0">
+			<original>Archer</original>
+			<edited>Archer</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Archer" offset="00" relocatable="true" max_length="0">
+			<original>Light infantry who fight with a bow.
+They can attack from a distance.</original>
+			<edited>Light infantry who fight with a bow.
+They can attack from a distance.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Sniper" offset="00" relocatable="true" max_length="0">
+			<original>Sniper</original>
+			<edited>Sniper</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Sniper" offset="00" relocatable="true" max_length="0">
+			<original>Masters of the bow who target their
+foes' weak points with precision
+strikes.</original>
+			<edited>Masters of the bow who target their
+foes' weak points with precision
+strikes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_BowKnight" offset="00" relocatable="true" max_length="0">
+			<original>Bow Knight</original>
+			<edited>Bow Knight</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_BowKnight" offset="00" relocatable="true" max_length="0">
+			<original>Bow users that fire from the saddle
+and outflank foes with high mobility.</original>
+			<edited>Bow users that fire from the saddle
+and outflank foes with high mobility.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_SwordArmor" offset="00" relocatable="true" max_length="0">
+			<original>Sword Armor</original>
+			<edited>Sword Armor</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_SwordArmor" offset="00" relocatable="true" max_length="0">
+			<original>Heavily armored sword fighters clad
+in tough armor. They have high
+defense, but magic is their bane.</original>
+			<edited>Heavily armored sword fighters clad
+in tough armor. They have high
+defense, but magic is their bane.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_LanceArmor" offset="00" relocatable="true" max_length="0">
+			<original>Lance Armor</original>
+			<edited>Lance Armor</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_LanceArmor" offset="00" relocatable="true" max_length="0">
+			<original>Heavily armored lancers clad in
+tough armor. They have high
+defense, but magic is their bane.</original>
+			<edited>Heavily armored lancers clad in
+tough armor. They have high
+defense, but magic is their bane.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_AxArmor" offset="00" relocatable="true" max_length="0">
+			<original>Axe Armor</original>
+			<edited>Axe Armor</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_AxArmor" offset="00" relocatable="true" max_length="0">
+			<original>Heavily armored axe-wielders clad
+in tough armor. They have high
+defense, but magic is their bane.</original>
+			<edited>Heavily armored axe-wielders clad
+in tough armor. They have high
+defense, but magic is their bane.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_General" offset="00" relocatable="true" max_length="0">
+			<original>General</original>
+			<edited>General</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_General" offset="00" relocatable="true" max_length="0">
+			<original>Heavily armored fighters boasting
+both an impenetrable defense and
+a fearsome offense.</original>
+			<edited>Heavily armored fighters boasting
+both an impenetrable defense and
+a fearsome offense.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_GreatKnight" offset="00" relocatable="true" max_length="0">
+			<original>Great Knight</original>
+			<edited>Great Knight</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_GreatKnight" offset="00" relocatable="true" max_length="0">
+			<original>Heavily armored knights clad in thick
+armor. They defend their allies with
+a variety of weapons.</original>
+			<edited>Heavily armored knights clad in thick
+armor. They defend their allies with
+a variety of weapons.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_SwordKnight" offset="00" relocatable="true" max_length="0">
+			<original>Sword Cavalier</original>
+			<edited>Sword Cavalier</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_SwordKnight" offset="00" relocatable="true" max_length="0">
+			<original>Sword-wielding knights who ride
+freely about the battlefield. They
+strike a good balance of skills.</original>
+			<edited>Sword-wielding knights who ride
+freely about the battlefield. They
+strike a good balance of skills.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_LanceKnight" offset="00" relocatable="true" max_length="0">
+			<original>Lance Cavalier</original>
+			<edited>Lance Cavalier</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_LanceKnight" offset="00" relocatable="true" max_length="0">
+			<original>Lance-wielding knights who ride
+freely about the battlefield. They
+strike a good balance of skills.</original>
+			<edited>Lance-wielding knights who ride
+freely about the battlefield. They
+strike a good balance of skills.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_AxKnight" offset="00" relocatable="true" max_length="0">
+			<original>Axe Cavalier</original>
+			<edited>Axe Cavalier</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_AxKnight" offset="00" relocatable="true" max_length="0">
+			<original>Axe-wielding knights who ride
+freely about the battlefield. They
+strike a good balance of skills.</original>
+			<edited>Axe-wielding knights who ride
+freely about the battlefield. They
+strike a good balance of skills.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Paladin" offset="00" relocatable="true" max_length="0">
+			<original>Paladin</original>
+			<edited>Paladin</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Paladin" offset="00" relocatable="true" max_length="0">
+			<original>High-ranking knights with a wealth
+of experience. Highly mobile and
+strong against magic.</original>
+			<edited>High-ranking knights with a wealth
+of experience. Highly mobile and
+strong against magic.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_WolfKnight" offset="00" relocatable="true" max_length="0">
+			<original>Wolf Knight</original>
+			<edited>Wolf Knight</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_WolfKnight" offset="00" relocatable="true" max_length="0">
+			<original>Knights who dart over the battlefield
+mounted on wolves. Their knife
+strikes are the ruin of enemy camps.</original>
+			<edited>Knights who dart over the battlefield
+mounted on wolves. Their knife
+strikes are the ruin of enemy camps.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_SwordPegasus" offset="00" relocatable="true" max_length="0">
+			<original>Sword Flier</original>
+			<edited>Sword Flier</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_SwordPegasus" offset="00" relocatable="true" max_length="0">
+			<original>Sword fighters who soar through the
+sky on their pegasus mounts. Strong
+against magic, but weak to bows.</original>
+			<edited>Sword fighters who soar through the
+sky on their pegasus mounts. Strong
+against magic, but weak to bows.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_LancePegasus" offset="00" relocatable="true" max_length="0">
+			<original>Lance Flier</original>
+			<edited>Lance Flier</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_LancePegasus" offset="00" relocatable="true" max_length="0">
+			<original>Lance users who soar through the
+sky on their pegasus mounts. Strong
+against magic, but weak to bows.</original>
+			<edited>Lance users who soar through the
+sky on their pegasus mounts. Strong
+against magic, but weak to bows.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_AxPegasus" offset="00" relocatable="true" max_length="0">
+			<original>Axe Flier</original>
+			<edited>Axe Flier</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_AxPegasus" offset="00" relocatable="true" max_length="0">
+			<original>Axe-wielders who soar through the
+sky on their pegasus mounts. Strong
+against magic, but weak to bows.</original>
+			<edited>Axe-wielders who soar through the
+sky on their pegasus mounts. Strong
+against magic, but weak to bows.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_GriffonKnight" offset="00" relocatable="true" max_length="0">
+			<original>Griffin Knight</original>
+			<edited>Griffin Knight</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_GriffonKnight" offset="00" relocatable="true" max_length="0">
+			<original>Experienced knights who fly through
+the skies on a griffin. They are well-
+balanced and can use staves.</original>
+			<edited>Experienced knights who fly through
+the skies on a griffin. They are well-
+balanced and can use staves.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_DragonKnight" offset="00" relocatable="true" max_length="0">
+			<original>Wyvern Knight</original>
+			<edited>Wyvern Knight</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_DragonKnight" offset="00" relocatable="true" max_length="0">
+			<original>Experienced knights who fly through
+the skies on wyverns. Though
+powerful, they fear bows and magic.</original>
+			<edited>Experienced knights who fly through
+the skies on wyverns. Though
+powerful, they fear bows and magic.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Mage" offset="00" relocatable="true" max_length="0">
+			<original>Mage</original>
+			<edited>Mage</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Mage" offset="00" relocatable="true" max_length="0">
+			<original>Magic users who cast spells from
+tomes. Strong against enemies with
+high defense.</original>
+			<edited>Magic users who cast spells from
+tomes. Strong against enemies with
+high defense.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Sage" offset="00" relocatable="true" max_length="0">
+			<original>Sage</original>
+			<edited>Sage</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Sage" offset="00" relocatable="true" max_length="0">
+			<original>Experienced mages who can call
+upon great power. Capable of using
+both tomes and staves.</original>
+			<edited>Experienced mages who can call
+upon great power. Capable of using
+both tomes and staves.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_MageKnight" offset="00" relocatable="true" max_length="0">
+			<original>Mage Knight</original>
+			<edited>Mage Knight</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_MageKnight" offset="00" relocatable="true" max_length="0">
+			<original>Magic knights who cast spells from
+horseback, but can also take part in
+melee combat.</original>
+			<edited>Magic knights who cast spells from
+horseback, but can also take part in
+melee combat.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Monk" offset="00" relocatable="true" max_length="0">
+			<original>Martial Monk</original>
+			<edited>Martial Monk</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Monk" offset="00" relocatable="true" max_length="0">
+			<original>Combat monks who use staves to
+heal wounded allies. They are versed
+in the martial arts of self-defense.</original>
+			<edited>Combat monks who use staves to
+heal wounded allies. They are versed
+in the martial arts of self-defense.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_MasterMonk" offset="00" relocatable="true" max_length="0">
+			<original>Martial Master</original>
+			<edited>Martial Master</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_MasterMonk" offset="00" relocatable="true" max_length="0">
+			<original>Experienced monks trained in the
+martial arts. They excel at hand-to-
+hand combat as well as healing.</original>
+			<edited>Experienced monks trained in the
+martial arts. They excel at hand-to-
+hand combat as well as healing.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_HighPriest" offset="00" relocatable="true" max_length="0">
+			<original>High Priest</original>
+			<edited>High Priest</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_HighPriest" offset="00" relocatable="true" max_length="0">
+			<original>Masters of staves with wisdom
+from experience. Their healing
+powers are lifesaving in battle.</original>
+			<edited>Masters of staves with wisdom
+from experience. Their healing
+powers are lifesaving in battle.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Thief" offset="00" relocatable="true" max_length="0">
+			<original>Thief</original>
+			<edited>Thief</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Thief" offset="00" relocatable="true" max_length="0">
+			<original>Burglars with a talent for picking
+locks. They are nimble with their
+hands and deadly with a knife.</original>
+			<edited>Burglars with a talent for picking
+locks. They are nimble with their
+hands and deadly with a knife.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Dancer" offset="00" relocatable="true" max_length="0">
+			<original>Dancer</original>
+			<edited>Dancer</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Dancer" offset="00" relocatable="true" max_length="0">
+			<original>Charming performers who can raise
+an ally's spirits, allowing the ally to
+act once more in battle.</original>
+			<edited>Charming performers who can raise
+an ally's spirits, allowing the ally to
+act once more in battle.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Villager" offset="00" relocatable="true" max_length="0">
+			<original>Villager</original>
+			<edited>Villager</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Villager" offset="00" relocatable="true" max_length="0">
+			<original>An ordinary person with no combat
+training.</original>
+			<edited>An ordinary person with no combat
+training.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Melusine" offset="00" relocatable="true" max_length="0">
+			<original>Melusine</original>
+			<edited>Melusine</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Melusine" offset="00" relocatable="true" max_length="0">
+			<original>An alluring magic knight who rides
+an evil dragon. Overpowers with
+highly honed magic and sword skills.</original>
+			<edited>An alluring magic knight who rides
+an evil dragon. Overpowers with
+highly honed magic and sword skills.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Barbarian" offset="00" relocatable="true" max_length="0">
+			<original>Barbarian</original>
+			<edited>Barbarian</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Barbarian" offset="00" relocatable="true" max_length="0">
+			<original>Fierce fighters with an insatiable
+rage. They possess great strength
+and speed, but little defense.</original>
+			<edited>Fierce fighters with an insatiable
+rage. They possess great strength
+and speed, but little defense.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_MorphDragon" offset="00" relocatable="true" max_length="0">
+			<original>Corrupted Wyrm</original>
+			<edited>Corrupted Wyrm</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_MorphDragon" offset="00" relocatable="true" max_length="0">
+			<original>Minions of the Fell Dragon who aim
+to bring the world to ruin. Their dark
+breath destroys all.</original>
+			<edited>Minions of the Fell Dragon who aim
+to bring the world to ruin. Their dark
+breath destroys all.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_PhantomDragon" offset="00" relocatable="true" max_length="0">
+			<original>Phantom Wyrm</original>
+			<edited>Phantom Wyrm</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_PhantomDragon" offset="00" relocatable="true" max_length="0">
+			<original>Enormous draconic minions. Though
+they are slow, their breath can affect
+faraway enemies.</original>
+			<edited>Enormous draconic minions. Though
+they are slow, their breath can affect
+faraway enemies.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Emblem" offset="00" relocatable="true" max_length="0">
+			<original>Emblem</original>
+			<edited>Emblem</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Emblem" offset="00" relocatable="true" max_length="0">
+			<original>Heroes from worlds beyond Elyos,
+who are contained in rings. They
+possess unimaginable power.</original>
+			<edited>Heroes from worlds beyond Elyos,
+who are contained in rings. They
+possess unimaginable power.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

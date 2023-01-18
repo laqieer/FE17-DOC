@@ -1,0 +1,5591 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MSID_Hp_5" offset="00" relocatable="true" max_length="0">
+			<original>HP+5</original>
+			<edited>HP+5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Hp_5" offset="00" relocatable="true" max_length="0">
+			<original>HP提升5</original>
+			<edited>HP提升5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Hp_7" offset="00" relocatable="true" max_length="0">
+			<original>HP+7</original>
+			<edited>HP+7</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Hp_7" offset="00" relocatable="true" max_length="0">
+			<original>HP提升7</original>
+			<edited>HP提升7</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Hp_10" offset="00" relocatable="true" max_length="0">
+			<original>HP+10</original>
+			<edited>HP+10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Hp_10" offset="00" relocatable="true" max_length="0">
+			<original>HP提升10</original>
+			<edited>HP提升10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Hp_12" offset="00" relocatable="true" max_length="0">
+			<original>HP+12</original>
+			<edited>HP+12</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Hp_12" offset="00" relocatable="true" max_length="0">
+			<original>HP提升12</original>
+			<edited>HP提升12</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Hp_15" offset="00" relocatable="true" max_length="0">
+			<original>HP+15</original>
+			<edited>HP+15</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Hp_15" offset="00" relocatable="true" max_length="0">
+			<original>HP提升15</original>
+			<edited>HP提升15</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Str_1" offset="00" relocatable="true" max_length="0">
+			<original>力量+1</original>
+			<edited>力量+1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Str_1" offset="00" relocatable="true" max_length="0">
+			<original>力量提升1</original>
+			<edited>力量提升1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Str_2" offset="00" relocatable="true" max_length="0">
+			<original>力量+2</original>
+			<edited>力量+2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Str_2" offset="00" relocatable="true" max_length="0">
+			<original>力量提升2</original>
+			<edited>力量提升2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Str_3" offset="00" relocatable="true" max_length="0">
+			<original>力量+3</original>
+			<edited>力量+3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Str_3" offset="00" relocatable="true" max_length="0">
+			<original>力量提升3</original>
+			<edited>力量提升3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Str_4" offset="00" relocatable="true" max_length="0">
+			<original>力量+4</original>
+			<edited>力量+4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Str_4" offset="00" relocatable="true" max_length="0">
+			<original>力量提升4</original>
+			<edited>力量提升4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Str_5" offset="00" relocatable="true" max_length="0">
+			<original>力量+5</original>
+			<edited>力量+5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Str_5" offset="00" relocatable="true" max_length="0">
+			<original>力量提升5</original>
+			<edited>力量提升5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Str_6" offset="00" relocatable="true" max_length="0">
+			<original>力量+6</original>
+			<edited>力量+6</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Str_6" offset="00" relocatable="true" max_length="0">
+			<original>力量提升6</original>
+			<edited>力量提升6</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Tec_1" offset="00" relocatable="true" max_length="0">
+			<original>技巧+1</original>
+			<edited>技巧+1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Tec_1" offset="00" relocatable="true" max_length="0">
+			<original>技巧提升1</original>
+			<edited>技巧提升1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Tec_2" offset="00" relocatable="true" max_length="0">
+			<original>技巧+2</original>
+			<edited>技巧+2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Tec_2" offset="00" relocatable="true" max_length="0">
+			<original>技巧提升2</original>
+			<edited>技巧提升2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Tec_3" offset="00" relocatable="true" max_length="0">
+			<original>技巧+3</original>
+			<edited>技巧+3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Tec_3" offset="00" relocatable="true" max_length="0">
+			<original>技巧提升3</original>
+			<edited>技巧提升3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Tec_4" offset="00" relocatable="true" max_length="0">
+			<original>技巧+4</original>
+			<edited>技巧+4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Tec_4" offset="00" relocatable="true" max_length="0">
+			<original>技巧提升4</original>
+			<edited>技巧提升4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Tec_5" offset="00" relocatable="true" max_length="0">
+			<original>技巧+5</original>
+			<edited>技巧+5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Tec_5" offset="00" relocatable="true" max_length="0">
+			<original>技巧提升5</original>
+			<edited>技巧提升5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Spd_1" offset="00" relocatable="true" max_length="0">
+			<original>速度+1</original>
+			<edited>速度+1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Spd_1" offset="00" relocatable="true" max_length="0">
+			<original>速度提升1</original>
+			<edited>速度提升1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Spd_2" offset="00" relocatable="true" max_length="0">
+			<original>速度+2</original>
+			<edited>速度+2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Spd_2" offset="00" relocatable="true" max_length="0">
+			<original>速度提升2</original>
+			<edited>速度提升2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Spd_3" offset="00" relocatable="true" max_length="0">
+			<original>速度+3</original>
+			<edited>速度+3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Spd_3" offset="00" relocatable="true" max_length="0">
+			<original>速度提升3</original>
+			<edited>速度提升3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Spd_4" offset="00" relocatable="true" max_length="0">
+			<original>速度+4</original>
+			<edited>速度+4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Spd_4" offset="00" relocatable="true" max_length="0">
+			<original>速度提升4</original>
+			<edited>速度提升4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Spd_5" offset="00" relocatable="true" max_length="0">
+			<original>速度+5</original>
+			<edited>速度+5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Spd_5" offset="00" relocatable="true" max_length="0">
+			<original>速度提升5</original>
+			<edited>速度提升5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Lck_2" offset="00" relocatable="true" max_length="0">
+			<original>幸运+2</original>
+			<edited>幸运+2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Lck_2" offset="00" relocatable="true" max_length="0">
+			<original>幸运提升2</original>
+			<edited>幸运提升2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Lck_4" offset="00" relocatable="true" max_length="0">
+			<original>幸运+4</original>
+			<edited>幸运+4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Lck_4" offset="00" relocatable="true" max_length="0">
+			<original>幸运提升4</original>
+			<edited>幸运提升4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Lck_6" offset="00" relocatable="true" max_length="0">
+			<original>幸运+6</original>
+			<edited>幸运+6</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Lck_6" offset="00" relocatable="true" max_length="0">
+			<original>幸运提升6</original>
+			<edited>幸运提升6</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Lck_8" offset="00" relocatable="true" max_length="0">
+			<original>幸运+8</original>
+			<edited>幸运+8</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Lck_8" offset="00" relocatable="true" max_length="0">
+			<original>幸运提升8</original>
+			<edited>幸运提升8</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Lck_10" offset="00" relocatable="true" max_length="0">
+			<original>幸运+10</original>
+			<edited>幸运+10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Lck_10" offset="00" relocatable="true" max_length="0">
+			<original>幸运提升10</original>
+			<edited>幸运提升10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Lck_12" offset="00" relocatable="true" max_length="0">
+			<original>幸运+12</original>
+			<edited>幸运+12</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Lck_12" offset="00" relocatable="true" max_length="0">
+			<original>幸运提升12</original>
+			<edited>幸运提升12</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Def_1" offset="00" relocatable="true" max_length="0">
+			<original>防守+1</original>
+			<edited>防守+1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Def_1" offset="00" relocatable="true" max_length="0">
+			<original>防守提升1</original>
+			<edited>防守提升1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Def_2" offset="00" relocatable="true" max_length="0">
+			<original>防守+2</original>
+			<edited>防守+2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Def_2" offset="00" relocatable="true" max_length="0">
+			<original>防守提升2</original>
+			<edited>防守提升2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Def_3" offset="00" relocatable="true" max_length="0">
+			<original>防守+3</original>
+			<edited>防守+3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Def_3" offset="00" relocatable="true" max_length="0">
+			<original>防守提升3</original>
+			<edited>防守提升3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Def_4" offset="00" relocatable="true" max_length="0">
+			<original>防守+4</original>
+			<edited>防守+4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Def_4" offset="00" relocatable="true" max_length="0">
+			<original>防守提升4</original>
+			<edited>防守提升4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Def_5" offset="00" relocatable="true" max_length="0">
+			<original>防守+5</original>
+			<edited>防守+5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Def_5" offset="00" relocatable="true" max_length="0">
+			<original>防守提升5</original>
+			<edited>防守提升5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Mag_2" offset="00" relocatable="true" max_length="0">
+			<original>魔力+2</original>
+			<edited>魔力+2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Mag_2" offset="00" relocatable="true" max_length="0">
+			<original>魔力提升2</original>
+			<edited>魔力提升2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Mag_3" offset="00" relocatable="true" max_length="0">
+			<original>魔力+3</original>
+			<edited>魔力+3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Mag_3" offset="00" relocatable="true" max_length="0">
+			<original>魔力提升3</original>
+			<edited>魔力提升3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Mag_4" offset="00" relocatable="true" max_length="0">
+			<original>魔力+4</original>
+			<edited>魔力+4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Mag_4" offset="00" relocatable="true" max_length="0">
+			<original>魔力提升4</original>
+			<edited>魔力提升4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Mag_5" offset="00" relocatable="true" max_length="0">
+			<original>魔力+5</original>
+			<edited>魔力+5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Mag_5" offset="00" relocatable="true" max_length="0">
+			<original>魔力提升5</original>
+			<edited>魔力提升5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Res_2" offset="00" relocatable="true" max_length="0">
+			<original>魔防+2</original>
+			<edited>魔防+2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Res_2" offset="00" relocatable="true" max_length="0">
+			<original>魔防提升2</original>
+			<edited>魔防提升2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Res_3" offset="00" relocatable="true" max_length="0">
+			<original>魔防+3</original>
+			<edited>魔防+3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Res_3" offset="00" relocatable="true" max_length="0">
+			<original>魔防提升3</original>
+			<edited>魔防提升3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Res_4" offset="00" relocatable="true" max_length="0">
+			<original>魔防+4</original>
+			<edited>魔防+4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Res_4" offset="00" relocatable="true" max_length="0">
+			<original>魔防提升4</original>
+			<edited>魔防提升4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Res_5" offset="00" relocatable="true" max_length="0">
+			<original>魔防+5</original>
+			<edited>魔防+5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Res_5" offset="00" relocatable="true" max_length="0">
+			<original>魔防提升5</original>
+			<edited>魔防提升5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Phy_3" offset="00" relocatable="true" max_length="0">
+			<original>体格+3</original>
+			<edited>体格+3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Phy_3" offset="00" relocatable="true" max_length="0">
+			<original>体格提升3</original>
+			<edited>体格提升3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Phy_4" offset="00" relocatable="true" max_length="0">
+			<original>体格+4</original>
+			<edited>体格+4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Phy_4" offset="00" relocatable="true" max_length="0">
+			<original>体格提升4</original>
+			<edited>体格提升4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Phy_5" offset="00" relocatable="true" max_length="0">
+			<original>体格+5</original>
+			<edited>体格+5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Phy_5" offset="00" relocatable="true" max_length="0">
+			<original>体格提升5</original>
+			<edited>体格提升5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Mov_1" offset="00" relocatable="true" max_length="0">
+			<original>移动+1</original>
+			<edited>移动+1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Mov_1" offset="00" relocatable="true" max_length="0">
+			<original>移动提升1</original>
+			<edited>移动提升1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Avo_10" offset="00" relocatable="true" max_length="0">
+			<original>回避+10</original>
+			<edited>回避+10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Avo_10" offset="00" relocatable="true" max_length="0">
+			<original>回避提升10</original>
+			<edited>回避提升10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Avo_15" offset="00" relocatable="true" max_length="0">
+			<original>回避+15</original>
+			<edited>回避+15</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Avo_15" offset="00" relocatable="true" max_length="0">
+			<original>回避提升15</original>
+			<edited>回避提升15</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Avo_20" offset="00" relocatable="true" max_length="0">
+			<original>回避+20</original>
+			<edited>回避+20</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Avo_20" offset="00" relocatable="true" max_length="0">
+			<original>回避提升20</original>
+			<edited>回避提升20</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Avo_25" offset="00" relocatable="true" max_length="0">
+			<original>回避+25</original>
+			<edited>回避+25</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Avo_25" offset="00" relocatable="true" max_length="0">
+			<original>回避提升25</original>
+			<edited>回避提升25</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Avo_30" offset="00" relocatable="true" max_length="0">
+			<original>回避+30</original>
+			<edited>回避+30</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Avo_30" offset="00" relocatable="true" max_length="0">
+			<original>回避提升30</original>
+			<edited>回避提升30</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Hit_10" offset="00" relocatable="true" max_length="0">
+			<original>命中+10</original>
+			<edited>命中+10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Hit_10" offset="00" relocatable="true" max_length="0">
+			<original>命中提升10</original>
+			<edited>命中提升10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Hit_15" offset="00" relocatable="true" max_length="0">
+			<original>命中+15</original>
+			<edited>命中+15</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Hit_15" offset="00" relocatable="true" max_length="0">
+			<original>命中提升15</original>
+			<edited>命中提升15</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Hit_20" offset="00" relocatable="true" max_length="0">
+			<original>命中+20</original>
+			<edited>命中+20</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Hit_20" offset="00" relocatable="true" max_length="0">
+			<original>命中提升20</original>
+			<edited>命中提升20</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Hit_25" offset="00" relocatable="true" max_length="0">
+			<original>命中+25</original>
+			<edited>命中+25</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Hit_25" offset="00" relocatable="true" max_length="0">
+			<original>命中提升25</original>
+			<edited>命中提升25</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Hit_30" offset="00" relocatable="true" max_length="0">
+			<original>命中+30</original>
+			<edited>命中+30</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Hit_30" offset="00" relocatable="true" max_length="0">
+			<original>命中提升30</original>
+			<edited>命中提升30</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_CriAvo_10" offset="00" relocatable="true" max_length="0">
+			<original>必避+10</original>
+			<edited>必避+10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CriAvo_10" offset="00" relocatable="true" max_length="0">
+			<original>必避提升10</original>
+			<edited>必避提升10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_CriAvo_15" offset="00" relocatable="true" max_length="0">
+			<original>必避+15</original>
+			<edited>必避+15</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CriAvo_15" offset="00" relocatable="true" max_length="0">
+			<original>必避提升15</original>
+			<edited>必避提升15</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_CriAvo_20" offset="00" relocatable="true" max_length="0">
+			<original>必避+20</original>
+			<edited>必避+20</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CriAvo_20" offset="00" relocatable="true" max_length="0">
+			<original>必避提升20</original>
+			<edited>必避提升20</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_CriAvo_25" offset="00" relocatable="true" max_length="0">
+			<original>必避+25</original>
+			<edited>必避+25</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CriAvo_25" offset="00" relocatable="true" max_length="0">
+			<original>必避提升25</original>
+			<edited>必避提升25</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_CriAvo_30" offset="00" relocatable="true" max_length="0">
+			<original>必避+30</original>
+			<edited>必避+30</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CriAvo_30" offset="00" relocatable="true" max_length="0">
+			<original>必避提升30</original>
+			<edited>必避提升30</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwordArts_Soft_1" offset="00" relocatable="true" max_length="0">
+			<original>剑术·柔Lv.1</original>
+			<edited>剑术·柔Lv.1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwordArts_Soft_1" offset="00" relocatable="true" max_length="0">
+			<original>装备剑时，回避+10、必杀-10</original>
+			<edited>装备剑时，回避+10、必杀-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwordArts_Soft_2" offset="00" relocatable="true" max_length="0">
+			<original>剑术·柔Lv.2</original>
+			<edited>剑术·柔Lv.2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwordArts_Soft_2" offset="00" relocatable="true" max_length="0">
+			<original>装备剑时，回避+15、必杀-10</original>
+			<edited>装备剑时，回避+15、必杀-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwordArts_Soft_3" offset="00" relocatable="true" max_length="0">
+			<original>剑术·柔Lv.3</original>
+			<edited>剑术·柔Lv.3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwordArts_Soft_3" offset="00" relocatable="true" max_length="0">
+			<original>装备剑时，回避+20、必杀-10</original>
+			<edited>装备剑时，回避+20、必杀-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwordArts_Soft_4" offset="00" relocatable="true" max_length="0">
+			<original>剑术·柔Lv.4</original>
+			<edited>剑术·柔Lv.4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwordArts_Soft_4" offset="00" relocatable="true" max_length="0">
+			<original>装备剑时，回避+25、必杀-10</original>
+			<edited>装备剑时，回避+25、必杀-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwordArts_Soft_5" offset="00" relocatable="true" max_length="0">
+			<original>剑术·柔Lv.5</original>
+			<edited>剑术·柔Lv.5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwordArts_Soft_5" offset="00" relocatable="true" max_length="0">
+			<original>装备剑时，回避+30、必杀-10</original>
+			<edited>装备剑时，回避+30、必杀-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwordArts_Hard_1" offset="00" relocatable="true" max_length="0">
+			<original>剑术·刚Lv.1</original>
+			<edited>剑术·刚Lv.1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwordArts_Hard_1" offset="00" relocatable="true" max_length="0">
+			<original>装备剑时，攻击力+2、回避-10</original>
+			<edited>装备剑时，攻击力+2、回避-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwordArts_Hard_2" offset="00" relocatable="true" max_length="0">
+			<original>剑术·刚Lv.2</original>
+			<edited>剑术·刚Lv.2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwordArts_Hard_2" offset="00" relocatable="true" max_length="0">
+			<original>装备剑时，攻击力+4、回避-10</original>
+			<edited>装备剑时，攻击力+4、回避-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwordArts_Hard_3" offset="00" relocatable="true" max_length="0">
+			<original>剑术·刚Lv.3</original>
+			<edited>剑术·刚Lv.3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwordArts_Hard_3" offset="00" relocatable="true" max_length="0">
+			<original>装备剑时，攻击力+6、回避-10</original>
+			<edited>装备剑时，攻击力+6、回避-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwordArts_Hard_4" offset="00" relocatable="true" max_length="0">
+			<original>剑术·刚Lv.4</original>
+			<edited>剑术·刚Lv.4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwordArts_Hard_4" offset="00" relocatable="true" max_length="0">
+			<original>装备剑时，攻击力+8、回避-10</original>
+			<edited>装备剑时，攻击力+8、回避-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwordArts_Hard_5" offset="00" relocatable="true" max_length="0">
+			<original>剑术·刚Lv.5</original>
+			<edited>剑术·刚Lv.5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwordArts_Hard_5" offset="00" relocatable="true" max_length="0">
+			<original>装备剑时，攻击力+10、回避-10</original>
+			<edited>装备剑时，攻击力+10、回避-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwordArts_Mind_1" offset="00" relocatable="true" max_length="0">
+			<original>剑术·心Lv.1</original>
+			<edited>剑术·心Lv.1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwordArts_Mind_1" offset="00" relocatable="true" max_length="0">
+			<original>装备剑时，命中+10、必避-10</original>
+			<edited>装备剑时，命中+10、必避-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwordArts_Mind_2" offset="00" relocatable="true" max_length="0">
+			<original>剑术·心Lv.2</original>
+			<edited>剑术·心Lv.2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwordArts_Mind_2" offset="00" relocatable="true" max_length="0">
+			<original>装备剑时，命中+15、必避-10</original>
+			<edited>装备剑时，命中+15、必避-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwordArts_Mind_3" offset="00" relocatable="true" max_length="0">
+			<original>剑术·心Lv.3</original>
+			<edited>剑术·心Lv.3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwordArts_Mind_3" offset="00" relocatable="true" max_length="0">
+			<original>装备剑时，命中+20、必避-10</original>
+			<edited>装备剑时，命中+20、必避-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwordArts_Mind_4" offset="00" relocatable="true" max_length="0">
+			<original>剑术·心Lv.4</original>
+			<edited>剑术·心Lv.4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwordArts_Mind_4" offset="00" relocatable="true" max_length="0">
+			<original>装备剑时，命中+25、必避-10</original>
+			<edited>装备剑时，命中+25、必避-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwordArts_Mind_5" offset="00" relocatable="true" max_length="0">
+			<original>剑术·心Lv.5</original>
+			<edited>剑术·心Lv.5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwordArts_Mind_5" offset="00" relocatable="true" max_length="0">
+			<original>装备剑时，命中+30、必避-10</original>
+			<edited>装备剑时，命中+30、必避-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LanceArts_Soft_1" offset="00" relocatable="true" max_length="0">
+			<original>枪术·柔Lv.1</original>
+			<edited>枪术·柔Lv.1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LanceArts_Soft_1" offset="00" relocatable="true" max_length="0">
+			<original>装备枪时，回避+10、必杀-10</original>
+			<edited>装备枪时，回避+10、必杀-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LanceArts_Soft_2" offset="00" relocatable="true" max_length="0">
+			<original>枪术·柔Lv.2</original>
+			<edited>枪术·柔Lv.2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LanceArts_Soft_2" offset="00" relocatable="true" max_length="0">
+			<original>装备枪时，回避+15、必杀-10</original>
+			<edited>装备枪时，回避+15、必杀-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LanceArts_Soft_3" offset="00" relocatable="true" max_length="0">
+			<original>枪术·柔Lv.3</original>
+			<edited>枪术·柔Lv.3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LanceArts_Soft_3" offset="00" relocatable="true" max_length="0">
+			<original>装备枪时，回避+20、必杀-10</original>
+			<edited>装备枪时，回避+20、必杀-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LanceArts_Soft_4" offset="00" relocatable="true" max_length="0">
+			<original>枪术·柔Lv.4</original>
+			<edited>枪术·柔Lv.4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LanceArts_Soft_4" offset="00" relocatable="true" max_length="0">
+			<original>装备枪时，回避+25、必杀-10</original>
+			<edited>装备枪时，回避+25、必杀-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LanceArts_Soft_5" offset="00" relocatable="true" max_length="0">
+			<original>枪术·柔Lv.5</original>
+			<edited>枪术·柔Lv.5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LanceArts_Soft_5" offset="00" relocatable="true" max_length="0">
+			<original>装备枪时，回避+30、必杀-10</original>
+			<edited>装备枪时，回避+30、必杀-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LanceArts_Hard_1" offset="00" relocatable="true" max_length="0">
+			<original>枪术·刚Lv.1</original>
+			<edited>枪术·刚Lv.1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LanceArts_Hard_1" offset="00" relocatable="true" max_length="0">
+			<original>装备枪时，攻击力+2、回避-10</original>
+			<edited>装备枪时，攻击力+2、回避-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LanceArts_Hard_2" offset="00" relocatable="true" max_length="0">
+			<original>枪术·刚Lv.2</original>
+			<edited>枪术·刚Lv.2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LanceArts_Hard_2" offset="00" relocatable="true" max_length="0">
+			<original>装备枪时，攻击力+4、回避-10</original>
+			<edited>装备枪时，攻击力+4、回避-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LanceArts_Hard_3" offset="00" relocatable="true" max_length="0">
+			<original>枪术·刚Lv.3</original>
+			<edited>枪术·刚Lv.3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LanceArts_Hard_3" offset="00" relocatable="true" max_length="0">
+			<original>装备枪时，攻击力+6、回避-10</original>
+			<edited>装备枪时，攻击力+6、回避-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LanceArts_Hard_4" offset="00" relocatable="true" max_length="0">
+			<original>枪术·刚Lv.4</original>
+			<edited>枪术·刚Lv.4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LanceArts_Hard_4" offset="00" relocatable="true" max_length="0">
+			<original>装备枪时，攻击力+8、回避-10</original>
+			<edited>装备枪时，攻击力+8、回避-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LanceArts_Hard_5" offset="00" relocatable="true" max_length="0">
+			<original>枪术·刚Lv.5</original>
+			<edited>枪术·刚Lv.5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LanceArts_Hard_5" offset="00" relocatable="true" max_length="0">
+			<original>装备枪时，攻击力+10、回避-10</original>
+			<edited>装备枪时，攻击力+10、回避-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_AxeArts_Hard_1" offset="00" relocatable="true" max_length="0">
+			<original>斧术·刚Lv.1</original>
+			<edited>斧术·刚Lv.1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_AxeArts_Hard_1" offset="00" relocatable="true" max_length="0">
+			<original>装备斧时，攻击力+2、回避-10</original>
+			<edited>装备斧时，攻击力+2、回避-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_AxeArts_Hard_2" offset="00" relocatable="true" max_length="0">
+			<original>斧术·刚Lv.2</original>
+			<edited>斧术·刚Lv.2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_AxeArts_Hard_2" offset="00" relocatable="true" max_length="0">
+			<original>装备斧时，攻击力+4、回避-10</original>
+			<edited>装备斧时，攻击力+4、回避-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_AxeArts_Hard_3" offset="00" relocatable="true" max_length="0">
+			<original>斧术·刚Lv.3</original>
+			<edited>斧术·刚Lv.3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_AxeArts_Hard_3" offset="00" relocatable="true" max_length="0">
+			<original>装备斧时，攻击力+6、回避-10</original>
+			<edited>装备斧时，攻击力+6、回避-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_AxeArts_Hard_4" offset="00" relocatable="true" max_length="0">
+			<original>斧术·刚Lv.4</original>
+			<edited>斧术·刚Lv.4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_AxeArts_Hard_4" offset="00" relocatable="true" max_length="0">
+			<original>装备斧时，攻击力+8、回避-10</original>
+			<edited>装备斧时，攻击力+8、回避-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_AxeArts_Hard_5" offset="00" relocatable="true" max_length="0">
+			<original>斧术·刚Lv.5</original>
+			<edited>斧术·刚Lv.5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_AxeArts_Hard_5" offset="00" relocatable="true" max_length="0">
+			<original>装备斧时，攻击力+10、回避-10</original>
+			<edited>装备斧时，攻击力+10、回避-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BowArts_Soft_1" offset="00" relocatable="true" max_length="0">
+			<original>弓术·柔Lv.1</original>
+			<edited>弓术·柔Lv.1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BowArts_Soft_1" offset="00" relocatable="true" max_length="0">
+			<original>装备弓时，回避+10、必杀-10</original>
+			<edited>装备弓时，回避+10、必杀-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BowArts_Soft_2" offset="00" relocatable="true" max_length="0">
+			<original>弓术·柔Lv.2</original>
+			<edited>弓术·柔Lv.2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BowArts_Soft_2" offset="00" relocatable="true" max_length="0">
+			<original>装备弓时，回避+15、必杀-10</original>
+			<edited>装备弓时，回避+15、必杀-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BowArts_Soft_3" offset="00" relocatable="true" max_length="0">
+			<original>弓术·柔Lv.3</original>
+			<edited>弓术·柔Lv.3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BowArts_Soft_3" offset="00" relocatable="true" max_length="0">
+			<original>装备弓时，回避+20、必杀-10</original>
+			<edited>装备弓时，回避+20、必杀-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BowArts_Soft_4" offset="00" relocatable="true" max_length="0">
+			<original>弓术·柔Lv.4</original>
+			<edited>弓术·柔Lv.4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BowArts_Soft_4" offset="00" relocatable="true" max_length="0">
+			<original>装备弓时，回避+25、必杀-10</original>
+			<edited>装备弓时，回避+25、必杀-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BowArts_Soft_5" offset="00" relocatable="true" max_length="0">
+			<original>弓术·柔Lv.5</original>
+			<edited>弓术·柔Lv.5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BowArts_Soft_5" offset="00" relocatable="true" max_length="0">
+			<original>装备弓时，回避+30、必杀-10</original>
+			<edited>装备弓时，回避+30、必杀-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BowArts_Mind_1" offset="00" relocatable="true" max_length="0">
+			<original>弓术·心Lv.1</original>
+			<edited>弓术·心Lv.1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BowArts_Mind_1" offset="00" relocatable="true" max_length="0">
+			<original>装备弓时，命中+10、必避-10</original>
+			<edited>装备弓时，命中+10、必避-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BowArts_Mind_2" offset="00" relocatable="true" max_length="0">
+			<original>弓术·心Lv.2</original>
+			<edited>弓术·心Lv.2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BowArts_Mind_2" offset="00" relocatable="true" max_length="0">
+			<original>装备弓时，命中+15、必避-10</original>
+			<edited>装备弓时，命中+15、必避-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BowArts_Mind_3" offset="00" relocatable="true" max_length="0">
+			<original>弓术·心Lv.3</original>
+			<edited>弓术·心Lv.3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BowArts_Mind_3" offset="00" relocatable="true" max_length="0">
+			<original>装备弓时，命中+20、必避-10</original>
+			<edited>装备弓时，命中+20、必避-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BowArts_Mind_4" offset="00" relocatable="true" max_length="0">
+			<original>弓术·心Lv.4</original>
+			<edited>弓术·心Lv.4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BowArts_Mind_4" offset="00" relocatable="true" max_length="0">
+			<original>装备弓时，命中+25、必避-10</original>
+			<edited>装备弓时，命中+25、必避-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BowArts_Mind_5" offset="00" relocatable="true" max_length="0">
+			<original>弓术·心Lv.5</original>
+			<edited>弓术·心Lv.5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BowArts_Mind_5" offset="00" relocatable="true" max_length="0">
+			<original>装备弓时，命中+30、必避-10</original>
+			<edited>装备弓时，命中+30、必避-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MartialArts_Mind_1" offset="00" relocatable="true" max_length="0">
+			<original>体术·心Lv.1</original>
+			<edited>体术·心Lv.1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MartialArts_Mind_1" offset="00" relocatable="true" max_length="0">
+			<original>装备体术时，命中+10、必避-10</original>
+			<edited>装备体术时，命中+10、必避-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MartialArts_Mind_2" offset="00" relocatable="true" max_length="0">
+			<original>体术·心Lv.2</original>
+			<edited>体术·心Lv.2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MartialArts_Mind_2" offset="00" relocatable="true" max_length="0">
+			<original>装备体术时，命中+15、必避-10</original>
+			<edited>装备体术时，命中+15、必避-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MartialArts_Mind_3" offset="00" relocatable="true" max_length="0">
+			<original>体术·心Lv.3</original>
+			<edited>体术·心Lv.3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MartialArts_Mind_3" offset="00" relocatable="true" max_length="0">
+			<original>装备体术时，命中+20、必避-10</original>
+			<edited>装备体术时，命中+20、必避-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MartialArts_Mind_4" offset="00" relocatable="true" max_length="0">
+			<original>体术·心Lv.4</original>
+			<edited>体术·心Lv.4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MartialArts_Mind_4" offset="00" relocatable="true" max_length="0">
+			<original>装备体术时，命中+25、必避-10</original>
+			<edited>装备体术时，命中+25、必避-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MartialArts_Mind_5" offset="00" relocatable="true" max_length="0">
+			<original>体术·心Lv.5</original>
+			<edited>体术·心Lv.5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MartialArts_Mind_5" offset="00" relocatable="true" max_length="0">
+			<original>装备体术时，命中+30、必避-10</original>
+			<edited>装备体术时，命中+30、必避-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_KnifeArts_1" offset="00" relocatable="true" max_length="0">
+			<original>短剑术Lv.1</original>
+			<edited>短剑术Lv.1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_KnifeArts_1" offset="00" relocatable="true" max_length="0">
+			<original>装备短剑时，命中+3、回避+3</original>
+			<edited>装备短剑时，命中+3、回避+3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_KnifeArts_2" offset="00" relocatable="true" max_length="0">
+			<original>短剑术Lv.2</original>
+			<edited>短剑术Lv.2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_KnifeArts_2" offset="00" relocatable="true" max_length="0">
+			<original>装备短剑时，命中+5、回避+5</original>
+			<edited>装备短剑时，命中+5、回避+5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_KnifeArts_3" offset="00" relocatable="true" max_length="0">
+			<original>短剑术Lv.3</original>
+			<edited>短剑术Lv.3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_KnifeArts_3" offset="00" relocatable="true" max_length="0">
+			<original>装备短剑时，命中+7、回避+7</original>
+			<edited>装备短剑时，命中+7、回避+7</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_KnifeArts_4" offset="00" relocatable="true" max_length="0">
+			<original>短剑术Lv.4</original>
+			<edited>短剑术Lv.4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_KnifeArts_4" offset="00" relocatable="true" max_length="0">
+			<original>装备短剑时，命中+10、回避+10</original>
+			<edited>装备短剑时，命中+10、回避+10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_KnifeArts_5" offset="00" relocatable="true" max_length="0">
+			<original>短剑术Lv.5</original>
+			<edited>短剑术Lv.5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_KnifeArts_5" offset="00" relocatable="true" max_length="0">
+			<original>装备短剑时，命中+15、回避+15</original>
+			<edited>装备短剑时，命中+15、回避+15</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MagicArts_1" offset="00" relocatable="true" max_length="0">
+			<original>魔道Lv.1</original>
+			<edited>魔道Lv.1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MagicArts_1" offset="00" relocatable="true" max_length="0">
+			<original>装备魔道书时，命中+3、回避+3</original>
+			<edited>装备魔道书时，命中+3、回避+3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MagicArts_2" offset="00" relocatable="true" max_length="0">
+			<original>魔道Lv.2</original>
+			<edited>魔道Lv.2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MagicArts_2" offset="00" relocatable="true" max_length="0">
+			<original>装备魔道书时，命中+5、回避+5</original>
+			<edited>装备魔道书时，命中+5、回避+5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MagicArts_3" offset="00" relocatable="true" max_length="0">
+			<original>魔道Lv.3</original>
+			<edited>魔道Lv.3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MagicArts_3" offset="00" relocatable="true" max_length="0">
+			<original>装备魔道书时，命中+7、回避+7</original>
+			<edited>装备魔道书时，命中+7、回避+7</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MagicArts_4" offset="00" relocatable="true" max_length="0">
+			<original>魔道Lv.4</original>
+			<edited>魔道Lv.4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MagicArts_4" offset="00" relocatable="true" max_length="0">
+			<original>装备魔道书时，命中+10、回避+10</original>
+			<edited>装备魔道书时，命中+10、回避+10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MagicArts_5" offset="00" relocatable="true" max_length="0">
+			<original>魔道Lv.5</original>
+			<edited>魔道Lv.5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MagicArts_5" offset="00" relocatable="true" max_length="0">
+			<original>装备魔道书时，命中+15、回避+15</original>
+			<edited>装备魔道书时，命中+15、回避+15</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_RodArts_1" offset="00" relocatable="true" max_length="0">
+			<original>信仰Lv.1</original>
+			<edited>信仰Lv.1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_RodArts_1" offset="00" relocatable="true" max_length="0">
+			<original>HP回复量+3、杖的命中+10</original>
+			<edited>HP回复量+3、杖的命中+10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_RodArts_2" offset="00" relocatable="true" max_length="0">
+			<original>信仰Lv.2</original>
+			<edited>信仰Lv.2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_RodArts_2" offset="00" relocatable="true" max_length="0">
+			<original>HP回复量+5、杖的命中+15</original>
+			<edited>HP回复量+5、杖的命中+15</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_RodArts_3" offset="00" relocatable="true" max_length="0">
+			<original>信仰Lv.3</original>
+			<edited>信仰Lv.3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_RodArts_3" offset="00" relocatable="true" max_length="0">
+			<original>HP回复量+7、杖的命中+20</original>
+			<edited>HP回复量+7、杖的命中+20</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_RodArts_4" offset="00" relocatable="true" max_length="0">
+			<original>信仰Lv.4</original>
+			<edited>信仰Lv.4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_RodArts_4" offset="00" relocatable="true" max_length="0">
+			<original>HP回复量+10、杖的命中+25</original>
+			<edited>HP回复量+10、杖的命中+25</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_RodArts_5" offset="00" relocatable="true" max_length="0">
+			<original>信仰Lv.5</original>
+			<edited>信仰Lv.5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_RodArts_5" offset="00" relocatable="true" max_length="0">
+			<original>HP回复量+15、杖的命中+30</original>
+			<edited>HP回复量+15、杖的命中+30</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Outclass_1" offset="00" relocatable="true" max_length="0">
+			<original>识破</original>
+			<edited>识破</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Outclass_1" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击时，回避+15
+回避会随速度提升而提高</original>
+			<edited>自身发动攻击时，回避+15
+回避会随速度提升而提高</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Outclass_2" offset="00" relocatable="true" max_length="0">
+			<original>识破+</original>
+			<edited>识破+</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Outclass_2" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击时，回避+30
+回避会随速度提升而提高</original>
+			<edited>自身发动攻击时，回避+30
+回避会随速度提升而提高</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Fortitude_1" offset="00" relocatable="true" max_length="0">
+			<original>不屈</original>
+			<edited>不屈</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Fortitude_1" offset="00" relocatable="true" max_length="0">
+			<original>我军行动阶段开始时
+若HP为20%以下
+回复HP最大值20%</original>
+			<edited>我军行动阶段开始时
+若HP为20%以下
+回复HP最大值20%</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Fortitude_2" offset="00" relocatable="true" max_length="0">
+			<original>不屈+</original>
+			<edited>不屈+</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Fortitude_2" offset="00" relocatable="true" max_length="0">
+			<original>我军行动阶段开始时
+若HP为30%以下
+回复HP最大值30%</original>
+			<edited>我军行动阶段开始时
+若HP为30%以下
+回复HP最大值30%</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Fortitude_3" offset="00" relocatable="true" max_length="0">
+			<original>不屈++</original>
+			<edited>不屈++</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Fortitude_3" offset="00" relocatable="true" max_length="0">
+			<original>我军行动阶段开始时
+若HP为40%以下
+回复HP最大值40%</original>
+			<edited>我军行动阶段开始时
+若HP为40%以下
+回复HP最大值40%</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MarthEngage" offset="00" relocatable="true" max_length="0">
+			<original>神速</original>
+			<edited>神速</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MarthEngage" offset="00" relocatable="true" max_length="0">
+			<original>攻击时会发动所造成伤害50%的追击
+（可与其他会发动追击的特技同时发动）</original>
+			<edited>攻击时会发动所造成伤害50%的追击
+（可与其他会发动追击的特技同时发动）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MarthEngage_Covert" offset="00" relocatable="true" max_length="0">
+			<original>攻击时会发动所造成伤害50%的追击
+（可与其他会发动追击的特技同时发动）
+【隐密】依此特技发生的追击命中时
+将使对方陷入中毒状态</original>
+			<edited>攻击时会发动所造成伤害50%的追击
+（可与其他会发动追击的特技同时发动）
+【隐密】依此特技发生的追击命中时
+将使对方陷入中毒状态</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MarthEngage_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>攻击时会发动所造成伤害50%的追击
+（可与其他会发动追击的特技同时发动）
+【龙族】自身将回复HP
+数值等同此特技的追击伤害</original>
+			<edited>攻击时会发动所造成伤害50%的追击
+（可与其他会发动追击的特技同时发动）
+【龙族】自身将回复HP
+数值等同此特技的追击伤害</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BreakPursuit" offset="00" relocatable="true" max_length="0">
+			<original>接二连三</original>
+			<edited>接二连三</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BreakPursuit" offset="00" relocatable="true" max_length="0">
+			<original>使对方陷入打破状态时，
+会发动所造成伤害50%的追击</original>
+			<edited>使对方陷入打破状态时，
+会发动所造成伤害50%的追击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MarthEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>星之突击</original>
+			<edited>星之突击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MarthEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>连续施展7次伤害为30%的攻击
+仅限持剑且相邻时</original>
+			<edited>连续施展7次伤害为30%的攻击
+仅限持剑且相邻时</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MarthEngageAtk_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>连续施展7次伤害为30%的攻击
+仅限持剑且相邻时
+【龙族】攻击次数+2</original>
+			<edited>连续施展7次伤害为30%的攻击
+仅限持剑且相邻时
+【龙族】攻击次数+2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MarthEngageAtk_Coop" offset="00" relocatable="true" max_length="0">
+			<original>连续施展7次伤害为30%的攻击
+仅限持剑且相邻时
+【连携】攻击次数+1</original>
+			<edited>连续施展7次伤害为30%的攻击
+仅限持剑且相邻时
+【连携】攻击次数+1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MarthEngageAtk_Magic" offset="00" relocatable="true" max_length="0">
+			<original>连续施展7次伤害为30%的攻击
+仅限持剑且相邻时
+【魔道】计算伤害时以魔力为基准</original>
+			<edited>连续施展7次伤害为30%的攻击
+仅限持剑且相邻时
+【魔道】计算伤害时以魔力为基准</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MarthEngageAtk_CMD" offset="00" relocatable="true" max_length="0">
+			<original>发动强劲的连续攻击</original>
+			<edited>发动强劲的连续攻击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Remove_1" offset="00" relocatable="true" max_length="0">
+			<original>再移动</original>
+			<edited>再移动</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Remove_1" offset="00" relocatable="true" max_length="0">
+			<original>行动后可额外移动2格</original>
+			<edited>行动后可额外移动2格</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Remove_2" offset="00" relocatable="true" max_length="0">
+			<original>再移动+</original>
+			<edited>再移动+</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Remove_2" offset="00" relocatable="true" max_length="0">
+			<original>行动后可额外移动3格</original>
+			<edited>行动后可额外移动3格</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Approach_1" offset="00" relocatable="true" max_length="0">
+			<original>助跑</original>
+			<edited>助跑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Approach_1" offset="00" relocatable="true" max_length="0">
+			<original>移动后发动攻击时
+每移动1格攻击力提升1
+（上限为+10）</original>
+			<edited>移动后发动攻击时
+每移动1格攻击力提升1
+（上限为+10）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Approach_2" offset="00" relocatable="true" max_length="0">
+			<original>助跑+</original>
+			<edited>助跑+</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Approach_2" offset="00" relocatable="true" max_length="0">
+			<original>移动后发动攻击时
+每移动1格攻击力提升1</original>
+			<edited>移动后发动攻击时
+每移动1格攻击力提升1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Rush" offset="00" relocatable="true" max_length="0">
+			<original>猛进</original>
+			<edited>猛进</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Rush" offset="00" relocatable="true" max_length="0">
+			<original>使冰封状态无效</original>
+			<edited>使冰封状态无效</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SigludEngage" offset="00" relocatable="true" max_length="0">
+			<original>快跑</original>
+			<edited>快跑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SigludEngage" offset="00" relocatable="true" max_length="0">
+			<original>移动提升5</original>
+			<edited>移动提升5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SigludEngage_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>移动提升5
+【龙族】移动额外提升1</original>
+			<edited>移动提升5
+【龙族】移动额外提升1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SigludEngage_Horse" offset="00" relocatable="true" max_length="0">
+			<original>移动提升5
+【骑马】移动额外提升2</original>
+			<edited>移动提升5
+【骑马】移动额外提升2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SigludEngage_Covert" offset="00" relocatable="true" max_length="0">
+			<original>移动提升5
+【隐密】视所有地形的移动消耗为1</original>
+			<edited>移动提升5
+【隐密】视所有地形的移动消耗为1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SigludEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>破阵星驰</original>
+			<edited>破阵星驰</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SigludEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>攻击敌人并移动至其身后
+仅限持剑、枪且相邻时</original>
+			<edited>攻击敌人并移动至其身后
+仅限持剑、枪且相邻时</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SigludEngageAtk_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>攻击敌人并移动至其身后
+仅限持剑、枪且相邻时
+【龙族】伤害为120%</original>
+			<edited>攻击敌人并移动至其身后
+仅限持剑、枪且相邻时
+【龙族】伤害为120%</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SigludEngageAtk_Heavy" offset="00" relocatable="true" max_length="0">
+			<original>攻击敌人并移动至其身后
+仅限持剑、枪且相邻时
+【重装】10%几率造成打破</original>
+			<edited>攻击敌人并移动至其身后
+仅限持剑、枪且相邻时
+【重装】10%几率造成打破</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SigludEngageAtk_Magic" offset="00" relocatable="true" max_length="0">
+			<original>攻击敌人并移动至其身后
+仅限持剑、枪且相邻时
+【魔道】将魔力的25%加计至伤害</original>
+			<edited>攻击敌人并移动至其身后
+仅限持剑、枪且相邻时
+【魔道】将魔力的25%加计至伤害</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SigludEngageAtk_Prana" offset="00" relocatable="true" max_length="0">
+			<original>攻击敌人并移动至其身后
+仅限持剑、枪且相邻时
+【气功】20%几率造成打破</original>
+			<edited>攻击敌人并移动至其身后
+仅限持剑、枪且相邻时
+【气功】20%几率造成打破</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SigludEngageAtk_CMD" offset="00" relocatable="true" max_length="0">
+			<original>攻击敌人并移动</original>
+			<edited>攻击敌人并移动</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_M011_SigludEngage_DarkSide" offset="00" relocatable="true" max_length="0">
+			<original>快跑（暗）</original>
+			<edited>快跑（暗）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_M011_SigludEngage_DarkSide" offset="00" relocatable="true" max_length="0">
+			<original>移动提升3</original>
+			<edited>移动提升3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_EvilCounter_1" offset="00" relocatable="true" max_length="0">
+			<original>异形复仇</original>
+			<edited>异形复仇</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EvilCounter_1" offset="00" relocatable="true" max_length="0">
+			<original>受到异形兵攻击时
+将所受伤害的10%反击给对方</original>
+			<edited>受到异形兵攻击时
+将所受伤害的10%反击给对方</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_EvilCounter_2" offset="00" relocatable="true" max_length="0">
+			<original>异形复仇+</original>
+			<edited>异形复仇+</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EvilCounter_2" offset="00" relocatable="true" max_length="0">
+			<original>受到异形兵攻击时
+将所受伤害的30%反击给对方</original>
+			<edited>受到异形兵攻击时
+将所受伤害的30%反击给对方</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_EvilCounter_3" offset="00" relocatable="true" max_length="0">
+			<original>异形复仇++</original>
+			<edited>异形复仇++</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EvilCounter_3" offset="00" relocatable="true" max_length="0">
+			<original>受到异形兵攻击时
+将所受伤害的50%反击给对方</original>
+			<edited>受到异形兵攻击时
+将所受伤害的50%反击给对方</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BlackMagic_1" offset="00" relocatable="true" max_length="0">
+			<original>共鸣之黑魔法</original>
+			<edited>共鸣之黑魔法</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BlackMagic_1" offset="00" relocatable="true" max_length="0">
+			<original>使用魔道书攻击时
+若自身的HP为2以上
+则消耗1HP使伤害+2</original>
+			<edited>使用魔道书攻击时
+若自身的HP为2以上
+则消耗1HP使伤害+2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BlackMagic_2" offset="00" relocatable="true" max_length="0">
+			<original>共鸣之黑魔法+</original>
+			<edited>共鸣之黑魔法+</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BlackMagic_2" offset="00" relocatable="true" max_length="0">
+			<original>使用魔道书攻击时
+若自身的HP为2以上
+则消耗1HP使伤害+3</original>
+			<edited>使用魔道书攻击时
+若自身的HP为2以上
+则消耗1HP使伤害+3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_FavoriteFood" offset="00" relocatable="true" max_length="0">
+			<original>最喜欢的东西</original>
+			<edited>最喜欢的东西</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_FavoriteFood" offset="00" relocatable="true" max_length="0">
+			<original>同步状态下食用便当
+将蓄满结合计量条</original>
+			<edited>同步状态下食用便当
+将蓄满结合计量条</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_CelicaEngage" offset="00" relocatable="true" max_length="0">
+			<original>重唱</original>
+			<edited>重唱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CelicaEngage" offset="00" relocatable="true" max_length="0">
+			<original>可使用“重唱”指令
+能以50%伤害的魔法发动2次攻击</original>
+			<edited>可使用“重唱”指令
+能以50%伤害的魔法发动2次攻击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CelicaEngage_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>可使用“重唱”指令
+能以50%伤害的魔法发动2次攻击
+【龙族】射程+1</original>
+			<edited>可使用“重唱”指令
+能以50%伤害的魔法发动2次攻击
+【龙族】射程+1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CelicaEngage_Magic" offset="00" relocatable="true" max_length="0">
+			<original>可使用“重唱”指令
+能以50%伤害的魔法发动2次攻击
+【魔道】伤害+10%</original>
+			<edited>可使用“重唱”指令
+能以50%伤害的魔法发动2次攻击
+【魔道】伤害+10%</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CelicaEngage_CMD" offset="00" relocatable="true" max_length="0">
+			<original>能以伤害为50%的魔法进行2次战斗</original>
+			<edited>能以伤害为50%的魔法进行2次战斗</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_CelicaEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>传送末世烈焰</original>
+			<edited>传送末世烈焰</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CelicaEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>传送至10格范围内的可攻击位置
+对敌人发动强劲的魔法攻击</original>
+			<edited>传送至10格范围内的可攻击位置
+对敌人发动强劲的魔法攻击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CelicaEngageAtk_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>传送至10格范围内的可攻击位置
+对敌人发动强劲的魔法攻击
+【龙族】射程+1</original>
+			<edited>传送至10格范围内的可攻击位置
+对敌人发动强劲的魔法攻击
+【龙族】射程+1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CelicaEngageAtk_Horse" offset="00" relocatable="true" max_length="0">
+			<original>传送至10格范围内的可攻击位置
+对敌人发动强劲的魔法攻击
+【骑马】可传送距离+2</original>
+			<edited>传送至10格范围内的可攻击位置
+对敌人发动强劲的魔法攻击
+【骑马】可传送距离+2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CelicaEngageAtk_Fly" offset="00" relocatable="true" max_length="0">
+			<original>传送至10格范围内的可攻击位置
+对敌人发动强劲的魔法攻击
+【飞行】可传送距离+5</original>
+			<edited>传送至10格范围内的可攻击位置
+对敌人发动强劲的魔法攻击
+【飞行】可传送距离+5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CelicaEngageAtk_Magic" offset="00" relocatable="true" max_length="0">
+			<original>传送至10格范围内的可攻击位置
+对敌人发动强劲的魔法攻击
+【魔道】伤害为120%</original>
+			<edited>传送至10格范围内的可攻击位置
+对敌人发动强劲的魔法攻击
+【魔道】伤害为120%</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CelicaEngageAtk_CMD" offset="00" relocatable="true" max_length="0">
+			<original>传送至可攻击位置并发动魔法攻击</original>
+			<edited>传送至可攻击位置并发动魔法攻击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_M011_CelicaEngageAtk_DarkSide" offset="00" relocatable="true" max_length="0">
+			<original>传送末世烈焰（暗）</original>
+			<edited>传送末世烈焰（暗）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_CelicaEngageAtk_DarkSide" offset="00" relocatable="true" max_length="0">
+			<original>末世烈焰传送</original>
+			<edited>末世烈焰传送</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CelicaEngageAtk_DarkSide" offset="00" relocatable="true" max_length="0">
+			<original>发动强劲的魔法攻击后传送至别处</original>
+			<edited>发动强劲的魔法攻击后传送至别处</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CelicaEngageAtk_DarkSide_CMD" offset="00" relocatable="true" max_length="0">
+			<original>发动强劲的魔法攻击后传送至别处</original>
+			<edited>发动强劲的魔法攻击后传送至别处</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_M011_CelicaEngageAtk_DarkSide" offset="00" relocatable="true" max_length="0">
+			<original>传送至5格范围内的可攻击位置
+对敌人发动强劲的魔法攻击</original>
+			<edited>传送至5格范围内的可攻击位置
+对敌人发动强劲的魔法攻击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_EvilCounter_3_DarkSide" offset="00" relocatable="true" max_length="0">
+			<original>复仇</original>
+			<edited>复仇</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EvilCounter_3_DarkSide" offset="00" relocatable="true" max_length="0">
+			<original>受到异形兵以外的敌人攻击时
+将所受伤害的50%反击给对方</original>
+			<edited>受到异形兵以外的敌人攻击时
+将所受伤害的50%反击给对方</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_EquipRod_1" offset="00" relocatable="true" max_length="0">
+			<original>操杖</original>
+			<edited>操杖</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EquipRod_1" offset="00" relocatable="true" max_length="0">
+			<original>可使用等级C以下的杖</original>
+			<edited>可使用等级C以下的杖</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_EquipRod_2" offset="00" relocatable="true" max_length="0">
+			<original>操杖+</original>
+			<edited>操杖+</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EquipRod_2" offset="00" relocatable="true" max_length="0">
+			<original>可使用等级B以下的杖</original>
+			<edited>可使用等级B以下的杖</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_EquipRod_3" offset="00" relocatable="true" max_length="0">
+			<original>操杖++</original>
+			<edited>操杖++</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EquipRod_3" offset="00" relocatable="true" max_length="0">
+			<original>可使用等级A以下的杖</original>
+			<edited>可使用等级A以下的杖</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Silenceproof" offset="00" relocatable="true" max_length="0">
+			<original>沉默防御</original>
+			<edited>沉默防御</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Silenceproof" offset="00" relocatable="true" max_length="0">
+			<original>使沉默状态无效</original>
+			<edited>使沉默状态无效</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_HealingResonance" offset="00" relocatable="true" max_length="0">
+			<original>治愈之声</original>
+			<edited>治愈之声</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_HealingResonance" offset="00" relocatable="true" max_length="0">
+			<original>使用杖回复我方单位的HP时，
+自身也能获得回复量50%的HP</original>
+			<edited>使用杖回复我方单位的HP时，
+自身也能获得回复量50%的HP</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MicaiahEngage" offset="00" relocatable="true" max_length="0">
+			<original>增幅</original>
+			<edited>增幅</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MicaiahEngage" offset="00" relocatable="true" max_length="0">
+			<original>杖的射程及传送等距离+5
+杖的效果范围+1</original>
+			<edited>杖的射程及传送等距离+5
+杖的效果范围+1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MicaiahEngage_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>杖的射程及传送等距离+5
+杖的效果范围+1
+【龙族】杖的射程（距离）额外+1</original>
+			<edited>杖的射程及传送等距离+5
+杖的效果范围+1
+【龙族】杖的射程（距离）额外+1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MicaiahEngage_Prana" offset="00" relocatable="true" max_length="0">
+			<original>杖的射程及传送等距离+5
+杖的效果范围+1
+【气功】使用HP回复杖时，回复量为120%</original>
+			<edited>杖的射程及传送等距离+5
+杖的效果范围+1
+【气功】使用HP回复杖时，回复量为120%</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MicaiahEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>大治愈之手</original>
+			<edited>大治愈之手</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MicaiahEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>完全回复我军与友军全员的HP
+使用后，自身的HP变为1</original>
+			<edited>完全回复我军与友军全员的HP
+使用后，自身的HP变为1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MicaiahEngageAtk_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>完全回复我军与友军全员的HP
+使用后，自身的HP变为1
+【龙族】使用后，HP变为30%</original>
+			<edited>完全回复我军与友军全员的HP
+使用后，自身的HP变为1
+【龙族】使用后，HP变为30%</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MicaiahEngageAtk_Heavy" offset="00" relocatable="true" max_length="0">
+			<original>完全回复我军与友军全员的HP
+使用后，自身的HP变为1
+【重装】我方全员于下次战斗时防守+1</original>
+			<edited>完全回复我军与友军全员的HP
+使用后，自身的HP变为1
+【重装】我方全员于下次战斗时防守+1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MicaiahEngageAtk_Prana" offset="00" relocatable="true" max_length="0">
+			<original>完全回复我军与友军全员的HP
+使用后，自身的HP变为1
+【气功】解除异常状态</original>
+			<edited>完全回复我军与友军全员的HP
+使用后，自身的HP变为1
+【气功】解除异常状态</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MicaiahEngageAtk_CMD" offset="00" relocatable="true" max_length="0">
+			<original>消耗HP使我方全员的HP完全回复</original>
+			<edited>消耗HP使我方全员的HP完全回复</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_M011_MicaiahEngage_DarkSide" offset="00" relocatable="true" max_length="0">
+			<original>增幅（暗）</original>
+			<edited>增幅（暗）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_M011_MicaiahEngage_DarkSide" offset="00" relocatable="true" max_length="0">
+			<original>杖的射程及传送等距离+3
+杖的效果范围+1</original>
+			<edited>杖的射程及传送等距离+3
+杖的效果范围+1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_HoldOut_1" offset="00" relocatable="true" max_length="0">
+			<original>坚持</original>
+			<edited>坚持</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_HoldOut_1" offset="00" relocatable="true" max_length="0">
+			<original>若战斗开始时HP为30%以上
+无论在该战斗中受到多大的伤害
+HP也会剩下1</original>
+			<edited>若战斗开始时HP为30%以上
+无论在该战斗中受到多大的伤害
+HP也会剩下1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_HoldOut_2" offset="00" relocatable="true" max_length="0">
+			<original>坚持+</original>
+			<edited>坚持+</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_HoldOut_2" offset="00" relocatable="true" max_length="0">
+			<original>若战斗开始时HP为20%以上
+无论在该战斗中受到多大的伤害
+HP也会剩下1</original>
+			<edited>若战斗开始时HP为20%以上
+无论在该战斗中受到多大的伤害
+HP也会剩下1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_HoldOut_3" offset="00" relocatable="true" max_length="0">
+			<original>坚持++</original>
+			<edited>坚持++</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_HoldOut_3" offset="00" relocatable="true" max_length="0">
+			<original>若战斗开始时HP为10%以上
+无论在该战斗中受到多大的伤害
+HP也会剩下1</original>
+			<edited>若战斗开始时HP为10%以上
+无论在该战斗中受到多大的伤害
+HP也会剩下1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_HoldOut_4" offset="00" relocatable="true" max_length="0">
+			<original>坚持+++</original>
+			<edited>坚持+++</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_HoldOut_4" offset="00" relocatable="true" max_length="0">
+			<original>若战斗开始时HP为2以上
+无论在该战斗中受到多大的伤害
+HP也会剩下1</original>
+			<edited>若战斗开始时HP为2以上
+无论在该战斗中受到多大的伤害
+HP也会剩下1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_ClosingAttack" offset="00" relocatable="true" max_length="0">
+			<original>深入</original>
+			<edited>深入</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_ClosingAttack" offset="00" relocatable="true" max_length="0">
+			<original>可使用“深入”指令
+朝2格远的敌人前进1格并发动攻击</original>
+			<edited>可使用“深入”指令
+朝2格远的敌人前进1格并发动攻击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_ClosingAttack_CMD" offset="00" relocatable="true" max_length="0">
+			<original>朝距离2格远的敌人前进并发动攻击</original>
+			<edited>朝距离2格远的敌人前进并发动攻击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_RoyEngage" offset="00" relocatable="true" max_length="0">
+			<original>超越</original>
+			<edited>超越</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_RoyEngage" offset="00" relocatable="true" max_length="0">
+			<original>单位等级+5</original>
+			<edited>单位等级+5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_RoyEngage_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>单位等级+5
+【龙族】等级额外+1</original>
+			<edited>单位等级+5
+【龙族】等级额外+1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_RoyEngage_Horse" offset="00" relocatable="true" max_length="0">
+			<original>单位等级+5
+【骑马】移动+1</original>
+			<edited>单位等级+5
+【骑马】移动+1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_RoyEngage_Heavy" offset="00" relocatable="true" max_length="0">
+			<original>单位等级+5
+【重装】HP最大值+5</original>
+			<edited>单位等级+5
+【重装】HP最大值+5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_RoyEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>狮子红莲焰舞</original>
+			<edited>狮子红莲焰舞</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_RoyEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>使用炎之剑攻击前方的横向3格
+目标格与其后2格会陷入燃烧状态
+仅限持剑且相邻时</original>
+			<edited>使用炎之剑攻击前方的横向3格
+目标格与其后2格会陷入燃烧状态
+仅限持剑且相邻时</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_RoyEngageAtk_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>使用炎之剑攻击前方的横向3格
+目标格与其后2格会陷入燃烧状态
+仅限持剑且相邻时，【龙族】扩大攻击范围</original>
+			<edited>使用炎之剑攻击前方的横向3格
+目标格与其后2格会陷入燃烧状态
+仅限持剑且相邻时，【龙族】扩大攻击范围</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_RoyEngageAtk_Magic" offset="00" relocatable="true" max_length="0">
+			<original>使用炽焰之剑攻击前方的横向3格
+目标格与其后2格会陷入燃烧状态
+仅限持剑且相邻时，【魔道】扩大燃烧范围</original>
+			<edited>使用炽焰之剑攻击前方的横向3格
+目标格与其后2格会陷入燃烧状态
+仅限持剑且相邻时，【魔道】扩大燃烧范围</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_RoyEngageAtk_CMD" offset="00" relocatable="true" max_length="0">
+			<original>攻击前方的复数格并使四周燃烧</original>
+			<edited>攻击前方的复数格并使四周燃烧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_M011_RoyEngage_DarkSide" offset="00" relocatable="true" max_length="0">
+			<original>超越（暗）</original>
+			<edited>超越（暗）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_M011_RoyEngage_DarkSide" offset="00" relocatable="true" max_length="0">
+			<original>单位等级+3</original>
+			<edited>单位等级+3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_AugmentDamage_1" offset="00" relocatable="true" max_length="0">
+			<original>避开要害</original>
+			<edited>避开要害</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_AugmentDamage_1" offset="00" relocatable="true" max_length="0">
+			<original>于武器互克上占优势时，所受伤害-3</original>
+			<edited>于武器互克上占优势时，所受伤害-3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_AugmentDamage_2" offset="00" relocatable="true" max_length="0">
+			<original>避开要害+</original>
+			<edited>避开要害+</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_AugmentDamage_2" offset="00" relocatable="true" max_length="0">
+			<original>于武器互克上占优势时，所受伤害-5</original>
+			<edited>于武器互克上占优势时，所受伤害-5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_AugmentDamage_3" offset="00" relocatable="true" max_length="0">
+			<original>避开要害++</original>
+			<edited>避开要害++</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_AugmentDamage_3" offset="00" relocatable="true" max_length="0">
+			<original>于武器互克上占优势时，所受伤害-7</original>
+			<edited>于武器互克上占优势时，所受伤害-7</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Ambush_1" offset="00" relocatable="true" max_length="0">
+			<original>埋伏</original>
+			<edited>埋伏</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Ambush_1" offset="00" relocatable="true" max_length="0">
+			<original>受到敌人攻击时
+若自身的HP为25%以下，可抢先攻击对方</original>
+			<edited>受到敌人攻击时
+若自身的HP为25%以下，可抢先攻击对方</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Ambush_2" offset="00" relocatable="true" max_length="0">
+			<original>埋伏+</original>
+			<edited>埋伏+</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Ambush_2" offset="00" relocatable="true" max_length="0">
+			<original>受到敌人攻击时
+若自身的HP为50%以下，可抢先攻击对方</original>
+			<edited>受到敌人攻击时
+若自身的HP为50%以下，可抢先攻击对方</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Ambush_3" offset="00" relocatable="true" max_length="0">
+			<original>埋伏++</original>
+			<edited>埋伏++</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Ambush_3" offset="00" relocatable="true" max_length="0">
+			<original>受到敌人攻击时
+若自身的HP为75%以下，可抢先攻击对方</original>
+			<edited>受到敌人攻击时
+若自身的HP为75%以下，可抢先攻击对方</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LeafEngage" offset="00" relocatable="true" max_length="0">
+			<original>瞬应</original>
+			<edited>瞬应</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LeafEngage" offset="00" relocatable="true" max_length="0">
+			<original>受到敌人攻击时
+若持有于射程、互克、克制上占优势的武器
+将自动更换为该武器</original>
+			<edited>受到敌人攻击时
+若持有于射程、互克、克制上占优势的武器
+将自动更换为该武器</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LeafEngage_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>受到敌人攻击时
+若持有较占优势的武器，将自动更换为该武器
+【龙族】该次战斗中，命中+30</original>
+			<edited>受到敌人攻击时
+若持有较占优势的武器，将自动更换为该武器
+【龙族】该次战斗中，命中+30</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LeafEngage_Coop" offset="00" relocatable="true" max_length="0">
+			<original>受到敌人攻击时
+若持有较占优势的武器，将自动更换为该武器
+【连携】该次战斗中，必杀+10</original>
+			<edited>受到敌人攻击时
+若持有较占优势的武器，将自动更换为该武器
+【连携】该次战斗中，必杀+10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LeafEngage_Covert" offset="00" relocatable="true" max_length="0">
+			<original>受到敌人攻击时
+若持有较占优势的武器，将自动更换为该武器
+【隐密】该次战斗中，回避+20</original>
+			<edited>受到敌人攻击时
+若持有较占优势的武器，将自动更换为该武器
+【隐密】该次战斗中，回避+20</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LeafEngage_Heavy" offset="00" relocatable="true" max_length="0">
+			<original>受到敌人攻击时
+若持有较占优势的武器，将自动更换为该武器
+【重装】该次战斗中，防守+5</original>
+			<edited>受到敌人攻击时
+若持有较占优势的武器，将自动更换为该武器
+【重装】该次战斗中，防守+5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LeafEngage_Fly" offset="00" relocatable="true" max_length="0">
+			<original>受到敌人攻击时
+若持有较占优势的武器，将自动更换为该武器
+【飞行】该次战斗中，魔防+5</original>
+			<edited>受到敌人攻击时
+若持有较占优势的武器，将自动更换为该武器
+【飞行】该次战斗中，魔防+5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LeafEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>四重巧击</original>
+			<edited>四重巧击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LeafEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>使用剑、枪、斧、弓施展连续攻击</original>
+			<edited>使用剑、枪、斧、弓施展连续攻击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LeafEngageAtk_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>使用剑、枪、斧、弓施展连续攻击
+【龙族】伤害为120%</original>
+			<edited>使用剑、枪、斧、弓施展连续攻击
+【龙族】伤害为120%</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LeafEngageAtk_Covert" offset="00" relocatable="true" max_length="0">
+			<original>使用剑、枪、斧、弓施展连续攻击
+【隐密】打倒敌人时，一定几率获得1000G
+（几率为“幸运”%）</original>
+			<edited>使用剑、枪、斧、弓施展连续攻击
+【隐密】打倒敌人时，一定几率获得1000G
+（几率为“幸运”%）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LeafEngageAtk_Prana" offset="00" relocatable="true" max_length="0">
+			<original>使用剑、枪、斧、弓施展连续攻击
+【气功】必定打破</original>
+			<edited>使用剑、枪、斧、弓施展连续攻击
+【气功】必定打破</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LeafEngageAtk_CMD" offset="00" relocatable="true" max_length="0">
+			<original>使用剑、枪、斧、弓施展连续攻击</original>
+			<edited>使用剑、枪、斧、弓施展连续攻击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BondPower" offset="00" relocatable="true" max_length="0">
+			<original>双重攻击</original>
+			<edited>双重攻击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BondPower" offset="00" relocatable="true" max_length="0">
+			<original>即使自身的战斗类型并非“连携”
+也能参与连锁攻击</original>
+			<edited>即使自身的战斗类型并非“连携”
+也能参与连锁攻击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_DualAssist_1" offset="00" relocatable="true" max_length="0">
+			<original>双重协助</original>
+			<edited>双重协助</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DualAssist_1" offset="00" relocatable="true" max_length="0">
+			<original>当我方单位攻击自身可攻击范围
+（移动距离+射程）内的敌人时，
+若自身战斗类型为“连携”或
+可使用特技“双重攻击”，
+将有35%几率参与连锁攻击</original>
+			<edited>当我方单位攻击自身可攻击范围
+（移动距离+射程）内的敌人时，
+若自身战斗类型为“连携”或
+可使用特技“双重攻击”，
+将有35%几率参与连锁攻击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_DualAssist_2" offset="00" relocatable="true" max_length="0">
+			<original>双重协助+</original>
+			<edited>双重协助+</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DualAssist_2" offset="00" relocatable="true" max_length="0">
+			<original>当我方单位攻击自身可攻击范围
+（移动距离+射程）内的敌人时，
+若自身战斗类型为“连携”或
+可使用特技“双重攻击”，
+将有70%几率参与连锁攻击</original>
+			<edited>当我方单位攻击自身可攻击范围
+（移动距离+射程）内的敌人时，
+若自身战斗类型为“连携”或
+可使用特技“双重攻击”，
+将有70%几率参与连锁攻击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_DualSupport" offset="00" relocatable="true" max_length="0">
+			<original>双重支援</original>
+			<edited>双重支援</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DualSupport" offset="00" relocatable="true" max_length="0">
+			<original>与相邻我方单位的支援等级越高
+回避提升越多（上限为+90）</original>
+			<edited>与相邻我方单位的支援等级越高
+回避提升越多（上限为+90）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LucinaEngage" offset="00" relocatable="true" max_length="0">
+			<original>牵绊之盾</original>
+			<edited>牵绊之盾</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LucinaEngage_CMD" offset="00" relocatable="true" max_length="0">
+			<original>80%几率使相邻我方单位所受攻击无效</original>
+			<edited>80%几率使相邻我方单位所受攻击无效</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LucinaEngage_CMD_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>90%几率使相邻我方单位所受攻击无效</original>
+			<edited>90%几率使相邻我方单位所受攻击无效</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LucinaEngage_CMD_Prana" offset="00" relocatable="true" max_length="0">
+			<original>使相邻我方单位所受攻击无效，仅限1次</original>
+			<edited>使相邻我方单位所受攻击无效，仅限1次</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LucinaEngage" offset="00" relocatable="true" max_length="0">
+			<original>可使用“牵绊之盾”指令，80%几率
+使敌人对相邻我方单位的首次攻击无效</original>
+			<edited>可使用“牵绊之盾”指令，80%几率
+使敌人对相邻我方单位的首次攻击无效</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LucinaEngage_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>可使用“牵绊之盾”指令，80%几率
+使敌人对相邻我方单位的首次攻击无效
+【龙族】发动率+10%</original>
+			<edited>可使用“牵绊之盾”指令，80%几率
+使敌人对相邻我方单位的首次攻击无效
+【龙族】发动率+10%</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LucinaEngage_Horse" offset="00" relocatable="true" max_length="0">
+			<original>可使用“牵绊之盾”指令，80%几率
+使敌人对相邻我方单位的首次攻击无效
+【骑马】若我方单位的类型为骑马则必定发动</original>
+			<edited>可使用“牵绊之盾”指令，80%几率
+使敌人对相邻我方单位的首次攻击无效
+【骑马】若我方单位的类型为骑马则必定发动</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LucinaEngage_Heavy" offset="00" relocatable="true" max_length="0">
+			<original>可使用“牵绊之盾”指令，80%几率
+使敌人对相邻我方单位的首次攻击无效
+【重装】若我方单位的类型为重装则必定发动</original>
+			<edited>可使用“牵绊之盾”指令，80%几率
+使敌人对相邻我方单位的首次攻击无效
+【重装】若我方单位的类型为重装则必定发动</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LucinaEngage_Fly" offset="00" relocatable="true" max_length="0">
+			<original>可使用“牵绊之盾”指令，80%几率
+使敌人对相邻我方单位的首次攻击无效
+【飞行】若我方单位的类型为飞行则必定发动</original>
+			<edited>可使用“牵绊之盾”指令，80%几率
+使敌人对相邻我方单位的首次攻击无效
+【飞行】若我方单位的类型为飞行则必定发动</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LucinaEngage_Prana" offset="00" relocatable="true" max_length="0">
+			<original>可使用“牵绊之盾”指令，80%几率
+使敌人对相邻我方单位的首次攻击无效
+【气功】发动率为100%</original>
+			<edited>可使用“牵绊之盾”指令，80%几率
+使敌人对相邻我方单位的首次攻击无效
+【气功】发动率为100%</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LucinaEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>人人为我</original>
+			<edited>人人为我</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LucinaEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>自身周围2格内的我方单位将参与连锁攻击
+仅限持剑且相邻时</original>
+			<edited>自身周围2格内的我方单位将参与连锁攻击
+仅限持剑且相邻时</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LucinaEngageAtk_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>周围2格内的我方单位将参与连锁攻击
+仅限持剑且相邻时
+【龙族】参与连锁的我方单位命中率为100%</original>
+			<edited>周围2格内的我方单位将参与连锁攻击
+仅限持剑且相邻时
+【龙族】参与连锁的我方单位命中率为100%</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LucinaEngageAtk_Coop" offset="00" relocatable="true" max_length="0">
+			<original>周围2格内的我方单位将参与连锁攻击
+仅限持剑且相邻时
+【连携】范围+1</original>
+			<edited>周围2格内的我方单位将参与连锁攻击
+仅限持剑且相邻时
+【连携】范围+1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LucinaEngageAtk_CMD" offset="00" relocatable="true" max_length="0">
+			<original>周围的我方单位将参与连锁攻击</original>
+			<edited>周围的我方单位将参与连锁攻击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Pursuit_1" offset="00" relocatable="true" max_length="0">
+			<original>强攻</original>
+			<edited>强攻</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Pursuit_1" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击时
+若可追击且速度高于对方9以上
+会抢先在敌人反击前施展追击</original>
+			<edited>自身发动攻击时
+若可追击且速度高于对方9以上
+会抢先在敌人反击前施展追击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Pursuit_2" offset="00" relocatable="true" max_length="0">
+			<original>强攻+</original>
+			<edited>强攻+</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Pursuit_2" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击时
+若可追击且速度高于对方7以上
+会抢先在敌人反击前施展追击</original>
+			<edited>自身发动攻击时
+若可追击且速度高于对方7以上
+会抢先在敌人反击前施展追击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Pursuit_3" offset="00" relocatable="true" max_length="0">
+			<original>强攻++</original>
+			<edited>强攻++</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Pursuit_3" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击时
+若可追击且速度高于对方5以上
+会抢先在敌人反击前施展追击</original>
+			<edited>自身发动攻击时
+若可追击且速度高于对方5以上
+会抢先在敌人反击前施展追击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SpeedAbsorption" offset="00" relocatable="true" max_length="0">
+			<original>速度吸收</original>
+			<edited>速度吸收</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SpeedAbsorption" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击时，每打倒1个敌人，速度+2
+（上限为+10，效果持续至该战斗结束为止）</original>
+			<edited>自身发动攻击时，每打倒1个敌人，速度+2
+（上限为+10，效果持续至该战斗结束为止）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LinEngage" offset="00" relocatable="true" max_length="0">
+			<original>残像</original>
+			<edited>残像</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LinEngage" offset="00" relocatable="true" max_length="0">
+			<original>可使用“残像”指令
+创造出4个仅能参与自身连锁攻击的残像</original>
+			<edited>可使用“残像”指令
+创造出4个仅能参与自身连锁攻击的残像</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LinEngage_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>可使用“残像”指令
+创造出4个仅能参与自身连锁攻击的残像
+【龙族】残像数量+1</original>
+			<edited>可使用“残像”指令
+创造出4个仅能参与自身连锁攻击的残像
+【龙族】残像数量+1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LinEngage_Fly" offset="00" relocatable="true" max_length="0">
+			<original>可使用“残像”指令
+创造出4个仅能参与自身连锁攻击的残像
+【飞行】残像的回避+10</original>
+			<edited>可使用“残像”指令
+创造出4个仅能参与自身连锁攻击的残像
+【飞行】残像的回避+10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LinEngage_CMD" offset="00" relocatable="true" max_length="0">
+			<original>创造出可参与连锁攻击的残像</original>
+			<edited>创造出可参与连锁攻击的残像</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LinEngage_Delete_CMD" offset="00" relocatable="true" max_length="0">
+			<original>解除残像</original>
+			<edited>解除残像</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LinEngage_Delete_CMD" offset="00" relocatable="true" max_length="0">
+			<original>去除创造出的残像</original>
+			<edited>去除创造出的残像</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LinEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>流星群</original>
+			<edited>流星群</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LinEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>连续施展5次射程为10、伤害为30%的攻击
+仅限持弓</original>
+			<edited>连续施展5次射程为10、伤害为30%的攻击
+仅限持弓</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LinEngageAtk_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>连续施展5次射程为10、伤害为30%的攻击
+仅限持弓
+【龙族】射程+5</original>
+			<edited>连续施展5次射程为10、伤害为30%的攻击
+仅限持弓
+【龙族】射程+5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LinEngageAtk_Covert" offset="00" relocatable="true" max_length="0">
+			<original>连续施展5次射程为10、伤害为30%的攻击
+仅限持弓
+【隐密】射程+10</original>
+			<edited>连续施展5次射程为10、伤害为30%的攻击
+仅限持弓
+【隐密】射程+10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LinEngageAtk_Prana" offset="00" relocatable="true" max_length="0">
+			<original>连续施展5次射程为10、伤害为30%的攻击
+仅限持弓
+【气功】必定打破</original>
+			<edited>连续施展5次射程为10、伤害为30%的攻击
+仅限持弓
+【气功】必定打破</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LinEngageAtk_CMD" offset="00" relocatable="true" max_length="0">
+			<original>使用弓箭施展超远距离的连续攻击</original>
+			<edited>使用弓箭施展超远距离的连续攻击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LinEngageAtk_Weak" offset="00" relocatable="true" max_length="0">
+			<original>连续施展5次射程为10、伤害为20%的攻击
+仅限持弓</original>
+			<edited>连续施展5次射程为10、伤害为20%的攻击
+仅限持弓</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LinEngageAtk_DarkSide_Prana" offset="00" relocatable="true" max_length="0">
+			<original>连续施展5次射程为10、伤害为20%的攻击
+仅限持弓
+【气功】必定打破</original>
+			<edited>连续施展5次射程为10、伤害为20%的攻击
+仅限持弓
+【气功】必定打破</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Ravage" offset="00" relocatable="true" max_length="0">
+			<original>破坏</original>
+			<edited>破坏</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Ravage" offset="00" relocatable="true" max_length="0">
+			<original>使用“破坏”指令时
+只需一击就能破坏目标</original>
+			<edited>使用“破坏”指令时
+只需一击就能破坏目标</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PullBack" offset="00" relocatable="true" max_length="0">
+			<original>带回</original>
+			<edited>带回</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PullBack" offset="00" relocatable="true" max_length="0">
+			<original>可使用“带回”指令
+使相邻我方单位移动至自身的另一侧</original>
+			<edited>可使用“带回”指令
+使相邻我方单位移动至自身的另一侧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PullBack_CMD" offset="00" relocatable="true" max_length="0">
+			<original>使我方单位移动至自身的另一侧</original>
+			<edited>使我方单位移动至自身的另一侧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Anger" offset="00" relocatable="true" max_length="0">
+			<original>愤怒</original>
+			<edited>愤怒</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Anger" offset="00" relocatable="true" max_length="0">
+			<original>必杀会随HP减少量提升
+（上限为+30）</original>
+			<edited>必杀会随HP减少量提升
+（上限为+30）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BraveGeneral_1" offset="00" relocatable="true" max_length="0">
+			<original>勇将</original>
+			<edited>勇将</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BraveGeneral_1" offset="00" relocatable="true" max_length="0">
+			<original>HP为75%以下时
+防守、魔防+5</original>
+			<edited>HP为75%以下时
+防守、魔防+5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BraveGeneral_2" offset="00" relocatable="true" max_length="0">
+			<original>勇将+</original>
+			<edited>勇将+</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BraveGeneral_2" offset="00" relocatable="true" max_length="0">
+			<original>HP为75%以下时
+防守、魔防+7</original>
+			<edited>HP为75%以下时
+防守、魔防+7</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_IkeEngage" offset="00" relocatable="true" max_length="0">
+			<original>不动</original>
+			<edited>不动</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_IkeEngage" offset="00" relocatable="true" max_length="0">
+			<original>回避变为0
+但所受伤害-50%</original>
+			<edited>回避变为0
+但所受伤害-50%</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_IkeEngage_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>回避变为0
+但所受伤害-50%
+【龙族】所受伤害额外-10%</original>
+			<edited>回避变为0
+但所受伤害-50%
+【龙族】所受伤害额外-10%</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_IkeEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>霸克·天空</original>
+			<edited>霸克·天空</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_IkeEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>舍弃反击使防守、魔防+5，并于下回合对
+周围2格施展范围攻击，回复伤害30%的HP
+仅限持剑、斧</original>
+			<edited>舍弃反击使防守、魔防+5，并于下回合对
+周围2格施展范围攻击，回复伤害30%的HP
+仅限持剑、斧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_IkeEngageAtk_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>舍弃反击使防守、魔防+5，并于下回合对
+周围2格施展范围攻击，回复伤害30%的HP
+仅限持剑、斧
+【龙族】伤害+1×遇袭次数</original>
+			<edited>舍弃反击使防守、魔防+5，并于下回合对
+周围2格施展范围攻击，回复伤害30%的HP
+仅限持剑、斧
+【龙族】伤害+1×遇袭次数</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_IkeEngageAtk_Heavy" offset="00" relocatable="true" max_length="0">
+			<original>舍弃反击使防守、魔防+5，并于下回合对
+周围2格施展范围攻击，回复伤害30%的HP
+仅限持剑、斧
+【重装】发动中防守额外+5</original>
+			<edited>舍弃反击使防守、魔防+5，并于下回合对
+周围2格施展范围攻击，回复伤害30%的HP
+仅限持剑、斧
+【重装】发动中防守额外+5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_IkeEngageAtk_Fly" offset="00" relocatable="true" max_length="0">
+			<original>舍弃反击使防守、魔防+5，并于下回合对
+周围2格施展范围攻击，回复伤害30%的HP
+仅限持剑、斧
+【飞行】发动中魔防额外+5</original>
+			<edited>舍弃反击使防守、魔防+5，并于下回合对
+周围2格施展范围攻击，回复伤害30%的HP
+仅限持剑、斧
+【飞行】发动中魔防额外+5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_IkeEngageAtk_CMD" offset="00" relocatable="true" max_length="0">
+			<original>承受敌人攻击，下回合施展范围攻击</original>
+			<edited>承受敌人攻击，下回合施展范围攻击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_HeavenBeat_1" offset="00" relocatable="true" max_length="0">
+			<original>天刻之脉动</original>
+			<edited>天刻之脉动</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_HeavenBeat_1" offset="00" relocatable="true" max_length="0">
+			<original>30%几率使失手的攻击命中敌人
+几率会随幸运提升而提高</original>
+			<edited>30%几率使失手的攻击命中敌人
+几率会随幸运提升而提高</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_HeavenBeat_2" offset="00" relocatable="true" max_length="0">
+			<original>天刻之脉动+</original>
+			<edited>天刻之脉动+</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_HeavenBeat_2" offset="00" relocatable="true" max_length="0">
+			<original>50%几率使失手的攻击命中敌人
+几率会随幸运提升而提高</original>
+			<edited>50%几率使失手的攻击命中敌人
+几率会随幸运提升而提高</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_TeacherGuidance" offset="00" relocatable="true" max_length="0">
+			<original>老师的引导</original>
+			<edited>老师的引导</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_TeacherGuidance" offset="00" relocatable="true" max_length="0">
+			<original>自身与相邻我方单位
+获得的经验值为120%</original>
+			<edited>自身与相邻我方单位
+获得的经验值为120%</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PickUp" offset="00" relocatable="true" max_length="0">
+			<original>拾得</original>
+			<edited>拾得</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PickUp" offset="00" relocatable="true" max_length="0">
+			<original>与我方单位相邻且行动结束或待命时
+一定几率拾得失物（几率为“幸运”%）
+（与失物主人间的支援值将提升）</original>
+			<edited>与我方单位相邻且行动结束或待命时
+一定几率拾得失物（几率为“幸运”%）
+（与失物主人间的支援值将提升）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PickUp_Message" offset="00" relocatable="true" max_length="0">
+			<original>拾得&#xE;&#x1;&#x0;&#x0;的失物并交还给了对方</original>
+			<edited>拾得&#xE;&#x1;&#x0;&#x0;的失物并交还给了对方</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BylethEngage" offset="00" relocatable="true" max_length="0">
+			<original>指导</original>
+			<edited>指导</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngage" offset="00" relocatable="true" max_length="0">
+			<original>可使用“指导”指令
+使周围2格内我方单位依战斗类型
+提升能力值，效果持续1回合</original>
+			<edited>可使用“指导”指令
+使周围2格内我方单位依战斗类型
+提升能力值，效果持续1回合</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngage_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>可使用“指导”指令
+使周围2格内我方单位依战斗类型
+提升能力值，效果持续1回合
+【龙族】7种基本能力值+3</original>
+			<edited>可使用“指导”指令
+使周围2格内我方单位依战斗类型
+提升能力值，效果持续1回合
+【龙族】7种基本能力值+3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BylethEngage_Dragon_CMD" offset="00" relocatable="true" max_length="0">
+			<original>指导〈全〉</original>
+			<edited>指导〈全〉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngage_Dragon_CMD" offset="00" relocatable="true" max_length="0">
+			<original>周围2格内我方单位全基本能力值+3</original>
+			<edited>周围2格内我方单位全基本能力值+3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngage_Coop" offset="00" relocatable="true" max_length="0">
+			<original>可使用“指导”指令
+使周围2格内我方单位依战斗类型
+提升能力值，效果持续1回合
+【连携】力量+4</original>
+			<edited>可使用“指导”指令
+使周围2格内我方单位依战斗类型
+提升能力值，效果持续1回合
+【连携】力量+4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BylethEngage_Coop_CMD" offset="00" relocatable="true" max_length="0">
+			<original>指导〈力量〉</original>
+			<edited>指导〈力量〉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngage_Coop_CMD" offset="00" relocatable="true" max_length="0">
+			<original>周围2格内我方单位的力量+4</original>
+			<edited>周围2格内我方单位的力量+4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngage_Horse" offset="00" relocatable="true" max_length="0">
+			<original>可使用“指导”指令
+使周围2格内我方单位依战斗类型
+提升能力值，效果持续1回合
+【骑马】技巧+10</original>
+			<edited>可使用“指导”指令
+使周围2格内我方单位依战斗类型
+提升能力值，效果持续1回合
+【骑马】技巧+10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BylethEngage_Horse_CMD" offset="00" relocatable="true" max_length="0">
+			<original>指导〈技巧〉</original>
+			<edited>指导〈技巧〉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngage_Horse_CMD" offset="00" relocatable="true" max_length="0">
+			<original>周围2格内我方单位的技巧+10</original>
+			<edited>周围2格内我方单位的技巧+10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngage_Covert" offset="00" relocatable="true" max_length="0">
+			<original>可使用“指导”指令
+使周围2格内我方单位依战斗类型
+提升能力值，效果持续1回合
+【隐密】速度+5</original>
+			<edited>可使用“指导”指令
+使周围2格内我方单位依战斗类型
+提升能力值，效果持续1回合
+【隐密】速度+5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BylethEngage_Covert_CMD" offset="00" relocatable="true" max_length="0">
+			<original>指导〈速度〉</original>
+			<edited>指导〈速度〉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngage_Covert_CMD" offset="00" relocatable="true" max_length="0">
+			<original>周围2格内我方单位的速度+5</original>
+			<edited>周围2格内我方单位的速度+5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngage_Heavy" offset="00" relocatable="true" max_length="0">
+			<original>可使用“指导”指令
+使周围2格内我方单位依战斗类型
+提升能力值，效果持续1回合
+【重装】防守+5</original>
+			<edited>可使用“指导”指令
+使周围2格内我方单位依战斗类型
+提升能力值，效果持续1回合
+【重装】防守+5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BylethEngage_Heavy_CMD" offset="00" relocatable="true" max_length="0">
+			<original>指导〈防守〉</original>
+			<edited>指导〈防守〉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngage_Heavy_CMD" offset="00" relocatable="true" max_length="0">
+			<original>周围2格内我方单位的防守+5</original>
+			<edited>周围2格内我方单位的防守+5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngage_Fly" offset="00" relocatable="true" max_length="0">
+			<original>可使用“指导”指令
+使周围2格内我方单位依战斗类型
+提升能力值，效果持续1回合
+【飞行】魔防+5</original>
+			<edited>可使用“指导”指令
+使周围2格内我方单位依战斗类型
+提升能力值，效果持续1回合
+【飞行】魔防+5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BylethEngage_Fly_CMD" offset="00" relocatable="true" max_length="0">
+			<original>指导〈魔防〉</original>
+			<edited>指导〈魔防〉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngage_Fly_CMD" offset="00" relocatable="true" max_length="0">
+			<original>周围2格内我方单位的魔防+5</original>
+			<edited>周围2格内我方单位的魔防+5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngage_Magic" offset="00" relocatable="true" max_length="0">
+			<original>可使用“指导”指令
+使周围2格内我方单位依战斗类型
+提升能力值，效果持续1回合
+【魔道】魔力+4</original>
+			<edited>可使用“指导”指令
+使周围2格内我方单位依战斗类型
+提升能力值，效果持续1回合
+【魔道】魔力+4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BylethEngage_Magic_CMD" offset="00" relocatable="true" max_length="0">
+			<original>指导〈魔力〉</original>
+			<edited>指导〈魔力〉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngage_Magic_CMD" offset="00" relocatable="true" max_length="0">
+			<original>周围2格内我方单位的魔力+4</original>
+			<edited>周围2格内我方单位的魔力+4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngage_Prana" offset="00" relocatable="true" max_length="0">
+			<original>可使用“指导”指令
+使周围2格内我方单位依战斗类型
+提升能力值，效果持续1回合
+【气功】幸运+10</original>
+			<edited>可使用“指导”指令
+使周围2格内我方单位依战斗类型
+提升能力值，效果持续1回合
+【气功】幸运+10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BylethEngage_Prana_CMD" offset="00" relocatable="true" max_length="0">
+			<original>指导〈幸运〉</original>
+			<edited>指导〈幸运〉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngage_Prana_CMD" offset="00" relocatable="true" max_length="0">
+			<original>周围2格内我方单位的幸运+10</original>
+			<edited>周围2格内我方单位的幸运+10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BylethEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>计策：女神之舞</original>
+			<edited>计策：女神之舞</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>使相邻4格内的我方单位再次行动</original>
+			<edited>使相邻4格内的我方单位再次行动</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngageAtk_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>使相邻4格的我方单位再次行动
+【龙族】再次行动的我方单位
+7种基本能力值+3，效果持续1回合</original>
+			<edited>使相邻4格的我方单位再次行动
+【龙族】再次行动的我方单位
+7种基本能力值+3，效果持续1回合</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngageAtk_Coop" offset="00" relocatable="true" max_length="0">
+			<original>使相邻4格的我方单位再次行动
+【连携】再次行动的我方单位力量+4
+效果持续1回合</original>
+			<edited>使相邻4格的我方单位再次行动
+【连携】再次行动的我方单位力量+4
+效果持续1回合</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngageAtk_Horse" offset="00" relocatable="true" max_length="0">
+			<original>使相邻4格的我方单位再次行动
+【骑马】再次行动的我方单位技巧+10
+效果持续1回合</original>
+			<edited>使相邻4格的我方单位再次行动
+【骑马】再次行动的我方单位技巧+10
+效果持续1回合</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngageAtk_Covert" offset="00" relocatable="true" max_length="0">
+			<original>使相邻4格的我方单位再次行动
+【隐密】再次行动的我方单位速度+5
+效果持续1回合</original>
+			<edited>使相邻4格的我方单位再次行动
+【隐密】再次行动的我方单位速度+5
+效果持续1回合</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngageAtk_Heavy" offset="00" relocatable="true" max_length="0">
+			<original>使相邻4格的我方单位再次行动
+【重装】再次行动的我方单位防守+5
+效果持续1回合</original>
+			<edited>使相邻4格的我方单位再次行动
+【重装】再次行动的我方单位防守+5
+效果持续1回合</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngageAtk_Fly" offset="00" relocatable="true" max_length="0">
+			<original>使相邻4格的我方单位再次行动
+【飞行】再次行动的我方单位魔防+5
+效果持续1回合</original>
+			<edited>使相邻4格的我方单位再次行动
+【飞行】再次行动的我方单位魔防+5
+效果持续1回合</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngageAtk_Magic" offset="00" relocatable="true" max_length="0">
+			<original>使相邻4格的我方单位再次行动
+【魔道】再次行动的我方单位魔力+4
+效果持续1回合</original>
+			<edited>使相邻4格的我方单位再次行动
+【魔道】再次行动的我方单位魔力+4
+效果持续1回合</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngageAtk_Prana" offset="00" relocatable="true" max_length="0">
+			<original>使相邻4格的我方单位再次行动
+【气功】再次行动的我方单位幸运+10
+效果持续1回合</original>
+			<edited>使相邻4格的我方单位再次行动
+【气功】再次行动的我方单位幸运+10
+效果持续1回合</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngageAtk_CMD" offset="00" relocatable="true" max_length="0">
+			<original>使相邻4格内的我方单位再次行动</original>
+			<edited>使相邻4格内的我方单位再次行动</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_M014_BylethEngageAtk_DarkSide" offset="00" relocatable="true" max_length="0">
+			<original>计策：邪神之舞</original>
+			<edited>计策：邪神之舞</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_M014_BylethEngageAtk_DarkSide" offset="00" relocatable="true" max_length="0">
+			<original>使周围2格内的我方单位再次行动</original>
+			<edited>使周围2格内的我方单位再次行动</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_DragonPulse" offset="00" relocatable="true" max_length="0">
+			<original>龙脉</original>
+			<edited>龙脉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonPulse" offset="00" relocatable="true" max_length="0">
+			<original>可使用“龙脉”指令
+对格子赋予特殊效果</original>
+			<edited>可使用“龙脉”指令
+对格子赋予特殊效果</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonPulse_CMD" offset="00" relocatable="true" max_length="0">
+			<original>对格子赋予特殊效果。</original>
+			<edited>对格子赋予特殊效果。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonPulse_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>可使用“龙脉”指令
+对格子赋予特殊效果
+【龙族】可赋予全种类的龙脉</original>
+			<edited>可使用“龙脉”指令
+对格子赋予特殊效果
+【龙族】可赋予全种类的龙脉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_DragonPulse_DefUp" offset="00" relocatable="true" max_length="0">
+			<original>龙脉&lt;护&gt;</original>
+			<edited>龙脉&lt;护&gt;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonPulse_DefUp" offset="00" relocatable="true" max_length="0">
+			<original>创造出具有防守、魔防提升效果的土柱。</original>
+			<edited>创造出具有防守、魔防提升效果的土柱。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonPulse_Coop" offset="00" relocatable="true" max_length="0">
+			<original>可使用“龙脉〈护〉”指令
+对格子赋予特殊效果
+【连携】创造出具有防守、魔防
+提升效果的土柱</original>
+			<edited>可使用“龙脉〈护〉”指令
+对格子赋予特殊效果
+【连携】创造出具有防守、魔防
+提升效果的土柱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_DragonPulse_AvoDown" offset="00" relocatable="true" max_length="0">
+			<original>龙脉&lt;水&gt;</original>
+			<edited>龙脉&lt;水&gt;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonPulse_AvoDown" offset="00" relocatable="true" max_length="0">
+			<original>创造出具有回避降低效果的水洼</original>
+			<edited>创造出具有回避降低效果的水洼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonPulse_Horse" offset="00" relocatable="true" max_length="0">
+			<original>可使用“龙脉〈水〉”指令
+对格子赋予特殊效果
+【骑马】创造出具有回避降低效果的水洼</original>
+			<edited>可使用“龙脉〈水〉”指令
+对格子赋予特殊效果
+【骑马】创造出具有回避降低效果的水洼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_DragonPulse_AvoUp" offset="00" relocatable="true" max_length="0">
+			<original>龙脉&lt;雾&gt;</original>
+			<edited>龙脉&lt;雾&gt;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonPulse_AvoUp" offset="00" relocatable="true" max_length="0">
+			<original>创造出具有回避提升效果的雾气</original>
+			<edited>创造出具有回避提升效果的雾气</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonPulse_Covert" offset="00" relocatable="true" max_length="0">
+			<original>可使用“龙脉〈雾〉”指令
+对格子赋予特殊效果
+【隐密】创造出具有回避提升效果的雾气</original>
+			<edited>可使用“龙脉〈雾〉”指令
+对格子赋予特殊效果
+【隐密】创造出具有回避提升效果的雾气</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_DragonPulse_NotBreak" offset="00" relocatable="true" max_length="0">
+			<original>龙脉&lt;绿&gt;</original>
+			<edited>龙脉&lt;绿&gt;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonPulse_NotBreak" offset="00" relocatable="true" max_length="0">
+			<original>创造出使打破效果无效的藤蔓</original>
+			<edited>创造出使打破效果无效的藤蔓</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonPulse_Heavy" offset="00" relocatable="true" max_length="0">
+			<original>可使用“龙脉〈绿〉”指令
+对格子赋予特殊效果
+【重装】创造出使打破效果无效的藤蔓</original>
+			<edited>可使用“龙脉〈绿〉”指令
+对格子赋予特殊效果
+【重装】创造出使打破效果无效的藤蔓</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_DragonPulse_Heal" offset="00" relocatable="true" max_length="0">
+			<original>龙脉&lt;愈&gt;</original>
+			<edited>龙脉&lt;愈&gt;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonPulse_Heal" offset="00" relocatable="true" max_length="0">
+			<original>创造出具有HP回复效果的治愈之雾</original>
+			<edited>创造出具有HP回复效果的治愈之雾</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonPulse_Fly" offset="00" relocatable="true" max_length="0">
+			<original>可使用“龙脉〈愈〉”指令
+对格子赋予特殊效果
+【飞行】创造出具有HP回复效果的治愈之雾</original>
+			<edited>可使用“龙脉〈愈〉”指令
+对格子赋予特殊效果
+【飞行】创造出具有HP回复效果的治愈之雾</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_DragonPulse_Damage" offset="00" relocatable="true" max_length="0">
+			<original>龙脉&lt;炎&gt;</original>
+			<edited>龙脉&lt;炎&gt;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonPulse_Damage" offset="00" relocatable="true" max_length="0">
+			<original>创造出具有伤害效果的火焰</original>
+			<edited>创造出具有伤害效果的火焰</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonPulse_Magic" offset="00" relocatable="true" max_length="0">
+			<original>可使用“龙脉〈炎〉”指令
+对格子赋予特殊效果
+【魔道】创造出具有伤害效果的火焰</original>
+			<edited>可使用“龙脉〈炎〉”指令
+对格子赋予特殊效果
+【魔道】创造出具有伤害效果的火焰</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_DragonPulse_Block" offset="00" relocatable="true" max_length="0">
+			<original>龙脉&lt;冰&gt;</original>
+			<edited>龙脉&lt;冰&gt;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonPulse_Block" offset="00" relocatable="true" max_length="0">
+			<original>创造出阻挡去路的冰柱</original>
+			<edited>创造出阻挡去路的冰柱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonPulse_Prana" offset="00" relocatable="true" max_length="0">
+			<original>可使用“龙脉〈冰〉”指令
+对格子赋予特殊效果
+【气功】创造出阻挡去路的冰柱</original>
+			<edited>可使用“龙脉〈冰〉”指令
+对格子赋予特殊效果
+【气功】创造出阻挡去路的冰柱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_DragonCurse" offset="00" relocatable="true" max_length="0">
+			<original>龙咒</original>
+			<edited>龙咒</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonCurse" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击后
+对方的全基本能力值-4
+（效果随时间递减，每回合回复1）</original>
+			<edited>自身发动攻击后
+对方的全基本能力值-4
+（效果随时间递减，每回合回复1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_DefenseStyle" offset="00" relocatable="true" max_length="0">
+			<original>防阵</original>
+			<edited>防阵</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DefenseStyle" offset="00" relocatable="true" max_length="0">
+			<original>使敌人的连锁攻击无效</original>
+			<edited>使敌人的连锁攻击无效</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PhysicalContact_1" offset="00" relocatable="true" max_length="0">
+			<original>身体接触</original>
+			<edited>身体接触</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PhysicalContact_1" offset="00" relocatable="true" max_length="0">
+			<original>行动结束或待命时
+回复相邻我方单位5HP
+并稍微提升支援值</original>
+			<edited>行动结束或待命时
+回复相邻我方单位5HP
+并稍微提升支援值</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PhysicalContact_2" offset="00" relocatable="true" max_length="0">
+			<original>身体接触+</original>
+			<edited>身体接触+</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PhysicalContact_2" offset="00" relocatable="true" max_length="0">
+			<original>行动结束或待命时
+回复相邻我方单位10HP
+并稍微提升支援值</original>
+			<edited>行动结束或待命时
+回复相邻我方单位10HP
+并稍微提升支援值</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_KamuiEngage" offset="00" relocatable="true" max_length="0">
+			<original>咒缚</original>
+			<edited>咒缚</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_KamuiEngage" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击后，对方与其周围
+1格的敌人将无法移动1回合</original>
+			<edited>自身发动攻击后，对方与其周围
+1格的敌人将无法移动1回合</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_KamuiEngage_Covert" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击后，对方与其周围
+1格的敌人将无法移动1回合
+【隐密】对方的回避额外-20</original>
+			<edited>自身发动攻击后，对方与其周围
+1格的敌人将无法移动1回合
+【隐密】对方的回避额外-20</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_KamuiEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>龙穿炮</original>
+			<edited>龙穿炮</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_KamuiEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>使用水之力攻击直向3格
+并使格子化为“水洼”
+仅限相邻</original>
+			<edited>使用水之力攻击直向3格
+并使格子化为“水洼”
+仅限相邻</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_KamuiEngageAtk_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>使用水之力攻击直向3格
+并使格子化为“水洼”，仅限相邻
+【龙族】攻击范围+1</original>
+			<edited>使用水之力攻击直向3格
+并使格子化为“水洼”，仅限相邻
+【龙族】攻击范围+1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_KamuiEngageAtk_CMD" offset="00" relocatable="true" max_length="0">
+			<original>使用水之力攻击直向复数格</original>
+			<edited>使用水之力攻击直向复数格</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_God_Change_CMD" offset="00" relocatable="true" max_length="0">
+			<original>交替</original>
+			<edited>交替</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_God_Change" offset="00" relocatable="true" max_length="0">
+			<original>可使用“交替”指令
+通过替换纹章士来切换我方全员的
+“月之手镯”“优风”与
+“太阳之手镯”“勇空”</original>
+			<edited>可使用“交替”指令
+通过替换纹章士来切换我方全员的
+“月之手镯”“优风”与
+“太阳之手镯”“勇空”</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_God_Change_CMD" offset="00" relocatable="true" max_length="0">
+			<original>替换纹章士</original>
+			<edited>替换纹章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MoonBracelet_1" offset="00" relocatable="true" max_length="0">
+			<original>月之手镯</original>
+			<edited>月之手镯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MoonBracelet_1" offset="00" relocatable="true" max_length="0">
+			<original>自身发动物理攻击时
+将对方防守的20%加计至伤害</original>
+			<edited>自身发动物理攻击时
+将对方防守的20%加计至伤害</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MoonBracelet_2" offset="00" relocatable="true" max_length="0">
+			<original>月之手镯+</original>
+			<edited>月之手镯+</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MoonBracelet_2" offset="00" relocatable="true" max_length="0">
+			<original>自身发动物理攻击时
+将对方防守的30%加计至伤害</original>
+			<edited>自身发动物理攻击时
+将对方防守的30%加计至伤害</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SunBracelet_1" offset="00" relocatable="true" max_length="0">
+			<original>太阳之手镯</original>
+			<edited>太阳之手镯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SunBracelet_1" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击时
+可回复造成伤害30%的HP</original>
+			<edited>自身发动攻击时
+可回复造成伤害30%的HP</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SunBracelet_2" offset="00" relocatable="true" max_length="0">
+			<original>太阳之手镯+</original>
+			<edited>太阳之手镯+</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SunBracelet_2" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击时
+可回复造成伤害50%的HP</original>
+			<edited>自身发动攻击时
+可回复造成伤害50%的HP</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SunMoonBracelet_1" offset="00" relocatable="true" max_length="0">
+			<original>日月手镯</original>
+			<edited>日月手镯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SunMoonBracelet_1" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击时
+可回复造成伤害30%的HP
+若发动的攻击为物理攻击时
+将对方防守的20%加计至伤害</original>
+			<edited>自身发动攻击时
+可回复造成伤害30%的HP
+若发动的攻击为物理攻击时
+将对方防守的20%加计至伤害</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SunMoonBracelet_2" offset="00" relocatable="true" max_length="0">
+			<original>日月手镯+</original>
+			<edited>日月手镯+</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SunMoonBracelet_2" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击时
+可回复造成伤害50%的HP
+若发动的攻击为物理攻击时
+将对方防守的30%加计至伤害</original>
+			<edited>自身发动攻击时
+可回复造成伤害50%的HP
+若发动的攻击为物理攻击时
+将对方防守的30%加计至伤害</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_GentleWind_1" offset="00" relocatable="true" max_length="0">
+			<original>优风</original>
+			<edited>优风</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_GentleWind_1" offset="00" relocatable="true" max_length="0">
+			<original>所受伤害-3</original>
+			<edited>所受伤害-3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_GentleWind_2" offset="00" relocatable="true" max_length="0">
+			<original>优风+</original>
+			<edited>优风+</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_GentleWind_2" offset="00" relocatable="true" max_length="0">
+			<original>所受伤害-5</original>
+			<edited>所受伤害-5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BraveSky_1" offset="00" relocatable="true" max_length="0">
+			<original>勇空</original>
+			<edited>勇空</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BraveSky_1" offset="00" relocatable="true" max_length="0">
+			<original>造成伤害+3</original>
+			<edited>造成伤害+3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BraveSky_2" offset="00" relocatable="true" max_length="0">
+			<original>勇空+</original>
+			<edited>勇空+</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BraveSky_2" offset="00" relocatable="true" max_length="0">
+			<original>造成伤害+5</original>
+			<edited>造成伤害+5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Azure_1" offset="00" relocatable="true" max_length="0">
+			<original>苍穹</original>
+			<edited>苍穹</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Azure_1" offset="00" relocatable="true" max_length="0">
+			<original>所受伤害-3
+造成伤害+3</original>
+			<edited>所受伤害-3
+造成伤害+3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Azure_2" offset="00" relocatable="true" max_length="0">
+			<original>苍穹+</original>
+			<edited>苍穹+</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Azure_2" offset="00" relocatable="true" max_length="0">
+			<original>所受伤害-5
+造成伤害+5</original>
+			<edited>所受伤害-5
+造成伤害+5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_EirikEngage" offset="00" relocatable="true" max_length="0">
+			<original>双圣</original>
+			<edited>双圣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EirikEngage" offset="00" relocatable="true" max_length="0">
+			<original>与艾莉可结合时，使我方全员的
+“月之手镯”切换为“日月手镯”
+“优风”切换为“苍穹”</original>
+			<edited>与艾莉可结合时，使我方全员的
+“月之手镯”切换为“日月手镯”
+“优风”切换为“苍穹”</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_EirikEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>双流</original>
+			<edited>双流</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EirikEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>与艾夫拉姆合力施展连续攻击
+仅限持剑且相邻时
+（艾夫拉姆为枪攻击，可克制异形）</original>
+			<edited>与艾夫拉姆合力施展连续攻击
+仅限持剑且相邻时
+（艾夫拉姆为枪攻击，可克制异形）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EirikEngageAtk_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>与艾夫拉姆合力施展连续攻击
+仅限持剑且相邻时
+（艾夫拉姆为枪攻击，可克制异形）
+【龙族】伤害增为120%</original>
+			<edited>与艾夫拉姆合力施展连续攻击
+仅限持剑且相邻时
+（艾夫拉姆为枪攻击，可克制异形）
+【龙族】伤害增为120%</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EirikEngageAtk_Horse" offset="00" relocatable="true" max_length="0">
+			<original>与艾夫拉姆合力施展连续攻击
+仅限持剑且相邻时
+（艾夫拉姆为枪攻击，可克制异形）
+【骑马】艾夫拉姆的攻击伤害增为150%</original>
+			<edited>与艾夫拉姆合力施展连续攻击
+仅限持剑且相邻时
+（艾夫拉姆为枪攻击，可克制异形）
+【骑马】艾夫拉姆的攻击伤害增为150%</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EirikEngageAtk_CMD" offset="00" relocatable="true" max_length="0">
+			<original>与艾夫拉姆合力施展连击</original>
+			<edited>与艾夫拉姆合力施展连击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_EvilDragonSpecialEffect" offset="00" relocatable="true" max_length="0">
+			<original>邪龙有效</original>
+			<edited>邪龙有效</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EvilDragonSpecialEffect" offset="00" relocatable="true" max_length="0">
+			<original>自身的攻击将获得邪龙有效的效果
+若周围2格内的我方单位持有克制龙的武器
+该武器也能获得邪龙有效的效果</original>
+			<edited>自身的攻击将获得邪龙有效的效果
+若周围2格内的我方单位持有克制龙的武器
+该武器也能获得邪龙有效的效果</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_GodDragonProtection" offset="00" relocatable="true" max_length="0">
+			<original>神龙加护</original>
+			<edited>神龙加护</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_GodDragonProtection" offset="00" relocatable="true" max_length="0">
+			<original>使所有对自身的克制效果无效</original>
+			<edited>使所有对自身的克制效果无效</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_ConnectPerson_1" offset="00" relocatable="true" max_length="0">
+			<original>系承牵绊者</original>
+			<edited>系承牵绊者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_ConnectPerson_1" offset="00" relocatable="true" max_length="0">
+			<original>使自己和周围2格内
+同步或结合中的我方单位
+命中、回避+20</original>
+			<edited>使自己和周围2格内
+同步或结合中的我方单位
+命中、回避+20</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_ConnectPerson_2" offset="00" relocatable="true" max_length="0">
+			<original>系承牵绊者+</original>
+			<edited>系承牵绊者+</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_ConnectPerson_2" offset="00" relocatable="true" max_length="0">
+			<original>使自己和周围2格内
+同步或结合中的我方单位
+命中、回避+30</original>
+			<edited>使自己和周围2格内
+同步或结合中的我方单位
+命中、回避+30</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BlessingOfEleos" offset="00" relocatable="true" max_length="0">
+			<original>艾雷欧斯的祝福</original>
+			<edited>艾雷欧斯的祝福</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BlessingOfEleos" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击时
+自身的必杀及必避提升，
+幅度为结束行动的我方单位总数×2</original>
+			<edited>自身发动攻击时
+自身的必杀及必避提升，
+幅度为结束行动的我方单位总数×2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LueurEngage" offset="00" relocatable="true" max_length="0">
+			<original>以心</original>
+			<edited>以心</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngage" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击并打倒敌人时
+结合解除前,结合对象的全基本能力值+4</original>
+			<edited>自身发动攻击并打倒敌人时
+结合解除前,结合对象的全基本能力值+4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngage_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击并打倒敌人时
+结合解除前,结合对象的全基本能力值+4
+【龙族】7种基本能力值额外+1</original>
+			<edited>自身发动攻击并打倒敌人时
+结合解除前,结合对象的全基本能力值+4
+【龙族】7种基本能力值额外+1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngage_Coop" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击并打倒敌人时
+结合解除前,结合对象的全基本能力值+4
+【连携】力量额外+2</original>
+			<edited>自身发动攻击并打倒敌人时
+结合解除前,结合对象的全基本能力值+4
+【连携】力量额外+2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngage_Horse" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击并打倒敌人时
+结合解除前,结合对象的全基本能力值+4
+【骑马】技巧额外+2</original>
+			<edited>自身发动攻击并打倒敌人时
+结合解除前,结合对象的全基本能力值+4
+【骑马】技巧额外+2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngage_Covert" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击并打倒敌人时
+结合解除前,结合对象的全基本能力值+4
+【隐密】速度额外+2</original>
+			<edited>自身发动攻击并打倒敌人时
+结合解除前,结合对象的全基本能力值+4
+【隐密】速度额外+2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngage_Heavy" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击并打倒敌人时
+结合解除前,结合对象的全基本能力值+4
+【重装】防守额外+2</original>
+			<edited>自身发动攻击并打倒敌人时
+结合解除前,结合对象的全基本能力值+4
+【重装】防守额外+2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngage_Fly" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击并打倒敌人时
+结合解除前,结合对象的全基本能力值+4
+【飞行】魔防额外+2</original>
+			<edited>自身发动攻击并打倒敌人时
+结合解除前,结合对象的全基本能力值+4
+【飞行】魔防额外+2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngage_Magic" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击并打倒敌人时
+结合解除前，结合对象的全基本能力值+4
+【魔道】魔力额外+2</original>
+			<edited>自身发动攻击并打倒敌人时
+结合解除前，结合对象的全基本能力值+4
+【魔道】魔力额外+2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngage_Prana" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击并打倒敌人时
+结合解除前,结合对象的全基本能力值+4
+【气功】幸运额外+2</original>
+			<edited>自身发动攻击并打倒敌人时
+结合解除前,结合对象的全基本能力值+4
+【气功】幸运额外+2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LueurEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>神龙破</original>
+			<edited>神龙破</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>剑与光束（魔法）的组合攻击
+仅限持剑且相邻时</original>
+			<edited>剑与光束（魔法）的组合攻击
+仅限持剑且相邻时</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngageAtk_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>剑与光束（魔法）的组合攻击
+仅限持剑且相邻时
+【龙族】伤害增至120%</original>
+			<edited>剑与光束（魔法）的组合攻击
+仅限持剑且相邻时
+【龙族】伤害增至120%</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngageAtk_Coop" offset="00" relocatable="true" max_length="0">
+			<original>剑与光束（魔法）的组合攻击
+仅限持剑且相邻时
+【连携】将力量的20%加计至剑攻击伤害</original>
+			<edited>剑与光束（魔法）的组合攻击
+仅限持剑且相邻时
+【连携】将力量的20%加计至剑攻击伤害</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngageAtk_Magic" offset="00" relocatable="true" max_length="0">
+			<original>剑与光束（魔法）的组合攻击
+仅限持剑且相邻时
+【魔道】将魔力的20%加计至光束攻击伤害</original>
+			<edited>剑与光束（魔法）的组合攻击
+仅限持剑且相邻时
+【魔道】将魔力的20%加计至光束攻击伤害</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngageAtk_Prana" offset="00" relocatable="true" max_length="0">
+			<original>剑与光束（魔法）的组合攻击
+仅限持剑且相邻时
+【气功】必定打破</original>
+			<edited>剑与光束（魔法）的组合攻击
+仅限持剑且相邻时
+【气功】必定打破</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngageAtk_CMD" offset="00" relocatable="true" max_length="0">
+			<original>剑与光束的组合攻击</original>
+			<edited>剑与光束的组合攻击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LueurEngageAtk_p" offset="00" relocatable="true" max_length="0">
+			<original>牵绊·神龙破</original>
+			<edited>牵绊·神龙破</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngageAtk_p" offset="00" relocatable="true" max_length="0">
+			<original>与结合对象合力施展剑与光束（魔法）的
+3连攻击
+仅限持剑且相邻时</original>
+			<edited>与结合对象合力施展剑与光束（魔法）的
+3连攻击
+仅限持剑且相邻时</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngageAtk_p_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>与结合对象联手施展剑与光束（魔法）的
+3连攻击
+仅限持剑且相邻时
+【龙族】伤害增至120%</original>
+			<edited>与结合对象联手施展剑与光束（魔法）的
+3连攻击
+仅限持剑且相邻时
+【龙族】伤害增至120%</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngageAtk_p_Coop" offset="00" relocatable="true" max_length="0">
+			<original>与结合对象联手施展剑与光束（魔法）的
+3连攻击
+仅限持剑且相邻时
+【连携】将力量的20%加计至剑攻击伤害</original>
+			<edited>与结合对象联手施展剑与光束（魔法）的
+3连攻击
+仅限持剑且相邻时
+【连携】将力量的20%加计至剑攻击伤害</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngageAtk_p_Magic" offset="00" relocatable="true" max_length="0">
+			<original>与结合对象联手施展剑与光束（魔法）的
+3连攻击
+仅限持剑且相邻时
+【魔道】将魔力的20%加计至光束攻击伤害</original>
+			<edited>与结合对象联手施展剑与光束（魔法）的
+3连攻击
+仅限持剑且相邻时
+【魔道】将魔力的20%加计至光束攻击伤害</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngageAtk_p_Prana" offset="00" relocatable="true" max_length="0">
+			<original>与结合对象联手施展剑与光束（魔法）的
+3连攻击
+仅限持剑且相邻时
+【气功】必定打破</original>
+			<edited>与结合对象联手施展剑与光束（魔法）的
+3连攻击
+仅限持剑且相邻时
+【气功】必定打破</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngageAtk_p_CMD" offset="00" relocatable="true" max_length="0">
+			<original>与结合对象合力施展3连击</original>
+			<edited>与结合对象合力施展3连击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Lueur" offset="00" relocatable="true" max_length="0">
+			<original>神龙团结</original>
+			<edited>神龙团结</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Lueur" offset="00" relocatable="true" max_length="0">
+			<original>相邻我方单位的造成伤害+3
+所受伤害-1</original>
+			<edited>相邻我方单位的造成伤害+3
+所受伤害-1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Vandre" offset="00" relocatable="true" max_length="0">
+			<original>白之忠诚</original>
+			<edited>白之忠诚</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Vandre" offset="00" relocatable="true" max_length="0">
+			<original>与主角相邻时
+主角与自身的必杀+5</original>
+			<edited>与主角相邻时
+主角与自身的必杀+5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Clan" offset="00" relocatable="true" max_length="0">
+			<original>碧之信仰</original>
+			<edited>碧之信仰</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Clan" offset="00" relocatable="true" max_length="0">
+			<original>与主角相邻时
+主角与自身的命中+10</original>
+			<edited>与主角相邻时
+主角与自身的命中+10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Fran" offset="00" relocatable="true" max_length="0">
+			<original>绯红声援</original>
+			<edited>绯红声援</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Fran" offset="00" relocatable="true" max_length="0">
+			<original>与主角相邻时
+主角与自身的回避+10</original>
+			<edited>与主角相邻时
+主角与自身的回避+10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Alfred" offset="00" relocatable="true" max_length="0">
+			<original>自己钻研</original>
+			<edited>自己钻研</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Alfred" offset="00" relocatable="true" max_length="0">
+			<original>不展开战斗及不使用道具便待命时
+力量+2，效果持续1回合</original>
+			<edited>不展开战斗及不使用道具便待命时
+力量+2，效果持续1回合</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Boucheron" offset="00" relocatable="true" max_length="0">
+			<original>泪腺崩坏</original>
+			<edited>泪腺崩坏</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Boucheron" offset="00" relocatable="true" max_length="0">
+			<original>自身的战斗中
+若有我方单位参与连锁攻击
+自身的造成伤害+2</original>
+			<edited>自身的战斗中
+若有我方单位参与连锁攻击
+自身的造成伤害+2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Atie" offset="00" relocatable="true" max_length="0">
+			<original>肌肉增强剂</original>
+			<edited>肌肉增强剂</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Atie" offset="00" relocatable="true" max_length="0">
+			<original>使用HP回复道具时
+力量+2，效果持续1回合</original>
+			<edited>使用HP回复道具时
+力量+2，效果持续1回合</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Celine" offset="00" relocatable="true" max_length="0">
+			<original>和平之花</original>
+			<edited>和平之花</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Celine" offset="00" relocatable="true" max_length="0">
+			<original>周围2格内的我方单位
+使用HP回复道具时，回复量为150%</original>
+			<edited>周围2格内的我方单位
+使用HP回复道具时，回复量为150%</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Chloe" offset="00" relocatable="true" max_length="0">
+			<original>二人如画</original>
+			<edited>二人如画</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Chloe" offset="00" relocatable="true" max_length="0">
+			<original>若周围2格内有2位我方男女单位相邻
+造成伤害+2</original>
+			<edited>若周围2格内有2位我方男女单位相邻
+造成伤害+2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Louis" offset="00" relocatable="true" max_length="0">
+			<original>花园门卫</original>
+			<edited>花园门卫</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Louis" offset="00" relocatable="true" max_length="0">
+			<original>若周围2格内有2位我方女性单位相邻
+所受伤害-2</original>
+			<edited>若周围2格内有2位我方女性单位相邻
+所受伤害-2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Diamand" offset="00" relocatable="true" max_length="0">
+			<original>正面对决</original>
+			<edited>正面对决</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Diamand" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击时，
+若对方可反击，则双方的命中+15</original>
+			<edited>自身发动攻击时，
+若对方可反击，则双方的命中+15</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Umber" offset="00" relocatable="true" max_length="0">
+			<original>报上名号</original>
+			<edited>报上名号</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Umber" offset="00" relocatable="true" max_length="0">
+			<original>若自身与敌人
+周围1格内无其他单位
+命中+20、回避-10</original>
+			<edited>若自身与敌人
+周围1格内无其他单位
+命中+20、回避-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Jade" offset="00" relocatable="true" max_length="0">
+			<original>冥想</original>
+			<edited>冥想</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Jade" offset="00" relocatable="true" max_length="0">
+			<original>不展开战斗及不使用道具便待命时
+魔防+2，效果持续1回合</original>
+			<edited>不展开战斗及不使用道具便待命时
+魔防+2，效果持续1回合</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Staluke" offset="00" relocatable="true" max_length="0">
+			<original>由我守护！</original>
+			<edited>由我守护！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Staluke" offset="00" relocatable="true" max_length="0">
+			<original>周围2格内的我方单位受到攻击时
+力量+3，效果持续1回合</original>
+			<edited>周围2格内的我方单位受到攻击时
+力量+3，效果持续1回合</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Lapis" offset="00" relocatable="true" max_length="0">
+			<original>战果转让</original>
+			<edited>战果转让</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Lapis" offset="00" relocatable="true" max_length="0">
+			<original>周围1格内有我方单位时
+命中+10、回避+10、必杀-10</original>
+			<edited>周围1格内有我方单位时
+命中+10、回避+10、必杀-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Citrinica" offset="00" relocatable="true" max_length="0">
+			<original>盛宴款待</original>
+			<edited>盛宴款待</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Citrinica" offset="00" relocatable="true" max_length="0">
+			<original>使用HP回复道具时
+周围1格的我方单位也能获得等量HP</original>
+			<edited>使用HP回复道具时
+周围1格的我方单位也能获得等量HP</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Ivy" offset="00" relocatable="true" max_length="0">
+			<original>执着</original>
+			<edited>执着</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Ivy" offset="00" relocatable="true" max_length="0">
+			<original>与相同敌人连续战斗时
+命中+20</original>
+			<edited>与相同敌人连续战斗时
+命中+20</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Zelkova" offset="00" relocatable="true" max_length="0">
+			<original>没有“下次”</original>
+			<edited>没有“下次”</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Zelkova" offset="00" relocatable="true" max_length="0">
+			<original>受到敌人攻击时
+敌人的命中-10</original>
+			<edited>受到敌人攻击时
+敌人的命中-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Kagetsu" offset="00" relocatable="true" max_length="0">
+			<original>光彩夺目！</original>
+			<edited>光彩夺目！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Kagetsu" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击时
+敌人的回避-10</original>
+			<edited>自身发动攻击时
+敌人的回避-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Hortensia" offset="00" relocatable="true" max_length="0">
+			<original>辉煌原力</original>
+			<edited>辉煌原力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Hortensia" offset="00" relocatable="true" max_length="0">
+			<original>使用回复杖时，射程+1</original>
+			<edited>使用回复杖时，射程+1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Rosado" offset="00" relocatable="true" max_length="0">
+			<original>微笑</original>
+			<edited>微笑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Rosado" offset="00" relocatable="true" max_length="0">
+			<original>若敌人为男性单位，敌人的回避-20</original>
+			<edited>若敌人为男性单位，敌人的回避-20</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Goldmary" offset="00" relocatable="true" max_length="0">
+			<original>叹息</original>
+			<edited>叹息</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Goldmary" offset="00" relocatable="true" max_length="0">
+			<original>若敌人为男性单位，敌人的命中-20</original>
+			<edited>若敌人为男性单位，敌人的命中-20</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Misutira" offset="00" relocatable="true" max_length="0">
+			<original>索尔姆的噪音</original>
+			<edited>索尔姆的噪音</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Misutira" offset="00" relocatable="true" max_length="0">
+			<original>周围3格内，敌人的必杀-5</original>
+			<edited>周围3格内，敌人的必杀-5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Merin" offset="00" relocatable="true" max_length="0">
+			<original>护航</original>
+			<edited>护航</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Merin" offset="00" relocatable="true" max_length="0">
+			<original>若自身周围2格内
+有2位以上的我方女性单位
+该单位与自身的命中、回避+5
+</original>
+			<edited>若自身周围2格内
+有2位以上的我方女性单位
+该单位与自身的命中、回避+5
+</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Panetone" offset="00" relocatable="true" max_length="0">
+			<original>战之血</original>
+			<edited>战之血</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Panetone" offset="00" relocatable="true" max_length="0">
+			<original>HP未达最大值时
+必杀+10</original>
+			<edited>HP未达最大值时
+必杀+10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Fogato" offset="00" relocatable="true" max_length="0">
+			<original>八面玲珑</original>
+			<edited>八面玲珑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Fogato" offset="00" relocatable="true" max_length="0">
+			<original>与相同敌人连续战斗时
+敌人的必杀-10</original>
+			<edited>与相同敌人连续战斗时
+敌人的必杀-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Pandoro" offset="00" relocatable="true" max_length="0">
+			<original>大集会</original>
+			<edited>大集会</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Pandoro" offset="00" relocatable="true" max_length="0">
+			<original>自身的命中、回避提升
+幅度为周围2格内的敌我双方单位总数×3</original>
+			<edited>自身的命中、回避提升
+幅度为周围2格内的敌我双方单位总数×3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Bonet" offset="00" relocatable="true" max_length="0">
+			<original>料理再现</original>
+			<edited>料理再现</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Bonet" offset="00" relocatable="true" max_length="0">
+			<original>食用便当时，一定几率获得相同的便当
+（几率为“幸运”%）</original>
+			<edited>食用便当时，一定几率获得相同的便当
+（几率为“幸运”%）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Anna" offset="00" relocatable="true" max_length="0">
+			<original>一夕致富</original>
+			<edited>一夕致富</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Anna" offset="00" relocatable="true" max_length="0">
+			<original>打倒敌人时，一定几率获得500G
+（几率为“幸运”%）</original>
+			<edited>打倒敌人时，一定几率获得500G
+（几率为“幸运”%）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Jean" offset="00" relocatable="true" max_length="0">
+			<original>努力才能</original>
+			<edited>努力才能</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Jean" offset="00" relocatable="true" max_length="0">
+			<original>等级提升时
+基本能力值较容易上升</original>
+			<edited>等级提升时
+基本能力值较容易上升</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Yunaka" offset="00" relocatable="true" max_length="0">
+			<original>杀人技术</original>
+			<edited>杀人技术</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Yunaka" offset="00" relocatable="true" max_length="0">
+			<original>于回避地形发动攻击时
+必杀+15</original>
+			<edited>于回避地形发动攻击时
+必杀+15</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Seadas" offset="00" relocatable="true" max_length="0">
+			<original>神秘舞蹈</original>
+			<edited>神秘舞蹈</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Seadas" offset="00" relocatable="true" max_length="0">
+			<original>回合开始时
+回复自身周围2格内的我方单位
+回复量为各单位HP最大值的10%</original>
+			<edited>回合开始时
+回复自身周围2格内的我方单位
+回复量为各单位HP最大值的10%</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Linden" offset="00" relocatable="true" max_length="0">
+			<original>身经百战的直觉</original>
+			<edited>身经百战的直觉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Linden" offset="00" relocatable="true" max_length="0">
+			<original>自身装备的武器等级
+低于对方时，必杀+20</original>
+			<edited>自身装备的武器等级
+低于对方时，必杀+20</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Saphir" offset="00" relocatable="true" max_length="0">
+			<original>求胜意志</original>
+			<edited>求胜意志</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Saphir" offset="00" relocatable="true" max_length="0">
+			<original>HP为50%以下时
+命中、回避+20</original>
+			<edited>HP为50%以下时
+命中、回避+20</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Veyre" offset="00" relocatable="true" max_length="0">
+			<original>邪龙的救济</original>
+			<edited>邪龙的救济</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Veyre" offset="00" relocatable="true" max_length="0">
+			<original>相邻我方单位造成的伤害+1
+所受伤害-3</original>
+			<edited>相邻我方单位造成的伤害+1
+所受伤害-3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Mauve" offset="00" relocatable="true" max_length="0">
+			<original>蓄势待发</original>
+			<edited>蓄势待发</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Mauve" offset="00" relocatable="true" max_length="0">
+			<original>不展开战斗及不使用道具便待命时
+防守+2，效果持续1回合</original>
+			<edited>不展开战斗及不使用道具便待命时
+防守+2，效果持续1回合</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_SwordMaster" offset="00" relocatable="true" max_length="0">
+			<original>破敌斩</original>
+			<edited>破敌斩</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_SwordMaster" offset="00" relocatable="true" max_length="0">
+			<original>可使用“破敌斩”指令
+与相邻敌人战斗后，移动至敌人的另一侧</original>
+			<edited>可使用“破敌斩”指令
+与相邻敌人战斗后，移动至敌人的另一侧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_SwordMaster_CMD" offset="00" relocatable="true" max_length="0">
+			<original>与相邻敌人战斗后，移动至其另一侧</original>
+			<edited>与相邻敌人战斗后，移动至其另一侧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_BraveHero" offset="00" relocatable="true" max_length="0">
+			<original>帮手</original>
+			<edited>帮手</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_BraveHero" offset="00" relocatable="true" max_length="0">
+			<original>参与连锁攻击时
+若自身的HP为最大值
+将连续攻击2次</original>
+			<edited>参与连锁攻击时
+若自身的HP为最大值
+将连续攻击2次</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_Halberdier" offset="00" relocatable="true" max_length="0">
+			<original>夹击</original>
+			<edited>夹击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Halberdier" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击时，
+若自身与我方单位包夹敌人
+将发动追击</original>
+			<edited>自身发动攻击时，
+若自身与我方单位包夹敌人
+将发动追击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_RoyalKnight" offset="00" relocatable="true" max_length="0">
+			<original>帮助</original>
+			<edited>帮助</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_RoyalKnight" offset="00" relocatable="true" max_length="0">
+			<original>我方单位在战斗后陷入打破状态时
+若自身与其相邻且HP为11以上
+将消耗10HP解除该单位的打破状态</original>
+			<edited>我方单位在战斗后陷入打破状态时
+若自身与其相邻且HP为11以上
+将消耗10HP解除该单位的打破状态</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_Berserker" offset="00" relocatable="true" max_length="0">
+			<original>猛击+</original>
+			<edited>猛击+</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Berserker" offset="00" relocatable="true" max_length="0">
+			<original>发生猛击时
+使对方移动2格</original>
+			<edited>发生猛击时
+使对方移动2格</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_Warrior" offset="00" relocatable="true" max_length="0">
+			<original>无慈悲</original>
+			<edited>无慈悲</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Warrior" offset="00" relocatable="true" max_length="0">
+			<original>攻击陷入打破状态的敌人时
+伤害增为150%</original>
+			<edited>攻击陷入打破状态的敌人时
+伤害增为150%</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_Sniper" offset="00" relocatable="true" max_length="0">
+			<original>集中</original>
+			<edited>集中</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Sniper" offset="00" relocatable="true" max_length="0">
+			<original>对方没有发动反击时
+必杀+10</original>
+			<edited>对方没有发动反击时
+必杀+10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_BowKnight" offset="00" relocatable="true" max_length="0">
+			<original>狙击</original>
+			<edited>狙击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_BowKnight" offset="00" relocatable="true" max_length="0">
+			<original>没有移动且自身发动攻击时
+命中+40</original>
+			<edited>没有移动且自身发动攻击时
+命中+40</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_General" offset="00" relocatable="true" max_length="0">
+			<original>替换</original>
+			<edited>替换</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_General" offset="00" relocatable="true" max_length="0">
+			<original>可使用“替换”指令
+与相邻我方单位交换位置</original>
+			<edited>可使用“替换”指令
+与相邻我方单位交换位置</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_General_CMD" offset="00" relocatable="true" max_length="0">
+			<original>与我方单位交换位置</original>
+			<edited>与我方单位交换位置</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_GrateKnight" offset="00" relocatable="true" max_length="0">
+			<original>护卫</original>
+			<edited>护卫</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_GrateKnight" offset="00" relocatable="true" max_length="0">
+			<original>自己位于我方单位与敌人之间时
+所受伤害-3</original>
+			<edited>自己位于我方单位与敌人之间时
+所受伤害-3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_Paladin" offset="00" relocatable="true" max_length="0">
+			<original>迂回</original>
+			<edited>迂回</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Paladin" offset="00" relocatable="true" max_length="0">
+			<original>可使用“迂回”指令
+移动至相邻我方单位的另一侧</original>
+			<edited>可使用“迂回”指令
+移动至相邻我方单位的另一侧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Paladin_CMD" offset="00" relocatable="true" max_length="0">
+			<original>移动至我方单位的另一侧</original>
+			<edited>移动至我方单位的另一侧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_WolfKnight" offset="00" relocatable="true" max_length="0">
+			<original>瞄准足部</original>
+			<edited>瞄准足部</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_WolfKnight" offset="00" relocatable="true" max_length="0">
+			<original>使用短剑攻击时
+对方的移动-2，效果持续1回合</original>
+			<edited>使用短剑攻击时
+对方的移动-2，效果持续1回合</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_GriffinKnight" offset="00" relocatable="true" max_length="0">
+			<original>移动辅助</original>
+			<edited>移动辅助</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_GriffinKnight" offset="00" relocatable="true" max_length="0">
+			<original>于自身周围1格内（含所在格）移动时
+地形的移动消耗变为1</original>
+			<edited>于自身周围1格内（含所在格）移动时
+地形的移动消耗变为1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_DragonKnight" offset="00" relocatable="true" max_length="0">
+			<original>急袭</original>
+			<edited>急袭</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_DragonKnight" offset="00" relocatable="true" max_length="0">
+			<original>从对方无法进入的地形发动攻击时
+速度+5</original>
+			<edited>从对方无法进入的地形发动攻击时
+速度+5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_Thief" offset="00" relocatable="true" max_length="0">
+			<original>穿越</original>
+			<edited>穿越</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Thief" offset="00" relocatable="true" max_length="0">
+			<original>移动时可穿越敌人</original>
+			<edited>移动时可穿越敌人</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_Sage" offset="00" relocatable="true" max_length="0">
+			<original>魔力增幅</original>
+			<edited>魔力增幅</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Sage" offset="00" relocatable="true" max_length="0">
+			<original>使用魔道书攻击时，攻击力提升
+幅度为周围1格装备魔道书的我方单位总数</original>
+			<edited>使用魔道书攻击时，攻击力提升
+幅度为周围1格装备魔道书的我方单位总数</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_MageKnight" offset="00" relocatable="true" max_length="0">
+			<original>背理之法</original>
+			<edited>背理之法</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_MageKnight" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击时
+若敌人的攻击类型（物理攻击、魔道书）
+与自身不同，速度+3</original>
+			<edited>自身发动攻击时
+若敌人的攻击类型（物理攻击、魔道书）
+与自身不同，速度+3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_MasterMonk" offset="00" relocatable="true" max_length="0">
+			<original>气之扩散</original>
+			<edited>气之扩散</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_MasterMonk" offset="00" relocatable="true" max_length="0">
+			<original>被杖回复HP时
+周围1格的我方单位也能获得50%的HP回复量</original>
+			<edited>被杖回复HP时
+周围1格的我方单位也能获得50%的HP回复量</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_HighPriest" offset="00" relocatable="true" max_length="0">
+			<original>自己回复</original>
+			<edited>自己回复</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_HighPriest" offset="00" relocatable="true" max_length="0">
+			<original>可选择自己
+为回复杖的使用对象</original>
+			<edited>可选择自己
+为回复杖的使用对象</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_DragonKing" offset="00" relocatable="true" max_length="0">
+			<original>神龙气</original>
+			<edited>神龙气</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_DragonKing" offset="00" relocatable="true" max_length="0">
+			<original>自身的结合计量条最大值-1</original>
+			<edited>自身的结合计量条最大值-1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_ShadowPrincess" offset="00" relocatable="true" max_length="0">
+			<original>邪龙气</original>
+			<edited>邪龙气</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_ShadowPrincess" offset="00" relocatable="true" max_length="0">
+			<original>回合开始时
+自身的结合计量条+1</original>
+			<edited>回合开始时
+自身的结合计量条+1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_ShadowDragon" offset="00" relocatable="true" max_length="0">
+			<original>邪龙气&lt;暗&gt;</original>
+			<edited>邪龙气&lt;暗&gt;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_ShadowDragon" offset="00" relocatable="true" max_length="0">
+			<original>回合开始时
+周围2格内，敌人的结合计量条-1</original>
+			<edited>回合开始时
+周围2格内，敌人的结合计量条-1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_Avenir" offset="00" relocatable="true" max_length="0">
+			<original>金莲</original>
+			<edited>金莲</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Avenir" offset="00" relocatable="true" max_length="0">
+			<original>一定几率使物理伤害减半
+（几率为“技巧”%）</original>
+			<edited>一定几率使物理伤害减半
+（几率为“技巧”%）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_Fleurage" offset="00" relocatable="true" max_length="0">
+			<original>华炎</original>
+			<edited>华炎</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Fleurage" offset="00" relocatable="true" max_length="0">
+			<original>一定几率增加攻击伤害（几率为“技巧”%）
+使用魔法攻击时，将力量的50%加计至伤害
+使用其他攻击时，将魔力的50%加计至伤害</original>
+			<edited>一定几率增加攻击伤害（几率为“技巧”%）
+使用魔法攻击时，将力量的50%加计至伤害
+使用其他攻击时，将魔力的50%加计至伤害</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_Successeur" offset="00" relocatable="true" max_length="0">
+			<original>太阳</original>
+			<edited>太阳</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Successeur" offset="00" relocatable="true" max_length="0">
+			<original>对敌人造成伤害时，
+一定几率回复造成伤害的50%HP
+（几率为“技巧”%）</original>
+			<edited>对敌人造成伤害时，
+一定几率回复造成伤害的50%HP
+（几率为“技巧”%）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_Tirailleur" offset="00" relocatable="true" max_length="0">
+			<original>月光</original>
+			<edited>月光</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Tirailleur" offset="00" relocatable="true" max_length="0">
+			<original>攻击时，一定几率无视敌人1/2的防守与魔防
+（几率为“技巧”%）</original>
+			<edited>攻击时，一定几率无视敌人1/2的防守与魔防
+（几率为“技巧”%）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_Lindwurm" offset="00" relocatable="true" max_length="0">
+			<original>虚空</original>
+			<edited>虚空</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Lindwurm" offset="00" relocatable="true" max_length="0">
+			<original>使用魔道书攻击时
+一定几率将敌人魔力的50%加计至伤害
+（几率为“技巧”%）</original>
+			<edited>使用魔道书攻击时
+一定几率将敌人魔力的50%加计至伤害
+（几率为“技巧”%）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_Sleipnir" offset="00" relocatable="true" max_length="0">
+			<original>大树</original>
+			<edited>大树</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Sleipnir" offset="00" relocatable="true" max_length="0">
+			<original>使用杖时，一定几率不消耗使用次数
+（几率为“技巧”%）</original>
+			<edited>使用杖时，一定几率不消耗使用次数
+（几率为“技巧”%）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_Pitchfork" offset="00" relocatable="true" max_length="0">
+			<original>沙阵</original>
+			<edited>沙阵</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Pitchfork" offset="00" relocatable="true" max_length="0">
+			<original>发动物理攻击时
+一定几率以防守的150%代替力量来计算伤害
+（几率为“技巧”%）</original>
+			<edited>发动物理攻击时
+一定几率以防守的150%代替力量来计算伤害
+（几率为“技巧”%）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_Cupido" offset="00" relocatable="true" max_length="0">
+			<original>水镜</original>
+			<edited>水镜</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Cupido" offset="00" relocatable="true" max_length="0">
+			<original>反击时，一定几率将自身所受伤害的50%
+加计至造成伤害
+（几率为“技巧”%）</original>
+			<edited>反击时，一定几率将自身所受伤害的50%
+加计至造成伤害
+（几率为“技巧”%）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_Melusine" offset="00" relocatable="true" max_length="0">
+			<original>魔法剑</original>
+			<edited>魔法剑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Melusine" offset="00" relocatable="true" max_length="0">
+			<original>使用剑攻击时，将依对手的
+“防守与魔防的平均值”来计算造成伤害</original>
+			<edited>使用剑攻击时，将依对手的
+“防守与魔防的平均值”来计算造成伤害</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_Dancer" offset="00" relocatable="true" max_length="0">
+			<original>特别舞蹈</original>
+			<edited>特别舞蹈</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Dancer" offset="00" relocatable="true" max_length="0">
+			<original>对我方单位使用“起舞”时
+该单位技巧、速度、幸运+3，效果持续1回合</original>
+			<edited>对我方单位使用“起舞”时
+该单位技巧、速度、幸运+3，效果持续1回合</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MarthRing_Sheeda" offset="00" relocatable="true" max_length="0">
+			<original>传道师</original>
+			<edited>传道师</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MarthRing_Sheeda" offset="00" relocatable="true" max_length="0">
+			<original>受到敌人攻击时
+若自身的HP为50%以下，所受伤害-5</original>
+			<edited>受到敌人攻击时
+若自身的HP为50%以下，所受伤害-5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MarthRing_Nabarl" offset="00" relocatable="true" max_length="0">
+			<original>必杀剑</original>
+			<edited>必杀剑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MarthRing_Nabarl" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击时
+若装备剑，必杀+10</original>
+			<edited>自身发动攻击时
+若装备剑，必杀+10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SigludRing_Celice" offset="00" relocatable="true" max_length="0">
+			<original>身经百战</original>
+			<edited>身经百战</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SigludRing_Celice" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击时，每打倒1个敌人，必杀+1
+（上限为+10，效果持续至该战斗结束为止）</original>
+			<edited>自身发动攻击时，每打倒1个敌人，必杀+1
+（上限为+10，效果持续至该战斗结束为止）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SigludRing_Diadora" offset="00" relocatable="true" max_length="0">
+			<original>回复</original>
+			<edited>回复</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SigludRing_Diadora" offset="00" relocatable="true" max_length="0">
+			<original>每回合回复5HP</original>
+			<edited>每回合回复5HP</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_CelicaRing_Alm" offset="00" relocatable="true" max_length="0">
+			<original>疾风横扫</original>
+			<edited>疾风横扫</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CelicaRing_Alm" offset="00" relocatable="true" max_length="0">
+			<original>使用剑攻击时，一定几率使对方无法反击
+（几率为“幸运”%）</original>
+			<edited>使用剑攻击时，一定几率使对方无法反击
+（几率为“幸运”%）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_CelicaRing_Mae" offset="00" relocatable="true" max_length="0">
+			<original>轰雷</original>
+			<edited>轰雷</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CelicaRing_Mae" offset="00" relocatable="true" max_length="0">
+			<original>使用雷电、狂雷、托隆攻击时
+伤害为120%</original>
+			<edited>使用雷电、狂雷、托隆攻击时
+伤害为120%</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MicaiahRing_Sothe" offset="00" relocatable="true" max_length="0">
+			<original>瞬杀</original>
+			<edited>瞬杀</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MicaiahRing_Sothe" offset="00" relocatable="true" max_length="0">
+			<original>一定几率使对方的HP变为1（部分强敌除外）
+（几率为“技巧÷2”%）</original>
+			<edited>一定几率使对方的HP变为1（部分强敌除外）
+（几率为“技巧÷2”%）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MicaiahRing_Erincia" offset="00" relocatable="true" max_length="0">
+			<original>慈悲</original>
+			<edited>慈悲</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MicaiahRing_Erincia" offset="00" relocatable="true" max_length="0">
+			<original>对敌人造成致命伤害时
+使其HP剩下1</original>
+			<edited>对敌人造成致命伤害时
+使其HP剩下1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_RoyRing_Lilina" offset="00" relocatable="true" max_length="0">
+			<original>业火</original>
+			<edited>业火</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_RoyRing_Lilina" offset="00" relocatable="true" max_length="0">
+			<original>使用火焰、狂焰、火山爆焰攻击时
+伤害为120%</original>
+			<edited>使用火焰、狂焰、火山爆焰攻击时
+伤害为120%</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_RoyRing_Dieck" offset="00" relocatable="true" max_length="0">
+			<original>铁腕</original>
+			<edited>铁腕</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_RoyRing_Dieck" offset="00" relocatable="true" max_length="0">
+			<original>使用猛击武器攻击时，命中+20</original>
+			<edited>使用猛击武器攻击时，命中+20</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LeafRing_Fin" offset="00" relocatable="true" max_length="0">
+			<original>祈祷</original>
+			<edited>祈祷</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LeafRing_Fin" offset="00" relocatable="true" max_length="0">
+			<original>受到致命伤害时
+会根据“幸运”%的几率
+回避攻击。（最多50%）</original>
+			<edited>受到致命伤害时
+会根据“幸运”%的几率
+回避攻击。（最多50%）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LeafRing_Olwen" offset="00" relocatable="true" max_length="0">
+			<original>神雷</original>
+			<edited>神雷</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LeafRing_Olwen" offset="00" relocatable="true" max_length="0">
+			<original>自身使用雷电攻击时
+将连续攻击2次
+（狂雷、托隆除外）</original>
+			<edited>自身使用雷电攻击时
+将连续攻击2次
+（狂雷、托隆除外）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LucinaRing_Chrom" offset="00" relocatable="true" max_length="0">
+			<original>帝王之才</original>
+			<edited>帝王之才</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LucinaRing_Chrom" offset="00" relocatable="true" max_length="0">
+			<original>存在发动几率的特技，其发动率+5%</original>
+			<edited>存在发动几率的特技，其发动率+5%</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LucinaRing_Lissa" offset="00" relocatable="true" max_length="0">
+			<original>治愈之心</original>
+			<edited>治愈之心</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LucinaRing_Lissa" offset="00" relocatable="true" max_length="0">
+			<original>使用杖回复我方单位时
+HP回复量+5</original>
+			<edited>使用杖回复我方单位时
+HP回复量+5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LinRing_Eliwod" offset="00" relocatable="true" max_length="0">
+			<original>拉近</original>
+			<edited>拉近</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LinRing_Eliwod" offset="00" relocatable="true" max_length="0">
+			<original>可使用“拉近”指令
+将相邻我方单位移动至自身位置
+且自身也移动1格</original>
+			<edited>可使用“拉近”指令
+将相邻我方单位移动至自身位置
+且自身也移动1格</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LinRing_Eliwod_CMD" offset="00" relocatable="true" max_length="0">
+			<original>与我方单位同时朝一侧移动1格</original>
+			<edited>与我方单位同时朝一侧移动1格</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LinRing_Nino" offset="00" relocatable="true" max_length="0">
+			<original>纪加斯卡利伯</original>
+			<edited>纪加斯卡利伯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LinRing_Nino" offset="00" relocatable="true" max_length="0">
+			<original>使用埃克斯卡利伯攻击时
+伤害增为120%</original>
+			<edited>使用埃克斯卡利伯攻击时
+伤害增为120%</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_IkeRing_Senerio" offset="00" relocatable="true" max_length="0">
+			<original>旋风</original>
+			<edited>旋风</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_IkeRing_Senerio" offset="00" relocatable="true" max_length="0">
+			<original>使用烈风攻击时，一定几率连续攻击2次
+（几率为“技巧”%）</original>
+			<edited>使用烈风攻击时，一定几率连续攻击2次
+（几率为“技巧”%）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_IkeRing_Wayu" offset="00" relocatable="true" max_length="0">
+			<original>冲撞</original>
+			<edited>冲撞</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_IkeRing_Wayu" offset="00" relocatable="true" max_length="0">
+			<original>可使用“冲撞”指令
+推动体格小于自身的相邻我方单位
+使其移动1格</original>
+			<edited>可使用“冲撞”指令
+推动体格小于自身的相邻我方单位
+使其移动1格</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_IkeRing_Wayu_CMD" offset="00" relocatable="true" max_length="0">
+			<original>推动小于自身的我方单位移动1格</original>
+			<edited>推动小于自身的我方单位移动1格</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BylethRing_Edelgard" offset="00" relocatable="true" max_length="0">
+			<original>闪花</original>
+			<edited>闪花</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethRing_Edelgard" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击时
+一定几率使对方陷入冰封状态
+（几率为“造成总伤害”%）</original>
+			<edited>自身发动攻击时
+一定几率使对方陷入冰封状态
+（几率为“造成总伤害”%）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BylethRing_Dimitri" offset="00" relocatable="true" max_length="0">
+			<original>幻月</original>
+			<edited>幻月</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethRing_Dimitri" offset="00" relocatable="true" max_length="0">
+			<original>可使用“幻月”指令
+与相邻敌人战斗后
+自身朝敌人反向移动1格</original>
+			<edited>可使用“幻月”指令
+与相邻敌人战斗后
+自身朝敌人反向移动1格</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethRing_Dimitri_CMD" offset="00" relocatable="true" max_length="0">
+			<original>战斗后，朝敌人反向移动1格</original>
+			<edited>战斗后，朝敌人反向移动1格</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BylethRing_Claude" offset="00" relocatable="true" max_length="0">
+			<original>风神</original>
+			<edited>风神</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethRing_Claude" offset="00" relocatable="true" max_length="0">
+			<original>自身的HP为最大值时
+弓的射程+1</original>
+			<edited>自身的HP为最大值时
+弓的射程+1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_KamuiRing_Marks" offset="00" relocatable="true" max_length="0">
+			<original>骑士道</original>
+			<edited>骑士道</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_KamuiRing_Marks" offset="00" relocatable="true" max_length="0">
+			<original>对手的HP为最大值时
+造成伤害+2、所受伤害-2</original>
+			<edited>对手的HP为最大值时
+造成伤害+2、所受伤害-2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_KamuiRing_Ryoma" offset="00" relocatable="true" max_length="0">
+			<original>武士道</original>
+			<edited>武士道</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_KamuiRing_Ryoma" offset="00" relocatable="true" max_length="0">
+			<original>自身的等级高于对方时
+必杀+10、造成伤害+2、所受伤害-2</original>
+			<edited>自身的等级高于对方时
+必杀+10、造成伤害+2、所受伤害-2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_EirikRing_Marica" offset="00" relocatable="true" max_length="0">
+			<original>灭杀</original>
+			<edited>灭杀</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EirikRing_Marica" offset="00" relocatable="true" max_length="0">
+			<original>触发必杀攻击时
+30%几率对敌人造成致命伤害
+（部分强敌除外）</original>
+			<edited>触发必杀攻击时
+30%几率对敌人造成致命伤害
+（部分强敌除外）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_EirikRing_Heanius" offset="00" relocatable="true" max_length="0">
+			<original>必中目标</original>
+			<edited>必中目标</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EirikRing_Heanius" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击时，有一定几率必定命中
+（几率为“技巧”%）</original>
+			<edited>自身发动攻击时，有一定几率必定命中
+（几率为“技巧”%）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SpecialRing_Alfonse" offset="00" relocatable="true" max_length="0">
+			<original>攻击纹章</original>
+			<edited>攻击纹章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SpecialRing_Alfonse" offset="00" relocatable="true" max_length="0">
+			<original>使相邻我方单位的攻击力+2</original>
+			<edited>使相邻我方单位的攻击力+2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SpecialRing_Sharena" offset="00" relocatable="true" max_length="0">
+			<original>防守鼓舞</original>
+			<edited>防守鼓舞</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SpecialRing_Sharena" offset="00" relocatable="true" max_length="0">
+			<original>我军行动阶段开始时
+相邻我方单位的防守+2</original>
+			<edited>我军行动阶段开始时
+相邻我方单位的防守+2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SpecialRing_Anna" offset="00" relocatable="true" max_length="0">
+			<original>魔防纹章</original>
+			<edited>魔防纹章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SpecialRing_Anna" offset="00" relocatable="true" max_length="0">
+			<original>相邻我方单位的魔防+2</original>
+			<edited>相邻我方单位的魔防+2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SombreBarrier1" offset="00" relocatable="true" max_length="0">
+			<original>常暗之结界</original>
+			<edited>常暗之结界</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SombreBarrier1" offset="00" relocatable="true" max_length="0">
+			<original>暗黑纹章士所制作的结界
+使邪龙有效的效果无效
+所受伤害为-50%</original>
+			<edited>暗黑纹章士所制作的结界
+使邪龙有效的效果无效
+所受伤害为-50%</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SombreBarrier2" offset="00" relocatable="true" max_length="0">
+			<original>常暗之结界+</original>
+			<edited>常暗之结界+</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SombreBarrier2" offset="00" relocatable="true" max_length="0">
+			<original>暗黑纹章士所制作的结界
+使邪龙有效的效果无效
+所受伤害-70%</original>
+			<edited>暗黑纹章士所制作的结界
+使邪龙有效的效果无效
+所受伤害-70%</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SombreBarrier3" offset="00" relocatable="true" max_length="0">
+			<original>常暗之结界++</original>
+			<edited>常暗之结界++</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SombreBarrier3" offset="00" relocatable="true" max_length="0">
+			<original>暗黑纹章士所制作的结界
+使邪龙有效的效果无效
+所受伤害-85%</original>
+			<edited>暗黑纹章士所制作的结界
+使邪龙有效的效果无效
+所受伤害-85%</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SombreBarrier4" offset="00" relocatable="true" max_length="0">
+			<original>常暗之结界+++</original>
+			<edited>常暗之结界+++</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SombreBarrier4" offset="00" relocatable="true" max_length="0">
+			<original>暗黑纹章士所制作的结界
+使邪龙有效的效果无效
+所受伤害为0</original>
+			<edited>暗黑纹章士所制作的结界
+使邪龙有效的效果无效
+所受伤害为0</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SombreBarrier1_Normal" offset="00" relocatable="true" max_length="0">
+			<original>暗之结界</original>
+			<edited>暗之结界</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SombreBarrier1_Normal" offset="00" relocatable="true" max_length="0">
+			<original>暗黑纹章士所制作的结界
+所受伤害-20%</original>
+			<edited>暗黑纹章士所制作的结界
+所受伤害-20%</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SombreBarrier2_Normal" offset="00" relocatable="true" max_length="0">
+			<original>暗之结界+</original>
+			<edited>暗之结界+</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SombreBarrier2_Normal" offset="00" relocatable="true" max_length="0">
+			<original>暗黑纹章士所制作的结界
+所受伤害-40%</original>
+			<edited>暗黑纹章士所制作的结界
+所受伤害-40%</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SombreBarrier3_Normal" offset="00" relocatable="true" max_length="0">
+			<original>暗之结界++</original>
+			<edited>暗之结界++</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SombreBarrier3_Normal" offset="00" relocatable="true" max_length="0">
+			<original>暗黑纹章士所制作的结界
+所受伤害-60%</original>
+			<edited>暗黑纹章士所制作的结界
+所受伤害-60%</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SombreBarrier4_Normal" offset="00" relocatable="true" max_length="0">
+			<original>暗之结界+++</original>
+			<edited>暗之结界+++</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SombreBarrier4_Normal" offset="00" relocatable="true" max_length="0">
+			<original>暗黑纹章士所制作的结界
+所受伤害-80%</original>
+			<edited>暗黑纹章士所制作的结界
+所受伤害-80%</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_ChainAttackDamageWeaken" offset="00" relocatable="true" max_length="0">
+			<original>撕裂牵绊者</original>
+			<edited>撕裂牵绊者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_ChainAttackDamageWeaken" offset="00" relocatable="true" max_length="0">
+			<original>使敌人连锁攻击的
+命中率必定为30%
+并减少所受伤害</original>
+			<edited>使敌人连锁攻击的
+命中率必定为30%
+并减少所受伤害</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SnakeVenom" offset="00" relocatable="true" max_length="0">
+			<original>蛇毒</original>
+			<edited>蛇毒</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SnakeVenom" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击时
+对敌人造成HP最大值20%的伤害</original>
+			<edited>自身发动攻击时
+对敌人造成HP最大值20%的伤害</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SighOfDeath" offset="00" relocatable="true" max_length="0">
+			<original>死亡吐息</original>
+			<edited>死亡吐息</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SighOfDeath" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击时
+对周围2格内的敌人造成HP最大值20%的伤害</original>
+			<edited>自身发动攻击时
+对周围2格内的敌人造成HP最大值20%的伤害</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwordKilling" offset="00" relocatable="true" max_length="0">
+			<original>破剑者</original>
+			<edited>破剑者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwordKilling" offset="00" relocatable="true" max_length="0">
+			<original>HP为50%以上且敌人的武器为剑时
+自身可发动追击但敌人无法追击</original>
+			<edited>HP为50%以上且敌人的武器为剑时
+自身可发动追击但敌人无法追击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LanceKilling" offset="00" relocatable="true" max_length="0">
+			<original>破枪者</original>
+			<edited>破枪者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LanceKilling" offset="00" relocatable="true" max_length="0">
+			<original>HP为50%以上且敌人的武器为枪时
+自身可发动追击但敌人无法追击</original>
+			<edited>HP为50%以上且敌人的武器为枪时
+自身可发动追击但敌人无法追击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_AxeKilling" offset="00" relocatable="true" max_length="0">
+			<original>破斧者</original>
+			<edited>破斧者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_AxeKilling" offset="00" relocatable="true" max_length="0">
+			<original>HP为50%以上且敌人的武器为斧时
+自身可发动追击但敌人无法追击</original>
+			<edited>HP为50%以上且敌人的武器为斧时
+自身可发动追击但敌人无法追击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MagicKilling" offset="00" relocatable="true" max_length="0">
+			<original>破魔者</original>
+			<edited>破魔者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MagicKilling" offset="00" relocatable="true" max_length="0">
+			<original>HP为50%以上且敌人的武器为魔道书时
+自身可发动追击但敌人无法追击</original>
+			<edited>HP为50%以上且敌人的武器为魔道书时
+自身可发动追击但敌人无法追击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BowKilling" offset="00" relocatable="true" max_length="0">
+			<original>破弓者</original>
+			<edited>破弓者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BowKilling" offset="00" relocatable="true" max_length="0">
+			<original>HP为50%以上且敌人的武器为弓时
+自身可发动追击但敌人无法追击</original>
+			<edited>HP为50%以上且敌人的武器为弓时
+自身可发动追击但敌人无法追击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_KnifeKilling" offset="00" relocatable="true" max_length="0">
+			<original>破短剑者</original>
+			<edited>破短剑者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_KnifeKilling" offset="00" relocatable="true" max_length="0">
+			<original>HP为50%以上且敌人的武器为短剑时
+自身可发动追击但敌人无法追击</original>
+			<edited>HP为50%以上且敌人的武器为短剑时
+自身可发动追击但敌人无法追击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PranaKilling" offset="00" relocatable="true" max_length="0">
+			<original>破体术者</original>
+			<edited>破体术者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PranaKilling" offset="00" relocatable="true" max_length="0">
+			<original>HP为50%以上且敌人的武器为体术时
+自身可发动追击但敌人无法追击</original>
+			<edited>HP为50%以上且敌人的武器为体术时
+自身可发动追击但敌人无法追击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PowerSeal" offset="00" relocatable="true" max_length="0">
+			<original>力量封锁</original>
+			<edited>力量封锁</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PowerSeal" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击后
+对方的力量-6
+（效果随时间递减，每回合回复1）</original>
+			<edited>自身发动攻击后
+对方的力量-6
+（效果随时间递减，每回合回复1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MagicSeal" offset="00" relocatable="true" max_length="0">
+			<original>魔力封锁</original>
+			<edited>魔力封锁</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MagicSeal" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击后
+对方的魔力-6
+（效果随时间递减，每回合回复1）</original>
+			<edited>自身发动攻击后
+对方的魔力-6
+（效果随时间递减，每回合回复1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_DefenseSeal" offset="00" relocatable="true" max_length="0">
+			<original>防守封锁</original>
+			<edited>防守封锁</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DefenseSeal" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击后
+对方的防守-6
+（效果随时间递减，每回合回复1）</original>
+			<edited>自身发动攻击后
+对方的防守-6
+（效果随时间递减，每回合回复1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SpeedSeal" offset="00" relocatable="true" max_length="0">
+			<original>速度封锁</original>
+			<edited>速度封锁</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SpeedSeal" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击后
+对方的速度-6
+（效果随时间递减，每回合回复1）</original>
+			<edited>自身发动攻击后
+对方的速度-6
+（效果随时间递减，每回合回复1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MagicDefenseSeal" offset="00" relocatable="true" max_length="0">
+			<original>魔防封锁</original>
+			<edited>魔防封锁</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MagicDefenseSeal" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击后
+对方的魔防-6
+（效果随时间递减，每回合回复1）</original>
+			<edited>自身发动攻击后
+对方的魔防-6
+（效果随时间递减，每回合回复1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_DemonStance" offset="00" relocatable="true" max_length="0">
+			<original>鬼神架势</original>
+			<edited>鬼神架势</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DemonStance" offset="00" relocatable="true" max_length="0">
+			<original>受到敌人攻击时，力量+6</original>
+			<edited>受到敌人攻击时，力量+6</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_VajraStance" offset="00" relocatable="true" max_length="0">
+			<original>金刚架势</original>
+			<edited>金刚架势</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_VajraStance" offset="00" relocatable="true" max_length="0">
+			<original>受到敌人攻击时，防守+6</original>
+			<edited>受到敌人攻击时，防守+6</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwallowStance" offset="00" relocatable="true" max_length="0">
+			<original>飞燕架势</original>
+			<edited>飞燕架势</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwallowStance" offset="00" relocatable="true" max_length="0">
+			<original>受到敌人攻击时，速度+6</original>
+			<edited>受到敌人攻击时，速度+6</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MingMirrorStance" offset="00" relocatable="true" max_length="0">
+			<original>明镜架势</original>
+			<edited>明镜架势</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MingMirrorStance" offset="00" relocatable="true" max_length="0">
+			<original>受到敌人攻击时，魔防+6</original>
+			<edited>受到敌人攻击时，魔防+6</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Deadline" offset="00" relocatable="true" max_length="0">
+			<original>死线</original>
+			<edited>死线</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Deadline" offset="00" relocatable="true" max_length="0">
+			<original>造成伤害+10
+所受伤害+10</original>
+			<edited>造成伤害+10
+所受伤害+10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_EnhancedCompatibility" offset="00" relocatable="true" max_length="0">
+			<original>强化互克</original>
+			<edited>强化互克</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EnhancedCompatibility" offset="00" relocatable="true" max_length="0">
+			<original>使用占优势的武器攻击时，可发动追击
+但武器居于劣势时，则会受到追击</original>
+			<edited>使用占优势的武器攻击时，可发动追击
+但武器居于劣势时，则会受到追击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_CatBites" offset="00" relocatable="true" max_length="0">
+			<original>狗急跳墙</original>
+			<edited>狗急跳墙</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CatBites" offset="00" relocatable="true" max_length="0">
+			<original>HP为50%以下时，必杀+30</original>
+			<edited>HP为50%以下时，必杀+30</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SelfDestruction" offset="00" relocatable="true" max_length="0">
+			<original>自毁</original>
+			<edited>自毁</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SelfDestruction" offset="00" relocatable="true" max_length="0">
+			<original>我军行动阶段开始时，若HP为50%以下
+对周围2格内的敌人造成伤害并自行消灭
+伤害量为自己HP最大值的50%</original>
+			<edited>我军行动阶段开始时，若HP为50%以下
+对周围2格内的敌人造成伤害并自行消灭
+伤害量为自己HP最大值的50%</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BreakInvalid" offset="00" relocatable="true" max_length="0">
+			<original>打破无效</original>
+			<edited>打破无效</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BreakInvalid" offset="00" relocatable="true" max_length="0">
+			<original>不会陷入打破状态</original>
+			<edited>不会陷入打破状态</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Immovable" offset="00" relocatable="true" max_length="0">
+			<original>移动效果无效</original>
+			<edited>移动效果无效</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Immovable" offset="00" relocatable="true" max_length="0">
+			<original>不会受到特技或猛击等效果影响而移动</original>
+			<edited>不会受到特技或猛击等效果影响而移动</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_CurseOfNihility" offset="00" relocatable="true" max_length="0">
+			<original>虚无诅咒</original>
+			<edited>虚无诅咒</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CurseOfNihility" offset="00" relocatable="true" max_length="0">
+			<original>与此单位战斗时
+无法获得经验值</original>
+			<edited>与此单位战斗时
+无法获得经验值</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_ClearStreamHit" offset="00" relocatable="true" max_length="0">
+			<original>清流一击</original>
+			<edited>清流一击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_ClearStreamHit" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击时，回避+30</original>
+			<edited>自身发动攻击时，回避+30</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwallowHit" offset="00" relocatable="true" max_length="0">
+			<original>飞燕一击</original>
+			<edited>飞燕一击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwallowHit" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击时，速度+5</original>
+			<edited>自身发动攻击时，速度+5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_DemonHit" offset="00" relocatable="true" max_length="0">
+			<original>鬼神一击</original>
+			<edited>鬼神一击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DemonHit" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击时，必杀+20</original>
+			<edited>自身发动攻击时，必杀+20</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BadBirdHit" offset="00" relocatable="true" max_length="0">
+			<original>凶鸟一击</original>
+			<edited>凶鸟一击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BadBirdHit" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击时，命中+40</original>
+			<edited>自身发动攻击时，命中+40</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_VajraHit" offset="00" relocatable="true" max_length="0">
+			<original>金刚一击</original>
+			<edited>金刚一击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_VajraHit" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击时
+所受物理攻击伤害-10</original>
+			<edited>自身发动攻击时
+所受物理攻击伤害-10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MingMirrorHit" offset="00" relocatable="true" max_length="0">
+			<original>明镜一击</original>
+			<edited>明镜一击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MingMirrorHit" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击时
+因魔法攻击所受的伤害-20</original>
+			<edited>自身发动攻击时
+因魔法攻击所受的伤害-20</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_FrenzyHit" offset="00" relocatable="true" max_length="0">
+			<original>减气</original>
+			<edited>减气</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_FrenzyHit" offset="00" relocatable="true" max_length="0">
+			<original>自身发动攻击后
+对方的结合计量条-5</original>
+			<edited>自身发动攻击后
+对方的结合计量条-5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_EffectResistance" offset="00" relocatable="true" max_length="0">
+			<original>克制耐性</original>
+			<edited>克制耐性</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EffectResistance" offset="00" relocatable="true" max_length="0">
+			<original>减少受到克制时的伤害</original>
+			<edited>减少受到克制时的伤害</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_EffectInvalid" offset="00" relocatable="true" max_length="0">
+			<original>克制无效</original>
+			<edited>克制无效</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EffectInvalid" offset="00" relocatable="true" max_length="0">
+			<original>不受任何克制效果影响</original>
+			<edited>不受任何克制效果影响</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Expert_1" offset="00" relocatable="true" max_length="0">
+			<original>熟练者</original>
+			<edited>熟练者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Expert_1" offset="00" relocatable="true" max_length="0">
+			<original>不会陷入打破状态
+减少受到克制时的伤害</original>
+			<edited>不会陷入打破状态
+减少受到克制时的伤害</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Expert_2" offset="00" relocatable="true" max_length="0">
+			<original>熟练者+</original>
+			<edited>熟练者+</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Expert_2" offset="00" relocatable="true" max_length="0">
+			<original>不会陷入打破状态
+不受任何克制效果影响</original>
+			<edited>不会陷入打破状态
+不受任何克制效果影响</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SkillSuccession" offset="00" relocatable="true" max_length="0">
+			<original>解放特技继承</original>
+			<edited>解放特技继承</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SkillSuccession" offset="00" relocatable="true" max_length="0">
+			<original>可在纹章士之间利用“特技继承”
+从纹章士身上继承特技</original>
+			<edited>可在纹章士之间利用“特技继承”
+从纹章士身上继承特技</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_EngageContinueTurn" offset="00" relocatable="true" max_length="0">
+			<original>斩不断的牵绊</original>
+			<edited>斩不断的牵绊</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EngageContinueTurn" offset="00" relocatable="true" max_length="0">
+			<original>结合状态的持续回合数+1</original>
+			<edited>结合状态的持续回合数+1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_EngageCount" offset="00" relocatable="true" max_length="0">
+			<original>默契十足</original>
+			<edited>默契十足</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EngageCount" offset="00" relocatable="true" max_length="0">
+			<original>结合计量条最大值-1</original>
+			<edited>结合计量条最大值-1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_RefineGodWeapon_Effect_Fly" offset="00" relocatable="true" max_length="0">
+			<original>克制飞行</original>
+			<edited>克制飞行</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_RefineGodWeapon_Effect_Horse" offset="00" relocatable="true" max_length="0">
+			<original>克制骑马</original>
+			<edited>克制骑马</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_RefineGodWeapon_Effect_Armor" offset="00" relocatable="true" max_length="0">
+			<original>克制重装</original>
+			<edited>克制重装</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_RefineGodWeapon_Effect_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>克制龙</original>
+			<edited>克制龙</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_RefineGodWeapon_Effect_Morph" offset="00" relocatable="true" max_length="0">
+			<original>克制异形</original>
+			<edited>克制异形</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_Fly" offset="00" relocatable="true" max_length="0">
+			<original>受到克制飞行的效果影响</original>
+			<edited>受到克制飞行的效果影响</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_Horse" offset="00" relocatable="true" max_length="0">
+			<original>受到克制骑马的效果影响</original>
+			<edited>受到克制骑马的效果影响</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_Armor" offset="00" relocatable="true" max_length="0">
+			<original>受到克制重装的效果影响</original>
+			<edited>受到克制重装的效果影响</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>受到克制龙的效果影响</original>
+			<edited>受到克制龙的效果影响</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_Morph" offset="00" relocatable="true" max_length="0">
+			<original>受到克制异形的效果影响</original>
+			<edited>受到克制异形的效果影响</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_EvilDragon" offset="00" relocatable="true" max_length="0">
+			<original>受到邪龙有效的效果影响</original>
+			<edited>受到邪龙有效的效果影响</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_Mediuth" offset="00" relocatable="true" max_length="0">
+			<original>马尔斯的攻击将具有克制的效果</original>
+			<edited>马尔斯的攻击将具有克制的效果</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_Duma" offset="00" relocatable="true" max_length="0">
+			<original>赛莉卡的攻击将具有克制的效果</original>
+			<edited>赛莉卡的攻击将具有克制的效果</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_Loptous" offset="00" relocatable="true" max_length="0">
+			<original>西格尔特的攻击将具有克制的效果</original>
+			<edited>西格尔特的攻击将具有克制的效果</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_Veld" offset="00" relocatable="true" max_length="0">
+			<original>里弗的攻击将具有克制的效果</original>
+			<edited>里弗的攻击将具有克制的效果</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_Idenn" offset="00" relocatable="true" max_length="0">
+			<original>罗伊的攻击将具有克制的效果</original>
+			<edited>罗伊的攻击将具有克制的效果</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_Nergal" offset="00" relocatable="true" max_length="0">
+			<original>琳的攻击将具有克制的效果</original>
+			<edited>琳的攻击将具有克制的效果</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_Fodeth" offset="00" relocatable="true" max_length="0">
+			<original>艾莉可（艾夫拉姆）的攻击
+将具有克制的效果</original>
+			<edited>艾莉可（艾夫拉姆）的攻击
+将具有克制的效果</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_Ashnard" offset="00" relocatable="true" max_length="0">
+			<original>艾克的攻击将具有克制的效果</original>
+			<edited>艾克的攻击将具有克制的效果</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_Astarte" offset="00" relocatable="true" max_length="0">
+			<original>米卡雅的攻击将具有克制的效果</original>
+			<edited>米卡雅的攻击将具有克制的效果</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_Gimle" offset="00" relocatable="true" max_length="0">
+			<original>露琪娜的攻击将具有克制的效果</original>
+			<edited>露琪娜的攻击将具有克制的效果</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_Hydra" offset="00" relocatable="true" max_length="0">
+			<original>神威的攻击将具有克制的效果</original>
+			<edited>神威的攻击将具有克制的效果</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_Nemesis" offset="00" relocatable="true" max_length="0">
+			<original>贝雷特的攻击将具有克制的效果</original>
+			<edited>贝雷特的攻击将具有克制的效果</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

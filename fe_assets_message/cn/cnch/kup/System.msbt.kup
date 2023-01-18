@@ -1,0 +1,1633 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_SYS_Difficulty_Normal" offset="00" relocatable="true" max_length="0">
+			<original>普通</original>
+			<edited>普通</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Difficulty_Normal" offset="00" relocatable="true" max_length="0">
+			<original>适合初级和中级玩家。</original>
+			<edited>适合初级和中级玩家。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Difficulty_Hard" offset="00" relocatable="true" max_length="0">
+			<original>困难</original>
+			<edited>困难</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Difficulty_Hard" offset="00" relocatable="true" max_length="0">
+			<original>适合高手玩家。</original>
+			<edited>适合高手玩家。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Difficulty_Lunatic" offset="00" relocatable="true" max_length="0">
+			<original>超难</original>
+			<edited>超难</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Difficulty_Lunatic" offset="00" relocatable="true" max_length="0">
+			<original>适合追求挑战性的玩家。</original>
+			<edited>适合追求挑战性的玩家。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Mode_Select" offset="00" relocatable="true" max_length="0">
+			<original>请选择模式。</original>
+			<edited>请选择模式。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Mode_Casual" offset="00" relocatable="true" max_length="0">
+			<original>轻松模式</original>
+			<edited>轻松模式</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Mode_Casual" offset="00" relocatable="true" max_length="0">
+			<original>倒下的伙伴会在下个章节归队，较为轻松的模式。</original>
+			<edited>倒下的伙伴会在下个章节归队，较为轻松的模式。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Mode_Classic" offset="00" relocatable="true" max_length="0">
+			<original>经典模式</original>
+			<edited>经典模式</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Mode_Classic" offset="00" relocatable="true" max_length="0">
+			<original>玩家将会永远失去倒下的伙伴，需谨慎思考的模式。</original>
+			<edited>玩家将会永远失去倒下的伙伴，需谨慎思考的模式。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Grow_Random" offset="00" relocatable="true" max_length="0">
+			<original>随机</original>
+			<edited>随机</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Grow_Random" offset="00" relocatable="true" max_length="0">
+			<original>升级时根据单位及兵种的特性
+随机提升能力。</original>
+			<edited>升级时根据单位及兵种的特性
+随机提升能力。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Grow_Fixed" offset="00" relocatable="true" max_length="0">
+			<original>固定</original>
+			<edited>固定</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Grow_Fixed" offset="00" relocatable="true" max_length="0">
+			<original>升级时仅根据单位及兵种的特性
+提升能力。</original>
+			<edited>升级时仅根据单位及兵种的特性
+提升能力。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Decision" offset="00" relocatable="true" max_length="0">
+			<original>确定</original>
+			<edited>确定</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ToNext" offset="00" relocatable="true" max_length="0">
+			<original>下一页</original>
+			<edited>下一页</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_BattleRecord" offset="00" relocatable="true" max_length="0">
+			<original>战绩</original>
+			<edited>战绩</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Time" offset="00" relocatable="true" max_length="0">
+			<original>时间</original>
+			<edited>时间</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_None" offset="00" relocatable="true" max_length="0">
+			<original>无</original>
+			<edited>无</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Battle_Count" offset="00" relocatable="true" max_length="0">
+			<original>战</original>
+			<edited>战</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Win_Count" offset="00" relocatable="true" max_length="0">
+			<original>胜</original>
+			<edited>胜</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_FoughtTogetherGod" offset="00" relocatable="true" max_length="0">
+			<original>最常并肩作战的纹章士</original>
+			<edited>最常并肩作战的纹章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_TypeSection" offset="00" relocatable="true" max_length="0">
+			<original>兵种区分</original>
+			<edited>兵种区分</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_SeniorPosition" offset="00" relocatable="true" max_length="0">
+			<original>高级</original>
+			<edited>高级</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_BasicPosition" offset="00" relocatable="true" max_length="0">
+			<original>基础</original>
+			<edited>基础</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_SpecialPosition" offset="00" relocatable="true" max_length="0">
+			<original>特殊</original>
+			<edited>特殊</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Position" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;兵种</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;兵种</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_UseWeapon" offset="00" relocatable="true" max_length="0">
+			<original>使用武器</original>
+			<edited>使用武器</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_TypeOfWepon_1" offset="00" relocatable="true" max_length="0">
+			<original>其中1种</original>
+			<edited>其中1种</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_TypeOfWepon_2" offset="00" relocatable="true" max_length="0">
+			<original>其中2种</original>
+			<edited>其中2种</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Status" offset="00" relocatable="true" max_length="0">
+			<original>战斗能力</original>
+			<edited>战斗能力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Capability" offset="00" relocatable="true" max_length="0">
+			<original>基础能力</original>
+			<edited>基础能力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_EquipedStatus" offset="00" relocatable="true" max_length="0">
+			<original>使用时能力</original>
+			<edited>使用时能力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Spec" offset="00" relocatable="true" max_length="0">
+			<original>性能</original>
+			<edited>性能</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Detail" offset="00" relocatable="true" max_length="0">
+			<original>详情</original>
+			<edited>详情</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_EngageWeapon" offset="00" relocatable="true" max_length="0">
+			<original>结合武器</original>
+			<edited>结合武器</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Class" offset="00" relocatable="true" max_length="0">
+			<original>兵种</original>
+			<edited>兵种</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Item" offset="00" relocatable="true" max_length="0">
+			<original>持有物品</original>
+			<edited>持有物品</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Skill" offset="00" relocatable="true" max_length="0">
+			<original>特技</original>
+			<edited>特技</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_SP" offset="00" relocatable="true" max_length="0">
+			<original>SP</original>
+			<edited>SP</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_SP" offset="00" relocatable="true" max_length="0">
+			<original>特技点数，
+用于继承纹章士的特技。</original>
+			<edited>特技点数，
+用于继承纹章士的特技。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Rating" offset="00" relocatable="true" max_length="0">
+			<original>综合能力</original>
+			<edited>综合能力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Rating" offset="00" relocatable="true" max_length="0">
+			<original>判断单位综合强度的基准。</original>
+			<edited>判断单位综合强度的基准。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_LV" offset="00" relocatable="true" max_length="0">
+			<original>Lv.</original>
+			<edited>Lv.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_LV" offset="00" relocatable="true" max_length="0">
+			<original>判断实力的基准，
+累积经验值便会提升。
+距离升级还需&#xE;&#x1;&#x0;&#x0; EXP</original>
+			<edited>判断实力的基准，
+累积经验值便会提升。
+距离升级还需&#xE;&#x1;&#x0;&#x0; EXP</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_LV_MAX" offset="00" relocatable="true" max_length="0">
+			<original>判断实力的基准，
+累积经验值便会提升。
+（已达等级上限）</original>
+			<edited>判断实力的基准，
+累积经验值便会提升。
+（已达等级上限）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_LV_ENEMY" offset="00" relocatable="true" max_length="0">
+			<original>判断实力的基准，
+累积经验值便会提升。</original>
+			<edited>判断实力的基准，
+累积经验值便会提升。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_BOND_LV" offset="00" relocatable="true" max_length="0">
+			<original>与纹章士的牵绊强度。
+数值越高，越能发挥纹章士的能力。</original>
+			<edited>与纹章士的牵绊强度。
+数值越高，越能发挥纹章士的能力。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Exp" offset="00" relocatable="true" max_length="0">
+			<original>EXP</original>
+			<edited>EXP</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_HP_MAX_UP" offset="00" relocatable="true" max_length="0">
+			<original>最大HP</original>
+			<edited>最大HP</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_HP" offset="00" relocatable="true" max_length="0">
+			<original>HP</original>
+			<edited>HP</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_HP" offset="00" relocatable="true" max_length="0">
+			<original>单位的生命力，
+归0时将无法战斗。</original>
+			<edited>单位的生命力，
+归0时将无法战斗。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_COMBAT_INFO_HP" offset="00" relocatable="true" max_length="0">
+			<original>预测HP在此次战斗中的增减。</original>
+			<edited>预测HP在此次战斗中的增减。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Str" offset="00" relocatable="true" max_length="0">
+			<original>力量</original>
+			<edited>力量</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Str" offset="00" relocatable="true" max_length="0">
+			<original>力量的强度。
+数值越高，物理攻击的伤害就越高。</original>
+			<edited>力量的强度。
+数值越高，物理攻击的伤害就越高。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Mag" offset="00" relocatable="true" max_length="0">
+			<original>魔力</original>
+			<edited>魔力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Mag" offset="00" relocatable="true" max_length="0">
+			<original>魔力的强度。数值越高，
+魔法攻击的伤害及杖的回复量就越高。</original>
+			<edited>魔力的强度。数值越高，
+魔法攻击的伤害及杖的回复量就越高。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Tec" offset="00" relocatable="true" max_length="0">
+			<original>技巧</original>
+			<edited>技巧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Tec" offset="00" relocatable="true" max_length="0">
+			<original>灵巧度。
+数值越高，命中及必杀也会随之提升。</original>
+			<edited>灵巧度。
+数值越高，命中及必杀也会随之提升。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Spd" offset="00" relocatable="true" max_length="0">
+			<original>速度</original>
+			<edited>速度</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Spd" offset="00" relocatable="true" max_length="0">
+			<original>速度。数值越高，回避也会随之提升。
+（数值高于敌人5以上时，将发生追击）</original>
+			<edited>速度。数值越高，回避也会随之提升。
+（数值高于敌人5以上时，将发生追击）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Lck" offset="00" relocatable="true" max_length="0">
+			<original>幸运</original>
+			<edited>幸运</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Lck" offset="00" relocatable="true" max_length="0">
+			<original>运气。会影响各种行动。
+（数值越高，越难受到必杀攻击。）</original>
+			<edited>运气。会影响各种行动。
+（数值越高，越难受到必杀攻击。）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Def" offset="00" relocatable="true" max_length="0">
+			<original>防守</original>
+			<edited>防守</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Def" offset="00" relocatable="true" max_length="0">
+			<original>防守力。
+数值越高，敌人物理攻击的伤害就越低。</original>
+			<edited>防守力。
+数值越高，敌人物理攻击的伤害就越低。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Res" offset="00" relocatable="true" max_length="0">
+			<original>魔防</original>
+			<edited>魔防</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Res" offset="00" relocatable="true" max_length="0">
+			<original>魔法防御力。
+数值越高，敌人魔法攻击的伤害就越低。</original>
+			<edited>魔法防御力。
+数值越高，敌人魔法攻击的伤害就越低。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Mov" offset="00" relocatable="true" max_length="0">
+			<original>移动</original>
+			<edited>移动</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Mov" offset="00" relocatable="true" max_length="0">
+			<original>移动力。
+数值越高，可移动的格数越多。</original>
+			<edited>移动力。
+数值越高，可移动的格数越多。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Phy" offset="00" relocatable="true" max_length="0">
+			<original>体格</original>
+			<edited>体格</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Phy" offset="00" relocatable="true" max_length="0">
+			<original>身体的健壮程度。数值越高，
+使用重型武器时会降低的速度越少。</original>
+			<edited>身体的健壮程度。数值越高，
+使用重型武器时会降低的速度越少。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Vis" offset="00" relocatable="true" max_length="0">
+			<original>视野</original>
+			<edited>视野</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Vis" offset="00" relocatable="true" max_length="0">
+			<original>视野能见度。数值越高，
+在阴暗的地方越能看清远方。</original>
+			<edited>视野能见度。数值越高，
+在阴暗的地方越能看清远方。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Atk" offset="00" relocatable="true" max_length="0">
+			<original>攻击</original>
+			<edited>攻击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Dmg" offset="00" relocatable="true" max_length="0">
+			<original>攻击</original>
+			<edited>攻击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Atk" offset="00" relocatable="true" max_length="0">
+			<original>武器或魔法的攻击力。</original>
+			<edited>武器或魔法的攻击力。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_COMBAT_INFO_Dmg" offset="00" relocatable="true" max_length="0">
+			<original>命中时，给敌人造成的伤害量。</original>
+			<edited>命中时，给敌人造成的伤害量。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Weapon_Attack" offset="00" relocatable="true" max_length="0">
+			<original>物攻</original>
+			<edited>物攻</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_Weapon_Attack" offset="00" relocatable="true" max_length="0">
+			<original>物理攻击力。
+为装备剑等武器时的攻击力。</original>
+			<edited>物理攻击力。
+为装备剑等武器时的攻击力。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Magic_Attack" offset="00" relocatable="true" max_length="0">
+			<original>魔攻</original>
+			<edited>魔攻</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_Magic_Attack" offset="00" relocatable="true" max_length="0">
+			<original>魔法攻击力。
+为装备魔道书或魔法武器时的攻击力。</original>
+			<edited>魔法攻击力。
+为装备魔道书或魔法武器时的攻击力。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Special_Attack" offset="00" relocatable="true" max_length="0">
+			<original>特殊</original>
+			<edited>特殊</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_Special_Attack" offset="00" relocatable="true" max_length="0">
+			<original>特殊攻击的攻击力，
+（攻击时不受敌人的防守及魔防影响。）</original>
+			<edited>特殊攻击的攻击力，
+（攻击时不受敌人的防守及魔防影响。）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Hit" offset="00" relocatable="true" max_length="0">
+			<original>命中</original>
+			<edited>命中</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Hit" offset="00" relocatable="true" max_length="0">
+			<original>使攻击命中的能力。
+数值越高，攻击越容易命中。</original>
+			<edited>使攻击命中的能力。
+数值越高，攻击越容易命中。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_COMBAT_INFO_Hit" offset="00" relocatable="true" max_length="0">
+			<original>“攻击”及“回复”的命中率。</original>
+			<edited>“攻击”及“回复”的命中率。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Avo" offset="00" relocatable="true" max_length="0">
+			<original>回避</original>
+			<edited>回避</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Avo" offset="00" relocatable="true" max_length="0">
+			<original>回避攻击的能力。
+数值越高，越容易回避敌人的攻击。</original>
+			<edited>回避攻击的能力。
+数值越高，越容易回避敌人的攻击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Crit" offset="00" relocatable="true" max_length="0">
+			<original>必杀</original>
+			<edited>必杀</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Crit" offset="00" relocatable="true" max_length="0">
+			<original>较容易使出必杀攻击的能力。
+（必杀攻击的伤害是平常的3倍）</original>
+			<edited>较容易使出必杀攻击的能力。
+（必杀攻击的伤害是平常的3倍）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_COMBAT_INFO_Crit" offset="00" relocatable="true" max_length="0">
+			<original>“必杀攻击”的发生几率。</original>
+			<edited>“必杀攻击”的发生几率。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Secure" offset="00" relocatable="true" max_length="0">
+			<original>必避</original>
+			<edited>必避</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Secure" offset="00" relocatable="true" max_length="0">
+			<original>回避必杀攻击的能力。
+数值越高，越难受到敌人的必杀攻击。</original>
+			<edited>回避必杀攻击的能力。
+数值越高，越难受到敌人的必杀攻击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_COMBAT_INFO_Recovery" offset="00" relocatable="true" max_length="0">
+			<original>回复</original>
+			<edited>回复</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_COMBAT_INFO_Recovery" offset="00" relocatable="true" max_length="0">
+			<original>对方将回复的HP量。</original>
+			<edited>对方将回复的HP量。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_WLV" offset="00" relocatable="true" max_length="0">
+			<original>显示单位可使用&#xE;&#x1;&#x0;&#x0;的等级</original>
+			<edited>显示单位可使用&#xE;&#x1;&#x0;&#x0;的等级</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_WLV_Special" offset="00" relocatable="true" max_length="0">
+			<original>特殊攻击</original>
+			<edited>特殊攻击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_WLV_Sword" offset="00" relocatable="true" max_length="0">
+			<original>剑</original>
+			<edited>剑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_WLV_Lance" offset="00" relocatable="true" max_length="0">
+			<original>枪</original>
+			<edited>枪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_WLV_Magic" offset="00" relocatable="true" max_length="0">
+			<original>魔道书</original>
+			<edited>魔道书</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_WLV_Dagger" offset="00" relocatable="true" max_length="0">
+			<original>短剑</original>
+			<edited>短剑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_WLV_Axe" offset="00" relocatable="true" max_length="0">
+			<original>斧</original>
+			<edited>斧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_WLV_Bow" offset="00" relocatable="true" max_length="0">
+			<original>弓</original>
+			<edited>弓</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_WLV_Rod" offset="00" relocatable="true" max_length="0">
+			<original>杖</original>
+			<edited>杖</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_WLV_Fist" offset="00" relocatable="true" max_length="0">
+			<original>体术</original>
+			<edited>体术</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_BondCombi" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;与&#xE;&#x1;&#x1;&#x0;的牵绊</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;与&#xE;&#x1;&#x1;&#x0;的牵绊</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_BOND_LV" offset="00" relocatable="true" max_length="0">
+			<original>牵绊Lv.</original>
+			<edited>牵绊Lv.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_MAX" offset="00" relocatable="true" max_length="0">
+			<original>MAX</original>
+			<edited>MAX</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Infinity" offset="00" relocatable="true" max_length="0">
+			<original>∞</original>
+			<edited>∞</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_STYLE_BONUS" offset="00" relocatable="true" max_length="0">
+			<original>Style Bonus!</original>
+			<edited>Style Bonus!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_QUALITY_Sword" offset="00" relocatable="true" max_length="0">
+			<original>剑术资质</original>
+			<edited>剑术资质</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_QUALITY_Sword" offset="00" relocatable="true" max_length="0">
+			<original>使用剑的资质，
+可转职为特定兵种。</original>
+			<edited>使用剑的资质，
+可转职为特定兵种。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_QUALITY_Lance" offset="00" relocatable="true" max_length="0">
+			<original>枪术资质</original>
+			<edited>枪术资质</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_QUALITY_Lance" offset="00" relocatable="true" max_length="0">
+			<original>使用枪的资质，
+可转职为特定兵种。</original>
+			<edited>使用枪的资质，
+可转职为特定兵种。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_QUALITY_Magic" offset="00" relocatable="true" max_length="0">
+			<original>魔法资质</original>
+			<edited>魔法资质</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_QUALITY_Magic" offset="00" relocatable="true" max_length="0">
+			<original>使用魔法的资质，
+可转职为特定兵种。</original>
+			<edited>使用魔法的资质，
+可转职为特定兵种。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_QUALITY_Knife" offset="00" relocatable="true" max_length="0">
+			<original>短剑资质</original>
+			<edited>短剑资质</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_QUALITY_Knife" offset="00" relocatable="true" max_length="0">
+			<original>使用短剑的资质，
+可转职为特定兵种。</original>
+			<edited>使用短剑的资质，
+可转职为特定兵种。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_QUALITY_Axe" offset="00" relocatable="true" max_length="0">
+			<original>斧术资质</original>
+			<edited>斧术资质</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_QUALITY_Axe" offset="00" relocatable="true" max_length="0">
+			<original>使用斧的资质，
+可转职为特定兵种。</original>
+			<edited>使用斧的资质，
+可转职为特定兵种。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_QUALITY_Bow" offset="00" relocatable="true" max_length="0">
+			<original>弓术资质</original>
+			<edited>弓术资质</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_QUALITY_Bow" offset="00" relocatable="true" max_length="0">
+			<original>使用弓的资质
+可转职为特定兵种。</original>
+			<edited>使用弓的资质
+可转职为特定兵种。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_QUALITY_Rod" offset="00" relocatable="true" max_length="0">
+			<original>杖术资质</original>
+			<edited>杖术资质</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_QUALITY_Rod" offset="00" relocatable="true" max_length="0">
+			<original>使用杖的资质，
+可转职为特定兵种。</original>
+			<edited>使用杖的资质，
+可转职为特定兵种。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_QUALITY_Fist" offset="00" relocatable="true" max_length="0">
+			<original>体术资质</original>
+			<edited>体术资质</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_QUALITY_Fist" offset="00" relocatable="true" max_length="0">
+			<original>使用体术的资质，
+可转职为特定兵种。</original>
+			<edited>使用体术的资质，
+可转职为特定兵种。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_HPStock" offset="00" relocatable="true" max_length="0">
+			<original>复活之石，
+可在HP归零时完全回复HP，
+使用后会碎裂。</original>
+			<edited>复活之石，
+可在HP归零时完全回复HP，
+使用后会碎裂。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_ValueEmpty" offset="00" relocatable="true" max_length="0">
+			<original>--</original>
+			<edited>--</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Mt" offset="00" relocatable="true" max_length="0">
+			<original>威力</original>
+			<edited>威力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Rec" offset="00" relocatable="true" max_length="0">
+			<original>治愈力</original>
+			<edited>治愈力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Eff" offset="00" relocatable="true" max_length="0">
+			<original>克制</original>
+			<edited>克制</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Weight" offset="00" relocatable="true" max_length="0">
+			<original>重量</original>
+			<edited>重量</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Rng" offset="00" relocatable="true" max_length="0">
+			<original>射程</original>
+			<edited>射程</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_WLV_Short" offset="00" relocatable="true" max_length="0">
+			<original>Lv.</original>
+			<edited>Lv.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_SYS_Equip" offset="00" relocatable="true" max_length="0">
+			<original>E</original>
+			<edited>E</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Target" offset="00" relocatable="true" max_length="0">
+			<original>对象</original>
+			<edited>对象</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Me" offset="00" relocatable="true" max_length="0">
+			<original>自己</original>
+			<edited>自己</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_DISABLE_ENGAGE" offset="00" relocatable="true" max_length="0">
+			<original>无法使用：结合道具</original>
+			<edited>无法使用：结合道具</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_DISABLE_WEAPONLEVEL" offset="00" relocatable="true" max_length="0">
+			<original>无法使用：兵种限制</original>
+			<edited>无法使用：兵种限制</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_GodWeapon_LV" offset="00" relocatable="true" max_length="0">
+			<original>Lv.</original>
+			<edited>Lv.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_ExpNext" offset="00" relocatable="true" max_length="0">
+			<original>尚需</original>
+			<edited>尚需</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_GOLD_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>持有金额</original>
+			<edited>持有金额</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_ABRIDGEMENT" offset="00" relocatable="true" max_length="0">
+			<original>...</original>
+			<edited>...</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Param_Base" offset="00" relocatable="true" max_length="0">
+			<original>基础值</original>
+			<edited>基础值</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Param_Correction_Weight" offset="00" relocatable="true" max_length="0">
+			<original>武器重量</original>
+			<edited>武器重量</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Param_Correction_God" offset="00" relocatable="true" max_length="0">
+			<original>纹章士</original>
+			<edited>纹章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Param_Correction_Support" offset="00" relocatable="true" max_length="0">
+			<original>支援</original>
+			<edited>支援</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Param_Correction_Terrain" offset="00" relocatable="true" max_length="0">
+			<original>地形</original>
+			<edited>地形</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Param_Correction_Effect" offset="00" relocatable="true" max_length="0">
+			<original>效果</original>
+			<edited>效果</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Param_Correction_Hub" offset="00" relocatable="true" max_length="0">
+			<original>据点行动</original>
+			<edited>据点行动</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Material_Iron" offset="00" relocatable="true" max_length="0">
+			<original>铁晶石</original>
+			<edited>铁晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Material_Steel" offset="00" relocatable="true" max_length="0">
+			<original>钢晶石</original>
+			<edited>钢晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Material_Silver" offset="00" relocatable="true" max_length="0">
+			<original>银晶石</original>
+			<edited>银晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PieceOfBonds" offset="00" relocatable="true" max_length="0">
+			<original>牵绊碎片</original>
+			<edited>牵绊碎片</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_B_INFO_DAMAGE" offset="00" relocatable="true" max_length="0">
+			<original>预测伤害</original>
+			<edited>预测伤害</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GET" offset="00" relocatable="true" max_length="0">
+			<original>获得</original>
+			<edited>获得</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_COST" offset="00" relocatable="true" max_length="0">
+			<original>消费</original>
+			<edited>消费</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_JOIN_UNIT" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;成为伙伴了。</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;成为伙伴了。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_JOIN_UNIT2" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;与&#xE;&#x1;&#x1;&#x0;成为伙伴了。</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;与&#xE;&#x1;&#x1;&#x0;成为伙伴了。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_JOIN_UNIT3" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;、&#xE;&#x1;&#x1;&#x0;、&#xE;&#x1;&#x2;&#x0;成为伙伴了。</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;、&#xE;&#x1;&#x1;&#x0;、&#xE;&#x1;&#x2;&#x0;成为伙伴了。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GET_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>获得了&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;。</original>
+			<edited>获得了&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GET_ALREADY" offset="00" relocatable="true" max_length="0">
+			<original>待读取次数回复后才可读取此amiibo。</original>
+			<edited>待读取次数回复后才可读取此amiibo。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GET_ITEM_PLURAL" offset="00" relocatable="true" max_length="0">
+			<original>获得了&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;×&#xE;&#x1;&#x2;&#x0;。</original>
+			<edited>获得了&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;×&#xE;&#x1;&#x2;&#x0;。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GET_GOLD" offset="00" relocatable="true" max_length="0">
+			<original>获得了&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;G。</original>
+			<edited>获得了&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;G。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GET_PIECE" offset="00" relocatable="true" max_length="0">
+			<original>获得了&#xE;&#x1;&#x1;&#x0;个&#xE;&#x1;&#x0;&#x0;牵绊碎片。</original>
+			<edited>获得了&#xE;&#x1;&#x1;&#x0;个&#xE;&#x1;&#x0;&#x0;牵绊碎片。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_BREAK_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;已损毁。</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;已损毁。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_DEPRIVED_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;被抢走了。</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;被抢走了。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_LEARN_SKILL" offset="00" relocatable="true" max_length="0">
+			<original>已习得兵种特技&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;。
+</original>
+			<edited>已习得兵种特技&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;。
+</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_SUPPORT_LEVEL_UP" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;与&#xE;&#x1;&#x1;&#x0;的
+支援等级提升至&#xE;&#x1;&#x2;&#x0;了。</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;与&#xE;&#x1;&#x1;&#x0;的
+支援等级提升至&#xE;&#x1;&#x2;&#x0;了。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_POPUP_RELIANCE_EXP_UP" offset="00" relocatable="true" max_length="0">
+			<original>支援值提升！</original>
+			<edited>支援值提升！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_POPUP_RELIANCE_ADDITION" offset="00" relocatable="true" max_length="0">
+			<original>出现支援对话！</original>
+			<edited>出现支援对话！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_TUTORIAL_NEW" offset="00" relocatable="true" max_length="0">
+			<original>新增了指南“&#xE;&#x1;&#x0;&#x0;”。</original>
+			<edited>新增了指南“&#xE;&#x1;&#x0;&#x0;”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_BOND_LV_CAP" offset="00" relocatable="true" max_length="0">
+			<original>有尚未观看的牵绊对话。</original>
+			<edited>有尚未观看的牵绊对话。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_FRIENDLIST_NEWPAGE" offset="00" relocatable="true" max_length="0">
+			<original>伙伴手册中新增了&#xE;&#x1;&#x0;&#x0;的页面。</original>
+			<edited>伙伴手册中新增了&#xE;&#x1;&#x0;&#x0;的页面。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_BONDRING_NEWPAGE" offset="00" relocatable="true" max_length="0">
+			<original>戒指&#xE;&#x1;&#x8;&#x0;图鉴中有新增信息。</original>
+			<edited>戒指&#xE;&#x1;&#x8;&#x0;图鉴中有新增信息。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_BOND_LV_CAP_Talk_Attention" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;与&#xE;&#x1;&#x1;&#x0;的
+牵绊经验值已满。
+（至据点或世界地图观看“牵绊对话”后
+可提升牵绊等级）</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;与&#xE;&#x1;&#x1;&#x0;的
+牵绊经验值已满。
+（至据点或世界地图观看“牵绊对话”后
+可提升牵绊等级）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_BOND_LV_CAP_RELEASE" offset="00" relocatable="true" max_length="0">
+			<original>牵绊等级突破极限！</original>
+			<edited>牵绊等级突破极限！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_BOND_LV_MAX_amiiboItem" offset="00" relocatable="true" max_length="0">
+			<original>有许多伙伴与纹章士&#xE;&#x1;&#x0;&#x0;的
+牵绊等级已达到上限，因此获得了
+特别报酬&#xE;&#x1;&#x1;&#x0;“&#xE;&#x1;&#x2;&#x0;”。</original>
+			<edited>有许多伙伴与纹章士&#xE;&#x1;&#x0;&#x0;的
+牵绊等级已达到上限，因此获得了
+特别报酬&#xE;&#x1;&#x1;&#x0;“&#xE;&#x1;&#x2;&#x0;”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_POPUP_BOND_EXP_UP" offset="00" relocatable="true" max_length="0">
+			<original>牵绊经验提升！</original>
+			<edited>牵绊经验提升！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GAMEOVER_TIMECRYSTAL_ATTENTION" offset="00" relocatable="true" max_length="0">
+			<original>不使用“龙之时水晶”，
+将会败北并结束游戏，
+是否确定？</original>
+			<edited>不使用“龙之时水晶”，
+将会败北并结束游戏，
+是否确定？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GAMEOVER_TIMECRYSTAL_ATTENTION_NETWORK" offset="00" relocatable="true" max_length="0">
+			<original>如不使用“龙之时水晶”
+将会落败并结束试炼。
+确定不使用龙之时水晶吗？</original>
+			<edited>如不使用“龙之时水晶”
+将会落败并结束试炼。
+确定不使用龙之时水晶吗？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GAMEOVER_TIMECRYSTAL_ATTENTION_YES" offset="00" relocatable="true" max_length="0">
+			<original>是（结束游戏）</original>
+			<edited>是（结束游戏）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GAMEOVER_TIMECRYSTAL_ATTENTION_YES_NETWORK" offset="00" relocatable="true" max_length="0">
+			<original>是（落败）</original>
+			<edited>是（落败）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GAMEOVER_TIMECRYSTAL_ATTENTION_NO" offset="00" relocatable="true" max_length="0">
+			<original>否（使用龙之时水晶）</original>
+			<edited>否（使用龙之时水晶）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GAMEOVER_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>要重新挑战地图关卡吗？
+（也可保留战斗中获得的经验值重新开始）</original>
+			<edited>要重新挑战地图关卡吗？
+（也可保留战斗中获得的经验值重新开始）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GAMEOVER_YES_EXP_ON" offset="00" relocatable="true" max_length="0">
+			<original>保留经验值重新开始</original>
+			<edited>保留经验值重新开始</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GAMEOVER_YES_EXP_OFF" offset="00" relocatable="true" max_length="0">
+			<original>舍弃经验值重新开始</original>
+			<edited>舍弃经验值重新开始</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GAMEOVER_NO" offset="00" relocatable="true" max_length="0">
+			<original>返回标题画面</original>
+			<edited>返回标题画面</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_BGM_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>环境设置中新增了“背景音乐设置”的项目。
+可在此分别设置剧情地图以外的
+我军及敌军行动阶段的背景音乐。</original>
+			<edited>环境设置中新增了“背景音乐设置”的项目。
+可在此分别设置剧情地图以外的
+我军及敌军行动阶段的背景音乐。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_ENGAGE_PLUS_ATTENTION" offset="00" relocatable="true" max_length="0">
+			<original>纹章士&#xE;&#x6;&#x3;&#x0;的“结合+”
+无法用于“续战的试炼”与“异界的试炼”。
+</original>
+			<edited>纹章士&#xE;&#x6;&#x3;&#x0;的“结合+”
+无法用于“续战的试炼”与“异界的试炼”。
+</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_STORY_COMPLETE_REWARD" offset="00" relocatable="true" max_length="0">
+			<original>剧情通关奖励</original>
+			<edited>剧情通关奖励</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_PLAYER_PHASE" offset="00" relocatable="true" max_length="0">
+			<original>PLAYER PHASE</original>
+			<edited>PLAYER PHASE</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_ENEMY_PHASE" offset="00" relocatable="true" max_length="0">
+			<original>ENEMY PHASE</original>
+			<edited>ENEMY PHASE</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_ALLY_PHASE" offset="00" relocatable="true" max_length="0">
+			<original>ALLY PHASE</original>
+			<edited>ALLY PHASE</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_OFFENSE_PHASE" offset="00" relocatable="true" max_length="0">
+			<original>OFFENSE PHASE</original>
+			<edited>OFFENSE PHASE</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_DEFENSE_PHASE" offset="00" relocatable="true" max_length="0">
+			<original>DEFENSE PHASE</original>
+			<edited>DEFENSE PHASE</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_PHASE_TURN" offset="00" relocatable="true" max_length="0">
+			<original>剩余&#xE;&#x1;&#x0;&#x0;回合</original>
+			<edited>剩余&#xE;&#x1;&#x0;&#x0;回合</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_AUTO_TROPE" offset="00" relocatable="true" max_length="0">
+			<original>委任中……</original>
+			<edited>委任中……</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_SKIP_TROPE" offset="00" relocatable="true" max_length="0">
+			<original>跳过中……</original>
+			<edited>跳过中……</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_LEVEL_UP" offset="00" relocatable="true" max_length="0">
+			<original>LEVEL UP!</original>
+			<edited>LEVEL UP!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_CLASS_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>CLASS CHANGE!</original>
+			<edited>CLASS CHANGE!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_STAGE_CLEAR" offset="00" relocatable="true" max_length="0">
+			<original>STAGE CLEAR!</original>
+			<edited>STAGE CLEAR!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GAME_OVER" offset="00" relocatable="true" max_length="0">
+			<original>GAME OVER</original>
+			<edited>GAME OVER</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_POPUP_CRITICAL" offset="00" relocatable="true" max_length="0">
+			<original>Critical!</original>
+			<edited>Critical!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_POPUP_BREAK" offset="00" relocatable="true" max_length="0">
+			<original>Break!</original>
+			<edited>Break!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_POPUP_MISS" offset="00" relocatable="true" max_length="0">
+			<original>Miss!</original>
+			<edited>Miss!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_POPUP_NO_DAMAGE" offset="00" relocatable="true" max_length="0">
+			<original>No Damage!</original>
+			<edited>No Damage!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_POPUP_SMASH" offset="00" relocatable="true" max_length="0">
+			<original>Smash!</original>
+			<edited>Smash!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_POPUP_CHAINATTACK" offset="00" relocatable="true" max_length="0">
+			<original>Chain Attack!</original>
+			<edited>Chain Attack!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_POPUP_CHAINGUARD" offset="00" relocatable="true" max_length="0">
+			<original>Chain Guard!</original>
+			<edited>Chain Guard!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_POPUP_DUALGUARD" offset="00" relocatable="true" max_length="0">
+			<original>Dual Guard!</original>
+			<edited>Dual Guard!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MYFACE_SELECT" offset="00" relocatable="true" max_length="0">
+			<original>切换外观</original>
+			<edited>切换外观</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_BIRTHDAY_SELECT" offset="00" relocatable="true" max_length="0">
+			<original>切换日期</original>
+			<edited>切换日期</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MAP_HELP" offset="00" relocatable="true" max_length="0">
+			<original>详细信息</original>
+			<edited>详细信息</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MINIGAME_OPERATION_HELP" offset="00" relocatable="true" max_length="0">
+			<original>操作说明</original>
+			<edited>操作说明</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MAP_NOT_ACTION" offset="00" relocatable="true" max_length="0">
+			<original>切换单位</original>
+			<edited>切换单位</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MAP_UNIT_VIEWER" offset="00" relocatable="true" max_length="0">
+			<original>单位详细</original>
+			<edited>单位详细</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MAP_CANCEL_ORDERS" offset="00" relocatable="true" max_length="0">
+			<original>取消自动战斗</original>
+			<edited>取消自动战斗</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MAP_SKIP" offset="00" relocatable="true" max_length="0">
+			<original>跳过</original>
+			<edited>跳过</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_GMAP_LOOK_OVER" offset="00" relocatable="true" max_length="0">
+			<original>地图</original>
+			<edited>地图</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_GMAP_MOVE_NEWEST" offset="00" relocatable="true" max_length="0">
+			<original>进入最新章节</original>
+			<edited>进入最新章节</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_GMAP_FREE_CAMERA" offset="00" relocatable="true" max_length="0">
+			<original>自由视角</original>
+			<edited>自由视角</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MAP_ACTION" offset="00" relocatable="true" max_length="0">
+			<original>切换地图</original>
+			<edited>切换地图</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_DASH" offset="00" relocatable="true" max_length="0">
+			<original>奔跑</original>
+			<edited>奔跑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU" offset="00" relocatable="true" max_length="0">
+			<original>菜单</original>
+			<edited>菜单</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_ACTION" offset="00" relocatable="true" max_length="0">
+			<original>切换菜单</original>
+			<edited>切换菜单</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_CATEGORY_ACTION" offset="00" relocatable="true" max_length="0">
+			<original>切换项目</original>
+			<edited>切换项目</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_TALK_AUTOPLAY" offset="00" relocatable="true" max_length="0">
+			<original>自动播放</original>
+			<edited>自动播放</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_TALK_AUTOPLAY_CANCEL" offset="00" relocatable="true" max_length="0">
+			<original>结束自动播放</original>
+			<edited>结束自动播放</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_TALK_LOG" offset="00" relocatable="true" max_length="0">
+			<original>对话履历</original>
+			<edited>对话履历</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_TALK_LOG_VOICE" offset="00" relocatable="true" max_length="0">
+			<original>播放语音</original>
+			<edited>播放语音</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_DECIDE" offset="00" relocatable="true" max_length="0">
+			<original>确定</original>
+			<edited>确定</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_SELECT" offset="00" relocatable="true" max_length="0">
+			<original>选择</original>
+			<edited>选择</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_RETURN" offset="00" relocatable="true" max_length="0">
+			<original>返回</original>
+			<edited>返回</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_AUTO" offset="00" relocatable="true" max_length="0">
+			<original>统一整理</original>
+			<edited>统一整理</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_TROOPLIST_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>切换部队表</original>
+			<edited>切换部队表</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_HELP" offset="00" relocatable="true" max_length="0">
+			<original>详细信息</original>
+			<edited>详细信息</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_ASSISTINFO_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>辅助信息</original>
+			<edited>辅助信息</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_WEAPON_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>切换武器</original>
+			<edited>切换武器</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_UNIT_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>切换单位</original>
+			<edited>切换单位</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_CHARACTER_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>切换伙伴</original>
+			<edited>切换伙伴</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_GOD_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>切换纹章士</original>
+			<edited>切换纹章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_HELP_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>切换显示信息</original>
+			<edited>切换显示信息</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_ABILITY" offset="00" relocatable="true" max_length="0">
+			<original>能力一览</original>
+			<edited>能力一览</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_BATTLE_START" offset="00" relocatable="true" max_length="0">
+			<original>开始战斗</original>
+			<edited>开始战斗</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_TUTORIAL" offset="00" relocatable="true" max_length="0">
+			<original>指南</original>
+			<edited>指南</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_COUNTRY_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>切换国家</original>
+			<edited>切换国家</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_ZOOM_PICTURE" offset="00" relocatable="true" max_length="0">
+			<original>放大</original>
+			<edited>放大</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_UNIT_SELECT" offset="00" relocatable="true" max_length="0">
+			<original>清单</original>
+			<edited>清单</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_LOOK_UNIT" offset="00" relocatable="true" max_length="0">
+			<original>查看</original>
+			<edited>查看</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_CAMERA_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>切换视角</original>
+			<edited>切换视角</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_CAMERA_IN_OUT" offset="00" relocatable="true" max_length="0">
+			<original>上下视角</original>
+			<edited>上下视角</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_CAMERA_OPERATION" offset="00" relocatable="true" max_length="0">
+			<original>操作视角</original>
+			<edited>操作视角</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_BACK_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>切换背景</original>
+			<edited>切换背景</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_UI_HIDE" offset="00" relocatable="true" max_length="0">
+			<original>标志ON/OFF</original>
+			<edited>标志ON/OFF</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_EYES" offset="00" relocatable="true" max_length="0">
+			<original>视线ON/OFF</original>
+			<edited>视线ON/OFF</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_RESET" offset="00" relocatable="true" max_length="0">
+			<original>重置设置</original>
+			<edited>重置设置</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_SORT" offset="00" relocatable="true" max_length="0">
+			<original>排序</original>
+			<edited>排序</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_FISHING_CAST" offset="00" relocatable="true" max_length="0">
+			<original>抛竿</original>
+			<edited>抛竿</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_FISHING_CAST_STOP" offset="00" relocatable="true" max_length="0">
+			<original>取消</original>
+			<edited>取消</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_ACHIEVEMENT" offset="00" relocatable="true" max_length="0">
+			<original>领取达成奖励</original>
+			<edited>领取达成奖励</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_ACHIEVEMENT_ALL" offset="00" relocatable="true" max_length="0">
+			<original>批量领取</original>
+			<edited>批量领取</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MOVIE_CAPTION" offset="00" relocatable="true" max_length="0">
+			<original>字幕ON/OFF</original>
+			<edited>字幕ON/OFF</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_EDIT_TURN" offset="00" relocatable="true" max_length="0">
+			<original>旋转</original>
+			<edited>旋转</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_EDIT_PUT" offset="00" relocatable="true" max_length="0">
+			<original>配置</original>
+			<edited>配置</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_EDIT_DELETE" offset="00" relocatable="true" max_length="0">
+			<original>消除</original>
+			<edited>消除</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_EDIT_TACTICS_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>更改战术</original>
+			<edited>更改战术</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_EDIT_LIST" offset="00" relocatable="true" max_length="0">
+			<original>地形一览</original>
+			<edited>地形一览</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_EDIT_OBJCHANGE" offset="00" relocatable="true" max_length="0">
+			<original>切换地形</original>
+			<edited>切换地形</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_EDIT_UNDO" offset="00" relocatable="true" max_length="0">
+			<original>撤消</original>
+			<edited>撤消</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_NEXT" offset="00" relocatable="true" max_length="0">
+			<original>继续</original>
+			<edited>继续</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_ANIMAL_VIEW" offset="00" relocatable="true" max_length="0">
+			<original>环视</original>
+			<edited>环视</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_ANIMAL_ACTION" offset="00" relocatable="true" max_length="0">
+			<original>动作</original>
+			<edited>动作</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_REWIND_TURN" offset="00" relocatable="true" max_length="0">
+			<original>下一回合</original>
+			<edited>下一回合</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_REWIND_ACTION" offset="00" relocatable="true" max_length="0">
+			<original>选择</original>
+			<edited>选择</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WEAPON_NAME_REFINE" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;＋&#xE;&#x1;&#x1;&#x0;</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;＋&#xE;&#x1;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WEAPON_NAME_ENGRAVE" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WEAPON_NAME_ENGRAVE_REFINE" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;＋&#xE;&#x1;&#x1;&#x0;&#xE;&#x1;&#x2;&#x0;</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;＋&#xE;&#x1;&#x1;&#x0;&#xE;&#x1;&#x2;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RING_RANK_S" offset="00" relocatable="true" max_length="0">
+			<original>S</original>
+			<edited>S</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RING_RANK_A" offset="00" relocatable="true" max_length="0">
+			<original>A</original>
+			<edited>A</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RING_RANK_B" offset="00" relocatable="true" max_length="0">
+			<original>B</original>
+			<edited>B</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RING_RANK_C" offset="00" relocatable="true" max_length="0">
+			<original>C</original>
+			<edited>C</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LOCALIZE_COLON" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_LOCALIZE_HYPHEN" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_LOCALIZE_CN_THIRD_M" offset="00" relocatable="true" max_length="0">
+			<original>他</original>
+			<edited>他</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LOCALIZE_CN_THIRD_F" offset="00" relocatable="true" max_length="0">
+			<original>她</original>
+			<edited>她</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LOCALIZE_TW_THIRD_M" offset="00" relocatable="true" max_length="0">
+			<original>他</original>
+			<edited>他</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LOCALIZE_TW_THIRD_F" offset="00" relocatable="true" max_length="0">
+			<original>她</original>
+			<edited>她</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_JP_JAPANESE" offset="00" relocatable="true" max_length="0">
+			<original>日语</original>
+			<edited>日语</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_US_ENGLISH" offset="00" relocatable="true" max_length="0">
+			<original>英语</original>
+			<edited>英语</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_US_FRENCH" offset="00" relocatable="true" max_length="0">
+			<original>北美法语</original>
+			<edited>北美法语</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_US_SPANISH" offset="00" relocatable="true" max_length="0">
+			<original>北美西班牙语</original>
+			<edited>北美西班牙语</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_EU_ENGLISH" offset="00" relocatable="true" max_length="0">
+			<original>欧洲英语</original>
+			<edited>欧洲英语</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_EU_FRENCH" offset="00" relocatable="true" max_length="0">
+			<original>法语</original>
+			<edited>法语</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_EU_SPANISH" offset="00" relocatable="true" max_length="0">
+			<original>西班牙语</original>
+			<edited>西班牙语</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_EU_GERMAN" offset="00" relocatable="true" max_length="0">
+			<original>欧洲德语</original>
+			<edited>欧洲德语</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_EU_ITALIAN" offset="00" relocatable="true" max_length="0">
+			<original>欧洲意大利语</original>
+			<edited>欧洲意大利语</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_CN_TRADITIONAL" offset="00" relocatable="true" max_length="0">
+			<original>繁体中文</original>
+			<edited>繁体中文</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_CN_SIMPLIFIED" offset="00" relocatable="true" max_length="0">
+			<original>简体中文</original>
+			<edited>简体中文</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_KR_KOREAN" offset="00" relocatable="true" max_length="0">
+			<original>韩语</original>
+			<edited>韩语</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_VOICE_JAPANESE" offset="00" relocatable="true" max_length="0">
+			<original>日语</original>
+			<edited>日语</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_VOICE_ENGLISH" offset="00" relocatable="true" max_length="0">
+			<original>英语</original>
+			<edited>英语</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GET_ITEM_FEH" offset="00" relocatable="true" max_length="0">
+			<original>已领取特典</original>
+			<edited>已领取特典</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

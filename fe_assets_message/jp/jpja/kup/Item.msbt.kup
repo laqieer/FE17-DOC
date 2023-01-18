@@ -1,0 +1,4151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MIID_None" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_None" offset="00" relocatable="true" max_length="0">
+			<original>--------</original>
+			<edited>--------</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Unknown" offset="00" relocatable="true" max_length="0">
+			<original>？？？</original>
+			<edited>？？？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Unknown" offset="00" relocatable="true" max_length="0">
+			<original>？？？？？</original>
+			<edited>？？？？？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_UnknownArg" offset="00" relocatable="true" max_length="0">
+			<original>？？？&#xE;&#x1;&#x0;&#x0;</original>
+			<edited>？？？&#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_IronSword" offset="00" relocatable="true" max_length="0">
+			<original>てつの剣</original>
+			<edited>てつの剣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_IronSword" offset="00" relocatable="true" max_length="0">
+			<original>標準的な剣</original>
+			<edited>標準的な剣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SteelSword" offset="00" relocatable="true" max_length="0">
+			<original>はがねの剣</original>
+			<edited>はがねの剣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SteelSword" offset="00" relocatable="true" max_length="0">
+			<original>鋼で作られた剣</original>
+			<edited>鋼で作られた剣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SilverSword" offset="00" relocatable="true" max_length="0">
+			<original>ぎんの剣</original>
+			<edited>ぎんの剣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SilverSword" offset="00" relocatable="true" max_length="0">
+			<original>希少な金属で作られた剣</original>
+			<edited>希少な金属で作られた剣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SmallSword" offset="00" relocatable="true" max_length="0">
+			<original>ほそみの剣</original>
+			<edited>ほそみの剣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SmallSword" offset="00" relocatable="true" max_length="0">
+			<original>軽くて扱いやすい剣</original>
+			<edited>軽くて扱いやすい剣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_BraveSword" offset="00" relocatable="true" max_length="0">
+			<original>勇者の剣</original>
+			<edited>勇者の剣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_BraveSword" offset="00" relocatable="true" max_length="0">
+			<original>達人のみが使える剣
+自分から攻撃した時、2連続攻撃</original>
+			<edited>達人のみが使える剣
+自分から攻撃した時、2連続攻撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_ThunderSword" offset="00" relocatable="true" max_length="0">
+			<original>いかづちの剣</original>
+			<edited>いかづちの剣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_ThunderSword" offset="00" relocatable="true" max_length="0">
+			<original>魔法の雷で離れた敵にも攻撃可能</original>
+			<edited>魔法の雷で離れた敵にも攻撃可能</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Liberation" offset="00" relocatable="true" max_length="0">
+			<original>リベラシオン</original>
+			<edited>リベラシオン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Liberation_M000" offset="00" relocatable="true" max_length="0">
+			<original>神竜専用の剣</original>
+			<edited>神竜専用の剣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Liberation" offset="00" relocatable="true" max_length="0">
+			<original>神竜専用
+自分から攻撃して敵を撃破した時
+エンゲージカウント＋1</original>
+			<edited>神竜専用
+自分から攻撃して敵を撃破した時
+エンゲージカウント＋1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_KillingEdge" offset="00" relocatable="true" max_length="0">
+			<original>キルソード</original>
+			<edited>キルソード</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_KillingEdge" offset="00" relocatable="true" max_length="0">
+			<original>致命傷を与えやすい剣</original>
+			<edited>致命傷を与えやすい剣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_JapaneseSword" offset="00" relocatable="true" max_length="0">
+			<original>倭刀</original>
+			<edited>倭刀</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_JapaneseSword" offset="00" relocatable="true" max_length="0">
+			<original>切れ味の鋭い刀</original>
+			<edited>切れ味の鋭い刀</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Armorslayer" offset="00" relocatable="true" max_length="0">
+			<original>アーマーキラー</original>
+			<edited>アーマーキラー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Armorslayer" offset="00" relocatable="true" max_length="0">
+			<original>重装の敵に特化した剣
+重装特効</original>
+			<edited>重装の敵に特化した剣
+重装特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GodSword" offset="00" relocatable="true" max_length="0">
+			<original>クラドホルグ</original>
+			<edited>クラドホルグ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GodSword" offset="00" relocatable="true" max_length="0">
+			<original>伝説の名剣</original>
+			<edited>伝説の名剣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_IronSwordL" offset="00" relocatable="true" max_length="0">
+			<original>てつの大剣</original>
+			<edited>てつの大剣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_IronSwordL" offset="00" relocatable="true" max_length="0">
+			<original>大振りの剣
+追撃不可/自分から攻撃した時
+必ず後攻攻撃になるがスマッシュ発生</original>
+			<edited>大振りの剣
+追撃不可/自分から攻撃した時
+必ず後攻攻撃になるがスマッシュ発生</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SteelSwordL" offset="00" relocatable="true" max_length="0">
+			<original>はがねの大剣</original>
+			<edited>はがねの大剣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SteelSwordL" offset="00" relocatable="true" max_length="0">
+			<original>鋼で作られた大振りの剣
+追撃不可/自分から攻撃した時
+必ず後攻攻撃になるがスマッシュ発生</original>
+			<edited>鋼で作られた大振りの剣
+追撃不可/自分から攻撃した時
+必ず後攻攻撃になるがスマッシュ発生</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SilverSwordL" offset="00" relocatable="true" max_length="0">
+			<original>ぎんの大剣</original>
+			<edited>ぎんの大剣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SilverSwordL" offset="00" relocatable="true" max_length="0">
+			<original>希少な金属で作られた大振りの剣
+追撃不可/自分から攻撃した時
+必ず後攻攻撃になるがスマッシュ発生</original>
+			<edited>希少な金属で作られた大振りの剣
+追撃不可/自分から攻撃した時
+必ず後攻攻撃になるがスマッシュ発生</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_WilleGlanz" offset="00" relocatable="true" max_length="0">
+			<original>ヴィレグランツ</original>
+			<edited>ヴィレグランツ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_WilleGlanz" offset="00" relocatable="true" max_length="0">
+			<original>神竜専用
+離れた敵にも攻撃可能</original>
+			<edited>神竜専用
+離れた敵にも攻撃可能</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GodSwordL" offset="00" relocatable="true" max_length="0">
+			<original>ゲオルギオス</original>
+			<edited>ゲオルギオス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GodSwordL" offset="00" relocatable="true" max_length="0">
+			<original>伝説の名剣
+追撃不可/自分から攻撃した時
+必ず後攻攻撃になるがスマッシュ発生</original>
+			<edited>伝説の名剣
+追撃不可/自分から攻撃した時
+必ず後攻攻撃になるがスマッシュ発生</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Dragonslayer" offset="00" relocatable="true" max_length="0">
+			<original>ドラゴンキラー</original>
+			<edited>ドラゴンキラー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Dragonslayer" offset="00" relocatable="true" max_length="0">
+			<original>竜を攻撃するのに特化した剣
+竜特効</original>
+			<edited>竜を攻撃するのに特化した剣
+竜特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_IronLance" offset="00" relocatable="true" max_length="0">
+			<original>てつの槍</original>
+			<edited>てつの槍</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_IronLance" offset="00" relocatable="true" max_length="0">
+			<original>標準的な槍</original>
+			<edited>標準的な槍</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SteelLance" offset="00" relocatable="true" max_length="0">
+			<original>はがねの槍</original>
+			<edited>はがねの槍</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SteelLance" offset="00" relocatable="true" max_length="0">
+			<original>鋼で作られた槍</original>
+			<edited>鋼で作られた槍</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SilverLance" offset="00" relocatable="true" max_length="0">
+			<original>ぎんの槍</original>
+			<edited>ぎんの槍</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SilverLance" offset="00" relocatable="true" max_length="0">
+			<original>希少な金属で作られた槍</original>
+			<edited>希少な金属で作られた槍</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SmallLance" offset="00" relocatable="true" max_length="0">
+			<original>ほそみの槍</original>
+			<edited>ほそみの槍</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SmallLance" offset="00" relocatable="true" max_length="0">
+			<original>軽くて扱いやすい槍</original>
+			<edited>軽くて扱いやすい槍</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_BraveLance" offset="00" relocatable="true" max_length="0">
+			<original>勇者の槍</original>
+			<edited>勇者の槍</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_BraveLance" offset="00" relocatable="true" max_length="0">
+			<original>達人のみが使える槍
+自分から攻撃した時、2連続攻撃</original>
+			<edited>達人のみが使える槍
+自分から攻撃した時、2連続攻撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_HandLance" offset="00" relocatable="true" max_length="0">
+			<original>手槍</original>
+			<edited>手槍</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_HandLance" offset="00" relocatable="true" max_length="0">
+			<original>投げ槍
+離れた敵にも攻撃可能</original>
+			<edited>投げ槍
+離れた敵にも攻撃可能</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_RiderKiller" offset="00" relocatable="true" max_length="0">
+			<original>ナイトキラー</original>
+			<edited>ナイトキラー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_RiderKiller" offset="00" relocatable="true" max_length="0">
+			<original>騎馬の敵に特化した槍
+騎馬特効</original>
+			<edited>騎馬の敵に特化した槍
+騎馬特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_KillerLance" offset="00" relocatable="true" max_length="0">
+			<original>キラーランス</original>
+			<edited>キラーランス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_KillerLance" offset="00" relocatable="true" max_length="0">
+			<original>致命傷を与えやすい槍</original>
+			<edited>致命傷を与えやすい槍</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Spear" offset="00" relocatable="true" max_length="0">
+			<original>スレンドスピア</original>
+			<edited>スレンドスピア</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Spear" offset="00" relocatable="true" max_length="0">
+			<original>高威力の投げ槍
+離れた敵にも攻撃可能</original>
+			<edited>高威力の投げ槍
+離れた敵にも攻撃可能</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FlameSpear" offset="00" relocatable="true" max_length="0">
+			<original>炎の槍</original>
+			<edited>炎の槍</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FlameSpear" offset="00" relocatable="true" max_length="0">
+			<original>魔法の炎で離れた敵にも攻撃可能</original>
+			<edited>魔法の炎で離れた敵にも攻撃可能</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GodLance" offset="00" relocatable="true" max_length="0">
+			<original>ブリューナク</original>
+			<edited>ブリューナク</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GodLance" offset="00" relocatable="true" max_length="0">
+			<original>伝説の名槍
+離れた敵にも攻撃可能</original>
+			<edited>伝説の名槍
+離れた敵にも攻撃可能</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_IronLanceL" offset="00" relocatable="true" max_length="0">
+			<original>てつの大槍</original>
+			<edited>てつの大槍</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_IronLanceL" offset="00" relocatable="true" max_length="0">
+			<original>大振りの槍
+追撃不可/自分から攻撃した時
+必ず後攻攻撃になるがスマッシュ発生</original>
+			<edited>大振りの槍
+追撃不可/自分から攻撃した時
+必ず後攻攻撃になるがスマッシュ発生</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SteelLanceL" offset="00" relocatable="true" max_length="0">
+			<original>はがねの大槍</original>
+			<edited>はがねの大槍</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SteelLanceL" offset="00" relocatable="true" max_length="0">
+			<original>鋼で作られた大振りの槍
+追撃不可/自分から攻撃した時
+必ず後攻攻撃になるがスマッシュ発生</original>
+			<edited>鋼で作られた大振りの槍
+追撃不可/自分から攻撃した時
+必ず後攻攻撃になるがスマッシュ発生</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SilverLanceL" offset="00" relocatable="true" max_length="0">
+			<original>ぎんの大槍</original>
+			<edited>ぎんの大槍</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SilverLanceL" offset="00" relocatable="true" max_length="0">
+			<original>希少な金属で作られた大振りの槍
+追撃不可/自分から攻撃した時
+必ず後攻攻撃になるがスマッシュ発生</original>
+			<edited>希少な金属で作られた大振りの槍
+追撃不可/自分から攻撃した時
+必ず後攻攻撃になるがスマッシュ発生</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GodLanceL" offset="00" relocatable="true" max_length="0">
+			<original>ヴェノマス</original>
+			<edited>ヴェノマス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GodLanceL" offset="00" relocatable="true" max_length="0">
+			<original>伝説の名槍
+相手に毒を与える/追撃不可/自分から攻撃
+した時必ず後攻攻撃になるがスマッシュ発生</original>
+			<edited>伝説の名槍
+相手に毒を与える/追撃不可/自分から攻撃
+した時必ず後攻攻撃になるがスマッシュ発生</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_IronAxe" offset="00" relocatable="true" max_length="0">
+			<original>てつの斧</original>
+			<edited>てつの斧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_IronAxe" offset="00" relocatable="true" max_length="0">
+			<original>標準的な斧</original>
+			<edited>標準的な斧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SteelAxe" offset="00" relocatable="true" max_length="0">
+			<original>はがねの斧</original>
+			<edited>はがねの斧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SteelAxe" offset="00" relocatable="true" max_length="0">
+			<original>鋼で作られた斧</original>
+			<edited>鋼で作られた斧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SilverAxe" offset="00" relocatable="true" max_length="0">
+			<original>ぎんの斧</original>
+			<edited>ぎんの斧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SilverAxe" offset="00" relocatable="true" max_length="0">
+			<original>希少な金属で作られた斧</original>
+			<edited>希少な金属で作られた斧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SmallAxe" offset="00" relocatable="true" max_length="0">
+			<original>ショートアクス</original>
+			<edited>ショートアクス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SmallAxe" offset="00" relocatable="true" max_length="0">
+			<original>軽くて扱いやすい斧</original>
+			<edited>軽くて扱いやすい斧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_BraveAxe" offset="00" relocatable="true" max_length="0">
+			<original>勇者の斧</original>
+			<edited>勇者の斧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_BraveAxe" offset="00" relocatable="true" max_length="0">
+			<original>達人のみが使える斧
+自分から攻撃した時、2連続攻撃</original>
+			<edited>達人のみが使える斧
+自分から攻撃した時、2連続攻撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_HandAxe" offset="00" relocatable="true" max_length="0">
+			<original>手斧</original>
+			<edited>手斧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_HandAxe" offset="00" relocatable="true" max_length="0">
+			<original>投げ斧
+離れた敵にも攻撃可能</original>
+			<edited>投げ斧
+離れた敵にも攻撃可能</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Tomahawk" offset="00" relocatable="true" max_length="0">
+			<original>トマホーク</original>
+			<edited>トマホーク</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Tomahawk" offset="00" relocatable="true" max_length="0">
+			<original>高威力の投げ斧
+離れた敵にも攻撃可能</original>
+			<edited>高威力の投げ斧
+離れた敵にも攻撃可能</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Hammer" offset="00" relocatable="true" max_length="0">
+			<original>ハンマー</original>
+			<edited>ハンマー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Hammer" offset="00" relocatable="true" max_length="0">
+			<original>重装の兵士に特化した戦鎚
+重装特効</original>
+			<edited>重装の兵士に特化した戦鎚
+重装特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_KillerAxe" offset="00" relocatable="true" max_length="0">
+			<original>キラーアクス</original>
+			<edited>キラーアクス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_KillerAxe" offset="00" relocatable="true" max_length="0">
+			<original>致命傷を与えやすい斧</original>
+			<edited>致命傷を与えやすい斧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_PoleAxe" offset="00" relocatable="true" max_length="0">
+			<original>ポールアクス</original>
+			<edited>ポールアクス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_PoleAxe" offset="00" relocatable="true" max_length="0">
+			<original>騎馬に特化した柄の長い斧
+騎馬特効</original>
+			<edited>騎馬に特化した柄の長い斧
+騎馬特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GodAxe" offset="00" relocatable="true" max_length="0">
+			<original>フラガラッハ</original>
+			<edited>フラガラッハ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GodAxe" offset="00" relocatable="true" max_length="0">
+			<original>伝説の名斧</original>
+			<edited>伝説の名斧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_IronAxeL" offset="00" relocatable="true" max_length="0">
+			<original>てつの大斧</original>
+			<edited>てつの大斧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_IronAxeL" offset="00" relocatable="true" max_length="0">
+			<original>大振りの斧
+追撃不可/自分から攻撃した時
+必ず後攻攻撃になるがスマッシュ発生</original>
+			<edited>大振りの斧
+追撃不可/自分から攻撃した時
+必ず後攻攻撃になるがスマッシュ発生</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SteelAxeL" offset="00" relocatable="true" max_length="0">
+			<original>はがねの大斧</original>
+			<edited>はがねの大斧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SteelAxeL" offset="00" relocatable="true" max_length="0">
+			<original>鋼で作られた大振りの斧
+追撃不可/自分から攻撃した時
+必ず後攻攻撃になるがスマッシュ発生</original>
+			<edited>鋼で作られた大振りの斧
+追撃不可/自分から攻撃した時
+必ず後攻攻撃になるがスマッシュ発生</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SilverAxeL" offset="00" relocatable="true" max_length="0">
+			<original>ぎんの大斧</original>
+			<edited>ぎんの大斧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SilverAxeL" offset="00" relocatable="true" max_length="0">
+			<original>希少な金属で作られた大振りの斧
+追撃不可/自分から攻撃した時
+必ず後攻攻撃になるがスマッシュ発生</original>
+			<edited>希少な金属で作られた大振りの斧
+追撃不可/自分から攻撃した時
+必ず後攻攻撃になるがスマッシュ発生</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_WindAxeL" offset="00" relocatable="true" max_length="0">
+			<original>風の大斧</original>
+			<edited>風の大斧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_WindAxeL" offset="00" relocatable="true" max_length="0">
+			<original>刃に魔力をまとう魔法の斧
+追撃不可/自分から攻撃した時
+必ず後攻攻撃になるがスマッシュ発生</original>
+			<edited>刃に魔力をまとう魔法の斧
+追撃不可/自分から攻撃した時
+必ず後攻攻撃になるがスマッシュ発生</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GodAxeL" offset="00" relocatable="true" max_length="0">
+			<original>ウコンバサラ</original>
+			<edited>ウコンバサラ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GodAxeL" offset="00" relocatable="true" max_length="0">
+			<original>伝説の名斧
+追撃不可/自分から攻撃した時
+必ず後攻攻撃になるがスマッシュ発生</original>
+			<edited>伝説の名斧
+追撃不可/自分から攻撃した時
+必ず後攻攻撃になるがスマッシュ発生</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_ShortBow" offset="00" relocatable="true" max_length="0">
+			<original>ショートボウ</original>
+			<edited>ショートボウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_ShortBow" offset="00" relocatable="true" max_length="0">
+			<original>射程が短いが扱いやすい弓
+飛行特効</original>
+			<edited>射程が短いが扱いやすい弓
+飛行特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_IronBow" offset="00" relocatable="true" max_length="0">
+			<original>てつの弓</original>
+			<edited>てつの弓</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_IronBow" offset="00" relocatable="true" max_length="0">
+			<original>標準的な弓
+飛行特効</original>
+			<edited>標準的な弓
+飛行特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SteelBow" offset="00" relocatable="true" max_length="0">
+			<original>はがねの弓</original>
+			<edited>はがねの弓</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SteelBow" offset="00" relocatable="true" max_length="0">
+			<original>鋼で作られた弓
+飛行特効</original>
+			<edited>鋼で作られた弓
+飛行特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SilverBow" offset="00" relocatable="true" max_length="0">
+			<original>ぎんの弓</original>
+			<edited>ぎんの弓</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SilverBow" offset="00" relocatable="true" max_length="0">
+			<original>希少な金属で作られた弓
+飛行特効</original>
+			<edited>希少な金属で作られた弓
+飛行特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_BraveBow" offset="00" relocatable="true" max_length="0">
+			<original>勇者の弓</original>
+			<edited>勇者の弓</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_BraveBow" offset="00" relocatable="true" max_length="0">
+			<original>達人のみが使える弓
+自分から攻撃した時、2連続攻撃
+飛行特効</original>
+			<edited>達人のみが使える弓
+自分から攻撃した時、2連続攻撃
+飛行特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_LongBow" offset="00" relocatable="true" max_length="0">
+			<original>長弓</original>
+			<edited>長弓</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_LongBow" offset="00" relocatable="true" max_length="0">
+			<original>射程の長い弓
+飛行特効</original>
+			<edited>射程の長い弓
+飛行特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_KillerBow" offset="00" relocatable="true" max_length="0">
+			<original>キラーボウ</original>
+			<edited>キラーボウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_KillerBow" offset="00" relocatable="true" max_length="0">
+			<original>致命傷を与えやすい弓
+飛行特効</original>
+			<edited>致命傷を与えやすい弓
+飛行特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_LightBow" offset="00" relocatable="true" max_length="0">
+			<original>光の弓</original>
+			<edited>光の弓</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_LightBow" offset="00" relocatable="true" max_length="0">
+			<original>魔法の弓
+魔力のこもった矢を放つ/飛行特効</original>
+			<edited>魔法の弓
+魔力のこもった矢を放つ/飛行特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GodBow" offset="00" relocatable="true" max_length="0">
+			<original>レンダウィル</original>
+			<edited>レンダウィル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GodBow" offset="00" relocatable="true" max_length="0">
+			<original>伝説の名弓
+飛行特効</original>
+			<edited>伝説の名弓
+飛行特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SmallKnife" offset="00" relocatable="true" max_length="0">
+			<original>ショートナイフ</original>
+			<edited>ショートナイフ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SmallKnife" offset="00" relocatable="true" max_length="0">
+			<original>扱いやすい短剣
+相手に毒を与える</original>
+			<edited>扱いやすい短剣
+相手に毒を与える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_IronKnife" offset="00" relocatable="true" max_length="0">
+			<original>てつのナイフ</original>
+			<edited>てつのナイフ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_IronKnife" offset="00" relocatable="true" max_length="0">
+			<original>標準的な短剣
+相手に毒を与える</original>
+			<edited>標準的な短剣
+相手に毒を与える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SteelKnife" offset="00" relocatable="true" max_length="0">
+			<original>はがねのナイフ</original>
+			<edited>はがねのナイフ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SteelKnife" offset="00" relocatable="true" max_length="0">
+			<original>鋼で作られた短剣
+相手に毒を与える</original>
+			<edited>鋼で作られた短剣
+相手に毒を与える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SilverKnife" offset="00" relocatable="true" max_length="0">
+			<original>ぎんのナイフ</original>
+			<edited>ぎんのナイフ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SilverKnife" offset="00" relocatable="true" max_length="0">
+			<original>希少な金属で作られた短剣
+相手に毒を与える</original>
+			<edited>希少な金属で作られた短剣
+相手に毒を与える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Kard" offset="00" relocatable="true" max_length="0">
+			<original>カルド</original>
+			<edited>カルド</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Kard" offset="00" relocatable="true" max_length="0">
+			<original>近接戦闘に使う短剣
+相手に毒を与える</original>
+			<edited>近接戦闘に使う短剣
+相手に毒を与える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Stiletto" offset="00" relocatable="true" max_length="0">
+			<original>スティレット</original>
+			<edited>スティレット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Stiletto" offset="00" relocatable="true" max_length="0">
+			<original>近接戦闘に使う短剣
+相手に毒を与える</original>
+			<edited>近接戦闘に使う短剣
+相手に毒を与える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Peshkad" offset="00" relocatable="true" max_length="0">
+			<original>ペシュカド</original>
+			<edited>ペシュカド</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Peshkad" offset="00" relocatable="true" max_length="0">
+			<original>近接戦闘に使う短剣
+相手に毒を与える</original>
+			<edited>近接戦闘に使う短剣
+相手に毒を与える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Misericorde" offset="00" relocatable="true" max_length="0">
+			<original>ミセリコルデ</original>
+			<edited>ミセリコルデ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Misericorde" offset="00" relocatable="true" max_length="0">
+			<original>ヴェイル専用　
+魔法の短剣。刃に魔力をまとう
+相手に毒を与える</original>
+			<edited>ヴェイル専用　
+魔法の短剣。刃に魔力をまとう
+相手に毒を与える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Cinquedea" offset="00" relocatable="true" max_length="0">
+			<original>シンクエディア</original>
+			<edited>シンクエディア</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Cinquedea" offset="00" relocatable="true" max_length="0">
+			<original>伝説の短剣
+相手に毒を与える</original>
+			<edited>伝説の短剣
+相手に毒を与える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Carnwenhan" offset="00" relocatable="true" max_length="0">
+			<original>カルンウェナン</original>
+			<edited>カルンウェナン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Carnwenhan" offset="00" relocatable="true" max_length="0">
+			<original>近接戦闘に使う伝説の短剣
+相手に毒を与える/追撃不可/自分から攻撃
+した時必ず後攻攻撃になるがスマッシュ発生</original>
+			<edited>近接戦闘に使う伝説の短剣
+相手に毒を与える/追撃不可/自分から攻撃
+した時必ず後攻攻撃になるがスマッシュ発生</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Surge" offset="00" relocatable="true" max_length="0">
+			<original>サージ</original>
+			<edited>サージ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Surge" offset="00" relocatable="true" max_length="0">
+			<original>射程の短い攻撃魔法</original>
+			<edited>射程の短い攻撃魔法</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Fire" offset="00" relocatable="true" max_length="0">
+			<original>ファイアー</original>
+			<edited>ファイアー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Fire" offset="00" relocatable="true" max_length="0">
+			<original>炎の魔法</original>
+			<edited>炎の魔法</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Thunder" offset="00" relocatable="true" max_length="0">
+			<original>サンダー</original>
+			<edited>サンダー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Thunder" offset="00" relocatable="true" max_length="0">
+			<original>雷の魔法
+追撃不可</original>
+			<edited>雷の魔法
+追撃不可</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Wind" offset="00" relocatable="true" max_length="0">
+			<original>ウインド</original>
+			<edited>ウインド</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Wind" offset="00" relocatable="true" max_length="0">
+			<original>風の魔法
+飛行特効</original>
+			<edited>風の魔法
+飛行特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_LSurge" offset="00" relocatable="true" max_length="0">
+			<original>エルサージ</original>
+			<edited>エルサージ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_LSurge" offset="00" relocatable="true" max_length="0">
+			<original>高位の近接魔法</original>
+			<edited>高位の近接魔法</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_LFire" offset="00" relocatable="true" max_length="0">
+			<original>エルファイアー</original>
+			<edited>エルファイアー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_LFire" offset="00" relocatable="true" max_length="0">
+			<original>高位の炎の魔法</original>
+			<edited>高位の炎の魔法</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_LThunder" offset="00" relocatable="true" max_length="0">
+			<original>エルサンダー</original>
+			<edited>エルサンダー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_LThunder" offset="00" relocatable="true" max_length="0">
+			<original>高位の雷の魔法
+追撃不可</original>
+			<edited>高位の雷の魔法
+追撃不可</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_LWind" offset="00" relocatable="true" max_length="0">
+			<original>エルウインド</original>
+			<edited>エルウインド</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_LWind" offset="00" relocatable="true" max_length="0">
+			<original>高位の風の魔法
+飛行特効</original>
+			<edited>高位の風の魔法
+飛行特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Bolganone" offset="00" relocatable="true" max_length="0">
+			<original>ボルガノン</original>
+			<edited>ボルガノン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Bolganone" offset="00" relocatable="true" max_length="0">
+			<original>強力な炎の攻撃魔法</original>
+			<edited>強力な炎の攻撃魔法</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Thoron" offset="00" relocatable="true" max_length="0">
+			<original>トロン</original>
+			<edited>トロン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Thoron" offset="00" relocatable="true" max_length="0">
+			<original>強力な雷の攻撃魔法
+追撃不可</original>
+			<edited>強力な雷の攻撃魔法
+追撃不可</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SThoron" offset="00" relocatable="true" max_length="0">
+			<original>トロン</original>
+			<edited>トロン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SThoron" offset="00" relocatable="true" max_length="0">
+			<original>強力な雷の攻撃魔法
+追撃不可</original>
+			<edited>強力な雷の攻撃魔法
+追撃不可</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Excalibur" offset="00" relocatable="true" max_length="0">
+			<original>エクスカリバー</original>
+			<edited>エクスカリバー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Excalibur" offset="00" relocatable="true" max_length="0">
+			<original>強力な風の攻撃魔法
+飛行特効</original>
+			<edited>強力な風の攻撃魔法
+飛行特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Excalibur_Gris" offset="00" relocatable="true" max_length="0">
+			<original>強力な風の攻撃魔法
+飛行特効</original>
+			<edited>強力な風の攻撃魔法
+飛行特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Nova" offset="00" relocatable="true" max_length="0">
+			<original>ノヴァ</original>
+			<edited>ノヴァ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Nova" offset="00" relocatable="true" max_length="0">
+			<original>強力な攻撃魔法
+自分から攻撃した時、2連続攻撃</original>
+			<edited>強力な攻撃魔法
+自分から攻撃した時、2連続攻撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Meteo" offset="00" relocatable="true" max_length="0">
+			<original>メティオ</original>
+			<edited>メティオ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Meteo" offset="00" relocatable="true" max_length="0">
+			<original>射程の長い攻撃魔法
+接近戦不可</original>
+			<edited>射程の長い攻撃魔法
+接近戦不可</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Obscurite" offset="00" relocatable="true" max_length="0">
+			<original>オヴスキュリテ</original>
+			<edited>オヴスキュリテ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Obscurite" offset="00" relocatable="true" max_length="0">
+			<original>邪竜専用
+強力な闇の攻撃魔法</original>
+			<edited>邪竜専用
+強力な闇の攻撃魔法</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Obscurite_M000" offset="00" relocatable="true" max_length="0">
+			<original>邪竜専用
+強力な闇の攻撃魔法</original>
+			<edited>邪竜専用
+強力な闇の攻撃魔法</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Heal" offset="00" relocatable="true" max_length="0">
+			<original>ライブ</original>
+			<edited>ライブ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Heal" offset="00" relocatable="true" max_length="0">
+			<original>傷を癒やす魔法の杖
+味方のHPを回復する</original>
+			<edited>傷を癒やす魔法の杖
+味方のHPを回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_HiHeal" offset="00" relocatable="true" max_length="0">
+			<original>リライブ</original>
+			<edited>リライブ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_HiHeal" offset="00" relocatable="true" max_length="0">
+			<original>傷を癒やす魔法の杖
+味方のHPを多く回復する</original>
+			<edited>傷を癒やす魔法の杖
+味方のHPを多く回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Recover" offset="00" relocatable="true" max_length="0">
+			<original>リカバー</original>
+			<edited>リカバー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Recover" offset="00" relocatable="true" max_length="0">
+			<original>傷を癒やす魔法の杖
+味方のHPを非常に多く回復する</original>
+			<edited>傷を癒やす魔法の杖
+味方のHPを非常に多く回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FarHeal" offset="00" relocatable="true" max_length="0">
+			<original>リブロー</original>
+			<edited>リブロー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FarHeal" offset="00" relocatable="true" max_length="0">
+			<original>傷を癒やす魔法の杖
+離れた味方のHPも回復可能</original>
+			<edited>傷を癒やす魔法の杖
+離れた味方のHPも回復可能</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_WholeHeal" offset="00" relocatable="true" max_length="0">
+			<original>リザーブ</original>
+			<edited>リザーブ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_WholeHeal" offset="00" relocatable="true" max_length="0">
+			<original>傷を癒やす魔法の杖
+周囲5マスの範囲の味方全員の
+HPを回復する</original>
+			<edited>傷を癒やす魔法の杖
+周囲5マスの範囲の味方全員の
+HPを回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Rest" offset="00" relocatable="true" max_length="0">
+			<original>レスト</original>
+			<edited>レスト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Rest" offset="00" relocatable="true" max_length="0">
+			<original>味方の状態異常を回復する杖</original>
+			<edited>味方の状態異常を回復する杖</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Warp" offset="00" relocatable="true" max_length="0">
+			<original>ワープ</original>
+			<edited>ワープ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Warp" offset="00" relocatable="true" max_length="0">
+			<original>転送魔法の杖
+味方を1～5マスの距離に転移する</original>
+			<edited>転送魔法の杖
+味方を1～5マスの距離に転移する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_ReWarp" offset="00" relocatable="true" max_length="0">
+			<original>リワープ</original>
+			<edited>リワープ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_ReWarp" offset="00" relocatable="true" max_length="0">
+			<original>転送魔法の杖
+自分を1～5マスの距離に転移する</original>
+			<edited>転送魔法の杖
+自分を1～5マスの距離に転移する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Rescue" offset="00" relocatable="true" max_length="0">
+			<original>レスキュー</original>
+			<edited>レスキュー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Rescue" offset="00" relocatable="true" max_length="0">
+			<original>転送魔法の杖
+遠くの味方を自分の近くへ転移する</original>
+			<edited>転送魔法の杖
+遠くの味方を自分の近くへ転移する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Draw" offset="00" relocatable="true" max_length="0">
+			<original>ドロー</original>
+			<edited>ドロー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Draw" offset="00" relocatable="true" max_length="0">
+			<original>転送魔法の杖
+遠くの敵を自分の近くへ転移する</original>
+			<edited>転送魔法の杖
+遠くの敵を自分の近くへ転移する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_TorchRod" offset="00" relocatable="true" max_length="0">
+			<original>トーチ</original>
+			<edited>トーチ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_TorchRod" offset="00" relocatable="true" max_length="0">
+			<original>魔法で暗闇を照らす杖
+周囲7マスを明るくする（ターン毎に縮小）</original>
+			<edited>魔法で暗闇を照らす杖
+周囲7マスを明るくする（ターン毎に縮小）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Freeze" offset="00" relocatable="true" max_length="0">
+			<original>フリーズ</original>
+			<edited>フリーズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Freeze" offset="00" relocatable="true" max_length="0">
+			<original>敵の動きを封じる杖
+1ターン敵が移動できなくなる</original>
+			<edited>敵の動きを封じる杖
+1ターン敵が移動できなくなる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Silence" offset="00" relocatable="true" max_length="0">
+			<original>サイレス</original>
+			<edited>サイレス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Silence" offset="00" relocatable="true" max_length="0">
+			<original>魔法を封じる杖
+1ターン敵が杖/魔法を使用できなくなる</original>
+			<edited>魔法を封じる杖
+1ターン敵が杖/魔法を使用できなくなる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Block" offset="00" relocatable="true" max_length="0">
+			<original>アイスロック</original>
+			<edited>アイスロック</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Block" offset="00" relocatable="true" max_length="0">
+			<original>氷柱を生み出す杖
+氷柱を作ると、1ターン進入できなくなる</original>
+			<edited>氷柱を生み出す杖
+氷柱を作ると、1ターン進入できなくなる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Nodus" offset="00" relocatable="true" max_length="0">
+			<original>ノードゥス</original>
+			<edited>ノードゥス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Nodus" offset="00" relocatable="true" max_length="0">
+			<original>不思議な力を持つ魔法の杖
+全味方のエンゲージカウントを最大値にする</original>
+			<edited>不思議な力を持つ魔法の杖
+全味方のエンゲージカウントを最大値にする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Collapse" offset="00" relocatable="true" max_length="0">
+			<original>コラプス</original>
+			<edited>コラプス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Collapse" offset="00" relocatable="true" max_length="0">
+			<original>不思議な力を持つ魔法の杖
+敵をブレイクする</original>
+			<edited>不思議な力を持つ魔法の杖
+敵をブレイクする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_BeginnerFist" offset="00" relocatable="true" max_length="0">
+			<original>見習の体術</original>
+			<edited>見習の体術</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_BeginnerFist" offset="00" relocatable="true" max_length="0">
+			<original>初歩的な格闘法の指南書
+連続攻撃はできないが扱いやすい</original>
+			<edited>初歩的な格闘法の指南書
+連続攻撃はできないが扱いやすい</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_BasicFist" offset="00" relocatable="true" max_length="0">
+			<original>基本の体術</original>
+			<edited>基本の体術</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_BasicFist" offset="00" relocatable="true" max_length="0">
+			<original>基本の格闘法の指南書
+自分から攻撃した時、2連続攻撃</original>
+			<edited>基本の格闘法の指南書
+自分から攻撃した時、2連続攻撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_MiddleFist" offset="00" relocatable="true" max_length="0">
+			<original>上級の体術</original>
+			<edited>上級の体術</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_MiddleFist" offset="00" relocatable="true" max_length="0">
+			<original>鍛錬した者が使用する格闘法の指南書
+自分から攻撃した時、2連続攻撃</original>
+			<edited>鍛錬した者が使用する格闘法の指南書
+自分から攻撃した時、2連続攻撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_HighFist" offset="00" relocatable="true" max_length="0">
+			<original>達人の体術</original>
+			<edited>達人の体術</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_HighFist" offset="00" relocatable="true" max_length="0">
+			<original>磨き抜かれた格闘法の指南書
+自分から攻撃した時、2連続攻撃</original>
+			<edited>磨き抜かれた格闘法の指南書
+自分から攻撃した時、2連続攻撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GuardFist" offset="00" relocatable="true" max_length="0">
+			<original>護身の体術</original>
+			<edited>護身の体術</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GuardFist" offset="00" relocatable="true" max_length="0">
+			<original>防御に重点をおいた格闘法の指南書
+守備＋5</original>
+			<edited>防御に重点をおいた格闘法の指南書
+守備＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FlashFist" offset="00" relocatable="true" max_length="0">
+			<original>閃進の体術</original>
+			<edited>閃進の体術</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FlashFist" offset="00" relocatable="true" max_length="0">
+			<original>攻撃に特化した格闘法の指南書
+自分から攻撃した時、2連続攻撃
+速さ＋5/受けるダメージ＋5</original>
+			<edited>攻撃に特化した格闘法の指南書
+自分から攻撃した時、2連続攻撃
+速さ＋5/受けるダメージ＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GodFist" offset="00" relocatable="true" max_length="0">
+			<original>覇神の体術</original>
+			<edited>覇神の体術</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GodFist" offset="00" relocatable="true" max_length="0">
+			<original>伝説の格闘法の指南書
+自分から攻撃した時、2連続攻撃</original>
+			<edited>伝説の格闘法の指南書
+自分から攻撃した時、2連続攻撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FireBreath" offset="00" relocatable="true" max_length="0">
+			<original>火のブレス</original>
+			<edited>火のブレス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FireBreath" offset="00" relocatable="true" max_length="0">
+			<original>灼熱の息による攻撃
+防御力無視</original>
+			<edited>灼熱の息による攻撃
+防御力無視</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FlameBall" offset="00" relocatable="true" max_length="0">
+			<original>炎塊</original>
+			<edited>炎塊</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FlameBall" offset="00" relocatable="true" max_length="0">
+			<original>遠距離の敵への炎攻撃
+防御力無視</original>
+			<edited>遠距離の敵への炎攻撃
+防御力無視</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SombrePhysicalAttack" offset="00" relocatable="true" max_length="0">
+			<original>邪竜ノ強撃</original>
+			<edited>邪竜ノ強撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SombrePhysicalAttack" offset="00" relocatable="true" max_length="0">
+			<original>巨体より繰り出される射程の長い攻撃</original>
+			<edited>巨体より繰り出される射程の長い攻撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SombreMagicAttack" offset="00" relocatable="true" max_length="0">
+			<original>邪竜ノ波動</original>
+			<edited>邪竜ノ波動</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SombreMagicAttack" offset="00" relocatable="true" max_length="0">
+			<original>強力で射程の長い闇の攻撃魔法</original>
+			<edited>強力で射程の長い闇の攻撃魔法</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SombreSpinAttack" offset="00" relocatable="true" max_length="0">
+			<original>邪竜旋転乱舞</original>
+			<edited>邪竜旋転乱舞</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SombreSpinAttack" offset="00" relocatable="true" max_length="0">
+			<original>身体を回転させて、周囲を攻撃する範囲攻撃
+3マス以内の敵全員を攻撃する</original>
+			<edited>身体を回転させて、周囲を攻撃する範囲攻撃
+3マス以内の敵全員を攻撃する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SombreBeam" offset="00" relocatable="true" max_length="0">
+			<original>邪竜吼号砲</original>
+			<edited>邪竜吼号砲</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SombreBeam" offset="00" relocatable="true" max_length="0">
+			<original>強力で射程の長い闇のビーム（魔法）攻撃
+放出した跡に、一部瘴気を発生させる</original>
+			<edited>強力で射程の長い闇のビーム（魔法）攻撃
+放出した跡に、一部瘴気を発生させる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SombreEngageBreak" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージブレイク</original>
+			<edited>エンゲージブレイク</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SombreEngageBreak" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ状態を解除
+全体攻撃</original>
+			<edited>エンゲージ状態を解除
+全体攻撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FireCannon" offset="00" relocatable="true" max_length="0">
+			<original>火炎砲台</original>
+			<edited>火炎砲台</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FireCannon" offset="00" relocatable="true" max_length="0">
+			<original>砲撃で、着弾地点の周囲2マスの範囲にいる
+ユニットを攻撃し、地形に「炎」を付与する</original>
+			<edited>砲撃で、着弾地点の周囲2マスの範囲にいる
+ユニットを攻撃し、地形に「炎」を付与する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Vulnerary" offset="00" relocatable="true" max_length="0">
+			<original>傷薬</original>
+			<edited>傷薬</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Vulnerary" offset="00" relocatable="true" max_length="0">
+			<original>自分のHPを15回復する</original>
+			<edited>自分のHPを15回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Medicine" offset="00" relocatable="true" max_length="0">
+			<original>特効薬</original>
+			<edited>特効薬</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Medicine" offset="00" relocatable="true" max_length="0">
+			<original>自分のHPを30回復する</original>
+			<edited>自分のHPを30回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Antidote" offset="00" relocatable="true" max_length="0">
+			<original>毒消し薬</original>
+			<edited>毒消し薬</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Antidote" offset="00" relocatable="true" max_length="0">
+			<original>自分のHPを15回復する
+さらに毒状態も回復する</original>
+			<edited>自分のHPを15回復する
+さらに毒状態も回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_HolyWater" offset="00" relocatable="true" max_length="0">
+			<original>聖水</original>
+			<edited>聖水</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_HolyWater" offset="00" relocatable="true" max_length="0">
+			<original>自分の魔防＋7（ターン毎に減少）</original>
+			<edited>自分の魔防＋7（ターン毎に減少）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Torch" offset="00" relocatable="true" max_length="0">
+			<original>たいまつ</original>
+			<edited>たいまつ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Torch" offset="00" relocatable="true" max_length="0">
+			<original>周囲7マスを照らす（ターン毎に縮小）</original>
+			<edited>周囲7マスを照らす（ターン毎に縮小）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SeraphRobe" offset="00" relocatable="true" max_length="0">
+			<original>天使の衣</original>
+			<edited>天使の衣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SeraphRobe" offset="00" relocatable="true" max_length="0">
+			<original>使うと最大HP＋5</original>
+			<edited>使うと最大HP＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_EnergyDrop" offset="00" relocatable="true" max_length="0">
+			<original>力のしずく</original>
+			<edited>力のしずく</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_EnergyDrop" offset="00" relocatable="true" max_length="0">
+			<original>使うと力＋2</original>
+			<edited>使うと力＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SpiritDust" offset="00" relocatable="true" max_length="0">
+			<original>精霊の粉</original>
+			<edited>精霊の粉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SpiritDust" offset="00" relocatable="true" max_length="0">
+			<original>使うと魔力＋2</original>
+			<edited>使うと魔力＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SecretBook" offset="00" relocatable="true" max_length="0">
+			<original>秘伝の書</original>
+			<edited>秘伝の書</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SecretBook" offset="00" relocatable="true" max_length="0">
+			<original>使うと技＋2</original>
+			<edited>使うと技＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Speedwing" offset="00" relocatable="true" max_length="0">
+			<original>はやての羽</original>
+			<edited>はやての羽</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Speedwing" offset="00" relocatable="true" max_length="0">
+			<original>使うと速さ＋2</original>
+			<edited>使うと速さ＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GoddessIcon" offset="00" relocatable="true" max_length="0">
+			<original>女神の像</original>
+			<edited>女神の像</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GoddessIcon" offset="00" relocatable="true" max_length="0">
+			<original>使うと幸運＋2</original>
+			<edited>使うと幸運＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Dracoshield" offset="00" relocatable="true" max_length="0">
+			<original>竜の盾</original>
+			<edited>竜の盾</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Dracoshield" offset="00" relocatable="true" max_length="0">
+			<original>使うと守備＋2</original>
+			<edited>使うと守備＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Talisman" offset="00" relocatable="true" max_length="0">
+			<original>魔よけ</original>
+			<edited>魔よけ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Talisman" offset="00" relocatable="true" max_length="0">
+			<original>使うと魔防＋2</original>
+			<edited>使うと魔防＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Boots" offset="00" relocatable="true" max_length="0">
+			<original>ブーツ</original>
+			<edited>ブーツ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Boots" offset="00" relocatable="true" max_length="0">
+			<original>使うと移動＋1</original>
+			<edited>使うと移動＋1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_HpTonic" offset="00" relocatable="true" max_length="0">
+			<original>ＨＰの薬</original>
+			<edited>ＨＰの薬</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_HpTonic" offset="00" relocatable="true" max_length="0">
+			<original>戦闘マップ終了まで最大HP＋5</original>
+			<edited>戦闘マップ終了まで最大HP＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_StrTonic" offset="00" relocatable="true" max_length="0">
+			<original>力の薬</original>
+			<edited>力の薬</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_StrTonic" offset="00" relocatable="true" max_length="0">
+			<original>戦闘マップ終了まで力＋2</original>
+			<edited>戦闘マップ終了まで力＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_MagTonic" offset="00" relocatable="true" max_length="0">
+			<original>魔力の薬</original>
+			<edited>魔力の薬</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_MagTonic" offset="00" relocatable="true" max_length="0">
+			<original>戦闘マップ終了まで魔力＋2</original>
+			<edited>戦闘マップ終了まで魔力＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_MdefTonic" offset="00" relocatable="true" max_length="0">
+			<original>魔防の薬</original>
+			<edited>魔防の薬</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_MdefTonic" offset="00" relocatable="true" max_length="0">
+			<original>戦闘マップ終了まで魔防＋2</original>
+			<edited>戦闘マップ終了まで魔防＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_TecTonic" offset="00" relocatable="true" max_length="0">
+			<original>技の薬</original>
+			<edited>技の薬</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_TecTonic" offset="00" relocatable="true" max_length="0">
+			<original>戦闘マップ終了まで技＋2</original>
+			<edited>戦闘マップ終了まで技＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SpdTonic" offset="00" relocatable="true" max_length="0">
+			<original>速さの薬</original>
+			<edited>速さの薬</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SpdTonic" offset="00" relocatable="true" max_length="0">
+			<original>戦闘マップ終了まで速さ＋2</original>
+			<edited>戦闘マップ終了まで速さ＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_LckTonic" offset="00" relocatable="true" max_length="0">
+			<original>幸運の薬</original>
+			<edited>幸運の薬</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_LckTonic" offset="00" relocatable="true" max_length="0">
+			<original>戦闘マップ終了まで幸運＋2</original>
+			<edited>戦闘マップ終了まで幸運＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_DefTonic" offset="00" relocatable="true" max_length="0">
+			<original>守備の薬</original>
+			<edited>守備の薬</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_DefTonic" offset="00" relocatable="true" max_length="0">
+			<original>戦闘マップ終了まで守備＋2</original>
+			<edited>戦闘マップ終了まで守備＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_MasterSeal" offset="00" relocatable="true" max_length="0">
+			<original>マスタープルフ</original>
+			<edited>マスタープルフ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_MasterSeal" offset="00" relocatable="true" max_length="0">
+			<original>上級職にクラスチェンジする</original>
+			<edited>上級職にクラスチェンジする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_ChangeSeal" offset="00" relocatable="true" max_length="0">
+			<original>チェンジプルフ</original>
+			<edited>チェンジプルフ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_ChangeSeal" offset="00" relocatable="true" max_length="0">
+			<original>同じ職位の別の兵種にクラスチェンジする
+（レベルが最大なら現在の兵種も選択可能）</original>
+			<edited>同じ職位の別の兵種にクラスチェンジする
+（レベルが最大なら現在の兵種も選択可能）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_PromiseRing" offset="00" relocatable="true" max_length="0">
+			<original>約束の指輪</original>
+			<edited>約束の指輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_PromiseRing" offset="00" relocatable="true" max_length="0">
+			<original>味方との支援を&#xE;&#x8;&#x2;&#x1A;&#x18;&#x0;R&#x0;e&#x0;l&#x0;i&#x0;a&#x0;n&#x0;c&#x0;e&#x0;R&#x0;i&#x0;n&#x0;g&#x0;にすることができる指輪
+支援Aの味方一人だけに渡すことができる</original>
+			<edited>味方との支援を&#xE;&#x8;&#x2;&#x1A;&#x18;&#x0;R&#x0;e&#x0;l&#x0;i&#x0;a&#x0;n&#x0;c&#x0;e&#x0;R&#x0;i&#x0;n&#x0;g&#x0;にすることができる指輪
+支援Aの味方一人だけに渡すことができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_PromiseRing_1" offset="00" relocatable="true" max_length="0">
+			<original>祭壇に安置されていた
+何か特別な力を感じる指輪</original>
+			<edited>祭壇に安置されていた
+何か特別な力を感じる指輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_TimeCrystal" offset="00" relocatable="true" max_length="0">
+			<original>竜の時水晶</original>
+			<edited>竜の時水晶</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_TimeCrystal" offset="00" relocatable="true" max_length="0">
+			<original>時間を少しだけ戻すことのできる
+不思議な水晶</original>
+			<edited>時間を少しだけ戻すことのできる
+不思議な水晶</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_RefineIron" offset="00" relocatable="true" max_length="0">
+			<original>てつの晶石</original>
+			<edited>てつの晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_RefineIron" offset="00" relocatable="true" max_length="0">
+			<original>錬成屋・アクセサリー屋で使う素材
+鉄を多く含んだ晶石</original>
+			<edited>錬成屋・アクセサリー屋で使う素材
+鉄を多く含んだ晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_RefineSteel" offset="00" relocatable="true" max_length="0">
+			<original>はがねの晶石</original>
+			<edited>はがねの晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_RefineSteel" offset="00" relocatable="true" max_length="0">
+			<original>錬成屋・アクセサリー屋で使う素材
+上等な鉄を多く含んだ晶石</original>
+			<edited>錬成屋・アクセサリー屋で使う素材
+上等な鉄を多く含んだ晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_RefineSilver" offset="00" relocatable="true" max_length="0">
+			<original>ぎんの晶石</original>
+			<edited>ぎんの晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_RefineSilver" offset="00" relocatable="true" max_length="0">
+			<original>錬成屋・アクセサリー屋で使う素材
+銀を多く含んだ晶石</original>
+			<edited>錬成屋・アクセサリー屋で使う素材
+銀を多く含んだ晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Atk" offset="00" relocatable="true" max_length="0">
+			<original>威力の紋晶石</original>
+			<edited>威力の紋晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Atk" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ武器の強化に使う素材
+威力を上げることができる</original>
+			<edited>エンゲージ武器の強化に使う素材
+威力を上げることができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Hit" offset="00" relocatable="true" max_length="0">
+			<original>命中の紋晶石</original>
+			<edited>命中の紋晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Hit" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ武器の強化に使う素材
+命中を上げることができる</original>
+			<edited>エンゲージ武器の強化に使う素材
+命中を上げることができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Cri" offset="00" relocatable="true" max_length="0">
+			<original>必殺の紋晶石</original>
+			<edited>必殺の紋晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Cri" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ武器の強化に使う素材
+必殺を上げることができる</original>
+			<edited>エンゲージ武器の強化に使う素材
+必殺を上げることができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Avd" offset="00" relocatable="true" max_length="0">
+			<original>回避の紋晶石</original>
+			<edited>回避の紋晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Avd" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ武器の強化に使う素材
+回避を上げることができる</original>
+			<edited>エンゲージ武器の強化に使う素材
+回避を上げることができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Cavd" offset="00" relocatable="true" max_length="0">
+			<original>必避の紋晶石</original>
+			<edited>必避の紋晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Cavd" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ武器の強化に使う素材
+必避を上げることができる</original>
+			<edited>エンゲージ武器の強化に使う素材
+必避を上げることができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Tech" offset="00" relocatable="true" max_length="0">
+			<original>技の紋晶石</original>
+			<edited>技の紋晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Tech" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ武器の強化に使う素材
+技を上げることができる</original>
+			<edited>エンゲージ武器の強化に使う素材
+技を上げることができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Spd" offset="00" relocatable="true" max_length="0">
+			<original>速さの紋晶石</original>
+			<edited>速さの紋晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Spd" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ武器の強化に使う素材
+速さを上げることができる</original>
+			<edited>エンゲージ武器の強化に使う素材
+速さを上げることができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Def" offset="00" relocatable="true" max_length="0">
+			<original>守備の紋晶石</original>
+			<edited>守備の紋晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Def" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ武器の強化に使う素材
+守備を上げることができる</original>
+			<edited>エンゲージ武器の強化に使う素材
+守備を上げることができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Res" offset="00" relocatable="true" max_length="0">
+			<original>魔防の紋晶石</original>
+			<edited>魔防の紋晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Res" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ武器の強化に使う素材
+魔防を上げることができる</original>
+			<edited>エンゲージ武器の強化に使う素材
+魔防を上げることができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Slayer_Fly" offset="00" relocatable="true" max_length="0">
+			<original>飛行特効の書</original>
+			<edited>飛行特効の書</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Slayer_Fly" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ武器の強化に使う素材
+飛行特効を付与することができる</original>
+			<edited>エンゲージ武器の強化に使う素材
+飛行特効を付与することができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Slayer_Horse" offset="00" relocatable="true" max_length="0">
+			<original>騎馬特効の書</original>
+			<edited>騎馬特効の書</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Slayer_Horse" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ武器の強化に使う素材
+騎馬特効を付与することができる</original>
+			<edited>エンゲージ武器の強化に使う素材
+騎馬特効を付与することができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Slayer_Armor" offset="00" relocatable="true" max_length="0">
+			<original>重装特効の書</original>
+			<edited>重装特効の書</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Slayer_Armor" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ武器の強化に使う素材
+重装特効を付与することができる</original>
+			<edited>エンゲージ武器の強化に使う素材
+重装特効を付与することができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Slayer_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>竜特効の書</original>
+			<edited>竜特効の書</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Slayer_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ武器の強化に使う素材
+竜特効を付与することができる</original>
+			<edited>エンゲージ武器の強化に使う素材
+竜特効を付与することができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Slayer_Morph" offset="00" relocatable="true" max_length="0">
+			<original>異形特効の書</original>
+			<edited>異形特効の書</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Slayer_Morph" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ武器の強化に使う素材
+異形特効を付与することができる</original>
+			<edited>エンゲージ武器の強化に使う素材
+異形特効を付与することができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_VandrBento" offset="00" relocatable="true" max_length="0">
+			<original>ヴァンドレ弁当</original>
+			<edited>ヴァンドレ弁当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_VandrBento" offset="00" relocatable="true" max_length="0">
+			<original>ヴァンドレが自信作の料理を慣れた手つきで
+詰めたお弁当。食べるとHPを20回復する</original>
+			<edited>ヴァンドレが自信作の料理を慣れた手つきで
+詰めたお弁当。食べるとHPを20回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_ClanBento" offset="00" relocatable="true" max_length="0">
+			<original>クラン弁当</original>
+			<edited>クラン弁当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_ClanBento" offset="00" relocatable="true" max_length="0">
+			<original>クランが上手くできた料理で嬉しそうに
+作ったお弁当。食べるとHPを20回復する</original>
+			<edited>クランが上手くできた料理で嬉しそうに
+作ったお弁当。食べるとHPを20回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FramBento" offset="00" relocatable="true" max_length="0">
+			<original>フラン弁当</original>
+			<edited>フラン弁当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FramBento" offset="00" relocatable="true" max_length="0">
+			<original>フランが美味しくできた料理を緊張しながら
+詰めたお弁当。食べるとHPを20回復する</original>
+			<edited>フランが美味しくできた料理を緊張しながら
+詰めたお弁当。食べるとHPを20回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_AlfredBento" offset="00" relocatable="true" max_length="0">
+			<original>アルフレッド弁当</original>
+			<edited>アルフレッド弁当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_AlfredBento" offset="00" relocatable="true" max_length="0">
+			<original>アルフレッドが自信作の料理を溢れそうな程
+詰めたお弁当。食べるとHPを20回復する</original>
+			<edited>アルフレッドが自信作の料理を溢れそうな程
+詰めたお弁当。食べるとHPを20回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_BoucheronBento" offset="00" relocatable="true" max_length="0">
+			<original>ブシュロン弁当</original>
+			<edited>ブシュロン弁当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_BoucheronBento" offset="00" relocatable="true" max_length="0">
+			<original>ブシュロンが美味しくできた料理を丁寧に
+詰めたお弁当。食べるとHPを20回復する</original>
+			<edited>ブシュロンが美味しくできた料理を丁寧に
+詰めたお弁当。食べるとHPを20回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_EtieBento" offset="00" relocatable="true" max_length="0">
+			<original>エーティエ弁当</original>
+			<edited>エーティエ弁当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_EtieBento" offset="00" relocatable="true" max_length="0">
+			<original>エーティエが自信作の料理を誇らしそうに
+詰めたお弁当。食べるとHPを20回復する</original>
+			<edited>エーティエが自信作の料理を誇らしそうに
+詰めたお弁当。食べるとHPを20回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_CelineBento" offset="00" relocatable="true" max_length="0">
+			<original>セリーヌ弁当</original>
+			<edited>セリーヌ弁当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_CelineBento" offset="00" relocatable="true" max_length="0">
+			<original>セリーヌが美味しくできた料理を綺麗に
+詰めたお弁当。食べるとHPを20回復する</original>
+			<edited>セリーヌが美味しくできた料理を綺麗に
+詰めたお弁当。食べるとHPを20回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_LouisBento" offset="00" relocatable="true" max_length="0">
+			<original>ルイ弁当</original>
+			<edited>ルイ弁当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_LouisBento" offset="00" relocatable="true" max_length="0">
+			<original>ルイが上手くできた料理でテキパキ作った
+お弁当。食べるとHPを20回復する</original>
+			<edited>ルイが上手くできた料理でテキパキ作った
+お弁当。食べるとHPを20回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_ChloeBento" offset="00" relocatable="true" max_length="0">
+			<original>クロエ弁当</original>
+			<edited>クロエ弁当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_ChloeBento" offset="00" relocatable="true" max_length="0">
+			<original>クロエが自信作の料理を食べ歩きしやすく
+詰めたお弁当。食べるとHPを20回復する</original>
+			<edited>クロエが自信作の料理を食べ歩きしやすく
+詰めたお弁当。食べるとHPを20回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_DiamandBento" offset="00" relocatable="true" max_length="0">
+			<original>ディアマンド弁当</original>
+			<edited>ディアマンド弁当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_DiamandBento" offset="00" relocatable="true" max_length="0">
+			<original>ディアマンドが自信作の料理をそのまま
+詰めたお弁当。食べるとHPを20回復する</original>
+			<edited>ディアマンドが自信作の料理をそのまま
+詰めたお弁当。食べるとHPを20回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_UmberBento" offset="00" relocatable="true" max_length="0">
+			<original>アンバー弁当</original>
+			<edited>アンバー弁当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_UmberBento" offset="00" relocatable="true" max_length="0">
+			<original>アンバーが美味しくできた料理で気楽に
+作ったお弁当。食べるとHPを20回復する</original>
+			<edited>アンバーが美味しくできた料理で気楽に
+作ったお弁当。食べるとHPを20回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_JadeBento" offset="00" relocatable="true" max_length="0">
+			<original>ジェーデ弁当</original>
+			<edited>ジェーデ弁当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_JadeBento" offset="00" relocatable="true" max_length="0">
+			<original>ジェーデが上手くできた料理を慎重に
+詰めたお弁当。食べるとHPを20回復する</original>
+			<edited>ジェーデが上手くできた料理を慎重に
+詰めたお弁当。食べるとHPを20回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_StalukeBento" offset="00" relocatable="true" max_length="0">
+			<original>スタルーク弁当</original>
+			<edited>スタルーク弁当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_StalukeBento" offset="00" relocatable="true" max_length="0">
+			<original>スタルークが美味しくできた料理で恐る恐る
+作ったお弁当。食べるとHPを20回復する</original>
+			<edited>スタルークが美味しくできた料理で恐る恐る
+作ったお弁当。食べるとHPを20回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_LapisBento" offset="00" relocatable="true" max_length="0">
+			<original>ラピス弁当</original>
+			<edited>ラピス弁当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_LapisBento" offset="00" relocatable="true" max_length="0">
+			<original>ラピスが上手くできた料理をひとつ残らず
+詰めたお弁当。食べるとHPを20回復する</original>
+			<edited>ラピスが上手くできた料理をひとつ残らず
+詰めたお弁当。食べるとHPを20回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_CitrinicaBento" offset="00" relocatable="true" max_length="0">
+			<original>シトリニカ弁当</original>
+			<edited>シトリニカ弁当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_CitrinicaBento" offset="00" relocatable="true" max_length="0">
+			<original>シトリニカが自信作の料理を豪華な容器に
+詰めたお弁当。食べるとHPを20回復する</original>
+			<edited>シトリニカが自信作の料理を豪華な容器に
+詰めたお弁当。食べるとHPを20回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_IvyBento" offset="00" relocatable="true" max_length="0">
+			<original>アイビー弁当</original>
+			<edited>アイビー弁当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_IvyBento" offset="00" relocatable="true" max_length="0">
+			<original>アイビーが美味しくできた料理で悩みながら
+作ったお弁当。食べるとHPを20回復する</original>
+			<edited>アイビーが美味しくできた料理で悩みながら
+作ったお弁当。食べるとHPを20回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_ZelkovaBento" offset="00" relocatable="true" max_length="0">
+			<original>ゼルコバ弁当</original>
+			<edited>ゼルコバ弁当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_ZelkovaBento" offset="00" relocatable="true" max_length="0">
+			<original>ゼルコバが自信作の料理を細かくこだわって
+詰めたお弁当。食べるとHPを20回復する</original>
+			<edited>ゼルコバが自信作の料理を細かくこだわって
+詰めたお弁当。食べるとHPを20回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_KagetsuBento" offset="00" relocatable="true" max_length="0">
+			<original>カゲツ弁当</original>
+			<edited>カゲツ弁当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_KagetsuBento" offset="00" relocatable="true" max_length="0">
+			<original>カゲツが自信作の料理で作った懐かしさを
+感じるお弁当。食べるとHPを20回復する</original>
+			<edited>カゲツが自信作の料理で作った懐かしさを
+感じるお弁当。食べるとHPを20回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_HortensiaBento" offset="00" relocatable="true" max_length="0">
+			<original>オルテンシア弁当</original>
+			<edited>オルテンシア弁当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_HortensiaBento" offset="00" relocatable="true" max_length="0">
+			<original>オルテンシアが美味しくできた料理を可愛く
+詰めたお弁当。食べるとHPを20回復する</original>
+			<edited>オルテンシアが美味しくできた料理を可愛く
+詰めたお弁当。食べるとHPを20回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_RosadoBento" offset="00" relocatable="true" max_length="0">
+			<original>ロサード弁当</original>
+			<edited>ロサード弁当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_RosadoBento" offset="00" relocatable="true" max_length="0">
+			<original>ロサードが自信作の料理を詰めて飾りつけた
+お弁当。食べるとHPを20回復する</original>
+			<edited>ロサードが自信作の料理を詰めて飾りつけた
+お弁当。食べるとHPを20回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GoldmaryBento" offset="00" relocatable="true" max_length="0">
+			<original>ゴルドマリー弁当</original>
+			<edited>ゴルドマリー弁当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GoldmaryBento" offset="00" relocatable="true" max_length="0">
+			<original>ゴルドマリーが美味しくできた料理を上手に
+詰めたお弁当。食べるとHPを20回復する</original>
+			<edited>ゴルドマリーが美味しくできた料理を上手に
+詰めたお弁当。食べるとHPを20回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_MisutiraBento" offset="00" relocatable="true" max_length="0">
+			<original>ミスティラ弁当</original>
+			<edited>ミスティラ弁当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_MisutiraBento" offset="00" relocatable="true" max_length="0">
+			<original>ミスティラが上手くできた料理を歌いながら
+詰めたお弁当。食べるとHPを20回復する</original>
+			<edited>ミスティラが上手くできた料理を歌いながら
+詰めたお弁当。食べるとHPを20回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_MerinBento" offset="00" relocatable="true" max_length="0">
+			<original>メリン弁当</original>
+			<edited>メリン弁当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_MerinBento" offset="00" relocatable="true" max_length="0">
+			<original>メリンが上手くできた料理をせっかくなので
+詰めたお弁当。食べるとHPを20回復する</original>
+			<edited>メリンが上手くできた料理をせっかくなので
+詰めたお弁当。食べるとHPを20回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_PanetoneBento" offset="00" relocatable="true" max_length="0">
+			<original>パネトネ弁当</original>
+			<edited>パネトネ弁当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_PanetoneBento" offset="00" relocatable="true" max_length="0">
+			<original>パネトネが上手くできた料理を独特の感性で
+詰めたお弁当。食べるとHPを20回復する</original>
+			<edited>パネトネが上手くできた料理を独特の感性で
+詰めたお弁当。食べるとHPを20回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FogatoBento" offset="00" relocatable="true" max_length="0">
+			<original>フォガート弁当</original>
+			<edited>フォガート弁当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FogatoBento" offset="00" relocatable="true" max_length="0">
+			<original>フォガートが美味しくできた料理を豪快に
+詰めたお弁当。食べるとHPを20回復する</original>
+			<edited>フォガートが美味しくできた料理を豪快に
+詰めたお弁当。食べるとHPを20回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_PandoroBento" offset="00" relocatable="true" max_length="0">
+			<original>パンドロ弁当</original>
+			<edited>パンドロ弁当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_PandoroBento" offset="00" relocatable="true" max_length="0">
+			<original>パンドロが美味しくできた料理を一生懸命
+詰めたお弁当。食べるとHPを20回復する</original>
+			<edited>パンドロが美味しくできた料理を一生懸命
+詰めたお弁当。食べるとHPを20回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_BonetBento" offset="00" relocatable="true" max_length="0">
+			<original>ボネ弁当</original>
+			<edited>ボネ弁当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_BonetBento" offset="00" relocatable="true" max_length="0">
+			<original>ボネが自信満々の料理にひと手間加えて
+作ったお弁当。食べるとHPを20回復する</original>
+			<edited>ボネが自信満々の料理にひと手間加えて
+作ったお弁当。食べるとHPを20回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_AnnaBento" offset="00" relocatable="true" max_length="0">
+			<original>アンナ弁当</original>
+			<edited>アンナ弁当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_AnnaBento" offset="00" relocatable="true" max_length="0">
+			<original>アンナが自信作の料理をサービスで詰めて
+くれたお弁当。食べるとHPを20回復する</original>
+			<edited>アンナが自信作の料理をサービスで詰めて
+くれたお弁当。食べるとHPを20回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_JeanBento" offset="00" relocatable="true" max_length="0">
+			<original>ジャン弁当</original>
+			<edited>ジャン弁当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_JeanBento" offset="00" relocatable="true" max_length="0">
+			<original>ジャンが美味しくできた料理を苦労しながら
+詰めたお弁当。食べるとHPを20回復する</original>
+			<edited>ジャンが美味しくできた料理を苦労しながら
+詰めたお弁当。食べるとHPを20回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_YunakaBento" offset="00" relocatable="true" max_length="0">
+			<original>ユナカ弁当</original>
+			<edited>ユナカ弁当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_YunakaBento" offset="00" relocatable="true" max_length="0">
+			<original>ユナカが美味しくできた料理を緊張しながら
+詰めたお弁当。食べるとHPを20回復する</original>
+			<edited>ユナカが美味しくできた料理を緊張しながら
+詰めたお弁当。食べるとHPを20回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SeadasBento" offset="00" relocatable="true" max_length="0">
+			<original>セアダス弁当</original>
+			<edited>セアダス弁当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SeadasBento" offset="00" relocatable="true" max_length="0">
+			<original>セアダスが美味しくできた料理を占いながら
+詰めたお弁当。食べるとHPを20回復する</original>
+			<edited>セアダスが美味しくできた料理を占いながら
+詰めたお弁当。食べるとHPを20回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_LindenBento" offset="00" relocatable="true" max_length="0">
+			<original>リンデン弁当</original>
+			<edited>リンデン弁当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_LindenBento" offset="00" relocatable="true" max_length="0">
+			<original>リンデンが自信作の料理を実験感覚で
+詰めたお弁当。食べるとHPを20回復する</original>
+			<edited>リンデンが自信作の料理を実験感覚で
+詰めたお弁当。食べるとHPを20回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SaphirBento" offset="00" relocatable="true" max_length="0">
+			<original>ザフィーア弁当</original>
+			<edited>ザフィーア弁当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SaphirBento" offset="00" relocatable="true" max_length="0">
+			<original>ザフィーアが自信作の料理を慣れない様子で
+詰めたお弁当。食べるとHPを20回復する</original>
+			<edited>ザフィーアが自信作の料理を慣れない様子で
+詰めたお弁当。食べるとHPを20回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_VeyreBento" offset="00" relocatable="true" max_length="0">
+			<original>ヴェイル弁当</original>
+			<edited>ヴェイル弁当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_VeyreBento" offset="00" relocatable="true" max_length="0">
+			<original>ヴェイルが美味しくできた料理を頑張って
+詰めたお弁当。食べるとHPを20回復する</original>
+			<edited>ヴェイルが美味しくできた料理を頑張って
+詰めたお弁当。食べるとHPを20回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_MauveBento" offset="00" relocatable="true" max_length="0">
+			<original>モーヴ弁当</original>
+			<edited>モーヴ弁当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_MauveBento" offset="00" relocatable="true" max_length="0">
+			<original>モーヴが上手くできた料理で質素に作った
+お弁当。食べるとHPを20回復する</original>
+			<edited>モーヴが上手くできた料理で質素に作った
+お弁当。食べるとHPを20回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_DROPITEM_MONEY" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x7;&#x0;G</original>
+			<edited>&#xE;&#x1;&#x7;&#x0;G</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_MONEY" offset="00" relocatable="true" max_length="0">
+			<original>エレオス大陸で流通している通貨</original>
+			<edited>エレオス大陸で流通している通貨</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Beef" offset="00" relocatable="true" max_length="0">
+			<original>牛肉</original>
+			<edited>牛肉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Beef" offset="00" relocatable="true" max_length="0">
+			<original>食用に処理した牛の肉
+しっかりとした味で赤身の肉質が強い
+ブロディアには高級ブランド牛もいる</original>
+			<edited>食用に処理した牛の肉
+しっかりとした味で赤身の肉質が強い
+ブロディアには高級ブランド牛もいる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Pork" offset="00" relocatable="true" max_length="0">
+			<original>豚肉</original>
+			<edited>豚肉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Pork" offset="00" relocatable="true" max_length="0">
+			<original>食用に処理した豚の肉
+比較的安く仕入れられる
+庶民的で旨味のある肉</original>
+			<edited>食用に処理した豚の肉
+比較的安く仕入れられる
+庶民的で旨味のある肉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Chicken" offset="00" relocatable="true" max_length="0">
+			<original>鶏肉</original>
+			<edited>鶏肉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Chicken" offset="00" relocatable="true" max_length="0">
+			<original>食用に処理した鶏の肉
+筋肉をつけたい人が必要な栄養素を
+効率的に摂取できると言われている</original>
+			<edited>食用に処理した鶏の肉
+筋肉をつけたい人が必要な栄養素を
+効率的に摂取できると言われている</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mutton" offset="00" relocatable="true" max_length="0">
+			<original>羊肉</original>
+			<edited>羊肉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mutton" offset="00" relocatable="true" max_length="0">
+			<original>食用に処理した羊の肉
+独特の臭みがあり、好き嫌いが分かれる</original>
+			<edited>食用に処理した羊の肉
+独特の臭みがあり、好き嫌いが分かれる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Onion" offset="00" relocatable="true" max_length="0">
+			<original>タマネギ</original>
+			<edited>タマネギ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Onion" offset="00" relocatable="true" max_length="0">
+			<original>ソラネルの庭で育てている野菜の一つ
+暑さには弱いが、寒さには強い特徴がある</original>
+			<edited>ソラネルの庭で育てている野菜の一つ
+暑さには弱いが、寒さには強い特徴がある</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Cabbage" offset="00" relocatable="true" max_length="0">
+			<original>キャベツ</original>
+			<edited>キャベツ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Cabbage" offset="00" relocatable="true" max_length="0">
+			<original>ソラネルの庭で育てている野菜の一つ
+そのまま食べても
+ほんのりとした甘味がある</original>
+			<edited>ソラネルの庭で育てている野菜の一つ
+そのまま食べても
+ほんのりとした甘味がある</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Herb" offset="00" relocatable="true" max_length="0">
+			<original>ハーブ</original>
+			<edited>ハーブ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Herb" offset="00" relocatable="true" max_length="0">
+			<original>主菜として食べられることは
+比較的少ないが、香りがとてもよい
+食欲増進や料理の飾りつけにも使える</original>
+			<edited>主菜として食べられることは
+比較的少ないが、香りがとてもよい
+食欲増進や料理の飾りつけにも使える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Tomato" offset="00" relocatable="true" max_length="0">
+			<original>トマト</original>
+			<edited>トマト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Tomato" offset="00" relocatable="true" max_length="0">
+			<original>フィレネでの生産量が大陸1位の野菜の一つ
+世界的にも人気のある食材で
+フィレネにはブランドを持つ品種もある</original>
+			<edited>フィレネでの生産量が大陸1位の野菜の一つ
+世界的にも人気のある食材で
+フィレネにはブランドを持つ品種もある</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Potato" offset="00" relocatable="true" max_length="0">
+			<original>芋</original>
+			<edited>芋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Potato" offset="00" relocatable="true" max_length="0">
+			<original>フィレネやソルム、ブロディアで収穫できる
+千年前の戦争後の食糧難を助けた
+歴史ある野菜の一つ</original>
+			<edited>フィレネやソルム、ブロディアで収穫できる
+千年前の戦争後の食糧難を助けた
+歴史ある野菜の一つ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_RareVagetable" offset="00" relocatable="true" max_length="0">
+			<original>幻の野菜</original>
+			<edited>幻の野菜</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_RareVagetable" offset="00" relocatable="true" max_length="0">
+			<original>ごく限られた地域でのみ収穫できる野菜
+栽培方法が確立しておらず、野生でのみ育つ
+幸運をもたらす、幻の野菜と呼ばれている</original>
+			<edited>ごく限られた地域でのみ収穫できる野菜
+栽培方法が確立しておらず、野生でのみ育つ
+幸運をもたらす、幻の野菜と呼ばれている</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Wheat" offset="00" relocatable="true" max_length="0">
+			<original>小麦粉</original>
+			<edited>小麦粉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Wheat" offset="00" relocatable="true" max_length="0">
+			<original>主食から食後のデザートまで
+色々な料理に使用される万能食材</original>
+			<edited>主食から食後のデザートまで
+色々な料理に使用される万能食材</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Apple" offset="00" relocatable="true" max_length="0">
+			<original>リンゴ</original>
+			<edited>リンゴ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Apple" offset="00" relocatable="true" max_length="0">
+			<original>ソラネルの果樹園で育てている果物の一つ
+昔から食べられている有名な果物
+色々な御伽噺にも登場している</original>
+			<edited>ソラネルの果樹園で育てている果物の一つ
+昔から食べられている有名な果物
+色々な御伽噺にも登場している</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Orange" offset="00" relocatable="true" max_length="0">
+			<original>オレンジ</original>
+			<edited>オレンジ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Orange" offset="00" relocatable="true" max_length="0">
+			<original>フィレネで最も馴染み深い果物
+他国では育てられていない特産物</original>
+			<edited>フィレネで最も馴染み深い果物
+他国では育てられていない特産物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Peach" offset="00" relocatable="true" max_length="0">
+			<original>モモ</original>
+			<edited>モモ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Peach" offset="00" relocatable="true" max_length="0">
+			<original>ソラネルの果樹園で育てている果物の一つ
+ここでしか育たない、柔らかで芳醇な果物
+王族が来訪した時のお土産に渡されていた</original>
+			<edited>ソラネルの果樹園で育てている果物の一つ
+ここでしか育たない、柔らかで芳醇な果物
+王族が来訪した時のお土産に渡されていた</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Grape" offset="00" relocatable="true" max_length="0">
+			<original>ブドウ</original>
+			<edited>ブドウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Grape" offset="00" relocatable="true" max_length="0">
+			<original>ソラネルの果樹園で育てている果物の一つ
+ひと房に大きい粒がいくつも実るため
+一般的には一粒ずつ大勢で分け合って食べる</original>
+			<edited>ソラネルの果樹園で育てている果物の一つ
+ひと房に大きい粒がいくつも実るため
+一般的には一粒ずつ大勢で分け合って食べる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Berry" offset="00" relocatable="true" max_length="0">
+			<original>ベリー</original>
+			<edited>ベリー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Berry" offset="00" relocatable="true" max_length="0">
+			<original>小さな果物だが色々な地域で収穫できるので
+フィレネやブロディアの国民にとっては
+最も身近な自然のおやつ</original>
+			<edited>小さな果物だが色々な地域で収穫できるので
+フィレネやブロディアの国民にとっては
+最も身近な自然のおやつ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_RareFruit" offset="00" relocatable="true" max_length="0">
+			<original>幻の果物</original>
+			<edited>幻の果物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_RareFruit" offset="00" relocatable="true" max_length="0">
+			<original>ごく限られた地域でのみ収穫できる果物
+一度実をつけた木は枯れてしまい
+二度は実らないため、幻の果物と呼ばれる</original>
+			<edited>ごく限られた地域でのみ収穫できる果物
+一度実をつけた木は枯れてしまい
+二度は実らないため、幻の果物と呼ばれる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Nuts" offset="00" relocatable="true" max_length="0">
+			<original>木の実</original>
+			<edited>木の実</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Nuts" offset="00" relocatable="true" max_length="0">
+			<original>どこにでも落ちているような木の実
+乾燥したものや極めて小さな実などの総称</original>
+			<edited>どこにでも落ちているような木の実
+乾燥したものや極めて小さな実などの総称</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Herring" offset="00" relocatable="true" max_length="0">
+			<original>ニシン</original>
+			<edited>ニシン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Herring" offset="00" relocatable="true" max_length="0">
+			<original>バンガンニシンの下処理をしたもの</original>
+			<edited>バンガンニシンの下処理をしたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Carp" offset="00" relocatable="true" max_length="0">
+			<original>コイ</original>
+			<edited>コイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Carp" offset="00" relocatable="true" max_length="0">
+			<original>ヘルルコイの下処理をしたもの</original>
+			<edited>ヘルルコイの下処理をしたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Salmon" offset="00" relocatable="true" max_length="0">
+			<original>サケ</original>
+			<edited>サケ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Salmon" offset="00" relocatable="true" max_length="0">
+			<original>スリットヒレサケの下処理をしたもの</original>
+			<edited>スリットヒレサケの下処理をしたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Cod" offset="00" relocatable="true" max_length="0">
+			<original>タラ</original>
+			<edited>タラ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Cod" offset="00" relocatable="true" max_length="0">
+			<original>オニキバカタラの下処理をしたもの</original>
+			<edited>オニキバカタラの下処理をしたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Eel" offset="00" relocatable="true" max_length="0">
+			<original>ウナギ</original>
+			<edited>ウナギ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Eel" offset="00" relocatable="true" max_length="0">
+			<original>ブロスウナギの下処理をしたもの</original>
+			<edited>ブロスウナギの下処理をしたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Sardine" offset="00" relocatable="true" max_length="0">
+			<original>イワシ</original>
+			<edited>イワシ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Sardine" offset="00" relocatable="true" max_length="0">
+			<original>オメメイワシの下処理をしたもの</original>
+			<edited>オメメイワシの下処理をしたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_MincedFish" offset="00" relocatable="true" max_length="0">
+			<original>すり身</original>
+			<edited>すり身</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_MincedFish" offset="00" relocatable="true" max_length="0">
+			<original>魚の骨や皮などを細かくすり潰したもの</original>
+			<edited>魚の骨や皮などを細かくすり潰したもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_DriedFish" offset="00" relocatable="true" max_length="0">
+			<original>干物</original>
+			<edited>干物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_DriedFish" offset="00" relocatable="true" max_length="0">
+			<original>下処理をした魚を丸ごと乾燥させたもの</original>
+			<edited>下処理をした魚を丸ごと乾燥させたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SlicedRawFish" offset="00" relocatable="true" max_length="0">
+			<original>刺身</original>
+			<edited>刺身</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SlicedRawFish" offset="00" relocatable="true" max_length="0">
+			<original>新鮮な魚の身を綺麗に切り出したもの</original>
+			<edited>新鮮な魚の身を綺麗に切り出したもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_RareFish" offset="00" relocatable="true" max_length="0">
+			<original>幻の魚</original>
+			<edited>幻の魚</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_RareFish" offset="00" relocatable="true" max_length="0">
+			<original>ソラネルの池で釣れる幻の魚を
+食用に下処理したもの
+身体によい栄養素を多く含んでいる</original>
+			<edited>ソラネルの池で釣れる幻の魚を
+食用に下処理したもの
+身体によい栄養素を多く含んでいる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Milk" offset="00" relocatable="true" max_length="0">
+			<original>ミルク</original>
+			<edited>ミルク</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Milk" offset="00" relocatable="true" max_length="0">
+			<original>牛や羊などの動物から収穫できる
+栄養たっぷりの乳</original>
+			<edited>牛や羊などの動物から収穫できる
+栄養たっぷりの乳</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Egg" offset="00" relocatable="true" max_length="0">
+			<original>卵</original>
+			<edited>卵</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Egg" offset="00" relocatable="true" max_length="0">
+			<original>動物から収穫できる万能食材</original>
+			<edited>動物から収穫できる万能食材</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Rice" offset="00" relocatable="true" max_length="0">
+			<original>米</original>
+			<edited>米</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Rice" offset="00" relocatable="true" max_length="0">
+			<original>稲から皮を取り除いた粒状の穀物</original>
+			<edited>稲から皮を取り除いた粒状の穀物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Bean" offset="00" relocatable="true" max_length="0">
+			<original>豆</original>
+			<edited>豆</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Bean" offset="00" relocatable="true" max_length="0">
+			<original>食用に加工された種子
+色とりどりで様々な大きさや形がある</original>
+			<edited>食用に加工された種子
+色とりどりで様々な大きさや形がある</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Spice" offset="00" relocatable="true" max_length="0">
+			<original>スパイス</original>
+			<edited>スパイス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Spice" offset="00" relocatable="true" max_length="0">
+			<original>植物から採取した調味料
+風味や色、味の調整など
+料理において様々な用途で使用される</original>
+			<edited>植物から採取した調味料
+風味や色、味の調整など
+料理において様々な用途で使用される</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_RareFoodstuffs" offset="00" relocatable="true" max_length="0">
+			<original>幻の食材</original>
+			<edited>幻の食材</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_TeaLeaf" offset="00" relocatable="true" max_length="0">
+			<original>摘みたての茶葉</original>
+			<edited>摘みたての茶葉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_TeaLeaf" offset="00" relocatable="true" max_length="0">
+			<original>新鮮な摘みたて茶葉を職人が一つ一つ
+ティーカップ1杯分の小袋に分け入れたもの
+お茶会好き、料理好きが喜ぶ</original>
+			<edited>新鮮な摘みたて茶葉を職人が一つ一つ
+ティーカップ1杯分の小袋に分け入れたもの
+お茶会好き、料理好きが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_DriedMeat" offset="00" relocatable="true" max_length="0">
+			<original>硬い干し肉</original>
+			<edited>硬い干し肉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_DriedMeat" offset="00" relocatable="true" max_length="0">
+			<original>しっかり味つけした肉を通常より長く干して
+作られた干し肉で、携帯食として人気が高い
+肉好き、珍味好きが喜ぶ</original>
+			<edited>しっかり味つけした肉を通常より長く干して
+作られた干し肉で、携帯食として人気が高い
+肉好き、珍味好きが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Yogurt" offset="00" relocatable="true" max_length="0">
+			<original>厳選ヨーグルト</original>
+			<edited>厳選ヨーグルト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Yogurt" offset="00" relocatable="true" max_length="0">
+			<original>厳選したアルパカミルクを使ったヨーグルト
+牧場の香りが口いっぱいに広がる
+乳製品好きが喜ぶ</original>
+			<edited>厳選したアルパカミルクを使ったヨーグルト
+牧場の香りが口いっぱいに広がる
+乳製品好きが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GrilledPotato" offset="00" relocatable="true" max_length="0">
+			<original>こだわりの焼き芋</original>
+			<edited>こだわりの焼き芋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GrilledPotato" offset="00" relocatable="true" max_length="0">
+			<original>焚火などで中までしっかり火を通した焼き芋
+素材の味を活かすため、特別な味付けは無し
+芋好きが喜ぶ</original>
+			<edited>焚火などで中までしっかり火を通した焼き芋
+素材の味を活かすため、特別な味付けは無し
+芋好きが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_WeightStone" offset="00" relocatable="true" max_length="0">
+			<original>鍛錬用の重り石</original>
+			<edited>鍛錬用の重り石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_WeightStone" offset="00" relocatable="true" max_length="0">
+			<original>鍛錬で使うことに特化した重り石
+手で持ったり、脚に括り付けたりして使う
+鍛錬好き、運動好きが喜ぶ</original>
+			<edited>鍛錬で使うことに特化した重り石
+手で持ったり、脚に括り付けたりして使う
+鍛錬好き、運動好きが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_MuscleBuilder" offset="00" relocatable="true" max_length="0">
+			<original>塗る筋肉増強剤</original>
+			<edited>塗る筋肉増強剤</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_MuscleBuilder" offset="00" relocatable="true" max_length="0">
+			<original>筋肉を増強したい体の部位に塗りつけて使う
+毎回、鍛錬後に塗ると効率が上がると評判
+鍛錬好き、運動好きが喜ぶ</original>
+			<edited>筋肉を増強したい体の部位に塗りつけて使う
+毎回、鍛錬後に塗ると効率が上がると評判
+鍛錬好き、運動好きが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Actinidia" offset="00" relocatable="true" max_length="0">
+			<original>動物用のマタタビ</original>
+			<edited>動物用のマタタビ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Actinidia" offset="00" relocatable="true" max_length="0">
+			<original>どんな動物もこのマタタビを見せると喜んで
+集まってくるため、瓶詰めで密閉されている
+動物好きが喜ぶ</original>
+			<edited>どんな動物もこのマタタビを見せると喜んで
+集まってくるため、瓶詰めで密閉されている
+動物好きが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Chisel" offset="00" relocatable="true" max_length="0">
+			<original>よく切れる彫刻刀</original>
+			<edited>よく切れる彫刻刀</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Chisel" offset="00" relocatable="true" max_length="0">
+			<original>木材の加工、主に細かな意匠を彫るために
+使われることが多い道具
+工作好き、武器好きが喜ぶ</original>
+			<edited>木材の加工、主に細かな意匠を彫るために
+使われることが多い道具
+工作好き、武器好きが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FairyTaleBook" offset="00" relocatable="true" max_length="0">
+			<original>不思議な童話絵本</original>
+			<edited>不思議な童話絵本</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FairyTaleBook" offset="00" relocatable="true" max_length="0">
+			<original>不思議な物語がいくつか収録されている絵本
+短い話ばかりだが、読みごたえは充分にある
+読書好き、御伽噺好きが喜ぶ</original>
+			<edited>不思議な物語がいくつか収録されている絵本
+短い話ばかりだが、読みごたえは充分にある
+読書好き、御伽噺好きが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_PoetryCollection" offset="00" relocatable="true" max_length="0">
+			<original>世界各国の詩集</original>
+			<edited>世界各国の詩集</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_PoetryCollection" offset="00" relocatable="true" max_length="0">
+			<original>世界各国から様々な詩が収録されている詩集
+中には一般公募の詩も採用されている
+読書好き、妄想好きが喜ぶ</original>
+			<edited>世界各国から様々な詩が収録されている詩集
+中には一般公募の詩も採用されている
+読書好き、妄想好きが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_PhilosophyBook" offset="00" relocatable="true" max_length="0">
+			<original>難しい哲学書</original>
+			<edited>難しい哲学書</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_PhilosophyBook" offset="00" relocatable="true" max_length="0">
+			<original>様々な物事の根源について意味や理由を
+考える学問の入門として使われる難しい書物
+勉強好きが喜ぶ</original>
+			<edited>様々な物事の根源について意味や理由を
+考える学問の入門として使われる難しい書物
+勉強好きが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Bible" offset="00" relocatable="true" max_length="0">
+			<original>神竜聖書</original>
+			<edited>神竜聖書</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Bible" offset="00" relocatable="true" max_length="0">
+			<original>神竜を神として崇める民たちが書き記し
+太古から現在まで受け継がれている聖書
+敬虔な神竜信徒が喜ぶ</original>
+			<edited>神竜を神として崇める民たちが書き記し
+太古から現在まで受け継がれている聖書
+敬虔な神竜信徒が喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_HistoryBook" offset="00" relocatable="true" max_length="0">
+			<original>エレオスの歴史書</original>
+			<edited>エレオスの歴史書</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_HistoryBook" offset="00" relocatable="true" max_length="0">
+			<original>エレオス大陸や各国の成り立ちが
+細かく書き記された分厚い歴史書
+読書好き、勉強好きが喜ぶ</original>
+			<edited>エレオス大陸や各国の成り立ちが
+細かく書き記された分厚い歴史書
+読書好き、勉強好きが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Perfume" offset="00" relocatable="true" max_length="0">
+			<original>強い香りの香水</original>
+			<edited>強い香りの香水</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Perfume" offset="00" relocatable="true" max_length="0">
+			<original>花や果物など、様々な良い香りを凝縮させて
+小さな小瓶に詰め込んだ香水
+お洒落好きが喜ぶ</original>
+			<edited>花や果物など、様々な良い香りを凝縮させて
+小さな小瓶に詰め込んだ香水
+お洒落好きが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_InsectCatchingNet" offset="00" relocatable="true" max_length="0">
+			<original>虫取り網</original>
+			<edited>虫取り網</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_InsectCatchingNet" offset="00" relocatable="true" max_length="0">
+			<original>虫を捕まえることに特化した網で
+長い持ち手と軽さが特徴
+動物好き、虫好きが喜ぶ</original>
+			<edited>虫を捕まえることに特化した網で
+長い持ち手と軽さが特徴
+動物好き、虫好きが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SunHat" offset="00" relocatable="true" max_length="0">
+			<original>日よけ帽子</original>
+			<edited>日よけ帽子</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SunHat" offset="00" relocatable="true" max_length="0">
+			<original>ぐるっと周りを取り囲む大きなつばで
+顔だけでなく、首元も日光から守ってくれる
+運動好き、散歩好き、日焼け嫌いが喜ぶ</original>
+			<edited>ぐるっと周りを取り囲む大きなつばで
+顔だけでなく、首元も日光から守ってくれる
+運動好き、散歩好き、日焼け嫌いが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Chrysanthemum" offset="00" relocatable="true" max_length="0">
+			<original>キクの花</original>
+			<edited>キクの花</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Chrysanthemum" offset="00" relocatable="true" max_length="0">
+			<original>満開に咲いたキクの花
+リトスの国花で人気も高い品種
+リトス出身の花好きに特に喜ばれる</original>
+			<edited>満開に咲いたキクの花
+リトスの国花で人気も高い品種
+リトス出身の花好きに特に喜ばれる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lentils" offset="00" relocatable="true" max_length="0">
+			<original>レンズマメの花</original>
+			<edited>レンズマメの花</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lentils" offset="00" relocatable="true" max_length="0">
+			<original>満開に咲いたレンズマメの花
+フィレネの国花で人気も高い品種
+フィレネ出身の花好きに特に喜ばれる</original>
+			<edited>満開に咲いたレンズマメの花
+フィレネの国花で人気も高い品種
+フィレネ出身の花好きに特に喜ばれる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lily" offset="00" relocatable="true" max_length="0">
+			<original>ユリの花</original>
+			<edited>ユリの花</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lily" offset="00" relocatable="true" max_length="0">
+			<original>満開に咲いたユリの花
+ブロディアの国花で人気も高い品種
+ブロディア出身の花好きに特に喜ばれる</original>
+			<edited>満開に咲いたユリの花
+ブロディアの国花で人気も高い品種
+ブロディア出身の花好きに特に喜ばれる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Komatsuna" offset="00" relocatable="true" max_length="0">
+			<original>コマツナの花</original>
+			<edited>コマツナの花</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Komatsuna" offset="00" relocatable="true" max_length="0">
+			<original>満開に咲いたコマツナの花
+ソルムの国花で人気も高い品種
+ソルム出身の花好きに特に喜ばれる</original>
+			<edited>満開に咲いたコマツナの花
+ソルムの国花で人気も高い品種
+ソルム出身の花好きに特に喜ばれる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lupinus" offset="00" relocatable="true" max_length="0">
+			<original>ルピナスの花</original>
+			<edited>ルピナスの花</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lupinus" offset="00" relocatable="true" max_length="0">
+			<original>満開に咲いたルピナスの花
+イルシオンの国花で人気も高い品種
+イルシオン出身の花好きに特に喜ばれる</original>
+			<edited>満開に咲いたルピナスの花
+イルシオンの国花で人気も高い品種
+イルシオン出身の花好きに特に喜ばれる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_WhiteClover" offset="00" relocatable="true" max_length="0">
+			<original>シロツメクサ</original>
+			<edited>シロツメクサ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_WhiteClover" offset="00" relocatable="true" max_length="0">
+			<original>料理に使うこともできる草
+稀に葉を4枚持つ種が生えていることもある
+料理好き、香草好きが喜ぶ</original>
+			<edited>料理に使うこともできる草
+稀に葉を4枚持つ種が生えていることもある
+料理好き、香草好きが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Horn" offset="00" relocatable="true" max_length="0">
+			<original>角笛</original>
+			<edited>角笛</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Horn" offset="00" relocatable="true" max_length="0">
+			<original>動物の角で作った笛で吹けば大きな音が鳴る
+音階を奏でるための穴などはない
+音楽好きが喜ぶ</original>
+			<edited>動物の角で作った笛で吹けば大きな音が鳴る
+音階を奏でるための穴などはない
+音楽好きが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Wreath" offset="00" relocatable="true" max_length="0">
+			<original>手作りの花輪</original>
+			<edited>手作りの花輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Wreath" offset="00" relocatable="true" max_length="0">
+			<original>摘んだ花や草を編んで作られた花輪
+扉や部屋の壁に掛けて使うことが多い
+可愛いもの好き、花好きが喜ぶ</original>
+			<edited>摘んだ花や草を編んで作られた花輪
+扉や部屋の壁に掛けて使うことが多い
+可愛いもの好き、花好きが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Apron" offset="00" relocatable="true" max_length="0">
+			<original>可愛いエプロン</original>
+			<edited>可愛いエプロン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Apron" offset="00" relocatable="true" max_length="0">
+			<original>ピンクの生地に花型の刺繍や
+フリルが施された、とても可愛いエプロン
+可愛いもの好き、料理好きが喜ぶ</original>
+			<edited>ピンクの生地に花型の刺繍や
+フリルが施された、とても可愛いエプロン
+可愛いもの好き、料理好きが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FishingBait" offset="00" relocatable="true" max_length="0">
+			<original>釣り用の餌</original>
+			<edited>釣り用の餌</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FishingBait" offset="00" relocatable="true" max_length="0">
+			<original>釣り竿の先に付けて魚をおびき寄せるために
+使う餌で、中身は魚が好んで食べる幼虫
+釣り好きが喜ぶ</original>
+			<edited>釣り竿の先に付けて魚をおびき寄せるために
+使う餌で、中身は魚が好んで食べる幼虫
+釣り好きが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_MultiFunctionKnife" offset="00" relocatable="true" max_length="0">
+			<original>多機能ナイフ</original>
+			<edited>多機能ナイフ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_MultiFunctionKnife" offset="00" relocatable="true" max_length="0">
+			<original>小さなナイフやハサミ、ねじ巻きなどが
+折りたたんで収納されている便利器具
+工作好き、武器や格好いいもの好きが喜ぶ</original>
+			<edited>小さなナイフやハサミ、ねじ巻きなどが
+折りたたんで収納されている便利器具
+工作好き、武器や格好いいもの好きが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_WoodCarvingBear" offset="00" relocatable="true" max_length="0">
+			<original>木彫りのクマ</original>
+			<edited>木彫りのクマ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_WoodCarvingBear" offset="00" relocatable="true" max_length="0">
+			<original>木だけを使い、彫って作られたクマの置物
+力強い毛並みと躍動感のある姿が一部で人気
+可愛いもの好き、動物好きが喜ぶ</original>
+			<edited>木だけを使い、彫って作られたクマの置物
+力強い毛並みと躍動感のある姿が一部で人気
+可愛いもの好き、動物好きが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SewingKit" offset="00" relocatable="true" max_length="0">
+			<original>裁縫セット</original>
+			<edited>裁縫セット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SewingKit" offset="00" relocatable="true" max_length="0">
+			<original>小さな入れ物に綺麗に整頓して収納された
+いざという時にどこでも使える裁縫セット
+裁縫好きが喜ぶ</original>
+			<edited>小さな入れ物に綺麗に整頓して収納された
+いざという時にどこでも使える裁縫セット
+裁縫好きが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SheepYarnBall" offset="00" relocatable="true" max_length="0">
+			<original>羊の毛糸玉</original>
+			<edited>羊の毛糸玉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SheepYarnBall" offset="00" relocatable="true" max_length="0">
+			<original>生え変わりの時期に刈られた羊の毛を
+紡いで作られた、とても手触りのいい毛糸玉
+裁縫好きが喜ぶ</original>
+			<edited>生え変わりの時期に刈られた羊の毛を
+紡いで作られた、とても手触りのいい毛糸玉
+裁縫好きが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Handkerchief" offset="00" relocatable="true" max_length="0">
+			<original>上質なハンカチ</original>
+			<edited>上質なハンカチ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Handkerchief" offset="00" relocatable="true" max_length="0">
+			<original>職人の手作業で丁寧に織り込まれた
+光沢感のある生地を使った高級ハンカチ
+高級品好き、掃除好き、お洒落好きが喜ぶ</original>
+			<edited>職人の手作業で丁寧に織り込まれた
+光沢感のある生地を使った高級ハンカチ
+高級品好き、掃除好き、お洒落好きが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_QuillPen" offset="00" relocatable="true" max_length="0">
+			<original>高級な羽根ペン</original>
+			<edited>高級な羽根ペン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_QuillPen" offset="00" relocatable="true" max_length="0">
+			<original>珍しい鳥の羽で作られた、一つとして同じ
+形の物はない一点物の高級な羽根ペン
+高級品好き、勉強好き、書き物好きが喜ぶ</original>
+			<edited>珍しい鳥の羽で作られた、一つとして同じ
+形の物はない一点物の高級な羽根ペン
+高級品好き、勉強好き、書き物好きが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_DecorativeDagger" offset="00" relocatable="true" max_length="0">
+			<original>装飾入りの短剣</original>
+			<edited>装飾入りの短剣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_DecorativeDagger" offset="00" relocatable="true" max_length="0">
+			<original>柄や鞘に細かい装飾が施された短剣
+実際にものを切るためではなく飾るための剣
+武器好きが喜ぶ</original>
+			<edited>柄や鞘に細かい装飾が施された短剣
+実際にものを切るためではなく飾るための剣
+武器好きが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_KazunoEarrings" offset="00" relocatable="true" max_length="0">
+			<original>シカ角の耳飾り</original>
+			<edited>シカ角の耳飾り</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_KazunoEarrings" offset="00" relocatable="true" max_length="0">
+			<original>生え変わりで落ちたシカの角だけを使った
+自然に優しい耳飾りで特にソルムの民に人気
+お洒落好きが喜ぶ</original>
+			<edited>生え変わりで落ちたシカの角だけを使った
+自然に優しい耳飾りで特にソルムの民に人気
+お洒落好きが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_PlayingCards" offset="00" relocatable="true" max_length="0">
+			<original>卓上遊び用絵札</original>
+			<edited>卓上遊び用絵札</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_PlayingCards" offset="00" relocatable="true" max_length="0">
+			<original>宴などで人が集まった時、複数人で
+色んな遊びが楽しめる専用の絵札
+子供や宴会好き、遊び好きが喜ぶ</original>
+			<edited>宴などで人が集まった時、複数人で
+色んな遊びが楽しめる専用の絵札
+子供や宴会好き、遊び好きが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SpicySeasoning" offset="00" relocatable="true" max_length="0">
+			<original>激辛調味料</original>
+			<edited>激辛調味料</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SpicySeasoning" offset="00" relocatable="true" max_length="0">
+			<original>どんな料理も激辛料理に変えてしまうという
+とても辛くて赤い実を粉末に加工した調味料
+辛いもの好き、珍味好きが喜ぶ</original>
+			<edited>どんな料理も激辛料理に変えてしまうという
+とても辛くて赤い実を粉末に加工した調味料
+辛いもの好き、珍味好きが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_LandscapePostcard" offset="00" relocatable="true" max_length="0">
+			<original>風景の絵葉書</original>
+			<edited>風景の絵葉書</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_LandscapePostcard" offset="00" relocatable="true" max_length="0">
+			<original>自然の美しい風景が描かれた絵葉書
+手紙のように想いを書いて送ることもできる
+自然好きが喜ぶ</original>
+			<edited>自然の美しい風景が描かれた絵葉書
+手紙のように想いを書いて送ることもできる
+自然好きが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Candle" offset="00" relocatable="true" max_length="0">
+			<original>美しい蝋燭</original>
+			<edited>美しい蝋燭</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Candle" offset="00" relocatable="true" max_length="0">
+			<original>細かい意匠が彫り込まれた蝋燭
+一つ一つ手作業で作られている高級品
+お洒落好き、高級品好き、宴会好きが喜ぶ</original>
+			<edited>細かい意匠が彫り込まれた蝋燭
+一つ一つ手作業で作られている高級品
+お洒落好き、高級品好き、宴会好きが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_CreaturePictureBook" offset="00" relocatable="true" max_length="0">
+			<original>生き物図鑑</original>
+			<edited>生き物図鑑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_CreaturePictureBook" offset="00" relocatable="true" max_length="0">
+			<original>動物や虫など、ありとあらゆる生き物を
+絵などと共に解説している分厚い図鑑
+動物好き、虫好きが喜ぶ</original>
+			<edited>動物や虫など、ありとあらゆる生き物を
+絵などと共に解説している分厚い図鑑
+動物好き、虫好きが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SuspiciousPaper" offset="00" relocatable="true" max_length="0">
+			<original>怪しいお札</original>
+			<edited>怪しいお札</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SuspiciousPaper" offset="00" relocatable="true" max_length="0">
+			<original>なにか嫌な雰囲気をまとった怪しいお札
+人によってはとても怖い気持ちになる
+怪談好きが喜ぶ</original>
+			<edited>なにか嫌な雰囲気をまとった怪しいお札
+人によってはとても怖い気持ちになる
+怪談好きが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_BigDish" offset="00" relocatable="true" max_length="0">
+			<original>大きなお皿</original>
+			<edited>大きなお皿</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_BigDish" offset="00" relocatable="true" max_length="0">
+			<original>何人分かの料理がたくさん盛り付けられる
+軽くて使い勝手の良い大きなお皿
+料理好き、宴会好きが喜ぶ</original>
+			<edited>何人分かの料理がたくさん盛り付けられる
+軽くて使い勝手の良い大きなお皿
+料理好き、宴会好きが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Bandage" offset="00" relocatable="true" max_length="0">
+			<original>包帯</original>
+			<edited>包帯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Bandage" offset="00" relocatable="true" max_length="0">
+			<original>主に傷口を押さえたり、怪我の予防のために
+筋肉や関節を固定したりするために使うもの
+鍛錬好きが喜ぶ</original>
+			<edited>主に傷口を押さえたり、怪我の予防のために
+筋肉や関節を固定したりするために使うもの
+鍛錬好きが喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_BeautifulStones" offset="00" relocatable="true" max_length="0">
+			<original>綺麗な石ころ</original>
+			<edited>綺麗な石ころ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_BeautifulStones" offset="00" relocatable="true" max_length="0">
+			<original>その辺りの道端に落ちていた
+丸くてすべすべとした綺麗な石ころ</original>
+			<edited>その辺りの道端に落ちていた
+丸くてすべすべとした綺麗な石ころ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SoraJewelry" offset="00" relocatable="true" max_length="0">
+			<original>守り神の宝石</original>
+			<edited>守り神の宝石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SoraJewelry" offset="00" relocatable="true" max_length="0">
+			<original>ソラネルでのみ見つかる七色に輝く宝石
+稀に&#xE;&#x6;&#x5;&#x0;がいた所に落ちている
+全員が喜ぶ</original>
+			<edited>ソラネルでのみ見つかる七色に輝く宝石
+稀に&#xE;&#x6;&#x5;&#x0;がいた所に落ちている
+全員が喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_HorseManure" offset="00" relocatable="true" max_length="0">
+			<original>馬糞</original>
+			<edited>馬糞</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_HorseManure" offset="00" relocatable="true" max_length="0">
+			<original>肥料にして使うことができるよくある馬の糞
+それ以下でも、それ以上でもない
+人にあげることもできるがあまり喜ばれない</original>
+			<edited>肥料にして使うことができるよくある馬の糞
+それ以下でも、それ以上でもない
+人にあげることもできるがあまり喜ばれない</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FishingRod_Smoll" offset="00" relocatable="true" max_length="0">
+			<original>小魚用の釣り竿</original>
+			<edited>小魚用の釣り竿</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FishingRod_Smoll" offset="00" relocatable="true" max_length="0">
+			<original>小魚を釣り上げるのに適した扱いやすい竿
+しなりの少ない硬めの仕様となっており
+弱い力で獲物を釣り上げることができる</original>
+			<edited>小魚を釣り上げるのに適した扱いやすい竿
+しなりの少ない硬めの仕様となっており
+弱い力で獲物を釣り上げることができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FishingRod_Normal" offset="00" relocatable="true" max_length="0">
+			<original>頑丈な釣り竿</original>
+			<edited>頑丈な釣り竿</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FishingRod_Normal" offset="00" relocatable="true" max_length="0">
+			<original>中サイズ程の魚を釣り上げるのに適した竿
+重い魚がかかった時に竿が大きくしなり
+力を逃がしてくれる　少し上級者向け</original>
+			<edited>中サイズ程の魚を釣り上げるのに適した竿
+重い魚がかかった時に竿が大きくしなり
+力を逃がしてくれる　少し上級者向け</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FishingRod_AllPurpose" offset="00" relocatable="true" max_length="0">
+			<original>万能の釣り竿</original>
+			<edited>万能の釣り竿</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FishingRod_AllPurpose" offset="00" relocatable="true" max_length="0">
+			<original>どんな大物にも対応できる釣り竿の最高傑作
+釣りを極めし者のみが手にできる最後の竿
+小さすぎる魚は食いつきが悪い</original>
+			<edited>どんな大物にも対応できる釣り竿の最高傑作
+釣りを極めし者のみが手にできる最後の竿
+小さすぎる魚は食いつきが悪い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Marth_Rapier" offset="00" relocatable="true" max_length="0">
+			<original>レイピア</original>
+			<edited>レイピア</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Marth_Rapier" offset="00" relocatable="true" max_length="0">
+			<original>紋章士マルスの持つ刺突剣
+騎馬特効/重装特効</original>
+			<edited>紋章士マルスの持つ刺突剣
+騎馬特効/重装特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Marth_Mericle" offset="00" relocatable="true" max_length="0">
+			<original>メリクルソード</original>
+			<edited>メリクルソード</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Marth_Mericle" offset="00" relocatable="true" max_length="0">
+			<original>紋章士マルスの持つ剣の神器
+獲得経験値2倍</original>
+			<edited>紋章士マルスの持つ剣の神器
+獲得経験値2倍</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Marth_Falchion" offset="00" relocatable="true" max_length="0">
+			<original>ファルシオン</original>
+			<edited>ファルシオン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Marth_Falchion_M000" offset="00" relocatable="true" max_length="0">
+			<original>伝説の神剣
+竜特効</original>
+			<edited>伝説の神剣
+竜特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Marth_Falchion" offset="00" relocatable="true" max_length="0">
+			<original>紋章士マルスの持つ伝説の神剣
+竜特効</original>
+			<edited>紋章士マルスの持つ伝説の神剣
+竜特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Siglud_RiderKiller" offset="00" relocatable="true" max_length="0">
+			<original>ナイトキラー</original>
+			<edited>ナイトキラー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Siglud_RiderKiller" offset="00" relocatable="true" max_length="0">
+			<original>紋章士シグルドの持つ槍
+騎馬特効</original>
+			<edited>紋章士シグルドの持つ槍
+騎馬特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Siglud_BraveLance" offset="00" relocatable="true" max_length="0">
+			<original>ゆうしゃのやり</original>
+			<edited>ゆうしゃのやり</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Siglud_BraveLance" offset="00" relocatable="true" max_length="0">
+			<original>紋章士シグルドの持つ槍
+自分から攻撃した時、2連続攻撃</original>
+			<edited>紋章士シグルドの持つ槍
+自分から攻撃した時、2連続攻撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Siglud_Tyrfing" offset="00" relocatable="true" max_length="0">
+			<original>ティルフィング</original>
+			<edited>ティルフィング</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Siglud_Tyrfing" offset="00" relocatable="true" max_length="0">
+			<original>紋章士シグルドの持つ伝説の聖剣
+魔防＋5</original>
+			<edited>紋章士シグルドの持つ伝説の聖剣
+魔防＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Siglud_Tyrfing_Normal" offset="00" relocatable="true" max_length="0">
+			<original>紋章士シグルドの持つ伝説の聖剣</original>
+			<edited>紋章士シグルドの持つ伝説の聖剣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Celica_Angel" offset="00" relocatable="true" max_length="0">
+			<original>エンジェル</original>
+			<edited>エンジェル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Celica_Angel" offset="00" relocatable="true" max_length="0">
+			<original>紋章士セリカの聖なる魔法
+異形特効</original>
+			<edited>紋章士セリカの聖なる魔法
+異形特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Celica_Recovery" offset="00" relocatable="true" max_length="0">
+			<original>リカバー</original>
+			<edited>リカバー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Celica_Recovery" offset="00" relocatable="true" max_length="0">
+			<original>紋章士セリカの持つ癒やしの杖
+HPを大きく回復する</original>
+			<edited>紋章士セリカの持つ癒やしの杖
+HPを大きく回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Celica_Ragnarok" offset="00" relocatable="true" max_length="0">
+			<original>ライナロック</original>
+			<edited>ライナロック</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Celica_Ragnarok" offset="00" relocatable="true" max_length="0">
+			<original>紋章士セリカの持つ究極の炎魔法</original>
+			<edited>紋章士セリカの持つ究極の炎魔法</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Micaiah_Shine" offset="00" relocatable="true" max_length="0">
+			<original>シャイン</original>
+			<edited>シャイン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Micaiah_Shine" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ミカヤの持つ光魔法　
+周囲5マスを照らす（ターン毎－1マス）</original>
+			<edited>紋章士ミカヤの持つ光魔法　
+周囲5マスを照らす（ターン毎－1マス）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Micaiah_Nosferatu" offset="00" relocatable="true" max_length="0">
+			<original>リザイア</original>
+			<edited>リザイア</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Micaiah_Nosferatu" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ミカヤの持つ光魔法
+与えたダメージの50％
+自分のHPを回復する</original>
+			<edited>紋章士ミカヤの持つ光魔法
+与えたダメージの50％
+自分のHPを回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Micaiah_Thani" offset="00" relocatable="true" max_length="0">
+			<original>セイニー</original>
+			<edited>セイニー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Micaiah_Thani" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ミカヤの持つ光の上級魔法
+騎馬特効/重装特効</original>
+			<edited>紋章士ミカヤの持つ光の上級魔法
+騎馬特効/重装特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_HandHeal" offset="00" relocatable="true" max_length="0">
+			<original>癒しの手</original>
+			<edited>癒しの手</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Roy_LanceBuster" offset="00" relocatable="true" max_length="0">
+			<original>ランスバスター</original>
+			<edited>ランスバスター</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Roy_LanceBuster" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ロイの持つ剣
+槍に強く、斧に弱い</original>
+			<edited>紋章士ロイの持つ剣
+槍に強く、斧に弱い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Roy_DragonKiller" offset="00" relocatable="true" max_length="0">
+			<original>ドラゴンキラー</original>
+			<edited>ドラゴンキラー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Roy_DragonKiller" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ロイの持つ剣
+竜特効</original>
+			<edited>紋章士ロイの持つ剣
+竜特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Roy_BindingBlade" offset="00" relocatable="true" max_length="0">
+			<original>封印の剣</original>
+			<edited>封印の剣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Roy_BindingBlade" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ロイの持つ英雄の剣
+守備・魔防＋5/離れた敵にも攻撃可能</original>
+			<edited>紋章士ロイの持つ英雄の剣
+守備・魔防＋5/離れた敵にも攻撃可能</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Leaf_KillerAxe" offset="00" relocatable="true" max_length="0">
+			<original>キラーアクス</original>
+			<edited>キラーアクス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Leaf_KillerAxe_M008" offset="00" relocatable="true" max_length="0">
+			<original>紋章士が持つ斧
+致命傷を与えやすい</original>
+			<edited>紋章士が持つ斧
+致命傷を与えやすい</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Leaf_KillerAxe" offset="00" relocatable="true" max_length="0">
+			<original>紋章士リーフの持つ斧
+致命傷を与えやすい</original>
+			<edited>紋章士リーフの持つ斧
+致命傷を与えやすい</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Leaf_MasterLance" offset="00" relocatable="true" max_length="0">
+			<original>マスターランス</original>
+			<edited>マスターランス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Leaf_MasterLance_M008" offset="00" relocatable="true" max_length="0">
+			<original>紋章士が持つ槍
+自分から攻撃した時、2連続攻撃
+離れた敵にも攻撃可能</original>
+			<edited>紋章士が持つ槍
+自分から攻撃した時、2連続攻撃
+離れた敵にも攻撃可能</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Leaf_MasterLance" offset="00" relocatable="true" max_length="0">
+			<original>紋章士リーフの持つ槍
+自分から攻撃した時、2連続攻撃
+離れた敵にも攻撃可能</original>
+			<edited>紋章士リーフの持つ槍
+自分から攻撃した時、2連続攻撃
+離れた敵にも攻撃可能</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Leaf_LightBrand" offset="00" relocatable="true" max_length="0">
+			<original>ひかりの剣</original>
+			<edited>ひかりの剣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Leaf_LightBrand" offset="00" relocatable="true" max_length="0">
+			<original>紋章士リーフの持つ魔法剣
+幸運＋10/魔法の光で離れた敵にも攻撃可能</original>
+			<edited>紋章士リーフの持つ魔法剣
+幸運＋10/魔法の光で離れた敵にも攻撃可能</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Leaf_MasterBow" offset="00" relocatable="true" max_length="0">
+			<original>マスターボウ</original>
+			<edited>マスターボウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lucina_NobleRapier" offset="00" relocatable="true" max_length="0">
+			<original>ノーブルレイピア</original>
+			<edited>ノーブルレイピア</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lucina_NobleRapier_M007" offset="00" relocatable="true" max_length="0">
+			<original>紋章士が持つ刺突剣
+騎馬特効/重装特効</original>
+			<edited>紋章士が持つ刺突剣
+騎馬特効/重装特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lucina_NobleRapier" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ルキナの持つ刺突剣
+騎馬特効/重装特効</original>
+			<edited>紋章士ルキナの持つ刺突剣
+騎馬特効/重装特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lucina_Parthia" offset="00" relocatable="true" max_length="0">
+			<original>パルティア</original>
+			<edited>パルティア</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lucina_Parthia" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ルキナの持つ強力な弓
+魔防＋5/獲得経験値2倍
+飛行特効</original>
+			<edited>紋章士ルキナの持つ強力な弓
+魔防＋5/獲得経験値2倍
+飛行特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lucina_ParallelFalchion" offset="00" relocatable="true" max_length="0">
+			<original>裏剣ファルシオン</original>
+			<edited>裏剣ファルシオン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lucina_ParallelFalchion" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ルキナの持つ伝説の神剣
+竜特効</original>
+			<edited>紋章士ルキナの持つ伝説の神剣
+竜特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lin_KillerBow" offset="00" relocatable="true" max_length="0">
+			<original>キラーボウ</original>
+			<edited>キラーボウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lin_KillerBow_M010" offset="00" relocatable="true" max_length="0">
+			<original>紋章士が持つ弓
+致命傷を与えやすい/飛行特効</original>
+			<edited>紋章士が持つ弓
+致命傷を与えやすい/飛行特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lin_KillerBow" offset="00" relocatable="true" max_length="0">
+			<original>紋章士リンの持つ弓
+致命傷を与えやすい/飛行特効</original>
+			<edited>紋章士リンの持つ弓
+致命傷を与えやすい/飛行特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lin_KillerBow_Normal" offset="00" relocatable="true" max_length="0">
+			<original>紋章士リンの持つ弓
+飛行特効</original>
+			<edited>紋章士リンの持つ弓
+飛行特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lin_ManiKatti" offset="00" relocatable="true" max_length="0">
+			<original>マーニ・カティ</original>
+			<edited>マーニ・カティ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lin_ManiKatti" offset="00" relocatable="true" max_length="0">
+			<original>紋章士リンの持つ精霊の加護を受けた剣
+騎馬特効/重装特効</original>
+			<edited>紋章士リンの持つ精霊の加護を受けた剣
+騎馬特効/重装特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lin_ManiKatti_1" offset="00" relocatable="true" max_length="0">
+			<original>紋章士が持つ精霊の加護を受けた剣
+騎馬特効/重装特効</original>
+			<edited>紋章士が持つ精霊の加護を受けた剣
+騎馬特効/重装特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lin_Myrgleis" offset="00" relocatable="true" max_length="0">
+			<original>ミュルグレ</original>
+			<edited>ミュルグレ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lin_Myrgleis" offset="00" relocatable="true" max_length="0">
+			<original>紋章士リンの持つ疾風の弓
+速さ＋5/竜特効/飛行特効</original>
+			<edited>紋章士リンの持つ疾風の弓
+速さ＋5/竜特効/飛行特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Ike_Hammer" offset="00" relocatable="true" max_length="0">
+			<original>ハンマー</original>
+			<edited>ハンマー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Ike_Hammer" offset="00" relocatable="true" max_length="0">
+			<original>紋章士アイクの持つ戦槌
+追撃不可/重装特効/自分から攻撃した時
+必ず後攻攻撃になるがスマッシュ発生</original>
+			<edited>紋章士アイクの持つ戦槌
+追撃不可/重装特効/自分から攻撃した時
+必ず後攻攻撃になるがスマッシュ発生</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Ike_Urvan" offset="00" relocatable="true" max_length="0">
+			<original>ウルヴァン</original>
+			<edited>ウルヴァン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Ike_Urvan" offset="00" relocatable="true" max_length="0">
+			<original>紋章士アイクの持つ戦斧
+魔防＋3</original>
+			<edited>紋章士アイクの持つ戦斧
+魔防＋3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Ike_Ragnell" offset="00" relocatable="true" max_length="0">
+			<original>ラグネル</original>
+			<edited>ラグネル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Ike_Ragnell" offset="00" relocatable="true" max_length="0">
+			<original>紋章士アイクの持つ伝説の神剣
+守備＋5/離れた敵にも攻撃可能</original>
+			<edited>紋章士アイクの持つ伝説の神剣
+守備＋5/離れた敵にも攻撃可能</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Byleth_Aymr" offset="00" relocatable="true" max_length="0">
+			<original>アイムール</original>
+			<edited>アイムール</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_Aymr" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ベレトの持つ斧
+追撃不可/竜特効/自分から攻撃した時
+必ず後攻攻撃になるがスマッシュ発生</original>
+			<edited>紋章士ベレトの持つ斧
+追撃不可/竜特効/自分から攻撃した時
+必ず後攻攻撃になるがスマッシュ発生</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Byleth_Blutgang" offset="00" relocatable="true" max_length="0">
+			<original>ブルトガング</original>
+			<edited>ブルトガング</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_Blutgang" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ベレトの持つ剣
+刃に魔力をまとう
+竜特効/騎馬特効</original>
+			<edited>紋章士ベレトの持つ剣
+刃に魔力をまとう
+竜特効/騎馬特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Byleth_Luin" offset="00" relocatable="true" max_length="0">
+			<original>ルーン</original>
+			<edited>ルーン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_Luin_M010" offset="00" relocatable="true" max_length="0">
+			<original>紋章士が持つ槍
+速さに応じてダメージがアップする
+竜特効</original>
+			<edited>紋章士が持つ槍
+速さに応じてダメージがアップする
+竜特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_Luin" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ベレトの持つ槍
+速さに応じてダメージがアップする
+竜特効</original>
+			<edited>紋章士ベレトの持つ槍
+速さに応じてダメージがアップする
+竜特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Byleth_Areadbhar" offset="00" relocatable="true" max_length="0">
+			<original>アラドヴァル</original>
+			<edited>アラドヴァル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_Areadbhar" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ベレトの持つ槍
+自分から攻撃した時、威力150％</original>
+			<edited>紋章士ベレトの持つ槍
+自分から攻撃した時、威力150％</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Byleth_AegisShield" offset="00" relocatable="true" max_length="0">
+			<original>アイギスの盾</original>
+			<edited>アイギスの盾</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_AegisShield" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ベレトの持つ盾
+守備＋6/魔防＋3/技％の確率で受ける
+ダメージを50％にする（所持で効果発動）</original>
+			<edited>紋章士ベレトの持つ盾
+守備＋6/魔防＋3/技％の確率で受ける
+ダメージを50％にする（所持で効果発動）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Byleth_Failnaught" offset="00" relocatable="true" max_length="0">
+			<original>フェイルノート</original>
+			<edited>フェイルノート</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_Failnaught" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ベレトの持つ弓
+自分から攻撃した時、回避＋20
+竜特効/飛行特効</original>
+			<edited>紋章士ベレトの持つ弓
+自分から攻撃した時、回避＋20
+竜特効/飛行特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Byleth_Thyrsus" offset="00" relocatable="true" max_length="0">
+			<original>テュルソスの杖</original>
+			<edited>テュルソスの杖</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_Thyrsus" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ベレトの持つ杖
+魔法の射程＋2/稀にダメージを半減する
+（所持しているだけで効果発動）</original>
+			<edited>紋章士ベレトの持つ杖
+魔法の射程＋2/稀にダメージを半減する
+（所持しているだけで効果発動）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Byleth_RafailGem" offset="00" relocatable="true" max_length="0">
+			<original>ラファイルの宝珠</original>
+			<edited>ラファイルの宝珠</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_RafailGem" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ベレトの持つ宝珠
+特効と必殺を無効化/稀にダメージを半減
+（所持しているだけで効果発動）</original>
+			<edited>紋章士ベレトの持つ宝珠
+特効と必殺を無効化/稀にダメージを半減
+（所持しているだけで効果発動）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Byleth_Vajra" offset="00" relocatable="true" max_length="0">
+			<original>ヴァジュラ</original>
+			<edited>ヴァジュラ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_Vajra" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ベレトの持つ篭手
+相手の守備か魔防の低い方を参照する
+自分から攻撃した時、2連続攻撃</original>
+			<edited>紋章士ベレトの持つ篭手
+相手の守備か魔防の低い方を参照する
+自分から攻撃した時、2連続攻撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Byleth_SublimeCreatorSword" offset="00" relocatable="true" max_length="0">
+			<original>天帝の剣</original>
+			<edited>天帝の剣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_SublimeCreatorSword" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ベレトの持つ英雄の遺産
+魔力に応じてダメージがアップする
+離れた敵にも攻撃可能/竜特効</original>
+			<edited>紋章士ベレトの持つ英雄の遺産
+魔力に応じてダメージがアップする
+離れた敵にも攻撃可能/竜特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_SublimeCreatorSword_M014" offset="00" relocatable="true" max_length="0">
+			<original>紋章士が持つ英雄の遺産
+魔力に応じてダメージがアップする
+離れた敵にも攻撃可能/竜特効</original>
+			<edited>紋章士が持つ英雄の遺産
+魔力に応じてダメージがアップする
+離れた敵にも攻撃可能/竜特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GoddessAgain" offset="00" relocatable="true" max_length="0">
+			<original>女神の舞</original>
+			<edited>女神の舞</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GoddessAgain_Dark" offset="00" relocatable="true" max_length="0">
+			<original>邪神の舞</original>
+			<edited>邪神の舞</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Kamui_DualKatana" offset="00" relocatable="true" max_length="0">
+			<original>逆刀</original>
+			<edited>逆刀</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Kamui_DualKatana" offset="00" relocatable="true" max_length="0">
+			<original>紋章士カムイの持つ刀
+槍に強く、斧に弱い</original>
+			<edited>紋章士カムイの持つ刀
+槍に強く、斧に弱い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Kamui_Wakizashi" offset="00" relocatable="true" max_length="0">
+			<original>飛刀</original>
+			<edited>飛刀</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Kamui_Wakizashi" offset="00" relocatable="true" max_length="0">
+			<original>紋章士カムイの持つ刀
+近接攻撃不可/離れた敵に攻撃可能</original>
+			<edited>紋章士カムイの持つ刀
+近接攻撃不可/離れた敵に攻撃可能</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Kamui_Yato" offset="00" relocatable="true" max_length="0">
+			<original>夜刀神</original>
+			<edited>夜刀神</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Kamui_Yato" offset="00" relocatable="true" max_length="0">
+			<original>紋章士カムイの持つ伝説の神刀</original>
+			<edited>紋章士カムイの持つ伝説の神刀</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Kamui_DragonPiercing" offset="00" relocatable="true" max_length="0">
+			<original>竜穿</original>
+			<edited>竜穿</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Kamui_DragonPiercing" offset="00" relocatable="true" max_length="0">
+			<original>紋章士カムイの使う技</original>
+			<edited>紋章士カムイの使う技</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Eirik_Rapier" offset="00" relocatable="true" max_length="0">
+			<original>レイピア</original>
+			<edited>レイピア</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Eirik_Rapier" offset="00" relocatable="true" max_length="0">
+			<original>紋章士エイリークの持つ刺突剣
+騎馬特効/重装特効</original>
+			<edited>紋章士エイリークの持つ刺突剣
+騎馬特効/重装特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Eirik_WindSword" offset="00" relocatable="true" max_length="0">
+			<original>かぜの剣</original>
+			<edited>かぜの剣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Eirik_WindSword" offset="00" relocatable="true" max_length="0">
+			<original>紋章士エイリークが持つ魔法剣
+魔法の風で離れた敵にも攻撃可能
+飛行特効</original>
+			<edited>紋章士エイリークが持つ魔法剣
+魔法の風で離れた敵にも攻撃可能
+飛行特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Eirik_Sieglinde" offset="00" relocatable="true" max_length="0">
+			<original>ジークリンデ</original>
+			<edited>ジークリンデ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Eirik_Sieglinde" offset="00" relocatable="true" max_length="0">
+			<original>紋章士エイリークの持つ剣の双聖器
+異形特効</original>
+			<edited>紋章士エイリークの持つ剣の双聖器
+異形特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Eirik_Siegmund" offset="00" relocatable="true" max_length="0">
+			<original>ジークムント</original>
+			<edited>ジークムント</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Eirik_Siegmund" offset="00" relocatable="true" max_length="0">
+			<original>紋章士エフラムの持つ聖なる炎槍
+異形特効</original>
+			<edited>紋章士エフラムの持つ聖なる炎槍
+異形特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lueur_Oligoludia" offset="00" relocatable="true" max_length="0">
+			<original>オリゴルディア</original>
+			<edited>オリゴルディア</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lueur_Oligoludia" offset="00" relocatable="true" max_length="0">
+			<original>紋章士&#xE;&#x6;&#x3;&#x0;の持つ剣
+異形特効</original>
+			<edited>紋章士&#xE;&#x6;&#x3;&#x0;の持つ剣
+異形特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lueur_DragonFist" offset="00" relocatable="true" max_length="0">
+			<original>神竜の体術</original>
+			<edited>神竜の体術</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lueur_DragonFist" offset="00" relocatable="true" max_length="0">
+			<original>紋章士&#xE;&#x6;&#x3;&#x0;の持つ魔法格闘技
+自分から攻撃した時、2連続攻撃
+（攻撃力は魔力のみ参照する）</original>
+			<edited>紋章士&#xE;&#x6;&#x3;&#x0;の持つ魔法格闘技
+自分から攻撃した時、2連続攻撃
+（攻撃力は魔力のみ参照する）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lueur_Lyration" offset="00" relocatable="true" max_length="0">
+			<original>ライラシオン</original>
+			<edited>ライラシオン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lueur_Lyration" offset="00" relocatable="true" max_length="0">
+			<original>紋章士&#xE;&#x6;&#x3;&#x0;の持つ剣
+自分から攻撃して敵を撃破した時、隣接する
+シンクロ中の味方のエンゲージカウント＋1</original>
+			<edited>紋章士&#xE;&#x6;&#x3;&#x0;の持つ剣
+自分から攻撃して敵を撃破した時、隣接する
+シンクロ中の味方のエンゲージカウント＋1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Folkvangr" offset="00" relocatable="true" max_length="0">
+			<original>フォルクヴァング</original>
+			<edited>フォルクヴァング</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Folkvangr" offset="00" relocatable="true" max_length="0">
+			<original>異界の国アスクの王子アルフォンスの剣
+自軍フェイズ開始時にHPが50％以下の
+場合、1ターンの間攻撃力＋3</original>
+			<edited>異界の国アスクの王子アルフォンスの剣
+自軍フェイズ開始時にHPが50％以下の
+場合、1ターンの間攻撃力＋3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Fensalir" offset="00" relocatable="true" max_length="0">
+			<original>フェンサリル</original>
+			<edited>フェンサリル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Fensalir" offset="00" relocatable="true" max_length="0">
+			<original>異界の国アスクの王女シャロンの槍
+自軍フェイズ開始時に敵が隣接していた場合
+1ターンの間、その敵の攻撃力－2</original>
+			<edited>異界の国アスクの王女シャロンの槍
+自軍フェイズ開始時に敵が隣接していた場合
+1ターンの間、その敵の攻撃力－2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Noatun" offset="00" relocatable="true" max_length="0">
+			<original>ノーアトゥーン</original>
+			<edited>ノーアトゥーン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Noatun" offset="00" relocatable="true" max_length="0">
+			<original>異界の国アスクの戦士アンナの斧
+自軍フェイズ開始時にHPが40％以下の
+場合、1ターンの間移動＋1</original>
+			<edited>異界の国アスクの戦士アンナの斧
+自軍フェイズ開始時にHPが40％以下の
+場合、1ターンの間移動＋1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SPBook1" offset="00" relocatable="true" max_length="0">
+			<original>スキルの書・守</original>
+			<edited>スキルの書・守</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SPBook1" offset="00" relocatable="true" max_length="0">
+			<original>スキルの理解を深める書
+SPを100獲得する</original>
+			<edited>スキルの理解を深める書
+SPを100獲得する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SPBook2" offset="00" relocatable="true" max_length="0">
+			<original>スキルの書・破</original>
+			<edited>スキルの書・破</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SPBook2" offset="00" relocatable="true" max_length="0">
+			<original>スキルの秘奥と出会う書
+SPを500獲得する</original>
+			<edited>スキルの秘奥と出会う書
+SPを500獲得する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SPBook3" offset="00" relocatable="true" max_length="0">
+			<original>スキルの書・離</original>
+			<edited>スキルの書・離</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SPBook3" offset="00" relocatable="true" max_length="0">
+			<original>スキルの神髄に触れる書
+SPを1000獲得する</original>
+			<edited>スキルの神髄に触れる書
+SPを1000獲得する</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

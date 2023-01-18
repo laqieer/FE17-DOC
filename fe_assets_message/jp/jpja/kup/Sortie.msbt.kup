@@ -1,0 +1,669 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_SORTIE_START" offset="00" relocatable="true" max_length="0">
+			<original>戦闘開始</original>
+			<edited>戦闘開始</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_START_HELP" offset="00" relocatable="true" max_length="0">
+			<original>準備を完了し出撃する</original>
+			<edited>準備を完了し出撃する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_START_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>戦闘を開始しますか？</original>
+			<edited>戦闘を開始しますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_START_CONFIRM_YES" offset="00" relocatable="true" max_length="0">
+			<original>開始する</original>
+			<edited>開始する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_BACK" offset="00" relocatable="true" max_length="0">
+			<original>戻る</original>
+			<edited>戻る</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SELECT_UNIT" offset="00" relocatable="true" max_length="0">
+			<original>ユニット編成</original>
+			<edited>ユニット編成</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SELECT_UNIT_SELECT" offset="00" relocatable="true" max_length="0">
+			<original>ユニットを選択してください</original>
+			<edited>ユニットを選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SELECT_UNIT_HELP" offset="00" relocatable="true" max_length="0">
+			<original>出撃する味方を選択する</original>
+			<edited>出撃する味方を選択する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_EQUIP_GOD" offset="00" relocatable="true" max_length="0">
+			<original>紋章士の指輪&#xE;&#x1;&#x8;&#x0;</original>
+			<edited>紋章士の指輪&#xE;&#x1;&#x8;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_EQUIP_GOD_HELP" offset="00" relocatable="true" max_length="0">
+			<original>紋章士の指輪&#xE;&#x1;&#x8;&#x0;を付け替える</original>
+			<edited>紋章士の指輪&#xE;&#x1;&#x8;&#x0;を付け替える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_INVENTORY" offset="00" relocatable="true" max_length="0">
+			<original>身支度</original>
+			<edited>身支度</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_INVENTORY_HELP" offset="00" relocatable="true" max_length="0">
+			<original>持ち物整理やスキル装備を行う</original>
+			<edited>持ち物整理やスキル装備を行う</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CHANGE_POSITION" offset="00" relocatable="true" max_length="0">
+			<original>配置変更</original>
+			<edited>配置変更</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CHANGE_POSITION_HELP" offset="00" relocatable="true" max_length="0">
+			<original>味方の配置替えと戦況確認を行う</original>
+			<edited>味方の配置替えと戦況確認を行う</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SHOP" offset="00" relocatable="true" max_length="0">
+			<original>買い物</original>
+			<edited>買い物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SHOP_HELP" offset="00" relocatable="true" max_length="0">
+			<original>武器や道具を購入する</original>
+			<edited>武器や道具を購入する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_WEAPON_SHOP" offset="00" relocatable="true" max_length="0">
+			<original>武器屋</original>
+			<edited>武器屋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_H_WEAPON_SHOP" offset="00" relocatable="true" max_length="0">
+			<original>武器を購入する</original>
+			<edited>武器を購入する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ITEM_SHOP" offset="00" relocatable="true" max_length="0">
+			<original>道具屋</original>
+			<edited>道具屋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_H_ITEM_SHOP" offset="00" relocatable="true" max_length="0">
+			<original>道具を購入する</original>
+			<edited>道具を購入する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_RELIANCE" offset="00" relocatable="true" max_length="0">
+			<original>支援会話</original>
+			<edited>支援会話</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_RELIANCE_UNIT_SELECT" offset="00" relocatable="true" max_length="0">
+			<original>相手を選択してください</original>
+			<edited>相手を選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_RELIANCE_NONE" offset="00" relocatable="true" max_length="0">
+			<original>支援相手がいません</original>
+			<edited>支援相手がいません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_BONDS_RELIANCE" offset="00" relocatable="true" max_length="0">
+			<original>絆会話</original>
+			<edited>絆会話</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_BONDS_RELIANCE_NONE" offset="00" relocatable="true" max_length="0">
+			<original>紋章士がいません</original>
+			<edited>紋章士がいません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_RELIANCE_ATTENTION" offset="00" relocatable="true" max_length="0">
+			<original>絆会話や支援会話は拠点やワールドマップで行えます</original>
+			<edited>絆会話や支援会話は拠点やワールドマップで行えます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SAVE" offset="00" relocatable="true" max_length="0">
+			<original>セーブ</original>
+			<edited>セーブ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SAVE_HELP" offset="00" relocatable="true" max_length="0">
+			<original>現在の進行状態を保存する</original>
+			<edited>現在の進行状態を保存する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_BACK_CONFIRM_HELP" offset="00" relocatable="true" max_length="0">
+			<original>ワールドマップに戻る</original>
+			<edited>ワールドマップに戻る</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_BACK_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>ワールドマップに戻りますか？</original>
+			<edited>ワールドマップに戻りますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_BACK_CONFIRM_HELP_M026" offset="00" relocatable="true" max_length="0">
+			<original>拠点ソラネルに戻る</original>
+			<edited>拠点ソラネルに戻る</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_BACK_CONFIRM_M026" offset="00" relocatable="true" max_length="0">
+			<original>拠点ソラネルに戻りますか？</original>
+			<edited>拠点ソラネルに戻りますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CONTINUEBATTLE_NOSELECT" offset="00" relocatable="true" max_length="0">
+			<original>連戦中のため選択不可</original>
+			<edited>連戦中のため選択不可</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_COMMON_TRADE" offset="00" relocatable="true" max_length="0">
+			<original>交換</original>
+			<edited>交換</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>持ち物整理</original>
+			<edited>持ち物整理</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_ITEM_LIST" offset="00" relocatable="true" max_length="0">
+			<original>持ち物一覧</original>
+			<edited>持ち物一覧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_TRADE" offset="00" relocatable="true" max_length="0">
+			<original>持ち物交換</original>
+			<edited>持ち物交換</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_ENTRUST" offset="00" relocatable="true" max_length="0">
+			<original>おまかせ装備</original>
+			<edited>おまかせ装備</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_ENTRUST_WARNING1" offset="00" relocatable="true" max_length="0">
+			<original>輸送隊の持ち物が不足しているため
+持ち物を持たせることができませんでした。</original>
+			<edited>輸送隊の持ち物が不足しているため
+持ち物を持たせることができませんでした。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_ENTRUST_WARNING2" offset="00" relocatable="true" max_length="0">
+			<original>このユニットの持ち物を整理するための
+空きが輸送隊に無いため
+「おまかせ装備」を行うことができません。</original>
+			<edited>このユニットの持ち物を整理するための
+空きが輸送隊に無いため
+「おまかせ装備」を行うことができません。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_STORE" offset="00" relocatable="true" max_length="0">
+			<original>預ける</original>
+			<edited>預ける</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_STORE_ALL" offset="00" relocatable="true" max_length="0">
+			<original>すべて預ける</original>
+			<edited>すべて預ける</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_STORE_ALL_WARNING" offset="00" relocatable="true" max_length="0">
+			<original>輸送隊がいっぱいか、
+預けられないアイテムがありました。</original>
+			<edited>輸送隊がいっぱいか、
+預けられないアイテムがありました。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_SKILL_OPEN" offset="00" relocatable="true" max_length="0">
+			<original>「スキル着脱」が可能になりました</original>
+			<edited>「スキル着脱」が可能になりました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_SKILL" offset="00" relocatable="true" max_length="0">
+			<original>スキル着脱</original>
+			<edited>スキル着脱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_CLASSCHANGE" offset="00" relocatable="true" max_length="0">
+			<original>クラスチェンジ</original>
+			<edited>クラスチェンジ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_ENTRUST" offset="00" relocatable="true" max_length="0">
+			<original>一括おまかせ装備</original>
+			<edited>一括おまかせ装備</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_ENTRUST_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>出撃するユニットの持ち物を
+おまかせで整理しますか？
+（出撃しないユニットの持ち物は
+　全て輸送隊に送られます）</original>
+			<edited>出撃するユニットの持ち物を
+おまかせで整理しますか？
+（出撃しないユニットの持ち物は
+　全て輸送隊に送られます）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_ENTRUST_ERROR" offset="00" relocatable="true" max_length="0">
+			<original>「一括おまかせ装備」は、出撃準備で
+出撃ユニットを選択済みの時に使用できます</original>
+			<edited>「一括おまかせ装備」は、出撃準備で
+出撃ユニットを選択済みの時に使用できます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_ENTRUST_Yes" offset="00" relocatable="true" max_length="0">
+			<original>整理する</original>
+			<edited>整理する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_ENTRUST_WARNING1" offset="00" relocatable="true" max_length="0">
+			<original>輸送隊の持ち物が不足しているため
+出撃する全てのユニットに
+持ち物を持たせることができませんでした。</original>
+			<edited>輸送隊の持ち物が不足しているため
+出撃する全てのユニットに
+持ち物を持たせることができませんでした。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_ENTRUST_WARNING2" offset="00" relocatable="true" max_length="0">
+			<original>輸送隊の在庫がいっぱいのため
+持ち物の整理ができませんでした。</original>
+			<edited>輸送隊の在庫がいっぱいのため
+持ち物の整理ができませんでした。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_STORE_ALL" offset="00" relocatable="true" max_length="0">
+			<original>一括全預け</original>
+			<edited>一括全預け</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_STORE_ALL_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>全てのユニットの持ち物を
+輸送隊に預けますか？</original>
+			<edited>全てのユニットの持ち物を
+輸送隊に預けますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_STORE_ALL_WARNING" offset="00" relocatable="true" max_length="0">
+			<original>輸送隊の在庫がいっぱいのため
+全てのユニットの持ち物を
+輸送隊に預けることができませんでした。</original>
+			<edited>輸送隊の在庫がいっぱいのため
+全てのユニットの持ち物を
+輸送隊に預けることができませんでした。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_ENTRUST_GOD" offset="00" relocatable="true" max_length="0">
+			<original>一括おまかせ装備</original>
+			<edited>一括おまかせ装備</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_ENTRUST_GOD_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>出撃するユニットの指輪&#xE;&#x1;&#x8;&#x0;を
+おまかせで装備しますか？</original>
+			<edited>出撃するユニットの指輪&#xE;&#x1;&#x8;&#x0;を
+おまかせで装備しますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_ENTRUST_GOD_Yes" offset="00" relocatable="true" max_length="0">
+			<original>装備する</original>
+			<edited>装備する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_ENTRUST_GOD_No" offset="00" relocatable="true" max_length="0">
+			<original>やめる</original>
+			<edited>やめる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_STORE_ALL_GOD" offset="00" relocatable="true" max_length="0">
+			<original>一括装備解除</original>
+			<edited>一括装備解除</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_STORE_ALL_GOD_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>全てのユニットの指輪&#xE;&#x1;&#x8;&#x0;を外しますか？</original>
+			<edited>全てのユニットの指輪&#xE;&#x1;&#x8;&#x0;を外しますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_STORE_ALL_GOD_Yes" offset="00" relocatable="true" max_length="0">
+			<original>外す</original>
+			<edited>外す</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_STORE_ALL_GOD_No" offset="00" relocatable="true" max_length="0">
+			<original>やめる</original>
+			<edited>やめる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_NONE" offset="00" relocatable="true" max_length="0">
+			<original>ユニットがいません</original>
+			<edited>ユニットがいません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TROOPLIST_PAGETITLE_BASIC" offset="00" relocatable="true" max_length="0">
+			<original>状態</original>
+			<edited>状態</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TROOPLIST_PAGETITLE_STATUS" offset="00" relocatable="true" max_length="0">
+			<original>基本能力</original>
+			<edited>基本能力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TROOPLIST_PAGETITLE_BATTLE" offset="00" relocatable="true" max_length="0">
+			<original>戦闘能力</original>
+			<edited>戦闘能力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_INVENTORY_STORE" offset="00" relocatable="true" max_length="0">
+			<original>預ける</original>
+			<edited>預ける</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_INVENTORY_RECEIVE" offset="00" relocatable="true" max_length="0">
+			<original>受け取る</original>
+			<edited>受け取る</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_INVENTORY_EQUIP" offset="00" relocatable="true" max_length="0">
+			<original>装備</original>
+			<edited>装備</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_INVENTORY_REMOVE" offset="00" relocatable="true" max_length="0">
+			<original>外す</original>
+			<edited>外す</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_INVENTORY_ARRANGE" offset="00" relocatable="true" max_length="0">
+			<original>並べ替え</original>
+			<edited>並べ替え</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_INVENTORY_USE" offset="00" relocatable="true" max_length="0">
+			<original>使う</original>
+			<edited>使う</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_INVENTORY_DISCARD" offset="00" relocatable="true" max_length="0">
+			<original>捨てる</original>
+			<edited>捨てる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_INVENTORY_EMPTY" offset="00" relocatable="true" max_length="0">
+			<original>何も持っていません</original>
+			<edited>何も持っていません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SKILL_CATEGORY_PERSON" offset="00" relocatable="true" max_length="0">
+			<original>個人</original>
+			<edited>個人</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SKILL_CATEGORY_JOB" offset="00" relocatable="true" max_length="0">
+			<original>兵種</original>
+			<edited>兵種</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SKILL_CATEGORY_INHERITANCE" offset="00" relocatable="true" max_length="0">
+			<original>継承</original>
+			<edited>継承</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SKILL_CATEGORY_GOD" offset="00" relocatable="true" max_length="0">
+			<original>シンクロ</original>
+			<edited>シンクロ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SKILL_CATEGORY_ENGAGE" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ</original>
+			<edited>エンゲージ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SKILL_CATEGORY_BONDS" offset="00" relocatable="true" max_length="0">
+			<original>絆</original>
+			<edited>絆</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SKILL_CATEGORY_EQUIPED" offset="00" relocatable="true" max_length="0">
+			<original>装備中</original>
+			<edited>装備中</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SKILL_OVERLAPPING" offset="00" relocatable="true" max_length="0">
+			<original>重複</original>
+			<edited>重複</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SKILL_SUPPLEMENT_HELP" offset="00" relocatable="true" max_length="0">
+			<original>装備中のスキルと重複します</original>
+			<edited>装備中のスキルと重複します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SKILL_POOL_NONE" offset="00" relocatable="true" max_length="0">
+			<original>何も持っていません</original>
+			<edited>何も持っていません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SKILL_POOL_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>継承済みスキル</original>
+			<edited>継承済みスキル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_NEED_LV" offset="00" relocatable="true" max_length="0">
+			<original>必要なレベル</original>
+			<edited>必要なレベル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_NEED_APTITUDE" offset="00" relocatable="true" max_length="0">
+			<original>必要な素質</original>
+			<edited>必要な素質</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_HAVE_APTITUDE" offset="00" relocatable="true" max_length="0">
+			<original>所持している素質</original>
+			<edited>所持している素質</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_NEED_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>必要なアイテム</original>
+			<edited>必要なアイテム</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_SKILL_LEVEL" offset="00" relocatable="true" max_length="0">
+			<original>Lv.&#xE;&#x1;&#x0;&#x0;で習得</original>
+			<edited>Lv.&#xE;&#x1;&#x0;&#x0;で習得</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_NONE" offset="00" relocatable="true" max_length="0">
+			<original>クラスチェンジ可能兵種がありません</original>
+			<edited>クラスチェンジ可能兵種がありません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_CONFIRM_DIALOG" offset="00" relocatable="true" max_length="0">
+			<original>「&#xE;&#x1;&#x0;&#x0;」にクラスチェンジしますか？</original>
+			<edited>「&#xE;&#x1;&#x0;&#x0;」にクラスチェンジしますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_CONFIRM_DIALOG_YES" offset="00" relocatable="true" max_length="0">
+			<original>クラスチェンジする</original>
+			<edited>クラスチェンジする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_NEED_JOB" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;Lv.&#xE;&#x1;&#x1;&#x0;</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;Lv.&#xE;&#x1;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_BASIC_ARMOR" offset="00" relocatable="true" max_length="0">
+			<original>ソード/ランス/アクスアーマー</original>
+			<edited>ソード/ランス/アクスアーマー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_BASIC_KNIGHT" offset="00" relocatable="true" max_length="0">
+			<original>ソード/ランス/アクスナイト</original>
+			<edited>ソード/ランス/アクスナイト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_BASIC_PEGASUS" offset="00" relocatable="true" max_length="0">
+			<original>ソード/ランス/アクスペガサス</original>
+			<edited>ソード/ランス/アクスペガサス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_TITLE_GOD" offset="00" relocatable="true" max_length="0">
+			<original>紋章士の指輪&#xE;&#x1;&#x8;&#x0;</original>
+			<edited>紋章士の指輪&#xE;&#x1;&#x8;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_REMOVE" offset="00" relocatable="true" max_length="0">
+			<original>「&#xE;&#x1;&#x0;&#x0;」を外しますか？</original>
+			<edited>「&#xE;&#x1;&#x0;&#x0;」を外しますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>「&#xE;&#x1;&#x0;&#x0;」を外し
+「&#xE;&#x1;&#x1;&#x0;」に変更しますか？</original>
+			<edited>「&#xE;&#x1;&#x0;&#x0;」を外し
+「&#xE;&#x1;&#x1;&#x0;」に変更しますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_CHANGE_REMOVE" offset="00" relocatable="true" max_length="0">
+			<original>「&#xE;&#x1;&#x0;&#x0;」を外し
+「&#xE;&#x1;&#x1;&#x0;」に変更しますか？
+（現在装備中のユニット：&#xE;&#x1;&#x2;&#x0;）</original>
+			<edited>「&#xE;&#x1;&#x0;&#x0;」を外し
+「&#xE;&#x1;&#x1;&#x0;」に変更しますか？
+（現在装備中のユニット：&#xE;&#x1;&#x2;&#x0;）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_SET" offset="00" relocatable="true" max_length="0">
+			<original>「&#xE;&#x1;&#x0;&#x0;」を装備しますか？</original>
+			<edited>「&#xE;&#x1;&#x0;&#x0;」を装備しますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_SET_REMOVE" offset="00" relocatable="true" max_length="0">
+			<original>「&#xE;&#x1;&#x0;&#x0;」を装備しますか？
+（現在装備中のユニット：&#xE;&#x1;&#x1;&#x0;）</original>
+			<edited>「&#xE;&#x1;&#x0;&#x0;」を装備しますか？
+（現在装備中のユニット：&#xE;&#x1;&#x1;&#x0;）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_REMOVE_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>外す</original>
+			<edited>外す</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_SET_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>装備する</original>
+			<edited>装備する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_GOD_CHANGE_YES" offset="00" relocatable="true" max_length="0">
+			<original>変更する</original>
+			<edited>変更する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_GOD_EMPTY" offset="00" relocatable="true" max_length="0">
+			<original>紋章士の指輪&#xE;&#x1;&#x8;&#x0;がありません</original>
+			<edited>紋章士の指輪&#xE;&#x1;&#x8;&#x0;がありません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_COMMON_EMPTY" offset="00" relocatable="true" max_length="0">
+			<original>絆の指輪がありません</original>
+			<edited>絆の指輪がありません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_LUEUR_NOTES" offset="00" relocatable="true" max_length="0">
+			<original>紋章士&#xE;&#x6;&#x3;&#x0;は
+出撃中に「エンゲージ＋」を行うことで
+エンゲージすることができます</original>
+			<edited>紋章士&#xE;&#x6;&#x3;&#x0;は
+出撃中に「エンゲージ＋」を行うことで
+エンゲージすることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLE_UNIT_SELECT" offset="00" relocatable="true" max_length="0">
+			<original>出撃ユニット編成</original>
+			<edited>出撃ユニット編成</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLE_UNIT_SELECT_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>身支度</original>
+			<edited>身支度</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLE_RING_SELECT" offset="00" relocatable="true" max_length="0">
+			<original>紋章士の指輪&#xE;&#x1;&#x8;&#x0;</original>
+			<edited>紋章士の指輪&#xE;&#x1;&#x8;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLE_INVENTORY" offset="00" relocatable="true" max_length="0">
+			<original>持ち物整理</original>
+			<edited>持ち物整理</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLE_TRADE" offset="00" relocatable="true" max_length="0">
+			<original>持ち物交換</original>
+			<edited>持ち物交換</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLE_SKILL" offset="00" relocatable="true" max_length="0">
+			<original>スキル着脱</original>
+			<edited>スキル着脱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLE_CLASSCHANGE" offset="00" relocatable="true" max_length="0">
+			<original>クラスチェンジ</original>
+			<edited>クラスチェンジ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLEHELP_UNIT_SELECT" offset="00" relocatable="true" max_length="0">
+			<original>出撃する味方を選択してください</original>
+			<edited>出撃する味方を選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLEHELP_UNIT_SELECT_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>ユニットを選択してください</original>
+			<edited>ユニットを選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLEHELP_RING_SELECT" offset="00" relocatable="true" max_length="0">
+			<original>付け替える指輪&#xE;&#x1;&#x8;&#x0;を選択してください</original>
+			<edited>付け替える指輪&#xE;&#x1;&#x8;&#x0;を選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLEHELP_INVENTORY" offset="00" relocatable="true" max_length="0">
+			<original>アイテムを選択してください</original>
+			<edited>アイテムを選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLEHELP_TRADE" offset="00" relocatable="true" max_length="0">
+			<original>交換する持ち物を選択してください</original>
+			<edited>交換する持ち物を選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLEHELP_SKILL" offset="00" relocatable="true" max_length="0">
+			<original>着脱するスキルを選択してください</original>
+			<edited>着脱するスキルを選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLEHELP_CLASSCHANGE" offset="00" relocatable="true" max_length="0">
+			<original>兵種を選択してください</original>
+			<edited>兵種を選択してください</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

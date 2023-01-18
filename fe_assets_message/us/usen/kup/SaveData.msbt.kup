@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_SAVEDATA_CONFIRM_CLEARDATA" offset="00" relocatable="true" max_length="0">
+			<original>Would you like to save cleared-game data?
+(Your army will be as it was before Chapter 26,
+but there will be a record that you cleared it.)</original>
+			<edited>Would you like to save cleared-game data?
+(Your army will be as it was before Chapter 26,
+but there will be a record that you cleared it.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_CONFIRM_WRITING" offset="00" relocatable="true" max_length="0">
+			<original>Save your progress?</original>
+			<edited>Save your progress?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_CONFIRM_SKIP_WRITING" offset="00" relocatable="true" max_length="0">
+			<original>Proceed without saving?</original>
+			<edited>Proceed without saving?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_CONFIRM_SKIP_YES" offset="00" relocatable="true" max_length="0">
+			<original>Proceed</original>
+			<edited>Proceed</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_CONFIRM_SUSPEND" offset="00" relocatable="true" max_length="0">
+			<original>Save and return to the title screen?</original>
+			<edited>Save and return to the title screen?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_CONFIRM_SUSPEND_LOAD" offset="00" relocatable="true" max_length="0">
+			<original>If you close the game after loading this save
+data without making a new bookmark, your
+game will go back to the start of the battle.</original>
+			<edited>If you close the game after loading this save
+data without making a new bookmark, your
+game will go back to the start of the battle.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_CONFIRM_SUSPEND_COPY" offset="00" relocatable="true" max_length="0">
+			<original>You cannot copy bookmark data.</original>
+			<edited>You cannot copy bookmark data.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_CONFIRM_COPY" offset="00" relocatable="true" max_length="0">
+			<original>Copy save data?</original>
+			<edited>Copy save data?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_CONFIRM_COPY_YES" offset="00" relocatable="true" max_length="0">
+			<original>Copy</original>
+			<edited>Copy</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_CONFIRM_DELETE" offset="00" relocatable="true" max_length="0">
+			<original>Delete save data? </original>
+			<edited>Delete save data? </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_CONFIRM_DELETE_YES" offset="00" relocatable="true" max_length="0">
+			<original>Delete</original>
+			<edited>Delete</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_READING" offset="00" relocatable="true" max_length="0">
+			<original>Loading save data...
+Please do not turn off the power.</original>
+			<edited>Loading save data...
+Please do not turn off the power.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_WRITING" offset="00" relocatable="true" max_length="0">
+			<original>Saving your progress...
+Please do not turn off the power.</original>
+			<edited>Saving your progress...
+Please do not turn off the power.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_COPYING" offset="00" relocatable="true" max_length="0">
+			<original>Copying save data...
+Please do not turn off the power.</original>
+			<edited>Copying save data...
+Please do not turn off the power.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_DELETING" offset="00" relocatable="true" max_length="0">
+			<original>Deleting save data...
+Please do not turn off the power.</original>
+			<edited>Deleting save data...
+Please do not turn off the power.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_LOAD_FAILED" offset="00" relocatable="true" max_length="0">
+			<original>Failed to load save data.</original>
+			<edited>Failed to load save data.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_VERSION_ERROR" offset="00" relocatable="true" max_length="0">
+			<original>Failed to load save data because
+it is from a different version.
+Please update the game.</original>
+			<edited>Failed to load save data because
+it is from a different version.
+Please update the game.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SAVE_FAILED" offset="00" relocatable="true" max_length="0">
+			<original>Failed to save progress.</original>
+			<edited>Failed to save progress.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_COPY_FAILED" offset="00" relocatable="true" max_length="0">
+			<original>Failed to copy save data.</original>
+			<edited>Failed to copy save data.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_DELETE_FAILED" offset="00" relocatable="true" max_length="0">
+			<original>Failed to delete save data.</original>
+			<edited>Failed to delete save data.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_OLD_VERSION" offset="00" relocatable="true" max_length="0">
+			<original>Cannot load save data. Please close
+the software and relaunch it, or visit
+Nintendo eShop to download the
+latest update.</original>
+			<edited>Cannot load save data. Please close
+the software and relaunch it, or visit
+Nintendo eShop to download the
+latest update.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_NO_DATA" offset="00" relocatable="true" max_length="0">
+			<original>No save data.</original>
+			<edited>No save data.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_TYPE_AUTO" offset="00" relocatable="true" max_length="0">
+			<original>Autosave</original>
+			<edited>Autosave</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_TYPE_MANUAL" offset="00" relocatable="true" max_length="0">
+			<original>Slot &#xE;&#x1;&#x0;&#x0;</original>
+			<edited>Slot &#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_SORTIE" offset="00" relocatable="true" max_length="0">
+			<original>Pre-Battle</original>
+			<edited>Pre-Battle</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_BMAP" offset="00" relocatable="true" max_length="0">
+			<original>Mid-Battle</original>
+			<edited>Mid-Battle</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_BMAP_AFTER" offset="00" relocatable="true" max_length="0">
+			<original>Post-Battle</original>
+			<edited>Post-Battle</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_SORTIE_ENCOUNT" offset="00" relocatable="true" max_length="0">
+			<original>Pre-Skirmish</original>
+			<edited>Pre-Skirmish</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_BMAP_ENCOUNT" offset="00" relocatable="true" max_length="0">
+			<original>Mid-Skirmish</original>
+			<edited>Mid-Skirmish</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_ENCOUNT_AFTER" offset="00" relocatable="true" max_length="0">
+			<original>Post-Skirmish</original>
+			<edited>Post-Skirmish</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_SORTIE_TRAINING" offset="00" relocatable="true" max_length="0">
+			<original>Pre-Training</original>
+			<edited>Pre-Training</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_BMAP_TRAINING" offset="00" relocatable="true" max_length="0">
+			<original>Mid-Training</original>
+			<edited>Mid-Training</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_TRAINING_AFTER" offset="00" relocatable="true" max_length="0">
+			<original>Post-Training</original>
+			<edited>Post-Training</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_KIZUNA" offset="00" relocatable="true" max_length="0">
+			<original>Exploring</original>
+			<edited>Exploring</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_HUB" offset="00" relocatable="true" max_length="0">
+			<original>Somniel</original>
+			<edited>Somniel</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_GMAP" offset="00" relocatable="true" max_length="0">
+			<original>World Map</original>
+			<edited>World Map</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_LOAD_YES" offset="00" relocatable="true" max_length="0">
+			<original>Load</original>
+			<edited>Load</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_LOAD_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Select a slot.</original>
+			<edited>Select a slot.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SAVE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Save</original>
+			<edited>Save</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SAVE_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Select a slot.</original>
+			<edited>Select a slot.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SAVE_YES" offset="00" relocatable="true" max_length="0">
+			<original>Save</original>
+			<edited>Save</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SUSPEND_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Bookmark</original>
+			<edited>Bookmark</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SUSPEND_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Select a slot.</original>
+			<edited>Select a slot.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SUSPEND_YES" offset="00" relocatable="true" max_length="0">
+			<original>Bookmark</original>
+			<edited>Bookmark</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_COPY_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Copy</original>
+			<edited>Copy</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_COPY_SRC_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Select a slot to copy.</original>
+			<edited>Select a slot to copy.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_COPY_DST_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Select where to copy it.</original>
+			<edited>Select where to copy it.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_DELETE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Delete</original>
+			<edited>Delete</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_DELETE_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Select a slot.</original>
+			<edited>Select a slot.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

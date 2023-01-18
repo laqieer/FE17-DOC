@@ -1,0 +1,2154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MPID_Unknown" offset="00" relocatable="true" max_length="0">
+			<original>？？？</original>
+			<edited>？？？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Unknown" offset="00" relocatable="true" max_length="0">
+			<original>？？？？？</original>
+			<edited>？？？？？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Hide" offset="00" relocatable="true" max_length="0">
+			<original>？？？</original>
+			<edited>？？？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Hide" offset="00" relocatable="true" max_length="0">
+			<original>正体不明の敵。
+悪しき気配を纏う者。</original>
+			<edited>正体不明の敵。
+悪しき気配を纏う者。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Morph_Prefix" offset="00" relocatable="true" max_length="0">
+			<original>異形の&#xE;&#x1;&#x0;&#x0;</original>
+			<edited>異形の&#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_God_Prefix" offset="00" relocatable="true" max_length="0">
+			<original>紋章士&#xE;&#x1;&#x0;&#x0;</original>
+			<edited>紋章士&#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_PastLueur" offset="00" relocatable="true" max_length="0">
+			<original>過去の&#xE;&#x6;&#x3;&#x0;</original>
+			<edited>過去の&#xE;&#x6;&#x3;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Lueur" offset="00" relocatable="true" max_length="0">
+			<original>リュール</original>
+			<edited>リュール</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Lueur_M000" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x3;&#x0;</original>
+			<edited>&#xE;&#x6;&#x3;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Lueur" offset="00" relocatable="true" max_length="0">
+			<original>長い眠りから目覚めた、神竜の後継者。
+紋章士を顕現し、世界を平穏へと導く。</original>
+			<edited>長い眠りから目覚めた、神竜の後継者。
+紋章士を顕現し、世界を平穏へと導く。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Lueur_M000" offset="00" relocatable="true" max_length="0">
+			<original>紋章士と共に戦う剣士。
+まだ目覚めを知らぬ者。</original>
+			<edited>紋章士と共に戦う剣士。
+まだ目覚めを知らぬ者。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Lueur_1" offset="00" relocatable="true" max_length="0">
+			<original>ヴェイルの手で異形兵として蘇った神竜。
+邪竜の力で紋章士を顕現できる。</original>
+			<edited>ヴェイルの手で異形兵として蘇った神竜。
+邪竜の力で紋章士を顕現できる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Lueur_2" offset="00" relocatable="true" max_length="0">
+			<original>『絆炎の紋章士』として蘇った神竜。
+紋章士と神竜の力を併せ持っている。</original>
+			<edited>『絆炎の紋章士』として蘇った神竜。
+紋章士と神竜の力を併せ持っている。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_PastLueur" offset="00" relocatable="true" max_length="0">
+			<original>千年前の&#xE;&#x6;&#x3;&#x0;。
+自らの意思はなく、邪竜の命に従う。</original>
+			<edited>千年前の&#xE;&#x6;&#x3;&#x0;。
+自らの意思はなく、邪竜の命に従う。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Vandre" offset="00" relocatable="true" max_length="0">
+			<original>ヴァンドレ</original>
+			<edited>ヴァンドレ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Vandre" offset="00" relocatable="true" max_length="0">
+			<original>代々神竜に仕える、竜の守り人。
+真面目で厳格な堅物の紳士。</original>
+			<edited>代々神竜に仕える、竜の守り人。
+真面目で厳格な堅物の紳士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Lumiere" offset="00" relocatable="true" max_length="0">
+			<original>ルミエル</original>
+			<edited>ルミエル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Lumiere" offset="00" relocatable="true" max_length="0">
+			<original>聖地リトス当代の神竜王。
+千年前の邪竜戦争で大陸を救った英雄。</original>
+			<edited>聖地リトス当代の神竜王。
+千年前の邪竜戦争で大陸を救った英雄。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_MorphLumiere" offset="00" relocatable="true" max_length="0">
+			<original>異形のルミエル</original>
+			<edited>異形のルミエル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_MorphLumiere" offset="00" relocatable="true" max_length="0">
+			<original>死んだはずのルミエル。
+ソンブルに造られた精巧な異形兵。</original>
+			<edited>死んだはずのルミエル。
+ソンブルに造られた精巧な異形兵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Clan" offset="00" relocatable="true" max_length="0">
+			<original>クラン</original>
+			<edited>クラン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Clan" offset="00" relocatable="true" max_length="0">
+			<original>代々神竜に仕える、竜の守り人見習い。
+おっとりとした雰囲気の双子の兄。</original>
+			<edited>代々神竜に仕える、竜の守り人見習い。
+おっとりとした雰囲気の双子の兄。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Fram" offset="00" relocatable="true" max_length="0">
+			<original>フラン</original>
+			<edited>フラン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Fram" offset="00" relocatable="true" max_length="0">
+			<original>代々神竜に仕える、竜の守り人見習い。
+勝ち気で自信満々な双子の妹。</original>
+			<edited>代々神竜に仕える、竜の守り人見習い。
+勝ち気で自信満々な双子の妹。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Alfred" offset="00" relocatable="true" max_length="0">
+			<original>アルフレッド</original>
+			<edited>アルフレッド</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Alfred" offset="00" relocatable="true" max_length="0">
+			<original>真っ直ぐで純粋なフィレネの王子。
+己の強靭な肉体のために鍛錬している。</original>
+			<edited>真っ直ぐで純粋なフィレネの王子。
+己の強靭な肉体のために鍛錬している。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Etie" offset="00" relocatable="true" max_length="0">
+			<original>エーティエ</original>
+			<edited>エーティエ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Etie" offset="00" relocatable="true" max_length="0">
+			<original>アルフレッドの臣下。
+筋肉鍛錬が趣味の上品な佇まいの女性。</original>
+			<edited>アルフレッドの臣下。
+筋肉鍛錬が趣味の上品な佇まいの女性。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Boucheron" offset="00" relocatable="true" max_length="0">
+			<original>ブシュロン</original>
+			<edited>ブシュロン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Boucheron" offset="00" relocatable="true" max_length="0">
+			<original>アルフレッドの臣下。
+天性の筋肉体質をもつ心優しい大男。</original>
+			<edited>アルフレッドの臣下。
+天性の筋肉体質をもつ心優しい大男。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Celine" offset="00" relocatable="true" max_length="0">
+			<original>セリーヌ</original>
+			<edited>セリーヌ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Celine" offset="00" relocatable="true" max_length="0">
+			<original>穏やかで花のようなフィレネの王女。
+民のため自らの手を汚すことを厭わない。</original>
+			<edited>穏やかで花のようなフィレネの王女。
+民のため自らの手を汚すことを厭わない。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Chloe" offset="00" relocatable="true" max_length="0">
+			<original>クロエ</original>
+			<edited>クロエ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Chloe" offset="00" relocatable="true" max_length="0">
+			<original>セリーヌの臣下。
+御伽噺と珍味が大好きな淑女。</original>
+			<edited>セリーヌの臣下。
+御伽噺と珍味が大好きな淑女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Louis" offset="00" relocatable="true" max_length="0">
+			<original>ルイ</original>
+			<edited>ルイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Louis" offset="00" relocatable="true" max_length="0">
+			<original>セリーヌの臣下。
+いつもにこやかな礼儀正しい紳士。</original>
+			<edited>セリーヌの臣下。
+いつもにこやかな礼儀正しい紳士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Yunaka" offset="00" relocatable="true" max_length="0">
+			<original>ユナカ</original>
+			<edited>ユナカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Yunaka" offset="00" relocatable="true" max_length="0">
+			<original>峠の集落で出会った流れ者の盗賊。
+その素性は謎に包まれている。</original>
+			<edited>峠の集落で出会った流れ者の盗賊。
+その素性は謎に包まれている。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Staluke" offset="00" relocatable="true" max_length="0">
+			<original>スタルーク</original>
+			<edited>スタルーク</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Staluke" offset="00" relocatable="true" max_length="0">
+			<original>自虐的妄想が過ぎるブロディア王子。
+自覚はないが非凡な才能を隠し持つ。</original>
+			<edited>自虐的妄想が過ぎるブロディア王子。
+自覚はないが非凡な才能を隠し持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Citrinica" offset="00" relocatable="true" max_length="0">
+			<original>シトリニカ</original>
+			<edited>シトリニカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Citrinica" offset="00" relocatable="true" max_length="0">
+			<original>スタルークの臣下。
+見かけによらず優しくて仲間想いの貴族。</original>
+			<edited>スタルークの臣下。
+見かけによらず優しくて仲間想いの貴族。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Lapis" offset="00" relocatable="true" max_length="0">
+			<original>ラピス</original>
+			<edited>ラピス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Lapis" offset="00" relocatable="true" max_length="0">
+			<original>スタルークの臣下。
+儚げで謙虚だが、怪力を持つ女性。</original>
+			<edited>スタルークの臣下。
+儚げで謙虚だが、怪力を持つ女性。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Diamand" offset="00" relocatable="true" max_length="0">
+			<original>ディアマンド</original>
+			<edited>ディアマンド</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Diamand" offset="00" relocatable="true" max_length="0">
+			<original>堂々とした風格のブロディア王子。
+質実剛健の精神で民からの信頼も厚い。</original>
+			<edited>堂々とした風格のブロディア王子。
+質実剛健の精神で民からの信頼も厚い。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Umber" offset="00" relocatable="true" max_length="0">
+			<original>アンバー</original>
+			<edited>アンバー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Umber" offset="00" relocatable="true" max_length="0">
+			<original>ディアマンドの臣下。
+底抜けに明るくて元気なロマンチスト。</original>
+			<edited>ディアマンドの臣下。
+底抜けに明るくて元気なロマンチスト。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Jade" offset="00" relocatable="true" max_length="0">
+			<original>ジェーデ</original>
+			<edited>ジェーデ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Jade" offset="00" relocatable="true" max_length="0">
+			<original>ディアマンドの臣下。
+常に冷静沈着で無口な武人。</original>
+			<edited>ディアマンドの臣下。
+常に冷静沈着で無口な武人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Ivy" offset="00" relocatable="true" max_length="0">
+			<original>アイビー</original>
+			<edited>アイビー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Ivy" offset="00" relocatable="true" max_length="0">
+			<original>ミステリアスで物憂げなイルシオン王女。
+王族らしい威厳と凛とした姿勢を崩さない。</original>
+			<edited>ミステリアスで物憂げなイルシオン王女。
+王族らしい威厳と凛とした姿勢を崩さない。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Kagetsu" offset="00" relocatable="true" max_length="0">
+			<original>カゲツ</original>
+			<edited>カゲツ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Kagetsu" offset="00" relocatable="true" max_length="0">
+			<original>アイビーの臣下。
+異国情緒漂う口調の見目麗しい青年。</original>
+			<edited>アイビーの臣下。
+異国情緒漂う口調の見目麗しい青年。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Zelkova" offset="00" relocatable="true" max_length="0">
+			<original>ゼルコバ</original>
+			<edited>ゼルコバ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Zelkova" offset="00" relocatable="true" max_length="0">
+			<original>アイビーの臣下。
+いつも何かに没頭している物静かな男。</original>
+			<edited>アイビーの臣下。
+いつも何かに没頭している物静かな男。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Fogato" offset="00" relocatable="true" max_length="0">
+			<original>フォガート</original>
+			<edited>フォガート</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Fogato" offset="00" relocatable="true" max_length="0">
+			<original>自由奔放で楽観的な自警団の若者。
+掴みどころがない軽い性格の持ち主。</original>
+			<edited>自由奔放で楽観的な自警団の若者。
+掴みどころがない軽い性格の持ち主。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Fogato_1" offset="00" relocatable="true" max_length="0">
+			<original>自由奔放で楽観的なソルム王子。
+王族らしからぬ軽い性格の持ち主。</original>
+			<edited>自由奔放で楽観的なソルム王子。
+王族らしからぬ軽い性格の持ち主。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Pandoro" offset="00" relocatable="true" max_length="0">
+			<original>パンドロ</original>
+			<edited>パンドロ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Pandoro" offset="00" relocatable="true" max_length="0">
+			<original>自警団の一員。
+楽しいことが大好きな信心深い聖職者。</original>
+			<edited>自警団の一員。
+楽しいことが大好きな信心深い聖職者。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Pandoro_1" offset="00" relocatable="true" max_length="0">
+			<original>フォガートの臣下。
+楽しいことが大好きな信心深い聖職者。</original>
+			<edited>フォガートの臣下。
+楽しいことが大好きな信心深い聖職者。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Bonet" offset="00" relocatable="true" max_length="0">
+			<original>ボネ</original>
+			<edited>ボネ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Bonet" offset="00" relocatable="true" max_length="0">
+			<original>自警団の一員。
+鋭い味覚と嗅覚をもつ料理好きな青年。</original>
+			<edited>自警団の一員。
+鋭い味覚と嗅覚をもつ料理好きな青年。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Bonet_1" offset="00" relocatable="true" max_length="0">
+			<original>フォガートの臣下。
+鋭い味覚と嗅覚をもつ料理好きな青年。</original>
+			<edited>フォガートの臣下。
+鋭い味覚と嗅覚をもつ料理好きな青年。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Misutira" offset="00" relocatable="true" max_length="0">
+			<original>ミスティラ</original>
+			<edited>ミスティラ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Misutira" offset="00" relocatable="true" max_length="0">
+			<original>天真爛漫で陽気なソルム王女。
+自由気ままで誰とでも気軽に接する。</original>
+			<edited>天真爛漫で陽気なソルム王女。
+自由気ままで誰とでも気軽に接する。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Panetone" offset="00" relocatable="true" max_length="0">
+			<original>パネトネ</original>
+			<edited>パネトネ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Panetone" offset="00" relocatable="true" max_length="0">
+			<original>ミスティラの臣下。
+風変わりで言葉遣いのやたら丁寧な淑女。</original>
+			<edited>ミスティラの臣下。
+風変わりで言葉遣いのやたら丁寧な淑女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Merin" offset="00" relocatable="true" max_length="0">
+			<original>メリン</original>
+			<edited>メリン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Merin" offset="00" relocatable="true" max_length="0">
+			<original>ミスティラの臣下。
+爽やかで華やかな雰囲気を放つ麗人。</original>
+			<edited>ミスティラの臣下。
+爽やかで華やかな雰囲気を放つ麗人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Hortensia" offset="00" relocatable="true" max_length="0">
+			<original>オルテンシア</original>
+			<edited>オルテンシア</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Hortensia" offset="00" relocatable="true" max_length="0">
+			<original>無邪気でわがままなイルシオン王女。
+家族や身内に対し愛情深い。</original>
+			<edited>無邪気でわがままなイルシオン王女。
+家族や身内に対し愛情深い。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_MindHortensia" offset="00" relocatable="true" max_length="0">
+			<original>セピアの術で操られたオルテンシア。
+正気を失っており、話が通じない。</original>
+			<edited>セピアの術で操られたオルテンシア。
+正気を失っており、話が通じない。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Seadas" offset="00" relocatable="true" max_length="0">
+			<original>セアダス</original>
+			<edited>セアダス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Seadas" offset="00" relocatable="true" max_length="0">
+			<original>ソルムでは有名なダンサー。
+占いが得意で、神秘的な雰囲気を纏う。</original>
+			<edited>ソルムでは有名なダンサー。
+占いが得意で、神秘的な雰囲気を纏う。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Rosado" offset="00" relocatable="true" max_length="0">
+			<original>ロサード</original>
+			<edited>ロサード</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Rosado" offset="00" relocatable="true" max_length="0">
+			<original>オルテンシアの臣下。
+可愛いもの好きで明るく前向きな性格。</original>
+			<edited>オルテンシアの臣下。
+可愛いもの好きで明るく前向きな性格。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Goldmary" offset="00" relocatable="true" max_length="0">
+			<original>ゴルドマリー</original>
+			<edited>ゴルドマリー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Goldmary" offset="00" relocatable="true" max_length="0">
+			<original>オルテンシアの臣下。
+内気そうに見えるが、たいへんな自信家。</original>
+			<edited>オルテンシアの臣下。
+内気そうに見えるが、たいへんな自信家。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Linden" offset="00" relocatable="true" max_length="0">
+			<original>リンデン</original>
+			<edited>リンデン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Linden" offset="00" relocatable="true" max_length="0">
+			<original>イルシオン出身の学者。
+知識欲の塊で、読書と実験が趣味。</original>
+			<edited>イルシオン出身の学者。
+知識欲の塊で、読書と実験が趣味。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Saphir" offset="00" relocatable="true" max_length="0">
+			<original>ザフィーア</original>
+			<edited>ザフィーア</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Saphir" offset="00" relocatable="true" max_length="0">
+			<original>ブロディア出身の武人。
+勇猛果敢で意志が強い求道者。</original>
+			<edited>ブロディア出身の武人。
+勇猛果敢で意志が強い求道者。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Anna" offset="00" relocatable="true" max_length="0">
+			<original>アンナ</original>
+			<edited>アンナ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Anna" offset="00" relocatable="true" max_length="0">
+			<original>イルシオン出身の行商人。
+明るくてちゃっかりとした守銭奴。</original>
+			<edited>イルシオン出身の行商人。
+明るくてちゃっかりとした守銭奴。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Jean" offset="00" relocatable="true" max_length="0">
+			<original>ジャン</original>
+			<edited>ジャン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Jean" offset="00" relocatable="true" max_length="0">
+			<original>フィレネ出身の医者の息子。
+沢山の人を救うために努力する頑張り屋。</original>
+			<edited>フィレネ出身の医者の息子。
+沢山の人を救うために努力する頑張り屋。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Mauve" offset="00" relocatable="true" max_length="0">
+			<original>モーヴ</original>
+			<edited>モーヴ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_EnemyMauve" offset="00" relocatable="true" max_length="0">
+			<original>四狗のひとり。
+忠義に厚い朴訥とした武人。</original>
+			<edited>四狗のひとり。
+忠義に厚い朴訥とした武人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Mauve" offset="00" relocatable="true" max_length="0">
+			<original>元四狗のひとり。ヴェイルの騎士であり、
+神竜&#xE;&#x6;&#x3;&#x0;と共に戦う事を誓う。</original>
+			<edited>元四狗のひとり。ヴェイルの騎士であり、
+神竜&#xE;&#x6;&#x3;&#x0;と共に戦う事を誓う。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Sombre" offset="00" relocatable="true" max_length="0">
+			<original>ソンブル</original>
+			<edited>ソンブル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Sombre" offset="00" relocatable="true" max_length="0">
+			<original>邪竜族の王。
+強大な闇の魔力をもつ邪悪な存在。</original>
+			<edited>邪竜族の王。
+強大な闇の魔力をもつ邪悪な存在。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_SombreDragon" offset="00" relocatable="true" max_length="0">
+			<original>大邪竜ソンブル</original>
+			<edited>大邪竜ソンブル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_SombreDragon" offset="00" relocatable="true" max_length="0">
+			<original>紋章士の指輪の力を得た邪竜。
+異界の扉を開くほど強大な魔力を持つ。</original>
+			<edited>紋章士の指輪の力を得た邪竜。
+異界の扉を開くほど強大な魔力を持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Veyre" offset="00" relocatable="true" max_length="0">
+			<original>ヴェイル</original>
+			<edited>ヴェイル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_EnemyVeyre" offset="00" relocatable="true" max_length="0">
+			<original>邪竜ソンブルの娘。
+高圧的で悪意に満ちた残忍な性格。</original>
+			<edited>邪竜ソンブルの娘。
+高圧的で悪意に満ちた残忍な性格。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_MindVeyre" offset="00" relocatable="true" max_length="0">
+			<original>邪竜のティアラを着けられたヴェイル。
+破壊衝動が強まり邪悪さが増している。</original>
+			<edited>邪竜のティアラを着けられたヴェイル。
+破壊衝動が強まり邪悪さが増している。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Veyre" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x3;&#x0;の妹。
+闇の人格を克服し、平和の為に戦う。</original>
+			<edited>&#xE;&#x6;&#x3;&#x0;の妹。
+闇の人格を克服し、平和の為に戦う。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_VersusVeyre" offset="00" relocatable="true" max_length="0">
+			<original>邪竜の娘。
+闇の人格を克服し、平和の為に戦う。</original>
+			<edited>邪竜の娘。
+闇の人格を克服し、平和の為に戦う。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Sepia" offset="00" relocatable="true" max_length="0">
+			<original>セピア</original>
+			<edited>セピア</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Sepia" offset="00" relocatable="true" max_length="0">
+			<original>四狗の頭領。
+数千年を生きる魔竜族の末裔。</original>
+			<edited>四狗の頭領。
+数千年を生きる魔竜族の末裔。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Gris" offset="00" relocatable="true" max_length="0">
+			<original>グリ</original>
+			<edited>グリ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Gris" offset="00" relocatable="true" max_length="0">
+			<original>四狗の腹心。
+粗暴で狂気に満ちた危険な魔術師。</original>
+			<edited>四狗の腹心。
+粗暴で狂気に満ちた危険な魔術師。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Marron" offset="00" relocatable="true" max_length="0">
+			<original>マロン</original>
+			<edited>マロン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Marron" offset="00" relocatable="true" max_length="0">
+			<original>四狗のひとり。
+明るくて無邪気な気分屋の鎧騎士。</original>
+			<edited>四狗のひとり。
+明るくて無邪気な気分屋の鎧騎士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Eve" offset="00" relocatable="true" max_length="0">
+			<original>イヴ</original>
+			<edited>イヴ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Eve" offset="00" relocatable="true" max_length="0">
+			<original>フィレネ王国の優しい女王。
+温和な性格で争いのない世界を望んでいる。</original>
+			<edited>フィレネ王国の優しい女王。
+温和な性格で争いのない世界を望んでいる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Morion" offset="00" relocatable="true" max_length="0">
+			<original>モリオン</original>
+			<edited>モリオン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Morion" offset="00" relocatable="true" max_length="0">
+			<original>ブロディア王国の勇ましき王。
+矜持や誇り、戦場での礼儀を重んじる武人。</original>
+			<edited>ブロディア王国の勇ましき王。
+矜持や誇り、戦場での礼儀を重んじる武人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_MorphMorion" offset="00" relocatable="true" max_length="0">
+			<original>異形のモリオン</original>
+			<edited>異形のモリオン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_MorphMorion" offset="00" relocatable="true" max_length="0">
+			<original>邪竜復活のための生贄となったモリオン王。
+死したのち異形兵にされている。</original>
+			<edited>邪竜復活のための生贄となったモリオン王。
+死したのち異形兵にされている。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Hyacinth" offset="00" relocatable="true" max_length="0">
+			<original>ハイアシンス</original>
+			<edited>ハイアシンス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Hyacinth" offset="00" relocatable="true" max_length="0">
+			<original>イルシオン王国の老獪な王。
+邪竜を崇拝し、自国の繁栄を目論む</original>
+			<edited>イルシオン王国の老獪な王。
+邪竜を崇拝し、自国の繁栄を目論む</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_MorphHyacinth" offset="00" relocatable="true" max_length="0">
+			<original>異形のハイアシンス</original>
+			<edited>異形のハイアシンス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_MorphHyacinth" offset="00" relocatable="true" max_length="0">
+			<original>邪竜に殺されたハイアシンス王。
+ヴェイルに造られた精巧な異形兵。</original>
+			<edited>邪竜に殺されたハイアシンス王。
+ヴェイルに造られた精巧な異形兵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Sfoglia" offset="00" relocatable="true" max_length="0">
+			<original>スフォリア</original>
+			<edited>スフォリア</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Sfoglia" offset="00" relocatable="true" max_length="0">
+			<original>ソルム王国の自由奔放な女王。
+豪快な振る舞いで国を束ねている。</original>
+			<edited>ソルム王国の自由奔放な女王。
+豪快な振る舞いで国を束ねている。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_M003_Boss" offset="00" relocatable="true" max_length="0">
+			<original>アビューム</original>
+			<edited>アビューム</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_M003_Boss" offset="00" relocatable="true" max_length="0">
+			<original>謎の一団を束ねる兵士長。
+与えられた任務を忠実に遂行する。</original>
+			<edited>謎の一団を束ねる兵士長。
+与えられた任務を忠実に遂行する。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_M018_Boss" offset="00" relocatable="true" max_length="0">
+			<original>イルシオン王国の将校。
+与えられた任務を忠実に遂行する。</original>
+			<edited>イルシオン王国の将校。
+与えられた任務を忠実に遂行する。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_M004_Boss" offset="00" relocatable="true" max_length="0">
+			<original>ローダン</original>
+			<edited>ローダン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_M004_Boss" offset="00" relocatable="true" max_length="0">
+			<original>イルシオン王国の将校。
+祖国の命により異形兵の指揮を執る。</original>
+			<edited>イルシオン王国の将校。
+祖国の命により異形兵の指揮を執る。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_M005_Boss" offset="00" relocatable="true" max_length="0">
+			<original>ネルーケ</original>
+			<edited>ネルーケ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_M005_Boss" offset="00" relocatable="true" max_length="0">
+			<original>イルシオン王国の将校。
+紋章士の指輪を狙い、フィレネを襲う。</original>
+			<edited>イルシオン王国の将校。
+紋章士の指輪を狙い、フィレネを襲う。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_M006_Boss" offset="00" relocatable="true" max_length="0">
+			<original>テランダ</original>
+			<edited>テランダ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_M006_Boss" offset="00" relocatable="true" max_length="0">
+			<original>峠の集落を根城にする盗賊団のお頭。
+お宝のためならどんな悪事も厭わない。</original>
+			<edited>峠の集落を根城にする盗賊団のお頭。
+お宝のためならどんな悪事も厭わない。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_S002_Boss" offset="00" relocatable="true" max_length="0">
+			<original>ミタン</original>
+			<edited>ミタン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_S002_Boss" offset="00" relocatable="true" max_length="0">
+			<original>辺境の盗賊団を束ねる首領。
+手下とともに組織的に盗みを働く。</original>
+			<edited>辺境の盗賊団を束ねる首領。
+手下とともに組織的に盗みを働く。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_M013_BossA" offset="00" relocatable="true" max_length="0">
+			<original>テッツィ</original>
+			<edited>テッツィ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_M013_BossA" offset="00" relocatable="true" max_length="0">
+			<original>盗賊団の頭。トッツィの双子の兄。
+オアシスに出没する異形兵を手懐けている。</original>
+			<edited>盗賊団の頭。トッツィの双子の兄。
+オアシスに出没する異形兵を手懐けている。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_M013_BossB" offset="00" relocatable="true" max_length="0">
+			<original>トッツィ</original>
+			<edited>トッツィ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_M013_BossB" offset="00" relocatable="true" max_length="0">
+			<original>盗賊団の頭。テッツィの双子の弟。
+オアシスに出没する異形兵を手懐けている。</original>
+			<edited>盗賊団の頭。テッツィの双子の弟。
+オアシスに出没する異形兵を手懐けている。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Morph" offset="00" relocatable="true" max_length="0">
+			<original>異形兵</original>
+			<edited>異形兵</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Morph" offset="00" relocatable="true" max_length="0">
+			<original>邪竜の秘術によって蘇った生ける屍。
+己の意思はなく、主の命令に従い行動する。</original>
+			<edited>邪竜の秘術によって蘇った生ける屍。
+己の意思はなく、主の命令に従い行動する。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Morph_Hide" offset="00" relocatable="true" max_length="0">
+			<original>正体不明の化け物。</original>
+			<edited>正体不明の化け物。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_MorphGold" offset="00" relocatable="true" max_length="0">
+			<original>金ノ異形兵</original>
+			<edited>金ノ異形兵</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_MorphGold" offset="00" relocatable="true" max_length="0">
+			<original>邪竜の秘術によって稀に生まれる黒金の屍。
+金品に執着し、大金を持ち歩いている。</original>
+			<edited>邪竜の秘術によって稀に生まれる黒金の屍。
+金品に執着し、大金を持ち歩いている。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_MorphSilver" offset="00" relocatable="true" max_length="0">
+			<original>銀ノ異形兵</original>
+			<edited>銀ノ異形兵</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_MorphSilver" offset="00" relocatable="true" max_length="0">
+			<original>邪竜の秘術によって稀に生まれる黒銀の屍。
+倒せれば、多くの経験が得られる。</original>
+			<edited>邪竜の秘術によって稀に生まれる黒銀の屍。
+倒せれば、多くの経験が得られる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_MorphDragon" offset="00" relocatable="true" max_length="0">
+			<original>異形竜</original>
+			<edited>異形竜</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_MorphDragon" offset="00" relocatable="true" max_length="0">
+			<original>邪竜の復活により蘇った巨大竜。
+固い外殻に包まれ、強力なブレスを吐く。</original>
+			<edited>邪竜の復活により蘇った巨大竜。
+固い外殻に包まれ、強力なブレスを吐く。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Phantom" offset="00" relocatable="true" max_length="0">
+			<original>造られしもの</original>
+			<edited>造られしもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Phantom" offset="00" relocatable="true" max_length="0">
+			<original>秘術によって造り出された魂なき兵士。
+己の意思はなく、主の命令に従い行動する。</original>
+			<edited>秘術によって造り出された魂なき兵士。
+己の意思はなく、主の命令に従い行動する。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_PhantomDragon" offset="00" relocatable="true" max_length="0">
+			<original>造られしもの</original>
+			<edited>造られしもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_PhantomDragon" offset="00" relocatable="true" max_length="0">
+			<original>秘術によって造り出された魂なき獣。
+己の意思はなく、主の命令に従い行動する。</original>
+			<edited>秘術によって造り出された魂なき獣。
+己の意思はなく、主の命令に従い行動する。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_MysteriousGroup" offset="00" relocatable="true" max_length="0">
+			<original>謎の一団</original>
+			<edited>謎の一団</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_MysteriousGroup" offset="00" relocatable="true" max_length="0">
+			<original>突如襲撃してきた異国の軍隊。</original>
+			<edited>突如襲撃してきた異国の軍隊。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Troublemaker" offset="00" relocatable="true" max_length="0">
+			<original>ならずもの</original>
+			<edited>ならずもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Troublemaker" offset="00" relocatable="true" max_length="0">
+			<original>破壊と強奪を生業とするあらくれもの。</original>
+			<edited>破壊と強奪を生業とするあらくれもの。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Bandits" offset="00" relocatable="true" max_length="0">
+			<original>盗賊</original>
+			<edited>盗賊</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Bandits" offset="00" relocatable="true" max_length="0">
+			<original>争いに乗じて盗みをはたらくもの。</original>
+			<edited>争いに乗じて盗みをはたらくもの。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_IrcionSoldier" offset="00" relocatable="true" max_length="0">
+			<original>イルシオン兵</original>
+			<edited>イルシオン兵</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_IrcionSoldier" offset="00" relocatable="true" max_length="0">
+			<original>イルシオン王国軍の正規兵。</original>
+			<edited>イルシオン王国軍の正規兵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_BrodiaSoldier" offset="00" relocatable="true" max_length="0">
+			<original>ブロディア兵</original>
+			<edited>ブロディア兵</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_BrodiaSoldier" offset="00" relocatable="true" max_length="0">
+			<original>ブロディア王国軍の正規兵。</original>
+			<edited>ブロディア王国軍の正規兵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_SolumSoldier" offset="00" relocatable="true" max_length="0">
+			<original>ソルム兵</original>
+			<edited>ソルム兵</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_SolumSoldier" offset="00" relocatable="true" max_length="0">
+			<original>ソルム王国軍の正規兵。</original>
+			<edited>ソルム王国軍の正規兵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_FileneSoldier" offset="00" relocatable="true" max_length="0">
+			<original>フィレネ兵</original>
+			<edited>フィレネ兵</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_FileneSoldier" offset="00" relocatable="true" max_length="0">
+			<original>フィレネ王国軍の正規兵。</original>
+			<edited>フィレネ王国軍の正規兵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Marth" offset="00" relocatable="true" max_length="0">
+			<original>マルス</original>
+			<edited>マルス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Marth" offset="00" relocatable="true" max_length="0">
+			<original>通称『始まりの紋章士』。
+高潔でカリスマに溢れた英雄の中の英雄。</original>
+			<edited>通称『始まりの紋章士』。
+高潔でカリスマに溢れた英雄の中の英雄。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Siglud" offset="00" relocatable="true" max_length="0">
+			<original>シグルド</original>
+			<edited>シグルド</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Siglud" offset="00" relocatable="true" max_length="0">
+			<original>通称『聖戦の紋章士』。
+聖戦士の血を受け継ぐ清廉なる騎士。</original>
+			<edited>通称『聖戦の紋章士』。
+聖戦士の血を受け継ぐ清廉なる騎士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Celica" offset="00" relocatable="true" max_length="0">
+			<original>セリカ</original>
+			<edited>セリカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Celica" offset="00" relocatable="true" max_length="0">
+			<original>通称『響きの紋章士』。
+豊穣の国の王女。神官戦士でもある。</original>
+			<edited>通称『響きの紋章士』。
+豊穣の国の王女。神官戦士でもある。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Micaiah" offset="00" relocatable="true" max_length="0">
+			<original>ミカヤ</original>
+			<edited>ミカヤ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Micaiah" offset="00" relocatable="true" max_length="0">
+			<original>通称『暁の紋章士』。
+治癒や未来の予見など、不思議な力を持つ。</original>
+			<edited>通称『暁の紋章士』。
+治癒や未来の予見など、不思議な力を持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Roy" offset="00" relocatable="true" max_length="0">
+			<original>ロイ</original>
+			<edited>ロイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Roy" offset="00" relocatable="true" max_length="0">
+			<original>通称『封印の紋章士』。
+勇敢で才知に長けた、将の器を持つ公子。</original>
+			<edited>通称『封印の紋章士』。
+勇敢で才知に長けた、将の器を持つ公子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Lin" offset="00" relocatable="true" max_length="0">
+			<original>リン</original>
+			<edited>リン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Lin" offset="00" relocatable="true" max_length="0">
+			<original>通称『烈火の紋章士』。
+大自然と共に生きる遊牧民で、凄腕の剣士。</original>
+			<edited>通称『烈火の紋章士』。
+大自然と共に生きる遊牧民で、凄腕の剣士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Ike" offset="00" relocatable="true" max_length="0">
+			<original>アイク</original>
+			<edited>アイク</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Ike" offset="00" relocatable="true" max_length="0">
+			<original>通称『蒼炎の紋章士』。
+高名な傭兵団長で、比類無き戦技を持つ。</original>
+			<edited>通称『蒼炎の紋章士』。
+高名な傭兵団長で、比類無き戦技を持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Lucina" offset="00" relocatable="true" max_length="0">
+			<original>ルキナ</original>
+			<edited>ルキナ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Lucina" offset="00" relocatable="true" max_length="0">
+			<original>通称『覚醒の紋章士』。
+希望を信じ、絶望に屈しない、聖なる王女。</original>
+			<edited>通称『覚醒の紋章士』。
+希望を信じ、絶望に屈しない、聖なる王女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Leaf" offset="00" relocatable="true" max_length="0">
+			<original>リーフ</original>
+			<edited>リーフ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Leaf" offset="00" relocatable="true" max_length="0">
+			<original>通称『系譜の紋章士』。
+二人の聖戦士の血を引く、勇ましき王子。</original>
+			<edited>通称『系譜の紋章士』。
+二人の聖戦士の血を引く、勇ましき王子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Kamui" offset="00" relocatable="true" max_length="0">
+			<original>カムイ</original>
+			<edited>カムイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Kamui" offset="00" relocatable="true" max_length="0">
+			<original>通称『選択の紋章士』。
+神祖竜の血を引く、折れない心を持つ者。</original>
+			<edited>通称『選択の紋章士』。
+神祖竜の血を引く、折れない心を持つ者。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Eirik" offset="00" relocatable="true" max_length="0">
+			<original>エイリーク</original>
+			<edited>エイリーク</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Eirik" offset="00" relocatable="true" max_length="0">
+			<original>通称『聖魔の紋章士』。
+平和の為に戦場に立つ、心優しき王女。</original>
+			<edited>通称『聖魔の紋章士』。
+平和の為に戦場に立つ、心優しき王女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Byleth" offset="00" relocatable="true" max_length="0">
+			<original>ベレト</original>
+			<edited>ベレト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Byleth" offset="00" relocatable="true" max_length="0">
+			<original>通称『風花の紋章士』。
+元傭兵にして、士官学校の指導者。</original>
+			<edited>通称『風花の紋章士』。
+元傭兵にして、士官学校の指導者。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Hide" offset="00" relocatable="true" max_length="0">
+			<original>？？？</original>
+			<edited>？？？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Marth" offset="00" relocatable="true" max_length="0">
+			<original>マルス</original>
+			<edited>マルス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Marth" offset="00" relocatable="true" max_length="0">
+			<original>通称『始まりの紋章士』。
+高潔でカリスマに溢れた英雄の中の英雄。
+敵の攻撃を的確に見切り、連撃を繰り出す。</original>
+			<edited>通称『始まりの紋章士』。
+高潔でカリスマに溢れた英雄の中の英雄。
+敵の攻撃を的確に見切り、連撃を繰り出す。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Siglud" offset="00" relocatable="true" max_length="0">
+			<original>シグルド</original>
+			<edited>シグルド</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Siglud" offset="00" relocatable="true" max_length="0">
+			<original>通称『聖戦の紋章士』。
+聖戦士の血を受け継ぐ清廉なる騎士。
+高い移動力を誇り、槍で敵を討つ。</original>
+			<edited>通称『聖戦の紋章士』。
+聖戦士の血を受け継ぐ清廉なる騎士。
+高い移動力を誇り、槍で敵を討つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Celica" offset="00" relocatable="true" max_length="0">
+			<original>セリカ</original>
+			<edited>セリカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Celica" offset="00" relocatable="true" max_length="0">
+			<original>通称『響きの紋章士』。
+豊穣の国の王女。神官戦士でもある。
+聖なる魔法で、魔物に大ダメージを与える。</original>
+			<edited>通称『響きの紋章士』。
+豊穣の国の王女。神官戦士でもある。
+聖なる魔法で、魔物に大ダメージを与える。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Micaiah" offset="00" relocatable="true" max_length="0">
+			<original>ミカヤ</original>
+			<edited>ミカヤ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Micaiah" offset="00" relocatable="true" max_length="0">
+			<original>通称『暁の紋章士』。
+治癒や未来の予見など、不思議な力を持つ。
+魔法と回復の杖で、味方をサポートする。</original>
+			<edited>通称『暁の紋章士』。
+治癒や未来の予見など、不思議な力を持つ。
+魔法と回復の杖で、味方をサポートする。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Roy" offset="00" relocatable="true" max_length="0">
+			<original>ロイ</original>
+			<edited>ロイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Roy" offset="00" relocatable="true" max_length="0">
+			<original>通称『封印の紋章士』。
+勇敢で才知に長けた、将の器を持つ公子。
+敵の攻撃に耐え、剣で血路を斬りひらく。</original>
+			<edited>通称『封印の紋章士』。
+勇敢で才知に長けた、将の器を持つ公子。
+敵の攻撃に耐え、剣で血路を斬りひらく。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Lin" offset="00" relocatable="true" max_length="0">
+			<original>リン</original>
+			<edited>リン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Lin" offset="00" relocatable="true" max_length="0">
+			<original>通称『烈火の紋章士』。
+大自然と共に生きる遊牧民で、凄腕の剣士。
+華麗な剣で敵を翻弄し、鋭い弓で射ち貫く。</original>
+			<edited>通称『烈火の紋章士』。
+大自然と共に生きる遊牧民で、凄腕の剣士。
+華麗な剣で敵を翻弄し、鋭い弓で射ち貫く。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_EnemyLin" offset="00" relocatable="true" max_length="0">
+			<original>イルシオンに託された、
+『草原の公女の指輪』に宿る紋章士。</original>
+			<edited>イルシオンに託された、
+『草原の公女の指輪』に宿る紋章士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ike" offset="00" relocatable="true" max_length="0">
+			<original>アイク</original>
+			<edited>アイク</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Ike" offset="00" relocatable="true" max_length="0">
+			<original>通称『蒼炎の紋章士』。
+高名な傭兵団長で、比類無き戦技を持つ。
+剣と斧を豪快に操り、障害物を破壊する。</original>
+			<edited>通称『蒼炎の紋章士』。
+高名な傭兵団長で、比類無き戦技を持つ。
+剣と斧を豪快に操り、障害物を破壊する。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Lucina" offset="00" relocatable="true" max_length="0">
+			<original>ルキナ</original>
+			<edited>ルキナ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Lucina" offset="00" relocatable="true" max_length="0">
+			<original>通称『覚醒の紋章士』。
+希望を信じ、絶望に屈しない、聖なる王女。
+仲間と絆を繋ぎ、力を合わせて敵を討つ。</original>
+			<edited>通称『覚醒の紋章士』。
+希望を信じ、絶望に屈しない、聖なる王女。
+仲間と絆を繋ぎ、力を合わせて敵を討つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_EnemyLucina" offset="00" relocatable="true" max_length="0">
+			<original>神竜王城より持ち去られた、
+『聖王女の指輪』に宿る紋章士。</original>
+			<edited>神竜王城より持ち去られた、
+『聖王女の指輪』に宿る紋章士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Leaf" offset="00" relocatable="true" max_length="0">
+			<original>リーフ</original>
+			<edited>リーフ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Leaf" offset="00" relocatable="true" max_length="0">
+			<original>通称『系譜の紋章士』。
+二人の聖戦士の血を引く、勇ましき王子。
+剣、槍、斧と、様々な武器を使いこなす。</original>
+			<edited>通称『系譜の紋章士』。
+二人の聖戦士の血を引く、勇ましき王子。
+剣、槍、斧と、様々な武器を使いこなす。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_EnemyLeaf" offset="00" relocatable="true" max_length="0">
+			<original>神竜王城より持ち去られた、
+『賢王の指輪』に宿る紋章士。</original>
+			<edited>神竜王城より持ち去られた、
+『賢王の指輪』に宿る紋章士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Kamui" offset="00" relocatable="true" max_length="0">
+			<original>カムイ</original>
+			<edited>カムイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Kamui" offset="00" relocatable="true" max_length="0">
+			<original>通称『選択の紋章士』。
+神祖竜の血を引く、折れない心を持つ者。
+大地に眠る力『竜脈』を操ることができる。</original>
+			<edited>通称『選択の紋章士』。
+神祖竜の血を引く、折れない心を持つ者。
+大地に眠る力『竜脈』を操ることができる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Eirik" offset="00" relocatable="true" max_length="0">
+			<original>エイリーク</original>
+			<edited>エイリーク</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Eirik" offset="00" relocatable="true" max_length="0">
+			<original>通称『聖魔の紋章士』。
+平和の為に剣を振るう、心優しき王女。
+閃く剣で敵の防御を突き崩す。</original>
+			<edited>通称『聖魔の紋章士』。
+平和の為に剣を振るう、心優しき王女。
+閃く剣で敵の防御を突き崩す。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ephraim" offset="00" relocatable="true" max_length="0">
+			<original>エフラム</original>
+			<edited>エフラム</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Ephraim" offset="00" relocatable="true" max_length="0">
+			<original>もう一人の『聖魔の紋章士』。
+エイリークの双子の兄。武勇に優れる。
+不敗の槍技で敵陣に切り込む。</original>
+			<edited>もう一人の『聖魔の紋章士』。
+エイリークの双子の兄。武勇に優れる。
+不敗の槍技で敵陣に切り込む。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Byleth" offset="00" relocatable="true" max_length="0">
+			<original>ベレト</original>
+			<edited>ベレト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Byleth" offset="00" relocatable="true" max_length="0">
+			<original>通称『風花の紋章士』。
+元傭兵にして、士官学校の指導者。
+『英雄の遺産』を持ち、多彩な戦法を操る。</original>
+			<edited>通称『風花の紋章士』。
+元傭兵にして、士官学校の指導者。
+『英雄の遺産』を持ち、多彩な戦法を操る。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_EnemyByleth" offset="00" relocatable="true" max_length="0">
+			<original>神竜王城より持ち去られた、
+『導き手の指輪』に宿る紋章士。</original>
+			<edited>神竜王城より持ち去られた、
+『導き手の指輪』に宿る紋章士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Lueur" offset="00" relocatable="true" max_length="0">
+			<original>リュール</original>
+			<edited>リュール</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Lueur" offset="00" relocatable="true" max_length="0">
+			<original>通称『絆炎の紋章士』
+特別な紋章士となった、神竜の後継者。
+神竜の加護を授け、邪竜を滅する。</original>
+			<edited>通称『絆炎の紋章士』
+特別な紋章士となった、神竜の後継者。
+神竜の加護を授け、邪竜を滅する。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Mediuth" offset="00" relocatable="true" max_length="0">
+			<original>暗黒竜の紋章士</original>
+			<edited>暗黒竜の紋章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Mediuth" offset="00" relocatable="true" max_length="0">
+			<original>ソンブルが顕現させた闇の紋章士。
+マルスと同じ異界より喚び出された存在で
+強大で恐ろしい暗黒竜の力を持つ。</original>
+			<edited>ソンブルが顕現させた闇の紋章士。
+マルスと同じ異界より喚び出された存在で
+強大で恐ろしい暗黒竜の力を持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Loptous" offset="00" relocatable="true" max_length="0">
+			<original>暗黒神の紋章士</original>
+			<edited>暗黒神の紋章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Loptous" offset="00" relocatable="true" max_length="0">
+			<original>ソンブルが顕現させた闇の紋章士。
+シグルドと同じ異界より喚び出された存在で
+人々を恐怖に陥れた暗黒神の力を持つ。</original>
+			<edited>ソンブルが顕現させた闇の紋章士。
+シグルドと同じ異界より喚び出された存在で
+人々を恐怖に陥れた暗黒神の力を持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Duma" offset="00" relocatable="true" max_length="0">
+			<original>戦神の紋章士</original>
+			<edited>戦神の紋章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Duma" offset="00" relocatable="true" max_length="0">
+			<original>ソンブルが顕現させた闇の紋章士。
+セリカと同じ異界より喚び出された存在で
+狂気に侵された荒ぶる戦神の力を持つ。</original>
+			<edited>ソンブルが顕現させた闇の紋章士。
+セリカと同じ異界より喚び出された存在で
+狂気に侵された荒ぶる戦神の力を持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Veld" offset="00" relocatable="true" max_length="0">
+			<original>闇司祭の紋章士</original>
+			<edited>闇司祭の紋章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Veld" offset="00" relocatable="true" max_length="0">
+			<original>ソンブルが顕現させた闇の紋章士。
+リーフと同じ異界より喚び出された存在で
+邪悪な暗黒教団の司祭の力を持つ。</original>
+			<edited>ソンブルが顕現させた闇の紋章士。
+リーフと同じ異界より喚び出された存在で
+邪悪な暗黒教団の司祭の力を持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Idenn" offset="00" relocatable="true" max_length="0">
+			<original>魔竜の紋章士</original>
+			<edited>魔竜の紋章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Idenn" offset="00" relocatable="true" max_length="0">
+			<original>ソンブルが顕現させた闇の紋章士。
+ロイと同じ異界より喚び出された存在で
+人類を滅ぼそうとした魔竜の力を持つ。</original>
+			<edited>ソンブルが顕現させた闇の紋章士。
+ロイと同じ異界より喚び出された存在で
+人類を滅ぼそうとした魔竜の力を持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Nergal" offset="00" relocatable="true" max_length="0">
+			<original>邪智の紋章士</original>
+			<edited>邪智の紋章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Nergal" offset="00" relocatable="true" max_length="0">
+			<original>ソンブルが顕現させた闇の紋章士。
+リンと同じ異界より喚び出された存在で
+禁断の知識を持ち、その力で災いを呼ぶ。</original>
+			<edited>ソンブルが顕現させた闇の紋章士。
+リンと同じ異界より喚び出された存在で
+禁断の知識を持ち、その力で災いを呼ぶ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Fodeth" offset="00" relocatable="true" max_length="0">
+			<original>魔王の紋章士</original>
+			<edited>魔王の紋章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Fodeth" offset="00" relocatable="true" max_length="0">
+			<original>ソンブルが顕現させた闇の紋章士。
+エイリークと同じ異界より喚び出された
+存在で、禍々しき魔王の力を持つ。</original>
+			<edited>ソンブルが顕現させた闇の紋章士。
+エイリークと同じ異界より喚び出された
+存在で、禍々しき魔王の力を持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ashnard" offset="00" relocatable="true" max_length="0">
+			<original>狂王の紋章士</original>
+			<edited>狂王の紋章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Ashnard" offset="00" relocatable="true" max_length="0">
+			<original>ソンブルが顕現させた闇の紋章士。
+アイクと同じ異界より喚び出された存在で
+世界に戦乱を巻き起こした暴君の力を持つ。</original>
+			<edited>ソンブルが顕現させた闇の紋章士。
+アイクと同じ異界より喚び出された存在で
+世界に戦乱を巻き起こした暴君の力を持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Astarte" offset="00" relocatable="true" max_length="0">
+			<original>裁きの紋章士</original>
+			<edited>裁きの紋章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Astarte" offset="00" relocatable="true" max_length="0">
+			<original>ソンブルが顕現させた闇の紋章士。
+ミカヤと同じ異界より喚び出された存在で
+人類を裁くことを望む、女神の力を持つ。</original>
+			<edited>ソンブルが顕現させた闇の紋章士。
+ミカヤと同じ異界より喚び出された存在で
+人類を裁くことを望む、女神の力を持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Gimle" offset="00" relocatable="true" max_length="0">
+			<original>絶望の紋章士</original>
+			<edited>絶望の紋章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Gimle" offset="00" relocatable="true" max_length="0">
+			<original>ソンブルが顕現させた闇の紋章士。
+ルキナと同じ異界より喚び出された存在で
+破滅と絶望をもたらす邪竜の力を持つ。</original>
+			<edited>ソンブルが顕現させた闇の紋章士。
+ルキナと同じ異界より喚び出された存在で
+破滅と絶望をもたらす邪竜の力を持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Hydra" offset="00" relocatable="true" max_length="0">
+			<original>狂竜の紋章士</original>
+			<edited>狂竜の紋章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Hydra" offset="00" relocatable="true" max_length="0">
+			<original>ソンブルが顕現させた闇の紋章士。
+カムイと同じ異界より喚び出された存在で
+人々を破滅へと導く、狂いし竜の力を持つ。</original>
+			<edited>ソンブルが顕現させた闇の紋章士。
+カムイと同じ異界より喚び出された存在で
+人々を破滅へと導く、狂いし竜の力を持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Nemesis" offset="00" relocatable="true" max_length="0">
+			<original>解放王の紋章士</original>
+			<edited>解放王の紋章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Nemesis" offset="00" relocatable="true" max_length="0">
+			<original>ソンブルが顕現させた闇の紋章士。
+ベレトと同じ異界より喚び出された存在で
+神祖の眷属を虐殺した古代の王の力を持つ。</original>
+			<edited>ソンブルが顕現させた闇の紋章士。
+ベレトと同じ異界より喚び出された存在で
+神祖の眷属を虐殺した古代の王の力を持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Marth" offset="00" relocatable="true" max_length="0">
+			<original>始まりの紋章</original>
+			<edited>始まりの紋章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Siglud" offset="00" relocatable="true" max_length="0">
+			<original>聖戦の紋章</original>
+			<edited>聖戦の紋章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Celica" offset="00" relocatable="true" max_length="0">
+			<original>響きの紋章</original>
+			<edited>響きの紋章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Micaiah" offset="00" relocatable="true" max_length="0">
+			<original>暁の紋章</original>
+			<edited>暁の紋章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Roy" offset="00" relocatable="true" max_length="0">
+			<original>封印の紋章</original>
+			<edited>封印の紋章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Lin" offset="00" relocatable="true" max_length="0">
+			<original>烈火の紋章</original>
+			<edited>烈火の紋章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Ike" offset="00" relocatable="true" max_length="0">
+			<original>蒼炎の紋章</original>
+			<edited>蒼炎の紋章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Lucina" offset="00" relocatable="true" max_length="0">
+			<original>覚醒の紋章</original>
+			<edited>覚醒の紋章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Leaf" offset="00" relocatable="true" max_length="0">
+			<original>系譜の紋章</original>
+			<edited>系譜の紋章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Kamui" offset="00" relocatable="true" max_length="0">
+			<original>選択の紋章</original>
+			<edited>選択の紋章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Eirik" offset="00" relocatable="true" max_length="0">
+			<original>聖魔の紋章</original>
+			<edited>聖魔の紋章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Byleth" offset="00" relocatable="true" max_length="0">
+			<original>風花の紋章</original>
+			<edited>風花の紋章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Lueur" offset="00" relocatable="true" max_length="0">
+			<original>絆炎の紋章</original>
+			<edited>絆炎の紋章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_WeaponShop" offset="00" relocatable="true" max_length="0">
+			<original>ダートン</original>
+			<edited>ダートン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_ItemShop" offset="00" relocatable="true" max_length="0">
+			<original>アニス</original>
+			<edited>アニス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_AccessoriesShop" offset="00" relocatable="true" max_length="0">
+			<original>ピネ</original>
+			<edited>ピネ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_BlackSmith" offset="00" relocatable="true" max_length="0">
+			<original>カルネイ</original>
+			<edited>カルネイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_JeanFather" offset="00" relocatable="true" max_length="0">
+			<original>ショーン</original>
+			<edited>ショーン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_JeanFather" offset="00" relocatable="true" max_length="0">
+			<original>茶畑の里で診療所を営む男性。
+ジャンの父親。</original>
+			<edited>茶畑の里で診療所を営む男性。
+ジャンの父親。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_JeanMother" offset="00" relocatable="true" max_length="0">
+			<original>アンジュ</original>
+			<edited>アンジュ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_SolumVillager" offset="00" relocatable="true" max_length="0">
+			<original>ソルムの民</original>
+			<edited>ソルムの民</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_SolumVillager" offset="00" relocatable="true" max_length="0">
+			<original>ソルム王国に暮らす民。</original>
+			<edited>ソルム王国に暮らす民。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_FileneVillager" offset="00" relocatable="true" max_length="0">
+			<original>フィレネの民</original>
+			<edited>フィレネの民</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_FileneVillager" offset="00" relocatable="true" max_length="0">
+			<original>フィレネ王国に暮らす民。</original>
+			<edited>フィレネ王国に暮らす民。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Vision" offset="00" relocatable="true" max_length="0">
+			<original>残像</original>
+			<edited>残像</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Vision" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージスキルで生み出された残像。</original>
+			<edited>エンゲージスキルで生み出された残像。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Lueur" offset="00" relocatable="true" max_length="0">
+			<original>神竜王</original>
+			<edited>神竜王</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Vandre" offset="00" relocatable="true" max_length="0">
+			<original>老練の守り人</original>
+			<edited>老練の守り人</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Clan" offset="00" relocatable="true" max_length="0">
+			<original>冷静の守り人</original>
+			<edited>冷静の守り人</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Fram" offset="00" relocatable="true" max_length="0">
+			<original>情熱の守り人</original>
+			<edited>情熱の守り人</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Alfred" offset="00" relocatable="true" max_length="0">
+			<original>笑み護る花</original>
+			<edited>笑み護る花</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Boucheron" offset="00" relocatable="true" max_length="0">
+			<original>逞しき涙斧</original>
+			<edited>逞しき涙斧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Etie" offset="00" relocatable="true" max_length="0">
+			<original>剛腕の令嬢</original>
+			<edited>剛腕の令嬢</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Celine" offset="00" relocatable="true" max_length="0">
+			<original>幸福な王女</original>
+			<edited>幸福な王女</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Louis" offset="00" relocatable="true" max_length="0">
+			<original>花園の門番</original>
+			<edited>花園の門番</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Chloe" offset="00" relocatable="true" max_length="0">
+			<original>空想を舞う翼</original>
+			<edited>空想を舞う翼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Diamand" offset="00" relocatable="true" max_length="0">
+			<original>立ち向かう黒鉄</original>
+			<edited>立ち向かう黒鉄</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Umber" offset="00" relocatable="true" max_length="0">
+			<original>アルパカ勇者</original>
+			<edited>アルパカ勇者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Jade" offset="00" relocatable="true" max_length="0">
+			<original>宝石の守護者</original>
+			<edited>宝石の守護者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Staluke" offset="00" relocatable="true" max_length="0">
+			<original>繊細なる射手</original>
+			<edited>繊細なる射手</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Lapis" offset="00" relocatable="true" max_length="0">
+			<original>屈強な野花</original>
+			<edited>屈強な野花</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Citrinica" offset="00" relocatable="true" max_length="0">
+			<original>富める友愛</original>
+			<edited>富める友愛</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Ivy" offset="00" relocatable="true" max_length="0">
+			<original>吹き渡る雪</original>
+			<edited>吹き渡る雪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Zelkova" offset="00" relocatable="true" max_length="0">
+			<original>「忠実」な影</original>
+			<edited>「忠実」な影</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Kagetsu" offset="00" relocatable="true" max_length="0">
+			<original>おにぎり侍</original>
+			<edited>おにぎり侍</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Hortensia" offset="00" relocatable="true" max_length="0">
+			<original>愛らしい雪華</original>
+			<edited>愛らしい雪華</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Rosado" offset="00" relocatable="true" max_length="0">
+			<original>描き出す可憐</original>
+			<edited>描き出す可憐</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Goldmary" offset="00" relocatable="true" max_length="0">
+			<original>靦然たる美貌</original>
+			<edited>靦然たる美貌</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Misutira" offset="00" relocatable="true" max_length="0">
+			<original>闘いの熱砂</original>
+			<edited>闘いの熱砂</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Merin" offset="00" relocatable="true" max_length="0">
+			<original>麗しの珍獣騎士</original>
+			<edited>麗しの珍獣騎士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Panetone" offset="00" relocatable="true" max_length="0">
+			<original>御喧嘩上等</original>
+			<edited>御喧嘩上等</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Fogato" offset="00" relocatable="true" max_length="0">
+			<original>みんな大好き</original>
+			<edited>みんな大好き</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Pandoro" offset="00" relocatable="true" max_length="0">
+			<original>パーティー聖者</original>
+			<edited>パーティー聖者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Bonet" offset="00" relocatable="true" max_length="0">
+			<original>何でも味見</original>
+			<edited>何でも味見</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Anna" offset="00" relocatable="true" max_length="0">
+			<original>幼き行商人</original>
+			<edited>幼き行商人</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Jean" offset="00" relocatable="true" max_length="0">
+			<original>勤勉なる若葉</original>
+			<edited>勤勉なる若葉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Yunaka" offset="00" relocatable="true" max_length="0">
+			<original>見えざる仮面</original>
+			<edited>見えざる仮面</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Seadas" offset="00" relocatable="true" max_length="0">
+			<original>月下の踊り手</original>
+			<edited>月下の踊り手</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Linden" offset="00" relocatable="true" max_length="0">
+			<original>雷霆の賢者</original>
+			<edited>雷霆の賢者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Saphir" offset="00" relocatable="true" max_length="0">
+			<original>豪胆な王城兵</original>
+			<edited>豪胆な王城兵</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Veyre" offset="00" relocatable="true" max_length="0">
+			<original>優しき竜</original>
+			<edited>優しき竜</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Mauve" offset="00" relocatable="true" max_length="0">
+			<original>救済の騎士</original>
+			<edited>救済の騎士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Mascot" offset="00" relocatable="true" max_length="0">
+			<original>ソラ</original>
+			<edited>ソラ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Mascot" offset="00" relocatable="true" max_length="0">
+			<original>ソラネルに古くから棲みいている生物</original>
+			<edited>ソラネルに古くから棲みいている生物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_EleosGoat" offset="00" relocatable="true" max_length="0">
+			<original>エレモフヒツジ</original>
+			<edited>エレモフヒツジ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_EleosGoat" offset="00" relocatable="true" max_length="0">
+			<original>エレオス大陸全土に生息する
+モフモフした毛並みが特徴のヒツジ</original>
+			<edited>エレオス大陸全土に生息する
+モフモフした毛並みが特徴のヒツジ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_WhitePyonRabbit" offset="00" relocatable="true" max_length="0">
+			<original>シロピョンウサギ</original>
+			<edited>シロピョンウサギ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_WhitePyonRabbit" offset="00" relocatable="true" max_length="0">
+			<original>エレオス大陸全土に生息する
+ピョンピョン跳ねて行動する耳の長いウサギ
+同属に毛並みが白くない種もいる</original>
+			<edited>エレオス大陸全土に生息する
+ピョンピョン跳ねて行動する耳の長いウサギ
+同属に毛並みが白くない種もいる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_PyonRabbit" offset="00" relocatable="true" max_length="0">
+			<original>ピョンウサギ</original>
+			<edited>ピョンウサギ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_PyonRabbit" offset="00" relocatable="true" max_length="0">
+			<original>エレオス大陸全土に生息する
+ピョンピョン跳ねて行動する耳の長いウサギ
+同属に毛並みが白い種もいる</original>
+			<edited>エレオス大陸全土に生息する
+ピョンピョン跳ねて行動する耳の長いウサギ
+同属に毛並みが白い種もいる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_EastCat" offset="00" relocatable="true" max_length="0">
+			<original>ヒガシニャッコ</original>
+			<edited>ヒガシニャッコ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_EastCat" offset="00" relocatable="true" max_length="0">
+			<original>その昔、大陸の東で生まれたと言われる元祖
+棲む土地に合わせて個別の繁栄を遂げた種で
+生息する国によって見た目や名前が異なる</original>
+			<edited>その昔、大陸の東で生まれたと言われる元祖
+棲む土地に合わせて個別の繁栄を遂げた種で
+生息する国によって見た目や名前が異なる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_WestCat" offset="00" relocatable="true" max_length="0">
+			<original>ニシニャッコ</original>
+			<edited>ニシニャッコ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_WestCat" offset="00" relocatable="true" max_length="0">
+			<original>その昔、大陸の西で生まれたと言われる元祖
+棲む土地に合わせて個別の繁栄を遂げた種で
+生息する国によって見た目や名前が異なる</original>
+			<edited>その昔、大陸の西で生まれたと言われる元祖
+棲む土地に合わせて個別の繁栄を遂げた種で
+生息する国によって見た目や名前が異なる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_SouthCat" offset="00" relocatable="true" max_length="0">
+			<original>ミナミニャッコ</original>
+			<edited>ミナミニャッコ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_SouthCat" offset="00" relocatable="true" max_length="0">
+			<original>その昔、大陸の南で生まれたと言われる元祖
+棲む土地に合わせて個別の繁栄を遂げた種で
+生息する国によって見た目や名前が異なる</original>
+			<edited>その昔、大陸の南で生まれたと言われる元祖
+棲む土地に合わせて個別の繁栄を遂げた種で
+生息する国によって見た目や名前が異なる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_NorthCat" offset="00" relocatable="true" max_length="0">
+			<original>キタニャッコ</original>
+			<edited>キタニャッコ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_NorthCat" offset="00" relocatable="true" max_length="0">
+			<original>その昔、大陸の北で生まれたと言われる元祖
+棲む土地に合わせて個別の繁栄を遂げた種で
+生息する国によって見た目や名前が異なる</original>
+			<edited>その昔、大陸の北で生まれたと言われる元祖
+棲む土地に合わせて個別の繁栄を遂げた種で
+生息する国によって見た目や名前が異なる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_FileneCat" offset="00" relocatable="true" max_length="0">
+			<original>フィレネニャーコ</original>
+			<edited>フィレネニャーコ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_FileneCat" offset="00" relocatable="true" max_length="0">
+			<original>フィレネにのみ生息するニャッコ
+生息する国によって見た目や名前が異なり
+白色と黒色のみの毛並みが特徴</original>
+			<edited>フィレネにのみ生息するニャッコ
+生息する国によって見た目や名前が異なり
+白色と黒色のみの毛並みが特徴</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_BrodiaCat" offset="00" relocatable="true" max_length="0">
+			<original>ブロディアニャゴ</original>
+			<edited>ブロディアニャゴ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_BrodiaCat" offset="00" relocatable="true" max_length="0">
+			<original>ブロディアにのみ生息するニャッコ
+生息する国によって見た目や名前が異なり
+黒色と茶色の入り混じった毛並みが特徴</original>
+			<edited>ブロディアにのみ生息するニャッコ
+生息する国によって見た目や名前が異なり
+黒色と茶色の入り混じった毛並みが特徴</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_IrcionCat" offset="00" relocatable="true" max_length="0">
+			<original>イルシオンニャコ</original>
+			<edited>イルシオンニャコ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_IrcionCat" offset="00" relocatable="true" max_length="0">
+			<original>イルシオンにのみ生息するニャッコ
+生息する国によって見た目や名前が異なり
+足や顔、耳や尻尾だけ黒い毛並みが特徴</original>
+			<edited>イルシオンにのみ生息するニャッコ
+生息する国によって見た目や名前が異なり
+足や顔、耳や尻尾だけ黒い毛並みが特徴</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_SolumCat" offset="00" relocatable="true" max_length="0">
+			<original>ソルムニャンコ</original>
+			<edited>ソルムニャンコ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_SolumCat" offset="00" relocatable="true" max_length="0">
+			<original>ソルムにのみ生息するニャッコ
+生息する国によって見た目や名前が異なり
+肉食動物のヒョウのような毛並みが特徴</original>
+			<edited>ソルムにのみ生息するニャッコ
+生息する国によって見た目や名前が異なり
+肉食動物のヒョウのような毛並みが特徴</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_KarisonCoco" offset="00" relocatable="true" max_length="0">
+			<original>カリソンコッコ</original>
+			<edited>カリソンコッコ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_KarisonCoco" offset="00" relocatable="true" max_length="0">
+			<original>主にフィレネに多く生息するコッコ
+真ん丸な見た目からは想像できないが
+飛ぶときは飛ぶので、文通に使う人もいる</original>
+			<edited>主にフィレネに多く生息するコッコ
+真ん丸な見た目からは想像できないが
+飛ぶときは飛ぶので、文通に使う人もいる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_AuraEagle" offset="00" relocatable="true" max_length="0">
+			<original>アオライーグルン</original>
+			<edited>アオライーグルン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_AuraEagle" offset="00" relocatable="true" max_length="0">
+			<original>主にブロディアに多く生息するイーグルン
+谷から吹き上げる上昇気流などを使って
+翼を休めながら飛ぶことで、長距離も得意</original>
+			<edited>主にブロディアに多く生息するイーグルン
+谷から吹き上げる上昇気流などを使って
+翼を休めながら飛ぶことで、長距離も得意</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_IrisOwl" offset="00" relocatable="true" max_length="0">
+			<original>アイリスフクロー</original>
+			<edited>アイリスフクロー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_IrisOwl" offset="00" relocatable="true" max_length="0">
+			<original>主にイルシオンに多く生息するフクロー
+大きな羽根で体温を守り、寒い中でも
+力強い飛行を見せる。なかなかに速い</original>
+			<edited>主にイルシオンに多く生息するフクロー
+大きな羽根で体温を守り、寒い中でも
+力強い飛行を見せる。なかなかに速い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_PannaCamel" offset="00" relocatable="true" max_length="0">
+			<original>パンナコブラクダ</original>
+			<edited>パンナコブラクダ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_PannaCamel" offset="00" relocatable="true" max_length="0">
+			<original>主にソルムに多く生息するラクダ
+ソルムでは各家庭に一頭いるとかいないとか
+人を乗せて多くの荷物を運ぶこともできる</original>
+			<edited>主にソルムに多く生息するラクダ
+ソルムでは各家庭に一頭いるとかいないとか
+人を乗せて多くの荷物を運ぶこともできる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_EleosPigeon" offset="00" relocatable="true" max_length="0">
+			<original>エレオスハットー</original>
+			<edited>エレオスハットー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_EleosPigeon" offset="00" relocatable="true" max_length="0">
+			<original>エレオス大陸全土に生息する雑食の野鳥
+時折、大量発生しては世間を賑わせている
+どこにでもいる</original>
+			<edited>エレオス大陸全土に生息する雑食の野鳥
+時折、大量発生しては世間を賑わせている
+どこにでもいる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_EleosSeagull" offset="00" relocatable="true" max_length="0">
+			<original>エレオスカモメン</original>
+			<edited>エレオスカモメン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_EleosSeagull" offset="00" relocatable="true" max_length="0">
+			<original>エレオス大陸全土に生息する海辺にいる野鳥
+魚が好物でいつも釣り人を狙っている</original>
+			<edited>エレオス大陸全土に生息する海辺にいる野鳥
+魚が好物でいつも釣り人を狙っている</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_EleosDog" offset="00" relocatable="true" max_length="0">
+			<original>エレオスケン</original>
+			<edited>エレオスケン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_EleosDog" offset="00" relocatable="true" max_length="0">
+			<original>エレオス大陸全土に生息する犬
+人懐こく、しつけも難しくない
+室内で飼うことも珍しくない賢い動物</original>
+			<edited>エレオス大陸全土に生息する犬
+人懐こく、しつけも難しくない
+室内で飼うことも珍しくない賢い動物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_EleosBlackDog" offset="00" relocatable="true" max_length="0">
+			<original>クロエレオスケン</original>
+			<edited>クロエレオスケン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_EleosBlackDog" offset="00" relocatable="true" max_length="0">
+			<original>エレオス大陸全土に生息する犬
+黒い毛並みが特徴
+人懐こく、しつけも難しくない</original>
+			<edited>エレオス大陸全土に生息する犬
+黒い毛並みが特徴
+人懐こく、しつけも難しくない</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_EleosWhiteDog" offset="00" relocatable="true" max_length="0">
+			<original>シロエレオスケン</original>
+			<edited>シロエレオスケン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_EleosWhiteDog" offset="00" relocatable="true" max_length="0">
+			<original>エレオス大陸全土に生息する犬
+白い毛並みが特徴
+人懐こく、しつけも難しくない</original>
+			<edited>エレオス大陸全土に生息する犬
+白い毛並みが特徴
+人懐こく、しつけも難しくない</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_MailDonkey" offset="00" relocatable="true" max_length="0">
+			<original>メイルロバ</original>
+			<edited>メイルロバ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_MailDonkey" offset="00" relocatable="true" max_length="0">
+			<original>フィレネにのみ生息する珍しい動物
+綺麗な水と新鮮な作物を好む
+野生の姿を見た年は豊作になる伝説がある</original>
+			<edited>フィレネにのみ生息する珍しい動物
+綺麗な水と新鮮な作物を好む
+野生の姿を見た年は豊作になる伝説がある</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_RutileMarmot" offset="00" relocatable="true" max_length="0">
+			<original>ルチルマーモット</original>
+			<edited>ルチルマーモット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_RutileMarmot" offset="00" relocatable="true" max_length="0">
+			<original>ブロディアにのみ生息する珍しい動物
+高い崖の上など、人がいない場所を好む
+ブロディアの守り神と呼ぶ人もいる</original>
+			<edited>ブロディアにのみ生息する珍しい動物
+高い崖の上など、人がいない場所を好む
+ブロディアの守り神と呼ぶ人もいる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_LizardsReindeer" offset="00" relocatable="true" max_length="0">
+			<original>リザーズトナカイ</original>
+			<edited>リザーズトナカイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_LizardsReindeer" offset="00" relocatable="true" max_length="0">
+			<original>イルシオンにのみ生息する珍しい動物
+森の奥深くで見られることが多い
+角を用いた薬は万病に効くと言われている</original>
+			<edited>イルシオンにのみ生息する珍しい動物
+森の奥深くで見られることが多い
+角を用いた薬は万病に効くと言われている</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_BavaroFlamingo" offset="00" relocatable="true" max_length="0">
+			<original>ババロフラミンゴ</original>
+			<edited>ババロフラミンゴ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_BavaroFlamingo" offset="00" relocatable="true" max_length="0">
+			<original>ソルムにのみ生息する珍しい動物
+王族では稀に伝書鳥としても活躍している
+主にオアシス周辺で見られることが多い</original>
+			<edited>ソルムにのみ生息する珍しい動物
+王族では稀に伝書鳥としても活躍している
+主にオアシス周辺で見られることが多い</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

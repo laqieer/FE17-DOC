@@ -1,0 +1,647 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_WU_C_1_IN_#001" offset="00" relocatable="true" max_length="0">
+			<original>Waking the Divine Dragon...a strange
+task indeed.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Waking the Divine Dragon...a strange
+task indeed.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_SOON_#001" offset="00" relocatable="true" max_length="0">
+			<original>Ah, you're already up, it seems.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Ah, you're already up, it seems.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_SOON_#002" offset="00" relocatable="true" max_length="0">
+			<original>I'll save my wake-up services for another time.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I'll save my wake-up services for another time.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_WAKEUP_#001" offset="00" relocatable="true" max_length="0">
+			<original>Sleeping soundly. This may prove challenging.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Sleeping soundly. This may prove challenging.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_WAKEUP_#002" offset="00" relocatable="true" max_length="0">
+			<original>I'll do a bit of dancing while I wait.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I'll do a bit of dancing while I wait.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_WAKEUP_#003" offset="00" relocatable="true" max_length="0">
+			<original>Step...jump...turn...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Step...jump...turn...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_WAKEUP_#004" offset="00" relocatable="true" max_length="0">
+			<original>Ah, yes. Nearly perfect.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Ah, yes. Nearly perfect.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_HELLO_#001" offset="00" relocatable="true" max_length="0">
+			<original>Ah, good morning.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Ah, good morning.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_HELLO_#002" offset="00" relocatable="true" max_length="0">
+			<original>Did my footwork wake you?&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Did my footwork wake you?&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_HELLO_#003" offset="00" relocatable="true" max_length="0">
+			<original>Well, perhaps...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Well, perhaps...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_HELLO_#004" offset="00" relocatable="true" max_length="0">
+			<original>when the moon returns...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>when the moon returns...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_HELLO_#005" offset="00" relocatable="true" max_length="0">
+			<original>I'll dance for you.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I'll dance for you.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_IN_#001" offset="00" relocatable="true" max_length="0">
+			<original>I read your fortune.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I read your fortune.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_IN_#002" offset="00" relocatable="true" max_length="0">
+			<original>It says two paths await you today. But which
+one shall it be?&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>It says two paths await you today. But which
+one shall it be?&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_SOON_#001" offset="00" relocatable="true" max_length="0">
+			<original>Ah, you woke quickly. Your card is Le Cheval.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Ah, you woke quickly. Your card is Le Cheval.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_SOON_#002" offset="00" relocatable="true" max_length="0">
+			<original>The War Horse.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>The War Horse.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_SOON_#003" offset="00" relocatable="true" max_length="0">
+			<original>It means a busy day awaits...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>It means a busy day awaits...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_SOON_#004" offset="00" relocatable="true" max_length="0">
+			<original>and you should wear yellow.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>and you should wear yellow.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_WAKEUP_#001" offset="00" relocatable="true" max_length="0">
+			<original>Ah, you sleep deeply. Your card is Le Pégase.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Ah, you sleep deeply. Your card is Le Pégase.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_WAKEUP_#002" offset="00" relocatable="true" max_length="0">
+			<original>The Pegasus.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>The Pegasus.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_WAKEUP_#003" offset="00" relocatable="true" max_length="0">
+			<original>Good fortune awaits...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Good fortune awaits...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_WAKEUP_#004" offset="00" relocatable="true" max_length="0">
+			<original>if you wear something blue.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>if you wear something blue.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_WAKEUP_#005" offset="00" relocatable="true" max_length="0">
+			<original>So the card says.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>So the card says.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_HELLO_#001" offset="00" relocatable="true" max_length="0">
+			<original>Good morning.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Good morning.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_HELLO_#002" offset="00" relocatable="true" max_length="0">
+			<original>As I was saying...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>As I was saying...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_HELLO_#003" offset="00" relocatable="true" max_length="0">
+			<original>you may encounter someone special to you.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>you may encounter someone special to you.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_HELLO_#004" offset="00" relocatable="true" max_length="0">
+			<original>Oh, no.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Oh, no.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_HELLO_#005" offset="00" relocatable="true" max_length="0">
+			<original>I would never suggest it would be me. I will
+take my leave.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I would never suggest it would be me. I will
+take my leave.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_IN_#001" offset="00" relocatable="true" max_length="0">
+			<original>Yes, this place...it's perfect for dancing.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Yes, this place...it's perfect for dancing.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_SOON_#001" offset="00" relocatable="true" max_length="0">
+			<original>Ah, did I wake you?&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Ah, did I wake you?&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_SOON_#002" offset="00" relocatable="true" max_length="0">
+			<original>I'm sorry. I was just looking for somewhere
+to practice.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I'm sorry. I was just looking for somewhere
+to practice.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_SOON_#003" offset="00" relocatable="true" max_length="0">
+			<original>This altar...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>This altar...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_SOON_#004" offset="00" relocatable="true" max_length="0">
+			<original>Surely it was made with dance rituals in mind.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Surely it was made with dance rituals in mind.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_WAKEUP_#001" offset="00" relocatable="true" max_length="0">
+			<original>I'm sure many dancers performed for you here.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I'm sure many dancers performed for you here.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_WAKEUP_#002" offset="00" relocatable="true" max_length="0">
+			<original>If only you could have seen my master dance.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>If only you could have seen my master dance.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_WAKEUP_#003" offset="00" relocatable="true" max_length="0">
+			<original>He was beauty in motion.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>He was beauty in motion.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_HELLO_#001" offset="00" relocatable="true" max_length="0">
+			<original>Divine One, I could dance for you.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Divine One, I could dance for you.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_HELLO_#002" offset="00" relocatable="true" max_length="0">
+			<original>Here, tonight. If you'd like.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Here, tonight. If you'd like.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_HELLO_#003" offset="00" relocatable="true" max_length="0">
+			<original>I could perform my master's dance.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I could perform my master's dance.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_HELLO_#004" offset="00" relocatable="true" max_length="0">
+			<original>And share its profound beauty.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>And share its profound beauty.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_IN_#001" offset="00" relocatable="true" max_length="0">
+			<original>Spirit of the cards, moon and stars above...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Spirit of the cards, moon and stars above...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_IN_#002" offset="00" relocatable="true" max_length="0">
+			<original>please, tell me, would a midnight snack provide
+proper fuel for my dance?!&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>please, tell me, would a midnight snack provide
+proper fuel for my dance?!&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_SOON_#001" offset="00" relocatable="true" max_length="0">
+			<original>Ah, forgive me, Divine One.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Ah, forgive me, Divine One.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_SOON_#002" offset="00" relocatable="true" max_length="0">
+			<original>My fortune telling was loud, wasn't it?&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>My fortune telling was loud, wasn't it?&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_SOON_#003" offset="00" relocatable="true" max_length="0">
+			<original>It's so quiet here. I should've been more careful.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>It's so quiet here. I should've been more careful.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_SOON_#004" offset="00" relocatable="true" max_length="0">
+			<original>I'll...leave.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I'll...leave.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_WAKEUP_#001" offset="00" relocatable="true" max_length="0">
+			<original>You see, I must be vigilant about the food
+that fuels me.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>You see, I must be vigilant about the food
+that fuels me.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_WAKEUP_#002" offset="00" relocatable="true" max_length="0">
+			<original>It seems silly, but...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>It seems silly, but...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_WAKEUP_#003" offset="00" relocatable="true" max_length="0">
+			<original>I eat perfect food so I can dance perfectly.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I eat perfect food so I can dance perfectly.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_WAKEUP_#004" offset="00" relocatable="true" max_length="0">
+			<original>Though, a snack of honey and butter does
+sound perfect right now.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Though, a snack of honey and butter does
+sound perfect right now.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_HELLO_#001" offset="00" relocatable="true" max_length="0">
+			<original>I'm sorry.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I'm sorry.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_HELLO_#002" offset="00" relocatable="true" max_length="0">
+			<original>It's so late and yet here I am.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>It's so late and yet here I am.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_HELLO_#003" offset="00" relocatable="true" max_length="0">
+			<original>I thought perhaps...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I thought perhaps...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_HELLO_#004" offset="00" relocatable="true" max_length="0">
+			<original>you'd have words of wisdom for me...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>you'd have words of wisdom for me...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_HELLO_#005" offset="00" relocatable="true" max_length="0">
+			<original>as you often do.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>as you often do.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_IN_#001" offset="00" relocatable="true" max_length="0">
+			<original>Divine One, you should see the sky tonight.
+It's breathtaking.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Divine One, you should see the sky tonight.
+It's breathtaking.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_IN_#002" offset="00" relocatable="true" max_length="0">
+			<original>Come, let's read the stars together.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Come, let's read the stars together.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_SOON_#001" offset="00" relocatable="true" max_length="0">
+			<original>Ah, you're taking me up on my offer.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Ah, you're taking me up on my offer.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_SOON_#002" offset="00" relocatable="true" max_length="0">
+			<original>The view of the stars from the altar...
+It defies words...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>The view of the stars from the altar...
+It defies words...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_SOON_#003" offset="00" relocatable="true" max_length="0">
+			<original>and pulls one's thoughts...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>and pulls one's thoughts...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_SOON_#004" offset="00" relocatable="true" max_length="0">
+			<original>far, far away.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>far, far away.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_WAKEUP_#001" offset="00" relocatable="true" max_length="0">
+			<original>Or are you lost in dreams?&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Or are you lost in dreams?&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_WAKEUP_#002" offset="00" relocatable="true" max_length="0">
+			<original>I wonder...what do you dream about.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I wonder...what do you dream about.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_WAKEUP_#003" offset="00" relocatable="true" max_length="0">
+			<original>I often dream about the desert's moonlit sky.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I often dream about the desert's moonlit sky.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_WAKEUP_#004" offset="00" relocatable="true" max_length="0">
+			<original>Hah, even in my dreams, all I do is gaze at
+the stars.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Hah, even in my dreams, all I do is gaze at
+the stars.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_HELLO_#001" offset="00" relocatable="true" max_length="0">
+			<original>Good evening.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Good evening.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_HELLO_#002" offset="00" relocatable="true" max_length="0">
+			<original>Now, make a wish.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Now, make a wish.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_HELLO_#003" offset="00" relocatable="true" max_length="0">
+			<original>It may come true.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>It may come true.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_HELLO_#004" offset="00" relocatable="true" max_length="0">
+			<original>Did you know, saying a wish out loud pulls it
+toward you?&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Did you know, saying a wish out loud pulls it
+toward you?&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_HELLO_#005" offset="00" relocatable="true" max_length="0">
+			<original>You see? A shooting star just sailed by.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>You see? A shooting star just sailed by.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_IN_#001" offset="00" relocatable="true" max_length="0">
+			<original>Today I dance with a full stomach and,
+more importantly, a full soul.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Today I dance with a full stomach and,
+more importantly, a full soul.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_SOON_#001" offset="00" relocatable="true" max_length="0">
+			<original>Ah, good morning.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Ah, good morning.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_SOON_#002" offset="00" relocatable="true" max_length="0">
+			<original>What do you say...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>What do you say...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_SOON_#003" offset="00" relocatable="true" max_length="0">
+			<original>we start the day with a dance?&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>we start the day with a dance?&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_SOON_#004" offset="00" relocatable="true" max_length="0">
+			<original>Please, Divine One...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Please, Divine One...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_SOON_#005" offset="00" relocatable="true" max_length="0">
+			<original>share this joy with me.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>share this joy with me.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_WAKEUP_#001" offset="00" relocatable="true" max_length="0">
+			<original>My breakfast was quite savory.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>My breakfast was quite savory.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_WAKEUP_#002" offset="00" relocatable="true" max_length="0">
+			<original>A joyful fuel indeed.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>A joyful fuel indeed.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_WAKEUP_#003" offset="00" relocatable="true" max_length="0">
+			<original>Thank you, Divine One.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Thank you, Divine One.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_WAKEUP_#004" offset="00" relocatable="true" max_length="0">
+			<original>You've helped me change.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>You've helped me change.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_HELLO_#001" offset="00" relocatable="true" max_length="0">
+			<original>You're awake, are you?&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>You're awake, are you?&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_HELLO_#002" offset="00" relocatable="true" max_length="0">
+			<original>Can you sense how happy I am? Can you see
+the beauty inside?&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Can you sense how happy I am? Can you see
+the beauty inside?&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_HELLO_#003" offset="00" relocatable="true" max_length="0">
+			<original>What I hope you see...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>What I hope you see...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_HELLO_#004" offset="00" relocatable="true" max_length="0">
+			<original>is a better me.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>is a better me.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_IN_#001" offset="00" relocatable="true" max_length="0">
+			<original>Divine One, it's me. I'm here to wake you.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Divine One, it's me. I'm here to wake you.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_IN_#002" offset="00" relocatable="true" max_length="0">
+			<original>But I can study my cards until you decide to
+join me.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>But I can study my cards until you decide to
+join me.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_SOON_#001" offset="00" relocatable="true" max_length="0">
+			<original>Ah, good morning. I'm not surprised you
+woke so quickly.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Ah, good morning. I'm not surprised you
+woke so quickly.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_SOON_#002" offset="00" relocatable="true" max_length="0">
+			<original>No. I did not see it in my cards.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>No. I did not see it in my cards.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_SOON_#003" offset="00" relocatable="true" max_length="0">
+			<original>Some things are obvious...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Some things are obvious...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_SOON_#004" offset="00" relocatable="true" max_length="0">
+			<original>when you know someone as well as I know you.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>when you know someone as well as I know you.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_WAKEUP_#001" offset="00" relocatable="true" max_length="0">
+			<original>Ah, I've drawn Le Destin, the card of fate.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Ah, I've drawn Le Destin, the card of fate.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_WAKEUP_#002" offset="00" relocatable="true" max_length="0">
+			<original>There can be no doubt...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>There can be no doubt...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_WAKEUP_#003" offset="00" relocatable="true" max_length="0">
+			<original>Destiny brought the two of us together.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Destiny brought the two of us together.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_WAKEUP_#004" offset="00" relocatable="true" max_length="0">
+			<original>The stars aligned...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>The stars aligned...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_WAKEUP_#005" offset="00" relocatable="true" max_length="0">
+			<original>the very moment I first saw you in the fortress.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>the very moment I first saw you in the fortress.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_WAKEUP_#006" offset="00" relocatable="true" max_length="0">
+			<original>And you, Divine One...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>And you, Divine One...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_WAKEUP_#007" offset="00" relocatable="true" max_length="0">
+			<original>You have woven our fates together ever since.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>You have woven our fates together ever since.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_WAKEUP_#008" offset="00" relocatable="true" max_length="0">
+			<original>I beg you, never let them come undone.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I beg you, never let them come undone.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_HELLO_#001" offset="00" relocatable="true" max_length="0">
+			<original>At last. I was starting to worry you wouldn't
+wake up.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>At last. I was starting to worry you wouldn't
+wake up.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_HELLO_#002" offset="00" relocatable="true" max_length="0">
+			<original>Please, be careful out there today, and
+every day.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Please, be careful out there today, and
+every day.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_HELLO_#003" offset="00" relocatable="true" max_length="0">
+			<original>I can't have you join the stars in the sky
+without me.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I can't have you join the stars in the sky
+without me.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_IN_#001" offset="00" relocatable="true" max_length="0">
+			<original>The Pact Ring... I had this feeling it was guiding
+me here.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>The Pact Ring... I had this feeling it was guiding
+me here.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_IN_#002" offset="00" relocatable="true" max_length="0">
+			<original>Perhaps I imagined it?&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Perhaps I imagined it?&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_SOON_#001" offset="00" relocatable="true" max_length="0">
+			<original>Or perhaps it was you.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Or perhaps it was you.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_SOON_#002" offset="00" relocatable="true" max_length="0">
+			<original>Did you want to see me?&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Did you want to see me?&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_SOON_#003" offset="00" relocatable="true" max_length="0">
+			<original>I hope so.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I hope so.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_SOON_#004" offset="00" relocatable="true" max_length="0">
+			<original>I hope you want to see me as much as I want
+to see you.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I hope you want to see me as much as I want
+to see you.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_WAKEUP_#001" offset="00" relocatable="true" max_length="0">
+			<original>This world is shrouded in many mysteries.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>This world is shrouded in many mysteries.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_WAKEUP_#002" offset="00" relocatable="true" max_length="0">
+			<original>Was it you who guided me here somehow?
+And if so, for what reason?&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Was it you who guided me here somehow?
+And if so, for what reason?&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_WAKEUP_#003" offset="00" relocatable="true" max_length="0">
+			<original>Perhaps it was so I'd dance for you once again.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Perhaps it was so I'd dance for you once again.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_WAKEUP_#004" offset="00" relocatable="true" max_length="0">
+			<original>I'll dance for you just like I did the day you gave
+me the ring.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I'll dance for you just like I did the day you gave
+me the ring.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_WAKEUP_#005" offset="00" relocatable="true" max_length="0">
+			<original>And it'll remind you that I am yours,
+now and always.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>And it'll remind you that I am yours,
+now and always.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_WAKEUP_#006" offset="00" relocatable="true" max_length="0">
+			<original>My heart, my dancing, my everything... Every bit
+of it is yours, Divine One.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>My heart, my dancing, my everything... Every bit
+of it is yours, Divine One.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_HELLO_#001" offset="00" relocatable="true" max_length="0">
+			<original>Ah...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Ah...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_HELLO_#002" offset="00" relocatable="true" max_length="0">
+			<original>Now that you're up, it's time for breakfast.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Now that you're up, it's time for breakfast.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_HELLO_#003" offset="00" relocatable="true" max_length="0">
+			<original>I know.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>I know.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_HELLO_#004" offset="00" relocatable="true" max_length="0">
+			<original>Let's fuel our day with savory dishes while we
+savor our time...&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>Let's fuel our day with savory dishes while we
+savor our time...&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_HELLO_#005" offset="00" relocatable="true" max_length="0">
+			<original>together.&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>together.&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

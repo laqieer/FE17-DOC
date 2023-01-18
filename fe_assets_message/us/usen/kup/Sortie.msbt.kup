@@ -1,0 +1,661 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_SORTIE_START" offset="00" relocatable="true" max_length="0">
+			<original>Fight!</original>
+			<edited>Fight!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_START_HELP" offset="00" relocatable="true" max_length="0">
+			<original>End preparations and start battle.</original>
+			<edited>End preparations and start battle.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_START_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>Ready?</original>
+			<edited>Ready?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_START_CONFIRM_YES" offset="00" relocatable="true" max_length="0">
+			<original>Start</original>
+			<edited>Start</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_BACK" offset="00" relocatable="true" max_length="0">
+			<original>Back</original>
+			<edited>Back</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SELECT_UNIT" offset="00" relocatable="true" max_length="0">
+			<original>Unit Selection</original>
+			<edited>Unit Selection</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SELECT_UNIT_SELECT" offset="00" relocatable="true" max_length="0">
+			<original>Select a unit.</original>
+			<edited>Select a unit.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SELECT_UNIT_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Choose which allies will fight.</original>
+			<edited>Choose which allies will fight.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_EQUIP_GOD" offset="00" relocatable="true" max_length="0">
+			<original>Emblem Rings</original>
+			<edited>Emblem Rings</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_EQUIP_GOD_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Assign Emblem Rings&#xE;&#x1;	&#x0; to units.</original>
+			<edited>Assign Emblem Rings&#xE;&#x1;	&#x0; to units.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_INVENTORY" offset="00" relocatable="true" max_length="0">
+			<original>Inventory</original>
+			<edited>Inventory</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_INVENTORY_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Manage equipment and skills.</original>
+			<edited>Manage equipment and skills.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CHANGE_POSITION" offset="00" relocatable="true" max_length="0">
+			<original>Swap Spaces</original>
+			<edited>Swap Spaces</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CHANGE_POSITION_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Position units on the map.</original>
+			<edited>Position units on the map.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SHOP" offset="00" relocatable="true" max_length="0">
+			<original>Marketplace</original>
+			<edited>Marketplace</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SHOP_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Buy weapons and items.</original>
+			<edited>Buy weapons and items.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_WEAPON_SHOP" offset="00" relocatable="true" max_length="0">
+			<original>Armory</original>
+			<edited>Armory</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_H_WEAPON_SHOP" offset="00" relocatable="true" max_length="0">
+			<original>Buy weapons.</original>
+			<edited>Buy weapons.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ITEM_SHOP" offset="00" relocatable="true" max_length="0">
+			<original>Item Shop</original>
+			<edited>Item Shop</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_H_ITEM_SHOP" offset="00" relocatable="true" max_length="0">
+			<original>Buy items.</original>
+			<edited>Buy items.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_RELIANCE" offset="00" relocatable="true" max_length="0">
+			<original>Support</original>
+			<edited>Support</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_RELIANCE_UNIT_SELECT" offset="00" relocatable="true" max_length="0">
+			<original>Select an ally.</original>
+			<edited>Select an ally.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_RELIANCE_NONE" offset="00" relocatable="true" max_length="0">
+			<original>No supports.</original>
+			<edited>No supports.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_BONDS_RELIANCE" offset="00" relocatable="true" max_length="0">
+			<original>Bonds</original>
+			<edited>Bonds</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_BONDS_RELIANCE_NONE" offset="00" relocatable="true" max_length="0">
+			<original>No Emblems.</original>
+			<edited>No Emblems.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_RELIANCE_ATTENTION" offset="00" relocatable="true" max_length="0">
+			<original>You can have bond and support conversations
+at the Somniel and on the world map.</original>
+			<edited>You can have bond and support conversations
+at the Somniel and on the world map.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SAVE" offset="00" relocatable="true" max_length="0">
+			<original>Save</original>
+			<edited>Save</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SAVE_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Save current progress.</original>
+			<edited>Save current progress.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_BACK_CONFIRM_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Return to the world map.</original>
+			<edited>Return to the world map.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_BACK_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>Return to the world map?</original>
+			<edited>Return to the world map?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_BACK_CONFIRM_HELP_M026" offset="00" relocatable="true" max_length="0">
+			<original>Return to the Somniel</original>
+			<edited>Return to the Somniel</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_BACK_CONFIRM_M026" offset="00" relocatable="true" max_length="0">
+			<original>Return to the Somniel?</original>
+			<edited>Return to the Somniel?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CONTINUEBATTLE_NOSELECT" offset="00" relocatable="true" max_length="0">
+			<original>Cannot select during an
+ongoing series of battles.</original>
+			<edited>Cannot select during an
+ongoing series of battles.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_COMMON_TRADE" offset="00" relocatable="true" max_length="0">
+			<original>Swap</original>
+			<edited>Swap</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>Manage Items</original>
+			<edited>Manage Items</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_ITEM_LIST" offset="00" relocatable="true" max_length="0">
+			<original>Items</original>
+			<edited>Items</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_TRADE" offset="00" relocatable="true" max_length="0">
+			<original>Trade</original>
+			<edited>Trade</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_ENTRUST" offset="00" relocatable="true" max_length="0">
+			<original>Optimize Equipment</original>
+			<edited>Optimize Equipment</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_ENTRUST_WARNING1" offset="00" relocatable="true" max_length="0">
+			<original>There were not enough items in the
+convoy to properly equip this unit.</original>
+			<edited>There were not enough items in the
+convoy to properly equip this unit.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_ENTRUST_WARNING2" offset="00" relocatable="true" max_length="0">
+			<original>Equipment could not be optimized
+because there is not enough room
+in the convoy.</original>
+			<edited>Equipment could not be optimized
+because there is not enough room
+in the convoy.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_STORE" offset="00" relocatable="true" max_length="0">
+			<original>Store</original>
+			<edited>Store</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_STORE_ALL" offset="00" relocatable="true" max_length="0">
+			<original>Store All</original>
+			<edited>Store All</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_STORE_ALL_WARNING" offset="00" relocatable="true" max_length="0">
+			<original>Either the convoy is full or there
+were items that couldn't be stored.</original>
+			<edited>Either the convoy is full or there
+were items that couldn't be stored.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_SKILL_OPEN" offset="00" relocatable="true" max_length="0">
+			<original>You can now manage your skills.</original>
+			<edited>You can now manage your skills.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_SKILL" offset="00" relocatable="true" max_length="0">
+			<original>Manage Skills</original>
+			<edited>Manage Skills</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_CLASSCHANGE" offset="00" relocatable="true" max_length="0">
+			<original>Change Class</original>
+			<edited>Change Class</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_ENTRUST" offset="00" relocatable="true" max_length="0">
+			<original>Optimize All</original>
+			<edited>Optimize All</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_ENTRUST_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>Optimize your fighting units'
+equipment? (Items held by other
+units will be sent to the convoy.)</original>
+			<edited>Optimize your fighting units'
+equipment? (Items held by other
+units will be sent to the convoy.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_ENTRUST_ERROR" offset="00" relocatable="true" max_length="0">
+			<original>You can use Optimize All after you've selected
+your fighting units during battle preparations.</original>
+			<edited>You can use Optimize All after you've selected
+your fighting units during battle preparations.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_ENTRUST_Yes" offset="00" relocatable="true" max_length="0">
+			<original>Optimize</original>
+			<edited>Optimize</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_ENTRUST_WARNING1" offset="00" relocatable="true" max_length="0">
+			<original>There were not enough items in
+the convoy to properly equip all
+fighting units.</original>
+			<edited>There were not enough items in
+the convoy to properly equip all
+fighting units.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_ENTRUST_WARNING2" offset="00" relocatable="true" max_length="0">
+			<original>Equipment could not be optimized
+because the convoy is full.</original>
+			<edited>Equipment could not be optimized
+because the convoy is full.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_STORE_ALL" offset="00" relocatable="true" max_length="0">
+			<original>Store All</original>
+			<edited>Store All</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_STORE_ALL_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>Store all items with the convoy?</original>
+			<edited>Store all items with the convoy?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_STORE_ALL_WARNING" offset="00" relocatable="true" max_length="0">
+			<original>Not all of this unit's items could be
+stored because the convoy is full.</original>
+			<edited>Not all of this unit's items could be
+stored because the convoy is full.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_ENTRUST_GOD" offset="00" relocatable="true" max_length="0">
+			<original>Optimize All</original>
+			<edited>Optimize All</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_ENTRUST_GOD_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>Optimize your fighting units' rings&#xE;&#x1;&#xB;&#x0;?</original>
+			<edited>Optimize your fighting units' rings&#xE;&#x1;&#xB;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_ENTRUST_GOD_Yes" offset="00" relocatable="true" max_length="0">
+			<original>Optimize</original>
+			<edited>Optimize</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_ENTRUST_GOD_No" offset="00" relocatable="true" max_length="0">
+			<original>Cancel</original>
+			<edited>Cancel</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_STORE_ALL_GOD" offset="00" relocatable="true" max_length="0">
+			<original>Remove All</original>
+			<edited>Remove All</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_STORE_ALL_GOD_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>Remove all units' rings&#xE;&#x1;&#xB;&#x0;?</original>
+			<edited>Remove all units' rings&#xE;&#x1;&#xB;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_STORE_ALL_GOD_Yes" offset="00" relocatable="true" max_length="0">
+			<original>Remove</original>
+			<edited>Remove</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_STORE_ALL_GOD_No" offset="00" relocatable="true" max_length="0">
+			<original>Cancel</original>
+			<edited>Cancel</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_NONE" offset="00" relocatable="true" max_length="0">
+			<original>No units available.</original>
+			<edited>No units available.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TROOPLIST_PAGETITLE_BASIC" offset="00" relocatable="true" max_length="0">
+			<original>Status</original>
+			<edited>Status</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TROOPLIST_PAGETITLE_STATUS" offset="00" relocatable="true" max_length="0">
+			<original>Basic Stats</original>
+			<edited>Basic Stats</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TROOPLIST_PAGETITLE_BATTLE" offset="00" relocatable="true" max_length="0">
+			<original>Combat Stats</original>
+			<edited>Combat Stats</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_INVENTORY_STORE" offset="00" relocatable="true" max_length="0">
+			<original>Store</original>
+			<edited>Store</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_INVENTORY_RECEIVE" offset="00" relocatable="true" max_length="0">
+			<original>Take</original>
+			<edited>Take</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_INVENTORY_EQUIP" offset="00" relocatable="true" max_length="0">
+			<original>Equip</original>
+			<edited>Equip</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_INVENTORY_REMOVE" offset="00" relocatable="true" max_length="0">
+			<original>Unequip</original>
+			<edited>Unequip</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_INVENTORY_ARRANGE" offset="00" relocatable="true" max_length="0">
+			<original>Arrange</original>
+			<edited>Arrange</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_INVENTORY_USE" offset="00" relocatable="true" max_length="0">
+			<original>Use</original>
+			<edited>Use</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_INVENTORY_DISCARD" offset="00" relocatable="true" max_length="0">
+			<original>Discard</original>
+			<edited>Discard</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_INVENTORY_EMPTY" offset="00" relocatable="true" max_length="0">
+			<original>(No items)</original>
+			<edited>(No items)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SKILL_CATEGORY_PERSON" offset="00" relocatable="true" max_length="0">
+			<original>Personal</original>
+			<edited>Personal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SKILL_CATEGORY_JOB" offset="00" relocatable="true" max_length="0">
+			<original>Class</original>
+			<edited>Class</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SKILL_CATEGORY_INHERITANCE" offset="00" relocatable="true" max_length="0">
+			<original>Inherited</original>
+			<edited>Inherited</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SKILL_CATEGORY_GOD" offset="00" relocatable="true" max_length="0">
+			<original>Sync</original>
+			<edited>Sync</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SKILL_CATEGORY_ENGAGE" offset="00" relocatable="true" max_length="0">
+			<original>Engage</original>
+			<edited>Engage</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SKILL_CATEGORY_BONDS" offset="00" relocatable="true" max_length="0">
+			<original>Bond</original>
+			<edited>Bond</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SKILL_CATEGORY_EQUIPED" offset="00" relocatable="true" max_length="0">
+			<original>Equipped</original>
+			<edited>Equipped</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SKILL_OVERLAPPING" offset="00" relocatable="true" max_length="0">
+			<original>Overlap</original>
+			<edited>Overlap</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SKILL_SUPPLEMENT_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Overlaps with current skills.</original>
+			<edited>Overlaps with current skills.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SKILL_POOL_NONE" offset="00" relocatable="true" max_length="0">
+			<original>(None)</original>
+			<edited>(None)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SKILL_POOL_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Inherited Skills</original>
+			<edited>Inherited Skills</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_NEED_LV" offset="00" relocatable="true" max_length="0">
+			<original>Req. Lvl</original>
+			<edited>Req. Lvl</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_NEED_APTITUDE" offset="00" relocatable="true" max_length="0">
+			<original>Req. Prof.</original>
+			<edited>Req. Prof.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_HAVE_APTITUDE" offset="00" relocatable="true" max_length="0">
+			<original>Proficiencies</original>
+			<edited>Proficiencies</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_NEED_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>Item Cost</original>
+			<edited>Item Cost</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_SKILL_LEVEL" offset="00" relocatable="true" max_length="0">
+			<original>Learned at Lvl &#xE;&#x1;&#x0;&#x0;</original>
+			<edited>Learned at Lvl &#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_NONE" offset="00" relocatable="true" max_length="0">
+			<original>Cannot currently change class.</original>
+			<edited>Cannot currently change class.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_CONFIRM_DIALOG" offset="00" relocatable="true" max_length="0">
+			<original>Change to the &#xE;&#x1;&#x0;&#x0; class?</original>
+			<edited>Change to the &#xE;&#x1;&#x0;&#x0; class?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_CONFIRM_DIALOG_YES" offset="00" relocatable="true" max_length="0">
+			<original>Change Class</original>
+			<edited>Change Class</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_NEED_JOB" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; Lvl &#xE;&#x1;&#x1;&#x0;</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; Lvl &#xE;&#x1;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_BASIC_ARMOR" offset="00" relocatable="true" max_length="0">
+			<original>Sword/Lance/Axe Armor</original>
+			<edited>Sword/Lance/Axe Armor</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_BASIC_KNIGHT" offset="00" relocatable="true" max_length="0">
+			<original>Sword/Lance/Axe Cavalier</original>
+			<edited>Sword/Lance/Axe Cavalier</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_BASIC_PEGASUS" offset="00" relocatable="true" max_length="0">
+			<original>Sword/Lance/Axe Flier</original>
+			<edited>Sword/Lance/Axe Flier</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_TITLE_GOD" offset="00" relocatable="true" max_length="0">
+			<original>Emblem Rings&#xE;&#x1;	&#x0;</original>
+			<edited>Emblem Rings&#xE;&#x1;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_REMOVE" offset="00" relocatable="true" max_length="0">
+			<original>Remove &#xE;&#x1;&#x0;&#x0;?</original>
+			<edited>Remove &#xE;&#x1;&#x0;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>Remove &#xE;&#x1;&#x0;&#x0;
+and equip &#xE;&#x1;&#x1;&#x0;?</original>
+			<edited>Remove &#xE;&#x1;&#x0;&#x0;
+and equip &#xE;&#x1;&#x1;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_CHANGE_REMOVE" offset="00" relocatable="true" max_length="0">
+			<original>Remove &#xE;&#x1;&#x0;&#x0; and equip &#xE;&#x1;&#x1;&#x0;? &#xE;&#x1;&#x2;&#x0; is currently using it.</original>
+			<edited>Remove &#xE;&#x1;&#x0;&#x0; and equip &#xE;&#x1;&#x1;&#x0;? &#xE;&#x1;&#x2;&#x0; is currently using it.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_SET" offset="00" relocatable="true" max_length="0">
+			<original>Equip &#xE;&#x1;&#x0;&#x0;?</original>
+			<edited>Equip &#xE;&#x1;&#x0;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_SET_REMOVE" offset="00" relocatable="true" max_length="0">
+			<original>Equip &#xE;&#x1;&#x0;&#x0;? 
+&#xE;&#x1;&#x1;&#x0; is currently using it.</original>
+			<edited>Equip &#xE;&#x1;&#x0;&#x0;? 
+&#xE;&#x1;&#x1;&#x0; is currently using it.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_REMOVE_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>Remove</original>
+			<edited>Remove</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_SET_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>Equip</original>
+			<edited>Equip</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_GOD_CHANGE_YES" offset="00" relocatable="true" max_length="0">
+			<original>Change</original>
+			<edited>Change</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_GOD_EMPTY" offset="00" relocatable="true" max_length="0">
+			<original>No Emblem Rings&#xE;&#x1;	&#x0;.</original>
+			<edited>No Emblem Rings&#xE;&#x1;	&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_COMMON_EMPTY" offset="00" relocatable="true" max_length="0">
+			<original>No Bond Rings.</original>
+			<edited>No Bond Rings.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_LUEUR_NOTES" offset="00" relocatable="true" max_length="0">
+			<original>Emblem &#xE;&#x6;&#x3;&#x0;
+can engage by using
+Engage+ during battle.</original>
+			<edited>Emblem &#xE;&#x6;&#x3;&#x0;
+can engage by using
+Engage+ during battle.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLE_UNIT_SELECT" offset="00" relocatable="true" max_length="0">
+			<original>Unit Selection</original>
+			<edited>Unit Selection</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLE_UNIT_SELECT_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>Inventory</original>
+			<edited>Inventory</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLE_RING_SELECT" offset="00" relocatable="true" max_length="0">
+			<original>Emblem Rings</original>
+			<edited>Emblem Rings</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLE_INVENTORY" offset="00" relocatable="true" max_length="0">
+			<original>Manage Items</original>
+			<edited>Manage Items</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLE_TRADE" offset="00" relocatable="true" max_length="0">
+			<original>Trade</original>
+			<edited>Trade</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLE_SKILL" offset="00" relocatable="true" max_length="0">
+			<original>Manage Skills</original>
+			<edited>Manage Skills</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLE_CLASSCHANGE" offset="00" relocatable="true" max_length="0">
+			<original>Change Class</original>
+			<edited>Change Class</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLEHELP_UNIT_SELECT" offset="00" relocatable="true" max_length="0">
+			<original>Select which allies will fight.</original>
+			<edited>Select which allies will fight.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLEHELP_UNIT_SELECT_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>Select units.</original>
+			<edited>Select units.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLEHELP_RING_SELECT" offset="00" relocatable="true" max_length="0">
+			<original>Select Emblem Rings&#xE;&#x1;	&#x0;.</original>
+			<edited>Select Emblem Rings&#xE;&#x1;	&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLEHELP_INVENTORY" offset="00" relocatable="true" max_length="0">
+			<original>Select items.</original>
+			<edited>Select items.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLEHELP_TRADE" offset="00" relocatable="true" max_length="0">
+			<original>Select items to trade.</original>
+			<edited>Select items to trade.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLEHELP_SKILL" offset="00" relocatable="true" max_length="0">
+			<original>Select skills to equip.</original>
+			<edited>Select skills to equip.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLEHELP_CLASSCHANGE" offset="00" relocatable="true" max_length="0">
+			<original>Select a class.</original>
+			<edited>Select a class.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_MAP_HIS_PhaseBegin_Player" offset="00" relocatable="true" max_length="0">
+			<original>PLAYER PHASE 開始</original>
+			<edited>PLAYER PHASE 開始</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_PhaseBegin_Enemy" offset="00" relocatable="true" max_length="0">
+			<original>ENEMY PHASE 開始</original>
+			<edited>ENEMY PHASE 開始</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_PhaseBegin_Ally" offset="00" relocatable="true" max_length="0">
+			<original>ALLY PHASE 開始</original>
+			<edited>ALLY PHASE 開始</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_Fixed" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;が待機した</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;が待機した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_Talk" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;が会話した</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;が会話した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_Attack" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;が攻撃した</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;が攻撃した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_Rod" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;が杖を使った</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;が杖を使った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_EngageCharge" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;が覇克・天空を使った</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;が覇克・天空を使った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_Destroy" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;が破壊を行った</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;が破壊を行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_ItemUse" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;が持ち物を使った</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;が持ち物を使った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_Trade" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;が持ち物を交換した</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;が持ち物を交換した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_PutOff" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;が持ち物を捨てた</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;が持ち物を捨てた</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_Visit" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;が訪問した</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;が訪問した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_Breakdown" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;が制圧した</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;が制圧した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_Escape" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;が離脱した</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;が離脱した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_Door" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;が扉を開けた</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;が扉を開けた</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_Torch_Off" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;が明かりを消した</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;が明かりを消した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_Torch_On" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;が明かりを点けた</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;が明かりを点けた</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_TreasureBox" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;が宝箱を開けた</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;が宝箱を開けた</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_Transporter" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;が輸送隊を使った</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;が輸送隊を使った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_Dance" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;が踊った</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;が踊った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_Guard" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;がチェインガードを使った</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;がチェインガードを使った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_LucinaEngage" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;が絆盾を使った</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;が絆盾を使った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_OverlapSkill" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;が竜脈を使った</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;が竜脈を使った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_CommandSkill" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;が&#xE;&#x1;&#x1;&#x0;を使った</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;が&#xE;&#x1;&#x1;&#x0;を使った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_VisionCreate" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;が残像を作った</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;が残像を作った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_VisionDelete" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;が残像を消した</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;が残像を消した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_DestroyVillage" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;が民家を破壊した</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;が民家を破壊した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_EngageBreak" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;がエンゲージブレイクした</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;がエンゲージブレイクした</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_EngageAttack" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;が&#xE;&#x1;&#x1;&#x0;を使った</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;が&#xE;&#x1;&#x1;&#x0;を使った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_PickUp" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;が行動した</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;が行動した</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

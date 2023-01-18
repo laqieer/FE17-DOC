@@ -1,0 +1,2336 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MPID_Unknown" offset="00" relocatable="true" max_length="0">
+			<original>???</original>
+			<edited>???</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Unknown" offset="00" relocatable="true" max_length="0">
+			<original>An unknown person or entity.</original>
+			<edited>An unknown person or entity.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Hide" offset="00" relocatable="true" max_length="0">
+			<original>???</original>
+			<edited>???</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Hide" offset="00" relocatable="true" max_length="0">
+			<original>An unidentified enemy. An evil aura
+radiates from this person.</original>
+			<edited>An unidentified enemy. An evil aura
+radiates from this person.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Morph_Prefix" offset="00" relocatable="true" max_length="0">
+			<original>Crpt. &#xE;&#x1;&#x0;&#x0;</original>
+			<edited>Crpt. &#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_God_Prefix" offset="00" relocatable="true" max_length="0">
+			<original>Emblem &#xE;&#x1;&#x0;&#x0;</original>
+			<edited>Emblem &#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_PastLueur" offset="00" relocatable="true" max_length="0">
+			<original>Past &#xE;&#x6;&#x3;&#x0;</original>
+			<edited>Past &#xE;&#x6;&#x3;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Lueur" offset="00" relocatable="true" max_length="0">
+			<original>Alear</original>
+			<edited>Alear</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Lueur_M000" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x3;&#x0;</original>
+			<edited>&#xE;&#x6;&#x3;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Lueur" offset="00" relocatable="true" max_length="0">
+			<original>Successor to the Divine Dragon,
+awoken from a long sleep. Summons
+Emblems to lead the world to peace.</original>
+			<edited>Successor to the Divine Dragon,
+awoken from a long sleep. Summons
+Emblems to lead the world to peace.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Lueur_M000" offset="00" relocatable="true" max_length="0">
+			<original>A warrior fighting beside Emblems,
+on a journey of awakening.</original>
+			<edited>A warrior fighting beside Emblems,
+on a journey of awakening.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Lueur_1" offset="00" relocatable="true" max_length="0">
+			<original>Veyle's Corrupted resurrection of the
+Divine Dragon. Summons Emblems
+by the power of the Fell Dragon.</original>
+			<edited>Veyle's Corrupted resurrection of the
+Divine Dragon. Summons Emblems
+by the power of the Fell Dragon.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Lueur_2" offset="00" relocatable="true" max_length="0">
+			<original>The Divine Dragon, resurrected as
+the Fire Emblem. Has powers of an
+Emblem and the Divine Dragon.</original>
+			<edited>The Divine Dragon, resurrected as
+the Fire Emblem. Has powers of an
+Emblem and the Divine Dragon.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_PastLueur" offset="00" relocatable="true" max_length="0">
+			<original>The &#xE;&#x6;&#x3;&#x0; of 1,000 years
+past. Has no free will and obeys
+the Fell Dragon's commands.</original>
+			<edited>The &#xE;&#x6;&#x3;&#x0; of 1,000 years
+past. Has no free will and obeys
+the Fell Dragon's commands.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Vandre" offset="00" relocatable="true" max_length="0">
+			<original>Vander</original>
+			<edited>Vander</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Vandre" offset="00" relocatable="true" max_length="0">
+			<original>A Steward of the Dragon, long in the
+service of the Divine Dragon. He is a
+straight-laced, rigid gentleman.</original>
+			<edited>A Steward of the Dragon, long in the
+service of the Divine Dragon. He is a
+straight-laced, rigid gentleman.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Lumiere" offset="00" relocatable="true" max_length="0">
+			<original>Lumera</original>
+			<edited>Lumera</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Lumiere" offset="00" relocatable="true" max_length="0">
+			<original>The Divine Dragon and ruler of the
+holy land of Lythos. Vanquished the
+Fell Dragon 1,000 years ago.</original>
+			<edited>The Divine Dragon and ruler of the
+holy land of Lythos. Vanquished the
+Fell Dragon 1,000 years ago.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_MorphLumiere" offset="00" relocatable="true" max_length="0">
+			<original>Corrupted Lumera</original>
+			<edited>Corrupted Lumera</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_MorphLumiere" offset="00" relocatable="true" max_length="0">
+			<original>An elaborate Corruption of the dead
+Lumera, created by Sombron.</original>
+			<edited>An elaborate Corruption of the dead
+Lumera, created by Sombron.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Clan" offset="00" relocatable="true" max_length="0">
+			<original>Clanne</original>
+			<edited>Clanne</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Clan" offset="00" relocatable="true" max_length="0">
+			<original>An apprentice Steward of the Dragon
+and the gentle twin brother of
+Framme.</original>
+			<edited>An apprentice Steward of the Dragon
+and the gentle twin brother of
+Framme.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Fram" offset="00" relocatable="true" max_length="0">
+			<original>Framme</original>
+			<edited>Framme</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Fram" offset="00" relocatable="true" max_length="0">
+			<original>An apprentice Steward of the Dragon
+and the determined, buoyant twin
+sister of Clanne.</original>
+			<edited>An apprentice Steward of the Dragon
+and the determined, buoyant twin
+sister of Clanne.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Alfred" offset="00" relocatable="true" max_length="0">
+			<original>Alfred</original>
+			<edited>Alfred</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Alfred" offset="00" relocatable="true" max_length="0">
+			<original>The staunch and loyal crown prince
+of Firene. He trains constantly to
+strengthen his constitution.</original>
+			<edited>The staunch and loyal crown prince
+of Firene. He trains constantly to
+strengthen his constitution.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Etie" offset="00" relocatable="true" max_length="0">
+			<original>Etie</original>
+			<edited>Etie</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Etie" offset="00" relocatable="true" max_length="0">
+			<original>Prince Alfred's retainer. A haughty
+woman with a love for building
+muscle.</original>
+			<edited>Prince Alfred's retainer. A haughty
+woman with a love for building
+muscle.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Boucheron" offset="00" relocatable="true" max_length="0">
+			<original>Boucheron</original>
+			<edited>Boucheron</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Boucheron" offset="00" relocatable="true" max_length="0">
+			<original>Prince Alfred's retainer. A tender-
+hearted man whose powerful build
+comes naturally.</original>
+			<edited>Prince Alfred's retainer. A tender-
+hearted man whose powerful build
+comes naturally.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Celine" offset="00" relocatable="true" max_length="0">
+			<original>Céline</original>
+			<edited>Céline</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Celine" offset="00" relocatable="true" max_length="0">
+			<original>The princess of Firene. Despite her
+gentle demeanor, she has an iron will
+when her people must be protected.</original>
+			<edited>The princess of Firene. Despite her
+gentle demeanor, she has an iron will
+when her people must be protected.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Chloe" offset="00" relocatable="true" max_length="0">
+			<original>Chloé</original>
+			<edited>Chloé</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Chloe" offset="00" relocatable="true" max_length="0">
+			<original>Princess Céline's retainer. A woman 
+of noble birth who loves fairy tales
+and sampling folk food.</original>
+			<edited>Princess Céline's retainer. A woman 
+of noble birth who loves fairy tales
+and sampling folk food.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Louis" offset="00" relocatable="true" max_length="0">
+			<original>Louis</original>
+			<edited>Louis</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Louis" offset="00" relocatable="true" max_length="0">
+			<original>Princess Céline's retainer. A smiling,
+refined gentleman who loves tea.</original>
+			<edited>Princess Céline's retainer. A smiling,
+refined gentleman who loves tea.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Yunaka" offset="00" relocatable="true" max_length="0">
+			<original>Yunaka</original>
+			<edited>Yunaka</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Yunaka" offset="00" relocatable="true" max_length="0">
+			<original>A thief encountered in a mountain
+settlement. She keeps a tight lid on
+the details of her past.</original>
+			<edited>A thief encountered in a mountain
+settlement. She keeps a tight lid on
+the details of her past.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Staluke" offset="00" relocatable="true" max_length="0">
+			<original>Alcryst</original>
+			<edited>Alcryst</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Staluke" offset="00" relocatable="true" max_length="0">
+			<original>The self-torturing, wildly imaginative
+prince of Brodia. Has hidden talents
+even he isn't aware of.</original>
+			<edited>The self-torturing, wildly imaginative
+prince of Brodia. Has hidden talents
+even he isn't aware of.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Citrinica" offset="00" relocatable="true" max_length="0">
+			<original>Citrinne</original>
+			<edited>Citrinne</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Citrinica" offset="00" relocatable="true" max_length="0">
+			<original>Prince Alcryst's retainer. Despite her
+fierce demeanor, she's a noble who
+cares deeply for her friends.</original>
+			<edited>Prince Alcryst's retainer. Despite her
+fierce demeanor, she's a noble who
+cares deeply for her friends.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Lapis" offset="00" relocatable="true" max_length="0">
+			<original>Lapis</original>
+			<edited>Lapis</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Lapis" offset="00" relocatable="true" max_length="0">
+			<original>Prince Alcryst's retainer. Her quiet
+modesty belies her superhuman
+strength.</original>
+			<edited>Prince Alcryst's retainer. Her quiet
+modesty belies her superhuman
+strength.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Diamand" offset="00" relocatable="true" max_length="0">
+			<original>Diamant</original>
+			<edited>Diamant</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Diamand" offset="00" relocatable="true" max_length="0">
+			<original>The majestic crown prince of Brodia.
+His people trust him greatly for his
+strong, genuine demeanor.</original>
+			<edited>The majestic crown prince of Brodia.
+His people trust him greatly for his
+strong, genuine demeanor.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Umber" offset="00" relocatable="true" max_length="0">
+			<original>Amber</original>
+			<edited>Amber</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Umber" offset="00" relocatable="true" max_length="0">
+			<original>Prince Diamant's retainer. Has a
+boundless enthusiasm for legends
+and adventure.</original>
+			<edited>Prince Diamant's retainer. Has a
+boundless enthusiasm for legends
+and adventure.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Jade" offset="00" relocatable="true" max_length="0">
+			<original>Jade</original>
+			<edited>Jade</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Jade" offset="00" relocatable="true" max_length="0">
+			<original>Prince Diamant's retainer. A warrior
+of few words who always keeps her
+wits about her.</original>
+			<edited>Prince Diamant's retainer. A warrior
+of few words who always keeps her
+wits about her.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Ivy" offset="00" relocatable="true" max_length="0">
+			<original>Ivy</original>
+			<edited>Ivy</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Ivy" offset="00" relocatable="true" max_length="0">
+			<original>The mysterious, melancholy crown
+princess of Elusia. She never relaxes
+her icy royal decorum.</original>
+			<edited>The mysterious, melancholy crown
+princess of Elusia. She never relaxes
+her icy royal decorum.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Kagetsu" offset="00" relocatable="true" max_length="0">
+			<original>Kagetsu</original>
+			<edited>Kagetsu</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Kagetsu" offset="00" relocatable="true" max_length="0">
+			<original>Princess Ivy's retainer. A handsome
+young man from outside Elusia who
+speaks freely and without inhibition.</original>
+			<edited>Princess Ivy's retainer. A handsome
+young man from outside Elusia who
+speaks freely and without inhibition.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Zelkova" offset="00" relocatable="true" max_length="0">
+			<original>Zelkov</original>
+			<edited>Zelkov</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Zelkova" offset="00" relocatable="true" max_length="0">
+			<original>Princess Ivy's retainer. An enigmatic
+man who's always absorbed in
+intrigues of his own making.</original>
+			<edited>Princess Ivy's retainer. An enigmatic
+man who's always absorbed in
+intrigues of his own making.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Fogato" offset="00" relocatable="true" max_length="0">
+			<original>Fogado</original>
+			<edited>Fogado</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Fogato" offset="00" relocatable="true" max_length="0">
+			<original>A freewheeling, optimistic young
+Sentinel. He's easygoing, but there's
+something mysterious about him.</original>
+			<edited>A freewheeling, optimistic young
+Sentinel. He's easygoing, but there's
+something mysterious about him.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Fogato_1" offset="00" relocatable="true" max_length="0">
+			<original>The freewheeling, optimistic prince
+of Solm. More easygoing than one
+might expect of royalty.</original>
+			<edited>The freewheeling, optimistic prince
+of Solm. More easygoing than one
+might expect of royalty.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Pandoro" offset="00" relocatable="true" max_length="0">
+			<original>Pandreo</original>
+			<edited>Pandreo</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Pandoro" offset="00" relocatable="true" max_length="0">
+			<original>A member of the Sentinels. Though
+deeply religious, he loves to party
+more than just about anyone.</original>
+			<edited>A member of the Sentinels. Though
+deeply religious, he loves to party
+more than just about anyone.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Pandoro_1" offset="00" relocatable="true" max_length="0">
+			<original>Prince Fogado's retainer. A fun-
+loving yet deeply religious cleric.</original>
+			<edited>Prince Fogado's retainer. A fun-
+loving yet deeply religious cleric.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Bonet" offset="00" relocatable="true" max_length="0">
+			<original>Bunet</original>
+			<edited>Bunet</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Bonet" offset="00" relocatable="true" max_length="0">
+			<original>A member of the Sentinels, and a
+chef with incredibly refined senses
+of taste and smell.</original>
+			<edited>A member of the Sentinels, and a
+chef with incredibly refined senses
+of taste and smell.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Bonet_1" offset="00" relocatable="true" max_length="0">
+			<original>Prince Fogado's retainer. A young
+chef with a refined palate and keen
+sense of smell.</original>
+			<edited>Prince Fogado's retainer. A young
+chef with a refined palate and keen
+sense of smell.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Misutira" offset="00" relocatable="true" max_length="0">
+			<original>Timerra</original>
+			<edited>Timerra</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Misutira" offset="00" relocatable="true" max_length="0">
+			<original>The bubbly and outgoing crown
+princess of Solm. Known for being
+accessible and approachable by all.</original>
+			<edited>The bubbly and outgoing crown
+princess of Solm. Known for being
+accessible and approachable by all.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Panetone" offset="00" relocatable="true" max_length="0">
+			<original>Panette</original>
+			<edited>Panette</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Panetone" offset="00" relocatable="true" max_length="0">
+			<original>Princess Timerra's retainer. She has
+a tendency to speak in erratic and
+somewhat stilted tones.</original>
+			<edited>Princess Timerra's retainer. She has
+a tendency to speak in erratic and
+somewhat stilted tones.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Merin" offset="00" relocatable="true" max_length="0">
+			<original>Merrin</original>
+			<edited>Merrin</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Merin" offset="00" relocatable="true" max_length="0">
+			<original>Princess Timerra's retainer. She's a
+dashing woman with a fondness
+for animals.</original>
+			<edited>Princess Timerra's retainer. She's a
+dashing woman with a fondness
+for animals.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Hortensia" offset="00" relocatable="true" max_length="0">
+			<original>Hortensia</original>
+			<edited>Hortensia</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Hortensia" offset="00" relocatable="true" max_length="0">
+			<original>A mischievous, spoiled princess of
+Elusia. She is nonetheless devoted to
+her family and friends.</original>
+			<edited>A mischievous, spoiled princess of
+Elusia. She is nonetheless devoted to
+her family and friends.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_MindHortensia" offset="00" relocatable="true" max_length="0">
+			<original>Hortensia under Zephia's control.
+Her consciousness is submerged and
+she is unaware of what is said to her.</original>
+			<edited>Hortensia under Zephia's control.
+Her consciousness is submerged and
+she is unaware of what is said to her.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Seadas" offset="00" relocatable="true" max_length="0">
+			<original>Seadall</original>
+			<edited>Seadall</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Seadas" offset="00" relocatable="true" max_length="0">
+			<original>A famous dancer of Solm. He is also
+a skilled fortune-teller and cultivates
+an aura of mystery.</original>
+			<edited>A famous dancer of Solm. He is also
+a skilled fortune-teller and cultivates
+an aura of mystery.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Rosado" offset="00" relocatable="true" max_length="0">
+			<original>Rosado</original>
+			<edited>Rosado</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Rosado" offset="00" relocatable="true" max_length="0">
+			<original>Princess Hortensia's retainer.
+He loves cute things and always
+maintains a bright, positive attitude.</original>
+			<edited>Princess Hortensia's retainer.
+He loves cute things and always
+maintains a bright, positive attitude.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Goldmary" offset="00" relocatable="true" max_length="0">
+			<original>Goldmary</original>
+			<edited>Goldmary</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Goldmary" offset="00" relocatable="true" max_length="0">
+			<original>Princess Hortensia's retainer. She
+seems demure on the surface, but
+is conceited to the core.</original>
+			<edited>Princess Hortensia's retainer. She
+seems demure on the surface, but
+is conceited to the core.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Linden" offset="00" relocatable="true" max_length="0">
+			<original>Lindon</original>
+			<edited>Lindon</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Linden" offset="00" relocatable="true" max_length="0">
+			<original>A scholar from Elusia. Has a great
+hunger for knowledge, which he
+feeds with studies and experiments.</original>
+			<edited>A scholar from Elusia. Has a great
+hunger for knowledge, which he
+feeds with studies and experiments.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Saphir" offset="00" relocatable="true" max_length="0">
+			<original>Saphir</original>
+			<edited>Saphir</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Saphir" offset="00" relocatable="true" max_length="0">
+			<original>A warrior from Brodia. She is a
+dauntless and determined seeker
+of truth.</original>
+			<edited>A warrior from Brodia. She is a
+dauntless and determined seeker
+of truth.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Anna" offset="00" relocatable="true" max_length="0">
+			<original>Anna</original>
+			<edited>Anna</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Anna" offset="00" relocatable="true" max_length="0">
+			<original>A traveling merchant from a wintry
+part of Elusia. She is a cheerful and
+cunning cheapskate.</original>
+			<edited>A traveling merchant from a wintry
+part of Elusia. She is a cheerful and
+cunning cheapskate.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Jean" offset="00" relocatable="true" max_length="0">
+			<original>Jean</original>
+			<edited>Jean</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Jean" offset="00" relocatable="true" max_length="0">
+			<original>A doctor's son from Firene who
+works his hardest to save all the
+lives he can.</original>
+			<edited>A doctor's son from Firene who
+works his hardest to save all the
+lives he can.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Mauve" offset="00" relocatable="true" max_length="0">
+			<original>Mauvier</original>
+			<edited>Mauvier</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_EnemyMauve" offset="00" relocatable="true" max_length="0">
+			<original>One of the Four Hounds. A rugged,
+honest man who's loyal to a fault.</original>
+			<edited>One of the Four Hounds. A rugged,
+honest man who's loyal to a fault.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Mauve" offset="00" relocatable="true" max_length="0">
+			<original>Formerly one of the Four Hounds.
+He is Veyle's knight, and has sworn
+to fight alongside &#xE;&#x6;&#x3;&#x0;.</original>
+			<edited>Formerly one of the Four Hounds.
+He is Veyle's knight, and has sworn
+to fight alongside &#xE;&#x6;&#x3;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Sombre" offset="00" relocatable="true" max_length="0">
+			<original>Sombron</original>
+			<edited>Sombron</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Sombre" offset="00" relocatable="true" max_length="0">
+			<original>The Fell Dragon King. A wicked
+creature who wields immense dark
+power.</original>
+			<edited>The Fell Dragon King. A wicked
+creature who wields immense dark
+power.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_SombreDragon" offset="00" relocatable="true" max_length="0">
+			<original>Fell Sombron</original>
+			<edited>Fell Sombron</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_SombreDragon" offset="00" relocatable="true" max_length="0">
+			<original>The Fell Dragon wielding the power
+of the Emblem Rings. Capable now
+of opening a gate to another world.</original>
+			<edited>The Fell Dragon wielding the power
+of the Emblem Rings. Capable now
+of opening a gate to another world.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Veyre" offset="00" relocatable="true" max_length="0">
+			<original>Veyle</original>
+			<edited>Veyle</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_EnemyVeyre" offset="00" relocatable="true" max_length="0">
+			<original>Daughter of the Fell Dragon. She is
+a brutal foe who seethes with
+oppressive malice.</original>
+			<edited>Daughter of the Fell Dragon. She is
+a brutal foe who seethes with
+oppressive malice.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_MindVeyre" offset="00" relocatable="true" max_length="0">
+			<original>Veyle, now crowned with the Fell
+Dragon's helmet. Her destructive
+urges and hatred are intensified.</original>
+			<edited>Veyle, now crowned with the Fell
+Dragon's helmet. Her destructive
+urges and hatred are intensified.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Veyre" offset="00" relocatable="true" max_length="0">
+			<original>The younger sister of &#xE;&#x6;&#x3;&#x0;.
+Her darkness conquered, she fights
+for peace.</original>
+			<edited>The younger sister of &#xE;&#x6;&#x3;&#x0;.
+Her darkness conquered, she fights
+for peace.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_VersusVeyre" offset="00" relocatable="true" max_length="0">
+			<original>Daughter of the Fell Dragon. She has
+overcome her dark personality and
+now fights for peace.</original>
+			<edited>Daughter of the Fell Dragon. She has
+overcome her dark personality and
+now fights for peace.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Sepia" offset="00" relocatable="true" max_length="0">
+			<original>Zephia</original>
+			<edited>Zephia</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Sepia" offset="00" relocatable="true" max_length="0">
+			<original>The leader of the Four Hounds. She 
+is descended from mage dragons
+and has lived thousands of years.</original>
+			<edited>The leader of the Four Hounds. She 
+is descended from mage dragons
+and has lived thousands of years.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Gris" offset="00" relocatable="true" max_length="0">
+			<original>Griss</original>
+			<edited>Griss</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Gris" offset="00" relocatable="true" max_length="0">
+			<original>Fearsome member of the Four
+Hounds. A dangerously unstable and
+violent user of powerful magic.</original>
+			<edited>Fearsome member of the Four
+Hounds. A dangerously unstable and
+violent user of powerful magic.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Marron" offset="00" relocatable="true" max_length="0">
+			<original>Marni</original>
+			<edited>Marni</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Marron" offset="00" relocatable="true" max_length="0">
+			<original>One of the Four Hounds.
+A somewhat naive armored knight.</original>
+			<edited>One of the Four Hounds.
+A somewhat naive armored knight.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Eve" offset="00" relocatable="true" max_length="0">
+			<original>Ève</original>
+			<edited>Ève</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Eve" offset="00" relocatable="true" max_length="0">
+			<original>The kind queen of Firene. A gentle
+soul who wishes for a world without
+strife or conflict.</original>
+			<edited>The kind queen of Firene. A gentle
+soul who wishes for a world without
+strife or conflict.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Morion" offset="00" relocatable="true" max_length="0">
+			<original>Morion</original>
+			<edited>Morion</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Morion" offset="00" relocatable="true" max_length="0">
+			<original>The brave king of Brodia. A powerful
+and proud warrior, he prizes honor
+on the battlefield.</original>
+			<edited>The brave king of Brodia. A powerful
+and proud warrior, he prizes honor
+on the battlefield.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_MorphMorion" offset="00" relocatable="true" max_length="0">
+			<original>Corrupted Morion</original>
+			<edited>Corrupted Morion</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_MorphMorion" offset="00" relocatable="true" max_length="0">
+			<original>King Morion, sacrificed to resurrect
+the Fell Dragon. Turned into one of
+the Corrupted after death.</original>
+			<edited>King Morion, sacrificed to resurrect
+the Fell Dragon. Turned into one of
+the Corrupted after death.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Hyacinth" offset="00" relocatable="true" max_length="0">
+			<original>Hyacinth</original>
+			<edited>Hyacinth</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Hyacinth" offset="00" relocatable="true" max_length="0">
+			<original>The cunning king of Elusia. Worships
+the Fell Dragon and schemes for the
+advancement of his country.</original>
+			<edited>The cunning king of Elusia. Worships
+the Fell Dragon and schemes for the
+advancement of his country.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_MorphHyacinth" offset="00" relocatable="true" max_length="0">
+			<original>Corrupted Hyacinth</original>
+			<edited>Corrupted Hyacinth</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_MorphHyacinth" offset="00" relocatable="true" max_length="0">
+			<original>King Hyacinth, killed by the Fell
+Dragon. Turned into a powerful
+Corrupted by Veyle.</original>
+			<edited>King Hyacinth, killed by the Fell
+Dragon. Turned into a powerful
+Corrupted by Veyle.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Sfoglia" offset="00" relocatable="true" max_length="0">
+			<original>Seforia</original>
+			<edited>Seforia</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Sfoglia" offset="00" relocatable="true" max_length="0">
+			<original>The free-spirited queen of Solm.
+Leads her country by example with
+heroic acts.</original>
+			<edited>The free-spirited queen of Solm.
+Leads her country by example with
+heroic acts.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_M003_Boss" offset="00" relocatable="true" max_length="0">
+			<original>Abyme</original>
+			<edited>Abyme</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_M003_Boss" offset="00" relocatable="true" max_length="0">
+			<original>The leader of a mysterious troop.
+Clearly devoted to her duty.</original>
+			<edited>The leader of a mysterious troop.
+Clearly devoted to her duty.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_M018_Boss" offset="00" relocatable="true" max_length="0">
+			<original>A general of Elusia. Clearly devoted
+to her duty.</original>
+			<edited>A general of Elusia. Clearly devoted
+to her duty.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_M004_Boss" offset="00" relocatable="true" max_length="0">
+			<original>Rodine</original>
+			<edited>Rodine</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_M004_Boss" offset="00" relocatable="true" max_length="0">
+			<original>A general of Elusia. Commands
+Corrupted under his nation's flag.</original>
+			<edited>A general of Elusia. Commands
+Corrupted under his nation's flag.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_M005_Boss" offset="00" relocatable="true" max_length="0">
+			<original>Nelucce</original>
+			<edited>Nelucce</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_M005_Boss" offset="00" relocatable="true" max_length="0">
+			<original>A general of Elusia. Deployed to
+Firene to steal an Emblem Ring.</original>
+			<edited>A general of Elusia. Deployed to
+Firene to steal an Emblem Ring.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_M006_Boss" offset="00" relocatable="true" max_length="0">
+			<original>Teronda</original>
+			<edited>Teronda</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_M006_Boss" offset="00" relocatable="true" max_length="0">
+			<original>Boss of a band of thieves operating
+from a mountain stronghold. Has no
+morals where treasure is concerned.</original>
+			<edited>Boss of a band of thieves operating
+from a mountain stronghold. Has no
+morals where treasure is concerned.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_S002_Boss" offset="00" relocatable="true" max_length="0">
+			<original>Mitan</original>
+			<edited>Mitan</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_S002_Boss" offset="00" relocatable="true" max_length="0">
+			<original>The boss of a band of thieves in the
+borderlands who systematically rob
+every traveler who passes by.</original>
+			<edited>The boss of a band of thieves in the
+borderlands who systematically rob
+every traveler who passes by.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_M013_BossA" offset="00" relocatable="true" max_length="0">
+			<original>Tetchie</original>
+			<edited>Tetchie</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_M013_BossA" offset="00" relocatable="true" max_length="0">
+			<original>Boss of a band of thieves and
+Totchie's older twin. Commands
+the Corrupted that haunt the oasis.</original>
+			<edited>Boss of a band of thieves and
+Totchie's older twin. Commands
+the Corrupted that haunt the oasis.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_M013_BossB" offset="00" relocatable="true" max_length="0">
+			<original>Totchie</original>
+			<edited>Totchie</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_M013_BossB" offset="00" relocatable="true" max_length="0">
+			<original>Boss of a band of thieves and
+Tetchie's younger twin. Commands
+the Corrupted that haunt the oasis.</original>
+			<edited>Boss of a band of thieves and
+Tetchie's younger twin. Commands
+the Corrupted that haunt the oasis.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Morph" offset="00" relocatable="true" max_length="0">
+			<original>Corrupted</original>
+			<edited>Corrupted</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Morph" offset="00" relocatable="true" max_length="0">
+			<original>A corpse raised by the Fell Dragon's
+powers. It has no will of its own and
+exists only to follow orders.</original>
+			<edited>A corpse raised by the Fell Dragon's
+powers. It has no will of its own and
+exists only to follow orders.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Morph_Hide" offset="00" relocatable="true" max_length="0">
+			<original>Unidentified Monster</original>
+			<edited>Unidentified Monster</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_MorphGold" offset="00" relocatable="true" max_length="0">
+			<original>Gold Corrupted</original>
+			<edited>Gold Corrupted</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_MorphGold" offset="00" relocatable="true" max_length="0">
+			<original>One of the Corrupted in a metallic
+form. Rare, but carries a lot of gold.</original>
+			<edited>One of the Corrupted in a metallic
+form. Rare, but carries a lot of gold.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_MorphSilver" offset="00" relocatable="true" max_length="0">
+			<original>Silver Corrupted</original>
+			<edited>Silver Corrupted</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_MorphSilver" offset="00" relocatable="true" max_length="0">
+			<original>One of the Corrupted in a metallic
+form. Rare, but gives extra EXP.</original>
+			<edited>One of the Corrupted in a metallic
+form. Rare, but gives extra EXP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_MorphDragon" offset="00" relocatable="true" max_length="0">
+			<original>Corrupted Wyrm</original>
+			<edited>Corrupted Wyrm</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_MorphDragon" offset="00" relocatable="true" max_length="0">
+			<original>A giant dragon raised by the Fell
+Dragon. Armored with tough scales
+and armed with powerful breath.</original>
+			<edited>A giant dragon raised by the Fell
+Dragon. Armored with tough scales
+and armed with powerful breath.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Phantom" offset="00" relocatable="true" max_length="0">
+			<original>Fabrication</original>
+			<edited>Fabrication</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Phantom" offset="00" relocatable="true" max_length="0">
+			<original>A soulless soldier created by secret
+techniques. It has no will of its own
+and only follows its master's orders.</original>
+			<edited>A soulless soldier created by secret
+techniques. It has no will of its own
+and only follows its master's orders.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_PhantomDragon" offset="00" relocatable="true" max_length="0">
+			<original>Fabrication</original>
+			<edited>Fabrication</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_PhantomDragon" offset="00" relocatable="true" max_length="0">
+			<original>A soulless monster created by secret
+techniques. It has no will of its own
+and only follows its master's orders.</original>
+			<edited>A soulless monster created by secret
+techniques. It has no will of its own
+and only follows its master's orders.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_MysteriousGroup" offset="00" relocatable="true" max_length="0">
+			<original>Unknown Soldier</original>
+			<edited>Unknown Soldier</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_MysteriousGroup" offset="00" relocatable="true" max_length="0">
+			<original>Mysterious foreign troops who
+attacked without warning.</original>
+			<edited>Mysterious foreign troops who
+attacked without warning.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Troublemaker" offset="00" relocatable="true" max_length="0">
+			<original>Ruffian</original>
+			<edited>Ruffian</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Troublemaker" offset="00" relocatable="true" max_length="0">
+			<original>One of a band of ruffians who have
+chosen destruction and pillaging as
+their livelihood.</original>
+			<edited>One of a band of ruffians who have
+chosen destruction and pillaging as
+their livelihood.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Bandits" offset="00" relocatable="true" max_length="0">
+			<original>Thief</original>
+			<edited>Thief</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Bandits" offset="00" relocatable="true" max_length="0">
+			<original>An opportunist using the chaos of
+war as cover to steal.</original>
+			<edited>An opportunist using the chaos of
+war as cover to steal.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_IrcionSoldier" offset="00" relocatable="true" max_length="0">
+			<original>Elusian Soldier</original>
+			<edited>Elusian Soldier</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_IrcionSoldier" offset="00" relocatable="true" max_length="0">
+			<original>An ordinary soldier in the Elusian
+army.</original>
+			<edited>An ordinary soldier in the Elusian
+army.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_BrodiaSoldier" offset="00" relocatable="true" max_length="0">
+			<original>Brodian Soldier</original>
+			<edited>Brodian Soldier</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_BrodiaSoldier" offset="00" relocatable="true" max_length="0">
+			<original>An ordinary soldier in the Brodian
+army.</original>
+			<edited>An ordinary soldier in the Brodian
+army.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_SolumSoldier" offset="00" relocatable="true" max_length="0">
+			<original>Solmic Soldier</original>
+			<edited>Solmic Soldier</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_SolumSoldier" offset="00" relocatable="true" max_length="0">
+			<original>An ordinary soldier in the Solm
+army.</original>
+			<edited>An ordinary soldier in the Solm
+army.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_FileneSoldier" offset="00" relocatable="true" max_length="0">
+			<original>Firenese Soldier</original>
+			<edited>Firenese Soldier</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_FileneSoldier" offset="00" relocatable="true" max_length="0">
+			<original>An ordinary soldier in the Firenese
+army.</original>
+			<edited>An ordinary soldier in the Firenese
+army.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Marth" offset="00" relocatable="true" max_length="0">
+			<original>Marth</original>
+			<edited>Marth</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Marth" offset="00" relocatable="true" max_length="0">
+			<original>Known as the Emblem of Beginnings.
+A hero among heroes, brimming with
+nobility and charisma.</original>
+			<edited>Known as the Emblem of Beginnings.
+A hero among heroes, brimming with
+nobility and charisma.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Siglud" offset="00" relocatable="true" max_length="0">
+			<original>Sigurd</original>
+			<edited>Sigurd</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Siglud" offset="00" relocatable="true" max_length="0">
+			<original>Known as the Emblem of the Holy
+War. A noble knight with a mighty
+lineage.</original>
+			<edited>Known as the Emblem of the Holy
+War. A noble knight with a mighty
+lineage.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Celica" offset="00" relocatable="true" max_length="0">
+			<original>Celica</original>
+			<edited>Celica</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Celica" offset="00" relocatable="true" max_length="0">
+			<original>Known as the Emblem of Echoes.
+The princess of a vibrant country,
+as well as a warrior priestess.</original>
+			<edited>Known as the Emblem of Echoes.
+The princess of a vibrant country,
+as well as a warrior priestess.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Micaiah" offset="00" relocatable="true" max_length="0">
+			<original>Micaiah</original>
+			<edited>Micaiah</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Micaiah" offset="00" relocatable="true" max_length="0">
+			<original>Known as the Emblem of Dawn.
+Bearer of strange healing powers
+as well as visions of the future.</original>
+			<edited>Known as the Emblem of Dawn.
+Bearer of strange healing powers
+as well as visions of the future.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Roy" offset="00" relocatable="true" max_length="0">
+			<original>Roy</original>
+			<edited>Roy</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Roy" offset="00" relocatable="true" max_length="0">
+			<original>Known as the Emblem of Binding.
+A nobleman who excels as a general,
+brave and intelligent.</original>
+			<edited>Known as the Emblem of Binding.
+A nobleman who excels as a general,
+brave and intelligent.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Lin" offset="00" relocatable="true" max_length="0">
+			<original>Lyn</original>
+			<edited>Lyn</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Lin" offset="00" relocatable="true" max_length="0">
+			<original>Known as the Emblem of Blazing.
+A virtuoso swordswoman from a
+nomadic tribe that lived in nature.</original>
+			<edited>Known as the Emblem of Blazing.
+A virtuoso swordswoman from a
+nomadic tribe that lived in nature.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Ike" offset="00" relocatable="true" max_length="0">
+			<original>Ike</original>
+			<edited>Ike</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Ike" offset="00" relocatable="true" max_length="0">
+			<original>Known as the Emblem of Radiance.
+A famous mercenary leader with
+unparalleled skill in battle.</original>
+			<edited>Known as the Emblem of Radiance.
+A famous mercenary leader with
+unparalleled skill in battle.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Lucina" offset="00" relocatable="true" max_length="0">
+			<original>Lucina</original>
+			<edited>Lucina</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Lucina" offset="00" relocatable="true" max_length="0">
+			<original>Known as the Emblem of Awakening.
+A royal heir who knows anything can
+change and will not yield to despair.</original>
+			<edited>Known as the Emblem of Awakening.
+A royal heir who knows anything can
+change and will not yield to despair.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Leaf" offset="00" relocatable="true" max_length="0">
+			<original>Leif</original>
+			<edited>Leif</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Leaf" offset="00" relocatable="true" max_length="0">
+			<original>Known as the Emblem of Genealogy.
+A brave prince in whose veins runs
+the blood of two crusaders.</original>
+			<edited>Known as the Emblem of Genealogy.
+A brave prince in whose veins runs
+the blood of two crusaders.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Kamui" offset="00" relocatable="true" max_length="0">
+			<original>Corrin</original>
+			<edited>Corrin</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Kamui" offset="00" relocatable="true" max_length="0">
+			<original>Known as the Emblem of Fates.
+Someone with an iron will and the
+blood of the First Dragons.</original>
+			<edited>Known as the Emblem of Fates.
+Someone with an iron will and the
+blood of the First Dragons.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Eirik" offset="00" relocatable="true" max_length="0">
+			<original>Eirika</original>
+			<edited>Eirika</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Eirik" offset="00" relocatable="true" max_length="0">
+			<original>Known as the Emblem of the Sacred.
+A compassionate princess who takes
+up her sword for the sake of peace.</original>
+			<edited>Known as the Emblem of the Sacred.
+A compassionate princess who takes
+up her sword for the sake of peace.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Byleth" offset="00" relocatable="true" max_length="0">
+			<original>Byleth</original>
+			<edited>Byleth</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Byleth" offset="00" relocatable="true" max_length="0">
+			<original>Known as the Emblem of the
+Academy. A mercenary who 
+became a teacher.</original>
+			<edited>Known as the Emblem of the
+Academy. A mercenary who 
+became a teacher.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Hide" offset="00" relocatable="true" max_length="0">
+			<original>???</original>
+			<edited>???</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Marth" offset="00" relocatable="true" max_length="0">
+			<original>Marth</original>
+			<edited>Marth</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Marth" offset="00" relocatable="true" max_length="0">
+			<original>Known as the Emblem of Beginnings.
+Reads enemy's intentions in battle
+and responds with a flurry of strikes.</original>
+			<edited>Known as the Emblem of Beginnings.
+Reads enemy's intentions in battle
+and responds with a flurry of strikes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Siglud" offset="00" relocatable="true" max_length="0">
+			<original>Sigurd</original>
+			<edited>Sigurd</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Siglud" offset="00" relocatable="true" max_length="0">
+			<original>Known as the Emblem of the Holy
+War. Boasts high movement and
+powerful lance attacks.</original>
+			<edited>Known as the Emblem of the Holy
+War. Boasts high movement and
+powerful lance attacks.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Celica" offset="00" relocatable="true" max_length="0">
+			<original>Celica</original>
+			<edited>Celica</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Celica" offset="00" relocatable="true" max_length="0">
+			<original>Known as the Emblem of Echoes.
+Her holy magic is the bane of
+monsters.</original>
+			<edited>Known as the Emblem of Echoes.
+Her holy magic is the bane of
+monsters.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Micaiah" offset="00" relocatable="true" max_length="0">
+			<original>Micaiah</original>
+			<edited>Micaiah</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Micaiah" offset="00" relocatable="true" max_length="0">
+			<original>Known as the Emblem of Dawn.
+Supports allies with illuminating
+magic and a healing staff.</original>
+			<edited>Known as the Emblem of Dawn.
+Supports allies with illuminating
+magic and a healing staff.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Roy" offset="00" relocatable="true" max_length="0">
+			<original>Roy</original>
+			<edited>Roy</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Roy" offset="00" relocatable="true" max_length="0">
+			<original>Known as the Emblem of Binding.
+Endures enemy attacks and cuts a
+path through with his sword.</original>
+			<edited>Known as the Emblem of Binding.
+Endures enemy attacks and cuts a
+path through with his sword.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Lin" offset="00" relocatable="true" max_length="0">
+			<original>Lyn</original>
+			<edited>Lyn</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Lin" offset="00" relocatable="true" max_length="0">
+			<original>Known as the Emblem of Blazing.
+Defeats closeup foes with her sword
+and distant ones with her bow.</original>
+			<edited>Known as the Emblem of Blazing.
+Defeats closeup foes with her sword
+and distant ones with her bow.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_EnemyLin" offset="00" relocatable="true" max_length="0">
+			<original>The Emblem contained within the
+Ring of the Lady of the Plains,
+which was entrusted to Elusia.</original>
+			<edited>The Emblem contained within the
+Ring of the Lady of the Plains,
+which was entrusted to Elusia.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ike" offset="00" relocatable="true" max_length="0">
+			<original>Ike</original>
+			<edited>Ike</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Ike" offset="00" relocatable="true" max_length="0">
+			<original>Known as the Emblem of Radiance.
+Destroys obstacles with his mighty
+sword and axe.</original>
+			<edited>Known as the Emblem of Radiance.
+Destroys obstacles with his mighty
+sword and axe.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Lucina" offset="00" relocatable="true" max_length="0">
+			<original>Lucina</original>
+			<edited>Lucina</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Lucina" offset="00" relocatable="true" max_length="0">
+			<original>Known as the Emblem of Awakening.
+Creates bonds with allies, and pools
+their strength to attack enemies.</original>
+			<edited>Known as the Emblem of Awakening.
+Creates bonds with allies, and pools
+their strength to attack enemies.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_EnemyLucina" offset="00" relocatable="true" max_length="0">
+			<original>The Emblem contained within the
+Ring of the Princess Exalt, which
+was stolen from Lythos Castle.</original>
+			<edited>The Emblem contained within the
+Ring of the Princess Exalt, which
+was stolen from Lythos Castle.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Leaf" offset="00" relocatable="true" max_length="0">
+			<original>Leif</original>
+			<edited>Leif</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Leaf" offset="00" relocatable="true" max_length="0">
+			<original>Known as the Emblem of Genealogy.
+A versatile knight proficient in axe,
+sword, and lance.</original>
+			<edited>Known as the Emblem of Genealogy.
+A versatile knight proficient in axe,
+sword, and lance.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_EnemyLeaf" offset="00" relocatable="true" max_length="0">
+			<original>The Emblem contained within the
+Ring of the Sage Lord, which was
+stolen from Lythos Castle.</original>
+			<edited>The Emblem contained within the
+Ring of the Sage Lord, which was
+stolen from Lythos Castle.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Kamui" offset="00" relocatable="true" max_length="0">
+			<original>Corrin</original>
+			<edited>Corrin</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Kamui" offset="00" relocatable="true" max_length="0">
+			<original>Known as the Emblem of Fates.
+Can tap into dragon veins, a magic
+sleeping in the land.</original>
+			<edited>Known as the Emblem of Fates.
+Can tap into dragon veins, a magic
+sleeping in the land.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Eirik" offset="00" relocatable="true" max_length="0">
+			<original>Eirika</original>
+			<edited>Eirika</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Eirik" offset="00" relocatable="true" max_length="0">
+			<original>Known as the Emblem of the Sacred.
+Her flashing sword shatters her foe's
+defenses.</original>
+			<edited>Known as the Emblem of the Sacred.
+Her flashing sword shatters her foe's
+defenses.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ephraim" offset="00" relocatable="true" max_length="0">
+			<original>Ephraim</original>
+			<edited>Ephraim</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Ephraim" offset="00" relocatable="true" max_length="0">
+			<original>Another Emblem of the Sacred.
+Pierces enemy lines with mighty
+lance techniques.</original>
+			<edited>Another Emblem of the Sacred.
+Pierces enemy lines with mighty
+lance techniques.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Byleth" offset="00" relocatable="true" max_length="0">
+			<original>Byleth</original>
+			<edited>Byleth</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Byleth" offset="00" relocatable="true" max_length="0">
+			<original>Known as the Emblem of the
+Academy. Wields various hero's
+relics and knows a variety of tactics.</original>
+			<edited>Known as the Emblem of the
+Academy. Wields various hero's
+relics and knows a variety of tactics.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_EnemyByleth" offset="00" relocatable="true" max_length="0">
+			<original>The Emblem contained within the
+Ring of the Instructor, which was
+stolen from Lythos Castle.</original>
+			<edited>The Emblem contained within the
+Ring of the Instructor, which was
+stolen from Lythos Castle.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Lueur" offset="00" relocatable="true" max_length="0">
+			<original>Alear</original>
+			<edited>Alear</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Lueur" offset="00" relocatable="true" max_length="0">
+			<original>Known as the Fire Emblem. Grants
+the Divine Dragon's blessing and is
+the bane of the Fell Dragon.</original>
+			<edited>Known as the Fire Emblem. Grants
+the Divine Dragon's blessing and is
+the bane of the Fell Dragon.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Mediuth" offset="00" relocatable="true" max_length="0">
+			<original>Shadow Dragon</original>
+			<edited>Shadow Dragon</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Mediuth" offset="00" relocatable="true" max_length="0">
+			<original>Dark Emblem from Marth's realm.
+Embodies a mighty dragon who
+ruled through fear.</original>
+			<edited>Dark Emblem from Marth's realm.
+Embodies a mighty dragon who
+ruled through fear.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Loptous" offset="00" relocatable="true" max_length="0">
+			<original>Dark God</original>
+			<edited>Dark God</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Loptous" offset="00" relocatable="true" max_length="0">
+			<original>Dark Emblem from Sigurd's realm.
+Embodies a hateful god who struck
+terror into humans' hearts.</original>
+			<edited>Dark Emblem from Sigurd's realm.
+Embodies a hateful god who struck
+terror into humans' hearts.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Duma" offset="00" relocatable="true" max_length="0">
+			<original>War Father</original>
+			<edited>War Father</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Duma" offset="00" relocatable="true" max_length="0">
+			<original>Dark Emblem from Celica's realm.
+Embodies a conqueror who was
+consumed by bloodlust.</original>
+			<edited>Dark Emblem from Celica's realm.
+Embodies a conqueror who was
+consumed by bloodlust.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Veld" offset="00" relocatable="true" max_length="0">
+			<original>Dark Bishop</original>
+			<edited>Dark Bishop</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Veld" offset="00" relocatable="true" max_length="0">
+			<original>Dark Emblem from Leif's realm.
+Embodies a bishop devoted to a
+dark faith.</original>
+			<edited>Dark Emblem from Leif's realm.
+Embodies a bishop devoted to a
+dark faith.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Idenn" offset="00" relocatable="true" max_length="0">
+			<original>Demon Dragon</original>
+			<edited>Demon Dragon</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Idenn" offset="00" relocatable="true" max_length="0">
+			<original>Dark Emblem from Roy's realm.
+Embodies a dragon who tried to
+destroy humanity.</original>
+			<edited>Dark Emblem from Roy's realm.
+Embodies a dragon who tried to
+destroy humanity.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Nergal" offset="00" relocatable="true" max_length="0">
+			<original>Dark Druid</original>
+			<edited>Dark Druid</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Nergal" offset="00" relocatable="true" max_length="0">
+			<original>Dark Emblem from Lyn's realm.
+Embodies a seeker of forbidden
+knowledge who brings calamity.</original>
+			<edited>Dark Emblem from Lyn's realm.
+Embodies a seeker of forbidden
+knowledge who brings calamity.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Fodeth" offset="00" relocatable="true" max_length="0">
+			<original>Demon King</original>
+			<edited>Demon King</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Fodeth" offset="00" relocatable="true" max_length="0">
+			<original>Dark Emblem from Eirika's realm.
+Embodies a being who corrupted
+others with foul demonic powers.</original>
+			<edited>Dark Emblem from Eirika's realm.
+Embodies a being who corrupted
+others with foul demonic powers.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ashnard" offset="00" relocatable="true" max_length="0">
+			<original>Mad King</original>
+			<edited>Mad King</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Ashnard" offset="00" relocatable="true" max_length="0">
+			<original>Dark Emblem from Ike's realm.
+Embodies a tyrant who plunged his
+world into turmoil.</original>
+			<edited>Dark Emblem from Ike's realm.
+Embodies a tyrant who plunged his
+world into turmoil.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Astarte" offset="00" relocatable="true" max_length="0">
+			<original>Judgment</original>
+			<edited>Judgment</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Astarte" offset="00" relocatable="true" max_length="0">
+			<original>Dark Emblem from Micaiah's realm.
+Embodies a goddess who subjected
+humankind to harsh judgment.</original>
+			<edited>Dark Emblem from Micaiah's realm.
+Embodies a goddess who subjected
+humankind to harsh judgment.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Gimle" offset="00" relocatable="true" max_length="0">
+			<original>Despair</original>
+			<edited>Despair</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Gimle" offset="00" relocatable="true" max_length="0">
+			<original>Dark Emblem from Lucina's realm.
+Embodies a Fell Dragon who
+wrought despair and ruin.</original>
+			<edited>Dark Emblem from Lucina's realm.
+Embodies a Fell Dragon who
+wrought despair and ruin.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Hydra" offset="00" relocatable="true" max_length="0">
+			<original>Mad Dragon</original>
+			<edited>Mad Dragon</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Hydra" offset="00" relocatable="true" max_length="0">
+			<original>Dark Emblem from Corrin's realm.
+Embodies a spiteful dragon who led
+many to destruction.</original>
+			<edited>Dark Emblem from Corrin's realm.
+Embodies a spiteful dragon who led
+many to destruction.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Nemesis" offset="00" relocatable="true" max_length="0">
+			<original>Liberation King</original>
+			<edited>Liberation King</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Nemesis" offset="00" relocatable="true" max_length="0">
+			<original>Dark Emblem from Byleth's realm.
+Embodies a king who massacred
+the children of a goddess.</original>
+			<edited>Dark Emblem from Byleth's realm.
+Embodies a king who massacred
+the children of a goddess.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Marth" offset="00" relocatable="true" max_length="0">
+			<original>Beginnings</original>
+			<edited>Beginnings</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Siglud" offset="00" relocatable="true" max_length="0">
+			<original>Holy</original>
+			<edited>Holy</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Celica" offset="00" relocatable="true" max_length="0">
+			<original>Echoes</original>
+			<edited>Echoes</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Micaiah" offset="00" relocatable="true" max_length="0">
+			<original>Dawn</original>
+			<edited>Dawn</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Roy" offset="00" relocatable="true" max_length="0">
+			<original>Binding</original>
+			<edited>Binding</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Lin" offset="00" relocatable="true" max_length="0">
+			<original>Blazing</original>
+			<edited>Blazing</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Ike" offset="00" relocatable="true" max_length="0">
+			<original>Radiance</original>
+			<edited>Radiance</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Lucina" offset="00" relocatable="true" max_length="0">
+			<original>Awakening</original>
+			<edited>Awakening</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Leaf" offset="00" relocatable="true" max_length="0">
+			<original>Genealogy</original>
+			<edited>Genealogy</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Kamui" offset="00" relocatable="true" max_length="0">
+			<original>Fates</original>
+			<edited>Fates</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Eirik" offset="00" relocatable="true" max_length="0">
+			<original>Sacred</original>
+			<edited>Sacred</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Byleth" offset="00" relocatable="true" max_length="0">
+			<original>Academy</original>
+			<edited>Academy</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Lueur" offset="00" relocatable="true" max_length="0">
+			<original>Fire</original>
+			<edited>Fire</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_WeaponShop" offset="00" relocatable="true" max_length="0">
+			<original>Durthon</original>
+			<edited>Durthon</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_ItemShop" offset="00" relocatable="true" max_length="0">
+			<original>Anisse</original>
+			<edited>Anisse</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_AccessoriesShop" offset="00" relocatable="true" max_length="0">
+			<original>Pinet</original>
+			<edited>Pinet</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_BlackSmith" offset="00" relocatable="true" max_length="0">
+			<original>Calney</original>
+			<edited>Calney</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_JeanFather" offset="00" relocatable="true" max_length="0">
+			<original>Sean</original>
+			<edited>Sean</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_JeanFather" offset="00" relocatable="true" max_length="0">
+			<original>Runs the only clinic in the village by
+the tea fields. Jean's father.</original>
+			<edited>Runs the only clinic in the village by
+the tea fields. Jean's father.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_JeanMother" offset="00" relocatable="true" max_length="0">
+			<original>Anje</original>
+			<edited>Anje</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_SolumVillager" offset="00" relocatable="true" max_length="0">
+			<original>Solmic Villager</original>
+			<edited>Solmic Villager</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_SolumVillager" offset="00" relocatable="true" max_length="0">
+			<original>A citizen of the Queendom of Solm.</original>
+			<edited>A citizen of the Queendom of Solm.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_FileneVillager" offset="00" relocatable="true" max_length="0">
+			<original>Firenese Villager</original>
+			<edited>Firenese Villager</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_FileneVillager" offset="00" relocatable="true" max_length="0">
+			<original>A citizen of the Kingdom of Firene.</original>
+			<edited>A citizen of the Kingdom of Firene.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Vision" offset="00" relocatable="true" max_length="0">
+			<original>Illusory Double</original>
+			<edited>Illusory Double</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Vision" offset="00" relocatable="true" max_length="0">
+			<original>An illusion created with an engage
+skill.</original>
+			<edited>An illusion created with an engage
+skill.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Lueur" offset="00" relocatable="true" max_length="0">
+			<original>Divine Dragon</original>
+			<edited>Divine Dragon</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Vandre" offset="00" relocatable="true" max_length="0">
+			<original>Holy Veteran</original>
+			<edited>Holy Veteran</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Clan" offset="00" relocatable="true" max_length="0">
+			<original>Calm Steward</original>
+			<edited>Calm Steward</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Fram" offset="00" relocatable="true" max_length="0">
+			<original>Eager Steward</original>
+			<edited>Eager Steward</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Alfred" offset="00" relocatable="true" max_length="0">
+			<original>Floral Protector</original>
+			<edited>Floral Protector</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Boucheron" offset="00" relocatable="true" max_length="0">
+			<original>Big Softy</original>
+			<edited>Big Softy</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Etie" offset="00" relocatable="true" max_length="0">
+			<original>Fitness Fighter</original>
+			<edited>Fitness Fighter</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Celine" offset="00" relocatable="true" max_length="0">
+			<original>Joyous Royal</original>
+			<edited>Joyous Royal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Louis" offset="00" relocatable="true" max_length="0">
+			<original>Watchful Valet</original>
+			<edited>Watchful Valet</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Chloe" offset="00" relocatable="true" max_length="0">
+			<original>Fairy-Tale Flier</original>
+			<edited>Fairy-Tale Flier</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Diamand" offset="00" relocatable="true" max_length="0">
+			<original>Rising Power</original>
+			<edited>Rising Power</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Umber" offset="00" relocatable="true" max_length="0">
+			<original>Alpaca Master</original>
+			<edited>Alpaca Master</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Jade" offset="00" relocatable="true" max_length="0">
+			<original>Iron Wall</original>
+			<edited>Iron Wall</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Staluke" offset="00" relocatable="true" max_length="0">
+			<original>Tender Archer</original>
+			<edited>Tender Archer</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Lapis" offset="00" relocatable="true" max_length="0">
+			<original>Mighty Flower</original>
+			<edited>Mighty Flower</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Citrinica" offset="00" relocatable="true" max_length="0">
+			<original>Caring Noble</original>
+			<edited>Caring Noble</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Ivy" offset="00" relocatable="true" max_length="0">
+			<original>Snow Queen</original>
+			<edited>Snow Queen</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Zelkova" offset="00" relocatable="true" max_length="0">
+			<original>Mystery Man</original>
+			<edited>Mystery Man</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Kagetsu" offset="00" relocatable="true" max_length="0">
+			<original>Onigiri Samurai</original>
+			<edited>Onigiri Samurai</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Hortensia" offset="00" relocatable="true" max_length="0">
+			<original>Little Charmer</original>
+			<edited>Little Charmer</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Rosado" offset="00" relocatable="true" max_length="0">
+			<original>Adorable Artist</original>
+			<edited>Adorable Artist</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Goldmary" offset="00" relocatable="true" max_length="0">
+			<original>Elegant Talent</original>
+			<edited>Elegant Talent</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Misutira" offset="00" relocatable="true" max_length="0">
+			<original>Desert Warrior</original>
+			<edited>Desert Warrior</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Merin" offset="00" relocatable="true" max_length="0">
+			<original>Suave Knight</original>
+			<edited>Suave Knight</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Panetone" offset="00" relocatable="true" max_length="0">
+			<original>Classy Brawler</original>
+			<edited>Classy Brawler</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Fogato" offset="00" relocatable="true" max_length="0">
+			<original>Affable Prince</original>
+			<edited>Affable Prince</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Pandoro" offset="00" relocatable="true" max_length="0">
+			<original>Party Priest</original>
+			<edited>Party Priest</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Bonet" offset="00" relocatable="true" max_length="0">
+			<original>Culinary Artist</original>
+			<edited>Culinary Artist</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Anna" offset="00" relocatable="true" max_length="0">
+			<original>Li'l Merchant</original>
+			<edited>Li'l Merchant</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Jean" offset="00" relocatable="true" max_length="0">
+			<original>Budding Doc</original>
+			<edited>Budding Doc</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Yunaka" offset="00" relocatable="true" max_length="0">
+			<original>Hidden Mask</original>
+			<edited>Hidden Mask</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Seadas" offset="00" relocatable="true" max_length="0">
+			<original>Mystic Dancer</original>
+			<edited>Mystic Dancer</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Linden" offset="00" relocatable="true" max_length="0">
+			<original>Thunder Sage</original>
+			<edited>Thunder Sage</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Saphir" offset="00" relocatable="true" max_length="0">
+			<original>Valiant Guard</original>
+			<edited>Valiant Guard</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Veyre" offset="00" relocatable="true" max_length="0">
+			<original>Gentle Dragon</original>
+			<edited>Gentle Dragon</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Mauve" offset="00" relocatable="true" max_length="0">
+			<original>Penitent Knight</original>
+			<edited>Penitent Knight</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Mascot" offset="00" relocatable="true" max_length="0">
+			<original>Sommie</original>
+			<edited>Sommie</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Mascot" offset="00" relocatable="true" max_length="0">
+			<original>A guardian spirit that has lived on
+the Somniel since ancient times.</original>
+			<edited>A guardian spirit that has lived on
+the Somniel since ancient times.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_EleosGoat" offset="00" relocatable="true" max_length="0">
+			<original>Elyosian Sheep</original>
+			<edited>Elyosian Sheep</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_EleosGoat" offset="00" relocatable="true" max_length="0">
+			<original>Known for their characteristic fluffy
+coats, these sheep inhabit every 
+region in Elyos.</original>
+			<edited>Known for their characteristic fluffy
+coats, these sheep inhabit every 
+region in Elyos.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_WhitePyonRabbit" offset="00" relocatable="true" max_length="0">
+			<original>White Hop Rabbit</original>
+			<edited>White Hop Rabbit</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_WhitePyonRabbit" offset="00" relocatable="true" max_length="0">
+			<original>Long-eared rabbits that can be found
+hopping enthusiastically all over
+Elyos. Surprisingly, not all are white.</original>
+			<edited>Long-eared rabbits that can be found
+hopping enthusiastically all over
+Elyos. Surprisingly, not all are white.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_PyonRabbit" offset="00" relocatable="true" max_length="0">
+			<original>Hop Rabbit</original>
+			<edited>Hop Rabbit</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_PyonRabbit" offset="00" relocatable="true" max_length="0">
+			<original>Long-eared rabbits that can be found
+hopping enthusiastically all over
+Elyos. Some varieties have white fur.</original>
+			<edited>Long-eared rabbits that can be found
+hopping enthusiastically all over
+Elyos. Some varieties have white fur.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_EastCat" offset="00" relocatable="true" max_length="0">
+			<original>Eastern Freecat</original>
+			<edited>Eastern Freecat</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_EastCat" offset="00" relocatable="true" max_length="0">
+			<original>This breed originated in eastern
+Elyos. Its appearance and behavior
+have adapted to its surroundings.</original>
+			<edited>This breed originated in eastern
+Elyos. Its appearance and behavior
+have adapted to its surroundings.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_WestCat" offset="00" relocatable="true" max_length="0">
+			<original>Western Freecat</original>
+			<edited>Western Freecat</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_WestCat" offset="00" relocatable="true" max_length="0">
+			<original>This breed originated in western
+Elyos. Its appearance and behavior
+have adapted to its surroundings.</original>
+			<edited>This breed originated in western
+Elyos. Its appearance and behavior
+have adapted to its surroundings.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_SouthCat" offset="00" relocatable="true" max_length="0">
+			<original>Southern Freecat</original>
+			<edited>Southern Freecat</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_SouthCat" offset="00" relocatable="true" max_length="0">
+			<original>This breed originated in southern
+Elyos. Its appearance and behavior
+have adapted to its surroundings.</original>
+			<edited>This breed originated in southern
+Elyos. Its appearance and behavior
+have adapted to its surroundings.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_NorthCat" offset="00" relocatable="true" max_length="0">
+			<original>Northern Freecat</original>
+			<edited>Northern Freecat</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_NorthCat" offset="00" relocatable="true" max_length="0">
+			<original>This breed originated in northern
+Elyos. Its appearance and behavior
+have adapted to its surroundings.</original>
+			<edited>This breed originated in northern
+Elyos. Its appearance and behavior
+have adapted to its surroundings.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_FileneCat" offset="00" relocatable="true" max_length="0">
+			<original>Firenese Cat</original>
+			<edited>Firenese Cat</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_FileneCat" offset="00" relocatable="true" max_length="0">
+			<original>A cat found only in Firene. This
+region is known for cats with black-
+and-white coats.</original>
+			<edited>A cat found only in Firene. This
+region is known for cats with black-
+and-white coats.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_BrodiaCat" offset="00" relocatable="true" max_length="0">
+			<original>Brodian Cat</original>
+			<edited>Brodian Cat</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_BrodiaCat" offset="00" relocatable="true" max_length="0">
+			<original>A cat found only in Brodia. This
+region is known for cats with a mix
+of black and brown fur.</original>
+			<edited>A cat found only in Brodia. This
+region is known for cats with a mix
+of black and brown fur.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_IrcionCat" offset="00" relocatable="true" max_length="0">
+			<original>Elusian Cat</original>
+			<edited>Elusian Cat</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_IrcionCat" offset="00" relocatable="true" max_length="0">
+			<original>A cat found only in Elusia. This
+region is known for cats with black
+markings.</original>
+			<edited>A cat found only in Elusia. This
+region is known for cats with black
+markings.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_SolumCat" offset="00" relocatable="true" max_length="0">
+			<original>Solmic Cat</original>
+			<edited>Solmic Cat</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_SolumCat" offset="00" relocatable="true" max_length="0">
+			<original>A cat found only in Solm. This region
+is known for cats with a leopard-like
+coat.</original>
+			<edited>A cat found only in Solm. This region
+is known for cats with a leopard-like
+coat.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_KarisonCoco" offset="00" relocatable="true" max_length="0">
+			<original>Calisson Chicken</original>
+			<edited>Calisson Chicken</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_KarisonCoco" offset="00" relocatable="true" max_length="0">
+			<original>A chicken found mainly in Firene.
+Despite their round shape, they can
+fly and sometimes carry messages.</original>
+			<edited>A chicken found mainly in Firene.
+Despite their round shape, they can
+fly and sometimes carry messages.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_AuraEagle" offset="00" relocatable="true" max_length="0">
+			<original>Aura Eagle</original>
+			<edited>Aura Eagle</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_AuraEagle" offset="00" relocatable="true" max_length="0">
+			<original>An eagle found mainly in Brodia.
+Their mastery of air currents makes
+them adept at long-distance flight.</original>
+			<edited>An eagle found mainly in Brodia.
+Their mastery of air currents makes
+them adept at long-distance flight.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_IrisOwl" offset="00" relocatable="true" max_length="0">
+			<original>Iris Owl</original>
+			<edited>Iris Owl</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_IrisOwl" offset="00" relocatable="true" max_length="0">
+			<original>An owl found mainly in Elusia. They
+are strong and swift fliers, kept warm
+by their large feathers.</original>
+			<edited>An owl found mainly in Elusia. They
+are strong and swift fliers, kept warm
+by their large feathers.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_PannaCamel" offset="00" relocatable="true" max_length="0">
+			<original>Panna Camel</original>
+			<edited>Panna Camel</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_PannaCamel" offset="00" relocatable="true" max_length="0">
+			<original>A camel found mainly in Solm. Most
+Solmic households have at least one
+for transportation and carrying cargo.</original>
+			<edited>A camel found mainly in Solm. Most
+Solmic households have at least one
+for transportation and carrying cargo.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_EleosPigeon" offset="00" relocatable="true" max_length="0">
+			<original>Elyosian Pigeon</original>
+			<edited>Elyosian Pigeon</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_EleosPigeon" offset="00" relocatable="true" max_length="0">
+			<original>A wild bird found in all regions of 
+Elyos. At times they appear in large
+flocks, causing a spectacle. </original>
+			<edited>A wild bird found in all regions of 
+Elyos. At times they appear in large
+flocks, causing a spectacle. </edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_EleosSeagull" offset="00" relocatable="true" max_length="0">
+			<original>Elyosian Seagull</original>
+			<edited>Elyosian Seagull</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_EleosSeagull" offset="00" relocatable="true" max_length="0">
+			<original>A wild bird that inhabits coastlines
+all over Elyos. They constantly try to
+sneak fish from the day's catch.</original>
+			<edited>A wild bird that inhabits coastlines
+all over Elyos. They constantly try to
+sneak fish from the day's catch.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_EleosDog" offset="00" relocatable="true" max_length="0">
+			<original>Elyosian Dog</original>
+			<edited>Elyosian Dog</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_EleosDog" offset="00" relocatable="true" max_length="0">
+			<original>A dog found in all regions of Elyos.
+These friendly, intelligent animals are
+often kept indoors as pets.</original>
+			<edited>A dog found in all regions of Elyos.
+These friendly, intelligent animals are
+often kept indoors as pets.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_EleosBlackDog" offset="00" relocatable="true" max_length="0">
+			<original>Black Elyosian Dog</original>
+			<edited>Black Elyosian Dog</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_EleosBlackDog" offset="00" relocatable="true" max_length="0">
+			<original>A dog found in all regions of Elyos.
+Known for their black coats, they are
+friendly and easily trained.</original>
+			<edited>A dog found in all regions of Elyos.
+Known for their black coats, they are
+friendly and easily trained.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_EleosWhiteDog" offset="00" relocatable="true" max_length="0">
+			<original>White Elyosian Dog</original>
+			<edited>White Elyosian Dog</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_EleosWhiteDog" offset="00" relocatable="true" max_length="0">
+			<original>A dog found in all regions of Elyos.
+Known for their white coats, they are
+friendly and easily trained.</original>
+			<edited>A dog found in all regions of Elyos.
+Known for their white coats, they are
+friendly and easily trained.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_MailDonkey" offset="00" relocatable="true" max_length="0">
+			<original>Mère Donkey</original>
+			<edited>Mère Donkey</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_MailDonkey" offset="00" relocatable="true" max_length="0">
+			<original>A rare animal found only in Firene.
+They prefer clean water and fresh
+produce. Legend says they are lucky.</original>
+			<edited>A rare animal found only in Firene.
+They prefer clean water and fresh
+produce. Legend says they are lucky.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_RutileMarmot" offset="00" relocatable="true" max_length="0">
+			<original>Rutile Marmot</original>
+			<edited>Rutile Marmot</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_RutileMarmot" offset="00" relocatable="true" max_length="0">
+			<original>A rare animal found only in Brodia.
+Considered a local guardian, they like
+uninhabited areas such as cliff tops.</original>
+			<edited>A rare animal found only in Brodia.
+Considered a local guardian, they like
+uninhabited areas such as cliff tops.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_LizardsReindeer" offset="00" relocatable="true" max_length="0">
+			<original>Vervain Deer</original>
+			<edited>Vervain Deer</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_LizardsReindeer" offset="00" relocatable="true" max_length="0">
+			<original>A rare animal found only in Elusia.
+Often found deep in the forest, their
+shed antlers make a wondrous cure.</original>
+			<edited>A rare animal found only in Elusia.
+Often found deep in the forest, their
+shed antlers make a wondrous cure.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_BavaroFlamingo" offset="00" relocatable="true" max_length="0">
+			<original>Tartu Flamingo</original>
+			<edited>Tartu Flamingo</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_BavaroFlamingo" offset="00" relocatable="true" max_length="0">
+			<original>A rare animal found only in Solm. 
+Royalty use these oasis-dwelling
+birds to send special messages.</original>
+			<edited>A rare animal found only in Solm. 
+Royalty use these oasis-dwelling
+birds to send special messages.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

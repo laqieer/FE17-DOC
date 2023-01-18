@@ -1,0 +1,597 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_ACHIEVE_RELIANCE_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;と支援会話を行った</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;と支援会話を行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RELIANCE_B_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>初めて支援会話Bを見た</original>
+			<edited>初めて支援会話Bを見た</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RELIANCE_B_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>仲間&#xE;&#x1;&#x0;&#x0;人の支援会話Bを見た</original>
+			<edited>仲間&#xE;&#x1;&#x0;&#x0;人の支援会話Bを見た</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RELIANCE_A_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>初めて支援会話Aを見た</original>
+			<edited>初めて支援会話Aを見た</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RELIANCE_A_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>仲間&#xE;&#x1;&#x0;&#x0;人の支援会話Aを見た</original>
+			<edited>仲間&#xE;&#x1;&#x0;&#x0;人の支援会話Aを見た</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RELIANCE_ENGAGE" offset="00" relocatable="true" max_length="0">
+			<original>支援会話&#xE;&#x8;&#x2;&#x1A;&#x18;&#x0;R&#x0;e&#x0;l&#x0;i&#x0;a&#x0;n&#x0;c&#x0;e&#x0;R&#x0;i&#x0;n&#x0;g&#x0;を見た</original>
+			<edited>支援会話&#xE;&#x8;&#x2;&#x1A;&#x18;&#x0;R&#x0;e&#x0;l&#x0;i&#x0;a&#x0;n&#x0;c&#x0;e&#x0;R&#x0;i&#x0;n&#x0;g&#x0;を見た</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_PLAY_TIME" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;時間プレイした</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;時間プレイした</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_CHAPTER_CLEAR" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;「&#xE;&#x1;&#x1;&#x0;」を終えた</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;「&#xE;&#x1;&#x1;&#x0;」を終えた</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ENCOUNT_BATTLE_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>遭遇戦を初めて行った</original>
+			<edited>遭遇戦を初めて行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ENCOUNT_BATTLE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>遭遇戦を&#xE;&#x1;&#x0;&#x0;回行った</original>
+			<edited>遭遇戦を&#xE;&#x1;&#x0;&#x0;回行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BATTLE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>戦闘を&#xE;&#x1;&#x0;&#x0;回行った</original>
+			<edited>戦闘を&#xE;&#x1;&#x0;&#x0;回行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_SOLDIER_DEFEAT_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>一般兵士を初めて撃破した</original>
+			<edited>一般兵士を初めて撃破した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_SOLDIER_DEFEAT_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>一般兵士を&#xE;&#x1;&#x0;&#x0;人撃破した</original>
+			<edited>一般兵士を&#xE;&#x1;&#x0;&#x0;人撃破した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_MORPH_DEFEAT_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>異形兵を初めて撃破した</original>
+			<edited>異形兵を初めて撃破した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_MORPH_DEFEAT_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>異形兵を&#xE;&#x1;&#x0;&#x0;体撃破した</original>
+			<edited>異形兵を&#xE;&#x1;&#x0;&#x0;体撃破した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BANDITS_DEFEAT_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>蛮族を初めて撃破した</original>
+			<edited>蛮族を初めて撃破した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BANDITS_DEFEAT_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>蛮族を&#xE;&#x1;&#x0;&#x0;人撃破した</original>
+			<edited>蛮族を&#xE;&#x1;&#x0;&#x0;人撃破した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_CANE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>杖を&#xE;&#x1;&#x0;&#x0;回使用した</original>
+			<edited>杖を&#xE;&#x1;&#x0;&#x0;回使用した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_SORTIE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;が&#xE;&#x1;&#x1;&#x0;回出撃した</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;が&#xE;&#x1;&#x1;&#x0;回出撃した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_CRITICAL_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>初めて必殺の一撃が発動した</original>
+			<edited>初めて必殺の一撃が発動した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_CRITICAL_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>必殺の一撃が&#xE;&#x1;&#x0;&#x0;回発動した</original>
+			<edited>必殺の一撃が&#xE;&#x1;&#x0;&#x0;回発動した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ENGAGE_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>初めてエンゲージを行った</original>
+			<edited>初めてエンゲージを行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ENGAGE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージを&#xE;&#x1;&#x0;&#x0;回行った</original>
+			<edited>エンゲージを&#xE;&#x1;&#x0;&#x0;回行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ENGAGEATTACK_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>初めてエンゲージ技を行った</original>
+			<edited>初めてエンゲージ技を行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ENGAGEATTACK_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ技を&#xE;&#x1;&#x0;&#x0;回行った</original>
+			<edited>エンゲージ技を&#xE;&#x1;&#x0;&#x0;回行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_AVOIDANCE_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>攻撃回避を初めて行った</original>
+			<edited>攻撃回避を初めて行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_AVOIDANCE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>攻撃回避を&#xE;&#x1;&#x0;&#x0;回行った</original>
+			<edited>攻撃回避を&#xE;&#x1;&#x0;&#x0;回行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_DEGENSE_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>攻撃防御を初めて行った</original>
+			<edited>攻撃防御を初めて行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_DEGENSE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>攻撃防御を&#xE;&#x1;&#x0;&#x0;回行った</original>
+			<edited>攻撃防御を&#xE;&#x1;&#x0;&#x0;回行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_CHAIN_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>チェインアタックを初めて行った</original>
+			<edited>チェインアタックを初めて行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_CHAIN_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>チェインアタックを&#xE;&#x1;&#x0;&#x0;回行った</original>
+			<edited>チェインアタックを&#xE;&#x1;&#x0;&#x0;回行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_CHAIN_UNIT_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;人のチェインアタックが発生した</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;人のチェインアタックが発生した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BREAK_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>ブレイクを初めて行った</original>
+			<edited>ブレイクを初めて行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BREAK_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>ブレイクを&#xE;&#x1;&#x0;&#x0;回行った</original>
+			<edited>ブレイクを&#xE;&#x1;&#x0;&#x0;回行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_SMASH_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>スマッシュを初めて行った</original>
+			<edited>スマッシュを初めて行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_SMASH_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>スマッシュを&#xE;&#x1;&#x0;&#x0;回行った</original>
+			<edited>スマッシュを&#xE;&#x1;&#x0;&#x0;回行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_MINIGAME_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>アクティビティを初めて行った</original>
+			<edited>アクティビティを初めて行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_MINIGAME_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>アクティビティを&#xE;&#x1;&#x0;&#x0;回行った</original>
+			<edited>アクティビティを&#xE;&#x1;&#x0;&#x0;回行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RING_FORM_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>指輪精製を初めて行った</original>
+			<edited>指輪精製を初めて行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RING_FORM_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>指輪精製を&#xE;&#x1;&#x0;&#x0;回行った</original>
+			<edited>指輪精製を&#xE;&#x1;&#x0;&#x0;回行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RING_MIX_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>指輪合成を初めて行った</original>
+			<edited>指輪合成を初めて行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RING_MIX_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>指輪合成を&#xE;&#x1;&#x0;&#x0;回行った</original>
+			<edited>指輪合成を&#xE;&#x1;&#x0;&#x0;回行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BONDSRING_C_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Cランクの絆の指輪を&#xE;&#x1;&#x0;&#x0;個手に入れた</original>
+			<edited>Cランクの絆の指輪を&#xE;&#x1;&#x0;&#x0;個手に入れた</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BONDSRING_B_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Bランクの絆の指輪を&#xE;&#x1;&#x0;&#x0;個手に入れた</original>
+			<edited>Bランクの絆の指輪を&#xE;&#x1;&#x0;&#x0;個手に入れた</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BONDSRING_A_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Aランクの絆の指輪を&#xE;&#x1;&#x0;&#x0;個手に入れた</original>
+			<edited>Aランクの絆の指輪を&#xE;&#x1;&#x0;&#x0;個手に入れた</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BONDSRING_S_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>Sランクの絆の指輪を初めて手に入れた</original>
+			<edited>Sランクの絆の指輪を初めて手に入れた</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BONDSRING_S_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Sランクの絆の指輪を&#xE;&#x1;&#x0;&#x0;個手に入れた</original>
+			<edited>Sランクの絆の指輪を&#xE;&#x1;&#x0;&#x0;個手に入れた</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RING_CLEANING_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>指輪&#xE;&#x1;&#x8;&#x0;磨きを初めて行った</original>
+			<edited>指輪&#xE;&#x1;&#x8;&#x0;磨きを初めて行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RING_CLEANING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>指輪&#xE;&#x1;&#x8;&#x0;磨きを&#xE;&#x1;&#x0;&#x0;回行った</original>
+			<edited>指輪&#xE;&#x1;&#x8;&#x0;磨きを&#xE;&#x1;&#x0;&#x0;回行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_INVESTMENT_FILENE" offset="00" relocatable="true" max_length="0">
+			<original>フィレネに投資を行った</original>
+			<edited>フィレネに投資を行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_INVESTMENT_BRODIA" offset="00" relocatable="true" max_length="0">
+			<original>ブロディアに投資を行った</original>
+			<edited>ブロディアに投資を行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_INVESTMENT_IRCION" offset="00" relocatable="true" max_length="0">
+			<original>イルシオンに投資を行った</original>
+			<edited>イルシオンに投資を行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_INVESTMENT_SOLUM" offset="00" relocatable="true" max_length="0">
+			<original>ソルムに投資を行った</original>
+			<edited>ソルムに投資を行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_INVESTMENT_FILENE_STAGE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>フィレネの投資段階が&#xE;&#x1;&#x0;&#x0;になった</original>
+			<edited>フィレネの投資段階が&#xE;&#x1;&#x0;&#x0;になった</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_INVESTMENT_BRODIA_STAGE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>ブロディアの投資段階が&#xE;&#x1;&#x0;&#x0;になった</original>
+			<edited>ブロディアの投資段階が&#xE;&#x1;&#x0;&#x0;になった</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_INVESTMENT_IRCION_STAGE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>イルシオンの投資段階が&#xE;&#x1;&#x0;&#x0;になった</original>
+			<edited>イルシオンの投資段階が&#xE;&#x1;&#x0;&#x0;になった</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_INVESTMENT_SOLUM_STAGE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>ソルムの投資段階が&#xE;&#x1;&#x0;&#x0;になった</original>
+			<edited>ソルムの投資段階が&#xE;&#x1;&#x0;&#x0;になった</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_INVESTMENT_ALL_STAGE_MAX" offset="00" relocatable="true" max_length="0">
+			<original>全ての国の投資段階を最大にした</original>
+			<edited>全ての国の投資段階を最大にした</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_INVESTMENT_MONEY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>投資金額の合計が&#xE;&#x1;&#x0;&#x0;Gになった</original>
+			<edited>投資金額の合計が&#xE;&#x1;&#x0;&#x0;Gになった</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_COOK_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>料理を初めて行った</original>
+			<edited>料理を初めて行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_COOK_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>料理を&#xE;&#x1;&#x0;&#x0;回行った</original>
+			<edited>料理を&#xE;&#x1;&#x0;&#x0;回行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_COOK_RANK_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>出来栄え&#xE;&#x1;&#x0;&#x0;の料理を初めて行った</original>
+			<edited>出来栄え&#xE;&#x1;&#x0;&#x0;の料理を初めて行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_COOK_RANK_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>出来栄え&#xE;&#x1;&#x0;&#x0;の料理を&#xE;&#x1;&#x1;&#x0;回行った</original>
+			<edited>出来栄え&#xE;&#x1;&#x0;&#x0;の料理を&#xE;&#x1;&#x1;&#x0;回行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_SLEEP_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>初めてお目覚め会話が発生した</original>
+			<edited>初めてお目覚め会話が発生した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_SLEEP_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;回お目覚め会話が発生した</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;回お目覚め会話が発生した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_WAKEUP_EVENT_C_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>仲間&#xE;&#x1;&#x0;&#x0;人とお目覚め会話Cが発生した</original>
+			<edited>仲間&#xE;&#x1;&#x0;&#x0;人とお目覚め会話Cが発生した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_WAKEUP_EVENT_B_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>仲間&#xE;&#x1;&#x0;&#x0;人とお目覚め会話Bが発生した</original>
+			<edited>仲間&#xE;&#x1;&#x0;&#x0;人とお目覚め会話Bが発生した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_WAKEUP_EVENT_A_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>仲間&#xE;&#x1;&#x0;&#x0;人とお目覚め会話Aが発生した</original>
+			<edited>仲間&#xE;&#x1;&#x0;&#x0;人とお目覚め会話Aが発生した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_WAKEUP_EVENT_S" offset="00" relocatable="true" max_length="0">
+			<original>お目覚め会話&#xE;&#x8;&#x2;&#x1A;&#x18;&#x0;R&#x0;e&#x0;l&#x0;i&#x0;a&#x0;n&#x0;c&#x0;e&#x0;R&#x0;i&#x0;n&#x0;g&#x0;が発生した</original>
+			<edited>お目覚め会話&#xE;&#x8;&#x2;&#x1A;&#x18;&#x0;R&#x0;e&#x0;l&#x0;i&#x0;a&#x0;n&#x0;c&#x0;e&#x0;R&#x0;i&#x0;n&#x0;g&#x0;が発生した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ARENA_UNIT_BATTLE_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>鍛錬の間で仲間と初めて戦った</original>
+			<edited>鍛錬の間で仲間と初めて戦った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ARENA_UNIT_BATTLE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>鍛錬の間で仲間と&#xE;&#x1;&#x0;&#x0;回戦った</original>
+			<edited>鍛錬の間で仲間と&#xE;&#x1;&#x0;&#x0;回戦った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ARENA_UNIT_WIN_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>鍛錬の間で仲間に初めて勝利した</original>
+			<edited>鍛錬の間で仲間に初めて勝利した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ARENA_UNIT_WIN_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>鍛錬の間で仲間に&#xE;&#x1;&#x0;&#x0;回勝利した</original>
+			<edited>鍛錬の間で仲間に&#xE;&#x1;&#x0;&#x0;回勝利した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ARENA_GOD_BATTLE_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>鍛錬の間で紋章士と初めて戦った</original>
+			<edited>鍛錬の間で紋章士と初めて戦った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ARENA_GOD_BATTLE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>鍛錬の間で紋章士と&#xE;&#x1;&#x0;&#x0;回戦った</original>
+			<edited>鍛錬の間で紋章士と&#xE;&#x1;&#x0;&#x0;回戦った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ARENA_GOD_WIN_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>鍛錬の間で紋章士に初めて勝利した</original>
+			<edited>鍛錬の間で紋章士に初めて勝利した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ARENA_GOD_WIN_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>鍛錬の間で紋章士に&#xE;&#x1;&#x0;&#x0;回勝利した</original>
+			<edited>鍛錬の間で紋章士に&#xE;&#x1;&#x0;&#x0;回勝利した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_WEAPON_BUY_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>武器を初めて購入した</original>
+			<edited>武器を初めて購入した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_WEAPON_BUY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>武器を&#xE;&#x1;&#x0;&#x0;個購入した</original>
+			<edited>武器を&#xE;&#x1;&#x0;&#x0;個購入した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_SWORD_BUY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>剣系の武器を&#xE;&#x1;&#x0;&#x0;個購入した</original>
+			<edited>剣系の武器を&#xE;&#x1;&#x0;&#x0;個購入した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_LANCE_BUY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>槍系の武器を&#xE;&#x1;&#x0;&#x0;個購入した</original>
+			<edited>槍系の武器を&#xE;&#x1;&#x0;&#x0;個購入した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_AXE_BUY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>斧系の武器を&#xE;&#x1;&#x0;&#x0;個購入した</original>
+			<edited>斧系の武器を&#xE;&#x1;&#x0;&#x0;個購入した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BOW_BUY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>弓系の武器を&#xE;&#x1;&#x0;&#x0;個購入した</original>
+			<edited>弓系の武器を&#xE;&#x1;&#x0;&#x0;個購入した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_KNIFE_BUY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>短剣系の武器を&#xE;&#x1;&#x0;&#x0;個購入した</original>
+			<edited>短剣系の武器を&#xE;&#x1;&#x0;&#x0;個購入した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_MAGIC_BUY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>魔道書系の武器を&#xE;&#x1;&#x0;&#x0;個購入した</original>
+			<edited>魔道書系の武器を&#xE;&#x1;&#x0;&#x0;個購入した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_FIST_BUY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>体術系の武器を&#xE;&#x1;&#x0;&#x0;個購入した</original>
+			<edited>体術系の武器を&#xE;&#x1;&#x0;&#x0;個購入した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_WEAPON_SELL_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>武器を初めて売却した</original>
+			<edited>武器を初めて売却した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_WEAPON_SELL_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>武器を&#xE;&#x1;&#x0;&#x0;個売却した</original>
+			<edited>武器を&#xE;&#x1;&#x0;&#x0;個売却した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ITEM_BUY_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>道具を初めて購入した</original>
+			<edited>道具を初めて購入した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ITEM_BUY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>道具を&#xE;&#x1;&#x0;&#x0;個購入した</original>
+			<edited>道具を&#xE;&#x1;&#x0;&#x0;個購入した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ROD_BUY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>杖を&#xE;&#x1;&#x0;&#x0;個購入した</original>
+			<edited>杖を&#xE;&#x1;&#x0;&#x0;個購入した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ITEM_SELL_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>道具を初めて売却した</original>
+			<edited>道具を初めて売却した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ITEM_SELL_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>道具を&#xE;&#x1;&#x0;&#x0;個売却した</original>
+			<edited>道具を&#xE;&#x1;&#x0;&#x0;個売却した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ACCESSORIES_BUY_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>アクセサリーを初めて購入した</original>
+			<edited>アクセサリーを初めて購入した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ACCESSORIES_BUY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>アクセサリーを&#xE;&#x1;&#x0;&#x0;個購入した</original>
+			<edited>アクセサリーを&#xE;&#x1;&#x0;&#x0;個購入した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ACCESSORIES_CHANGE_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>アクセサリーを初めて着せ替えた</original>
+			<edited>アクセサリーを初めて着せ替えた</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ACCESSORIES_CHANGE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>アクセサリーを&#xE;&#x1;&#x0;&#x0;回着せ替えた</original>
+			<edited>アクセサリーを&#xE;&#x1;&#x0;&#x0;回着せ替えた</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_WEAPON_FORGING_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>武器の錬成を初めて行った</original>
+			<edited>武器の錬成を初めて行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_WEAPON_FORGING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>武器の錬成を&#xE;&#x1;&#x0;&#x0;回行った</original>
+			<edited>武器の錬成を&#xE;&#x1;&#x0;&#x0;回行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_SWORD_FORGING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>剣系の武器を&#xE;&#x1;&#x0;&#x0;回錬成した</original>
+			<edited>剣系の武器を&#xE;&#x1;&#x0;&#x0;回錬成した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_LANCE_FORGING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>槍系の武器を&#xE;&#x1;&#x0;&#x0;回錬成した</original>
+			<edited>槍系の武器を&#xE;&#x1;&#x0;&#x0;回錬成した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_AXE_FORGING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>斧系の武器を&#xE;&#x1;&#x0;&#x0;回錬成した</original>
+			<edited>斧系の武器を&#xE;&#x1;&#x0;&#x0;回錬成した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BOW_FORGING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>弓系の武器を&#xE;&#x1;&#x0;&#x0;回錬成した</original>
+			<edited>弓系の武器を&#xE;&#x1;&#x0;&#x0;回錬成した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_KNIFE_FORGING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>短剣系の武器を&#xE;&#x1;&#x0;&#x0;回錬成した</original>
+			<edited>短剣系の武器を&#xE;&#x1;&#x0;&#x0;回錬成した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_MAGIC_FORGING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>魔道書系の武器を&#xE;&#x1;&#x0;&#x0;回錬成した</original>
+			<edited>魔道書系の武器を&#xE;&#x1;&#x0;&#x0;回錬成した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_FIST_FORGING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>体術系の武器を&#xE;&#x1;&#x0;&#x0;回錬成した</original>
+			<edited>体術系の武器を&#xE;&#x1;&#x0;&#x0;回錬成した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ENGRAVE_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>武器に初めて紋章を刻んだ</original>
+			<edited>武器に初めて紋章を刻んだ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ENGRAVE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>武器に&#xE;&#x1;&#x0;&#x0;回紋章を刻んだ</original>
+			<edited>武器に&#xE;&#x1;&#x0;&#x0;回紋章を刻んだ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_NETMATCH_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>異界の試練を初めて行った</original>
+			<edited>異界の試練を初めて行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_NETMATCH_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>異界の試練を&#xE;&#x1;&#x0;&#x0;回行った</original>
+			<edited>異界の試練を&#xE;&#x1;&#x0;&#x0;回行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_NETMATCH_WIN_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>異界の試練で初めて勝利した</original>
+			<edited>異界の試練で初めて勝利した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_NETMATCH_WIN_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>異界の試練で&#xE;&#x1;&#x0;&#x0;回勝利した</original>
+			<edited>異界の試練で&#xE;&#x1;&#x0;&#x0;回勝利した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RELAYBATTLE_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>繋戦の試練を初めて行った</original>
+			<edited>繋戦の試練を初めて行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RELAYBATTLE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>繋戦の試練を&#xE;&#x1;&#x0;&#x0;回行った</original>
+			<edited>繋戦の試練を&#xE;&#x1;&#x0;&#x0;回行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RELAYBATTLE_WIN_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>繋戦の試練で初めて勝利した</original>
+			<edited>繋戦の試練で初めて勝利した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RELAYBATTLE_WIN_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>繋戦の試練で&#xE;&#x1;&#x0;&#x0;回勝利した</original>
+			<edited>繋戦の試練で&#xE;&#x1;&#x0;&#x0;回勝利した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_SERIESBATTLE_RANK1" offset="00" relocatable="true" max_length="0">
+			<original>連戦の試練「&#xE;&#x1;&#x0;&#x0;」で最低難易度を完勝した</original>
+			<edited>連戦の試練「&#xE;&#x1;&#x0;&#x0;」で最低難易度を完勝した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_SERIESBATTLE_RANK" offset="00" relocatable="true" max_length="0">
+			<original>連戦の試練「&#xE;&#x1;&#x0;&#x0;」で難易度&#xE;&#x1;&#x1;&#x0;を完勝した</original>
+			<edited>連戦の試練「&#xE;&#x1;&#x0;&#x0;」で難易度&#xE;&#x1;&#x1;&#x0;を完勝した</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

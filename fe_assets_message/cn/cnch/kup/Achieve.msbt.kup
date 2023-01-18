@@ -1,0 +1,597 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_ACHIEVE_RELIANCE_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>与&#xE;&#x1;&#x0;&#x0;进行了支援对话。</original>
+			<edited>与&#xE;&#x1;&#x0;&#x0;进行了支援对话。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RELIANCE_B_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次观看等级B的支援对话。</original>
+			<edited>首次观看等级B的支援对话。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RELIANCE_B_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>观看了&#xE;&#x1;&#x0;&#x0;名伙伴等级B的支援对话。</original>
+			<edited>观看了&#xE;&#x1;&#x0;&#x0;名伙伴等级B的支援对话。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RELIANCE_A_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次观看等级A的支援对话。</original>
+			<edited>首次观看等级A的支援对话。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RELIANCE_A_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>观看了&#xE;&#x1;&#x0;&#x0;名伙伴等级A的支援对话。</original>
+			<edited>观看了&#xE;&#x1;&#x0;&#x0;名伙伴等级A的支援对话。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RELIANCE_ENGAGE" offset="00" relocatable="true" max_length="0">
+			<original>观看了支援对话&#xE;&#x8;&#x2;&#x1A;&#x18;&#x0;R&#x0;e&#x0;l&#x0;i&#x0;a&#x0;n&#x0;c&#x0;e&#x0;R&#x0;i&#x0;n&#x0;g&#x0;。</original>
+			<edited>观看了支援对话&#xE;&#x8;&#x2;&#x1A;&#x18;&#x0;R&#x0;e&#x0;l&#x0;i&#x0;a&#x0;n&#x0;c&#x0;e&#x0;R&#x0;i&#x0;n&#x0;g&#x0;。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_PLAY_TIME" offset="00" relocatable="true" max_length="0">
+			<original>游玩了&#xE;&#x1;&#x0;&#x0;小时。</original>
+			<edited>游玩了&#xE;&#x1;&#x0;&#x0;小时。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_CHAPTER_CLEAR" offset="00" relocatable="true" max_length="0">
+			<original>已完成&#xE;&#x1;&#x0;&#x0;《&#xE;&#x1;&#x1;&#x0;》。</original>
+			<edited>已完成&#xE;&#x1;&#x0;&#x0;《&#xE;&#x1;&#x1;&#x0;》。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ENCOUNT_BATTLE_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次进行遭遇战。</original>
+			<edited>首次进行遭遇战。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ENCOUNT_BATTLE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>进行了&#xE;&#x1;&#x0;&#x0;次遭遇战。</original>
+			<edited>进行了&#xE;&#x1;&#x0;&#x0;次遭遇战。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BATTLE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>进行了&#xE;&#x1;&#x0;&#x0;次战斗。</original>
+			<edited>进行了&#xE;&#x1;&#x0;&#x0;次战斗。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_SOLDIER_DEFEAT_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次击败一般士兵。</original>
+			<edited>首次击败一般士兵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_SOLDIER_DEFEAT_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>击败了&#xE;&#x1;&#x0;&#x0;名一般士兵。</original>
+			<edited>击败了&#xE;&#x1;&#x0;&#x0;名一般士兵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_MORPH_DEFEAT_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次击败异形兵。</original>
+			<edited>首次击败异形兵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_MORPH_DEFEAT_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>击败了&#xE;&#x1;&#x0;&#x0;个异形兵。</original>
+			<edited>击败了&#xE;&#x1;&#x0;&#x0;个异形兵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BANDITS_DEFEAT_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次击败蛮族。</original>
+			<edited>首次击败蛮族。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BANDITS_DEFEAT_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>击败了&#xE;&#x1;&#x0;&#x0;名蛮族。</original>
+			<edited>击败了&#xE;&#x1;&#x0;&#x0;名蛮族。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_CANE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>使用了&#xE;&#x1;&#x0;&#x0;次杖。</original>
+			<edited>使用了&#xE;&#x1;&#x0;&#x0;次杖。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_SORTIE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;出击了&#xE;&#x1;&#x1;&#x0;次。</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;出击了&#xE;&#x1;&#x1;&#x0;次。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_CRITICAL_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次发动必杀攻击。</original>
+			<edited>首次发动必杀攻击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_CRITICAL_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>发动了&#xE;&#x1;&#x0;&#x0;次必杀攻击。</original>
+			<edited>发动了&#xE;&#x1;&#x0;&#x0;次必杀攻击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ENGAGE_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次进行结合。</original>
+			<edited>首次进行结合。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ENGAGE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>进行了&#xE;&#x1;&#x0;&#x0;次结合。</original>
+			<edited>进行了&#xE;&#x1;&#x0;&#x0;次结合。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ENGAGEATTACK_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次发动结合技。</original>
+			<edited>首次发动结合技。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ENGAGEATTACK_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>发动了&#xE;&#x1;&#x0;&#x0;次结合技。</original>
+			<edited>发动了&#xE;&#x1;&#x0;&#x0;次结合技。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_AVOIDANCE_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次回避攻击。</original>
+			<edited>首次回避攻击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_AVOIDANCE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>回避了&#xE;&#x1;&#x0;&#x0;次攻击。</original>
+			<edited>回避了&#xE;&#x1;&#x0;&#x0;次攻击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_DEGENSE_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次防御攻击。</original>
+			<edited>首次防御攻击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_DEGENSE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>防御了&#xE;&#x1;&#x0;&#x0;次攻击。</original>
+			<edited>防御了&#xE;&#x1;&#x0;&#x0;次攻击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_CHAIN_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次发动连锁攻击。</original>
+			<edited>首次发动连锁攻击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_CHAIN_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>发动了&#xE;&#x1;&#x0;&#x0;次连锁攻击。</original>
+			<edited>发动了&#xE;&#x1;&#x0;&#x0;次连锁攻击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_CHAIN_UNIT_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>发动了&#xE;&#x1;&#x0;&#x0;人的连锁攻击。</original>
+			<edited>发动了&#xE;&#x1;&#x0;&#x0;人的连锁攻击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BREAK_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次发动打破。</original>
+			<edited>首次发动打破。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BREAK_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>发动了&#xE;&#x1;&#x0;&#x0;次打破。</original>
+			<edited>发动了&#xE;&#x1;&#x0;&#x0;次打破。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_SMASH_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次发动猛击。</original>
+			<edited>首次发动猛击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_SMASH_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>发动了&#xE;&#x1;&#x0;&#x0;次猛击。</original>
+			<edited>发动了&#xE;&#x1;&#x0;&#x0;次猛击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_MINIGAME_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次游玩活动。</original>
+			<edited>首次游玩活动。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_MINIGAME_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>游玩了&#xE;&#x1;&#x0;&#x0;次活动。</original>
+			<edited>游玩了&#xE;&#x1;&#x0;&#x0;次活动。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RING_FORM_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次精炼戒指。</original>
+			<edited>首次精炼戒指。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RING_FORM_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>精炼了&#xE;&#x1;&#x0;&#x0;次戒指。</original>
+			<edited>精炼了&#xE;&#x1;&#x0;&#x0;次戒指。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RING_MIX_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次合成戒指。</original>
+			<edited>首次合成戒指。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RING_MIX_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>合成了&#xE;&#x1;&#x0;&#x0;次戒指。</original>
+			<edited>合成了&#xE;&#x1;&#x0;&#x0;次戒指。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BONDSRING_C_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>获得了&#xE;&#x1;&#x0;&#x0;枚阶级C的牵绊戒指。</original>
+			<edited>获得了&#xE;&#x1;&#x0;&#x0;枚阶级C的牵绊戒指。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BONDSRING_B_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>获得了&#xE;&#x1;&#x0;&#x0;枚阶级B的牵绊戒指。</original>
+			<edited>获得了&#xE;&#x1;&#x0;&#x0;枚阶级B的牵绊戒指。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BONDSRING_A_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>获得了&#xE;&#x1;&#x0;&#x0;枚阶级A的牵绊戒指。</original>
+			<edited>获得了&#xE;&#x1;&#x0;&#x0;枚阶级A的牵绊戒指。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BONDSRING_S_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次获得阶级S的牵绊戒指。</original>
+			<edited>首次获得阶级S的牵绊戒指。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BONDSRING_S_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>获得了&#xE;&#x1;&#x0;&#x0;枚阶级S的牵绊戒指。</original>
+			<edited>获得了&#xE;&#x1;&#x0;&#x0;枚阶级S的牵绊戒指。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RING_CLEANING_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次研磨戒指&#xE;&#x1;&#x8;&#x0;。</original>
+			<edited>首次研磨戒指&#xE;&#x1;&#x8;&#x0;。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RING_CLEANING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>研磨了&#xE;&#x1;&#x0;&#x0;次戒指&#xE;&#x1;&#x8;&#x0;。</original>
+			<edited>研磨了&#xE;&#x1;&#x0;&#x0;次戒指&#xE;&#x1;&#x8;&#x0;。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_INVESTMENT_FILENE" offset="00" relocatable="true" max_length="0">
+			<original>投资了费列聂。</original>
+			<edited>投资了费列聂。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_INVESTMENT_BRODIA" offset="00" relocatable="true" max_length="0">
+			<original>投资了布罗帝亚。</original>
+			<edited>投资了布罗帝亚。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_INVESTMENT_IRCION" offset="00" relocatable="true" max_length="0">
+			<original>投资了伊尔席翁。</original>
+			<edited>投资了伊尔席翁。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_INVESTMENT_SOLUM" offset="00" relocatable="true" max_length="0">
+			<original>投资了索尔姆。</original>
+			<edited>投资了索尔姆。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_INVESTMENT_FILENE_STAGE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>费列聂的投资阶级升至&#xE;&#x1;&#x0;&#x0;。</original>
+			<edited>费列聂的投资阶级升至&#xE;&#x1;&#x0;&#x0;。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_INVESTMENT_BRODIA_STAGE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>布罗帝亚的投资阶级升至&#xE;&#x1;&#x0;&#x0;。</original>
+			<edited>布罗帝亚的投资阶级升至&#xE;&#x1;&#x0;&#x0;。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_INVESTMENT_IRCION_STAGE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>伊尔席翁的投资阶级升至&#xE;&#x1;&#x0;&#x0;。</original>
+			<edited>伊尔席翁的投资阶级升至&#xE;&#x1;&#x0;&#x0;。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_INVESTMENT_SOLUM_STAGE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>索尔姆的投资阶级升至&#xE;&#x1;&#x0;&#x0;。</original>
+			<edited>索尔姆的投资阶级升至&#xE;&#x1;&#x0;&#x0;。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_INVESTMENT_ALL_STAGE_MAX" offset="00" relocatable="true" max_length="0">
+			<original>所有国家的投资阶级皆已达上限。</original>
+			<edited>所有国家的投资阶级皆已达上限。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_INVESTMENT_MONEY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>投资金额总计为&#xE;&#x1;&#x0;&#x0;G。</original>
+			<edited>投资金额总计为&#xE;&#x1;&#x0;&#x0;G。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_COOK_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次制作料理。</original>
+			<edited>首次制作料理。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_COOK_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>制作了&#xE;&#x1;&#x0;&#x0;次料理。</original>
+			<edited>制作了&#xE;&#x1;&#x0;&#x0;次料理。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_COOK_RANK_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次制作特性为&#xE;&#x1;&#x0;&#x0;的料理。</original>
+			<edited>首次制作特性为&#xE;&#x1;&#x0;&#x0;的料理。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_COOK_RANK_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>制作了&#xE;&#x1;&#x1;&#x0;次特性为&#xE;&#x1;&#x0;&#x0;的料理。</original>
+			<edited>制作了&#xE;&#x1;&#x1;&#x0;次特性为&#xE;&#x1;&#x0;&#x0;的料理。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_SLEEP_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次触发唤醒对话。</original>
+			<edited>首次触发唤醒对话。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_SLEEP_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>触发了&#xE;&#x1;&#x0;&#x0;次唤醒对话。</original>
+			<edited>触发了&#xE;&#x1;&#x0;&#x0;次唤醒对话。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_WAKEUP_EVENT_C_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>触发了与&#xE;&#x1;&#x0;&#x0;名伙伴等级C的唤醒对话。</original>
+			<edited>触发了与&#xE;&#x1;&#x0;&#x0;名伙伴等级C的唤醒对话。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_WAKEUP_EVENT_B_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>触发了与&#xE;&#x1;&#x0;&#x0;名伙伴等级B的唤醒对话。</original>
+			<edited>触发了与&#xE;&#x1;&#x0;&#x0;名伙伴等级B的唤醒对话。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_WAKEUP_EVENT_A_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>触发了与&#xE;&#x1;&#x0;&#x0;名伙伴等级A的唤醒对话。</original>
+			<edited>触发了与&#xE;&#x1;&#x0;&#x0;名伙伴等级A的唤醒对话。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_WAKEUP_EVENT_S" offset="00" relocatable="true" max_length="0">
+			<original>触发了与伙伴的唤醒对话&#xE;&#x8;&#x2;&#x1A;&#x18;&#x0;R&#x0;e&#x0;l&#x0;i&#x0;a&#x0;n&#x0;c&#x0;e&#x0;R&#x0;i&#x0;n&#x0;g&#x0;。</original>
+			<edited>触发了与伙伴的唤醒对话&#xE;&#x8;&#x2;&#x1A;&#x18;&#x0;R&#x0;e&#x0;l&#x0;i&#x0;a&#x0;n&#x0;c&#x0;e&#x0;R&#x0;i&#x0;n&#x0;g&#x0;。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ARENA_UNIT_BATTLE_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次在锻炼之间与伙伴战斗。</original>
+			<edited>首次在锻炼之间与伙伴战斗。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ARENA_UNIT_BATTLE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>在锻炼之间与伙伴战斗了&#xE;&#x1;&#x0;&#x0;次。</original>
+			<edited>在锻炼之间与伙伴战斗了&#xE;&#x1;&#x0;&#x0;次。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ARENA_UNIT_WIN_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次在锻炼之间战胜伙伴。</original>
+			<edited>首次在锻炼之间战胜伙伴。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ARENA_UNIT_WIN_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>在锻炼之间战胜了伙伴&#xE;&#x1;&#x0;&#x0;次。</original>
+			<edited>在锻炼之间战胜了伙伴&#xE;&#x1;&#x0;&#x0;次。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ARENA_GOD_BATTLE_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次在锻炼之间与纹章士战斗。</original>
+			<edited>首次在锻炼之间与纹章士战斗。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ARENA_GOD_BATTLE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>在锻炼之间与纹章士战斗了&#xE;&#x1;&#x0;&#x0;次。</original>
+			<edited>在锻炼之间与纹章士战斗了&#xE;&#x1;&#x0;&#x0;次。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ARENA_GOD_WIN_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次在锻炼之间战胜纹章士。</original>
+			<edited>首次在锻炼之间战胜纹章士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ARENA_GOD_WIN_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>在锻炼之间战胜了纹章士&#xE;&#x1;&#x0;&#x0;次。</original>
+			<edited>在锻炼之间战胜了纹章士&#xE;&#x1;&#x0;&#x0;次。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_WEAPON_BUY_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次购买武器。</original>
+			<edited>首次购买武器。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_WEAPON_BUY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>购买了&#xE;&#x1;&#x0;&#x0;件武器。</original>
+			<edited>购买了&#xE;&#x1;&#x0;&#x0;件武器。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_SWORD_BUY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>购买了&#xE;&#x1;&#x0;&#x0;件剑类武器。</original>
+			<edited>购买了&#xE;&#x1;&#x0;&#x0;件剑类武器。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_LANCE_BUY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>购买了&#xE;&#x1;&#x0;&#x0;件枪类武器。</original>
+			<edited>购买了&#xE;&#x1;&#x0;&#x0;件枪类武器。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_AXE_BUY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>购买了&#xE;&#x1;&#x0;&#x0;件斧类武器。</original>
+			<edited>购买了&#xE;&#x1;&#x0;&#x0;件斧类武器。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BOW_BUY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>购买了&#xE;&#x1;&#x0;&#x0;件弓类武器。</original>
+			<edited>购买了&#xE;&#x1;&#x0;&#x0;件弓类武器。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_KNIFE_BUY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>购买了&#xE;&#x1;&#x0;&#x0;件短剑类武器。</original>
+			<edited>购买了&#xE;&#x1;&#x0;&#x0;件短剑类武器。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_MAGIC_BUY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>购买了&#xE;&#x1;&#x0;&#x0;件魔道书类武器。</original>
+			<edited>购买了&#xE;&#x1;&#x0;&#x0;件魔道书类武器。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_FIST_BUY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>购买了&#xE;&#x1;&#x0;&#x0;件体术类武器。</original>
+			<edited>购买了&#xE;&#x1;&#x0;&#x0;件体术类武器。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_WEAPON_SELL_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次出售武器。</original>
+			<edited>首次出售武器。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_WEAPON_SELL_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>出售了&#xE;&#x1;&#x0;&#x0;件武器。</original>
+			<edited>出售了&#xE;&#x1;&#x0;&#x0;件武器。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ITEM_BUY_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次购买道具。</original>
+			<edited>首次购买道具。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ITEM_BUY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>购买了&#xE;&#x1;&#x0;&#x0;个道具。</original>
+			<edited>购买了&#xE;&#x1;&#x0;&#x0;个道具。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ROD_BUY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>购买了&#xE;&#x1;&#x0;&#x0;把杖。</original>
+			<edited>购买了&#xE;&#x1;&#x0;&#x0;把杖。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ITEM_SELL_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次出售道具。</original>
+			<edited>首次出售道具。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ITEM_SELL_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>出售了&#xE;&#x1;&#x0;&#x0;个道具。</original>
+			<edited>出售了&#xE;&#x1;&#x0;&#x0;个道具。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ACCESSORIES_BUY_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次购买装饰品。</original>
+			<edited>首次购买装饰品。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ACCESSORIES_BUY_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>购买了&#xE;&#x1;&#x0;&#x0;件装饰品。</original>
+			<edited>购买了&#xE;&#x1;&#x0;&#x0;件装饰品。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ACCESSORIES_CHANGE_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次更换装饰品。</original>
+			<edited>首次更换装饰品。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ACCESSORIES_CHANGE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>更换了&#xE;&#x1;&#x0;&#x0;次装饰品。</original>
+			<edited>更换了&#xE;&#x1;&#x0;&#x0;次装饰品。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_WEAPON_FORGING_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次锻造武器。</original>
+			<edited>首次锻造武器。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_WEAPON_FORGING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>锻造了&#xE;&#x1;&#x0;&#x0;次武器。</original>
+			<edited>锻造了&#xE;&#x1;&#x0;&#x0;次武器。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_SWORD_FORGING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>锻造了&#xE;&#x1;&#x0;&#x0;次剑类武器。</original>
+			<edited>锻造了&#xE;&#x1;&#x0;&#x0;次剑类武器。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_LANCE_FORGING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>锻造了&#xE;&#x1;&#x0;&#x0;次枪类武器。</original>
+			<edited>锻造了&#xE;&#x1;&#x0;&#x0;次枪类武器。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_AXE_FORGING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>锻造了&#xE;&#x1;&#x0;&#x0;次斧类武器。</original>
+			<edited>锻造了&#xE;&#x1;&#x0;&#x0;次斧类武器。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_BOW_FORGING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>锻造了&#xE;&#x1;&#x0;&#x0;次弓类武器。</original>
+			<edited>锻造了&#xE;&#x1;&#x0;&#x0;次弓类武器。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_KNIFE_FORGING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>锻造了&#xE;&#x1;&#x0;&#x0;次短剑类武器。</original>
+			<edited>锻造了&#xE;&#x1;&#x0;&#x0;次短剑类武器。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_MAGIC_FORGING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>锻造了&#xE;&#x1;&#x0;&#x0;次魔道书类武器。</original>
+			<edited>锻造了&#xE;&#x1;&#x0;&#x0;次魔道书类武器。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_FIST_FORGING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>锻造了&#xE;&#x1;&#x0;&#x0;次体术类武器。</original>
+			<edited>锻造了&#xE;&#x1;&#x0;&#x0;次体术类武器。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ENGRAVE_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次给武器刻上纹章。</original>
+			<edited>首次给武器刻上纹章。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_ENGRAVE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>在武器上刻入纹章&#xE;&#x1;&#x0;&#x0;次。</original>
+			<edited>在武器上刻入纹章&#xE;&#x1;&#x0;&#x0;次。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_NETMATCH_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次进行异界的试炼。</original>
+			<edited>首次进行异界的试炼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_NETMATCH_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>挑战了&#xE;&#x1;&#x0;&#x0;次异界的试炼。</original>
+			<edited>挑战了&#xE;&#x1;&#x0;&#x0;次异界的试炼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_NETMATCH_WIN_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次于异界的试炼中获胜。</original>
+			<edited>首次于异界的试炼中获胜。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_NETMATCH_WIN_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>于异界的试炼中获胜了&#xE;&#x1;&#x0;&#x0;次。</original>
+			<edited>于异界的试炼中获胜了&#xE;&#x1;&#x0;&#x0;次。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RELAYBATTLE_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次进行续战的试炼。</original>
+			<edited>首次进行续战的试炼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RELAYBATTLE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>挑战了&#xE;&#x1;&#x0;&#x0;次续战的试炼。</original>
+			<edited>挑战了&#xE;&#x1;&#x0;&#x0;次续战的试炼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RELAYBATTLE_WIN_FIRST" offset="00" relocatable="true" max_length="0">
+			<original>首次于续战的试炼中获胜。</original>
+			<edited>首次于续战的试炼中获胜。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_RELAYBATTLE_WIN_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>于续战的试炼中获胜了&#xE;&#x1;&#x0;&#x0;次。</original>
+			<edited>于续战的试炼中获胜了&#xE;&#x1;&#x0;&#x0;次。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_SERIESBATTLE_RANK1" offset="00" relocatable="true" max_length="0">
+			<original>于连战的试炼“&#xE;&#x1;&#x0;&#x0;”最低难度中大获全胜。</original>
+			<edited>于连战的试炼“&#xE;&#x1;&#x0;&#x0;”最低难度中大获全胜。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ACHIEVE_SERIESBATTLE_RANK" offset="00" relocatable="true" max_length="0">
+			<original>于连战的试炼“&#xE;&#x1;&#x0;&#x0;”难度&#xE;&#x1;&#x1;&#x0;中大获全胜。</original>
+			<edited>于连战的试炼“&#xE;&#x1;&#x0;&#x0;”难度&#xE;&#x1;&#x1;&#x0;中大获全胜。</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

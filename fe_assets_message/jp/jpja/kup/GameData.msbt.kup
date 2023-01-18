@@ -1,0 +1,1825 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_PLACE_Filene" offset="00" relocatable="true" max_length="0">
+			<original>フィレネ</original>
+			<edited>フィレネ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PLACE_Brodia" offset="00" relocatable="true" max_length="0">
+			<original>ブロディア</original>
+			<edited>ブロディア</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PLACE_Ircion" offset="00" relocatable="true" max_length="0">
+			<original>イルシオン</original>
+			<edited>イルシオン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PLACE_Solum" offset="00" relocatable="true" max_length="0">
+			<original>ソルム</original>
+			<edited>ソルム</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PLACE_Lithos" offset="00" relocatable="true" max_length="0">
+			<original>リトス</original>
+			<edited>リトス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PLACE_Gradron" offset="00" relocatable="true" max_length="0">
+			<original>グラドロン</original>
+			<edited>グラドロン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M000_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>序章</original>
+			<edited>序章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M000" offset="00" relocatable="true" max_length="0">
+			<original>紋章士</original>
+			<edited>紋章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M000_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>神竜王城</original>
+			<edited>神竜王城</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M001_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第1章</original>
+			<edited>第1章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M001" offset="00" relocatable="true" max_length="0">
+			<original>目覚め</original>
+			<edited>目覚め</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M001_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>リトスの草原</original>
+			<edited>リトスの草原</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M002_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第2章</original>
+			<edited>第2章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M002" offset="00" relocatable="true" max_length="0">
+			<original>神竜王ルミエル</original>
+			<edited>神竜王ルミエル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M002_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>神竜王城の庭園</original>
+			<edited>神竜王城の庭園</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M003_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第3章</original>
+			<edited>第3章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M003" offset="00" relocatable="true" max_length="0">
+			<original>襲撃者</original>
+			<edited>襲撃者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M003_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>紋章の指輪の間</original>
+			<edited>紋章の指輪の間</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M004_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第4章</original>
+			<edited>第4章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M004" offset="00" relocatable="true" max_length="0">
+			<original>花の風車村</original>
+			<edited>花の風車村</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M004_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>フルルの風車村</original>
+			<edited>フルルの風車村</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M005_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第5章</original>
+			<edited>第5章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M005" offset="00" relocatable="true" max_length="0">
+			<original>王城奪還</original>
+			<edited>王城奪還</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M005_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>フィレネ城</original>
+			<edited>フィレネ城</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M005_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>フィレネ城にイルシオン軍が侵攻したという
+報せを聞き、神竜軍はイヴ女王の元へ急ぐ。</original>
+			<edited>フィレネ城にイルシオン軍が侵攻したという
+報せを聞き、神竜軍はイヴ女王の元へ急ぐ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M006_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第6章</original>
+			<edited>第6章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M006" offset="00" relocatable="true" max_length="0">
+			<original>奪われた指輪</original>
+			<edited>奪われた指輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M006_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>峠の集落</original>
+			<edited>峠の集落</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M006_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>無事にフィレネ王城を奪還した一行は、
+『暁の巫女の指輪』がある祠へと向かう。</original>
+			<edited>無事にフィレネ王城を奪還した一行は、
+『暁の巫女の指輪』がある祠へと向かう。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M007_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第7章</original>
+			<edited>第7章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M007" offset="00" relocatable="true" max_length="0">
+			<original>闇の紋章士</original>
+			<edited>闇の紋章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M007_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>グランスール大橋</original>
+			<edited>グランスール大橋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M007_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>神竜軍はブロディア王国に託された
+指輪を求め、国境を越えようとしていた。</original>
+			<edited>神竜軍はブロディア王国に託された
+指輪を求め、国境を越えようとしていた。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M008_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第8章</original>
+			<edited>第8章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M008" offset="00" relocatable="true" max_length="0">
+			<original>勇ましき王国</original>
+			<edited>勇ましき王国</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M008_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>ブロディア城</original>
+			<edited>ブロディア城</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M008_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>イルシオン軍の急襲を退けた神竜軍は、
+目的地であったブロディア城を訪れる。</original>
+			<edited>イルシオン軍の急襲を退けた神竜軍は、
+目的地であったブロディア城を訪れる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M009_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第9章</original>
+			<edited>第9章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M009" offset="00" relocatable="true" max_length="0">
+			<original>激突</original>
+			<edited>激突</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M009_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>国境の砦</original>
+			<edited>国境の砦</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M009_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>モリオン王と神竜軍はハイアシンス王の
+呼びかけに応じ、イルシオンとの国境へ。</original>
+			<edited>モリオン王と神竜軍はハイアシンス王の
+呼びかけに応じ、イルシオンとの国境へ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M010_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第10章</original>
+			<edited>第10章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M010" offset="00" relocatable="true" max_length="0">
+			<original>邪竜ソンブル</original>
+			<edited>邪竜ソンブル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M010_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>デスタン大教会</original>
+			<edited>デスタン大教会</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M010_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>連れ去られたモリオン王を奪還するため、
+神竜軍はイルシオンの教会へと急ぐ。</original>
+			<edited>連れ去られたモリオン王を奪還するため、
+神竜軍はイルシオンの教会へと急ぐ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M011_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第11章</original>
+			<edited>第11章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M011" offset="00" relocatable="true" max_length="0">
+			<original>撤退</original>
+			<edited>撤退</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M011_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>影の原野</original>
+			<edited>影の原野</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M012_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第12章</original>
+			<edited>第12章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M012" offset="00" relocatable="true" max_length="0">
+			<original>砂漠の自警団</original>
+			<edited>砂漠の自警団</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M012_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>トゥーラ砂漠</original>
+			<edited>トゥーラ砂漠</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M012_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>ヴェイルに指輪を奪われた神竜軍。
+態勢を立て直すため、一路ソルム王国へ。</original>
+			<edited>ヴェイルに指輪を奪われた神竜軍。
+態勢を立て直すため、一路ソルム王国へ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M013_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第13章</original>
+			<edited>第13章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M013" offset="00" relocatable="true" max_length="0">
+			<original>オアシスの勇者</original>
+			<edited>オアシスの勇者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M013_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>オアシスの里</original>
+			<edited>オアシスの里</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M013_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>『蒼炎の勇者の指輪』を持つミスティラを
+探して、神竜軍はオアシスへと向かう。</original>
+			<edited>『蒼炎の勇者の指輪』を持つミスティラを
+探して、神竜軍はオアシスへと向かう。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M014_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第14章</original>
+			<edited>第14章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M014" offset="00" relocatable="true" max_length="0">
+			<original>ソルム攻防戦</original>
+			<edited>ソルム攻防戦</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M014_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>ソルム城</original>
+			<edited>ソルム城</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M014_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>オルテンシア襲撃の報せを受け、
+神竜軍は急ぎソルム王城へと引き返す。</original>
+			<edited>オルテンシア襲撃の報せを受け、
+神竜軍は急ぎソルム王城へと引き返す。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M015_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第15章</original>
+			<edited>第15章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M015" offset="00" relocatable="true" max_length="0">
+			<original>廃墟のダンサー</original>
+			<edited>廃墟のダンサー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M015_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>北の城塞</original>
+			<edited>北の城塞</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M015_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>ソルム王城での戦いを収めた神竜軍は、
+『未来を選びし者の指輪』がある城塞へ。</original>
+			<edited>ソルム王城での戦いを収めた神竜軍は、
+『未来を選びし者の指輪』がある城塞へ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M016_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第16章</original>
+			<edited>第16章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M016" offset="00" relocatable="true" max_length="0">
+			<original>海岸線を越えて</original>
+			<edited>海岸線を越えて</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M016_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>紺碧海岸</original>
+			<edited>紺碧海岸</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M016_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>城塞で新たな指輪を回収した神竜軍。
+次の策を講じていると、ある報せが入る。</original>
+			<edited>城塞で新たな指輪を回収した神竜軍。
+次の策を講じていると、ある報せが入る。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M017_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第17章</original>
+			<edited>第17章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M017" offset="00" relocatable="true" max_length="0">
+			<original>砕かれた平和</original>
+			<edited>砕かれた平和</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M017_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>フルルの港</original>
+			<edited>フルルの港</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M017_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>フィレネに向かうイルシオンの軍船を追い
+神竜軍はフルルの港町へと到着する。</original>
+			<edited>フィレネに向かうイルシオンの軍船を追い
+神竜軍はフルルの港町へと到着する。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M018_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第18章</original>
+			<edited>第18章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M018" offset="00" relocatable="true" max_length="0">
+			<original>冷たい海路</original>
+			<edited>冷たい海路</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M018_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>イルシオン航路</original>
+			<edited>イルシオン航路</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M018_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>ヴェイルの真実を知った神竜軍は、
+邪竜の待つ地、イルシオンへと向かう。</original>
+			<edited>ヴェイルの真実を知った神竜軍は、
+邪竜の待つ地、イルシオンへと向かう。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M019_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第19章</original>
+			<edited>第19章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M019" offset="00" relocatable="true" max_length="0">
+			<original>死の港町</original>
+			<edited>死の港町</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M019_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>ジーヴル港</original>
+			<edited>ジーヴル港</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M019_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>海路での刺客を退けた神竜軍は、
+イルシオンの活気ある港に到着する。</original>
+			<edited>海路での刺客を退けた神竜軍は、
+イルシオンの活気ある港に到着する。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M020_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第20章</original>
+			<edited>第20章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M020" offset="00" relocatable="true" max_length="0">
+			<original>王なき城</original>
+			<edited>王なき城</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M020_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>イルシオン城</original>
+			<edited>イルシオン城</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M020_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>マロンとモーヴに勝利し指輪を奪還した
+神竜軍は、ついにイルシオン城へ。</original>
+			<edited>マロンとモーヴに勝利し指輪を奪還した
+神竜軍は、ついにイルシオン城へ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M021_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第21章</original>
+			<edited>第21章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M021" offset="00" relocatable="true" max_length="0">
+			<original>帰還</original>
+			<edited>帰還</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M021_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>神竜王城</original>
+			<edited>神竜王城</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M021_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>グリから真実を聞かされた一行は、
+邪竜の後を追い、リトスの神竜王城へ。</original>
+			<edited>グリから真実を聞かされた一行は、
+邪竜の後を追い、リトスの神竜王城へ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M022_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第22章</original>
+			<edited>第22章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M022" offset="00" relocatable="true" max_length="0">
+			<original>神竜と邪竜</original>
+			<edited>神竜と邪竜</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M022_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>神竜王城</original>
+			<edited>神竜王城</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M023_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第23章</original>
+			<edited>第23章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M023" offset="00" relocatable="true" max_length="0">
+			<original>四狗</original>
+			<edited>四狗</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M023_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>溶岩地帯</original>
+			<edited>溶岩地帯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M023_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>エレオス上空の結界を解除するため、
+神竜軍は邪竜紋のある地帯を訪れる。</original>
+			<edited>エレオス上空の結界を解除するため、
+神竜軍は邪竜紋のある地帯を訪れる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M024_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第24章</original>
+			<edited>第24章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M024" offset="00" relocatable="true" max_length="0">
+			<original>追憶</original>
+			<edited>追憶</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M024_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>高山地帯</original>
+			<edited>高山地帯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M024_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>セピアから魔法具を託された神竜軍は、
+二つ目の邪竜紋が沈むという湖へ向かう。</original>
+			<edited>セピアから魔法具を託された神竜軍は、
+二つ目の邪竜紋が沈むという湖へ向かう。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M025_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第25章</original>
+			<edited>第25章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M025" offset="00" relocatable="true" max_length="0">
+			<original>最後の門番</original>
+			<edited>最後の門番</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M025_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>グラドロン神殿</original>
+			<edited>グラドロン神殿</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M025_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>千年前の自分と邂逅した神竜。
+残すは最後の邪竜紋のみだが、そこには…</original>
+			<edited>千年前の自分と邂逅した神竜。
+残すは最後の邪竜紋のみだが、そこには…</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M026_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第26章</original>
+			<edited>第26章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M026" offset="00" relocatable="true" max_length="0">
+			<original>ラストエンゲージ</original>
+			<edited>ラストエンゲージ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M026_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>異界の扉</original>
+			<edited>異界の扉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S001_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>外伝</original>
+			<edited>外伝</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S001" offset="00" relocatable="true" max_length="0">
+			<original>大器晩成</original>
+			<edited>大器晩成</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S001_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>茶畑の里</original>
+			<edited>茶畑の里</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S001_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>平和な茶畑の里に突如、異形兵の襲撃が。
+神竜軍は村人の救援に向かう。</original>
+			<edited>平和な茶畑の里に突如、異形兵の襲撃が。
+神竜軍は村人の救援に向かう。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S002_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>外伝</original>
+			<edited>外伝</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S002" offset="00" relocatable="true" max_length="0">
+			<original>秘密の行商人</original>
+			<edited>秘密の行商人</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S002_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>盗賊団のアジト</original>
+			<edited>盗賊団のアジト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S002_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>盗賊団の根城を見つけた神竜軍。
+そこには盗賊の宝を狙う小さな来訪者が。</original>
+			<edited>盗賊団の根城を見つけた神竜軍。
+そこには盗賊の宝を狙う小さな来訪者が。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S003_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>外伝</original>
+			<edited>外伝</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S003" offset="00" relocatable="true" max_length="0">
+			<original>聖王女</original>
+			<edited>聖王女</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S003_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>神々の闘技場</original>
+			<edited>神々の闘技場</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S003_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ルキナとの縁が深い地。
+此処では、ある試練に挑むこととなる。</original>
+			<edited>紋章士ルキナとの縁が深い地。
+此処では、ある試練に挑むこととなる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S004_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>外伝</original>
+			<edited>外伝</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S004" offset="00" relocatable="true" max_length="0">
+			<original>草原の公女</original>
+			<edited>草原の公女</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S004_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>疾風の草原</original>
+			<edited>疾風の草原</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S004_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>紋章士リンとの縁が深い地。
+此処では、ある試練に挑むこととなる。</original>
+			<edited>紋章士リンとの縁が深い地。
+此処では、ある試練に挑むこととなる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S005_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>外伝</original>
+			<edited>外伝</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S005" offset="00" relocatable="true" max_length="0">
+			<original>蒼炎の勇者</original>
+			<edited>蒼炎の勇者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S005_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>希望の砦</original>
+			<edited>希望の砦</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S005_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>紋章士アイクとの縁が深い地。
+此処では、ある試練に挑むこととなる。</original>
+			<edited>紋章士アイクとの縁が深い地。
+此処では、ある試練に挑むこととなる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S006_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>外伝</original>
+			<edited>外伝</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S006" offset="00" relocatable="true" max_length="0">
+			<original>導き手</original>
+			<edited>導き手</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S006_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>聖なる墓所</original>
+			<edited>聖なる墓所</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S006_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ベレトとの縁が深い地。
+此処では、ある試練に挑むこととなる。</original>
+			<edited>紋章士ベレトとの縁が深い地。
+此処では、ある試練に挑むこととなる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S007_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>外伝</original>
+			<edited>外伝</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S007" offset="00" relocatable="true" max_length="0">
+			<original>未来を選びし者</original>
+			<edited>未来を選びし者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S007_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>運命の別れ道</original>
+			<edited>運命の別れ道</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S007_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>紋章士カムイとの縁が深い地。
+此処では、ある試練に挑むこととなる。</original>
+			<edited>紋章士カムイとの縁が深い地。
+此処では、ある試練に挑むこととなる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S008_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>外伝</original>
+			<edited>外伝</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S008" offset="00" relocatable="true" max_length="0">
+			<original>碧き風空</original>
+			<edited>碧き風空</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S008_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>魔の遺跡</original>
+			<edited>魔の遺跡</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S008_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>紋章士エイリークとの縁が深い地。
+此処では、ある試練に挑むこととなる。</original>
+			<edited>紋章士エイリークとの縁が深い地。
+此処では、ある試練に挑むこととなる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S009_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>外伝</original>
+			<edited>外伝</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S009" offset="00" relocatable="true" max_length="0">
+			<original>聖騎士</original>
+			<edited>聖騎士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S009_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>光と闇の大河</original>
+			<edited>光と闇の大河</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S009_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>紋章士シグルドとの縁が深い地。
+此処では、ある試練に挑むこととなる。</original>
+			<edited>紋章士シグルドとの縁が深い地。
+此処では、ある試練に挑むこととなる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S010_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>外伝</original>
+			<edited>外伝</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S010" offset="00" relocatable="true" max_length="0">
+			<original>賢王</original>
+			<edited>賢王</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S010_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>連なる橋</original>
+			<edited>連なる橋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S010_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>紋章士リーフとの縁が深い地。
+此処では、ある試練に挑むこととなる。</original>
+			<edited>紋章士リーフとの縁が深い地。
+此処では、ある試練に挑むこととなる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S011_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>外伝</original>
+			<edited>外伝</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S011" offset="00" relocatable="true" max_length="0">
+			<original>暁の巫女</original>
+			<edited>暁の巫女</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S011_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>凍てついた砦</original>
+			<edited>凍てついた砦</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S011_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ミカヤとの縁が深い地。
+此処では、ある試練に挑むこととなる。</original>
+			<edited>紋章士ミカヤとの縁が深い地。
+此処では、ある試練に挑むこととなる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S012_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>外伝</original>
+			<edited>外伝</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S012" offset="00" relocatable="true" max_length="0">
+			<original>若き獅子</original>
+			<edited>若き獅子</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S012_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>封印の大地</original>
+			<edited>封印の大地</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S012_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ロイとの縁が深い地。
+此処では、ある試練に挑むこととなる。</original>
+			<edited>紋章士ロイとの縁が深い地。
+此処では、ある試練に挑むこととなる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S013_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>外伝</original>
+			<edited>外伝</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S013" offset="00" relocatable="true" max_length="0">
+			<original>慈愛の王女</original>
+			<edited>慈愛の王女</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S013_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>忘却のほこら</original>
+			<edited>忘却のほこら</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S013_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>紋章士セリカとの縁が深い地。
+此処では、ある試練に挑むこととなる。</original>
+			<edited>紋章士セリカとの縁が深い地。
+此処では、ある試練に挑むこととなる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S014_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>外伝</original>
+			<edited>外伝</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S014" offset="00" relocatable="true" max_length="0">
+			<original>英雄王</original>
+			<edited>英雄王</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S014_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>英雄の城跡</original>
+			<edited>英雄の城跡</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S014_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>紋章士マルスとの縁が深い地。
+此処では、ある試練に挑むこととなる。</original>
+			<edited>紋章士マルスとの縁が深い地。
+此処では、ある試練に挑むこととなる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S015_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>外伝</original>
+			<edited>外伝</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S015" offset="00" relocatable="true" max_length="0">
+			<original>紡ぎし者</original>
+			<edited>紡ぎし者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S015_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>想い出の庭園</original>
+			<edited>想い出の庭園</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S015_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>神竜王城の庭園を思わせる地。
+其処には、謎の指輪が安置されていた。</original>
+			<edited>神竜王城の庭園を思わせる地。
+其処には、謎の指輪が安置されていた。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ENCOUNT" offset="00" relocatable="true" max_length="0">
+			<original>遭遇戦</original>
+			<edited>遭遇戦</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ENCOUNT_TRAINING" offset="00" relocatable="true" max_length="0">
+			<original>訓練</original>
+			<edited>訓練</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_Title" offset="00" relocatable="true" max_length="0">
+			<original>勝利条件</original>
+			<edited>勝利条件</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_Title_LOSE" offset="00" relocatable="true" max_length="0">
+			<original>敗北条件</original>
+			<edited>敗北条件</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_ANNIHILATE" offset="00" relocatable="true" max_length="0">
+			<original>全ての敵を撃破する</original>
+			<edited>全ての敵を撃破する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_DESTROY_BOSS" offset="00" relocatable="true" max_length="0">
+			<original>敵将を撃破する</original>
+			<edited>敵将を撃破する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_DESTROY_BOSS_TURN" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;ターン以内に敵将を撃破する</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;ターン以内に敵将を撃破する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_SURVIVE_TURN" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;ターンのあいだ生存する</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;ターンのあいだ生存する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_COMMON_LOSE" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x3;&#x0;が撃破される</original>
+			<edited>&#xE;&#x6;&#x3;&#x0;が撃破される</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_WANNIHILATION_LOSE" offset="00" relocatable="true" max_length="0">
+			<original>全ての味方が撃破される</original>
+			<edited>全ての味方が撃破される</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M000_WIN" offset="00" relocatable="true" max_length="0">
+			<original>敵を撃破する</original>
+			<edited>敵を撃破する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M001_WIN" offset="00" relocatable="true" max_length="0">
+			<original>全ての敵を撃破する</original>
+			<edited>全ての敵を撃破する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M002_WIN" offset="00" relocatable="true" max_length="0">
+			<original>ルミエルを撃破する</original>
+			<edited>ルミエルを撃破する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M003_WIN" offset="00" relocatable="true" max_length="0">
+			<original>全ての敵を撃破する</original>
+			<edited>全ての敵を撃破する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M004_WIN" offset="00" relocatable="true" max_length="0">
+			<original>ローダンを撃破する</original>
+			<edited>ローダンを撃破する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M005_WIN" offset="00" relocatable="true" max_length="0">
+			<original>ネルーケを撃破する</original>
+			<edited>ネルーケを撃破する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M006_WIN" offset="00" relocatable="true" max_length="0">
+			<original>テランダを撃破する</original>
+			<edited>テランダを撃破する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M006_LOSE" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x3;&#x0;、またはユナカが撃破される</original>
+			<edited>&#xE;&#x6;&#x3;&#x0;、またはユナカが撃破される</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M007_WIN" offset="00" relocatable="true" max_length="0">
+			<original>オルテンシアを撃破する</original>
+			<edited>オルテンシアを撃破する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M008_WIN" offset="00" relocatable="true" max_length="0">
+			<original>アイビーを撃破する</original>
+			<edited>アイビーを撃破する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M008_LOSE" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x3;&#x0;が撃破される、または防衛地点まで到達される</original>
+			<edited>&#xE;&#x6;&#x3;&#x0;が撃破される、または防衛地点まで到達される</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M009_WIN" offset="00" relocatable="true" max_length="0">
+			<original>アイビーを撃破する</original>
+			<edited>アイビーを撃破する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M010_WIN" offset="00" relocatable="true" max_length="0">
+			<original>ハイアシンス、異形のモリオンを撃破する</original>
+			<edited>ハイアシンス、異形のモリオンを撃破する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M011_WIN" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x3;&#x0;を離脱させる</original>
+			<edited>&#xE;&#x6;&#x3;&#x0;を離脱させる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M012_WIN" offset="00" relocatable="true" max_length="0">
+			<original>全ての敵を撃破する</original>
+			<edited>全ての敵を撃破する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M013_WIN" offset="00" relocatable="true" max_length="0">
+			<original>テッツィ、トッツィを撃破する</original>
+			<edited>テッツィ、トッツィを撃破する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M014_WIN" offset="00" relocatable="true" max_length="0">
+			<original>オルテンシア、セピア、マロン、モーヴを撃破する</original>
+			<edited>オルテンシア、セピア、マロン、モーヴを撃破する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M015_WIN" offset="00" relocatable="true" max_length="0">
+			<original>セアダスを離脱させる</original>
+			<edited>セアダスを離脱させる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M015_LOSE" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x3;&#x0;、またはセアダスが撃破される</original>
+			<edited>&#xE;&#x6;&#x3;&#x0;、またはセアダスが撃破される</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M016_WIN" offset="00" relocatable="true" max_length="0">
+			<original>マロン、モーヴを撃破する</original>
+			<edited>マロン、モーヴを撃破する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M017_WIN" offset="00" relocatable="true" max_length="0">
+			<original>6人の敵将を全て撃破する</original>
+			<edited>6人の敵将を全て撃破する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M018_WIN" offset="00" relocatable="true" max_length="0">
+			<original>アビュームを撃破する</original>
+			<edited>アビュームを撃破する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M019_WIN" offset="00" relocatable="true" max_length="0">
+			<original>マロン、モーヴを撃破する</original>
+			<edited>マロン、モーヴを撃破する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M020_WIN" offset="00" relocatable="true" max_length="0">
+			<original>グリを撃破する</original>
+			<edited>グリを撃破する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M021_WIN" offset="00" relocatable="true" max_length="0">
+			<original>ヴェイルを撃破する</original>
+			<edited>ヴェイルを撃破する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M022_WIN" offset="00" relocatable="true" max_length="0">
+			<original>全ての紋章士の指輪を回収する</original>
+			<edited>全ての紋章士の指輪を回収する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M023_WIN" offset="00" relocatable="true" max_length="0">
+			<original>セピア、グリを撃破する</original>
+			<edited>セピア、グリを撃破する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M024_WIN" offset="00" relocatable="true" max_length="0">
+			<original>過去の&#xE;&#x6;&#x3;&#x0;を撃破する</original>
+			<edited>過去の&#xE;&#x6;&#x3;&#x0;を撃破する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M024_LOSE" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x3;&#x0;が撃破される、または&#xE;&#x1;&#x0;&#x0;ターン経過する</original>
+			<edited>&#xE;&#x6;&#x3;&#x0;が撃破される、または&#xE;&#x1;&#x0;&#x0;ターン経過する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M025_WIN" offset="00" relocatable="true" max_length="0">
+			<original>異形のルミエルを撃破する</original>
+			<edited>異形のルミエルを撃破する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M026_WIN" offset="00" relocatable="true" max_length="0">
+			<original>ソンブルを撃破する</original>
+			<edited>ソンブルを撃破する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_S001_WIN" offset="00" relocatable="true" max_length="0">
+			<original>全ての敵を撃破する</original>
+			<edited>全ての敵を撃破する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_S002_WIN" offset="00" relocatable="true" max_length="0">
+			<original>ミタンを撃破する</original>
+			<edited>ミタンを撃破する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_S003_WIN" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ルキナに打ち勝つ</original>
+			<edited>紋章士ルキナに打ち勝つ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_S004_WIN" offset="00" relocatable="true" max_length="0">
+			<original>紋章士リンに打ち勝つ</original>
+			<edited>紋章士リンに打ち勝つ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_S005_WIN" offset="00" relocatable="true" max_length="0">
+			<original>紋章士アイクに打ち勝つ</original>
+			<edited>紋章士アイクに打ち勝つ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_S006_WIN" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ベレトに打ち勝つ</original>
+			<edited>紋章士ベレトに打ち勝つ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_S007_WIN" offset="00" relocatable="true" max_length="0">
+			<original>紋章士カムイに打ち勝つ</original>
+			<edited>紋章士カムイに打ち勝つ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_S008_WIN" offset="00" relocatable="true" max_length="0">
+			<original>紋章士エイリークに打ち勝つ</original>
+			<edited>紋章士エイリークに打ち勝つ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_S009_WIN" offset="00" relocatable="true" max_length="0">
+			<original>紋章士シグルドに打ち勝つ</original>
+			<edited>紋章士シグルドに打ち勝つ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_S010_WIN" offset="00" relocatable="true" max_length="0">
+			<original>紋章士リーフに打ち勝つ</original>
+			<edited>紋章士リーフに打ち勝つ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_S011_WIN" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ミカヤに打ち勝つ</original>
+			<edited>紋章士ミカヤに打ち勝つ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_S011_LOSE" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x3;&#x0;が撃破される、または防衛地点まで到達される</original>
+			<edited>&#xE;&#x6;&#x3;&#x0;が撃破される、または防衛地点まで到達される</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_S012_WIN" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ロイに打ち勝つ</original>
+			<edited>紋章士ロイに打ち勝つ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_S013_WIN" offset="00" relocatable="true" max_length="0">
+			<original>紋章士セリカに打ち勝つ</original>
+			<edited>紋章士セリカに打ち勝つ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_S014_WIN" offset="00" relocatable="true" max_length="0">
+			<original>紋章士マルスに打ち勝つ</original>
+			<edited>紋章士マルスに打ち勝つ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_S015_WIN" offset="00" relocatable="true" max_length="0">
+			<original>指輪を奪還する</original>
+			<edited>指輪を奪還する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_S015_LOSE" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x3;&#x0;が撃破される、または指輪を持ち逃げされる</original>
+			<edited>&#xE;&#x6;&#x3;&#x0;が撃破される、または指輪を持ち逃げされる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_TURN_LOSE" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x3;&#x0;が撃破される、または&#xE;&#x1;&#x0;&#x0;ターン経過する</original>
+			<edited>&#xE;&#x6;&#x3;&#x0;が撃破される、または&#xE;&#x1;&#x0;&#x0;ターン経過する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_VERSUS_LOSE" offset="00" relocatable="true" max_length="0">
+			<original>全ての味方が撃破される、または&#xE;&#x1;&#x0;&#x0;ターン経過する</original>
+			<edited>全ての味方が撃破される、または&#xE;&#x1;&#x0;&#x0;ターン経過する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Nothing" offset="00" relocatable="true" max_length="0">
+			<original>なし</original>
+			<edited>なし</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Engage" offset="00" relocatable="true" max_length="0">
+			<original>紋章氣</original>
+			<edited>紋章氣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_SoulOfDead" offset="00" relocatable="true" max_length="0">
+			<original>戦死者の魂</original>
+			<edited>戦死者の魂</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_GuardFence" offset="00" relocatable="true" max_length="0">
+			<original>防護柵</original>
+			<edited>防護柵</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_BreakableWall" offset="00" relocatable="true" max_length="0">
+			<original>脆い壁</original>
+			<edited>脆い壁</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Cargo" offset="00" relocatable="true" max_length="0">
+			<original>積み荷</original>
+			<edited>積み荷</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Crystal" offset="00" relocatable="true" max_length="0">
+			<original>水晶</original>
+			<edited>水晶</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Pedestal" offset="00" relocatable="true" max_length="0">
+			<original>台座</original>
+			<edited>台座</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Rock" offset="00" relocatable="true" max_length="0">
+			<original>岩</original>
+			<edited>岩</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_RockLarge" offset="00" relocatable="true" max_length="0">
+			<original>大岩</original>
+			<edited>大岩</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Sandbag" offset="00" relocatable="true" max_length="0">
+			<original>土嚢</original>
+			<edited>土嚢</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Chair" offset="00" relocatable="true" max_length="0">
+			<original>長椅子</original>
+			<edited>長椅子</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Paling" offset="00" relocatable="true" max_length="0">
+			<original>防柵</original>
+			<edited>防柵</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Barrier" offset="00" relocatable="true" max_length="0">
+			<original>防壁</original>
+			<edited>防壁</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_ObstacleLow" offset="00" relocatable="true" max_length="0">
+			<original>低い障害物</original>
+			<edited>低い障害物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Altar" offset="00" relocatable="true" max_length="0">
+			<original>祭壇</original>
+			<edited>祭壇</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Rubble" offset="00" relocatable="true" max_length="0">
+			<original>瓦礫</original>
+			<edited>瓦礫</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Pier" offset="00" relocatable="true" max_length="0">
+			<original>船着き場</original>
+			<edited>船着き場</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Ground" offset="00" relocatable="true" max_length="0">
+			<original>地面</original>
+			<edited>地面</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Forest" offset="00" relocatable="true" max_length="0">
+			<original>森</original>
+			<edited>森</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Grove" offset="00" relocatable="true" max_length="0">
+			<original>林</original>
+			<edited>林</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Desert" offset="00" relocatable="true" max_length="0">
+			<original>砂漠</original>
+			<edited>砂漠</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Quicksand" offset="00" relocatable="true" max_length="0">
+			<original>流砂</original>
+			<edited>流砂</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Shallow" offset="00" relocatable="true" max_length="0">
+			<original>浅瀬</original>
+			<edited>浅瀬</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_River" offset="00" relocatable="true" max_length="0">
+			<original>川</original>
+			<edited>川</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Waterway" offset="00" relocatable="true" max_length="0">
+			<original>水路</original>
+			<edited>水路</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Mountain" offset="00" relocatable="true" max_length="0">
+			<original>山</original>
+			<edited>山</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Sky" offset="00" relocatable="true" max_length="0">
+			<original>空</original>
+			<edited>空</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Bridge" offset="00" relocatable="true" max_length="0">
+			<original>橋</original>
+			<edited>橋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_BridgeBroken" offset="00" relocatable="true" max_length="0">
+			<original>壊れた橋</original>
+			<edited>壊れた橋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_BridgeRise" offset="00" relocatable="true" max_length="0">
+			<original>上がった橋</original>
+			<edited>上がった橋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Ruin" offset="00" relocatable="true" max_length="0">
+			<original>壊れた建物</original>
+			<edited>壊れた建物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Windmill" offset="00" relocatable="true" max_length="0">
+			<original>風車</original>
+			<edited>風車</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_PrivateHouse" offset="00" relocatable="true" max_length="0">
+			<original>民家</original>
+			<edited>民家</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_House" offset="00" relocatable="true" max_length="0">
+			<original>建物</original>
+			<edited>建物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_StoneStatue" offset="00" relocatable="true" max_length="0">
+			<original>石像</original>
+			<edited>石像</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Building" offset="00" relocatable="true" max_length="0">
+			<original>建造物</original>
+			<edited>建造物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Hull" offset="00" relocatable="true" max_length="0">
+			<original>船体</original>
+			<edited>船体</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Sarcophagus" offset="00" relocatable="true" max_length="0">
+			<original>棺</original>
+			<edited>棺</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Object" offset="00" relocatable="true" max_length="0">
+			<original>障害物</original>
+			<edited>障害物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Bush" offset="00" relocatable="true" max_length="0">
+			<original>茂み</original>
+			<edited>茂み</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Sea" offset="00" relocatable="true" max_length="0">
+			<original>海</original>
+			<edited>海</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Tile" offset="00" relocatable="true" max_length="0">
+			<original>床</original>
+			<edited>床</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Lava" offset="00" relocatable="true" max_length="0">
+			<original>溶岩</original>
+			<edited>溶岩</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Wall" offset="00" relocatable="true" max_length="0">
+			<original>壁</original>
+			<edited>壁</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Stairs" offset="00" relocatable="true" max_length="0">
+			<original>階段</original>
+			<edited>階段</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_SummonCircle" offset="00" relocatable="true" max_length="0">
+			<original>魔法陣</original>
+			<edited>魔法陣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_WallLow" offset="00" relocatable="true" max_length="0">
+			<original>低い壁</original>
+			<edited>低い壁</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Door" offset="00" relocatable="true" max_length="0">
+			<original>扉</original>
+			<edited>扉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Chest" offset="00" relocatable="true" max_length="0">
+			<original>宝箱</original>
+			<edited>宝箱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Chest_Empty" offset="00" relocatable="true" max_length="0">
+			<original>空の宝箱</original>
+			<edited>空の宝箱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Roof" offset="00" relocatable="true" max_length="0">
+			<original>屋根</original>
+			<edited>屋根</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_TileCollapsed" offset="00" relocatable="true" max_length="0">
+			<original>崩れた床</original>
+			<edited>崩れた床</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_TileRecovery" offset="00" relocatable="true" max_length="0">
+			<original>回復床</original>
+			<edited>回復床</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_TileDefense" offset="00" relocatable="true" max_length="0">
+			<original>防衛床</original>
+			<edited>防衛床</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Fort" offset="00" relocatable="true" max_length="0">
+			<original>砦</original>
+			<edited>砦</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Pillar" offset="00" relocatable="true" max_length="0">
+			<original>柱</original>
+			<edited>柱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_PillarLarge" offset="00" relocatable="true" max_length="0">
+			<original>大柱</original>
+			<edited>大柱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Cliff" offset="00" relocatable="true" max_length="0">
+			<original>崖</original>
+			<edited>崖</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Bonfire" offset="00" relocatable="true" max_length="0">
+			<original>篝火</original>
+			<edited>篝火</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Candlestick" offset="00" relocatable="true" max_length="0">
+			<original>燭台</original>
+			<edited>燭台</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Beach" offset="00" relocatable="true" max_length="0">
+			<original>砂浜</original>
+			<edited>砂浜</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Shrubbery" offset="00" relocatable="true" max_length="0">
+			<original>植え込み</original>
+			<edited>植え込み</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Deck" offset="00" relocatable="true" max_length="0">
+			<original>甲板</original>
+			<edited>甲板</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Mast" offset="00" relocatable="true" max_length="0">
+			<original>帆柱</original>
+			<edited>帆柱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_EvilDragonVein" offset="00" relocatable="true" max_length="0">
+			<original>邪竜紋</original>
+			<edited>邪竜紋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_BowCannon" offset="00" relocatable="true" max_length="0">
+			<original>弓砲台</original>
+			<edited>弓砲台</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_MagicCannon" offset="00" relocatable="true" max_length="0">
+			<original>魔砲台</original>
+			<edited>魔砲台</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_FireCannon" offset="00" relocatable="true" max_length="0">
+			<original>火炎砲台</original>
+			<edited>火炎砲台</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Ring_Siglud" offset="00" relocatable="true" max_length="0">
+			<original>聖騎士の指輪</original>
+			<edited>聖騎士の指輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Ring_Celica" offset="00" relocatable="true" max_length="0">
+			<original>慈愛の王女の指輪</original>
+			<edited>慈愛の王女の指輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Ring_Micaiah" offset="00" relocatable="true" max_length="0">
+			<original>暁の巫女の指輪</original>
+			<edited>暁の巫女の指輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Ring_Roy" offset="00" relocatable="true" max_length="0">
+			<original>若き獅子の指輪</original>
+			<edited>若き獅子の指輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Ring_Leaf" offset="00" relocatable="true" max_length="0">
+			<original>賢王の指輪</original>
+			<edited>賢王の指輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Ring_Lucina" offset="00" relocatable="true" max_length="0">
+			<original>聖王女の指輪</original>
+			<edited>聖王女の指輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Ring_Lin" offset="00" relocatable="true" max_length="0">
+			<original>草原の公女の指輪</original>
+			<edited>草原の公女の指輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Ring_Ike" offset="00" relocatable="true" max_length="0">
+			<original>蒼炎の勇者の指輪</original>
+			<edited>蒼炎の勇者の指輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Ring_Byleth" offset="00" relocatable="true" max_length="0">
+			<original>導き手の指輪</original>
+			<edited>導き手の指輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Ring_Kamui" offset="00" relocatable="true" max_length="0">
+			<original>未来を選びし者の指輪</original>
+			<edited>未来を選びし者の指輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Ring_Eirik" offset="00" relocatable="true" max_length="0">
+			<original>碧き風空の指輪</original>
+			<edited>碧き風空の指輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_NoEntry" offset="00" relocatable="true" max_length="0">
+			<original>エリア外</original>
+			<edited>エリア外</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_HelpSpot" offset="00" relocatable="true" max_length="0">
+			<original>エントリーパネル</original>
+			<edited>エントリーパネル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Sandbox" offset="00" relocatable="true" max_length="0">
+			<original>砂場</original>
+			<edited>砂場</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_GoldMountain" offset="00" relocatable="true" max_length="0">
+			<original>金貨の山</original>
+			<edited>金貨の山</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Spring" offset="00" relocatable="true" max_length="0">
+			<original>泉</original>
+			<edited>泉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_IceFloor" offset="00" relocatable="true" max_length="0">
+			<original>氷の床</original>
+			<edited>氷の床</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Snowman" offset="00" relocatable="true" max_length="0">
+			<original>雪だるま</original>
+			<edited>雪だるま</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Hay" offset="00" relocatable="true" max_length="0">
+			<original>干し草</original>
+			<edited>干し草</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Cactus" offset="00" relocatable="true" max_length="0">
+			<original>サボテン</original>
+			<edited>サボテン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_RoseArch" offset="00" relocatable="true" max_length="0">
+			<original>ローズアーチ</original>
+			<edited>ローズアーチ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Remains" offset="00" relocatable="true" max_length="0">
+			<original>遺跡</original>
+			<edited>遺跡</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Cart" offset="00" relocatable="true" max_length="0">
+			<original>荷車</original>
+			<edited>荷車</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Well" offset="00" relocatable="true" max_length="0">
+			<original>井戸</original>
+			<edited>井戸</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Loading" offset="00" relocatable="true" max_length="0">
+			<original>積み荷</original>
+			<edited>積み荷</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Fence" offset="00" relocatable="true" max_length="0">
+			<original>柵</original>
+			<edited>柵</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_AnimalStatue" offset="00" relocatable="true" max_length="0">
+			<original>動物像</original>
+			<edited>動物像</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_SoraStatue" offset="00" relocatable="true" max_length="0">
+			<original>守り神の像</original>
+			<edited>守り神の像</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_EarthPillar" offset="00" relocatable="true" max_length="0">
+			<original>土柱</original>
+			<edited>土柱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Fog" offset="00" relocatable="true" max_length="0">
+			<original>霧</original>
+			<edited>霧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Fire" offset="00" relocatable="true" max_length="0">
+			<original>炎</original>
+			<edited>炎</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Miasma" offset="00" relocatable="true" max_length="0">
+			<original>瘴気</original>
+			<edited>瘴気</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Aroma" offset="00" relocatable="true" max_length="0">
+			<original>アロマ</original>
+			<edited>アロマ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Block" offset="00" relocatable="true" max_length="0">
+			<original>氷柱</original>
+			<edited>氷柱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Water" offset="00" relocatable="true" max_length="0">
+			<original>水たまり</original>
+			<edited>水たまり</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Ivy" offset="00" relocatable="true" max_length="0">
+			<original>ツタ</original>
+			<edited>ツタ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Light" offset="00" relocatable="true" max_length="0">
+			<original>シャイン</original>
+			<edited>シャイン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_Avoid" offset="00" relocatable="true" max_length="0">
+			<original>回避</original>
+			<edited>回避</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_Heal" offset="00" relocatable="true" max_length="0">
+			<original>ターン回復</original>
+			<edited>ターン回復</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_Damage" offset="00" relocatable="true" max_length="0">
+			<original>ターンダメージ</original>
+			<edited>ターンダメージ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_Def" offset="00" relocatable="true" max_length="0">
+			<original>守備</original>
+			<edited>守備</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_MDef" offset="00" relocatable="true" max_length="0">
+			<original>魔防</original>
+			<edited>魔防</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_PlayerDamage" offset="00" relocatable="true" max_length="0">
+			<original>味方の守備、魔防</original>
+			<edited>味方の守備、魔防</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_EnemyDamage" offset="00" relocatable="true" max_length="0">
+			<original>敵の守備、魔防</original>
+			<edited>敵の守備、魔防</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_Break" offset="00" relocatable="true" max_length="0">
+			<original>ブレイク無効</original>
+			<edited>ブレイク無効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_FlightOnly" offset="00" relocatable="true" max_length="0">
+			<original>歩行不可</original>
+			<edited>歩行不可</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_NoEntry" offset="00" relocatable="true" max_length="0">
+			<original>進入不可</original>
+			<edited>進入不可</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_Destroy" offset="00" relocatable="true" max_length="0">
+			<original>破壊可能</original>
+			<edited>破壊可能</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_Shine" offset="00" relocatable="true" max_length="0">
+			<original>周囲のマスを照らす</original>
+			<edited>周囲のマスを照らす</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_HelpSpot" offset="00" relocatable="true" max_length="0">
+			<original>追加ユニットを配置可能</original>
+			<edited>追加ユニットを配置可能</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_Cannon_Attack" offset="00" relocatable="true" max_length="0">
+			<original>攻撃</original>
+			<edited>攻撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_Cannon_Hit" offset="00" relocatable="true" max_length="0">
+			<original>命中</original>
+			<edited>命中</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_Cannon_Stock" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;/&#xE;&#x1;&#x1;&#x0;</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;/&#xE;&#x1;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_Skill_Effect" offset="00" relocatable="true" max_length="0">
+			<original>スキル効果</original>
+			<edited>スキル効果</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_Move" offset="00" relocatable="true" max_length="0">
+			<original>移動</original>
+			<edited>移動</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

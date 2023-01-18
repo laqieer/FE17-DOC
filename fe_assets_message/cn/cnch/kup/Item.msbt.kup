@@ -1,0 +1,4147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MIID_None" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_None" offset="00" relocatable="true" max_length="0">
+			<original>--------</original>
+			<edited>--------</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Unknown" offset="00" relocatable="true" max_length="0">
+			<original>？？？</original>
+			<edited>？？？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Unknown" offset="00" relocatable="true" max_length="0">
+			<original>？？？？？</original>
+			<edited>？？？？？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_UnknownArg" offset="00" relocatable="true" max_length="0">
+			<original>？？？&#xE;&#x1;&#x0;&#x0;</original>
+			<edited>？？？&#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_IronSword" offset="00" relocatable="true" max_length="0">
+			<original>铁剑</original>
+			<edited>铁剑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_IronSword" offset="00" relocatable="true" max_length="0">
+			<original>标准的剑。</original>
+			<edited>标准的剑。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SteelSword" offset="00" relocatable="true" max_length="0">
+			<original>钢剑</original>
+			<edited>钢剑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SteelSword" offset="00" relocatable="true" max_length="0">
+			<original>以钢铁打造的剑。</original>
+			<edited>以钢铁打造的剑。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SilverSword" offset="00" relocatable="true" max_length="0">
+			<original>银剑</original>
+			<edited>银剑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SilverSword" offset="00" relocatable="true" max_length="0">
+			<original>以稀有金属打造的剑。</original>
+			<edited>以稀有金属打造的剑。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SmallSword" offset="00" relocatable="true" max_length="0">
+			<original>细剑</original>
+			<edited>细剑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SmallSword" offset="00" relocatable="true" max_length="0">
+			<original>轻巧好用的剑。</original>
+			<edited>轻巧好用的剑。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_BraveSword" offset="00" relocatable="true" max_length="0">
+			<original>勇者之剑</original>
+			<edited>勇者之剑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_BraveSword" offset="00" relocatable="true" max_length="0">
+			<original>仅有高手能使用的剑
+自身发起攻击时，连续攻击2次。</original>
+			<edited>仅有高手能使用的剑
+自身发起攻击时，连续攻击2次。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_ThunderSword" offset="00" relocatable="true" max_length="0">
+			<original>雷之剑</original>
+			<edited>雷之剑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_ThunderSword" offset="00" relocatable="true" max_length="0">
+			<original>可用魔法之雷攻击远处敌人。</original>
+			<edited>可用魔法之雷攻击远处敌人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Liberation" offset="00" relocatable="true" max_length="0">
+			<original>里贝拉锡翁</original>
+			<edited>里贝拉锡翁</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Liberation_M000" offset="00" relocatable="true" max_length="0">
+			<original>神龙专用的剑。</original>
+			<edited>神龙专用的剑。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Liberation" offset="00" relocatable="true" max_length="0">
+			<original>神龙专用。
+由自身发动攻击并击败敌人时，
+结合计量条+1。</original>
+			<edited>神龙专用。
+由自身发动攻击并击败敌人时，
+结合计量条+1。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_KillingEdge" offset="00" relocatable="true" max_length="0">
+			<original>必杀剑</original>
+			<edited>必杀剑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_KillingEdge" offset="00" relocatable="true" max_length="0">
+			<original>较容易造成致命伤害的剑。</original>
+			<edited>较容易造成致命伤害的剑。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_JapaneseSword" offset="00" relocatable="true" max_length="0">
+			<original>倭刀</original>
+			<edited>倭刀</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_JapaneseSword" offset="00" relocatable="true" max_length="0">
+			<original>锋利的刀。</original>
+			<edited>锋利的刀。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Armorslayer" offset="00" relocatable="true" max_length="0">
+			<original>破甲剑</original>
+			<edited>破甲剑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Armorslayer" offset="00" relocatable="true" max_length="0">
+			<original>专门对付重装敌人的剑
+克制重装。</original>
+			<edited>专门对付重装敌人的剑
+克制重装。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GodSword" offset="00" relocatable="true" max_length="0">
+			<original>克拉德霍格</original>
+			<edited>克拉德霍格</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GodSword" offset="00" relocatable="true" max_length="0">
+			<original>传说中的名剑。</original>
+			<edited>传说中的名剑。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_IronSwordL" offset="00" relocatable="true" max_length="0">
+			<original>铁大剑</original>
+			<edited>铁大剑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_IronSwordL" offset="00" relocatable="true" max_length="0">
+			<original>巨大的剑。
+不可追击/由自身主动攻击时必为后攻，
+但会发动猛击。</original>
+			<edited>巨大的剑。
+不可追击/由自身主动攻击时必为后攻，
+但会发动猛击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SteelSwordL" offset="00" relocatable="true" max_length="0">
+			<original>钢大剑</original>
+			<edited>钢大剑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SteelSwordL" offset="00" relocatable="true" max_length="0">
+			<original>以钢铁打造的大剑。
+不可追击/由自身主动攻击时必为后攻，
+但会发动猛击。</original>
+			<edited>以钢铁打造的大剑。
+不可追击/由自身主动攻击时必为后攻，
+但会发动猛击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SilverSwordL" offset="00" relocatable="true" max_length="0">
+			<original>银大剑</original>
+			<edited>银大剑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SilverSwordL" offset="00" relocatable="true" max_length="0">
+			<original>以稀有金属打造的大剑。
+不可追击/由自身主动攻击时必为后攻，
+但会发动猛击。</original>
+			<edited>以稀有金属打造的大剑。
+不可追击/由自身主动攻击时必为后攻，
+但会发动猛击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_WilleGlanz" offset="00" relocatable="true" max_length="0">
+			<original>毕雷古兰兹</original>
+			<edited>毕雷古兰兹</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_WilleGlanz" offset="00" relocatable="true" max_length="0">
+			<original>神龙专用。
+可攻击远处敌人。</original>
+			<edited>神龙专用。
+可攻击远处敌人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GodSwordL" offset="00" relocatable="true" max_length="0">
+			<original>盖欧吉欧斯</original>
+			<edited>盖欧吉欧斯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GodSwordL" offset="00" relocatable="true" max_length="0">
+			<original>传说中的名剑。
+不可追击/由自身主动攻击时必为后攻，
+但会发动猛击。</original>
+			<edited>传说中的名剑。
+不可追击/由自身主动攻击时必为后攻，
+但会发动猛击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Dragonslayer" offset="00" relocatable="true" max_length="0">
+			<original>屠龙剑</original>
+			<edited>屠龙剑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Dragonslayer" offset="00" relocatable="true" max_length="0">
+			<original>专门对付龙的剑。
+克制龙。</original>
+			<edited>专门对付龙的剑。
+克制龙。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_IronLance" offset="00" relocatable="true" max_length="0">
+			<original>铁枪</original>
+			<edited>铁枪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_IronLance" offset="00" relocatable="true" max_length="0">
+			<original>标准的枪。</original>
+			<edited>标准的枪。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SteelLance" offset="00" relocatable="true" max_length="0">
+			<original>钢枪</original>
+			<edited>钢枪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SteelLance" offset="00" relocatable="true" max_length="0">
+			<original>以钢铁打造的枪。</original>
+			<edited>以钢铁打造的枪。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SilverLance" offset="00" relocatable="true" max_length="0">
+			<original>银枪</original>
+			<edited>银枪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SilverLance" offset="00" relocatable="true" max_length="0">
+			<original>以稀有金属打造的枪。</original>
+			<edited>以稀有金属打造的枪。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SmallLance" offset="00" relocatable="true" max_length="0">
+			<original>细枪</original>
+			<edited>细枪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SmallLance" offset="00" relocatable="true" max_length="0">
+			<original>轻巧好用的枪。</original>
+			<edited>轻巧好用的枪。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_BraveLance" offset="00" relocatable="true" max_length="0">
+			<original>勇者之枪</original>
+			<edited>勇者之枪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_BraveLance" offset="00" relocatable="true" max_length="0">
+			<original>仅有高手能使用的枪。
+自身发起攻击时，连续攻击2次。</original>
+			<edited>仅有高手能使用的枪。
+自身发起攻击时，连续攻击2次。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_HandLance" offset="00" relocatable="true" max_length="0">
+			<original>标枪</original>
+			<edited>标枪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_HandLance" offset="00" relocatable="true" max_length="0">
+			<original>投掷用枪。
+可攻击远处敌人。</original>
+			<edited>投掷用枪。
+可攻击远处敌人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_RiderKiller" offset="00" relocatable="true" max_length="0">
+			<original>骑士杀手</original>
+			<edited>骑士杀手</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_RiderKiller" offset="00" relocatable="true" max_length="0">
+			<original>专门对付马上敌人的枪。
+克制骑马。</original>
+			<edited>专门对付马上敌人的枪。
+克制骑马。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_KillerLance" offset="00" relocatable="true" max_length="0">
+			<original>必杀枪</original>
+			<edited>必杀枪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_KillerLance" offset="00" relocatable="true" max_length="0">
+			<original>较容易造成致命伤害的枪。</original>
+			<edited>较容易造成致命伤害的枪。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Spear" offset="00" relocatable="true" max_length="0">
+			<original>投枪</original>
+			<edited>投枪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Spear" offset="00" relocatable="true" max_length="0">
+			<original>威力强大的投掷用枪。
+可攻击远处敌人。</original>
+			<edited>威力强大的投掷用枪。
+可攻击远处敌人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FlameSpear" offset="00" relocatable="true" max_length="0">
+			<original>炎枪</original>
+			<edited>炎枪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FlameSpear" offset="00" relocatable="true" max_length="0">
+			<original>可用魔法之火攻击远处敌人。</original>
+			<edited>可用魔法之火攻击远处敌人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GodLance" offset="00" relocatable="true" max_length="0">
+			<original>布里欧奈克</original>
+			<edited>布里欧奈克</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GodLance" offset="00" relocatable="true" max_length="0">
+			<original>传说中的名枪。
+可攻击远处敌人。</original>
+			<edited>传说中的名枪。
+可攻击远处敌人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_IronLanceL" offset="00" relocatable="true" max_length="0">
+			<original>铁大枪</original>
+			<edited>铁大枪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_IronLanceL" offset="00" relocatable="true" max_length="0">
+			<original>巨大的枪。
+不可追击/由自身主动攻击时必为后攻，
+但会发动猛击。</original>
+			<edited>巨大的枪。
+不可追击/由自身主动攻击时必为后攻，
+但会发动猛击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SteelLanceL" offset="00" relocatable="true" max_length="0">
+			<original>钢大枪</original>
+			<edited>钢大枪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SteelLanceL" offset="00" relocatable="true" max_length="0">
+			<original>以钢铁打造的大枪。
+不可追击/由自身主动攻击时必为后攻，
+但会发动猛击。</original>
+			<edited>以钢铁打造的大枪。
+不可追击/由自身主动攻击时必为后攻，
+但会发动猛击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SilverLanceL" offset="00" relocatable="true" max_length="0">
+			<original>银大枪</original>
+			<edited>银大枪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SilverLanceL" offset="00" relocatable="true" max_length="0">
+			<original>以稀有金属打造的大枪。
+不可追击/由自身主动攻击时必为后攻，
+但会发动猛击。</original>
+			<edited>以稀有金属打造的大枪。
+不可追击/由自身主动攻击时必为后攻，
+但会发动猛击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GodLanceL" offset="00" relocatable="true" max_length="0">
+			<original>恶毒枪</original>
+			<edited>恶毒枪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GodLanceL" offset="00" relocatable="true" max_length="0">
+			<original>传说中的名枪。
+能使对手中毒/不可追击/由自身主动攻击时
+必为后攻，但会发动猛击。</original>
+			<edited>传说中的名枪。
+能使对手中毒/不可追击/由自身主动攻击时
+必为后攻，但会发动猛击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_IronAxe" offset="00" relocatable="true" max_length="0">
+			<original>铁斧</original>
+			<edited>铁斧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_IronAxe" offset="00" relocatable="true" max_length="0">
+			<original>标准的斧。</original>
+			<edited>标准的斧。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SteelAxe" offset="00" relocatable="true" max_length="0">
+			<original>钢斧</original>
+			<edited>钢斧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SteelAxe" offset="00" relocatable="true" max_length="0">
+			<original>以钢铁打造的斧。</original>
+			<edited>以钢铁打造的斧。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SilverAxe" offset="00" relocatable="true" max_length="0">
+			<original>银斧</original>
+			<edited>银斧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SilverAxe" offset="00" relocatable="true" max_length="0">
+			<original>使用稀有金属打造的斧。</original>
+			<edited>使用稀有金属打造的斧。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SmallAxe" offset="00" relocatable="true" max_length="0">
+			<original>短斧</original>
+			<edited>短斧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SmallAxe" offset="00" relocatable="true" max_length="0">
+			<original>轻巧好用的斧。</original>
+			<edited>轻巧好用的斧。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_BraveAxe" offset="00" relocatable="true" max_length="0">
+			<original>勇者之斧</original>
+			<edited>勇者之斧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_BraveAxe" offset="00" relocatable="true" max_length="0">
+			<original>仅有高手能使用的斧。
+自身发起攻击时，连续攻击2次。</original>
+			<edited>仅有高手能使用的斧。
+自身发起攻击时，连续攻击2次。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_HandAxe" offset="00" relocatable="true" max_length="0">
+			<original>手斧</original>
+			<edited>手斧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_HandAxe" offset="00" relocatable="true" max_length="0">
+			<original>投掷用斧。
+可攻击远处敌人</original>
+			<edited>投掷用斧。
+可攻击远处敌人</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Tomahawk" offset="00" relocatable="true" max_length="0">
+			<original>投斧</original>
+			<edited>投斧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Tomahawk" offset="00" relocatable="true" max_length="0">
+			<original>威力强大的投掷用斧。
+可攻击远处敌人。</original>
+			<edited>威力强大的投掷用斧。
+可攻击远处敌人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Hammer" offset="00" relocatable="true" max_length="0">
+			<original>战锤</original>
+			<edited>战锤</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Hammer" offset="00" relocatable="true" max_length="0">
+			<original>专门对付重装士兵的战锤。
+克制重装。</original>
+			<edited>专门对付重装士兵的战锤。
+克制重装。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_KillerAxe" offset="00" relocatable="true" max_length="0">
+			<original>必杀斧</original>
+			<edited>必杀斧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_KillerAxe" offset="00" relocatable="true" max_length="0">
+			<original>较容易造成致命伤害的斧。</original>
+			<edited>较容易造成致命伤害的斧。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_PoleAxe" offset="00" relocatable="true" max_length="0">
+			<original>长斧</original>
+			<edited>长斧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_PoleAxe" offset="00" relocatable="true" max_length="0">
+			<original>专门对付骑兵的长柄斧。
+克制骑马。</original>
+			<edited>专门对付骑兵的长柄斧。
+克制骑马。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GodAxe" offset="00" relocatable="true" max_length="0">
+			<original>佛拉格拉克</original>
+			<edited>佛拉格拉克</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GodAxe" offset="00" relocatable="true" max_length="0">
+			<original>传说中的名斧。</original>
+			<edited>传说中的名斧。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_IronAxeL" offset="00" relocatable="true" max_length="0">
+			<original>铁大斧</original>
+			<edited>铁大斧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_IronAxeL" offset="00" relocatable="true" max_length="0">
+			<original>巨大的斧。
+不可追击/由自身主动攻击时必为后攻，
+但会发动猛击。</original>
+			<edited>巨大的斧。
+不可追击/由自身主动攻击时必为后攻，
+但会发动猛击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SteelAxeL" offset="00" relocatable="true" max_length="0">
+			<original>钢大斧</original>
+			<edited>钢大斧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SteelAxeL" offset="00" relocatable="true" max_length="0">
+			<original>以钢铁打造的大斧。
+不可追击/由自身主动攻击时必为后攻，
+但会发动猛击。</original>
+			<edited>以钢铁打造的大斧。
+不可追击/由自身主动攻击时必为后攻，
+但会发动猛击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SilverAxeL" offset="00" relocatable="true" max_length="0">
+			<original>银大斧</original>
+			<edited>银大斧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SilverAxeL" offset="00" relocatable="true" max_length="0">
+			<original>以稀有金属打造的大斧。
+不可追击/由自身主动攻击时必为后攻，
+但会发动猛击。</original>
+			<edited>以稀有金属打造的大斧。
+不可追击/由自身主动攻击时必为后攻，
+但会发动猛击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_WindAxeL" offset="00" relocatable="true" max_length="0">
+			<original>风大斧</original>
+			<edited>风大斧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_WindAxeL" offset="00" relocatable="true" max_length="0">
+			<original>斧刃上挟裹着魔力的魔法斧。
+不可追击/由自身主动攻击时必为后攻，
+但会发动猛击。</original>
+			<edited>斧刃上挟裹着魔力的魔法斧。
+不可追击/由自身主动攻击时必为后攻，
+但会发动猛击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GodAxeL" offset="00" relocatable="true" max_length="0">
+			<original>乌哥巴萨拉</original>
+			<edited>乌哥巴萨拉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GodAxeL" offset="00" relocatable="true" max_length="0">
+			<original>传说中的名斧。
+不可追击/由自身主动攻击时必为后攻，
+但会发动猛击。</original>
+			<edited>传说中的名斧。
+不可追击/由自身主动攻击时必为后攻，
+但会发动猛击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_ShortBow" offset="00" relocatable="true" max_length="0">
+			<original>短弓</original>
+			<edited>短弓</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_ShortBow" offset="00" relocatable="true" max_length="0">
+			<original>射程虽短却好用的弓。
+克制飞行。</original>
+			<edited>射程虽短却好用的弓。
+克制飞行。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_IronBow" offset="00" relocatable="true" max_length="0">
+			<original>铁弓</original>
+			<edited>铁弓</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_IronBow" offset="00" relocatable="true" max_length="0">
+			<original>标准的弓。
+克制飞行。</original>
+			<edited>标准的弓。
+克制飞行。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SteelBow" offset="00" relocatable="true" max_length="0">
+			<original>钢弓</original>
+			<edited>钢弓</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SteelBow" offset="00" relocatable="true" max_length="0">
+			<original>以钢铁打造的弓。
+克制飞行。</original>
+			<edited>以钢铁打造的弓。
+克制飞行。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SilverBow" offset="00" relocatable="true" max_length="0">
+			<original>银弓</original>
+			<edited>银弓</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SilverBow" offset="00" relocatable="true" max_length="0">
+			<original>以稀有金属打造的弓。
+克制飞行。</original>
+			<edited>以稀有金属打造的弓。
+克制飞行。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_BraveBow" offset="00" relocatable="true" max_length="0">
+			<original>勇者之弓</original>
+			<edited>勇者之弓</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_BraveBow" offset="00" relocatable="true" max_length="0">
+			<original>仅有高手能使用的弓。
+由自身发动攻击时，连续攻击2次。
+克制飞行。</original>
+			<edited>仅有高手能使用的弓。
+由自身发动攻击时，连续攻击2次。
+克制飞行。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_LongBow" offset="00" relocatable="true" max_length="0">
+			<original>长弓</original>
+			<edited>长弓</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_LongBow" offset="00" relocatable="true" max_length="0">
+			<original>长射程的弓。
+克制飞行。</original>
+			<edited>长射程的弓。
+克制飞行。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_KillerBow" offset="00" relocatable="true" max_length="0">
+			<original>必杀弓</original>
+			<edited>必杀弓</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_KillerBow" offset="00" relocatable="true" max_length="0">
+			<original>较容易造成致命伤害的弓。
+克制飞行。</original>
+			<edited>较容易造成致命伤害的弓。
+克制飞行。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_LightBow" offset="00" relocatable="true" max_length="0">
+			<original>光之弓</original>
+			<edited>光之弓</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_LightBow" offset="00" relocatable="true" max_length="0">
+			<original>魔法之弓。
+可发射魔法之箭/克制飞行。</original>
+			<edited>魔法之弓。
+可发射魔法之箭/克制飞行。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GodBow" offset="00" relocatable="true" max_length="0">
+			<original>伦达威尔</original>
+			<edited>伦达威尔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GodBow" offset="00" relocatable="true" max_length="0">
+			<original>传说中的名弓。
+克制飞行。</original>
+			<edited>传说中的名弓。
+克制飞行。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SmallKnife" offset="00" relocatable="true" max_length="0">
+			<original>短刀</original>
+			<edited>短刀</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SmallKnife" offset="00" relocatable="true" max_length="0">
+			<original>好用的短剑。
+能使对手中毒。</original>
+			<edited>好用的短剑。
+能使对手中毒。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_IronKnife" offset="00" relocatable="true" max_length="0">
+			<original>铁刀</original>
+			<edited>铁刀</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_IronKnife" offset="00" relocatable="true" max_length="0">
+			<original>标准的短剑。
+能使对手中毒。</original>
+			<edited>标准的短剑。
+能使对手中毒。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SteelKnife" offset="00" relocatable="true" max_length="0">
+			<original>钢刀</original>
+			<edited>钢刀</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SteelKnife" offset="00" relocatable="true" max_length="0">
+			<original>以钢铁打造的短剑。
+能使对手中毒。</original>
+			<edited>以钢铁打造的短剑。
+能使对手中毒。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SilverKnife" offset="00" relocatable="true" max_length="0">
+			<original>银刀</original>
+			<edited>银刀</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SilverKnife" offset="00" relocatable="true" max_length="0">
+			<original>以稀有金属打造的短剑。
+能使对手中毒。</original>
+			<edited>以稀有金属打造的短剑。
+能使对手中毒。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Kard" offset="00" relocatable="true" max_length="0">
+			<original>卡尔德</original>
+			<edited>卡尔德</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Kard" offset="00" relocatable="true" max_length="0">
+			<original>用于近身战的短剑。
+能使对手中毒。</original>
+			<edited>用于近身战的短剑。
+能使对手中毒。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Stiletto" offset="00" relocatable="true" max_length="0">
+			<original>史提列特</original>
+			<edited>史提列特</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Stiletto" offset="00" relocatable="true" max_length="0">
+			<original>用于近身战的短剑。
+能使对手中毒。</original>
+			<edited>用于近身战的短剑。
+能使对手中毒。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Peshkad" offset="00" relocatable="true" max_length="0">
+			<original>佩修卡特</original>
+			<edited>佩修卡特</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Peshkad" offset="00" relocatable="true" max_length="0">
+			<original>用于近身战的短剑。
+能使对手中毒。</original>
+			<edited>用于近身战的短剑。
+能使对手中毒。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Misericorde" offset="00" relocatable="true" max_length="0">
+			<original>米谢利克德</original>
+			<edited>米谢利克德</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Misericorde" offset="00" relocatable="true" max_length="0">
+			<original>贝珥专用。
+魔法短剑。剑刃环绕着魔力。
+能使对手中毒。</original>
+			<edited>贝珥专用。
+魔法短剑。剑刃环绕着魔力。
+能使对手中毒。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Cinquedea" offset="00" relocatable="true" max_length="0">
+			<original>辛克艾迪亚</original>
+			<edited>辛克艾迪亚</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Cinquedea" offset="00" relocatable="true" max_length="0">
+			<original>传说中的短剑。
+能使对手中毒。</original>
+			<edited>传说中的短剑。
+能使对手中毒。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Carnwenhan" offset="00" relocatable="true" max_length="0">
+			<original>卡伦威南</original>
+			<edited>卡伦威南</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Carnwenhan" offset="00" relocatable="true" max_length="0">
+			<original>用于近身战的传说短剑。
+能使对手中毒/不可追击/由自身主动攻击时
+必为后攻，但会发动猛击。</original>
+			<edited>用于近身战的传说短剑。
+能使对手中毒/不可追击/由自身主动攻击时
+必为后攻，但会发动猛击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Surge" offset="00" relocatable="true" max_length="0">
+			<original>浪涌</original>
+			<edited>浪涌</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Surge" offset="00" relocatable="true" max_length="0">
+			<original>短射程的攻击魔法。</original>
+			<edited>短射程的攻击魔法。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Fire" offset="00" relocatable="true" max_length="0">
+			<original>火焰</original>
+			<edited>火焰</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Fire" offset="00" relocatable="true" max_length="0">
+			<original>炎之魔法。</original>
+			<edited>炎之魔法。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Thunder" offset="00" relocatable="true" max_length="0">
+			<original>雷电</original>
+			<edited>雷电</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Thunder" offset="00" relocatable="true" max_length="0">
+			<original>雷之魔法。
+不可追击。</original>
+			<edited>雷之魔法。
+不可追击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Wind" offset="00" relocatable="true" max_length="0">
+			<original>烈风</original>
+			<edited>烈风</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Wind" offset="00" relocatable="true" max_length="0">
+			<original>风之魔法。
+克制飞行。</original>
+			<edited>风之魔法。
+克制飞行。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_LSurge" offset="00" relocatable="true" max_length="0">
+			<original>狂涌</original>
+			<edited>狂涌</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_LSurge" offset="00" relocatable="true" max_length="0">
+			<original>高等近距离魔法。</original>
+			<edited>高等近距离魔法。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_LFire" offset="00" relocatable="true" max_length="0">
+			<original>狂焰</original>
+			<edited>狂焰</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_LFire" offset="00" relocatable="true" max_length="0">
+			<original>高等炎之魔法。</original>
+			<edited>高等炎之魔法。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_LThunder" offset="00" relocatable="true" max_length="0">
+			<original>狂雷</original>
+			<edited>狂雷</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_LThunder" offset="00" relocatable="true" max_length="0">
+			<original>高等雷之魔法。
+不可追击。</original>
+			<edited>高等雷之魔法。
+不可追击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_LWind" offset="00" relocatable="true" max_length="0">
+			<original>狂风</original>
+			<edited>狂风</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_LWind" offset="00" relocatable="true" max_length="0">
+			<original>高等风魔法。
+克制飞行。</original>
+			<edited>高等风魔法。
+克制飞行。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Bolganone" offset="00" relocatable="true" max_length="0">
+			<original>火山爆焰</original>
+			<edited>火山爆焰</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Bolganone" offset="00" relocatable="true" max_length="0">
+			<original>威力强大的炎攻击魔法。</original>
+			<edited>威力强大的炎攻击魔法。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Thoron" offset="00" relocatable="true" max_length="0">
+			<original>托隆</original>
+			<edited>托隆</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Thoron" offset="00" relocatable="true" max_length="0">
+			<original>威力强大的雷攻击魔法。
+不可追击。</original>
+			<edited>威力强大的雷攻击魔法。
+不可追击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SThoron" offset="00" relocatable="true" max_length="0">
+			<original>托隆</original>
+			<edited>托隆</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SThoron" offset="00" relocatable="true" max_length="0">
+			<original>威力强大的雷攻击魔法。
+不可追击。</original>
+			<edited>威力强大的雷攻击魔法。
+不可追击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Excalibur" offset="00" relocatable="true" max_length="0">
+			<original>埃克斯卡利伯</original>
+			<edited>埃克斯卡利伯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Excalibur" offset="00" relocatable="true" max_length="0">
+			<original>威力强大的风攻击魔法。
+克制飞行。</original>
+			<edited>威力强大的风攻击魔法。
+克制飞行。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Excalibur_Gris" offset="00" relocatable="true" max_length="0">
+			<original>威力强大的风攻击魔法。
+克制飞行。</original>
+			<edited>威力强大的风攻击魔法。
+克制飞行。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Nova" offset="00" relocatable="true" max_length="0">
+			<original>新星</original>
+			<edited>新星</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Nova" offset="00" relocatable="true" max_length="0">
+			<original>威力强大的攻击魔法。
+由自身发起攻击时，连续攻击2次。</original>
+			<edited>威力强大的攻击魔法。
+由自身发起攻击时，连续攻击2次。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Meteo" offset="00" relocatable="true" max_length="0">
+			<original>陨石</original>
+			<edited>陨石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Meteo" offset="00" relocatable="true" max_length="0">
+			<original>长射程的攻击魔法。
+无法用于近身战斗。</original>
+			<edited>长射程的攻击魔法。
+无法用于近身战斗。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Obscurite" offset="00" relocatable="true" max_length="0">
+			<original>暗黑无光</original>
+			<edited>暗黑无光</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Obscurite" offset="00" relocatable="true" max_length="0">
+			<original>邪龙专用。
+威力强大的暗攻击魔法。</original>
+			<edited>邪龙专用。
+威力强大的暗攻击魔法。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Obscurite_M000" offset="00" relocatable="true" max_length="0">
+			<original>邪龙专用。
+威力强大的暗攻击魔法。</original>
+			<edited>邪龙专用。
+威力强大的暗攻击魔法。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Heal" offset="00" relocatable="true" max_length="0">
+			<original>圣疗</original>
+			<edited>圣疗</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Heal" offset="00" relocatable="true" max_length="0">
+			<original>疗伤用的魔法之杖。
+可回复我方单位HP。</original>
+			<edited>疗伤用的魔法之杖。
+可回复我方单位HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_HiHeal" offset="00" relocatable="true" max_length="0">
+			<original>大圣疗</original>
+			<edited>大圣疗</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_HiHeal" offset="00" relocatable="true" max_length="0">
+			<original>疗伤用的魔法之杖。
+可回复我方单位大量HP。</original>
+			<edited>疗伤用的魔法之杖。
+可回复我方单位大量HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Recover" offset="00" relocatable="true" max_length="0">
+			<original>圣愈</original>
+			<edited>圣愈</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Recover" offset="00" relocatable="true" max_length="0">
+			<original>疗伤用的魔法之杖。
+可回复我方单位极大量HP。</original>
+			<edited>疗伤用的魔法之杖。
+可回复我方单位极大量HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FarHeal" offset="00" relocatable="true" max_length="0">
+			<original>远程圣疗</original>
+			<edited>远程圣疗</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FarHeal" offset="00" relocatable="true" max_length="0">
+			<original>疗伤用的魔法之杖。
+可远程回复我方单位HP。</original>
+			<edited>疗伤用的魔法之杖。
+可远程回复我方单位HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_WholeHeal" offset="00" relocatable="true" max_length="0">
+			<original>全体圣疗</original>
+			<edited>全体圣疗</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_WholeHeal" offset="00" relocatable="true" max_length="0">
+			<original>疗伤用的魔法之杖。
+可回复位于周围5格内的
+我方全员HP。</original>
+			<edited>疗伤用的魔法之杖。
+可回复位于周围5格内的
+我方全员HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Rest" offset="00" relocatable="true" max_length="0">
+			<original>休息</original>
+			<edited>休息</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Rest" offset="00" relocatable="true" max_length="0">
+			<original>可解除我方异常状态的杖。</original>
+			<edited>可解除我方异常状态的杖。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Warp" offset="00" relocatable="true" max_length="0">
+			<original>传送</original>
+			<edited>传送</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Warp" offset="00" relocatable="true" max_length="0">
+			<original>可发动传送魔法的杖。
+能将我方单位传送至距离1～5的格子。</original>
+			<edited>可发动传送魔法的杖。
+能将我方单位传送至距离1～5的格子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_ReWarp" offset="00" relocatable="true" max_length="0">
+			<original>自我传送</original>
+			<edited>自我传送</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_ReWarp" offset="00" relocatable="true" max_length="0">
+			<original>可发动传送魔法的杖。
+能将自身传送至距离1～5的格子。</original>
+			<edited>可发动传送魔法的杖。
+能将自身传送至距离1～5的格子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Rescue" offset="00" relocatable="true" max_length="0">
+			<original>救援</original>
+			<edited>救援</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Rescue" offset="00" relocatable="true" max_length="0">
+			<original>可发动传送魔法的杖。
+可将远处的我方单位传送至自己身边。</original>
+			<edited>可发动传送魔法的杖。
+可将远处的我方单位传送至自己身边。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Draw" offset="00" relocatable="true" max_length="0">
+			<original>召敌</original>
+			<edited>召敌</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Draw" offset="00" relocatable="true" max_length="0">
+			<original>可发动传送魔法的杖。
+能将远处的敌人传送至自己身边。</original>
+			<edited>可发动传送魔法的杖。
+能将远处的敌人传送至自己身边。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_TorchRod" offset="00" relocatable="true" max_length="0">
+			<original>火炬</original>
+			<edited>火炬</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_TorchRod" offset="00" relocatable="true" max_length="0">
+			<original>以魔法照亮黑暗的杖。
+可照亮周围7格。（范围每回合缩小）</original>
+			<edited>以魔法照亮黑暗的杖。
+可照亮周围7格。（范围每回合缩小）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Freeze" offset="00" relocatable="true" max_length="0">
+			<original>冰封</original>
+			<edited>冰封</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Freeze" offset="00" relocatable="true" max_length="0">
+			<original>封印敌人行动的法杖。
+使敌人在1回合内无法移动。</original>
+			<edited>封印敌人行动的法杖。
+使敌人在1回合内无法移动。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Silence" offset="00" relocatable="true" max_length="0">
+			<original>沉默</original>
+			<edited>沉默</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Silence" offset="00" relocatable="true" max_length="0">
+			<original>封印魔法的法杖。
+使敌人在1回合内无法使用杖/魔法。</original>
+			<edited>封印魔法的法杖。
+使敌人在1回合内无法使用杖/魔法。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Block" offset="00" relocatable="true" max_length="0">
+			<original>冰锁</original>
+			<edited>冰锁</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Block" offset="00" relocatable="true" max_length="0">
+			<original>能制造冰柱的法杖。
+冰柱可在1回合内阻止敌人进入。</original>
+			<edited>能制造冰柱的法杖。
+冰柱可在1回合内阻止敌人进入。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Nodus" offset="00" relocatable="true" max_length="0">
+			<original>结节</original>
+			<edited>结节</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Nodus" offset="00" relocatable="true" max_length="0">
+			<original>拥有不可思议力量的魔法之杖
+能集满所有伙伴的结合计量条</original>
+			<edited>拥有不可思议力量的魔法之杖
+能集满所有伙伴的结合计量条</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Collapse" offset="00" relocatable="true" max_length="0">
+			<original>崩塌</original>
+			<edited>崩塌</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Collapse" offset="00" relocatable="true" max_length="0">
+			<original>拥有神奇力量的魔法之杖。
+可使敌人陷入打破状态。</original>
+			<edited>拥有神奇力量的魔法之杖。
+可使敌人陷入打破状态。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_BeginnerFist" offset="00" relocatable="true" max_length="0">
+			<original>新手体术</original>
+			<edited>新手体术</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_BeginnerFist" offset="00" relocatable="true" max_length="0">
+			<original>记载初阶格斗术的秘籍。
+无法连续攻击但易上手。</original>
+			<edited>记载初阶格斗术的秘籍。
+无法连续攻击但易上手。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_BasicFist" offset="00" relocatable="true" max_length="0">
+			<original>基本体术</original>
+			<edited>基本体术</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_BasicFist" offset="00" relocatable="true" max_length="0">
+			<original>记载了基础格斗术的秘籍。
+由自身发动攻击时，连续攻击2次。</original>
+			<edited>记载了基础格斗术的秘籍。
+由自身发动攻击时，连续攻击2次。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_MiddleFist" offset="00" relocatable="true" max_length="0">
+			<original>高级体术</original>
+			<edited>高级体术</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_MiddleFist" offset="00" relocatable="true" max_length="0">
+			<original>记载了格斗老手之格斗术的秘籍。
+由自身发动攻击时，连续攻击2次。</original>
+			<edited>记载了格斗老手之格斗术的秘籍。
+由自身发动攻击时，连续攻击2次。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_HighFist" offset="00" relocatable="true" max_length="0">
+			<original>专家体术</original>
+			<edited>专家体术</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_HighFist" offset="00" relocatable="true" max_length="0">
+			<original>记载了究极格斗术的秘籍。
+由自身发动攻击时，连续攻击2次。</original>
+			<edited>记载了究极格斗术的秘籍。
+由自身发动攻击时，连续攻击2次。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GuardFist" offset="00" relocatable="true" max_length="0">
+			<original>护身体术</original>
+			<edited>护身体术</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GuardFist" offset="00" relocatable="true" max_length="0">
+			<original>记载注重防御之格斗术的秘籍。
+防守+5。</original>
+			<edited>记载注重防御之格斗术的秘籍。
+防守+5。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FlashFist" offset="00" relocatable="true" max_length="0">
+			<original>闪进体术</original>
+			<edited>闪进体术</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FlashFist" offset="00" relocatable="true" max_length="0">
+			<original>记载了重攻击之格斗术的秘籍。
+由自身发动攻击时，连续攻击2次。
+速度+5/受到的伤害+5。</original>
+			<edited>记载了重攻击之格斗术的秘籍。
+由自身发动攻击时，连续攻击2次。
+速度+5/受到的伤害+5。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GodFist" offset="00" relocatable="true" max_length="0">
+			<original>霸神体术</original>
+			<edited>霸神体术</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GodFist" offset="00" relocatable="true" max_length="0">
+			<original>记载了传说之格斗术的秘籍。
+由自身发动攻击时，连续攻击2次。</original>
+			<edited>记载了传说之格斗术的秘籍。
+由自身发动攻击时，连续攻击2次。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FireBreath" offset="00" relocatable="true" max_length="0">
+			<original>火之吐息</original>
+			<edited>火之吐息</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FireBreath" offset="00" relocatable="true" max_length="0">
+			<original>灼热的吐息攻击。
+无视防御力。</original>
+			<edited>灼热的吐息攻击。
+无视防御力。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FlameBall" offset="00" relocatable="true" max_length="0">
+			<original>炎块</original>
+			<edited>炎块</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FlameBall" offset="00" relocatable="true" max_length="0">
+			<original>针对远距离敌人的炎之攻击。
+无视防御力。</original>
+			<edited>针对远距离敌人的炎之攻击。
+无视防御力。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SombrePhysicalAttack" offset="00" relocatable="true" max_length="0">
+			<original>邪龙的强击</original>
+			<edited>邪龙的强击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SombrePhysicalAttack" offset="00" relocatable="true" max_length="0">
+			<original>从庞大身躯发出的长射程攻击。</original>
+			<edited>从庞大身躯发出的长射程攻击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SombreMagicAttack" offset="00" relocatable="true" max_length="0">
+			<original>邪龙的波动</original>
+			<edited>邪龙的波动</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SombreMagicAttack" offset="00" relocatable="true" max_length="0">
+			<original>威力强大且长射程的暗攻击魔法。</original>
+			<edited>威力强大且长射程的暗攻击魔法。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SombreSpinAttack" offset="00" relocatable="true" max_length="0">
+			<original>邪龙旋转乱舞</original>
+			<edited>邪龙旋转乱舞</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SombreSpinAttack" offset="00" relocatable="true" max_length="0">
+			<original>转动身躯，攻击周围敌人的范围攻击。
+可攻击周围3格内的所有敌人。</original>
+			<edited>转动身躯，攻击周围敌人的范围攻击。
+可攻击周围3格内的所有敌人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SombreBeam" offset="00" relocatable="true" max_length="0">
+			<original>邪龙吼叫炮</original>
+			<edited>邪龙吼叫炮</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SombreBeam" offset="00" relocatable="true" max_length="0">
+			<original>威力强大且长射程的暗光束（魔法）攻击。
+射出光束的轨道上会产生一些瘴气。</original>
+			<edited>威力强大且长射程的暗光束（魔法）攻击。
+射出光束的轨道上会产生一些瘴气。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SombreEngageBreak" offset="00" relocatable="true" max_length="0">
+			<original>结合破坏</original>
+			<edited>结合破坏</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SombreEngageBreak" offset="00" relocatable="true" max_length="0">
+			<original>解除结合状态。
+全体攻击。</original>
+			<edited>解除结合状态。
+全体攻击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FireCannon" offset="00" relocatable="true" max_length="0">
+			<original>火炎炮台</original>
+			<edited>火炎炮台</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FireCannon" offset="00" relocatable="true" max_length="0">
+			<original>以炮击攻击在落点周围2格内的单位，
+使落点附近的地形变为“火焰”。</original>
+			<edited>以炮击攻击在落点周围2格内的单位，
+使落点附近的地形变为“火焰”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Vulnerary" offset="00" relocatable="true" max_length="0">
+			<original>伤药</original>
+			<edited>伤药</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Vulnerary" offset="00" relocatable="true" max_length="0">
+			<original>可回复自身15HP。</original>
+			<edited>可回复自身15HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Medicine" offset="00" relocatable="true" max_length="0">
+			<original>特效药</original>
+			<edited>特效药</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Medicine" offset="00" relocatable="true" max_length="0">
+			<original>可回复自身30HP。</original>
+			<edited>可回复自身30HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Antidote" offset="00" relocatable="true" max_length="0">
+			<original>解毒剂</original>
+			<edited>解毒剂</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Antidote" offset="00" relocatable="true" max_length="0">
+			<original>可回复自身15HP，
+并解除中毒状态。</original>
+			<edited>可回复自身15HP，
+并解除中毒状态。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_HolyWater" offset="00" relocatable="true" max_length="0">
+			<original>圣水</original>
+			<edited>圣水</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_HolyWater" offset="00" relocatable="true" max_length="0">
+			<original>自身的魔防+7。（每回合递减）</original>
+			<edited>自身的魔防+7。（每回合递减）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Torch" offset="00" relocatable="true" max_length="0">
+			<original>火把</original>
+			<edited>火把</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Torch" offset="00" relocatable="true" max_length="0">
+			<original>可照亮周围7格。（范围每回合缩小）</original>
+			<edited>可照亮周围7格。（范围每回合缩小）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SeraphRobe" offset="00" relocatable="true" max_length="0">
+			<original>天使之衣</original>
+			<edited>天使之衣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SeraphRobe" offset="00" relocatable="true" max_length="0">
+			<original>使用后HP最大值+5。</original>
+			<edited>使用后HP最大值+5。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_EnergyDrop" offset="00" relocatable="true" max_length="0">
+			<original>力量水滴</original>
+			<edited>力量水滴</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_EnergyDrop" offset="00" relocatable="true" max_length="0">
+			<original>使用后力量+2。</original>
+			<edited>使用后力量+2。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SpiritDust" offset="00" relocatable="true" max_length="0">
+			<original>精灵之粉</original>
+			<edited>精灵之粉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SpiritDust" offset="00" relocatable="true" max_length="0">
+			<original>使用后魔力+2。</original>
+			<edited>使用后魔力+2。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SecretBook" offset="00" relocatable="true" max_length="0">
+			<original>秘传之书</original>
+			<edited>秘传之书</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SecretBook" offset="00" relocatable="true" max_length="0">
+			<original>使用后技巧+2。</original>
+			<edited>使用后技巧+2。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Speedwing" offset="00" relocatable="true" max_length="0">
+			<original>疾风羽毛</original>
+			<edited>疾风羽毛</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Speedwing" offset="00" relocatable="true" max_length="0">
+			<original>使用后速度+2。</original>
+			<edited>使用后速度+2。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GoddessIcon" offset="00" relocatable="true" max_length="0">
+			<original>女神像</original>
+			<edited>女神像</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GoddessIcon" offset="00" relocatable="true" max_length="0">
+			<original>使用后幸运+2。</original>
+			<edited>使用后幸运+2。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Dracoshield" offset="00" relocatable="true" max_length="0">
+			<original>龙盾</original>
+			<edited>龙盾</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Dracoshield" offset="00" relocatable="true" max_length="0">
+			<original>使用后防守+2。</original>
+			<edited>使用后防守+2。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Talisman" offset="00" relocatable="true" max_length="0">
+			<original>避邪物</original>
+			<edited>避邪物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Talisman" offset="00" relocatable="true" max_length="0">
+			<original>使用后魔防+2。</original>
+			<edited>使用后魔防+2。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Boots" offset="00" relocatable="true" max_length="0">
+			<original>靴子</original>
+			<edited>靴子</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Boots" offset="00" relocatable="true" max_length="0">
+			<original>使用后移动+1。</original>
+			<edited>使用后移动+1。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_HpTonic" offset="00" relocatable="true" max_length="0">
+			<original>HP药</original>
+			<edited>HP药</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_HpTonic" offset="00" relocatable="true" max_length="0">
+			<original>战斗结束前HP最大值+5。</original>
+			<edited>战斗结束前HP最大值+5。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_StrTonic" offset="00" relocatable="true" max_length="0">
+			<original>力量药</original>
+			<edited>力量药</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_StrTonic" offset="00" relocatable="true" max_length="0">
+			<original>战斗结束前力量+2。</original>
+			<edited>战斗结束前力量+2。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_MagTonic" offset="00" relocatable="true" max_length="0">
+			<original>魔力药</original>
+			<edited>魔力药</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_MagTonic" offset="00" relocatable="true" max_length="0">
+			<original>战斗结束前魔力+2。</original>
+			<edited>战斗结束前魔力+2。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_MdefTonic" offset="00" relocatable="true" max_length="0">
+			<original>魔防药</original>
+			<edited>魔防药</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_MdefTonic" offset="00" relocatable="true" max_length="0">
+			<original>战斗结束前魔防+2。</original>
+			<edited>战斗结束前魔防+2。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_TecTonic" offset="00" relocatable="true" max_length="0">
+			<original>技巧药</original>
+			<edited>技巧药</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_TecTonic" offset="00" relocatable="true" max_length="0">
+			<original>战斗结束前技巧+2。</original>
+			<edited>战斗结束前技巧+2。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SpdTonic" offset="00" relocatable="true" max_length="0">
+			<original>速度药</original>
+			<edited>速度药</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SpdTonic" offset="00" relocatable="true" max_length="0">
+			<original>战斗结束前速度+2。</original>
+			<edited>战斗结束前速度+2。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_LckTonic" offset="00" relocatable="true" max_length="0">
+			<original>幸运药</original>
+			<edited>幸运药</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_LckTonic" offset="00" relocatable="true" max_length="0">
+			<original>战斗结束前幸运+2。</original>
+			<edited>战斗结束前幸运+2。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_DefTonic" offset="00" relocatable="true" max_length="0">
+			<original>防守药</original>
+			<edited>防守药</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_DefTonic" offset="00" relocatable="true" max_length="0">
+			<original>战斗结束前防守+2。</original>
+			<edited>战斗结束前防守+2。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_MasterSeal" offset="00" relocatable="true" max_length="0">
+			<original>大师证</original>
+			<edited>大师证</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_MasterSeal" offset="00" relocatable="true" max_length="0">
+			<original>可转职成高级职业。</original>
+			<edited>可转职成高级职业。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_ChangeSeal" offset="00" relocatable="true" max_length="0">
+			<original>转职证</original>
+			<edited>转职证</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_ChangeSeal" offset="00" relocatable="true" max_length="0">
+			<original>可转职为相同职位的其他兵种。
+（到达最高等级时，也可选择当前兵种）</original>
+			<edited>可转职为相同职位的其他兵种。
+（到达最高等级时，也可选择当前兵种）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_PromiseRing" offset="00" relocatable="true" max_length="0">
+			<original>约定戒指</original>
+			<edited>约定戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_PromiseRing" offset="00" relocatable="true" max_length="0">
+			<original>能使伙伴与自己的支援等级提升至&#xE;&#x8;&#x2;&#x1A;&#x18;&#x0;R&#x0;e&#x0;l&#x0;i&#x0;a&#x0;n&#x0;c&#x0;e&#x0;R&#x0;i&#x0;n&#x0;g&#x0;的戒指。
+仅可交给一名支援等级为A的伙伴。</original>
+			<edited>能使伙伴与自己的支援等级提升至&#xE;&#x8;&#x2;&#x1A;&#x18;&#x0;R&#x0;e&#x0;l&#x0;i&#x0;a&#x0;n&#x0;c&#x0;e&#x0;R&#x0;i&#x0;n&#x0;g&#x0;的戒指。
+仅可交给一名支援等级为A的伙伴。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_PromiseRing_1" offset="00" relocatable="true" max_length="0">
+			<original>安放在祭坛上的戒指，
+里面似乎蕴藏着某种特殊力量。</original>
+			<edited>安放在祭坛上的戒指，
+里面似乎蕴藏着某种特殊力量。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_TimeCrystal" offset="00" relocatable="true" max_length="0">
+			<original>龙之时水晶</original>
+			<edited>龙之时水晶</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_TimeCrystal" offset="00" relocatable="true" max_length="0">
+			<original>不可思议的水晶。
+可回溯一些时间。</original>
+			<edited>不可思议的水晶。
+可回溯一些时间。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_RefineIron" offset="00" relocatable="true" max_length="0">
+			<original>铁晶石</original>
+			<edited>铁晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_RefineIron" offset="00" relocatable="true" max_length="0">
+			<original>在锻造店和装饰品店会用到的材料。
+是富含铁矿的晶石。</original>
+			<edited>在锻造店和装饰品店会用到的材料。
+是富含铁矿的晶石。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_RefineSteel" offset="00" relocatable="true" max_length="0">
+			<original>钢晶石</original>
+			<edited>钢晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_RefineSteel" offset="00" relocatable="true" max_length="0">
+			<original>在锻造店和装饰品店会用到的材料。
+是富含上好铁矿的晶石。</original>
+			<edited>在锻造店和装饰品店会用到的材料。
+是富含上好铁矿的晶石。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_RefineSilver" offset="00" relocatable="true" max_length="0">
+			<original>银晶石</original>
+			<edited>银晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_RefineSilver" offset="00" relocatable="true" max_length="0">
+			<original>在锻造店和装饰品店会用到的材料。
+是富含银矿的晶石。</original>
+			<edited>在锻造店和装饰品店会用到的材料。
+是富含银矿的晶石。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Atk" offset="00" relocatable="true" max_length="0">
+			<original>威力纹晶石</original>
+			<edited>威力纹晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Atk" offset="00" relocatable="true" max_length="0">
+			<original>用于强化结合武器的材料，
+可提升威力。</original>
+			<edited>用于强化结合武器的材料，
+可提升威力。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Hit" offset="00" relocatable="true" max_length="0">
+			<original>命中纹晶石</original>
+			<edited>命中纹晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Hit" offset="00" relocatable="true" max_length="0">
+			<original>用于强化结合武器的材料，
+可提升命中。</original>
+			<edited>用于强化结合武器的材料，
+可提升命中。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Cri" offset="00" relocatable="true" max_length="0">
+			<original>必杀纹晶石</original>
+			<edited>必杀纹晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Cri" offset="00" relocatable="true" max_length="0">
+			<original>用于强化结合武器的材料，
+可提升必杀。</original>
+			<edited>用于强化结合武器的材料，
+可提升必杀。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Avd" offset="00" relocatable="true" max_length="0">
+			<original>回避纹晶石</original>
+			<edited>回避纹晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Avd" offset="00" relocatable="true" max_length="0">
+			<original>用于强化结合武器的材料，
+可提升回避。</original>
+			<edited>用于强化结合武器的材料，
+可提升回避。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Cavd" offset="00" relocatable="true" max_length="0">
+			<original>必避纹晶石</original>
+			<edited>必避纹晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Cavd" offset="00" relocatable="true" max_length="0">
+			<original>用于强化结合武器的材料，
+可提升必避。</original>
+			<edited>用于强化结合武器的材料，
+可提升必避。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Tech" offset="00" relocatable="true" max_length="0">
+			<original>技巧纹晶石</original>
+			<edited>技巧纹晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Tech" offset="00" relocatable="true" max_length="0">
+			<original>用于强化结合武器的材料，
+可提升技巧。</original>
+			<edited>用于强化结合武器的材料，
+可提升技巧。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Spd" offset="00" relocatable="true" max_length="0">
+			<original>速度纹晶石</original>
+			<edited>速度纹晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Spd" offset="00" relocatable="true" max_length="0">
+			<original>用于强化结合武器的材料，
+可提升速度。</original>
+			<edited>用于强化结合武器的材料，
+可提升速度。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Def" offset="00" relocatable="true" max_length="0">
+			<original>防守纹晶石</original>
+			<edited>防守纹晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Def" offset="00" relocatable="true" max_length="0">
+			<original>用于强化结合武器的材料，
+可提升防守。</original>
+			<edited>用于强化结合武器的材料，
+可提升防守。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Res" offset="00" relocatable="true" max_length="0">
+			<original>魔防纹晶石</original>
+			<edited>魔防纹晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Res" offset="00" relocatable="true" max_length="0">
+			<original>用于强化结合武器的材料，
+可提升魔防。</original>
+			<edited>用于强化结合武器的材料，
+可提升魔防。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Slayer_Fly" offset="00" relocatable="true" max_length="0">
+			<original>克制飞行之书</original>
+			<edited>克制飞行之书</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Slayer_Fly" offset="00" relocatable="true" max_length="0">
+			<original>用于强化结合武器的材料，
+可赋予克制飞行的效果。</original>
+			<edited>用于强化结合武器的材料，
+可赋予克制飞行的效果。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Slayer_Horse" offset="00" relocatable="true" max_length="0">
+			<original>克制骑马之书</original>
+			<edited>克制骑马之书</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Slayer_Horse" offset="00" relocatable="true" max_length="0">
+			<original>用于强化结合武器的材料，
+可赋予克制骑马的效果。</original>
+			<edited>用于强化结合武器的材料，
+可赋予克制骑马的效果。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Slayer_Armor" offset="00" relocatable="true" max_length="0">
+			<original>克制重装之书</original>
+			<edited>克制重装之书</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Slayer_Armor" offset="00" relocatable="true" max_length="0">
+			<original>用于强化结合武器的材料，
+可赋予克制重装的效果。</original>
+			<edited>用于强化结合武器的材料，
+可赋予克制重装的效果。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Slayer_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>克制龙之书</original>
+			<edited>克制龙之书</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Slayer_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>用于强化结合武器的材料，
+可赋予克制龙的效果。</original>
+			<edited>用于强化结合武器的材料，
+可赋予克制龙的效果。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Slayer_Morph" offset="00" relocatable="true" max_length="0">
+			<original>克制异形之书</original>
+			<edited>克制异形之书</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Slayer_Morph" offset="00" relocatable="true" max_length="0">
+			<original>用于强化结合武器的材料，
+可赋予克制异形的效果。</original>
+			<edited>用于强化结合武器的材料，
+可赋予克制异形的效果。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_VandrBento" offset="00" relocatable="true" max_length="0">
+			<original>凡德雷便当</original>
+			<edited>凡德雷便当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_VandrBento" offset="00" relocatable="true" max_length="0">
+			<original>凡德雷老练地装好拿手菜的便当。
+食用可回复20HP。</original>
+			<edited>凡德雷老练地装好拿手菜的便当。
+食用可回复20HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_ClanBento" offset="00" relocatable="true" max_length="0">
+			<original>柯岚便当</original>
+			<edited>柯岚便当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_ClanBento" offset="00" relocatable="true" max_length="0">
+			<original>柯岚满心欢喜地用成功料理制成的便当。
+食用可回复20HP。</original>
+			<edited>柯岚满心欢喜地用成功料理制成的便当。
+食用可回复20HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FramBento" offset="00" relocatable="true" max_length="0">
+			<original>芙岚便当</original>
+			<edited>芙岚便当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FramBento" offset="00" relocatable="true" max_length="0">
+			<original>芙岚小心翼翼地装好美味料理的便当。
+食用可回复20HP。</original>
+			<edited>芙岚小心翼翼地装好美味料理的便当。
+食用可回复20HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_AlfredBento" offset="00" relocatable="true" max_length="0">
+			<original>阿尔弗雷德便当</original>
+			<edited>阿尔弗雷德便当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_AlfredBento" offset="00" relocatable="true" max_length="0">
+			<original>阿尔弗雷德塞满了拿手菜的便当。
+食用可回复20HP。</original>
+			<edited>阿尔弗雷德塞满了拿手菜的便当。
+食用可回复20HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_BoucheronBento" offset="00" relocatable="true" max_length="0">
+			<original>布修隆便当</original>
+			<edited>布修隆便当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_BoucheronBento" offset="00" relocatable="true" max_length="0">
+			<original>布修隆仔细地装好美味料理的便当。
+食用可回复20HP。</original>
+			<edited>布修隆仔细地装好美味料理的便当。
+食用可回复20HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_EtieBento" offset="00" relocatable="true" max_length="0">
+			<original>艾媞耶便当</original>
+			<edited>艾媞耶便当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_EtieBento" offset="00" relocatable="true" max_length="0">
+			<original>艾媞耶得意洋洋地装好拿手菜的便当。
+食用可回复20HP。</original>
+			<edited>艾媞耶得意洋洋地装好拿手菜的便当。
+食用可回复20HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_CelineBento" offset="00" relocatable="true" max_length="0">
+			<original>锡莉奴便当</original>
+			<edited>锡莉奴便当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_CelineBento" offset="00" relocatable="true" max_length="0">
+			<original>锡莉奴整齐地装好美味料理的便当。
+食用可回复20HP。</original>
+			<edited>锡莉奴整齐地装好美味料理的便当。
+食用可回复20HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_LouisBento" offset="00" relocatable="true" max_length="0">
+			<original>路易便当</original>
+			<edited>路易便当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_LouisBento" offset="00" relocatable="true" max_length="0">
+			<original>路易手脚利落地用成功料理制成的便当。
+食用可回复20HP。</original>
+			<edited>路易手脚利落地用成功料理制成的便当。
+食用可回复20HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_ChloeBento" offset="00" relocatable="true" max_length="0">
+			<original>克萝艾便当</original>
+			<edited>克萝艾便当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_ChloeBento" offset="00" relocatable="true" max_length="0">
+			<original>克萝艾将拿手菜装成便于边走边吃的便当。
+食用可回复20HP。</original>
+			<edited>克萝艾将拿手菜装成便于边走边吃的便当。
+食用可回复20HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_DiamandBento" offset="00" relocatable="true" max_length="0">
+			<original>帝亚曼德便当</original>
+			<edited>帝亚曼德便当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_DiamandBento" offset="00" relocatable="true" max_length="0">
+			<original>帝亚曼德不加修饰地装好拿手菜的便当。
+食用可回复20HP。</original>
+			<edited>帝亚曼德不加修饰地装好拿手菜的便当。
+食用可回复20HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_UmberBento" offset="00" relocatable="true" max_length="0">
+			<original>安巴便当</original>
+			<edited>安巴便当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_UmberBento" offset="00" relocatable="true" max_length="0">
+			<original>安巴随心所欲地用美味料理制成的便当。
+食用可回复20HP。</original>
+			<edited>安巴随心所欲地用美味料理制成的便当。
+食用可回复20HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_JadeBento" offset="00" relocatable="true" max_length="0">
+			<original>洁德便当</original>
+			<edited>洁德便当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_JadeBento" offset="00" relocatable="true" max_length="0">
+			<original>洁德谨慎地装好成功料理的便当。
+食用可回复20HP。</original>
+			<edited>洁德谨慎地装好成功料理的便当。
+食用可回复20HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_StalukeBento" offset="00" relocatable="true" max_length="0">
+			<original>史塔卢克便当</original>
+			<edited>史塔卢克便当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_StalukeBento" offset="00" relocatable="true" max_length="0">
+			<original>史塔卢克战战兢兢地用美味料理制成的便当。
+食用可回复20HP。</original>
+			<edited>史塔卢克战战兢兢地用美味料理制成的便当。
+食用可回复20HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_LapisBento" offset="00" relocatable="true" max_length="0">
+			<original>菈琵思便当</original>
+			<edited>菈琵思便当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_LapisBento" offset="00" relocatable="true" max_length="0">
+			<original>菈琵思一口不剩地装满成功料理的便当。
+食用可回复20HP。</original>
+			<edited>菈琵思一口不剩地装满成功料理的便当。
+食用可回复20HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_CitrinicaBento" offset="00" relocatable="true" max_length="0">
+			<original>希特丽妮卡便当</original>
+			<edited>希特丽妮卡便当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_CitrinicaBento" offset="00" relocatable="true" max_length="0">
+			<original>希特丽妮卡以豪华容器装好拿手菜的便当。
+食用可回复20HP。</original>
+			<edited>希特丽妮卡以豪华容器装好拿手菜的便当。
+食用可回复20HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_IvyBento" offset="00" relocatable="true" max_length="0">
+			<original>艾比便当</original>
+			<edited>艾比便当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_IvyBento" offset="00" relocatable="true" max_length="0">
+			<original>艾比一脸苦恼地用美味料理制成的便当。
+食用可回复20HP。</original>
+			<edited>艾比一脸苦恼地用美味料理制成的便当。
+食用可回复20HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_ZelkovaBento" offset="00" relocatable="true" max_length="0">
+			<original>杰尔科巴便当</original>
+			<edited>杰尔科巴便当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_ZelkovaBento" offset="00" relocatable="true" max_length="0">
+			<original>杰尔科巴装好精心制作的拿手菜的便当。
+食用可回复20HP。</original>
+			<edited>杰尔科巴装好精心制作的拿手菜的便当。
+食用可回复20HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_KagetsuBento" offset="00" relocatable="true" max_length="0">
+			<original>花月便当</original>
+			<edited>花月便当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_KagetsuBento" offset="00" relocatable="true" max_length="0">
+			<original>花月用带有乡愁的拿手菜制成的便当。
+食用可回复20HP。</original>
+			<edited>花月用带有乡愁的拿手菜制成的便当。
+食用可回复20HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_HortensiaBento" offset="00" relocatable="true" max_length="0">
+			<original>奥尔坦希亚便当</original>
+			<edited>奥尔坦希亚便当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_HortensiaBento" offset="00" relocatable="true" max_length="0">
+			<original>奥尔坦希亚以可爱摆盘装好的便当。
+食用可回复20HP。</original>
+			<edited>奥尔坦希亚以可爱摆盘装好的便当。
+食用可回复20HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_RosadoBento" offset="00" relocatable="true" max_length="0">
+			<original>罗萨德便当</original>
+			<edited>罗萨德便当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_RosadoBento" offset="00" relocatable="true" max_length="0">
+			<original>罗萨德装好拿手菜并添加了装饰的便当。
+食用可回复20HP。</original>
+			<edited>罗萨德装好拿手菜并添加了装饰的便当。
+食用可回复20HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GoldmaryBento" offset="00" relocatable="true" max_length="0">
+			<original>戈尔德玛莉便当</original>
+			<edited>戈尔德玛莉便当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GoldmaryBento" offset="00" relocatable="true" max_length="0">
+			<original>戈尔德玛莉将美味料理完美包装的便当。
+食用可回复20HP。</original>
+			<edited>戈尔德玛莉将美味料理完美包装的便当。
+食用可回复20HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_MisutiraBento" offset="00" relocatable="true" max_length="0">
+			<original>蜜丝提拉便当</original>
+			<edited>蜜丝提拉便当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_MisutiraBento" offset="00" relocatable="true" max_length="0">
+			<original>蜜丝提拉边哼着歌边装好成功料理的便当。
+食用可回复20HP。</original>
+			<edited>蜜丝提拉边哼着歌边装好成功料理的便当。
+食用可回复20HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_MerinBento" offset="00" relocatable="true" max_length="0">
+			<original>玫琳便当</original>
+			<edited>玫琳便当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_MerinBento" offset="00" relocatable="true" max_length="0">
+			<original>玫琳用难得成功的料理装成的便当。
+食用可回复20HP。</original>
+			<edited>玫琳用难得成功的料理装成的便当。
+食用可回复20HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_PanetoneBento" offset="00" relocatable="true" max_length="0">
+			<original>帕涅托涅便当</original>
+			<edited>帕涅托涅便当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_PanetoneBento" offset="00" relocatable="true" max_length="0">
+			<original>帕涅托涅以独特品味装好成功料理的便当。
+食用可回复20HP。</original>
+			<edited>帕涅托涅以独特品味装好成功料理的便当。
+食用可回复20HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FogatoBento" offset="00" relocatable="true" max_length="0">
+			<original>佛贾特便当</original>
+			<edited>佛贾特便当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FogatoBento" offset="00" relocatable="true" max_length="0">
+			<original>佛贾特豪迈地塞满美味料理的便当。
+食用可回复20HP。</original>
+			<edited>佛贾特豪迈地塞满美味料理的便当。
+食用可回复20HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_PandoroBento" offset="00" relocatable="true" max_length="0">
+			<original>庞德罗便当</original>
+			<edited>庞德罗便当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_PandoroBento" offset="00" relocatable="true" max_length="0">
+			<original>庞德罗一脸认真地装好美味料理的便当。
+食用可回复20HP。</original>
+			<edited>庞德罗一脸认真地装好美味料理的便当。
+食用可回复20HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_BonetBento" offset="00" relocatable="true" max_length="0">
+			<original>波聂便当</original>
+			<edited>波聂便当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_BonetBento" offset="00" relocatable="true" max_length="0">
+			<original>波聂在拿手好菜上加了点巧思制成的便当。
+食用可回复20HP。</original>
+			<edited>波聂在拿手好菜上加了点巧思制成的便当。
+食用可回复20HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_AnnaBento" offset="00" relocatable="true" max_length="0">
+			<original>安娜便当</original>
+			<edited>安娜便当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_AnnaBento" offset="00" relocatable="true" max_length="0">
+			<original>安娜大方装满了拿手菜制成的便当。
+食用可回复20HP。</original>
+			<edited>安娜大方装满了拿手菜制成的便当。
+食用可回复20HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_JeanBento" offset="00" relocatable="true" max_length="0">
+			<original>贾恩便当</original>
+			<edited>贾恩便当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_JeanBento" offset="00" relocatable="true" max_length="0">
+			<original>贾恩用尽心思用美味料理制成的便当。
+食用可回复20HP。</original>
+			<edited>贾恩用尽心思用美味料理制成的便当。
+食用可回复20HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_YunakaBento" offset="00" relocatable="true" max_length="0">
+			<original>尤娜卡便当</original>
+			<edited>尤娜卡便当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_YunakaBento" offset="00" relocatable="true" max_length="0">
+			<original>尤娜卡紧张兮兮地装好美味料理的便当。
+食用可回复20HP。</original>
+			<edited>尤娜卡紧张兮兮地装好美味料理的便当。
+食用可回复20HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SeadasBento" offset="00" relocatable="true" max_length="0">
+			<original>赛安达斯便当</original>
+			<edited>赛安达斯便当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SeadasBento" offset="00" relocatable="true" max_length="0">
+			<original>赛安达斯边占卜边装好美味料理的便当。
+食用可回复20HP。</original>
+			<edited>赛安达斯边占卜边装好美味料理的便当。
+食用可回复20HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_LindenBento" offset="00" relocatable="true" max_length="0">
+			<original>霖丹便当</original>
+			<edited>霖丹便当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_LindenBento" offset="00" relocatable="true" max_length="0">
+			<original>霖丹以实验精神装好拿手菜的便当。
+食用可回复20HP。</original>
+			<edited>霖丹以实验精神装好拿手菜的便当。
+食用可回复20HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SaphirBento" offset="00" relocatable="true" max_length="0">
+			<original>札菲亚便当</original>
+			<edited>札菲亚便当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SaphirBento" offset="00" relocatable="true" max_length="0">
+			<original>札菲亚动作生疏地装好拿手菜的便当。
+食用可回复20HP。</original>
+			<edited>札菲亚动作生疏地装好拿手菜的便当。
+食用可回复20HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_VeyreBento" offset="00" relocatable="true" max_length="0">
+			<original>贝珥便当</original>
+			<edited>贝珥便当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_VeyreBento" offset="00" relocatable="true" max_length="0">
+			<original>贝珥努力地装好美味料理的便当。
+食用可回复20HP。</original>
+			<edited>贝珥努力地装好美味料理的便当。
+食用可回复20HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_MauveBento" offset="00" relocatable="true" max_length="0">
+			<original>莫布便当</original>
+			<edited>莫布便当</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_MauveBento" offset="00" relocatable="true" max_length="0">
+			<original>莫布用成功料理制成的朴实便当。
+食用可回复20HP。</original>
+			<edited>莫布用成功料理制成的朴实便当。
+食用可回复20HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_DROPITEM_MONEY" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x7;&#x0;G</original>
+			<edited>&#xE;&#x1;&#x7;&#x0;G</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_MONEY" offset="00" relocatable="true" max_length="0">
+			<original>在艾雷欧斯大陆流通的货币。</original>
+			<edited>在艾雷欧斯大陆流通的货币。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Beef" offset="00" relocatable="true" max_length="0">
+			<original>牛肉</original>
+			<edited>牛肉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Beef" offset="00" relocatable="true" max_length="0">
+			<original>经食用处理的牛肉。
+肉味浓厚且瘦肉肉质优良。
+布罗帝亚当地也有高级品种牛。</original>
+			<edited>经食用处理的牛肉。
+肉味浓厚且瘦肉肉质优良。
+布罗帝亚当地也有高级品种牛。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Pork" offset="00" relocatable="true" max_length="0">
+			<original>猪肉</original>
+			<edited>猪肉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Pork" offset="00" relocatable="true" max_length="0">
+			<original>经食用处理的猪肉。
+购入价格较便宜。
+深受平民百姓喜爱的美味肉品。</original>
+			<edited>经食用处理的猪肉。
+购入价格较便宜。
+深受平民百姓喜爱的美味肉品。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Chicken" offset="00" relocatable="true" max_length="0">
+			<original>鸡肉</original>
+			<edited>鸡肉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Chicken" offset="00" relocatable="true" max_length="0">
+			<original>经食用处理的鸡肉。
+据传能更有效地摄取
+利于锻炼肌肉的营养成分。</original>
+			<edited>经食用处理的鸡肉。
+据传能更有效地摄取
+利于锻炼肌肉的营养成分。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mutton" offset="00" relocatable="true" max_length="0">
+			<original>羊肉</original>
+			<edited>羊肉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mutton" offset="00" relocatable="true" max_length="0">
+			<original>经食用处理的羊肉。
+大众对羊肉独有的膻味好恶两极。</original>
+			<edited>经食用处理的羊肉。
+大众对羊肉独有的膻味好恶两极。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Onion" offset="00" relocatable="true" max_length="0">
+			<original>洋葱</original>
+			<edited>洋葱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Onion" offset="00" relocatable="true" max_length="0">
+			<original>索拉涅尔的庭院里栽种的蔬菜之一，
+不耐暑热但相当耐寒为其特征。</original>
+			<edited>索拉涅尔的庭院里栽种的蔬菜之一，
+不耐暑热但相当耐寒为其特征。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Cabbage" offset="00" relocatable="true" max_length="0">
+			<original>卷心菜</original>
+			<edited>卷心菜</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Cabbage" offset="00" relocatable="true" max_length="0">
+			<original>索拉涅尔的庭院里栽种的蔬菜之一，
+生食也能尝到些许甘甜滋味。</original>
+			<edited>索拉涅尔的庭院里栽种的蔬菜之一，
+生食也能尝到些许甘甜滋味。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Herb" offset="00" relocatable="true" max_length="0">
+			<original>香草</original>
+			<edited>香草</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Herb" offset="00" relocatable="true" max_length="0">
+			<original>虽然较少拿来当做主菜食用，
+但其迷人的香气能促进食欲，
+也能用来点缀料理。</original>
+			<edited>虽然较少拿来当做主菜食用，
+但其迷人的香气能促进食欲，
+也能用来点缀料理。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Tomato" offset="00" relocatable="true" max_length="0">
+			<original>番茄</original>
+			<edited>番茄</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Tomato" offset="00" relocatable="true" max_length="0">
+			<original>费列聂的产量为全大陆之首的蔬菜。
+为风靡世界的食材，
+费列聂当地也有着高级品种。</original>
+			<edited>费列聂的产量为全大陆之首的蔬菜。
+为风靡世界的食材，
+费列聂当地也有着高级品种。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Potato" offset="00" relocatable="true" max_length="0">
+			<original>薯类</original>
+			<edited>薯类</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Potato" offset="00" relocatable="true" max_length="0">
+			<original>在费列聂、索尔姆和布罗帝亚都能收成的
+农作物。曾在千年前的战争结束后让百姓
+度过粮食危机，是具有历史渊源的作物之一。</original>
+			<edited>在费列聂、索尔姆和布罗帝亚都能收成的
+农作物。曾在千年前的战争结束后让百姓
+度过粮食危机，是具有历史渊源的作物之一。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_RareVagetable" offset="00" relocatable="true" max_length="0">
+			<original>幻之蔬菜</original>
+			<edited>幻之蔬菜</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_RareVagetable" offset="00" relocatable="true" max_length="0">
+			<original>仅能在极少地区收成的蔬菜。
+栽种方法尚不明确，仅能野外生长。
+被称为“能带来幸运的幻之蔬菜”。</original>
+			<edited>仅能在极少地区收成的蔬菜。
+栽种方法尚不明确，仅能野外生长。
+被称为“能带来幸运的幻之蔬菜”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Wheat" offset="00" relocatable="true" max_length="0">
+			<original>小麦粉</original>
+			<edited>小麦粉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Wheat" offset="00" relocatable="true" max_length="0">
+			<original>从主食到饭后甜点，
+能用于各种料理的万能食材。</original>
+			<edited>从主食到饭后甜点，
+能用于各种料理的万能食材。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Apple" offset="00" relocatable="true" max_length="0">
+			<original>苹果</original>
+			<edited>苹果</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Apple" offset="00" relocatable="true" max_length="0">
+			<original>索拉涅尔的果树园里栽种的水果之一。
+人们自古就开始食用的知名水果，
+经常出现在各类童话故事中。</original>
+			<edited>索拉涅尔的果树园里栽种的水果之一。
+人们自古就开始食用的知名水果，
+经常出现在各类童话故事中。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Orange" offset="00" relocatable="true" max_length="0">
+			<original>柳橙</original>
+			<edited>柳橙</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Orange" offset="00" relocatable="true" max_length="0">
+			<original>费列聂最常见的水果。
+其他国家没有种植的当地特产。</original>
+			<edited>费列聂最常见的水果。
+其他国家没有种植的当地特产。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Peach" offset="00" relocatable="true" max_length="0">
+			<original>蜜桃</original>
+			<edited>蜜桃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Peach" offset="00" relocatable="true" max_length="0">
+			<original>索拉涅尔的果树园里栽种的水果之一。
+仅在此地生长，口感柔软香气浓郁的水果。
+会当做伴手礼献给来访的王族。</original>
+			<edited>索拉涅尔的果树园里栽种的水果之一。
+仅在此地生长，口感柔软香气浓郁的水果。
+会当做伴手礼献给来访的王族。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Grape" offset="00" relocatable="true" max_length="0">
+			<original>葡萄</original>
+			<edited>葡萄</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Grape" offset="00" relocatable="true" max_length="0">
+			<original>索拉涅尔的果树园里栽种的水果之一。
+每一串都结着不少饱满的果实，
+众人通常会一颗颗分食享用。</original>
+			<edited>索拉涅尔的果树园里栽种的水果之一。
+每一串都结着不少饱满的果实，
+众人通常会一颗颗分食享用。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Berry" offset="00" relocatable="true" max_length="0">
+			<original>莓果</original>
+			<edited>莓果</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Berry" offset="00" relocatable="true" max_length="0">
+			<original>非常小巧的水果，由于能在各地收成，
+对费列聂以及布罗帝亚的人民来说，
+都是最贴近自己的天然点心。</original>
+			<edited>非常小巧的水果，由于能在各地收成，
+对费列聂以及布罗帝亚的人民来说，
+都是最贴近自己的天然点心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_RareFruit" offset="00" relocatable="true" max_length="0">
+			<original>幻之水果</original>
+			<edited>幻之水果</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_RareFruit" offset="00" relocatable="true" max_length="0">
+			<original>仅能在极少地区收成的水果。
+结过一次果后便会枯萎，再也无法结果，
+故被称为“幻之水果”。</original>
+			<edited>仅能在极少地区收成的水果。
+结过一次果后便会枯萎，再也无法结果，
+故被称为“幻之水果”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Nuts" offset="00" relocatable="true" max_length="0">
+			<original>树果</original>
+			<edited>树果</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Nuts" offset="00" relocatable="true" max_length="0">
+			<original>随处可见的树果。
+是果干和迷你果实的总称。</original>
+			<edited>随处可见的树果。
+是果干和迷你果实的总称。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Herring" offset="00" relocatable="true" max_length="0">
+			<original>鲱鱼</original>
+			<edited>鲱鱼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Herring" offset="00" relocatable="true" max_length="0">
+			<original>处理过的班岗鲱鱼。</original>
+			<edited>处理过的班岗鲱鱼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Carp" offset="00" relocatable="true" max_length="0">
+			<original>鲤鱼</original>
+			<edited>鲤鱼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Carp" offset="00" relocatable="true" max_length="0">
+			<original>处理过的赫鲁鲁鲤鱼。</original>
+			<edited>处理过的赫鲁鲁鲤鱼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Salmon" offset="00" relocatable="true" max_length="0">
+			<original>鲑鱼</original>
+			<edited>鲑鱼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Salmon" offset="00" relocatable="true" max_length="0">
+			<original>处理过的长鳍鲑鱼。</original>
+			<edited>处理过的长鳍鲑鱼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Cod" offset="00" relocatable="true" max_length="0">
+			<original>鳕鱼</original>
+			<edited>鳕鱼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Cod" offset="00" relocatable="true" max_length="0">
+			<original>处理过的鬼牙鳕鱼。</original>
+			<edited>处理过的鬼牙鳕鱼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Eel" offset="00" relocatable="true" max_length="0">
+			<original>鳗鱼</original>
+			<edited>鳗鱼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Eel" offset="00" relocatable="true" max_length="0">
+			<original>处理过的布洛斯鳗鱼。</original>
+			<edited>处理过的布洛斯鳗鱼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Sardine" offset="00" relocatable="true" max_length="0">
+			<original>沙丁鱼</original>
+			<edited>沙丁鱼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Sardine" offset="00" relocatable="true" max_length="0">
+			<original>处理过的欧梅梅沙丁鱼。</original>
+			<edited>处理过的欧梅梅沙丁鱼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_MincedFish" offset="00" relocatable="true" max_length="0">
+			<original>碎肉</original>
+			<edited>碎肉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_MincedFish" offset="00" relocatable="true" max_length="0">
+			<original>将鱼骨、鱼皮等剁碎而成的食材。</original>
+			<edited>将鱼骨、鱼皮等剁碎而成的食材。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_DriedFish" offset="00" relocatable="true" max_length="0">
+			<original>干货</original>
+			<edited>干货</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_DriedFish" offset="00" relocatable="true" max_length="0">
+			<original>将整条处理过的鱼干燥制成的食材。</original>
+			<edited>将整条处理过的鱼干燥制成的食材。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SlicedRawFish" offset="00" relocatable="true" max_length="0">
+			<original>生鱼片</original>
+			<edited>生鱼片</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SlicedRawFish" offset="00" relocatable="true" max_length="0">
+			<original>将新鲜的鱼整齐切片而成的料理。</original>
+			<edited>将新鲜的鱼整齐切片而成的料理。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_RareFish" offset="00" relocatable="true" max_length="0">
+			<original>幻之鱼</original>
+			<edited>幻之鱼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_RareFish" offset="00" relocatable="true" max_length="0">
+			<original>将索拉涅尔池塘钓起的幻之鱼
+经食用处理后的食物。
+富含多重有益身体的营养成分。</original>
+			<edited>将索拉涅尔池塘钓起的幻之鱼
+经食用处理后的食物。
+富含多重有益身体的营养成分。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Milk" offset="00" relocatable="true" max_length="0">
+			<original>乳品</original>
+			<edited>乳品</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Milk" offset="00" relocatable="true" max_length="0">
+			<original>可从牛或羊等动物身上获取，
+富含营养的乳品。</original>
+			<edited>可从牛或羊等动物身上获取，
+富含营养的乳品。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Egg" offset="00" relocatable="true" max_length="0">
+			<original>蛋</original>
+			<edited>蛋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Egg" offset="00" relocatable="true" max_length="0">
+			<original>能从动物身上获取的万能食材。</original>
+			<edited>能从动物身上获取的万能食材。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Rice" offset="00" relocatable="true" max_length="0">
+			<original>米</original>
+			<edited>米</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Rice" offset="00" relocatable="true" max_length="0">
+			<original>将稻去除壳糠而得的粒状谷物。</original>
+			<edited>将稻去除壳糠而得的粒状谷物。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Bean" offset="00" relocatable="true" max_length="0">
+			<original>豆子</original>
+			<edited>豆子</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Bean" offset="00" relocatable="true" max_length="0">
+			<original>经过食用加工后的种子。
+形状、大小与颜色五花八门。</original>
+			<edited>经过食用加工后的种子。
+形状、大小与颜色五花八门。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Spice" offset="00" relocatable="true" max_length="0">
+			<original>香料</original>
+			<edited>香料</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Spice" offset="00" relocatable="true" max_length="0">
+			<original>从植物中萃取的调味料，
+能够调整风味、颜色和味道等，
+在烹饪时有着多种用途。</original>
+			<edited>从植物中萃取的调味料，
+能够调整风味、颜色和味道等，
+在烹饪时有着多种用途。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_RareFoodstuffs" offset="00" relocatable="true" max_length="0">
+			<original>幻之食材</original>
+			<edited>幻之食材</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_TeaLeaf" offset="00" relocatable="true" max_length="0">
+			<original>现摘茶叶</original>
+			<edited>现摘茶叶</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_TeaLeaf" offset="00" relocatable="true" max_length="0">
+			<original>采茶师亲手将刚采下的茶叶，
+分装为一茶杯分量的小型茶包。
+喜爱茶会的人和老饕收到会很开心。</original>
+			<edited>采茶师亲手将刚采下的茶叶，
+分装为一茶杯分量的小型茶包。
+喜爱茶会的人和老饕收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_DriedMeat" offset="00" relocatable="true" max_length="0">
+			<original>坚硬肉干</original>
+			<edited>坚硬肉干</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_DriedMeat" offset="00" relocatable="true" max_length="0">
+			<original>将腌制入味的肉长时间干燥制成的肉干，
+是相当受欢迎的便携食品。
+喜爱肉类、喜爱奇珍异味的人收到会很开心。</original>
+			<edited>将腌制入味的肉长时间干燥制成的肉干，
+是相当受欢迎的便携食品。
+喜爱肉类、喜爱奇珍异味的人收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Yogurt" offset="00" relocatable="true" max_length="0">
+			<original>严选酸奶</original>
+			<edited>严选酸奶</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Yogurt" offset="00" relocatable="true" max_length="0">
+			<original>使用精选的羊驼乳制成的酸奶，
+浓郁的牧场香气会在口中不停扩散。
+喜爱乳制品的人收到会很开心。</original>
+			<edited>使用精选的羊驼乳制成的酸奶，
+浓郁的牧场香气会在口中不停扩散。
+喜爱乳制品的人收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GrilledPotato" offset="00" relocatable="true" max_length="0">
+			<original>行家烤番薯</original>
+			<edited>行家烤番薯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GrilledPotato" offset="00" relocatable="true" max_length="0">
+			<original>放在火堆中慢慢烤熟的烤番薯。
+为凸显食材本身味道而未作额外调味，
+喜爱番薯的人收到会很开心。</original>
+			<edited>放在火堆中慢慢烤熟的烤番薯。
+为凸显食材本身味道而未作额外调味，
+喜爱番薯的人收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_WeightStone" offset="00" relocatable="true" max_length="0">
+			<original>锻炼用的重石</original>
+			<edited>锻炼用的重石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_WeightStone" offset="00" relocatable="true" max_length="0">
+			<original>专门用于锻炼的重石。
+可拿在手上或绑在脚部。
+喜爱锻炼、运动的人收到会很开心。</original>
+			<edited>专门用于锻炼的重石。
+可拿在手上或绑在脚部。
+喜爱锻炼、运动的人收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_MuscleBuilder" offset="00" relocatable="true" max_length="0">
+			<original>外用肌肉增强剂</original>
+			<edited>外用肌肉增强剂</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_MuscleBuilder" offset="00" relocatable="true" max_length="0">
+			<original>使用方式为涂抹在想增肌的部位。
+据说每次锻炼后涂抹会更有效。
+喜爱锻炼、运动的人收到会很开心。</original>
+			<edited>使用方式为涂抹在想增肌的部位。
+据说每次锻炼后涂抹会更有效。
+喜爱锻炼、运动的人收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Actinidia" offset="00" relocatable="true" max_length="0">
+			<original>动物用的木天蓼</original>
+			<edited>动物用的木天蓼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Actinidia" offset="00" relocatable="true" max_length="0">
+			<original>任何动物都会被这个木天蓼吸引，
+因此必须收在瓶子里密封保存。
+喜爱动物的人收到会很开心。</original>
+			<edited>任何动物都会被这个木天蓼吸引，
+因此必须收在瓶子里密封保存。
+喜爱动物的人收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Chisel" offset="00" relocatable="true" max_length="0">
+			<original>锋利雕刻刀</original>
+			<edited>锋利雕刻刀</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Chisel" offset="00" relocatable="true" max_length="0">
+			<original>常用于木材加工、精细雕刻的工具。
+喜爱工艺、武器的人收到会很开心。</original>
+			<edited>常用于木材加工、精细雕刻的工具。
+喜爱工艺、武器的人收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FairyTaleBook" offset="00" relocatable="true" max_length="0">
+			<original>奇妙的童话绘本</original>
+			<edited>奇妙的童话绘本</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FairyTaleBook" offset="00" relocatable="true" max_length="0">
+			<original>收录了数则童话故事的绘本。
+虽多为短篇，仍相当有阅读价值。
+喜爱阅读、童话故事的人收到会很开心。</original>
+			<edited>收录了数则童话故事的绘本。
+虽多为短篇，仍相当有阅读价值。
+喜爱阅读、童话故事的人收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_PoetryCollection" offset="00" relocatable="true" max_length="0">
+			<original>世界各国诗集</original>
+			<edited>世界各国诗集</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_PoetryCollection" offset="00" relocatable="true" max_length="0">
+			<original>收录了世界各国诗歌的诗集。
+其中也收录了一些民众投稿的诗歌。
+喜爱阅读、想象的人收到会很开心。</original>
+			<edited>收录了世界各国诗歌的诗集。
+其中也收录了一些民众投稿的诗歌。
+喜爱阅读、想象的人收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_PhilosophyBook" offset="00" relocatable="true" max_length="0">
+			<original>深奥的哲学书</original>
+			<edited>深奥的哲学书</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_PhilosophyBook" offset="00" relocatable="true" max_length="0">
+			<original>用于哲学入门的深奥书籍。
+探讨了万物诞生的意义与原因。
+喜爱学习的人收到会很开心。</original>
+			<edited>用于哲学入门的深奥书籍。
+探讨了万物诞生的意义与原因。
+喜爱学习的人收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Bible" offset="00" relocatable="true" max_length="0">
+			<original>神龙圣书</original>
+			<edited>神龙圣书</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Bible" offset="00" relocatable="true" max_length="0">
+			<original>由信仰神龙的信徒们所撰写，
+自远古传承至今的圣书。
+虔诚的神龙信徒收到会很开心。</original>
+			<edited>由信仰神龙的信徒们所撰写，
+自远古传承至今的圣书。
+虔诚的神龙信徒收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_HistoryBook" offset="00" relocatable="true" max_length="0">
+			<original>艾雷欧斯历史书</original>
+			<edited>艾雷欧斯历史书</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_HistoryBook" offset="00" relocatable="true" max_length="0">
+			<original>详尽地记载了艾雷欧斯大陆
+以及各国历史的厚重历史书。
+喜爱阅读、学习的人收到会很开心。</original>
+			<edited>详尽地记载了艾雷欧斯大陆
+以及各国历史的厚重历史书。
+喜爱阅读、学习的人收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Perfume" offset="00" relocatable="true" max_length="0">
+			<original>香气浓郁的香水</original>
+			<edited>香气浓郁的香水</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Perfume" offset="00" relocatable="true" max_length="0">
+			<original>浓缩了花或水果等作物的香味后
+小瓶分装的香水。
+喜爱时尚的人收到会很开心。</original>
+			<edited>浓缩了花或水果等作物的香味后
+小瓶分装的香水。
+喜爱时尚的人收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_InsectCatchingNet" offset="00" relocatable="true" max_length="0">
+			<original>捕虫网</original>
+			<edited>捕虫网</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_InsectCatchingNet" offset="00" relocatable="true" max_length="0">
+			<original>专门用于捕捉昆虫的网。
+有着好握的长柄且十分轻巧。
+喜爱动物、昆虫的人收到会很开心。</original>
+			<edited>专门用于捕捉昆虫的网。
+有着好握的长柄且十分轻巧。
+喜爱动物、昆虫的人收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SunHat" offset="00" relocatable="true" max_length="0">
+			<original>遮阳帽</original>
+			<edited>遮阳帽</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SunHat" offset="00" relocatable="true" max_length="0">
+			<original>帽檐宽大的帽子。
+除了脸部，也能保护颈部免受阳光照射。
+喜欢运动、散步、怕晒黑的人收到会很开心。</original>
+			<edited>帽檐宽大的帽子。
+除了脸部，也能保护颈部免受阳光照射。
+喜欢运动、散步、怕晒黑的人收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Chrysanthemum" offset="00" relocatable="true" max_length="0">
+			<original>菊花</original>
+			<edited>菊花</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Chrysanthemum" offset="00" relocatable="true" max_length="0">
+			<original>盛开的菊花。
+是里特司的国花，也是非常受欢迎的品种。
+来自里特司且喜爱花朵的人收到会特别开心。</original>
+			<edited>盛开的菊花。
+是里特司的国花，也是非常受欢迎的品种。
+来自里特司且喜爱花朵的人收到会特别开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lentils" offset="00" relocatable="true" max_length="0">
+			<original>扁豆花</original>
+			<edited>扁豆花</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lentils" offset="00" relocatable="true" max_length="0">
+			<original>盛开的扁豆花。
+是费列聂的国花，也是非常受欢迎的品种。
+来自费列聂且喜爱花朵的人收到会特别开心。</original>
+			<edited>盛开的扁豆花。
+是费列聂的国花，也是非常受欢迎的品种。
+来自费列聂且喜爱花朵的人收到会特别开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lily" offset="00" relocatable="true" max_length="0">
+			<original>百合花</original>
+			<edited>百合花</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lily" offset="00" relocatable="true" max_length="0">
+			<original>盛开的百合花。是布罗帝亚的国花，
+也是非常受欢迎的品种。来自布罗帝亚
+且喜爱花朵的人收到会特别开心。</original>
+			<edited>盛开的百合花。是布罗帝亚的国花，
+也是非常受欢迎的品种。来自布罗帝亚
+且喜爱花朵的人收到会特别开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Komatsuna" offset="00" relocatable="true" max_length="0">
+			<original>小松菜花</original>
+			<edited>小松菜花</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Komatsuna" offset="00" relocatable="true" max_length="0">
+			<original>盛开的小松菜花。
+是索尔姆的国花，也是非常受欢迎的品种。
+来自索尔姆且喜爱花朵的人收到会特别开心。</original>
+			<edited>盛开的小松菜花。
+是索尔姆的国花，也是非常受欢迎的品种。
+来自索尔姆且喜爱花朵的人收到会特别开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lupinus" offset="00" relocatable="true" max_length="0">
+			<original>羽扇豆花</original>
+			<edited>羽扇豆花</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lupinus" offset="00" relocatable="true" max_length="0">
+			<original>盛开的羽扇豆花。是伊尔席翁的国花，
+也是非常受欢迎的品种。来自伊尔席翁
+且喜爱花朵的人收到会特别开心。</original>
+			<edited>盛开的羽扇豆花。是伊尔席翁的国花，
+也是非常受欢迎的品种。来自伊尔席翁
+且喜爱花朵的人收到会特别开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_WhiteClover" offset="00" relocatable="true" max_length="0">
+			<original>白三叶草</original>
+			<edited>白三叶草</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_WhiteClover" offset="00" relocatable="true" max_length="0">
+			<original>可用于烹饪的香草。
+存在四片叶子的稀有品种。
+喜爱烹饪、香草的人收到会很开心。</original>
+			<edited>可用于烹饪的香草。
+存在四片叶子的稀有品种。
+喜爱烹饪、香草的人收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Horn" offset="00" relocatable="true" max_length="0">
+			<original>号角</original>
+			<edited>号角</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Horn" offset="00" relocatable="true" max_length="0">
+			<original>使用动物角制成的笛子，能吹出巨大声响。
+上面没有可以改变音阶的气孔。
+喜爱音乐的人收到会很开心。</original>
+			<edited>使用动物角制成的笛子，能吹出巨大声响。
+上面没有可以改变音阶的气孔。
+喜爱音乐的人收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Wreath" offset="00" relocatable="true" max_length="0">
+			<original>手作花环</original>
+			<edited>手作花环</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Wreath" offset="00" relocatable="true" max_length="0">
+			<original>使用摘下的花草编织而成的花环。
+常装饰在门扉或是房间的墙上。
+喜爱可爱事物、花朵的人收到会很开心。</original>
+			<edited>使用摘下的花草编织而成的花环。
+常装饰在门扉或是房间的墙上。
+喜爱可爱事物、花朵的人收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Apron" offset="00" relocatable="true" max_length="0">
+			<original>可爱围裙</original>
+			<edited>可爱围裙</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Apron" offset="00" relocatable="true" max_length="0">
+			<original>在粉红色布料上绣上花形刺绣及滚边的
+可爱围裙。
+喜爱可爱事物、烹饪的人收到会很开心。</original>
+			<edited>在粉红色布料上绣上花形刺绣及滚边的
+可爱围裙。
+喜爱可爱事物、烹饪的人收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FishingBait" offset="00" relocatable="true" max_length="0">
+			<original>钓饵</original>
+			<edited>钓饵</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FishingBait" offset="00" relocatable="true" max_length="0">
+			<original>装在鱼钩上吸引鱼类的鱼饵。
+里面是鱼类爱吃的幼虫。
+喜爱钓鱼的人收到会很开心。</original>
+			<edited>装在鱼钩上吸引鱼类的鱼饵。
+里面是鱼类爱吃的幼虫。
+喜爱钓鱼的人收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_MultiFunctionKnife" offset="00" relocatable="true" max_length="0">
+			<original>多功能折叠刀</original>
+			<edited>多功能折叠刀</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_MultiFunctionKnife" offset="00" relocatable="true" max_length="0">
+			<original>藏有折叠小刀、剪刀和螺丝起子等工具的
+便利器具。喜爱工艺、武器、
+以及帅气事物的人收到会很开心。</original>
+			<edited>藏有折叠小刀、剪刀和螺丝起子等工具的
+便利器具。喜爱工艺、武器、
+以及帅气事物的人收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_WoodCarvingBear" offset="00" relocatable="true" max_length="0">
+			<original>熊木雕</original>
+			<edited>熊木雕</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_WoodCarvingBear" offset="00" relocatable="true" max_length="0">
+			<original>仅用木材雕刻而成的熊型摆件。其粗犷的毛皮
+质感与栩栩如生的模样深受部分人士欢迎。
+喜爱可爱事物、动物的人收到会很开心。</original>
+			<edited>仅用木材雕刻而成的熊型摆件。其粗犷的毛皮
+质感与栩栩如生的模样深受部分人士欢迎。
+喜爱可爱事物、动物的人收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SewingKit" offset="00" relocatable="true" max_length="0">
+			<original>裁缝套组</original>
+			<edited>裁缝套组</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SewingKit" offset="00" relocatable="true" max_length="0">
+			<original>小巧的容器里面藏着整齐收纳好的工具，
+随时随地都能拿出来使用的针线包。
+喜爱裁缝的人收到会很开心。</original>
+			<edited>小巧的容器里面藏着整齐收纳好的工具，
+随时随地都能拿出来使用的针线包。
+喜爱裁缝的人收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SheepYarnBall" offset="00" relocatable="true" max_length="0">
+			<original>羊毛线球</original>
+			<edited>羊毛线球</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SheepYarnBall" offset="00" relocatable="true" max_length="0">
+			<original>用换毛期剃下来的羊毛纺织而成、
+手感非常柔软的毛线球。
+喜爱裁缝的人收到会很开心。</original>
+			<edited>用换毛期剃下来的羊毛纺织而成、
+手感非常柔软的毛线球。
+喜爱裁缝的人收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Handkerchief" offset="00" relocatable="true" max_length="0">
+			<original>高级手帕</original>
+			<edited>高级手帕</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Handkerchief" offset="00" relocatable="true" max_length="0">
+			<original>使用了富有光泽的布料，
+裁缝师一针一线手工编织而成高级手帕。
+喜爱高级品、打扫或时尚的人收到会很开心。</original>
+			<edited>使用了富有光泽的布料，
+裁缝师一针一线手工编织而成高级手帕。
+喜爱高级品、打扫或时尚的人收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_QuillPen" offset="00" relocatable="true" max_length="0">
+			<original>高级羽毛笔</original>
+			<edited>高级羽毛笔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_QuillPen" offset="00" relocatable="true" max_length="0">
+			<original>使用稀有鸟类的羽毛制成，
+世上独一无二的高级羽毛笔。
+喜爱高级品、学习或写作的人收到会很开心。</original>
+			<edited>使用稀有鸟类的羽毛制成，
+世上独一无二的高级羽毛笔。
+喜爱高级品、学习或写作的人收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_DecorativeDagger" offset="00" relocatable="true" max_length="0">
+			<original>装饰短剑</original>
+			<edited>装饰短剑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_DecorativeDagger" offset="00" relocatable="true" max_length="0">
+			<original>剑柄及剑鞘上刻着精巧花纹，
+专门用于装饰的短剑。
+喜爱武器的人收到会很开心。</original>
+			<edited>剑柄及剑鞘上刻着精巧花纹，
+专门用于装饰的短剑。
+喜爱武器的人收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_KazunoEarrings" offset="00" relocatable="true" max_length="0">
+			<original>鹿角耳饰</original>
+			<edited>鹿角耳饰</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_KazunoEarrings" offset="00" relocatable="true" max_length="0">
+			<original>仅使用换角期自然掉落的鹿角制作，
+非常环保的耳饰，特别受索尔姆国民喜爱。
+喜爱时尚的人会喜欢。</original>
+			<edited>仅使用换角期自然掉落的鹿角制作，
+非常环保的耳饰，特别受索尔姆国民喜爱。
+喜爱时尚的人会喜欢。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_PlayingCards" offset="00" relocatable="true" max_length="0">
+			<original>桌游用纸牌</original>
+			<edited>桌游用纸牌</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_PlayingCards" offset="00" relocatable="true" max_length="0">
+			<original>适用于宴会等场合，
+可供多人游玩的纸牌。
+孩童、喜爱宴会、游戏的人收到会很开心。</original>
+			<edited>适用于宴会等场合，
+可供多人游玩的纸牌。
+孩童、喜爱宴会、游戏的人收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SpicySeasoning" offset="00" relocatable="true" max_length="0">
+			<original>超辣调味料</original>
+			<edited>超辣调味料</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SpicySeasoning" offset="00" relocatable="true" max_length="0">
+			<original>将传闻中能使任何料理变身特辣料理的
+超辣红色果实磨粉制成的调味料。
+喜爱辣味食物、奇珍异味的人收到会很开心。</original>
+			<edited>将传闻中能使任何料理变身特辣料理的
+超辣红色果实磨粉制成的调味料。
+喜爱辣味食物、奇珍异味的人收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_LandscapePostcard" offset="00" relocatable="true" max_length="0">
+			<original>风景明信片</original>
+			<edited>风景明信片</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_LandscapePostcard" offset="00" relocatable="true" max_length="0">
+			<original>描绘了大自然美丽风景的明信片。
+可当作书信，写下自己的心意后寄出。
+喜爱自然的人收到会很开心。</original>
+			<edited>描绘了大自然美丽风景的明信片。
+可当作书信，写下自己的心意后寄出。
+喜爱自然的人收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Candle" offset="00" relocatable="true" max_length="0">
+			<original>美丽的蜡烛</original>
+			<edited>美丽的蜡烛</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Candle" offset="00" relocatable="true" max_length="0">
+			<original>做工精巧的蜡烛。
+每根都是手工制作的高级品。
+喜爱时尚、高级品或宴会的人收到会很开心。</original>
+			<edited>做工精巧的蜡烛。
+每根都是手工制作的高级品。
+喜爱时尚、高级品或宴会的人收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_CreaturePictureBook" offset="00" relocatable="true" max_length="0">
+			<original>生物图鉴</original>
+			<edited>生物图鉴</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_CreaturePictureBook" offset="00" relocatable="true" max_length="0">
+			<original>图文并茂的厚重图鉴，
+内有对动物昆虫等各种生物的解说。
+喜爱动物、昆虫的人收到会很开心。</original>
+			<edited>图文并茂的厚重图鉴，
+内有对动物昆虫等各种生物的解说。
+喜爱动物、昆虫的人收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SuspiciousPaper" offset="00" relocatable="true" max_length="0">
+			<original>诡异符咒</original>
+			<edited>诡异符咒</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SuspiciousPaper" offset="00" relocatable="true" max_length="0">
+			<original>散发出某种不祥氛围的诡异符咒。
+会让一部分人感到十分不安。
+喜爱鬼故事的人收到会很开心。</original>
+			<edited>散发出某种不祥氛围的诡异符咒。
+会让一部分人感到十分不安。
+喜爱鬼故事的人收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_BigDish" offset="00" relocatable="true" max_length="0">
+			<original>巨大盘子</original>
+			<edited>巨大盘子</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_BigDish" offset="00" relocatable="true" max_length="0">
+			<original>能装下多人分量的料理，
+轻巧好用的巨大盘子。
+喜爱料理、宴会的人收到会很开心。</original>
+			<edited>能装下多人分量的料理，
+轻巧好用的巨大盘子。
+喜爱料理、宴会的人收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Bandage" offset="00" relocatable="true" max_length="0">
+			<original>绷带</original>
+			<edited>绷带</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Bandage" offset="00" relocatable="true" max_length="0">
+			<original>主要用于包扎伤口或者
+固定肌肉、关节以防受伤的物品。
+喜爱锻炼的人收到会很开心。</original>
+			<edited>主要用于包扎伤口或者
+固定肌肉、关节以防受伤的物品。
+喜爱锻炼的人收到会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_BeautifulStones" offset="00" relocatable="true" max_length="0">
+			<original>漂亮的石头</original>
+			<edited>漂亮的石头</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_BeautifulStones" offset="00" relocatable="true" max_length="0">
+			<original>掉落在路边，
+圆滚滚且光滑的漂亮石头。</original>
+			<edited>掉落在路边，
+圆滚滚且光滑的漂亮石头。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SoraJewelry" offset="00" relocatable="true" max_length="0">
+			<original>守护神的宝石</original>
+			<edited>守护神的宝石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SoraJewelry" offset="00" relocatable="true" max_length="0">
+			<original>仅能在索拉涅尔找到的七彩宝石。
+鲜少会掉落在&#xE;&#x6;&#x5;&#x0;的身边。
+所有人收到都会很开心。</original>
+			<edited>仅能在索拉涅尔找到的七彩宝石。
+鲜少会掉落在&#xE;&#x6;&#x5;&#x0;的身边。
+所有人收到都会很开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_HorseManure" offset="00" relocatable="true" max_length="0">
+			<original>马粪</original>
+			<edited>马粪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_HorseManure" offset="00" relocatable="true" max_length="0">
+			<original>能用来当肥料的普通马粪。
+单纯的马粪，没有任何特别之处。
+可赠予他人，但收到也不会让人开心。</original>
+			<edited>能用来当肥料的普通马粪。
+单纯的马粪，没有任何特别之处。
+可赠予他人，但收到也不会让人开心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FishingRod_Smoll" offset="00" relocatable="true" max_length="0">
+			<original>小鱼钓竿</original>
+			<edited>小鱼钓竿</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FishingRod_Smoll" offset="00" relocatable="true" max_length="0">
+			<original>适合用来钓小型鱼的方便钓竿。
+由于钓竿的材质较硬、弯曲幅度较小。
+因此可以花费较小的力气钓起目标。</original>
+			<edited>适合用来钓小型鱼的方便钓竿。
+由于钓竿的材质较硬、弯曲幅度较小。
+因此可以花费较小的力气钓起目标。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FishingRod_Normal" offset="00" relocatable="true" max_length="0">
+			<original>耐用钓竿</original>
+			<edited>耐用钓竿</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FishingRod_Normal" offset="00" relocatable="true" max_length="0">
+			<original>适合用来钓中型鱼的钓竿。
+钓到重型鱼时钓竿会大幅弯曲，
+以缓冲拉扯力道。不太适合新手。</original>
+			<edited>适合用来钓中型鱼的钓竿。
+钓到重型鱼时钓竿会大幅弯曲，
+以缓冲拉扯力道。不太适合新手。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FishingRod_AllPurpose" offset="00" relocatable="true" max_length="0">
+			<original>万能钓竿</original>
+			<edited>万能钓竿</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FishingRod_AllPurpose" offset="00" relocatable="true" max_length="0">
+			<original>再大的鱼都能钓起的完美杰作，
+唯有精通钓鱼者才能拥有的终极钓竿。
+难以钓到小型鱼。</original>
+			<edited>再大的鱼都能钓起的完美杰作，
+唯有精通钓鱼者才能拥有的终极钓竿。
+难以钓到小型鱼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Marth_Rapier" offset="00" relocatable="true" max_length="0">
+			<original>刺剑</original>
+			<edited>刺剑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Marth_Rapier" offset="00" relocatable="true" max_length="0">
+			<original>纹章士马尔斯的刺剑。
+克制骑马/克制重装。</original>
+			<edited>纹章士马尔斯的刺剑。
+克制骑马/克制重装。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Marth_Mericle" offset="00" relocatable="true" max_length="0">
+			<original>墨丘利剑</original>
+			<edited>墨丘利剑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Marth_Mericle" offset="00" relocatable="true" max_length="0">
+			<original>纹章士马尔斯的神器之剑。
+可获得2倍经验值。</original>
+			<edited>纹章士马尔斯的神器之剑。
+可获得2倍经验值。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Marth_Falchion" offset="00" relocatable="true" max_length="0">
+			<original>法尔西昂</original>
+			<edited>法尔西昂</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Marth_Falchion_M000" offset="00" relocatable="true" max_length="0">
+			<original>传说中的神剑。
+克制龙。</original>
+			<edited>传说中的神剑。
+克制龙。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Marth_Falchion" offset="00" relocatable="true" max_length="0">
+			<original>纹章士马尔斯的传说神剑。
+克制龙。</original>
+			<edited>纹章士马尔斯的传说神剑。
+克制龙。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Siglud_RiderKiller" offset="00" relocatable="true" max_length="0">
+			<original>骑士杀手</original>
+			<edited>骑士杀手</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Siglud_RiderKiller" offset="00" relocatable="true" max_length="0">
+			<original>纹章士西格尔特的枪。
+克制骑马。</original>
+			<edited>纹章士西格尔特的枪。
+克制骑马。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Siglud_BraveLance" offset="00" relocatable="true" max_length="0">
+			<original>勇者枪</original>
+			<edited>勇者枪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Siglud_BraveLance" offset="00" relocatable="true" max_length="0">
+			<original>纹章士西格尔特的枪。
+由自身发动攻击时，连续攻击2次。</original>
+			<edited>纹章士西格尔特的枪。
+由自身发动攻击时，连续攻击2次。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Siglud_Tyrfing" offset="00" relocatable="true" max_length="0">
+			<original>斩裂剑</original>
+			<edited>斩裂剑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Siglud_Tyrfing" offset="00" relocatable="true" max_length="0">
+			<original>纹章士西格尔特的传说圣剑。
+魔防+5。</original>
+			<edited>纹章士西格尔特的传说圣剑。
+魔防+5。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Siglud_Tyrfing_Normal" offset="00" relocatable="true" max_length="0">
+			<original>纹章士西格尔特的传说圣剑。</original>
+			<edited>纹章士西格尔特的传说圣剑。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Celica_Angel" offset="00" relocatable="true" max_length="0">
+			<original>天使</original>
+			<edited>天使</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Celica_Angel" offset="00" relocatable="true" max_length="0">
+			<original>纹章士赛莉卡的神圣魔法。
+克制异形。</original>
+			<edited>纹章士赛莉卡的神圣魔法。
+克制异形。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Celica_Recovery" offset="00" relocatable="true" max_length="0">
+			<original>圣愈</original>
+			<edited>圣愈</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Celica_Recovery" offset="00" relocatable="true" max_length="0">
+			<original>纹章士赛莉卡的治愈之杖。
+可回复大量HP。</original>
+			<edited>纹章士赛莉卡的治愈之杖。
+可回复大量HP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Celica_Ragnarok" offset="00" relocatable="true" max_length="0">
+			<original>末世烈焰</original>
+			<edited>末世烈焰</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Celica_Ragnarok" offset="00" relocatable="true" max_length="0">
+			<original>纹章士赛莉卡的终极炎魔法。</original>
+			<edited>纹章士赛莉卡的终极炎魔法。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Micaiah_Shine" offset="00" relocatable="true" max_length="0">
+			<original>闪光</original>
+			<edited>闪光</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Micaiah_Shine" offset="00" relocatable="true" max_length="0">
+			<original>纹章士米卡雅的光魔法。
+照亮周围5格。（每回合-1格）</original>
+			<edited>纹章士米卡雅的光魔法。
+照亮周围5格。（每回合-1格）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Micaiah_Nosferatu" offset="00" relocatable="true" max_length="0">
+			<original>圣吸</original>
+			<edited>圣吸</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Micaiah_Nosferatu" offset="00" relocatable="true" max_length="0">
+			<original>纹章士米卡雅的光魔法。
+攻击时可回复自身HP，
+回复量为造成伤害的50%。</original>
+			<edited>纹章士米卡雅的光魔法。
+攻击时可回复自身HP，
+回复量为造成伤害的50%。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Micaiah_Thani" offset="00" relocatable="true" max_length="0">
+			<original>赛尼</original>
+			<edited>赛尼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Micaiah_Thani" offset="00" relocatable="true" max_length="0">
+			<original>纹章士米卡雅的高级光魔法。
+克制骑马/克制重装。</original>
+			<edited>纹章士米卡雅的高级光魔法。
+克制骑马/克制重装。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_HandHeal" offset="00" relocatable="true" max_length="0">
+			<original>治愈之手</original>
+			<edited>治愈之手</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Roy_LanceBuster" offset="00" relocatable="true" max_length="0">
+			<original>破枪剑</original>
+			<edited>破枪剑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Roy_LanceBuster" offset="00" relocatable="true" max_length="0">
+			<original>纹章士罗伊的剑。
+对枪有利、对斧不利。</original>
+			<edited>纹章士罗伊的剑。
+对枪有利、对斧不利。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Roy_DragonKiller" offset="00" relocatable="true" max_length="0">
+			<original>屠龙剑</original>
+			<edited>屠龙剑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Roy_DragonKiller" offset="00" relocatable="true" max_length="0">
+			<original>纹章士罗伊的剑。
+克制龙。</original>
+			<edited>纹章士罗伊的剑。
+克制龙。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Roy_BindingBlade" offset="00" relocatable="true" max_length="0">
+			<original>封印之剑</original>
+			<edited>封印之剑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Roy_BindingBlade" offset="00" relocatable="true" max_length="0">
+			<original>纹章士罗伊的英雄之剑。
+防守、魔防+5/能攻击远方敌人。</original>
+			<edited>纹章士罗伊的英雄之剑。
+防守、魔防+5/能攻击远方敌人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Leaf_KillerAxe" offset="00" relocatable="true" max_length="0">
+			<original>必杀斧</original>
+			<edited>必杀斧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Leaf_KillerAxe_M008" offset="00" relocatable="true" max_length="0">
+			<original>纹章士的斧。
+较容易造成致命伤害。</original>
+			<edited>纹章士的斧。
+较容易造成致命伤害。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Leaf_KillerAxe" offset="00" relocatable="true" max_length="0">
+			<original>纹章士里弗的斧。
+较容易造成致命伤害。</original>
+			<edited>纹章士里弗的斧。
+较容易造成致命伤害。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Leaf_MasterLance" offset="00" relocatable="true" max_length="0">
+			<original>大师之枪</original>
+			<edited>大师之枪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Leaf_MasterLance_M008" offset="00" relocatable="true" max_length="0">
+			<original>纹章士的枪。
+由自身发动攻击时，连续攻击2次。
+能攻击远处的敌人。</original>
+			<edited>纹章士的枪。
+由自身发动攻击时，连续攻击2次。
+能攻击远处的敌人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Leaf_MasterLance" offset="00" relocatable="true" max_length="0">
+			<original>纹章士里弗的枪。
+由自身发动攻击时，连续攻击2次。
+能攻击远处的敌人。</original>
+			<edited>纹章士里弗的枪。
+由自身发动攻击时，连续攻击2次。
+能攻击远处的敌人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Leaf_LightBrand" offset="00" relocatable="true" max_length="0">
+			<original>光之剑</original>
+			<edited>光之剑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Leaf_LightBrand" offset="00" relocatable="true" max_length="0">
+			<original>纹章士里弗的魔法剑。
+幸运+10/能以魔法之光攻击远方敌人</original>
+			<edited>纹章士里弗的魔法剑。
+幸运+10/能以魔法之光攻击远方敌人</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Leaf_MasterBow" offset="00" relocatable="true" max_length="0">
+			<original>大师之弓</original>
+			<edited>大师之弓</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lucina_NobleRapier" offset="00" relocatable="true" max_length="0">
+			<original>王室贵族刺剑</original>
+			<edited>王室贵族刺剑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lucina_NobleRapier_M007" offset="00" relocatable="true" max_length="0">
+			<original>纹章士的刺剑。
+克制骑马/克制重装。</original>
+			<edited>纹章士的刺剑。
+克制骑马/克制重装。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lucina_NobleRapier" offset="00" relocatable="true" max_length="0">
+			<original>纹章士露琪娜的刺剑。
+克制骑马/克制重装。</original>
+			<edited>纹章士露琪娜的刺剑。
+克制骑马/克制重装。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lucina_Parthia" offset="00" relocatable="true" max_length="0">
+			<original>帕提亚</original>
+			<edited>帕提亚</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lucina_Parthia" offset="00" relocatable="true" max_length="0">
+			<original>纹章士露琪娜的强弓。
+魔防+5/可获得2倍经验值。
+克制飞行。</original>
+			<edited>纹章士露琪娜的强弓。
+魔防+5/可获得2倍经验值。
+克制飞行。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lucina_ParallelFalchion" offset="00" relocatable="true" max_length="0">
+			<original>里剑法尔西昂</original>
+			<edited>里剑法尔西昂</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lucina_ParallelFalchion" offset="00" relocatable="true" max_length="0">
+			<original>纹章士露琪娜的传说神剑。
+克制龙。</original>
+			<edited>纹章士露琪娜的传说神剑。
+克制龙。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lin_KillerBow" offset="00" relocatable="true" max_length="0">
+			<original>必杀弓</original>
+			<edited>必杀弓</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lin_KillerBow_M010" offset="00" relocatable="true" max_length="0">
+			<original>纹章士的弓。
+较容易造成致命伤害/克制飞行。</original>
+			<edited>纹章士的弓。
+较容易造成致命伤害/克制飞行。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lin_KillerBow" offset="00" relocatable="true" max_length="0">
+			<original>纹章士琳的弓。
+较容易造成致命伤害/克制飞行。</original>
+			<edited>纹章士琳的弓。
+较容易造成致命伤害/克制飞行。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lin_KillerBow_Normal" offset="00" relocatable="true" max_length="0">
+			<original>纹章士琳的弓。
+克制飞行。</original>
+			<edited>纹章士琳的弓。
+克制飞行。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lin_ManiKatti" offset="00" relocatable="true" max_length="0">
+			<original>玛尼·卡提</original>
+			<edited>玛尼·卡提</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lin_ManiKatti" offset="00" relocatable="true" max_length="0">
+			<original>纹章士琳受到精灵加护的剑。
+克制骑马/克制重装。</original>
+			<edited>纹章士琳受到精灵加护的剑。
+克制骑马/克制重装。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lin_ManiKatti_1" offset="00" relocatable="true" max_length="0">
+			<original>纹章士受到精灵加护的剑。
+克制骑马/克制重装。</original>
+			<edited>纹章士受到精灵加护的剑。
+克制骑马/克制重装。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lin_Myrgleis" offset="00" relocatable="true" max_length="0">
+			<original>妙尔葛雷</original>
+			<edited>妙尔葛雷</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lin_Myrgleis" offset="00" relocatable="true" max_length="0">
+			<original>纹章士琳的疾风之弓。
+速度+5/克制龙/克制飞行。</original>
+			<edited>纹章士琳的疾风之弓。
+速度+5/克制龙/克制飞行。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Ike_Hammer" offset="00" relocatable="true" max_length="0">
+			<original>战锤</original>
+			<edited>战锤</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Ike_Hammer" offset="00" relocatable="true" max_length="0">
+			<original>纹章士艾克的战锤。
+不可追击/克制重装/由自身主动攻击时
+必为后攻，但会发动猛击。</original>
+			<edited>纹章士艾克的战锤。
+不可追击/克制重装/由自身主动攻击时
+必为后攻，但会发动猛击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Ike_Urvan" offset="00" relocatable="true" max_length="0">
+			<original>乌尔邦</original>
+			<edited>乌尔邦</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Ike_Urvan" offset="00" relocatable="true" max_length="0">
+			<original>纹章士艾克的战斧。
+魔防+3。</original>
+			<edited>纹章士艾克的战斧。
+魔防+3。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Ike_Ragnell" offset="00" relocatable="true" max_length="0">
+			<original>瑞格内尔</original>
+			<edited>瑞格内尔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Ike_Ragnell" offset="00" relocatable="true" max_length="0">
+			<original>纹章士艾克的传说神剑。
+防守+5/能攻击远方敌人。</original>
+			<edited>纹章士艾克的传说神剑。
+防守+5/能攻击远方敌人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Byleth_Aymr" offset="00" relocatable="true" max_length="0">
+			<original>艾姆鲁</original>
+			<edited>艾姆鲁</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_Aymr" offset="00" relocatable="true" max_length="0">
+			<original>纹章士贝雷特的斧。
+不可追击/克制龙/由自身主动攻击时
+必为后攻，但会发动猛击。</original>
+			<edited>纹章士贝雷特的斧。
+不可追击/克制龙/由自身主动攻击时
+必为后攻，但会发动猛击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Byleth_Blutgang" offset="00" relocatable="true" max_length="0">
+			<original>布鲁托刚格</original>
+			<edited>布鲁托刚格</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_Blutgang" offset="00" relocatable="true" max_length="0">
+			<original>纹章士贝雷特的剑。
+剑刃被魔力环绕。
+克制龙/克制骑马。</original>
+			<edited>纹章士贝雷特的剑。
+剑刃被魔力环绕。
+克制龙/克制骑马。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Byleth_Luin" offset="00" relocatable="true" max_length="0">
+			<original>卢恩</original>
+			<edited>卢恩</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_Luin_M010" offset="00" relocatable="true" max_length="0">
+			<original>纹章士的枪。
+依据自己的速度提升威力。
+克制龙。</original>
+			<edited>纹章士的枪。
+依据自己的速度提升威力。
+克制龙。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_Luin" offset="00" relocatable="true" max_length="0">
+			<original>纹章士贝雷特的枪。
+根据自身的速度提升威力。
+克制龙。</original>
+			<edited>纹章士贝雷特的枪。
+根据自身的速度提升威力。
+克制龙。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Byleth_Areadbhar" offset="00" relocatable="true" max_length="0">
+			<original>阿莱德巴尔</original>
+			<edited>阿莱德巴尔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_Areadbhar" offset="00" relocatable="true" max_length="0">
+			<original>纹章士贝雷特的枪。
+由自身发动攻击时，威力150%。</original>
+			<edited>纹章士贝雷特的枪。
+由自身发动攻击时，威力150%。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Byleth_AegisShield" offset="00" relocatable="true" max_length="0">
+			<original>埃癸斯之盾</original>
+			<edited>埃癸斯之盾</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_AegisShield" offset="00" relocatable="true" max_length="0">
+			<original>纹章士贝雷特的盾。
+守备+6/魔防+3/一定几率使伤害减轻为50%。
+（几率为“技巧”%）（持有便能发动效果）</original>
+			<edited>纹章士贝雷特的盾。
+守备+6/魔防+3/一定几率使伤害减轻为50%。
+（几率为“技巧”%）（持有便能发动效果）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Byleth_Failnaught" offset="00" relocatable="true" max_length="0">
+			<original>费鲁诺特</original>
+			<edited>费鲁诺特</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_Failnaught" offset="00" relocatable="true" max_length="0">
+			<original>纹章士贝雷特的弓。
+由自身发动攻击时，回避+20。
+克制龙/克制飞行。</original>
+			<edited>纹章士贝雷特的弓。
+由自身发动攻击时，回避+20。
+克制龙/克制飞行。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Byleth_Thyrsus" offset="00" relocatable="true" max_length="0">
+			<original>提尔狩斯之杖</original>
+			<edited>提尔狩斯之杖</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_Thyrsus" offset="00" relocatable="true" max_length="0">
+			<original>纹章士贝雷特的法杖。
+魔法射程+2/低几率伤害减半。
+（持有便能发挥效果）</original>
+			<edited>纹章士贝雷特的法杖。
+魔法射程+2/低几率伤害减半。
+（持有便能发挥效果）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Byleth_RafailGem" offset="00" relocatable="true" max_length="0">
+			<original>拉法叶之宝珠</original>
+			<edited>拉法叶之宝珠</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_RafailGem" offset="00" relocatable="true" max_length="0">
+			<original>纹章士贝雷特的宝珠。
+能将克制与必杀无效/低几率伤害减半。
+（持有便能发挥效果）</original>
+			<edited>纹章士贝雷特的宝珠。
+能将克制与必杀无效/低几率伤害减半。
+（持有便能发挥效果）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Byleth_Vajra" offset="00" relocatable="true" max_length="0">
+			<original>降魔杵</original>
+			<edited>降魔杵</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_Vajra" offset="00" relocatable="true" max_length="0">
+			<original>纹章士贝雷特的护手。
+攻击时以对手防守与魔防较低者为基准。
+由自身发动攻击时，连续攻击2次。</original>
+			<edited>纹章士贝雷特的护手。
+攻击时以对手防守与魔防较低者为基准。
+由自身发动攻击时，连续攻击2次。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Byleth_SublimeCreatorSword" offset="00" relocatable="true" max_length="0">
+			<original>天帝之剑</original>
+			<edited>天帝之剑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_SublimeCreatorSword" offset="00" relocatable="true" max_length="0">
+			<original>纹章士贝雷特的英雄的遗产。
+根据自己的魔力提升威力。
+能攻击远方敌人/克制龙。</original>
+			<edited>纹章士贝雷特的英雄的遗产。
+根据自己的魔力提升威力。
+能攻击远方敌人/克制龙。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_SublimeCreatorSword_M014" offset="00" relocatable="true" max_length="0">
+			<original>纹章士的英雄的遗产。
+根据自己的魔力提升威力。
+能攻击远处敌人/克制龙。</original>
+			<edited>纹章士的英雄的遗产。
+根据自己的魔力提升威力。
+能攻击远处敌人/克制龙。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GoddessAgain" offset="00" relocatable="true" max_length="0">
+			<original>女神之舞</original>
+			<edited>女神之舞</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GoddessAgain_Dark" offset="00" relocatable="true" max_length="0">
+			<original>邪神之舞</original>
+			<edited>邪神之舞</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Kamui_DualKatana" offset="00" relocatable="true" max_length="0">
+			<original>逆刀</original>
+			<edited>逆刀</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Kamui_DualKatana" offset="00" relocatable="true" max_length="0">
+			<original>纹章士神威的佩刀。
+对枪有利、对斧不利。</original>
+			<edited>纹章士神威的佩刀。
+对枪有利、对斧不利。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Kamui_Wakizashi" offset="00" relocatable="true" max_length="0">
+			<original>飞刀</original>
+			<edited>飞刀</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Kamui_Wakizashi" offset="00" relocatable="true" max_length="0">
+			<original>纹章士神威的佩刀。
+无法近身战/能攻击远处敌人。</original>
+			<edited>纹章士神威的佩刀。
+无法近身战/能攻击远处敌人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Kamui_Yato" offset="00" relocatable="true" max_length="0">
+			<original>夜刀神</original>
+			<edited>夜刀神</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Kamui_Yato" offset="00" relocatable="true" max_length="0">
+			<original>纹章士神威的传说神刀。</original>
+			<edited>纹章士神威的传说神刀。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Kamui_DragonPiercing" offset="00" relocatable="true" max_length="0">
+			<original>龙穿</original>
+			<edited>龙穿</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Kamui_DragonPiercing" offset="00" relocatable="true" max_length="0">
+			<original>纹章士神威的特技。</original>
+			<edited>纹章士神威的特技。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Eirik_Rapier" offset="00" relocatable="true" max_length="0">
+			<original>刺剑</original>
+			<edited>刺剑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Eirik_Rapier" offset="00" relocatable="true" max_length="0">
+			<original>纹章士艾莉可的刺剑。
+克制骑马/克制重装。</original>
+			<edited>纹章士艾莉可的刺剑。
+克制骑马/克制重装。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Eirik_WindSword" offset="00" relocatable="true" max_length="0">
+			<original>风之剑</original>
+			<edited>风之剑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Eirik_WindSword" offset="00" relocatable="true" max_length="0">
+			<original>纹章士艾莉可的魔法剑。
+能以魔法之风攻击远处敌人。
+克制飞行。</original>
+			<edited>纹章士艾莉可的魔法剑。
+能以魔法之风攻击远处敌人。
+克制飞行。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Eirik_Sieglinde" offset="00" relocatable="true" max_length="0">
+			<original>齐格林德</original>
+			<edited>齐格林德</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Eirik_Sieglinde" offset="00" relocatable="true" max_length="0">
+			<original>纹章士艾莉可的双圣器之剑。
+克制异形。</original>
+			<edited>纹章士艾莉可的双圣器之剑。
+克制异形。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Eirik_Siegmund" offset="00" relocatable="true" max_length="0">
+			<original>齐格蒙德</original>
+			<edited>齐格蒙德</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Eirik_Siegmund" offset="00" relocatable="true" max_length="0">
+			<original>纹章士艾夫拉姆的神圣炎枪。
+克制异形。</original>
+			<edited>纹章士艾夫拉姆的神圣炎枪。
+克制异形。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lueur_Oligoludia" offset="00" relocatable="true" max_length="0">
+			<original>欧里格帝亚</original>
+			<edited>欧里格帝亚</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lueur_Oligoludia" offset="00" relocatable="true" max_length="0">
+			<original>纹章士&#xE;&#x6;&#x3;&#x0;的剑。
+克制异形。</original>
+			<edited>纹章士&#xE;&#x6;&#x3;&#x0;的剑。
+克制异形。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lueur_DragonFist" offset="00" relocatable="true" max_length="0">
+			<original>神龙体术</original>
+			<edited>神龙体术</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lueur_DragonFist" offset="00" relocatable="true" max_length="0">
+			<original>纹章士&#xE;&#x6;&#x3;&#x0;的魔法格斗技。
+由自身发动攻击时，连续攻击2次。
+（攻击力仅以魔力为基准）</original>
+			<edited>纹章士&#xE;&#x6;&#x3;&#x0;的魔法格斗技。
+由自身发动攻击时，连续攻击2次。
+（攻击力仅以魔力为基准）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lueur_Lyration" offset="00" relocatable="true" max_length="0">
+			<original>莱拉西昂</original>
+			<edited>莱拉西昂</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lueur_Lyration" offset="00" relocatable="true" max_length="0">
+			<original>纹章士&#xE;&#x6;&#x3;&#x0;的剑。
+由自身发动攻击并击败敌人时，
+同步中的相邻我方单位结合计量条+1。</original>
+			<edited>纹章士&#xE;&#x6;&#x3;&#x0;的剑。
+由自身发动攻击并击败敌人时，
+同步中的相邻我方单位结合计量条+1。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Folkvangr" offset="00" relocatable="true" max_length="0">
+			<original>弗尔克范格</original>
+			<edited>弗尔克范格</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Folkvangr" offset="00" relocatable="true" max_length="0">
+			<original>异界亚斯克王国的王子──阿尔冯斯的剑。
+我军行动阶段开始时，若HP为50%以下，
+则攻击力+3，效果持续1回合。</original>
+			<edited>异界亚斯克王国的王子──阿尔冯斯的剑。
+我军行动阶段开始时，若HP为50%以下，
+则攻击力+3，效果持续1回合。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Fensalir" offset="00" relocatable="true" max_length="0">
+			<original>芬萨里尔</original>
+			<edited>芬萨里尔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Fensalir" offset="00" relocatable="true" max_length="0">
+			<original>异界亚斯克王国的公主──夏蓉的枪。
+我军行动阶段开始时，若与敌人相邻，
+则该敌人攻击力-2，效果持续1回合。</original>
+			<edited>异界亚斯克王国的公主──夏蓉的枪。
+我军行动阶段开始时，若与敌人相邻，
+则该敌人攻击力-2，效果持续1回合。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Noatun" offset="00" relocatable="true" max_length="0">
+			<original>诺欧通</original>
+			<edited>诺欧通</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Noatun" offset="00" relocatable="true" max_length="0">
+			<original>异界亚斯克王国的战士──安娜的斧。
+我军行动阶段开始时，若HP为40%以下，
+则移动+1，效果持续1回合。</original>
+			<edited>异界亚斯克王国的战士──安娜的斧。
+我军行动阶段开始时，若HP为40%以下，
+则移动+1，效果持续1回合。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SPBook1" offset="00" relocatable="true" max_length="0">
+			<original>特技之书·守</original>
+			<edited>特技之书·守</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SPBook1" offset="00" relocatable="true" max_length="0">
+			<original>深入理解特技的书籍。
+可获得100SP。</original>
+			<edited>深入理解特技的书籍。
+可获得100SP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SPBook2" offset="00" relocatable="true" max_length="0">
+			<original>特技之书·破</original>
+			<edited>特技之书·破</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SPBook2" offset="00" relocatable="true" max_length="0">
+			<original>见识特技奥秘的书籍。
+可获得500SP。</original>
+			<edited>见识特技奥秘的书籍。
+可获得500SP。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SPBook3" offset="00" relocatable="true" max_length="0">
+			<original>特技之书·离</original>
+			<edited>特技之书·离</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SPBook3" offset="00" relocatable="true" max_length="0">
+			<original>体会特技精随的书籍。
+可获得1000SP。</original>
+			<edited>体会特技精随的书籍。
+可获得1000SP。</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,2096 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_NET_SettingOn" offset="00" relocatable="true" max_length="0">
+			<original>Online features are currently off. 
+Would you like to turn them on?</original>
+			<edited>Online features are currently off. 
+Would you like to turn them on?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_TowerNetwork_On" offset="00" relocatable="true" max_length="0">
+			<original>Online features are currently off. 
+To enjoy the game with other players,
+would you like to turn them on?</original>
+			<edited>Online features are currently off. 
+To enjoy the game with other players,
+would you like to turn them on?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_RANKING_On" offset="00" relocatable="true" max_length="0">
+			<original>Online features are currently off. 
+To see other players' unit rankings,
+would you like to turn them on?</original>
+			<edited>Online features are currently off. 
+To see other players' unit rankings,
+would you like to turn them on?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_SettingOn_Yes" offset="00" relocatable="true" max_length="0">
+			<original>Yes</original>
+			<edited>Yes</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_Setting" offset="00" relocatable="true" max_length="0">
+			<original>Connection has not been enabled in Settings.</original>
+			<edited>Connection has not been enabled in Settings.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_Connecting" offset="00" relocatable="true" max_length="0">
+			<original>Connecting...</original>
+			<edited>Connecting...</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_Error_TROPE" offset="00" relocatable="true" max_length="0">
+			<original>No connection.</original>
+			<edited>No connection.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_Connecting_Error" offset="00" relocatable="true" max_length="0">
+			<original>An error has occurred.
+Please try again later.</original>
+			<edited>An error has occurred.
+Please try again later.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_Title_Help" offset="00" relocatable="true" max_length="0">
+			<original>Select a trial to take on.</original>
+			<edited>Select a trial to take on.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_Notes_Terms" offset="00" relocatable="true" max_length="0">
+			<original>Your Nintendo Switch user nickname will be visible to other players in Relay Trials and Outrealm Trials. Your profile card will also be visible if you set your card's privacy setting to Public. The Community Guidelines apply to in-game behavior and shared content and can be found on Nintendo's website. Please be considerate to your fellow players.</original>
+			<edited>Your Nintendo Switch user nickname will be visible to other players in Relay Trials and Outrealm Trials. Your profile card will also be visible if you set your card's privacy setting to Public. The Community Guidelines apply to in-game behavior and shared content and can be found on Nintendo's website. Please be considerate to your fellow players.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_Notes_Report" offset="00" relocatable="true" max_length="0">
+			<original>If your behavior or shared content violates the Community Guidelines, your data may be deleted from the server or your access to online play restricted. To report inappropriate content, select Report from the System menu.</original>
+			<edited>If your behavior or shared content violates the Community Guidelines, your data may be deleted from the server or your access to online play restricted. To report inappropriate content, select Report from the System menu.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Title" offset="00" relocatable="true" max_length="0">
+			<original>Outrealm Trial</original>
+			<edited>Outrealm Trial</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Help" offset="00" relocatable="true" max_length="0">
+			<original>Battle online against other players'
+armies on selected or edited maps.</original>
+			<edited>Battle online against other players'
+armies on selected or edited maps.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Title_Help" offset="00" relocatable="true" max_length="0">
+			<original>Select a mode.</original>
+			<edited>Select a mode.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Title" offset="00" relocatable="true" max_length="0">
+			<original>Relay Trial</original>
+			<edited>Relay Trial</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Help" offset="00" relocatable="true" max_length="0">
+			<original>Tackle a map with other players
+online in a relay-style cooperative
+mode. Tickets required to play.</original>
+			<edited>Tackle a map with other players
+online in a relay-style cooperative
+mode. Tickets required to play.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Title_Help" offset="00" relocatable="true" max_length="0">
+			<original>Select how to begin the trial.</original>
+			<edited>Select how to begin the trial.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_Title" offset="00" relocatable="true" max_length="0">
+			<original>Tempest Trial</original>
+			<edited>Tempest Trial</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_Help" offset="00" relocatable="true" max_length="0">
+			<original>In this trial, you will face several
+consecutive battles. Rewards will
+increase with difficulty level.</original>
+			<edited>In this trial, you will face several
+consecutive battles. Rewards will
+increase with difficulty level.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_Closed_Dialog" offset="00" relocatable="true" max_length="0">
+			<original>Tempest Trials will become available once you
+clear Chapter 11.</original>
+			<edited>Tempest Trials will become available once you
+clear Chapter 11.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NETWORK_Map_Outline" offset="00" relocatable="true" max_length="0">
+			<original>Map Information</original>
+			<edited>Map Information</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NETWORK_Map_Name" offset="00" relocatable="true" max_length="0">
+			<original>Map</original>
+			<edited>Map</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NETWORK_Map_Name_Content" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; (&#xE;&#x1;&#x1;&#x0;)</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; (&#xE;&#x1;&#x1;&#x0;)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NETWORK_LimitTurn_Content" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; (&#xE;&#x1;&#x1;&#x0; players)</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; (&#xE;&#x1;&#x1;&#x0; players)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NETWORK_Reward" offset="00" relocatable="true" max_length="0">
+			<original>Reward</original>
+			<edited>Reward</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NETWORK_Degree" offset="00" relocatable="true" max_length="0">
+			<original>Title</original>
+			<edited>Title</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NETWORK_Clear_Reward" offset="00" relocatable="true" max_length="0">
+			<original>Clear Rewards</original>
+			<edited>Clear Rewards</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NETWORK_Map_Select" offset="00" relocatable="true" max_length="0">
+			<original>Select Map</original>
+			<edited>Select Map</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NETWORK_BACK_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>Return to the menu?</original>
+			<edited>Return to the menu?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NETWORK_BACK_CONFIRM_YES" offset="00" relocatable="true" max_length="0">
+			<original>Return to menu</original>
+			<edited>Return to menu</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NETWORK_H_BACK_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>Return to menu</original>
+			<edited>Return to menu</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_Error" offset="00" relocatable="true" max_length="0">
+			<original>An error has occurred.</original>
+			<edited>An error has occurred.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_NFC_Error" offset="00" relocatable="true" max_length="0">
+			<original>Connection with the amiibo-reading controller
+has been interrupted.</original>
+			<edited>Connection with the amiibo-reading controller
+has been interrupted.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Easy" offset="00" relocatable="true" max_length="0">
+			<original>Quick Battle</original>
+			<edited>Quick Battle</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Easy" offset="00" relocatable="true" max_length="0">
+			<original>Select a map and battle against
+another player's army.</original>
+			<edited>Select a map and battle against
+another player's army.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Easy_TitleHelp" offset="00" relocatable="true" max_length="0">
+			<original>Select a map.</original>
+			<edited>Select a map.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_V001" offset="00" relocatable="true" max_length="0">
+			<original>Garden</original>
+			<edited>Garden</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_V002" offset="00" relocatable="true" max_length="0">
+			<original>Crystals</original>
+			<edited>Crystals</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_V003" offset="00" relocatable="true" max_length="0">
+			<original>Fortress</original>
+			<edited>Fortress</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_V004" offset="00" relocatable="true" max_length="0">
+			<original>Treasure</original>
+			<edited>Treasure</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_V005" offset="00" relocatable="true" max_length="0">
+			<original>Columns</original>
+			<edited>Columns</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_V006" offset="00" relocatable="true" max_length="0">
+			<original>Snowdrift</original>
+			<edited>Snowdrift</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Search" offset="00" relocatable="true" max_length="0">
+			<original>Search for an Opponent</original>
+			<edited>Search for an Opponent</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Search_Help" offset="00" relocatable="true" max_length="0">
+			<original>Choose a selection method.</original>
+			<edited>Choose a selection method.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Random" offset="00" relocatable="true" max_length="0">
+			<original>Random</original>
+			<edited>Random</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Random" offset="00" relocatable="true" max_length="0">
+			<original>Battle the army of another player
+chosen at random.</original>
+			<edited>Battle the army of another player
+chosen at random.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Serious_H_Random" offset="00" relocatable="true" max_length="0">
+			<original>Another player's map will be
+selected automatically. This
+battle will affect your rating.</original>
+			<edited>Another player's map will be
+selected automatically. This
+battle will affect your rating.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Matching" offset="00" relocatable="true" max_length="0">
+			<original>Opponent found: &#xE;&#x1;&#x0;&#x0;</original>
+			<edited>Opponent found: &#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Matching_Empty" offset="00" relocatable="true" max_length="0">
+			<original>No opponents found.</original>
+			<edited>No opponents found.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Matching_Verification" offset="00" relocatable="true" max_length="0">
+			<original>Battle &#xE;&#x1;&#x0;&#x0;?</original>
+			<edited>Battle &#xE;&#x1;&#x0;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_NoData" offset="00" relocatable="true" max_length="0">
+			<original>Data not found.</original>
+			<edited>Data not found.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Friend" offset="00" relocatable="true" max_length="0">
+			<original>Friend</original>
+			<edited>Friend</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Friend" offset="00" relocatable="true" max_length="0">
+			<original>Select an opposing force to battle
+from a list of your friends' armies.</original>
+			<edited>Select an opposing force to battle
+from a list of your friends' armies.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Serious_H_Friend" offset="00" relocatable="true" max_length="0">
+			<original>You can choose a map from a list
+of those belonging to your friends.
+This battle won't affect your rating.</original>
+			<edited>You can choose a map from a list
+of those belonging to your friends.
+This battle won't affect your rating.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Friend_Select_Prompt" offset="00" relocatable="true" max_length="0">
+			<original>Select a friend.</original>
+			<edited>Select a friend.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Friend_Select" offset="00" relocatable="true" max_length="0">
+			<original>Select Friend</original>
+			<edited>Select Friend</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Friend_Corps" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Friend_Code" offset="00" relocatable="true" max_length="0">
+			<original>Enter ID</original>
+			<edited>Enter ID</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Friend_Code" offset="00" relocatable="true" max_length="0">
+			<original>Enter an ID to battle a specific
+player's army.</original>
+			<edited>Enter an ID to battle a specific
+player's army.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Serious_H_Friend_Code" offset="00" relocatable="true" max_length="0">
+			<original>Enter an ID to battle using a
+specific player's map. This battle
+won't affect your rating.</original>
+			<edited>Enter an ID to battle using a
+specific player's map. This battle
+won't affect your rating.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Friend_Code_Input_Easy" offset="00" relocatable="true" max_length="0">
+			<original>Enter opponent's ID for Quick Battle.</original>
+			<edited>Enter opponent's ID for Quick Battle.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Friend_ID" offset="00" relocatable="true" max_length="0">
+			<original>Search for this ID?</original>
+			<edited>Search for this ID?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Friend_ID_Search" offset="00" relocatable="true" max_length="0">
+			<original>Use this ID</original>
+			<edited>Use this ID</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_My_ID_Attention" offset="00" relocatable="true" max_length="0">
+			<original>You cannot enter your own battle ID.</original>
+			<edited>You cannot enter your own battle ID.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Profile" offset="00" relocatable="true" max_length="0">
+			<original>Profile Cards</original>
+			<edited>Profile Cards</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Profile" offset="00" relocatable="true" max_length="0">
+			<original>You can choose from a list of others' cards
+that you currently have.</original>
+			<edited>You can choose from a list of others' cards
+that you currently have.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Serious_H_Profile" offset="00" relocatable="true" max_length="0">
+			<original>You can choose from a list of others' cards
+that you currently have. (Your rating will
+not be affected by the result.)</original>
+			<edited>You can choose from a list of others' cards
+that you currently have. (Your rating will
+not be affected by the result.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Profile_Select_Prompt" offset="00" relocatable="true" max_length="0">
+			<original>Select a player.</original>
+			<edited>Select a player.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Profile_Select" offset="00" relocatable="true" max_length="0">
+			<original>Player List</original>
+			<edited>Player List</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Match_NoProfile" offset="00" relocatable="true" max_length="0">
+			<original>You have no profile cards that can be used
+for battle.</original>
+			<edited>You have no profile cards that can be used
+for battle.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_MAP_Error" offset="00" relocatable="true" max_length="0">
+			<original>Battle was suspended due to a data error.</original>
+			<edited>Battle was suspended due to a data error.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Serious" offset="00" relocatable="true" max_length="0">
+			<original>Custom Battle</original>
+			<edited>Custom Battle</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Serious" offset="00" relocatable="true" max_length="0">
+			<original>Battle on a custom map created by
+linking a map you upload with that
+of another player.</original>
+			<edited>Battle on a custom map created by
+linking a map you upload with that
+of another player.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Serious_Attention" offset="00" relocatable="true" max_length="0">
+			<original>You need at least 2 units from your army
+in order to play a Custom Battle.</original>
+			<edited>You need at least 2 units from your army
+in order to play a Custom Battle.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Serious_OldMap" offset="00" relocatable="true" max_length="0">
+			<original>Unable to start battle because the map data
+on the server is older than your map data.
+Select Edit Map and upload your most recent
+data to proceed.</original>
+			<edited>Unable to start battle because the map data
+on the server is older than your map data.
+Select Edit Map and upload your most recent
+data to proceed.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Serious_Help" offset="00" relocatable="true" max_length="0">
+			<original>Select an action.</original>
+			<edited>Select an action.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Friend_Code_Input_Serious" offset="00" relocatable="true" max_length="0">
+			<original>Enter opponent's ID for Custom Battle.</original>
+			<edited>Enter opponent's ID for Custom Battle.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Battle_Start" offset="00" relocatable="true" max_length="0">
+			<original>Start Battle</original>
+			<edited>Start Battle</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Battle_Start" offset="00" relocatable="true" max_length="0">
+			<original>Battle another player's army using
+your map.</original>
+			<edited>Battle another player's army using
+your map.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Battle_Win" offset="00" relocatable="true" max_length="0">
+			<original>You won!</original>
+			<edited>You won!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Battle_Lose" offset="00" relocatable="true" max_length="0">
+			<original>You lost...</original>
+			<edited>You lost...</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_GET_PIECE" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x1;&#x0; &#xE;&#x1;&#x0;&#x0; bond fragment(s) obtained.</original>
+			<edited>&#xE;&#x1;&#x1;&#x0; &#xE;&#x1;&#x0;&#x0; bond fragment(s) obtained.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_GET_GOLD" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;G obtained.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;G obtained.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_GET_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; &#xE;&#x1;&#x1;&#x0; obtained.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; &#xE;&#x1;&#x1;&#x0; obtained.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_GET_ITEM_PLURAL" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0; x&#xE;&#x1;&#x2;&#x0; obtained.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0; x&#xE;&#x1;&#x2;&#x0; obtained.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_EditName" offset="00" relocatable="true" max_length="0">
+			<original>Preparations</original>
+			<edited>Preparations</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit" offset="00" relocatable="true" max_length="0">
+			<original>Edit Map</original>
+			<edited>Edit Map</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Edit" offset="00" relocatable="true" max_length="0">
+			<original>Create a battle map and set up a
+team to defend it.</original>
+			<edited>Create a battle map and set up a
+team to defend it.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Reset" offset="00" relocatable="true" max_length="0">
+			<original>Reset Map</original>
+			<edited>Reset Map</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Reset" offset="00" relocatable="true" max_length="0">
+			<original>Reset map layout.</original>
+			<edited>Reset map layout.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Reset_Confirmation" offset="00" relocatable="true" max_length="0">
+			<original>Reset current map layout?</original>
+			<edited>Reset current map layout?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Save" offset="00" relocatable="true" max_length="0">
+			<original>Save Map</original>
+			<edited>Save Map</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Save" offset="00" relocatable="true" max_length="0">
+			<original>Save your custom map.</original>
+			<edited>Save your custom map.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit_Finish" offset="00" relocatable="true" max_length="0">
+			<original>Finish Editing</original>
+			<edited>Finish Editing</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Edit_Finish" offset="00" relocatable="true" max_length="0">
+			<original>Finish editing map.</original>
+			<edited>Finish editing map.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit_Finish_Confirmation" offset="00" relocatable="true" max_length="0">
+			<original>Finish editing map?</original>
+			<edited>Finish editing map?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit_Finish_Confirmation_NoSave" offset="00" relocatable="true" max_length="0">
+			<original>Finish editing without saving?</original>
+			<edited>Finish editing without saving?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit_Finish_Confirmation_Yes" offset="00" relocatable="true" max_length="0">
+			<original>Finish</original>
+			<edited>Finish</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit_Finish_Confirmation_No" offset="00" relocatable="true" max_length="0">
+			<original>Continue</original>
+			<edited>Continue</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_HealPanel_Duplicated" offset="00" relocatable="true" max_length="0">
+			<original>You can only place one heal or protection tile
+at a time.</original>
+			<edited>You can only place one heal or protection tile
+at a time.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Cannon_Duplicated" offset="00" relocatable="true" max_length="0">
+			<original>You can only place one ballista, magic artillery,
+or flame cannon at a time.</original>
+			<edited>You can only place one ballista, magic artillery,
+or flame cannon at a time.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Save_Error" offset="00" relocatable="true" max_length="0">
+			<original>Could not save the map.
+&#xE;&#x1;&#x0;&#x0;</original>
+			<edited>Could not save the map.
+&#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Save_Error_NoUnit" offset="00" relocatable="true" max_length="0">
+			<original>Deploy at least 1 unit.</original>
+			<edited>Deploy at least 1 unit.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Save_Error_AllUnit" offset="00" relocatable="true" max_length="0">
+			<original>All units are committed to defensive battles.</original>
+			<edited>All units are committed to defensive battles.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Serious_Error_AllUnit" offset="00" relocatable="true" max_length="0">
+			<original>You have no units available for a raiding party.
+Select Edit Map and reduce the number of
+allies committed to your defense team.</original>
+			<edited>You have no units available for a raiding party.
+Select Edit Map and reduce the number of
+allies committed to your defense team.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Save_Error_BanAreaUnit" offset="00" relocatable="true" max_length="0">
+			<original>At least one unit is in an inaccessible location.</original>
+			<edited>At least one unit is in an inaccessible location.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Save_Error_InvalidData" offset="00" relocatable="true" max_length="0">
+			<original>Unable to save. The data may be corrupted.</original>
+			<edited>Unable to save. The data may be corrupted.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Save_Success" offset="00" relocatable="true" max_length="0">
+			<original>Map saved.</original>
+			<edited>Map saved.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_UpRoad" offset="00" relocatable="true" max_length="0">
+			<original>Upload your map for use in defensive battles?
+You can only have 1 uploaded map per
+Nintendo Account. Previously uploaded maps,
+including those created with other save data,
+will be overwritten.</original>
+			<edited>Upload your map for use in defensive battles?
+You can only have 1 uploaded map per
+Nintendo Account. Previously uploaded maps,
+including those created with other save data,
+will be overwritten.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_UpRoad_Yes" offset="00" relocatable="true" max_length="0">
+			<original>Upload</original>
+			<edited>Upload</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_UpRoad_No" offset="00" relocatable="true" max_length="0">
+			<original>Cancel</original>
+			<edited>Cancel</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_UpRoad_Success" offset="00" relocatable="true" max_length="0">
+			<original>Upload successful.</original>
+			<edited>Upload successful.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_UpRoad_Failure" offset="00" relocatable="true" max_length="0">
+			<original>Upload failed.</original>
+			<edited>Upload failed.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Unit_Duplicate" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; is set up to defend.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; is set up to defend.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit_AI_NotMove" offset="00" relocatable="true" max_length="0">
+			<original>Hold</original>
+			<edited>Hold</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Edit_AI_NotMove" offset="00" relocatable="true" max_length="0">
+			<original>Hold the starting position.</original>
+			<edited>Hold the starting position.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit_AI_Defense" offset="00" relocatable="true" max_length="0">
+			<original>Defend</original>
+			<edited>Defend</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Edit_AI_Defense" offset="00" relocatable="true" max_length="0">
+			<original>Target enemies that come
+within range.</original>
+			<edited>Target enemies that come
+within range.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit_AI_Rush" offset="00" relocatable="true" max_length="0">
+			<original>Attack</original>
+			<edited>Attack</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Edit_AI_Rush" offset="00" relocatable="true" max_length="0">
+			<original>Aggressively pursue foes in
+range, weakest to strongest.</original>
+			<edited>Aggressively pursue foes in
+range, weakest to strongest.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit_AI_ResponseA" offset="00" relocatable="true" max_length="0">
+			<original>Group A</original>
+			<edited>Group A</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Edit_AI_ResponseA" offset="00" relocatable="true" max_length="0">
+			<original>Group A takes action when
+foes come within their range.</original>
+			<edited>Group A takes action when
+foes come within their range.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit_AI_ResponseB" offset="00" relocatable="true" max_length="0">
+			<original>Group B</original>
+			<edited>Group B</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Edit_AI_ResponseB" offset="00" relocatable="true" max_length="0">
+			<original>Group B takes action when
+foes come within their range.</original>
+			<edited>Group B takes action when
+foes come within their range.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit_AI_ResponseC" offset="00" relocatable="true" max_length="0">
+			<original>Group C</original>
+			<edited>Group C</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Edit_AI_ResponseC" offset="00" relocatable="true" max_length="0">
+			<original>Group C takes action when
+foes come within their range.</original>
+			<edited>Group C takes action when
+foes come within their range.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Replay" offset="00" relocatable="true" max_length="0">
+			<original>View Results</original>
+			<edited>View Results</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Replay" offset="00" relocatable="true" max_length="0">
+			<original>View the results of defensive
+battles that have occurred.</original>
+			<edited>View the results of defensive
+battles that have occurred.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_History" offset="00" relocatable="true" max_length="0">
+			<original>A battle has occurred on a map you uploaded.
+Do you want to view the results?</original>
+			<edited>A battle has occurred on a map you uploaded.
+Do you want to view the results?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_NoHistory" offset="00" relocatable="true" max_length="0">
+			<original>No defensive battles have occurred on
+your uploaded maps.</original>
+			<edited>No defensive battles have occurred on
+your uploaded maps.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_MockCombat" offset="00" relocatable="true" max_length="0">
+			<original>Mock Battle</original>
+			<edited>Mock Battle</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_MockCombat" offset="00" relocatable="true" max_length="0">
+			<original>Test your map.</original>
+			<edited>Test your map.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Surrender" offset="00" relocatable="true" max_length="0">
+			<original>Concede</original>
+			<edited>Concede</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Surrender" offset="00" relocatable="true" max_length="0">
+			<original>Surrender and return to menu.</original>
+			<edited>Surrender and return to menu.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Surrender_Attention" offset="00" relocatable="true" max_length="0">
+			<original>Concede defeat?</original>
+			<edited>Concede defeat?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Surrender_Yes" offset="00" relocatable="true" max_length="0">
+			<original>Concede</original>
+			<edited>Concede</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_MyRate" offset="00" relocatable="true" max_length="0">
+			<original>Ranking</original>
+			<edited>Ranking</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_ID" offset="00" relocatable="true" max_length="0">
+			<original>Battle ID</original>
+			<edited>Battle ID</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Victory" offset="00" relocatable="true" max_length="0">
+			<original>VICTORY!</original>
+			<edited>VICTORY!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Defeat" offset="00" relocatable="true" max_length="0">
+			<original>DEFEAT</original>
+			<edited>DEFEAT</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Report</original>
+			<edited>Report</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_MAP_DELETE" offset="00" relocatable="true" max_length="0">
+			<original>Your map was reported, and has been deleted
+after review.</original>
+			<edited>Your map was reported, and has been deleted
+after review.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_TITLE_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Report an inappropriate map.</original>
+			<edited>Report an inappropriate map.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_NOTES" offset="00" relocatable="true" max_length="0">
+			<original>You are reporting a map for content that
+violates the Nintendo Community Guidelines.
+
+This report will be sent to Nintendo, not to the
+player who uploaded the map.</original>
+			<edited>You are reporting a map for content that
+violates the Nintendo Community Guidelines.
+
+This report will be sent to Nintendo, not to the
+player who uploaded the map.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT__CONFIRM_DIALOG" offset="00" relocatable="true" max_length="0">
+			<original>Report this content?</original>
+			<edited>Report this content?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT__CONFIRM_DIALOG_YES" offset="00" relocatable="true" max_length="0">
+			<original>Report</original>
+			<edited>Report</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_CATEGORY_SELECT" offset="00" relocatable="true" max_length="0">
+			<original>Please select the type of report to send.</original>
+			<edited>Please select the type of report to send.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_MAP" offset="00" relocatable="true" max_length="0">
+			<original>Report Map</original>
+			<edited>Report Map</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_CATEGORY" offset="00" relocatable="true" max_length="0">
+			<original>Type of Report</original>
+			<edited>Type of Report</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_REASON" offset="00" relocatable="true" max_length="0">
+			<original>Reason for Reporting</original>
+			<edited>Reason for Reporting</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_REASON_INPUT" offset="00" relocatable="true" max_length="0">
+			<original>Enter a reason for the report.</original>
+			<edited>Enter a reason for the report.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_CATEGORY_PERSONAL" offset="00" relocatable="true" max_length="0">
+			<original>Disclosure of Personal Information</original>
+			<edited>Disclosure of Personal Information</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_CATEGORY_CRIMINAL" offset="00" relocatable="true" max_length="0">
+			<original>Violent Content</original>
+			<edited>Violent Content</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_CATEGORY_IMMORAL" offset="00" relocatable="true" max_length="0">
+			<original>Inappropriate/Harmful</original>
+			<edited>Inappropriate/Harmful</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_CATEGORY_HARASSMENT" offset="00" relocatable="true" max_length="0">
+			<original>Hateful/Bullying</original>
+			<edited>Hateful/Bullying</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_CATEGORY_COMMERCIAL" offset="00" relocatable="true" max_length="0">
+			<original>Advertising</original>
+			<edited>Advertising</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_CATEGORY_SEXUALLY_EXPLICIT" offset="00" relocatable="true" max_length="0">
+			<original>Sexually Explicit</original>
+			<edited>Sexually Explicit</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_CATEGORY_OTHER" offset="00" relocatable="true" max_length="0">
+			<original>Other Inappropriate Content</original>
+			<edited>Other Inappropriate Content</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_RESULT" offset="00" relocatable="true" max_length="0">
+			<original>Your report has been sent and will be reviewed.</original>
+			<edited>Your report has been sent and will be reviewed.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Ticket" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; Relay ticket(s) obtained.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; Relay ticket(s) obtained.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Ticket_Stock" offset="00" relocatable="true" max_length="0">
+			<original>Relay Tickets:</original>
+			<edited>Relay Tickets:</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_NewData" offset="00" relocatable="true" max_length="0">
+			<original>New Trial</original>
+			<edited>New Trial</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_H_NewData" offset="00" relocatable="true" max_length="0">
+			<original>Spend a ticket to create data and
+start a trial from the beginning.</original>
+			<edited>Spend a ticket to create data and
+start a trial from the beginning.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_TakeOver_START_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>Start battle? This will lock your units in place.</original>
+			<edited>Start battle? This will lock your units in place.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Unit_Select" offset="00" relocatable="true" max_length="0">
+			<original>Please send &#xE;&#x1;&#x0;&#x0; units to fight. Use Unit Selection
+to pick additional units.</original>
+			<edited>Please send &#xE;&#x1;&#x0;&#x0; units to fight. Use Unit Selection
+to pick additional units.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Ticket_Lack" offset="00" relocatable="true" max_length="0">
+			<original>You need a ticket to start a new trial.</original>
+			<edited>You need a ticket to start a new trial.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Unit_Lack" offset="00" relocatable="true" max_length="0">
+			<original>You do not have enough units.</original>
+			<edited>You do not have enough units.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_TakeOver" offset="00" relocatable="true" max_length="0">
+			<original>Take Over</original>
+			<edited>Take Over</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_H_TakeOver" offset="00" relocatable="true" max_length="0">
+			<original>Take over another player's
+in-progress trial data.</original>
+			<edited>Take over another player's
+in-progress trial data.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_TakeOver_Outline" offset="00" relocatable="true" max_length="0">
+			<original>Trial</original>
+			<edited>Trial</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_TakeOver_Empty" offset="00" relocatable="true" max_length="0">
+			<original>No data to take over.</original>
+			<edited>No data to take over.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Joining_players" offset="00" relocatable="true" max_length="0">
+			<original>Participants</original>
+			<edited>Participants</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_TakeOver_Help" offset="00" relocatable="true" max_length="0">
+			<original>Choose a selection method.</original>
+			<edited>Choose a selection method.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_TakeOver_ID" offset="00" relocatable="true" max_length="0">
+			<original>Takeover ID</original>
+			<edited>Takeover ID</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Random" offset="00" relocatable="true" max_length="0">
+			<original>Random</original>
+			<edited>Random</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_H_Random" offset="00" relocatable="true" max_length="0">
+			<original>Take over a trial chosen at random.</original>
+			<edited>Take over a trial chosen at random.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_ID_Search" offset="00" relocatable="true" max_length="0">
+			<original>Enter ID</original>
+			<edited>Enter ID</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_H_ID_Search" offset="00" relocatable="true" max_length="0">
+			<original>Enter an ID to take over the trial
+data of a specific player.</original>
+			<edited>Enter an ID to take over the trial
+data of a specific player.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_ID_Input" offset="00" relocatable="true" max_length="0">
+			<original>Enter a Takeover ID.</original>
+			<edited>Enter a Takeover ID.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_ID_Search_Attention" offset="00" relocatable="true" max_length="0">
+			<original>Search for this Takeover ID?
+&#xE;&#x1;&#x0;&#x0;</original>
+			<edited>Search for this Takeover ID?
+&#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_ID_Search_OK" offset="00" relocatable="true" max_length="0">
+			<original>Search</original>
+			<edited>Search</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Data_Error" offset="00" relocatable="true" max_length="0">
+			<original>Data not found.</original>
+			<edited>Data not found.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_ID_Search_MyMap_Error" offset="00" relocatable="true" max_length="0">
+			<original>Cannot take over a trial that you started.</original>
+			<edited>Cannot take over a trial that you started.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_ID_Search_Again_Error" offset="00" relocatable="true" max_length="0">
+			<original>Cannot take over a trial that you have already
+participated in.</original>
+			<edited>Cannot take over a trial that you have already
+participated in.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_ID_Search_Finish_Error" offset="00" relocatable="true" max_length="0">
+			<original>Cannot take over a trial that has already ended.</original>
+			<edited>Cannot take over a trial that has already ended.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_ID_Search_Other_Error" offset="00" relocatable="true" max_length="0">
+			<original>Cannot take over a trial that is currently being
+played by someone else. Wait until the results
+have been uploaded or 24 hours have passed.</original>
+			<edited>Cannot take over a trial that is currently being
+played by someone else. Wait until the results
+have been uploaded or 24 hours have passed.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_ID_Search_Error" offset="00" relocatable="true" max_length="0">
+			<original>Cannot take over this trial.</original>
+			<edited>Cannot take over this trial.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_ID_Search_NoData" offset="00" relocatable="true" max_length="0">
+			<original>Failed to obtain data. It may have been deleted
+in the time since the last update.</original>
+			<edited>Failed to obtain data. It may have been deleted
+in the time since the last update.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay" offset="00" relocatable="true" max_length="0">
+			<original>View Results</original>
+			<edited>View Results</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_H_Replay" offset="00" relocatable="true" max_length="0">
+			<original>See the results of battles you took
+part in. Claim rewards and watch
+full or partial replays.</original>
+			<edited>See the results of battles you took
+part in. Claim rewards and watch
+full or partial replays.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Map_Select" offset="00" relocatable="true" max_length="0">
+			<original>Select a map.</original>
+			<edited>Select a map.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_Select" offset="00" relocatable="true" max_length="0">
+			<original>My Battles</original>
+			<edited>My Battles</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_Datetime" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x1;&#x0;/&#xE;&#x1;&#x2;&#x0;/&#xE;&#x1;&#x0;&#x0; &#xE;&#x1;&#x3;&#x0;:&#xE;&#x1;&#x4;&#x0;</original>
+			<edited>&#xE;&#x1;&#x1;&#x0;/&#xE;&#x1;&#x2;&#x0;/&#xE;&#x1;&#x0;&#x0; &#xE;&#x1;&#x3;&#x0;:&#xE;&#x1;&#x4;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_Select_Prompt" offset="00" relocatable="true" max_length="0">
+			<original>Select data to view.</original>
+			<edited>Select data to view.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Reselect" offset="00" relocatable="true" max_length="0">
+			<original>Another player has taken this over.
+Different data will be selected.</original>
+			<edited>Another player has taken this over.
+Different data will be selected.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_Empty" offset="00" relocatable="true" max_length="0">
+			<original>No data is available. (Data is deleted after a
+certain period of time has passed.)</original>
+			<edited>No data is available. (Data is deleted after a
+certain period of time has passed.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_NotUpdate" offset="00" relocatable="true" max_length="0">
+			<original>This data could not be updated because
+another player has taken over.</original>
+			<edited>This data could not be updated because
+another player has taken over.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_NotSeeYet" offset="00" relocatable="true" max_length="0">
+			<original>You have no Relay Trial data available.</original>
+			<edited>You have no Relay Trial data available.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_Beginning_NoFinish" offset="00" relocatable="true" max_length="0">
+			<original>Watch partial replay? (The battle isn't complete
+yet, but you can watch up to the present.)</original>
+			<edited>Watch partial replay? (The battle isn't complete
+yet, but you can watch up to the present.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_Beginning_NoFinish_Yes" offset="00" relocatable="true" max_length="0">
+			<original>Watch</original>
+			<edited>Watch</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_Beginning" offset="00" relocatable="true" max_length="0">
+			<original>Watch replay?</original>
+			<edited>Watch replay?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_Beginning_Yes" offset="00" relocatable="true" max_length="0">
+			<original>Watch</original>
+			<edited>Watch</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_Beginning_No" offset="00" relocatable="true" max_length="0">
+			<original>Results Only</original>
+			<edited>Results Only</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_Reward_Received" offset="00" relocatable="true" max_length="0">
+			<original>You already claimed the reward for this trial.</original>
+			<edited>You already claimed the reward for this trial.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_UpdateContents_Attention" offset="00" relocatable="true" max_length="0">
+			<original>Select a trial data setting:
+Public (anyone can take over your trial)
+Private (an ID is needed to take over your trial)</original>
+			<edited>Select a trial data setting:
+Public (anyone can take over your trial)
+Private (an ID is needed to take over your trial)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_UpdateContents_Yes" offset="00" relocatable="true" max_length="0">
+			<original>Public</original>
+			<edited>Public</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_UpdateContents_No" offset="00" relocatable="true" max_length="0">
+			<original>Private</original>
+			<edited>Private</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_MyMap_ID" offset="00" relocatable="true" max_length="0">
+			<original>The Takeover ID for this trial is:
+&#xE;&#x1;&#x0;&#x0;
+Give this ID to anyone you want to be able
+to take over this trial.</original>
+			<edited>The Takeover ID for this trial is:
+&#xE;&#x1;&#x0;&#x0;
+Give this ID to anyone you want to be able
+to take over this trial.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Redo" offset="00" relocatable="true" max_length="0">
+			<original>Retry connection?</original>
+			<edited>Retry connection?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_PlayUser" offset="00" relocatable="true" max_length="0">
+			<original>Replay of &#xE;&#x1;&#x0;&#x0;'s turns...</original>
+			<edited>Replay of &#xE;&#x1;&#x0;&#x0;'s turns...</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_UserMessage" offset="00" relocatable="true" max_length="0">
+			<original>Message from &#xE;&#x1;&#x0;&#x0;</original>
+			<edited>Message from &#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_PlayerChange" offset="00" relocatable="true" max_length="0">
+			<original>CHANGE PLAYER!</original>
+			<edited>CHANGE PLAYER!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Win" offset="00" relocatable="true" max_length="0">
+			<original>Victory</original>
+			<edited>Victory</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Lose" offset="00" relocatable="true" max_length="0">
+			<original>Defeat</original>
+			<edited>Defeat</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_FinalRecord" offset="00" relocatable="true" max_length="0">
+			<original>Final Results</original>
+			<edited>Final Results</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_UpRoad" offset="00" relocatable="true" max_length="0">
+			<original>This data will be uploaded.</original>
+			<edited>This data will be uploaded.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Failure" offset="00" relocatable="true" max_length="0">
+			<original>TRIAL FAILED</original>
+			<edited>TRIAL FAILED</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_OPEN_N006" offset="00" relocatable="true" max_length="0">
+			<original>You can now select Vicious Volcano
+in Relay Trials.</original>
+			<edited>You can now select Vicious Volcano
+in Relay Trials.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_N001_1" offset="00" relocatable="true" max_length="0">
+			<original>Verdant Plain</original>
+			<edited>Verdant Plain</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_N002_1" offset="00" relocatable="true" max_length="0">
+			<original>Floral Field</original>
+			<edited>Floral Field</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_N003_1" offset="00" relocatable="true" max_length="0">
+			<original>Mountain Peak</original>
+			<edited>Mountain Peak</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_N004_1" offset="00" relocatable="true" max_length="0">
+			<original>Winter Forest</original>
+			<edited>Winter Forest</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_N005_1" offset="00" relocatable="true" max_length="0">
+			<original>Desert Dunes</original>
+			<edited>Desert Dunes</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_N006_1" offset="00" relocatable="true" max_length="0">
+			<original>Vicious Volcano</original>
+			<edited>Vicious Volcano</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_All" offset="00" relocatable="true" max_length="0">
+			<original>All Participants</original>
+			<edited>All Participants</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Regret" offset="00" relocatable="true" max_length="0">
+			<original>Runner-Up</original>
+			<edited>Runner-Up</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Kill" offset="00" relocatable="true" max_length="0">
+			<original>Most Foes Defeated</original>
+			<edited>Most Foes Defeated</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Damage" offset="00" relocatable="true" max_length="0">
+			<original>Most Damage Taken</original>
+			<edited>Most Damage Taken</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Recovered" offset="00" relocatable="true" max_length="0">
+			<original>Most Allies Healed</original>
+			<edited>Most Allies Healed</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Break" offset="00" relocatable="true" max_length="0">
+			<original>Most Foes Broken</original>
+			<edited>Most Foes Broken</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Engage" offset="00" relocatable="true" max_length="0">
+			<original>Most Engages</original>
+			<edited>Most Engages</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Item" offset="00" relocatable="true" max_length="0">
+			<original>Most Items Used</original>
+			<edited>Most Items Used</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Poison" offset="00" relocatable="true" max_length="0">
+			<original>Most Foes Poisoned</original>
+			<edited>Most Foes Poisoned</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_LongWalk" offset="00" relocatable="true" max_length="0">
+			<original>Most Distance Traveled</original>
+			<edited>Most Distance Traveled</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Skill" offset="00" relocatable="true" max_length="0">
+			<original>Most Skills Used</original>
+			<edited>Most Skills Used</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Invisible" offset="00" relocatable="true" max_length="0">
+			<original>No Damage Taken</original>
+			<edited>No Damage Taken</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Critical" offset="00" relocatable="true" max_length="0">
+			<original>Most Critical Hits</original>
+			<edited>Most Critical Hits</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_SpecialAttack" offset="00" relocatable="true" max_length="0">
+			<original>Most Effective Hits</original>
+			<edited>Most Effective Hits</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_EngageAttack" offset="00" relocatable="true" max_length="0">
+			<original>Most Engage Attacks</original>
+			<edited>Most Engage Attacks</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_ChainGuard" offset="00" relocatable="true" max_length="0">
+			<original>Most Chain Guards</original>
+			<edited>Most Chain Guards</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Smash" offset="00" relocatable="true" max_length="0">
+			<original>Most Smash Attacks</original>
+			<edited>Most Smash Attacks</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Adjacent" offset="00" relocatable="true" max_length="0">
+			<original>Most Adjacent Attacks</original>
+			<edited>Most Adjacent Attacks</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Indirect" offset="00" relocatable="true" max_length="0">
+			<original>Most Ranged Attacks</original>
+			<edited>Most Ranged Attacks</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_NoKill" offset="00" relocatable="true" max_length="0">
+			<original>Most Attacks without Defeating Foes</original>
+			<edited>Most Attacks without Defeating Foes</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_ChainAttack" offset="00" relocatable="true" max_length="0">
+			<original>Most Chain Attacks</original>
+			<edited>Most Chain Attacks</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Sabotage_Comment" offset="00" relocatable="true" max_length="0">
+			<original>Least Active</original>
+			<edited>Least Active</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_MyPace" offset="00" relocatable="true" max_length="0">
+			<original>Least Distance Traveled</original>
+			<edited>Least Distance Traveled</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Strike" offset="00" relocatable="true" max_length="0">
+			<original>Least Damage Inflicted</original>
+			<edited>Least Damage Inflicted</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Standby" offset="00" relocatable="true" max_length="0">
+			<original>Most Times Waited</original>
+			<edited>Most Times Waited</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_TroubleMaker" offset="00" relocatable="true" max_length="0">
+			<original>Healed Most by Allies</original>
+			<edited>Healed Most by Allies</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Sabotage_Unlucky" offset="00" relocatable="true" max_length="0">
+			<original>Most Foe Skills Activated</original>
+			<edited>Most Foe Skills Activated</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Kill" offset="00" relocatable="true" max_length="0">
+			<original>Slayer</original>
+			<edited>Slayer</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Damage" offset="00" relocatable="true" max_length="0">
+			<original>Survivor</original>
+			<edited>Survivor</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Recovered" offset="00" relocatable="true" max_length="0">
+			<original>Healing Master</original>
+			<edited>Healing Master</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Break" offset="00" relocatable="true" max_length="0">
+			<original>Breaker</original>
+			<edited>Breaker</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Engage" offset="00" relocatable="true" max_length="0">
+			<original>Engage Master</original>
+			<edited>Engage Master</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Item" offset="00" relocatable="true" max_length="0">
+			<original>Item Master</original>
+			<edited>Item Master</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Poison" offset="00" relocatable="true" max_length="0">
+			<original>Poison Master</original>
+			<edited>Poison Master</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_LongWalk" offset="00" relocatable="true" max_length="0">
+			<original>Runner</original>
+			<edited>Runner</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Skill" offset="00" relocatable="true" max_length="0">
+			<original>Skill Master</original>
+			<edited>Skill Master</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_NoDamage" offset="00" relocatable="true" max_length="0">
+			<original>Untouched</original>
+			<edited>Untouched</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Critical" offset="00" relocatable="true" max_length="0">
+			<original>Critical Hitter</original>
+			<edited>Critical Hitter</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_SpecialAttack" offset="00" relocatable="true" max_length="0">
+			<original>Bane Master</original>
+			<edited>Bane Master</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_EngageAttack" offset="00" relocatable="true" max_length="0">
+			<original>As One</original>
+			<edited>As One</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_ChainGuard" offset="00" relocatable="true" max_length="0">
+			<original>Guardian</original>
+			<edited>Guardian</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Smash" offset="00" relocatable="true" max_length="0">
+			<original>Smasher</original>
+			<edited>Smasher</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Adjacent" offset="00" relocatable="true" max_length="0">
+			<original>Aggressor</original>
+			<edited>Aggressor</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Indirect" offset="00" relocatable="true" max_length="0">
+			<original>Sharpshooter</original>
+			<edited>Sharpshooter</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_NoKill" offset="00" relocatable="true" max_length="0">
+			<original>Assistant</original>
+			<edited>Assistant</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_ChainAttack" offset="00" relocatable="true" max_length="0">
+			<original>Chain Attacker</original>
+			<edited>Chain Attacker</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Sabotage" offset="00" relocatable="true" max_length="0">
+			<original>Cautious</original>
+			<edited>Cautious</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_EnergySaving" offset="00" relocatable="true" max_length="0">
+			<original>Slowpoke</original>
+			<edited>Slowpoke</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Peace" offset="00" relocatable="true" max_length="0">
+			<original>Softy</original>
+			<edited>Softy</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Standby" offset="00" relocatable="true" max_length="0">
+			<original>Wanderer</original>
+			<edited>Wanderer</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Protected" offset="00" relocatable="true" max_length="0">
+			<original>Troublemaker</original>
+			<edited>Troublemaker</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_SkillTarget" offset="00" relocatable="true" max_length="0">
+			<original>Cursed Target</original>
+			<edited>Cursed Target</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Message" offset="00" relocatable="true" max_length="0">
+			<original>Messages for the next player.</original>
+			<edited>Messages for the next player.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Lueur_M_0" offset="00" relocatable="true" max_length="0">
+			<original>I leave the rest to you.</original>
+			<edited>I leave the rest to you.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Lueur_F_0" offset="00" relocatable="true" max_length="0">
+			<original>A pleasure to work with you.</original>
+			<edited>A pleasure to work with you.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Vandre_0" offset="00" relocatable="true" max_length="0">
+			<original>Please proceed with caution. </original>
+			<edited>Please proceed with caution. </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Clan_0" offset="00" relocatable="true" max_length="0">
+			<original>That was tough. I feel faint!</original>
+			<edited>That was tough. I feel faint!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Fram_0" offset="00" relocatable="true" max_length="0">
+			<original>Hoping for a miracle!</original>
+			<edited>Hoping for a miracle!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Alfred_0" offset="00" relocatable="true" max_length="0">
+			<original>Check out my results!</original>
+			<edited>Check out my results!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Boucheron_0" offset="00" relocatable="true" max_length="0">
+			<original>I'm getting a little misty...</original>
+			<edited>I'm getting a little misty...</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Etie_0" offset="00" relocatable="true" max_length="0">
+			<original>Ready to get this done?</original>
+			<edited>Ready to get this done?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Celine_0" offset="00" relocatable="true" max_length="0">
+			<original>I require your strength.</original>
+			<edited>I require your strength.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Louis_0" offset="00" relocatable="true" max_length="0">
+			<original>I'll have my eye on you.</original>
+			<edited>I'll have my eye on you.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Chloe_0" offset="00" relocatable="true" max_length="0">
+			<original>So many possibilities!</original>
+			<edited>So many possibilities!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Diamand_0" offset="00" relocatable="true" max_length="0">
+			<original>Together we'll get through it.</original>
+			<edited>Together we'll get through it.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Umber_0" offset="00" relocatable="true" max_length="0">
+			<original>We're gonna be legends!</original>
+			<edited>We're gonna be legends!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Jade_0" offset="00" relocatable="true" max_length="0">
+			<original>Things are getting interesting.</original>
+			<edited>Things are getting interesting.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Staluke_0" offset="00" relocatable="true" max_length="0">
+			<original>This is terrible. I'm so sorry...</original>
+			<edited>This is terrible. I'm so sorry...</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Lapis_0" offset="00" relocatable="true" max_length="0">
+			<original>Strength is what we need.</original>
+			<edited>Strength is what we need.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Citrinica_0" offset="00" relocatable="true" max_length="0">
+			<original>You have my full support.</original>
+			<edited>You have my full support.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Ivy_0" offset="00" relocatable="true" max_length="0">
+			<original>I believe in you.</original>
+			<edited>I believe in you.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Zelkova_0" offset="00" relocatable="true" max_length="0">
+			<original>What do you *think* of this?</original>
+			<edited>What do you *think* of this?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Kagetsu_0" offset="00" relocatable="true" max_length="0">
+			<original>I am relying on you, friend!</original>
+			<edited>I am relying on you, friend!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Hortensia_0" offset="00" relocatable="true" max_length="0">
+			<original>You better come back safe!</original>
+			<edited>You better come back safe!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Rosado_0" offset="00" relocatable="true" max_length="0">
+			<original>I think I overdid it a little.</original>
+			<edited>I think I overdid it a little.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Goldmary_0" offset="00" relocatable="true" max_length="0">
+			<original>Sorry if this intimidates you.</original>
+			<edited>Sorry if this intimidates you.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Misutira_0" offset="00" relocatable="true" max_length="0">
+			<original>This'll be an easy win!</original>
+			<edited>This'll be an easy win!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Merin_0" offset="00" relocatable="true" max_length="0">
+			<original>Yeah, I've got moves.</original>
+			<edited>Yeah, I've got moves.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Panetone_0" offset="00" relocatable="true" max_length="0">
+			<original>You must press the attack!</original>
+			<edited>You must press the attack!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Fogato_0" offset="00" relocatable="true" max_length="0">
+			<original>You're awesome!</original>
+			<edited>You're awesome!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Pandoro_0" offset="00" relocatable="true" max_length="0">
+			<original>AWOOOOO!</original>
+			<edited>AWOOOOO!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Bonet_0" offset="00" relocatable="true" max_length="0">
+			<original>What a delightful appetizer.</original>
+			<edited>What a delightful appetizer.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Anna_0" offset="00" relocatable="true" max_length="0">
+			<original>I threw in something extra!</original>
+			<edited>I threw in something extra!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Jean_0" offset="00" relocatable="true" max_length="0">
+			<original>I'm counting on you.</original>
+			<edited>I'm counting on you.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Yunaka_0" offset="00" relocatable="true" max_length="0">
+			<original>Zappy! It's all you from here!</original>
+			<edited>Zappy! It's all you from here!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Seadas_0" offset="00" relocatable="true" max_length="0">
+			<original>The stage is yours now.</original>
+			<edited>The stage is yours now.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Linden_0" offset="00" relocatable="true" max_length="0">
+			<original>My experiment went wrong...</original>
+			<edited>My experiment went wrong...</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Saphir_0" offset="00" relocatable="true" max_length="0">
+			<original>We'll need better tactics...</original>
+			<edited>We'll need better tactics...</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Veyre_0" offset="00" relocatable="true" max_length="0">
+			<original>I did the best I could.</original>
+			<edited>I did the best I could.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Mauve_0" offset="00" relocatable="true" max_length="0">
+			<original>I'm sorry. It's up to you now.</original>
+			<edited>I'm sorry. It's up to you now.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Lumiere_0" offset="00" relocatable="true" max_length="0">
+			<original>Stay safe, all right?</original>
+			<edited>Stay safe, all right?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Marth_0" offset="00" relocatable="true" max_length="0">
+			<original>Engage!</original>
+			<edited>Engage!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Celica_0" offset="00" relocatable="true" max_length="0">
+			<original>Oh, I detest violence...</original>
+			<edited>Oh, I detest violence...</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Siglud_0" offset="00" relocatable="true" max_length="0">
+			<original>I have no regrets.</original>
+			<edited>I have no regrets.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Leaf_0" offset="00" relocatable="true" max_length="0">
+			<original>We will overcome.</original>
+			<edited>We will overcome.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Roy_0" offset="00" relocatable="true" max_length="0">
+			<original>Now the real battle begins.</original>
+			<edited>Now the real battle begins.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Lin_0" offset="00" relocatable="true" max_length="0">
+			<original>Let the wind be at your back.</original>
+			<edited>Let the wind be at your back.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Eirik_0" offset="00" relocatable="true" max_length="0">
+			<original>I wish you the best of luck.</original>
+			<edited>I wish you the best of luck.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Ike_0" offset="00" relocatable="true" max_length="0">
+			<original>Don't let your friends down.</original>
+			<edited>Don't let your friends down.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Micaiah_0" offset="00" relocatable="true" max_length="0">
+			<original>Pleased to work with you.</original>
+			<edited>Pleased to work with you.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Lucina_0" offset="00" relocatable="true" max_length="0">
+			<original>We'll challenge our fate!</original>
+			<edited>We'll challenge our fate!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Kamui_0" offset="00" relocatable="true" max_length="0">
+			<original>I know you can do this.</original>
+			<edited>I know you can do this.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Byleth_0" offset="00" relocatable="true" max_length="0">
+			<original>Remember all you've learned.</original>
+			<edited>Remember all you've learned.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RANKING_Title" offset="00" relocatable="true" max_length="0">
+			<original>Rankings</original>
+			<edited>Rankings</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_RANKING_Title" offset="00" relocatable="true" max_length="0">
+			<original>View deployment rankings.</original>
+			<edited>View deployment rankings.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RANKING_First" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RANKING_Second" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RANKING_Third" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RANKING_Other" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RANKING_Fail" offset="00" relocatable="true" max_length="0">
+			<original>Failed to retrieve ranking data. </original>
+			<edited>Failed to retrieve ranking data. </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_EXP_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>EXP</original>
+			<edited>EXP</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_MapSelect_Help" offset="00" relocatable="true" max_length="0">
+			<original>Select a map you want to attempt.</original>
+			<edited>Select a map you want to attempt.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_MapSelect_MenuCaption" offset="00" relocatable="true" max_length="0">
+			<original>Trial Map</original>
+			<edited>Trial Map</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_MapInfo_N_Battles" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; Battles</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; Battles</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_MapInfo_BestRecort" offset="00" relocatable="true" max_length="0">
+			<original>High Score</original>
+			<edited>High Score</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_MapInfo_Turn" offset="00" relocatable="true" max_length="0">
+			<original>Turns</original>
+			<edited>Turns</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_MapInfo_Materials" offset="00" relocatable="true" max_length="0">
+			<original>Bonus Materials</original>
+			<edited>Bonus Materials</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_DifficultyMenu_Help" offset="00" relocatable="true" max_length="0">
+			<original>Select a difficulty level.</original>
+			<edited>Select a difficulty level.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_DifficultyMenu_Recommended" offset="00" relocatable="true" max_length="0">
+			<original>Recommended: &#xE;&#x1;&#x0;&#x0;</original>
+			<edited>Recommended: &#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_DifficultyMenu_Difficulty" offset="00" relocatable="true" max_length="0">
+			<original>Difficulty</original>
+			<edited>Difficulty</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_DifficultyMenu_Start" offset="00" relocatable="true" max_length="0">
+			<original>Fight!</original>
+			<edited>Fight!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_Start_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>Spend 1 ticket to start the battle?
+You have &#xE;&#x1;&#x0;&#x0; ticket(s).</original>
+			<edited>Spend 1 ticket to start the battle?
+You have &#xE;&#x1;&#x0;&#x0; ticket(s).</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_GiveUp" offset="00" relocatable="true" max_length="0">
+			<original>Give Up</original>
+			<edited>Give Up</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_H_GiveUp" offset="00" relocatable="true" max_length="0">
+			<original>End the trial and return to
+the menu.</original>
+			<edited>End the trial and return to
+the menu.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_GiveUp_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>End the trial and return to the menu? You
+won't get the rewards for completing it,
+but you will get experience for the maps
+you cleared.</original>
+			<edited>End the trial and return to the menu? You
+won't get the rewards for completing it,
+but you will get experience for the maps
+you cleared.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_Confirm" offset="00" relocatable="true" max_length="0">
+			<original>Start &#xE;&#x1;&#x0;&#x0; at Difficulty &#xE;&#x1;&#x1;&#x0;?</original>
+			<edited>Start &#xE;&#x1;&#x0;&#x0; at Difficulty &#xE;&#x1;&#x1;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_MAP1" offset="00" relocatable="true" max_length="0">
+			<original>First Battle</original>
+			<edited>First Battle</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_MAP2" offset="00" relocatable="true" max_length="0">
+			<original>Second Battle</original>
+			<edited>Second Battle</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_MAP3" offset="00" relocatable="true" max_length="0">
+			<original>Final Battle</original>
+			<edited>Final Battle</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_Get_Item" offset="00" relocatable="true" max_length="0">
+			<original>-</original>
+			<edited>-</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_Get_EXP" offset="00" relocatable="true" max_length="0">
+			<original>EXP Obtained</original>
+			<edited>EXP Obtained</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_Join_MAP1" offset="00" relocatable="true" max_length="0">
+			<original>Join Battle 1</original>
+			<edited>Join Battle 1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_Join_MAP2" offset="00" relocatable="true" max_length="0">
+			<original>Join Battle 2</original>
+			<edited>Join Battle 2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_Join_MAP3" offset="00" relocatable="true" max_length="0">
+			<original>Join Battle 3</original>
+			<edited>Join Battle 3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_Get_SP" offset="00" relocatable="true" max_length="0">
+			<original>Books Obtained</original>
+			<edited>Books Obtained</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_OPEN_LEVEL41" offset="00" relocatable="true" max_length="0">
+			<original>Difficulty levels 41+ for Relay Trials
+are now unlocked.</original>
+			<edited>Difficulty levels 41+ for Relay Trials
+are now unlocked.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_C001_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Verdant Plain</original>
+			<edited>Verdant Plain</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_C002_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Floral Field</original>
+			<edited>Floral Field</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_C003_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Mountain Peak</original>
+			<edited>Mountain Peak</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_C004_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Winter Forest</original>
+			<edited>Winter Forest</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_C005_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Desert Dunes</original>
+			<edited>Desert Dunes</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_C006_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Vicious Volcano</original>
+			<edited>Vicious Volcano</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Ticket_Music" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x8;&#x2;&#x18;&#x16;&#x0;S&#x0;o&#x0;u&#x0;n&#x0;d&#x0;T&#x0;i&#x0;c&#x0;k&#x0;e&#x0;t&#x0; Music ticket obtained.</original>
+			<edited>&#xE;&#x8;&#x2;&#x18;&#x16;&#x0;S&#x0;o&#x0;u&#x0;n&#x0;d&#x0;T&#x0;i&#x0;c&#x0;k&#x0;e&#x0;t&#x0; Music ticket obtained.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Ticket_Accessories" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x8;&#x2;&#x14;&#x12;&#x0;A&#x0;c&#x0;c&#x0;T&#x0;i&#x0;c&#x0;k&#x0;e&#x0;t&#x0; Fashion ticket obtained.</original>
+			<edited>&#xE;&#x8;&#x2;&#x14;&#x12;&#x0;A&#x0;c&#x0;c&#x0;T&#x0;i&#x0;c&#x0;k&#x0;e&#x0;t&#x0; Fashion ticket obtained.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Touch_Count" offset="00" relocatable="true" max_length="0">
+			<original>You have &#xE;&#x1;&#x0;&#x0; out of 5 scans remaining.</original>
+			<edited>You have &#xE;&#x1;&#x0;&#x0; out of 5 scans remaining.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Touch_Interval" offset="00" relocatable="true" max_length="0">
+			<original>Scans will refresh in &#xE;&#x1;&#x0;&#x0; hour(s)
+and &#xE;&#x1;&#x1;&#x0; minute(s).</original>
+			<edited>Scans will refresh in &#xE;&#x1;&#x0;&#x0; hour(s)
+and &#xE;&#x1;&#x1;&#x0; minute(s).</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Touch" offset="00" relocatable="true" max_length="0">
+			<original>Please scan your amiibo.</original>
+			<edited>Please scan your amiibo.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Accessories_Attention" offset="00" relocatable="true" max_length="0">
+			<original>Not Available to This Unit</original>
+			<edited>Not Available to This Unit</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Trade_Ticket" offset="00" relocatable="true" max_length="0">
+			<original>Exchange for &#xE;&#x1;&#x0;&#x0;?
+(Uses 1 ticket. Current number of tickets: &#xE;&#x1;&#x1;&#x0;)</original>
+			<edited>Exchange for &#xE;&#x1;&#x0;&#x0;?
+(Uses 1 ticket. Current number of tickets: &#xE;&#x1;&#x1;&#x0;)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Trade_Ticket_Use" offset="00" relocatable="true" max_length="0">
+			<original>Use Ticket</original>
+			<edited>Use Ticket</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Trade_Ticket_Have" offset="00" relocatable="true" max_length="0">
+			<original>Current Tickets</original>
+			<edited>Current Tickets</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Trade_Music_Select" offset="00" relocatable="true" max_length="0">
+			<original>Select music.</original>
+			<edited>Select music.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Trade_Ticket_Music" offset="00" relocatable="true" max_length="0">
+			<original>Music Ticket</original>
+			<edited>Music Ticket</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Music" offset="00" relocatable="true" max_length="0">
+			<original>Music</original>
+			<edited>Music</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Trade_Accessories_Select" offset="00" relocatable="true" max_length="0">
+			<original>Select outfit.</original>
+			<edited>Select outfit.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Trade_Ticket_Accessories" offset="00" relocatable="true" max_length="0">
+			<original>Fashion Ticket</original>
+			<edited>Fashion Ticket</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Accessories" offset="00" relocatable="true" max_length="0">
+			<original>Fashion</original>
+			<edited>Fashion</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Trade_Nothing" offset="00" relocatable="true" max_length="0">
+			<original>Nothing</original>
+			<edited>Nothing</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Trade_Information" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; is out of stock. Your tickets will
+be exchanged for bond fragments.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; is out of stock. Your tickets will
+be exchanged for bond fragments.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

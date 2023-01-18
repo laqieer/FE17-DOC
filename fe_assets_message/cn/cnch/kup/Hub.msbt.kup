@@ -1,0 +1,2781 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_Hub_ThisTime" offset="00" relocatable="true" max_length="0">
+			<original>当前时段</original>
+			<edited>当前时段</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Time_Morning" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x8;&#x2;&#x10;&#xE;&#x0;M&#x0;o&#x0;r&#x0;n&#x0;i&#x0;n&#x0;g&#x0;早晨</original>
+			<edited>&#xE;&#x8;&#x2;&#x10;&#xE;&#x0;M&#x0;o&#x0;r&#x0;n&#x0;i&#x0;n&#x0;g&#x0;早晨</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Time_Noon" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x8;&#x2;&#x8;&#x6;&#x0;D&#x0;a&#x0;y&#x0;白天</original>
+			<edited>&#xE;&#x8;&#x2;&#x8;&#x6;&#x0;D&#x0;a&#x0;y&#x0;白天</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Time_Evening" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x8;&#x2;&#x10;&#xE;&#x0;E&#x0;v&#x0;e&#x0;n&#x0;i&#x0;n&#x0;g&#x0;傍晚</original>
+			<edited>&#xE;&#x8;&#x2;&#x10;&#xE;&#x0;E&#x0;v&#x0;e&#x0;n&#x0;i&#x0;n&#x0;g&#x0;傍晚</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Time_Night" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x8;&#x2;&#xC;
+&#x0;N&#x0;i&#x0;g&#x0;h&#x0;t&#x0;夜间</original>
+			<edited>&#xE;&#x8;&#x2;&#xC;
+&#x0;N&#x0;i&#x0;g&#x0;h&#x0;t&#x0;夜间</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Move" offset="00" relocatable="true" max_length="0">
+			<original>前往</original>
+			<edited>前往</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Enter" offset="00" relocatable="true" max_length="0">
+			<original>进入</original>
+			<edited>进入</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Talk" offset="00" relocatable="true" max_length="0">
+			<original>对话</original>
+			<edited>对话</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Check" offset="00" relocatable="true" max_length="0">
+			<original>查看</original>
+			<edited>查看</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Cleaning_Brush" offset="00" relocatable="true" max_length="0">
+			<original>研磨</original>
+			<edited>研磨</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Cleaning_BrushStrong" offset="00" relocatable="true" max_length="0">
+			<original>用力研磨</original>
+			<edited>用力研磨</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Cleaning_Stop" offset="00" relocatable="true" max_length="0">
+			<original>结束</original>
+			<edited>结束</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Unknown" offset="00" relocatable="true" max_length="0">
+			<original>？？？</original>
+			<edited>？？？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_WeaponShop" offset="00" relocatable="true" max_length="0">
+			<original>武器店</original>
+			<edited>武器店</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_ItemShop" offset="00" relocatable="true" max_length="0">
+			<original>道具店</original>
+			<edited>道具店</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Blacksmith" offset="00" relocatable="true" max_length="0">
+			<original>锻造店</original>
+			<edited>锻造店</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_AccessoryShop" offset="00" relocatable="true" max_length="0">
+			<original>装饰品店</original>
+			<edited>装饰品店</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot" offset="00" relocatable="true" max_length="0">
+			<original>神秘祭坛</original>
+			<edited>神秘祭坛</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_After" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x5;&#x0;的祭坛</original>
+			<edited>&#xE;&#x6;&#x5;&#x0;的祭坛</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_FortuneStore" offset="00" relocatable="true" max_length="0">
+			<original>占卜小屋</original>
+			<edited>占卜小屋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_FreeMarket" offset="00" relocatable="true" max_length="0">
+			<original>跳蚤市场</original>
+			<edited>跳蚤市场</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Photoshop" offset="00" relocatable="true" max_length="0">
+			<original>活动记录馆</original>
+			<edited>活动记录馆</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_amiibo" offset="00" relocatable="true" max_length="0">
+			<original>amiibo SPOT</original>
+			<edited>amiibo SPOT</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Hub_amiibo" offset="00" relocatable="true" max_length="0">
+			<original>请选择要采取的行动。</original>
+			<edited>请选择要采取的行动。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_amiibo_Read" offset="00" relocatable="true" max_length="0">
+			<original>读取</original>
+			<edited>读取</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_amiibo_Accessory_Trade" offset="00" relocatable="true" max_length="0">
+			<original>交换服装</original>
+			<edited>交换服装</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_amiibo_Music_Trade" offset="00" relocatable="true" max_length="0">
+			<original>交换音乐</original>
+			<edited>交换音乐</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Animal" offset="00" relocatable="true" max_length="0">
+			<original>动物小屋</original>
+			<edited>动物小屋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Here_Unit" offset="00" relocatable="true" max_length="0">
+			<original>附近的人物</original>
+			<edited>附近的人物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Area_List" offset="00" relocatable="true" max_length="0">
+			<original>区域一览</original>
+			<edited>区域一览</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Area_News" offset="00" relocatable="true" max_length="0">
+			<original>通知</original>
+			<edited>通知</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Area_News_Nothing" offset="00" relocatable="true" max_length="0">
+			<original>没有任何通知</original>
+			<edited>没有任何通知</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Area_Open" offset="00" relocatable="true" max_length="0">
+			<original>NEW</original>
+			<edited>NEW</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Area_NewItem" offset="00" relocatable="true" max_length="0">
+			<original>新商品进货</original>
+			<edited>新商品进货</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Area_NewSystem" offset="00" relocatable="true" max_length="0">
+			<original>功能解锁</original>
+			<edited>功能解锁</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Area_NewLevel" offset="00" relocatable="true" max_length="0">
+			<original>新增难度</original>
+			<edited>新增难度</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Area_Count" offset="00" relocatable="true" max_length="0">
+			<original>还剩&#xE;&#x1;&#x0;&#x0;次</original>
+			<edited>还剩&#xE;&#x1;&#x0;&#x0;次</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Area_NewStage" offset="00" relocatable="true" max_length="0">
+			<original>新增连战地图</original>
+			<edited>新增连战地图</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Next" offset="00" relocatable="true" max_length="0">
+			<original>继续前进</original>
+			<edited>继续前进</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Next_Move" offset="00" relocatable="true" max_length="0">
+			<original>前往</original>
+			<edited>前往</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Next_Confirm" offset="00" relocatable="true" max_length="0">
+			<original>要继续前进吗？</original>
+			<edited>要继续前进吗？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Next_Confirm_Where" offset="00" relocatable="true" max_length="0">
+			<original>要移动到哪里？</original>
+			<edited>要移动到哪里？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Next_Confirm_Solanel" offset="00" relocatable="true" max_length="0">
+			<original>前往索拉涅尔</original>
+			<edited>前往索拉涅尔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Next_Confirm_Gmap" offset="00" relocatable="true" max_length="0">
+			<original>前往世界地图</original>
+			<edited>前往世界地图</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Next_Go" offset="00" relocatable="true" max_length="0">
+			<original>前进</original>
+			<edited>前进</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Confirm_Cancel" offset="00" relocatable="true" max_length="0">
+			<original>留在原地</original>
+			<edited>留在原地</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Gmap" offset="00" relocatable="true" max_length="0">
+			<original>前往世界地图</original>
+			<edited>前往世界地图</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Gmap_Confirm" offset="00" relocatable="true" max_length="0">
+			<original>要前往世界地图吗？</original>
+			<edited>要前往世界地图吗？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_M026" offset="00" relocatable="true" max_length="0">
+			<original>前往最终决战</original>
+			<edited>前往最终决战</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Solanel" offset="00" relocatable="true" max_length="0">
+			<original>索拉涅尔</original>
+			<edited>索拉涅尔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_OtherWorld_Confirm" offset="00" relocatable="true" max_length="0">
+			<original>要前往“异界之门”吗？</original>
+			<edited>要前往“异界之门”吗？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_OtherWorld_Go" offset="00" relocatable="true" max_length="0">
+			<original>前往</original>
+			<edited>前往</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MyRoom" offset="00" relocatable="true" max_length="0">
+			<original>我的房间</original>
+			<edited>我的房间</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Hub_MyRoom" offset="00" relocatable="true" max_length="0">
+			<original>神龙专用的寝室。
+在这里能回顾游戏中的点滴或休息片刻。</original>
+			<edited>神龙专用的寝室。
+在这里能回顾游戏中的点滴或休息片刻。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_GodRoom" offset="00" relocatable="true" max_length="0">
+			<original>纹章士之间</original>
+			<edited>纹章士之间</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Hub_GodRoom" offset="00" relocatable="true" max_length="0">
+			<original>保管已获得的纹章士戒指&#xE;&#x1;&#x8;&#x0;的房间。
+在此能进行纹章士的特技继承或精炼牵绊戒指。</original>
+			<edited>保管已获得的纹章士戒指&#xE;&#x1;&#x8;&#x0;的房间。
+在此能进行纹章士的特技继承或精炼牵绊戒指。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Cafe" offset="00" relocatable="true" max_length="0">
+			<original>开放式茶座</original>
+			<edited>开放式茶座</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Hub_Cafe" offset="00" relocatable="true" max_length="0">
+			<original>附设餐厅的公共休息空间。
+在此能向掌厨点餐，与喜欢的伙伴一起享用。</original>
+			<edited>附设餐厅的公共休息空间。
+在此能向掌厨点餐，与喜欢的伙伴一起享用。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena" offset="00" relocatable="true" max_length="0">
+			<original>锻炼之间</original>
+			<edited>锻炼之间</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Hub_Arena" offset="00" relocatable="true" max_length="0">
+			<original>与外界隔绝的异世界空间。
+在这里能与伙伴或纹章士进行训练来获得经验值。</original>
+			<edited>与外界隔绝的异世界空间。
+在这里能与伙伴或纹章士进行训练来获得经验值。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_Closed" offset="00" relocatable="true" max_length="0">
+			<original>门紧闭着……</original>
+			<edited>门紧闭着……</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Tower" offset="00" relocatable="true" max_length="0">
+			<original>试炼别屋</original>
+			<edited>试炼别屋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Hub_Tower" offset="00" relocatable="true" max_length="0">
+			<original>位于海角的一座小别屋。
+在此能于短时间内穿越时空，挑战各种试炼。</original>
+			<edited>位于海角的一座小别屋。
+在此能于短时间内穿越时空，挑战各种试炼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CentralStores" offset="00" relocatable="true" max_length="0">
+			<original>入口</original>
+			<edited>入口</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Hub_CentralStores" offset="00" relocatable="true" max_length="0">
+			<original>进出索拉涅尔的入口。
+是商店林立的中央广场。</original>
+			<edited>进出索拉涅尔的入口。
+是商店林立的中央广场。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Poolside" offset="00" relocatable="true" max_length="0">
+			<original>泳池边</original>
+			<edited>泳池边</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Hub_Poolside" offset="00" relocatable="true" max_length="0">
+			<original>优雅的私人水池。
+战斗之余，伙伴会聚在这里休息。</original>
+			<edited>优雅的私人水池。
+战斗之余，伙伴会聚在这里休息。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Orchard" offset="00" relocatable="true" max_length="0">
+			<original>果树园</original>
+			<edited>果树园</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Hub_Orchard" offset="00" relocatable="true" max_length="0">
+			<original>一座小型农场。
+在此能采集到于开放式茶座烹调时所需的食材。</original>
+			<edited>一座小型农场。
+在此能采集到于开放式茶座烹调时所需的食材。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Pond" offset="00" relocatable="true" max_length="0">
+			<original>涌泉池畔</original>
+			<edited>涌泉池畔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Hub_Pond" offset="00" relocatable="true" max_length="0">
+			<original>一座神奇的池塘。
+栖息着各种鱼类及其他生物。</original>
+			<edited>一座神奇的池塘。
+栖息着各种鱼类及其他生物。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_TrainingSpot" offset="00" relocatable="true" max_length="0">
+			<original>后院</original>
+			<edited>后院</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Hub_TrainingSpot" offset="00" relocatable="true" max_length="0">
+			<original>位于闹市区外的宁静庭院。
+可以在这里和伙伴一同进行特训或参加各种有趣的挑战。</original>
+			<edited>位于闹市区外的宁静庭院。
+可以在这里和伙伴一同进行特训或参加各种有趣的挑战。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Farm" offset="00" relocatable="true" max_length="0">
+			<original>牧场</original>
+			<edited>牧场</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Hub_Farm" offset="00" relocatable="true" max_length="0">
+			<original>开放式空间、适合放养的广场。
+用来管理在艾雷欧斯大陆发现的动物。
+</original>
+			<edited>开放式空间、适合放养的广场。
+用来管理在艾雷欧斯大陆发现的动物。
+</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_GoodViewSpot" offset="00" relocatable="true" max_length="0">
+			<original>眺望之丘</original>
+			<edited>眺望之丘</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Hub_GoodViewSpot" offset="00" relocatable="true" max_length="0">
+			<original>视野辽阔，适合眺望天空的高地。
+十分安静且清幽的场所。</original>
+			<edited>视野辽阔，适合眺望天空的高地。
+十分安静且清幽的场所。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Cave" offset="00" relocatable="true" max_length="0">
+			<original>钟乳洞</original>
+			<edited>钟乳洞</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Hub_Cave" offset="00" relocatable="true" max_length="0">
+			<original>贯穿索拉涅尔地底的神秘洞窟。
+里面十分凉爽，设有不知祭祀何人的祭坛。</original>
+			<edited>贯穿索拉涅尔地底的神秘洞窟。
+里面十分凉爽，设有不知祭祀何人的祭坛。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MyRoom_Chest" offset="00" relocatable="true" max_length="0">
+			<original>我的柜子</original>
+			<edited>我的柜子</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_MyRoom_Chest_Nothing" offset="00" relocatable="true" max_length="0">
+			<original>这个柜子似乎能用来保管珍贵物品。</original>
+			<edited>这个柜子似乎能用来保管珍贵物品。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_MyRoom_Chest_Ring_PickUp" offset="00" relocatable="true" max_length="0">
+			<original>是否要取出柜子中的“约定戒指”？</original>
+			<edited>是否要取出柜子中的“约定戒指”？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MyRoom_Chest_Ring_PickUp" offset="00" relocatable="true" max_length="0">
+			<original>（在我的床上休息后，
+索拉涅尔中出现的伙伴会有所变更，
+若找不到想送出戒指的对象，可以一试。）</original>
+			<edited>（在我的床上休息后，
+索拉涅尔中出现的伙伴会有所变更，
+若找不到想送出戒指的对象，可以一试。）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_MyRoom_Chest_Ring_PickUp_Yes" offset="00" relocatable="true" max_length="0">
+			<original>取出戒指</original>
+			<edited>取出戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_MyRoom_Chest_Ring_Return" offset="00" relocatable="true" max_length="0">
+			<original>是否要将戒指收到柜子中？</original>
+			<edited>是否要将戒指收到柜子中？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_MyRoom_Chest_Ring_Return_Yes" offset="00" relocatable="true" max_length="0">
+			<original>收起戒指</original>
+			<edited>收起戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MyRoom_Bed" offset="00" relocatable="true" max_length="0">
+			<original>我的床</original>
+			<edited>我的床</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MyRoom_Bed_TitleHelp" offset="00" relocatable="true" max_length="0">
+			<original>请选择要采取的行动。</original>
+			<edited>请选择要采取的行动。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MyRoom_MovieChoice" offset="00" relocatable="true" max_length="0">
+			<original>请选择要播放的影片。</original>
+			<edited>请选择要播放的影片。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MyRoom_SoundChoice" offset="00" relocatable="true" max_length="0">
+			<original>请选择要播放的音乐。</original>
+			<edited>请选择要播放的音乐。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MyRoom_SoundChoice_Stopping" offset="00" relocatable="true" max_length="0">
+			<original>停止播放</original>
+			<edited>停止播放</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MyRoom_SoundChoice_Playing" offset="00" relocatable="true" max_length="0">
+			<original>正在播放：&#xE;&#x1;&#x0;&#x0;</original>
+			<edited>正在播放：&#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Bed_Sleep" offset="00" relocatable="true" max_length="0">
+			<original>休息</original>
+			<edited>休息</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Bed_Sleep_CameHere" offset="00" relocatable="true" max_length="0">
+			<original>好像有人来了……</original>
+			<edited>好像有人来了……</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Bed_Sleep_Guide" offset="00" relocatable="true" max_length="0">
+			<original>要躺在床上休息片刻吗？
+（会稍微推进索拉涅尔的时间）</original>
+			<edited>要躺在床上休息片刻吗？
+（会稍微推进索拉涅尔的时间）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Bed_Sleep_Yes" offset="00" relocatable="true" max_length="0">
+			<original>休息</original>
+			<edited>休息</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Bed_Recall" offset="00" relocatable="true" max_length="0">
+			<original>回忆</original>
+			<edited>回忆</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Bed_Recall_Wakeup" offset="00" relocatable="true" max_length="0">
+			<original>唤醒对话</original>
+			<edited>唤醒对话</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Bed_Recall_Wakeup_List" offset="00" relocatable="true" max_length="0">
+			<original>唤醒对话一览</original>
+			<edited>唤醒对话一览</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Bed_Recall_Movie" offset="00" relocatable="true" max_length="0">
+			<original>影片鉴赏</original>
+			<edited>影片鉴赏</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Bed_Recall_MovieList" offset="00" relocatable="true" max_length="0">
+			<original>影片一览</original>
+			<edited>影片一览</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Bed_Recall_Music" offset="00" relocatable="true" max_length="0">
+			<original>音乐鉴赏</original>
+			<edited>音乐鉴赏</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Bed_Difficulty_Change" offset="00" relocatable="true" max_length="0">
+			<original>更改难度</original>
+			<edited>更改难度</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Bed_Difficulty_Change_Confirm" offset="00" relocatable="true" max_length="0">
+			<original>是否更改游戏难度？
+（仅限降低难度，
+降低后无法恢复成原本的难度。）</original>
+			<edited>是否更改游戏难度？
+（仅限降低难度，
+降低后无法恢复成原本的难度。）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Bed_Difficulty_Change_Before" offset="00" relocatable="true" max_length="0">
+			<original>当前难度</original>
+			<edited>当前难度</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Bed_Difficulty_Change_After" offset="00" relocatable="true" max_length="0">
+			<original>更改后的难度</original>
+			<edited>更改后的难度</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Bed_Difficulty_Change_Yes" offset="00" relocatable="true" max_length="0">
+			<original>更改</original>
+			<edited>更改</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Bed_Difficulty_Change_Dialog" offset="00" relocatable="true" max_length="0">
+			<original>已将难度更改为“&#xE;&#x1;&#x0;&#x0;”。</original>
+			<edited>已将难度更改为“&#xE;&#x1;&#x0;&#x0;”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Bed_Difficulty_Change_NG" offset="00" relocatable="true" max_length="0">
+			<original>无法更改普通难度。</original>
+			<edited>无法更改普通难度。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MyRoom_Piano" offset="00" relocatable="true" max_length="0">
+			<original>我的钢琴</original>
+			<edited>我的钢琴</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MyRoom_Piano_Release" offset="00" relocatable="true" max_length="0">
+			<original>现在可以使用据点内
+我的房间里的钢琴了！</original>
+			<edited>现在可以使用据点内
+我的房间里的钢琴了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MyRoom_Piano_Confirmation" offset="00" relocatable="true" max_length="0">
+			<original>可观看制作名单</original>
+			<edited>可观看制作名单</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MyRoom_Piano_Confirmation_Yes" offset="00" relocatable="true" max_length="0">
+			<original>观看</original>
+			<edited>观看</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Talk_Gift" offset="00" relocatable="true" max_length="0">
+			<original>赠送礼物</original>
+			<edited>赠送礼物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Talk_PromisedRing" offset="00" relocatable="true" max_length="0">
+			<original>约定戒指</original>
+			<edited>约定戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Talk_Fishing" offset="00" relocatable="true" max_length="0">
+			<original>钓鱼</original>
+			<edited>钓鱼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Talk_DragonRide" offset="00" relocatable="true" max_length="0">
+			<original>飞龙射手</original>
+			<edited>飞龙射手</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Talk_MuscleExercises" offset="00" relocatable="true" max_length="0">
+			<original>肌肉体操</original>
+			<edited>肌肉体操</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Talk_Gift_PickUp" offset="00" relocatable="true" max_length="0">
+			<original>请选择礼物。</original>
+			<edited>请选择礼物。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Talk_Gift_Confirmation" offset="00" relocatable="true" max_length="0">
+			<original>要给予“&#xE;&#x1;&#x0;&#x0;”吗？</original>
+			<edited>要给予“&#xE;&#x1;&#x0;&#x0;”吗？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Talk_Gift_Yes" offset="00" relocatable="true" max_length="0">
+			<original>赠送</original>
+			<edited>赠送</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Where" offset="00" relocatable="true" max_length="0">
+			<original>有个神秘的祭坛……</original>
+			<edited>有个神秘的祭坛……</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Spot" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x5;&#x0;</original>
+			<edited>&#xE;&#x6;&#x5;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Mascot_Spot" offset="00" relocatable="true" max_length="0">
+			<original>请选择照顾的项目。</original>
+			<edited>请选择照顾的项目。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Name" offset="00" relocatable="true" max_length="0">
+			<original>请替索拉涅尔的守护神取个名字。</original>
+			<edited>请替索拉涅尔的守护神取个名字。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Feeding" offset="00" relocatable="true" max_length="0">
+			<original>喂食</original>
+			<edited>喂食</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_FoodChoice" offset="00" relocatable="true" max_length="0">
+			<original>请选择要喂的食物。</original>
+			<edited>请选择要喂的食物。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_FoodChoice_Nothing" offset="00" relocatable="true" max_length="0">
+			<original>未持有任何食材。</original>
+			<edited>未持有任何食材。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Gift_Confirmation" offset="00" relocatable="true" max_length="0">
+			<original>是否以&#xE;&#x1;&#x0;&#x0;喂食？</original>
+			<edited>是否以&#xE;&#x1;&#x0;&#x0;喂食？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Stroking" offset="00" relocatable="true" max_length="0">
+			<original>抚摸</original>
+			<edited>抚摸</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Accessories" offset="00" relocatable="true" max_length="0">
+			<original>换装</original>
+			<edited>换装</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Accessories_Help" offset="00" relocatable="true" max_length="0">
+			<original>请选择要更改的部分。</original>
+			<edited>请选择要更改的部分。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Accessories_Choice" offset="00" relocatable="true" max_length="0">
+			<original>请选择要佩戴的装饰品。</original>
+			<edited>请选择要佩戴的装饰品。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Accessories_Parts" offset="00" relocatable="true" max_length="0">
+			<original>装饰品</original>
+			<edited>装饰品</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Accessories_Head" offset="00" relocatable="true" max_length="0">
+			<original>头部</original>
+			<edited>头部</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Accessories_Tail" offset="00" relocatable="true" max_length="0">
+			<original>尾巴</original>
+			<edited>尾巴</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Accessories_Color" offset="00" relocatable="true" max_length="0">
+			<original>改变颜色</original>
+			<edited>改变颜色</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Accessories_Color_Choice" offset="00" relocatable="true" max_length="0">
+			<original>请选择领巾的颜色。</original>
+			<edited>请选择领巾的颜色。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Accessories_None" offset="00" relocatable="true" max_length="0">
+			<original>没有佩戴装饰品</original>
+			<edited>没有佩戴装饰品</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Pedestal" offset="00" relocatable="true" max_length="0">
+			<original>台座</original>
+			<edited>台座</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Skill_Inheritance" offset="00" relocatable="true" max_length="0">
+			<original>特技继承</original>
+			<edited>特技继承</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Gacha" offset="00" relocatable="true" max_length="0">
+			<original>精炼牵绊戒指</original>
+			<edited>精炼牵绊戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Merge" offset="00" relocatable="true" max_length="0">
+			<original>合成牵绊戒指</original>
+			<edited>合成牵绊戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Cleaning" offset="00" relocatable="true" max_length="0">
+			<original>研磨戒指&#xE;&#x1;&#x8;&#x0;</original>
+			<edited>研磨戒指&#xE;&#x1;&#x8;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon" offset="00" relocatable="true" max_length="0">
+			<original>强化结合武器</original>
+			<edited>强化结合武器</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Inheritance_End" offset="00" relocatable="true" max_length="0">
+			<original>已继承</original>
+			<edited>已继承</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Inheritance_Level" offset="00" relocatable="true" max_length="0">
+			<original>于Lv.&#xE;&#x1;&#x0;&#x0;时开放</original>
+			<edited>于Lv.&#xE;&#x1;&#x0;&#x0;时开放</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Inheritance_Invalid" offset="00" relocatable="true" max_length="0">
+			<original>与纹章士&#xE;&#x1;&#x0;&#x0;同步时，
+即使装备，效果也不会重叠。</original>
+			<edited>与纹章士&#xE;&#x1;&#x0;&#x0;同步时，
+即使装备，效果也不会重叠。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Inheritance_Skill" offset="00" relocatable="true" max_length="0">
+			<original>继承特技</original>
+			<edited>继承特技</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Inheritance_Skill_HELP" offset="00" relocatable="true" max_length="0">
+			<original>请选择要继承的特技。</original>
+			<edited>请选择要继承的特技。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Inheritance_LevelHelp" offset="00" relocatable="true" max_length="0">
+			<original>于牵绊等级Lv.&#xE;&#x1;&#x0;&#x0;时可继承</original>
+			<edited>于牵绊等级Lv.&#xE;&#x1;&#x0;&#x0;时可继承</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_GodBodLevel" offset="00" relocatable="true" max_length="0">
+			<original>与纹章士的牵绊等级</original>
+			<edited>与纹章士的牵绊等级</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Inheritance_Skill_Confirmation" offset="00" relocatable="true" max_length="0">
+			<original>是否要继承特技？</original>
+			<edited>是否要继承特技？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Inheritance_Skill_Yes" offset="00" relocatable="true" max_length="0">
+			<original>继承</original>
+			<edited>继承</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Inheritance_Skill_Finish" offset="00" relocatable="true" max_length="0">
+			<original>已继承&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;。</original>
+			<edited>已继承&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Common_God_Empty" offset="00" relocatable="true" max_length="0">
+			<original>未持有戒指&#xE;&#x1;&#x8;&#x0;。</original>
+			<edited>未持有戒指&#xE;&#x1;&#x8;&#x0;。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Ring_Gacha" offset="00" relocatable="true" max_length="0">
+			<original>请选择要精炼戒指的纹章士。</original>
+			<edited>请选择要精炼戒指的纹章士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Gacha_TotalRefinedCount" offset="00" relocatable="true" max_length="0">
+			<original>已精炼的数量</original>
+			<edited>已精炼的数量</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Gacha_RingList" offset="00" relocatable="true" max_length="0">
+			<original>曾获得的牵绊戒指</original>
+			<edited>曾获得的牵绊戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Gacha_1_Time_TitleHelp" offset="00" relocatable="true" max_length="0">
+			<original>请选择要精炼的次数。</original>
+			<edited>请选择要精炼的次数。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Gacha_1_Time" offset="00" relocatable="true" max_length="0">
+			<original>精炼1次</original>
+			<edited>精炼1次</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Gacha_10_Times" offset="00" relocatable="true" max_length="0">
+			<original>精炼10次</original>
+			<edited>精炼10次</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Gacha_New" offset="00" relocatable="true" max_length="0">
+			<original>NEW!</original>
+			<edited>NEW!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Merge_Help" offset="00" relocatable="true" max_length="0">
+			<original>请选择要合成的牵绊戒指。</original>
+			<edited>请选择要合成的牵绊戒指。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Merge_Empty" offset="00" relocatable="true" max_length="0">
+			<original>没有牵绊戒指。</original>
+			<edited>没有牵绊戒指。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Merge_Needed_Count" offset="00" relocatable="true" max_length="0">
+			<original>所需数量</original>
+			<edited>所需数量</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Merge_Failed_Full" offset="00" relocatable="true" max_length="0">
+			<original>无法持有更多合成可得的牵绊戒指。</original>
+			<edited>无法持有更多合成可得的牵绊戒指。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Merge_Confirm" offset="00" relocatable="true" max_length="0">
+			<original>是否合成“牵绊戒指”？</original>
+			<edited>是否合成“牵绊戒指”？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Merge_Yes" offset="00" relocatable="true" max_length="0">
+			<original>合成</original>
+			<edited>合成</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Cleaning_GodSelect" offset="00" relocatable="true" max_length="0">
+			<original>请选择要研磨的戒指&#xE;&#x1;&#x8;&#x0;。</original>
+			<edited>请选择要研磨的戒指&#xE;&#x1;&#x8;&#x0;。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Cleaning_Help" offset="00" relocatable="true" max_length="0">
+			<original>请选择研磨戒指&#xE;&#x1;&#x8;&#x0;的伙伴。</original>
+			<edited>请选择研磨戒指&#xE;&#x1;&#x8;&#x0;的伙伴。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Cleaning_Confirm" offset="00" relocatable="true" max_length="0">
+			<original>要请“&#xE;&#x1;&#x1;&#x0;”
+研磨“&#xE;&#x1;&#x0;&#x0;”吗？</original>
+			<edited>要请“&#xE;&#x1;&#x1;&#x0;”
+研磨“&#xE;&#x1;&#x0;&#x0;”吗？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Cleaning_Yes" offset="00" relocatable="true" max_length="0">
+			<original>研磨</original>
+			<edited>研磨</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Cleaning_Finish" offset="00" relocatable="true" max_length="0">
+			<original>Cleanup</original>
+			<edited>Cleanup</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Cleaning_Finish_Confirm" offset="00" relocatable="true" max_length="0">
+			<original>是否要结束研磨？</original>
+			<edited>是否要结束研磨？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Refine" offset="00" relocatable="true" max_length="0">
+			<original>强化</original>
+			<edited>强化</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Refine_Help" offset="00" relocatable="true" max_length="0">
+			<original>请选择要强化的结合武器。</original>
+			<edited>请选择要强化的结合武器。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_RefineCapacity" offset="00" relocatable="true" max_length="0">
+			<original>强化上限</original>
+			<edited>强化上限</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_RefineStatus" offset="00" relocatable="true" max_length="0">
+			<original>强化状态</original>
+			<edited>强化状态</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Empty" offset="00" relocatable="true" max_length="0">
+			<original>没有结合武器。</original>
+			<edited>没有结合武器。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Nothing" offset="00" relocatable="true" max_length="0">
+			<original>尚未强化任何项目。</original>
+			<edited>尚未强化任何项目。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_SelectParam_Help" offset="00" relocatable="true" max_length="0">
+			<original>请选择要强化的项目。</original>
+			<edited>请选择要强化的项目。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Comfirm" offset="00" relocatable="true" max_length="0">
+			<original>要强化“&#xE;&#x1;&#x0;&#x0;的&#xE;&#x1;&#x1;&#x0;”吗？</original>
+			<edited>要强化“&#xE;&#x1;&#x0;&#x0;的&#xE;&#x1;&#x1;&#x0;”吗？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Contents" offset="00" relocatable="true" max_length="0">
+			<original>强化内容</original>
+			<edited>强化内容</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Comfirm_Skill" offset="00" relocatable="true" max_length="0">
+			<original>要在“&#xE;&#x1;&#x0;&#x0;的&#xE;&#x1;&#x1;&#x0;”上
+赋予克制效果吗？</original>
+			<edited>要在“&#xE;&#x1;&#x0;&#x0;的&#xE;&#x1;&#x1;&#x0;”上
+赋予克制效果吗？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Comfirm_Skill_Yes" offset="00" relocatable="true" max_length="0">
+			<original>赋予</original>
+			<edited>赋予</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Comfirm_Skill_Change" offset="00" relocatable="true" max_length="0">
+			<original>要更换“&#xE;&#x1;&#x0;&#x0;的&#xE;&#x1;&#x1;&#x0;”的
+克制效果吗？</original>
+			<edited>要更换“&#xE;&#x1;&#x0;&#x0;的&#xE;&#x1;&#x1;&#x0;”的
+克制效果吗？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Comfirm_Skill_Change_Yes" offset="00" relocatable="true" max_length="0">
+			<original>更换</original>
+			<edited>更换</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Comfirm_Yes" offset="00" relocatable="true" max_length="0">
+			<original>强化</original>
+			<edited>强化</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Comfirm2" offset="00" relocatable="true" max_length="0">
+			<original>已将&#xE;&#x1;&#x0;&#x0;的&#xE;&#x1;&#x1;&#x0;
+强化至&#xE;&#x1;&#x2;&#x0;Lv.&#xE;&#x1;&#x3;&#x0;了。</original>
+			<edited>已将&#xE;&#x1;&#x0;&#x0;的&#xE;&#x1;&#x1;&#x0;
+强化至&#xE;&#x1;&#x2;&#x0;Lv.&#xE;&#x1;&#x3;&#x0;了。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Comfirm2_Skill" offset="00" relocatable="true" max_length="0">
+			<original>已在“&#xE;&#x1;&#x0;&#x0;的&#xE;&#x1;&#x1;&#x0;”上
+赋予了“&#xE;&#x1;&#x2;&#x0;”。</original>
+			<edited>已在“&#xE;&#x1;&#x0;&#x0;的&#xE;&#x1;&#x1;&#x0;”上
+赋予了“&#xE;&#x1;&#x2;&#x0;”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_PowerUpValue" offset="00" relocatable="true" max_length="0">
+			<original>强化值</original>
+			<edited>强化值</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Reset" offset="00" relocatable="true" max_length="0">
+			<original>重置</original>
+			<edited>重置</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Reset_Help" offset="00" relocatable="true" max_length="0">
+			<original>请选择要重置的武器。</original>
+			<edited>请选择要重置的武器。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_ResetParam_Help" offset="00" relocatable="true" max_length="0">
+			<original>请选择要重置的项目。</original>
+			<edited>请选择要重置的项目。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Reset_Comfirm" offset="00" relocatable="true" max_length="0">
+			<original>要将“&#xE;&#x1;&#x0;&#x0;的&#xE;&#x1;&#x1;&#x0;”
+重置为“&#xE;&#x1;&#x2;&#x0;Lv.&#xE;&#x1;&#x3;&#x0;”吗？</original>
+			<edited>要将“&#xE;&#x1;&#x0;&#x0;的&#xE;&#x1;&#x1;&#x0;”
+重置为“&#xE;&#x1;&#x2;&#x0;Lv.&#xE;&#x1;&#x3;&#x0;”吗？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Reset_Comfirm_Skill" offset="00" relocatable="true" max_length="0">
+			<original>要重置”&#xE;&#x1;&#x0;&#x0;的&#xE;&#x1;&#x1;&#x0;“上
+赋予的&#xE;&#x1;&#x2;&#x0;吗？</original>
+			<edited>要重置”&#xE;&#x1;&#x0;&#x0;的&#xE;&#x1;&#x1;&#x0;“上
+赋予的&#xE;&#x1;&#x2;&#x0;吗？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Reset_Comfirm_Yes" offset="00" relocatable="true" max_length="0">
+			<original>重置</original>
+			<edited>重置</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Reset_Comfirm2" offset="00" relocatable="true" max_length="0">
+			<original>已将“&#xE;&#x1;&#x0;&#x0;的&#xE;&#x1;&#x1;&#x0;”
+重置为“&#xE;&#x1;&#x2;&#x0;Lv.&#xE;&#x1;&#x3;&#x0;”。</original>
+			<edited>已将“&#xE;&#x1;&#x0;&#x0;的&#xE;&#x1;&#x1;&#x0;”
+重置为“&#xE;&#x1;&#x2;&#x0;Lv.&#xE;&#x1;&#x3;&#x0;”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Reset_Comfirm2_Skill" offset="00" relocatable="true" max_length="0">
+			<original>已重置“&#xE;&#x1;&#x0;&#x0;的&#xE;&#x1;&#x1;&#x0;”上
+赋予的&#xE;&#x1;&#x2;&#x0;。</original>
+			<edited>已重置“&#xE;&#x1;&#x0;&#x0;的&#xE;&#x1;&#x1;&#x0;”上
+赋予的&#xE;&#x1;&#x2;&#x0;。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_Gate" offset="00" relocatable="true" max_length="0">
+			<original>锻炼之焰</original>
+			<edited>锻炼之焰</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_Limit" offset="00" relocatable="true" max_length="0">
+			<original>剩余次数</original>
+			<edited>剩余次数</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_Lv_MAX" offset="00" relocatable="true" max_length="0">
+			<original>牵绊等级已达上限。</original>
+			<edited>牵绊等级已达上限。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_Lv_Cap" offset="00" relocatable="true" max_length="0">
+			<original>观看牵绊对话，
+即可进一步提升牵绊等级。</original>
+			<edited>观看牵绊对话，
+即可进一步提升牵绊等级。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_Lv_Cap_Look" offset="00" relocatable="true" max_length="0">
+			<original>观看牵绊对话</original>
+			<edited>观看牵绊对话</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_Lv_Once" offset="00" relocatable="true" max_length="0">
+			<original>一次最多可提升5个牵绊等级。</original>
+			<edited>一次最多可提升5个牵绊等级。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_Help" offset="00" relocatable="true" max_length="0">
+			<original>请选择锻炼内容。</original>
+			<edited>请选择锻炼内容。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_Start" offset="00" relocatable="true" max_length="0">
+			<original>一般锻炼</original>
+			<edited>一般锻炼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_Start_Help" offset="00" relocatable="true" max_length="0">
+			<original>请选择要锻炼的单位。</original>
+			<edited>请选择要锻炼的单位。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_GodRelianceUp_Start" offset="00" relocatable="true" max_length="0">
+			<original>特别指名锻炼</original>
+			<edited>特别指名锻炼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_GodRelianceUp_Start_Got_Select_Help" offset="00" relocatable="true" max_length="0">
+			<original>请选择纹章士。</original>
+			<edited>请选择纹章士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_GodRelianceUp_Lv_Select" offset="00" relocatable="true" max_length="0">
+			<original>请选择牵绊等级。</original>
+			<edited>请选择牵绊等级。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_GodRelianceUp_Help" offset="00" relocatable="true" max_length="0">
+			<original>可提升任意单位与
+纹章士的牵绊等级。
+将依照目标而消耗
+不同数量的“牵绊碎片”。</original>
+			<edited>可提升任意单位与
+纹章士的牵绊等级。
+将依照目标而消耗
+不同数量的“牵绊碎片”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_GodRelianceUp_Start_Confirm" offset="00" relocatable="true" max_length="0">
+			<original>要开始&#xE;&#x1;&#x0;&#x0;与&#xE;&#x1;&#x1;&#x0;的指名锻炼吗？</original>
+			<edited>要开始&#xE;&#x1;&#x0;&#x0;与&#xE;&#x1;&#x1;&#x0;的指名锻炼吗？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_NoWeapon" offset="00" relocatable="true" max_length="0">
+			<original>没有可装备的武器，
+无法开始锻炼。</original>
+			<edited>没有可装备的武器，
+无法开始锻炼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_Start_Confirm" offset="00" relocatable="true" max_length="0">
+			<original>要让&#xE;&#x1;&#x0;&#x0;开始锻炼吗？</original>
+			<edited>要让&#xE;&#x1;&#x0;&#x0;开始锻炼吗？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_Win" offset="00" relocatable="true" max_length="0">
+			<original>WIN</original>
+			<edited>WIN</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_Lose" offset="00" relocatable="true" max_length="0">
+			<original>LOSE</original>
+			<edited>LOSE</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_Draw" offset="00" relocatable="true" max_length="0">
+			<original>DRAW</original>
+			<edited>DRAW</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_BattleStart" offset="00" relocatable="true" max_length="0">
+			<original>VS</original>
+			<edited>VS</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Level_Choice" offset="00" relocatable="true" max_length="0">
+			<original>请选择难度。</original>
+			<edited>请选择难度。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_NewLevel_Open" offset="00" relocatable="true" max_length="0">
+			<original>将随故事进度开放。</original>
+			<edited>将随故事进度开放。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_Expert" offset="00" relocatable="true" max_length="0">
+			<original>专家</original>
+			<edited>专家</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_Start" offset="00" relocatable="true" max_length="0">
+			<original>START!</original>
+			<edited>START!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_Finish" offset="00" relocatable="true" max_length="0">
+			<original>FINISH!</original>
+			<edited>FINISH!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_Stop" offset="00" relocatable="true" max_length="0">
+			<original>STOP!</original>
+			<edited>STOP!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Take_MuscleExercises" offset="00" relocatable="true" max_length="0">
+			<original>是否要与&#xE;&#x6;&#x5;&#x0;一起做体操？
+（如“亲密度”高，&#xE;&#x6;&#x5;&#x0;将会从旁协助。）</original>
+			<edited>是否要与&#xE;&#x6;&#x5;&#x0;一起做体操？
+（如“亲密度”高，&#xE;&#x6;&#x5;&#x0;将会从旁协助。）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Take_MuscleExercises_Yes" offset="00" relocatable="true" max_length="0">
+			<original>与&#xE;&#x6;&#x5;&#x0;一起做体操</original>
+			<edited>与&#xE;&#x6;&#x5;&#x0;一起做体操</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_NoTake_MuscleExercises" offset="00" relocatable="true" max_length="0">
+			<original>独自做体操</original>
+			<edited>独自做体操</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Take_Fishing" offset="00" relocatable="true" max_length="0">
+			<original>是否要与&#xE;&#x6;&#x5;&#x0;一起钓鱼？
+（如“亲密度”高，&#xE;&#x6;&#x5;&#x0;将会从旁协助。）</original>
+			<edited>是否要与&#xE;&#x6;&#x5;&#x0;一起钓鱼？
+（如“亲密度”高，&#xE;&#x6;&#x5;&#x0;将会从旁协助。）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Take_Fishing_Yes" offset="00" relocatable="true" max_length="0">
+			<original>与&#xE;&#x6;&#x5;&#x0;一起钓鱼</original>
+			<edited>与&#xE;&#x6;&#x5;&#x0;一起钓鱼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_NoTake_Fishing" offset="00" relocatable="true" max_length="0">
+			<original>独自钓鱼</original>
+			<edited>独自钓鱼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Take_DragonRide" offset="00" relocatable="true" max_length="0">
+			<original>是否要与&#xE;&#x6;&#x5;&#x0;一起乘坐？
+（如“亲密度”高，&#xE;&#x6;&#x5;&#x0;将会从旁协助。）</original>
+			<edited>是否要与&#xE;&#x6;&#x5;&#x0;一起乘坐？
+（如“亲密度”高，&#xE;&#x6;&#x5;&#x0;将会从旁协助。）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Take_DragonRide_Yes" offset="00" relocatable="true" max_length="0">
+			<original>与&#xE;&#x6;&#x5;&#x0;一起乘坐</original>
+			<edited>与&#xE;&#x6;&#x5;&#x0;一起乘坐</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_NoTake_DragonRide" offset="00" relocatable="true" max_length="0">
+			<original>独自乘坐</original>
+			<edited>独自乘坐</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_AddDifficulty" offset="00" relocatable="true" max_length="0">
+			<original>新增难度“&#xE;&#x1;&#x0;&#x0;”</original>
+			<edited>新增难度“&#xE;&#x1;&#x0;&#x0;”</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_AddDifficulty_Muscle" offset="00" relocatable="true" max_length="0">
+			<original>新增了难度：肌肉炸裂
+（旨在挑战极限的难度
+不会提升能力也无法获得奖励）</original>
+			<edited>新增了难度：肌肉炸裂
+（旨在挑战极限的难度
+不会提升能力也无法获得奖励）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_MascotHelp" offset="00" relocatable="true" max_length="0">
+			<original>救援</original>
+			<edited>救援</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_MascotHelp_Count" offset="00" relocatable="true" max_length="0">
+			<original>救援次数</original>
+			<edited>救援次数</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_ThisTimeScore" offset="00" relocatable="true" max_length="0">
+			<original>本次得分</original>
+			<edited>本次得分</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_BestScore" offset="00" relocatable="true" max_length="0">
+			<original>最佳得分</original>
+			<edited>最佳得分</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_NoScore" offset="00" relocatable="true" max_length="0">
+			<original>无记录</original>
+			<edited>无记录</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_TryResult" offset="00" relocatable="true" max_length="0">
+			<original>挑战结果</original>
+			<edited>挑战结果</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_DifficultyTipe" offset="00" relocatable="true" max_length="0">
+			<original>难度：&#xE;&#x1;&#x0;&#x0;</original>
+			<edited>难度：&#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_NewRecord" offset="00" relocatable="true" max_length="0">
+			<original>刷新纪录！</original>
+			<edited>刷新纪录！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_Result_SSS" offset="00" relocatable="true" max_length="0">
+			<original>SSS</original>
+			<edited>SSS</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_Result_SS" offset="00" relocatable="true" max_length="0">
+			<original>SS</original>
+			<edited>SS</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_Result_S" offset="00" relocatable="true" max_length="0">
+			<original>S</original>
+			<edited>S</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_Result_A" offset="00" relocatable="true" max_length="0">
+			<original>A</original>
+			<edited>A</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_Result_B" offset="00" relocatable="true" max_length="0">
+			<original>B</original>
+			<edited>B</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_Result_C" offset="00" relocatable="true" max_length="0">
+			<original>C</original>
+			<edited>C</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_Result_D" offset="00" relocatable="true" max_length="0">
+			<original>D</original>
+			<edited>D</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_Result_E" offset="00" relocatable="true" max_length="0">
+			<original>E</original>
+			<edited>E</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_Result_F" offset="00" relocatable="true" max_length="0">
+			<original>F</original>
+			<edited>F</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Menu_Choice" offset="00" relocatable="true" max_length="0">
+			<original>请选择种类。</original>
+			<edited>请选择种类。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Rule" offset="00" relocatable="true" max_length="0">
+			<original>规则</original>
+			<edited>规则</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Effect" offset="00" relocatable="true" max_length="0">
+			<original>效果</original>
+			<edited>效果</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Continuity" offset="00" relocatable="true" max_length="0">
+			<original>要继续挑战肌肉体操吗？
+但不会有追加效果及奖励。</original>
+			<edited>要继续挑战肌肉体操吗？
+但不会有追加效果及奖励。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Continuity_Unacquired" offset="00" relocatable="true" max_length="0">
+			<original>要继续挑战肌肉体操吗？</original>
+			<edited>要继续挑战肌肉体操吗？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Continuity_Yes" offset="00" relocatable="true" max_length="0">
+			<original>挑战</original>
+			<edited>挑战</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Muscle" offset="00" relocatable="true" max_length="0">
+			<original>肌肉炸裂</original>
+			<edited>肌肉炸裂</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Perfect" offset="00" relocatable="true" max_length="0">
+			<original>Perfect</original>
+			<edited>Perfect</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Good" offset="00" relocatable="true" max_length="0">
+			<original>Good</original>
+			<edited>Good</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Bad" offset="00" relocatable="true" max_length="0">
+			<original>Bad</original>
+			<edited>Bad</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Assist" offset="00" relocatable="true" max_length="0">
+			<original>Assist</original>
+			<edited>Assist</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_SpeedUp" offset="00" relocatable="true" max_length="0">
+			<original>Speed Up!!</original>
+			<edited>Speed Up!!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Record" offset="00" relocatable="true" max_length="0">
+			<original>当前记录</original>
+			<edited>当前记录</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_SuccessCount" offset="00" relocatable="true" max_length="0">
+			<original>成功次数</original>
+			<edited>成功次数</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_ErrorCount" offset="00" relocatable="true" max_length="0">
+			<original>失败次数</original>
+			<edited>失败次数</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Result" offset="00" relocatable="true" max_length="0">
+			<original>成绩</original>
+			<edited>成绩</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_StatusUp" offset="00" relocatable="true" max_length="0">
+			<original>下次出击期间，&#xE;&#x1;&#x0;&#x0;提升&#xE;&#x1;&#x1;&#x0;。</original>
+			<edited>下次出击期间，&#xE;&#x1;&#x0;&#x0;提升&#xE;&#x1;&#x1;&#x0;。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_PushUps" offset="00" relocatable="true" max_length="0">
+			<original>俯卧撑</original>
+			<edited>俯卧撑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_PushUps_Rule_0" offset="00" relocatable="true" max_length="0">
+			<original>抓准时机一决胜负的肌肉体操！
+当横条到达最佳位置时按下按键！</original>
+			<edited>抓准时机一决胜负的肌肉体操！
+当横条到达最佳位置时按下按键！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_PushUps_Rule_1" offset="00" relocatable="true" max_length="0">
+			<original>速度和判定标准会越来越严格，
+失败三次将立即结束锻炼。</original>
+			<edited>速度和判定标准会越来越严格，
+失败三次将立即结束锻炼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_PushUps_Rule_2" offset="00" relocatable="true" max_length="0">
+			<original>依照锻炼的成绩，在下次出击期间
+会提升&#xE;&#x6;&#x3;&#x0;的力量！</original>
+			<edited>依照锻炼的成绩，在下次出击期间
+会提升&#xE;&#x6;&#x3;&#x0;的力量！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Ads" offset="00" relocatable="true" max_length="0">
+			<original>仰卧起坐</original>
+			<edited>仰卧起坐</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Ads_Rule_0" offset="00" relocatable="true" max_length="0">
+			<original>这是考验体力的肌肉体操！
+连续按键来累积能量条吧！</original>
+			<edited>这是考验体力的肌肉体操！
+连续按键来累积能量条吧！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Ads_Rule_1" offset="00" relocatable="true" max_length="0">
+			<original>越快积满能量条，得分就越高，
+能量条见底时将立即结束锻炼。</original>
+			<edited>越快积满能量条，得分就越高，
+能量条见底时将立即结束锻炼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Ads_Rule_2" offset="00" relocatable="true" max_length="0">
+			<original>依照锻炼的成绩，在下次出击期间
+会提升&#xE;&#x6;&#x3;&#x0;的HP！</original>
+			<edited>依照锻炼的成绩，在下次出击期间
+会提升&#xE;&#x6;&#x3;&#x0;的HP！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Squat" offset="00" relocatable="true" max_length="0">
+			<original>深蹲</original>
+			<edited>深蹲</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Squat_Rule_0" offset="00" relocatable="true" max_length="0">
+			<original>得掌握节奏感的肌肉体操！
+好好活用左右两根操控摇杆吧！</original>
+			<edited>得掌握节奏感的肌肉体操！
+好好活用左右两根操控摇杆吧！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Squat_Rule_1" offset="00" relocatable="true" max_length="0">
+			<original>依照指示方向操控摇杆，
+失败三次将立即结束锻炼。</original>
+			<edited>依照指示方向操控摇杆，
+失败三次将立即结束锻炼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Squat_Rule_2" offset="00" relocatable="true" max_length="0">
+			<original>依照锻炼的成绩，在下次出击期间
+会提升&#xE;&#x6;&#x3;&#x0;的技巧！</original>
+			<edited>依照锻炼的成绩，在下次出击期间
+会提升&#xE;&#x6;&#x3;&#x0;的技巧！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Continue_RodSelect" offset="00" relocatable="true" max_length="0">
+			<original>请选择钓竿。</original>
+			<edited>请选择钓竿。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Continue" offset="00" relocatable="true" max_length="0">
+			<original>要继续钓鱼吗？</original>
+			<edited>要继续钓鱼吗？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fish_Pcture_Book" offset="00" relocatable="true" max_length="0">
+			<original>鱼类图鉴</original>
+			<edited>鱼类图鉴</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_BonusFish" offset="00" relocatable="true" max_length="0">
+			<original>本次加分鱼类</original>
+			<edited>本次加分鱼类</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Rod" offset="00" relocatable="true" max_length="0">
+			<original>钓竿</original>
+			<edited>钓竿</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Fish" offset="00" relocatable="true" max_length="0">
+			<original>可钓鱼类</original>
+			<edited>可钓鱼类</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Limit" offset="00" relocatable="true" max_length="0">
+			<original>可钓鱼次数</original>
+			<edited>可钓鱼次数</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Count" offset="00" relocatable="true" max_length="0">
+			<original>钓到的次数</original>
+			<edited>钓到的次数</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Success" offset="00" relocatable="true" max_length="0">
+			<original>Success</original>
+			<edited>Success</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Perfect" offset="00" relocatable="true" max_length="0">
+			<original>Perfect</original>
+			<edited>Perfect</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Escaped_Fast" offset="00" relocatable="true" max_length="0">
+			<original>提竿似乎太早了……</original>
+			<edited>提竿似乎太早了……</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Escaped_Late" offset="00" relocatable="true" max_length="0">
+			<original>提竿似乎太慢了……</original>
+			<edited>提竿似乎太慢了……</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Escaped" offset="00" relocatable="true" max_length="0">
+			<original>鱼逃掉了……</original>
+			<edited>鱼逃掉了……</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_BestSize" offset="00" relocatable="true" max_length="0">
+			<original>最佳纪录</original>
+			<edited>最佳纪录</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Centimeter" offset="00" relocatable="true" max_length="0">
+			<original>公分</original>
+			<edited>公分</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Size" offset="00" relocatable="true" max_length="0">
+			<original>尺寸</original>
+			<edited>尺寸</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_TinySize" offset="00" relocatable="true" max_length="0">
+			<original>迷你</original>
+			<edited>迷你</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_SmallSize" offset="00" relocatable="true" max_length="0">
+			<original>小型</original>
+			<edited>小型</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_MiddleSize" offset="00" relocatable="true" max_length="0">
+			<original>中型</original>
+			<edited>中型</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_LargeSize" offset="00" relocatable="true" max_length="0">
+			<original>大型</original>
+			<edited>大型</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_BigSize" offset="00" relocatable="true" max_length="0">
+			<original>超大型</original>
+			<edited>超大型</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_GiantSize" offset="00" relocatable="true" max_length="0">
+			<original>巨无霸</original>
+			<edited>巨无霸</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Shadow_Small" offset="00" relocatable="true" max_length="0">
+			<original>小型鱼影</original>
+			<edited>小型鱼影</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Shadow_Big" offset="00" relocatable="true" max_length="0">
+			<original>大型鱼影</original>
+			<edited>大型鱼影</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Shadow_Giant" offset="00" relocatable="true" max_length="0">
+			<original>巨大鱼影</original>
+			<edited>巨大鱼影</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_GetItem" offset="00" relocatable="true" max_length="0">
+			<original>获得道具</original>
+			<edited>获得道具</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Conditions" offset="00" relocatable="true" max_length="0">
+			<original>容易上钩的条件</original>
+			<edited>容易上钩的条件</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_TimeZone" offset="00" relocatable="true" max_length="0">
+			<original>出没时段</original>
+			<edited>出没时段</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_TimeZone_Night" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x8;&#x2;&#x10;&#xE;&#x0;E&#x0;v&#x0;e&#x0;n&#x0;i&#x0;n&#x0;g&#x0;傍晚/&#xE;&#x8;&#x2;&#xC;
+&#x0;N&#x0;i&#x0;g&#x0;h&#x0;t&#x0;夜间</original>
+			<edited>&#xE;&#x8;&#x2;&#x10;&#xE;&#x0;E&#x0;v&#x0;e&#x0;n&#x0;i&#x0;n&#x0;g&#x0;傍晚/&#xE;&#x8;&#x2;&#xC;
+&#x0;N&#x0;i&#x0;g&#x0;h&#x0;t&#x0;夜间</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_FishType" offset="00" relocatable="true" max_length="0">
+			<original>钓到的鱼类</original>
+			<edited>钓到的鱼类</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Continue_Yes" offset="00" relocatable="true" max_length="0">
+			<original>继续</original>
+			<edited>继续</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_End" offset="00" relocatable="true" max_length="0">
+			<original>结束</original>
+			<edited>结束</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Bonus" offset="00" relocatable="true" max_length="0">
+			<original>BONUS!</original>
+			<edited>BONUS!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Hit" offset="00" relocatable="true" max_length="0">
+			<original>HIT!</original>
+			<edited>HIT!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_UnicornChar" offset="00" relocatable="true" max_length="0">
+			<original>独角红点鲑</original>
+			<edited>独角红点鲑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_UnicornChar" offset="00" relocatable="true" max_length="0">
+			<original>鱼头上长了一根粗角，
+上钩时容易受冲击而折断。
+由于长满细刺，多被制成鱼浆。</original>
+			<edited>鱼头上长了一根粗角，
+上钩时容易受冲击而折断。
+由于长满细刺，多被制成鱼浆。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_PonYamame" offset="00" relocatable="true" max_length="0">
+			<original>圆纹樱鳟</original>
+			<edited>圆纹樱鳟</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_PonYamame" offset="00" relocatable="true" max_length="0">
+			<original>不时会让侧身浮出水面。
+独特的圆斑会随着成长逐渐变淡。
+风味清淡，适合做成柔软的鱼浆。</original>
+			<edited>不时会让侧身浮出水面。
+独特的圆斑会随着成长逐渐变淡。
+风味清淡，适合做成柔软的鱼浆。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_HellKoi" offset="00" relocatable="true" max_length="0">
+			<original>赫鲁鲁鲤鱼</original>
+			<edited>赫鲁鲁鲤鱼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_HellKoi" offset="00" relocatable="true" max_length="0">
+			<original>一种杂食性的鱼类。部分个体
+外表鲜艳，常被人当成是宠物鱼。
+营养丰富，特别适合油炸。</original>
+			<edited>一种杂食性的鱼类。部分个体
+外表鲜艳，常被人当成是宠物鱼。
+营养丰富，特别适合油炸。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_RavanaTrout" offset="00" relocatable="true" max_length="0">
+			<original>拉巴纳鳟鱼</original>
+			<edited>拉巴纳鳟鱼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_RavanaTrout" offset="00" relocatable="true" max_length="0">
+			<original>只要能掌握诀窍，便可轻松钓到。
+在伊尔席翁王国内也有养殖品种，
+通常会被制成能长期保存的鱼干。</original>
+			<edited>只要能掌握诀窍，便可轻松钓到。
+在伊尔席翁王国内也有养殖品种，
+通常会被制成能长期保存的鱼干。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_SlitFinSalmon" offset="00" relocatable="true" max_length="0">
+			<original>长鳍鲑鱼</original>
+			<edited>长鳍鲑鱼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_SlitFinSalmon" offset="00" relocatable="true" max_length="0">
+			<original>布罗帝亚境内捕获量居冠的鱼类，
+独特的鱼鳍在水中摇曳的模样十分美丽。
+红肉是因饲料而形成，实际上为白肉鱼。</original>
+			<edited>布罗帝亚境内捕获量居冠的鱼类，
+独特的鱼鳍在水中摇曳的模样十分美丽。
+红肉是因饲料而形成，实际上为白肉鱼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_MandCobbBass" offset="00" relocatable="true" max_length="0">
+			<original>曼多柯布鲈鱼</original>
+			<edited>曼多柯布鲈鱼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_MandCobbBass" offset="00" relocatable="true" max_length="0">
+			<original>考验钓客技术的重量级鱼怪。
+在索尔姆甚至会举办钓鲈鱼大赛。
+细心处理后可做成风味独特的生鱼片。</original>
+			<edited>考验钓客技术的重量级鱼怪。
+在索尔姆甚至会举办钓鲈鱼大赛。
+细心处理后可做成风味独特的生鱼片。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_BanganHerring" offset="00" relocatable="true" max_length="0">
+			<original>班岗鲱鱼</original>
+			<edited>班岗鲱鱼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_BanganHerring" offset="00" relocatable="true" max_length="0">
+			<original>会在特定时期群游而来，非常容易上钩，
+但这种特征反而引来了不少钓客的抱怨。
+风味朴实无华，可搭配各种食材烹调。</original>
+			<edited>会在特定时期群游而来，非常容易上钩，
+但这种特征反而引来了不少钓客的抱怨。
+风味朴实无华，可搭配各种食材烹调。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_TeoteSquid" offset="00" relocatable="true" max_length="0">
+			<original>提欧特鱿鱼</original>
+			<edited>提欧特鱿鱼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_TeoteSquid" offset="00" relocatable="true" max_length="0">
+			<original>会将细长的闪亮物体看做是饵，
+部分钓客则利用这种习性垂钓。
+制成鱼浆后能加入各种菜色。</original>
+			<edited>会将细长的闪亮物体看做是饵，
+部分钓客则利用这种习性垂钓。
+制成鱼浆后能加入各种菜色。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_BlosEel" offset="00" relocatable="true" max_length="0">
+			<original>布洛斯鳗鱼</original>
+			<edited>布洛斯鳗鱼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_BlosEel" offset="00" relocatable="true" max_length="0">
+			<original>因为全身滑溜溜难以抓住，
+在解开鱼钩时需谨慎避免逃走。
+风味浓郁，细骨能够直接食用。</original>
+			<edited>因为全身滑溜溜难以抓住，
+在解开鱼钩时需谨慎避免逃走。
+风味浓郁，细骨能够直接食用。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_LogerOctopus" offset="00" relocatable="true" max_length="0">
+			<original>罗格章鱼</original>
+			<edited>罗格章鱼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_LogerOctopus" offset="00" relocatable="true" max_length="0">
+			<original>脚上长有许多吸盘的章鱼，
+得趁它吸住岩石迅速钓起。
+整只都能拿来制成章鱼浆。</original>
+			<edited>脚上长有许多吸盘的章鱼，
+得趁它吸住岩石迅速钓起。
+整只都能拿来制成章鱼浆。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_HegeBeardCatfish" offset="00" relocatable="true" max_length="0">
+			<original>海吉长须鲶</original>
+			<edited>海吉长须鲶</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_HegeBeardCatfish" offset="00" relocatable="true" max_length="0">
+			<original>十分聪明的鱼种。会利用其粗长的
+触须来感知并掌握周围的情况。
+制成鱼干拿来熬汤或烧烤都很适合。</original>
+			<edited>十分聪明的鱼种。会利用其粗长的
+触须来感知并掌握周围的情况。
+制成鱼干拿来熬汤或烧烤都很适合。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_SarriaDogMorayEel" offset="00" relocatable="true" max_length="0">
+			<original>萨利艾奴虎鳗</original>
+			<edited>萨利艾奴虎鳗</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_SarriaDogMorayEel" offset="00" relocatable="true" max_length="0">
+			<original>性格凶猛残暴，是一种危险的鱼类，
+不幸被其利齿咬到，将会痛不欲生。
+富含油脂、味道浓郁，适合做成生鱼片。</original>
+			<edited>性格凶猛残暴，是一种危险的鱼类，
+不幸被其利齿咬到，将会痛不欲生。
+富含油脂、味道浓郁，适合做成生鱼片。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_OmemeSardine" offset="00" relocatable="true" max_length="0">
+			<original>欧梅梅沙丁鱼</original>
+			<edited>欧梅梅沙丁鱼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_OmemeSardine" offset="00" relocatable="true" max_length="0">
+			<original>费列聂常见的小鱼，特征为覆盖眼睛的，
+脂性眼睑。习惯群游防御天敌。
+肉质松软，用手便能轻易剥开。</original>
+			<edited>费列聂常见的小鱼，特征为覆盖眼睛的，
+脂性眼睑。习惯群游防御天敌。
+肉质松软，用手便能轻易剥开。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_AvidCrab" offset="00" relocatable="true" max_length="0">
+			<original>阿比德蟹</original>
+			<edited>阿比德蟹</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_AvidCrab" offset="00" relocatable="true" max_length="0">
+			<original>这种螃蟹白天藏在沙中，
+待清晨出来活动时才较易钓到。
+可连壳一起制成蟹浆。</original>
+			<edited>这种螃蟹白天藏在沙中，
+待清晨出来活动时才较易钓到。
+可连壳一起制成蟹浆。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_MunonTailHorseMackerel" offset="00" relocatable="true" max_length="0">
+			<original>穆诺泰尔竹策鱼</original>
+			<edited>穆诺泰尔竹策鱼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_MunonTailHorseMackerel" offset="00" relocatable="true" max_length="0">
+			<original>反抗的力道能让人享受到拉竿的刺激，
+大小也适合拿来练习片鱼。
+是鱼干中的经典款，深受人们喜爱。</original>
+			<edited>反抗的力道能让人享受到拉竿的刺激，
+大小也适合拿来练习片鱼。
+是鱼干中的经典款，深受人们喜爱。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_DosmaRay" offset="00" relocatable="true" max_length="0">
+			<original>多斯玛魟鱼</original>
+			<edited>多斯玛魟鱼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_DosmaRay" offset="00" relocatable="true" max_length="0">
+			<original>腹部看似有张可爱的笑脸，
+尾部的毒素却足以令人丧命。
+晒干后腹部的笑脸会变得扭曲骇人。</original>
+			<edited>腹部看似有张可爱的笑脸，
+尾部的毒素却足以令人丧命。
+晒干后腹部的笑脸会变得扭曲骇人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_DemonFangCod" offset="00" relocatable="true" max_length="0">
+			<original>鬼牙鳕鱼</original>
+			<edited>鬼牙鳕鱼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_DemonFangCod" offset="00" relocatable="true" max_length="0">
+			<original>在费列聂与布罗帝亚大受欢迎的高档鱼。
+寒冷区域捕获的个体连内脏都能食用，
+是一种全身上下都能利用的优秀食材。</original>
+			<edited>在费列聂与布罗帝亚大受欢迎的高档鱼。
+寒冷区域捕获的个体连内脏都能食用，
+是一种全身上下都能利用的优秀食材。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_TephraSkipjack" offset="00" relocatable="true" max_length="0">
+			<original>特弗拉鲣鱼</original>
+			<edited>特弗拉鲣鱼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_TephraSkipjack" offset="00" relocatable="true" max_length="0">
+			<original>这种红肉鱼肌肉结实且凶猛无比，
+不分季节都是饕客认可的高级食材。
+做成生鱼片后鲜嫩多汁，广受好评。</original>
+			<edited>这种红肉鱼肌肉结实且凶猛无比，
+不分季节都是饕客认可的高级食材。
+做成生鱼片后鲜嫩多汁，广受好评。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_RainbowTrout" offset="00" relocatable="true" max_length="0">
+			<original>七彩鳟鱼</original>
+			<edited>七彩鳟鱼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_RainbowTrout" offset="00" relocatable="true" max_length="0">
+			<original>与拉巴纳鳟鱼系出同源的稀有品种。
+身上有七彩花纹，肉质肥厚，富含油脂，
+是一种被世人称为“极品”的梦幻鱼类。</original>
+			<edited>与拉巴纳鳟鱼系出同源的稀有品种。
+身上有七彩花纹，肉质肥厚，富含油脂，
+是一种被世人称为“极品”的梦幻鱼类。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_EnchantSkipjack" offset="00" relocatable="true" max_length="0">
+			<original>艾恰托鲣鱼</original>
+			<edited>艾恰托鲣鱼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_EnchantSkipjack" offset="00" relocatable="true" max_length="0">
+			<original>特弗拉鲣鱼的另一个品种。
+虽然在特定条件下就有机会钓到，
+但仍是常人难以捕获的梦幻鱼类。</original>
+			<edited>特弗拉鲣鱼的另一个品种。
+虽然在特定条件下就有机会钓到，
+但仍是常人难以捕获的梦幻鱼类。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_NowScore" offset="00" relocatable="true" max_length="0">
+			<original>当前分数</original>
+			<edited>当前分数</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_BreakTarget" offset="00" relocatable="true" max_length="0">
+			<original>破坏的标靶</original>
+			<edited>破坏的标靶</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Target_Pattern" offset="00" relocatable="true" max_length="0">
+			<original>标靶种类</original>
+			<edited>标靶种类</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Target_Normals" offset="00" relocatable="true" max_length="0">
+			<original>普通</original>
+			<edited>普通</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Target_Normals_Help" offset="00" relocatable="true" max_length="0">
+			<original>使用一般标靶，
+以神龙破命中即可将其破坏。</original>
+			<edited>使用一般标靶，
+以神龙破命中即可将其破坏。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Target_Big" offset="00" relocatable="true" max_length="0">
+			<original>巨大</original>
+			<edited>巨大</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Target_Big_Help" offset="00" relocatable="true" max_length="0">
+			<original>命中标靶时，
+会一并破坏周遭的标靶。</original>
+			<edited>命中标靶时，
+会一并破坏周遭的标靶。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Target_Link" offset="00" relocatable="true" max_length="0">
+			<original>连结</original>
+			<edited>连结</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Target_Link_Help" offset="00" relocatable="true" max_length="0">
+			<original>命中标靶时，若有相邻标靶，
+则会发动连锁破坏。</original>
+			<edited>命中标靶时，若有相邻标靶，
+则会发动连锁破坏。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Target_Special" offset="00" relocatable="true" max_length="0">
+			<original>特别</original>
+			<edited>特别</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Target_Special_Help" offset="00" relocatable="true" max_length="0">
+			<original>命中标靶后，
+将在一定时间内增强神龙破。</original>
+			<edited>命中标靶后，
+将在一定时间内增强神龙破。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Target_Rroulette" offset="00" relocatable="true" max_length="0">
+			<original>轮盘</original>
+			<edited>轮盘</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Target_Rroulette_Help" offset="00" relocatable="true" max_length="0">
+			<original>所有种类的标靶会轮流切换，
+将其破坏即可决定标靶。</original>
+			<edited>所有种类的标靶会轮流切换，
+将其破坏即可决定标靶。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Operation" offset="00" relocatable="true" max_length="0">
+			<original>操作方式</original>
+			<edited>操作方式</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Operation_Title_Stick" offset="00" relocatable="true" max_length="0">
+			<original>操作方式：摇杆</original>
+			<edited>操作方式：摇杆</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Operation_Title_Gyro" offset="00" relocatable="true" max_length="0">
+			<original>操作方式：陀螺仪</original>
+			<edited>操作方式：陀螺仪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Operation_To_Stick" offset="00" relocatable="true" max_length="0">
+			<original>切换至摇杆操作</original>
+			<edited>切换至摇杆操作</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Operation_To_Gyro" offset="00" relocatable="true" max_length="0">
+			<original>切换至陀螺仪操作</original>
+			<edited>切换至陀螺仪操作</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Operation_Plus" offset="00" relocatable="true" max_length="0">
+			<original>暂停/继续</original>
+			<edited>暂停/继续</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Operation_A" offset="00" relocatable="true" max_length="0">
+			<original>施放神龙破</original>
+			<edited>施放神龙破</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Operation_Y" offset="00" relocatable="true" max_length="0">
+			<original>高速操作准星</original>
+			<edited>高速操作准星</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Operation_StickLR" offset="00" relocatable="true" max_length="0">
+			<original>操作准星</original>
+			<edited>操作准星</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Operation_StickLR_Push" offset="00" relocatable="true" max_length="0">
+			<original>重置准星</original>
+			<edited>重置准星</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Operation_StickLR_Push_Sub" offset="00" relocatable="true" max_length="0">
+			<original>按下即可
+开启那一侧的
+陀螺仪感应器</original>
+			<edited>按下即可
+开启那一侧的
+陀螺仪感应器</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Operation_ZLZR" offset="00" relocatable="true" max_length="0">
+			<original>施放神龙破</original>
+			<edited>施放神龙破</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Operation_LR" offset="00" relocatable="true" max_length="0">
+			<original>高速操作准星</original>
+			<edited>高速操作准星</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Operation_Gyro0" offset="00" relocatable="true" max_length="0">
+			<original>倾斜手柄：</original>
+			<edited>倾斜手柄：</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Operation_Gyro1" offset="00" relocatable="true" max_length="0">
+			<original>操作准星</original>
+			<edited>操作准星</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Operation_Suspension" offset="00" relocatable="true" max_length="0">
+			<original>结束飞龙射手</original>
+			<edited>结束飞龙射手</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Jukebox" offset="00" relocatable="true" max_length="0">
+			<original>音箱</original>
+			<edited>音箱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_H_Jukebox" offset="00" relocatable="true" max_length="0">
+			<original>可以更改索拉涅尔的背景音乐。</original>
+			<edited>可以更改索拉涅尔的背景音乐。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Board" offset="00" relocatable="true" max_length="0">
+			<original>布告栏</original>
+			<edited>布告栏</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook" offset="00" relocatable="true" max_length="0">
+			<original>料理</original>
+			<edited>料理</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Choice_Unit" offset="00" relocatable="true" max_length="0">
+			<original>请选择两位用餐对象。</original>
+			<edited>请选择两位用餐对象。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Choice_Menu" offset="00" relocatable="true" max_length="0">
+			<original>请选择料理。</original>
+			<edited>请选择料理。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Choice_Foods" offset="00" relocatable="true" max_length="0">
+			<original>请选择要添加的食材。</original>
+			<edited>请选择要添加的食材。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Specialty" offset="00" relocatable="true" max_length="0">
+			<original>非常拿手</original>
+			<edited>非常拿手</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_StrongPoint" offset="00" relocatable="true" max_length="0">
+			<original>拿手</original>
+			<edited>拿手</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Experienced" offset="00" relocatable="true" max_length="0">
+			<original>有经验</original>
+			<edited>有经验</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Challenging" offset="00" relocatable="true" max_length="0">
+			<original>具挑战性</original>
+			<edited>具挑战性</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_BasicEffect" offset="00" relocatable="true" max_length="0">
+			<original>基础效果</original>
+			<edited>基础效果</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Favorite" offset="00" relocatable="true" max_length="0">
+			<original>喜欢的料理</original>
+			<edited>喜欢的料理</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Favorite_Good" offset="00" relocatable="true" max_length="0">
+			<original>喜欢</original>
+			<edited>喜欢</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Favorite_Normal" offset="00" relocatable="true" max_length="0">
+			<original>一般</original>
+			<edited>一般</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Favorite_Bad" offset="00" relocatable="true" max_length="0">
+			<original>讨厌</original>
+			<edited>讨厌</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Chef" offset="00" relocatable="true" max_length="0">
+			<original>负责掌厨的人</original>
+			<edited>负责掌厨的人</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Friend" offset="00" relocatable="true" max_length="0">
+			<original>一起用餐的伙伴</original>
+			<edited>一起用餐的伙伴</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_CookMenu" offset="00" relocatable="true" max_length="0">
+			<original>制作的料理</original>
+			<edited>制作的料理</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_CallFriend" offset="00" relocatable="true" max_length="0">
+			<original>用餐的伙伴</original>
+			<edited>用餐的伙伴</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_RelianceStatus" offset="00" relocatable="true" max_length="0">
+			<original>支援状态</original>
+			<edited>支援状态</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_AddFood" offset="00" relocatable="true" max_length="0">
+			<original>添加食材</original>
+			<edited>添加食材</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_AddFood_Nothing" offset="00" relocatable="true" max_length="0">
+			<original>无</original>
+			<edited>无</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_CanAddFood" offset="00" relocatable="true" max_length="0">
+			<original>可添加的食材</original>
+			<edited>可添加的食材</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Confirmation" offset="00" relocatable="true" max_length="0">
+			<original>要开始烹制吗？</original>
+			<edited>要开始烹制吗？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Everyone" offset="00" relocatable="true" max_length="0">
+			<original>我方单位全员</original>
+			<edited>我方单位全员</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Effect_Nothing" offset="00" relocatable="true" max_length="0">
+			<original>能力没有变化</original>
+			<edited>能力没有变化</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Also" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;额外</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;额外</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Workmanship" offset="00" relocatable="true" max_length="0">
+			<original>特性</original>
+			<edited>特性</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_SS" offset="00" relocatable="true" max_length="0">
+			<original>SS</original>
+			<edited>SS</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_S" offset="00" relocatable="true" max_length="0">
+			<original>S</original>
+			<edited>S</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_A" offset="00" relocatable="true" max_length="0">
+			<original>A</original>
+			<edited>A</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_B" offset="00" relocatable="true" max_length="0">
+			<original>B</original>
+			<edited>B</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_C" offset="00" relocatable="true" max_length="0">
+			<original>C</original>
+			<edited>C</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_D" offset="00" relocatable="true" max_length="0">
+			<original>D</original>
+			<edited>D</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_E" offset="00" relocatable="true" max_length="0">
+			<original>E</original>
+			<edited>E</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_F" offset="00" relocatable="true" max_length="0">
+			<original>F</original>
+			<edited>F</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_G" offset="00" relocatable="true" max_length="0">
+			<original>G</original>
+			<edited>G</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Bento_Get" offset="00" relocatable="true" max_length="0">
+			<original>吃剩的料理被做成了便当。</original>
+			<edited>吃剩的料理被做成了便当。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Bento_Discard" offset="00" relocatable="true" max_length="0">
+			<original>已丢弃放了太久的&#xE;&#x1;&#x0;&#x0;。</original>
+			<edited>已丢弃放了太久的&#xE;&#x1;&#x0;&#x0;。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_NOTICE_BOARD_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>布告栏</original>
+			<edited>布告栏</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_NOTICE_BOARD_HELP" offset="00" relocatable="true" max_length="0">
+			<original>请选择要查看的信息。</original>
+			<edited>请选择要查看的信息。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_NOTICE_BOARD_INVESTMENT" offset="00" relocatable="true" max_length="0">
+			<original>投资国家</original>
+			<edited>投资国家</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_NOTICE_BOARD_INVESTMENT_HELP" offset="00" relocatable="true" max_length="0">
+			<original>请选择要投资的国家。</original>
+			<edited>请选择要投资的国家。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_NOTICE_SOLANEL_INFO" offset="00" relocatable="true" max_length="0">
+			<original>据点情报</original>
+			<edited>据点情报</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_NOTICE_ACHIEVEMENT" offset="00" relocatable="true" max_length="0">
+			<original>成就</original>
+			<edited>成就</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_AmountOfMoney" offset="00" relocatable="true" max_length="0">
+			<original>要投资多少金额？</original>
+			<edited>要投资多少金额？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_G" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;G</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;G</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_NEXT_LEVEL" offset="00" relocatable="true" max_length="0">
+			<original>距离升级还需</original>
+			<edited>距离升级还需</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_TOTAL" offset="00" relocatable="true" max_length="0">
+			<original>累计投资金额</original>
+			<edited>累计投资金额</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_LEVEL_EFFECT" offset="00" relocatable="true" max_length="0">
+			<original>升级效果</original>
+			<edited>升级效果</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_LEVEL_BONUS" offset="00" relocatable="true" max_length="0">
+			<original>升级奖励</original>
+			<edited>升级奖励</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_RESULT" offset="00" relocatable="true" max_length="0">
+			<original>散步</original>
+			<edited>散步</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_LEVEL_EFFECT_MAX" offset="00" relocatable="true" max_length="0">
+			<original>已达等级上限。</original>
+			<edited>已达等级上限。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_COMPLETE" offset="00" relocatable="true" max_length="0">
+			<original>COMPLETE!</original>
+			<edited>COMPLETE!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_COMPLETE_INFO" offset="00" relocatable="true" max_length="0">
+			<original>已达投资金额上限。</original>
+			<edited>已达投资金额上限。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_COMPLETE_HELP" offset="00" relocatable="true" max_length="0">
+			<original>可按&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;X&#x0;键在详细信息中查看内容。</original>
+			<edited>可按&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;X&#x0;键在详细信息中查看内容。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_GOLD_ENEMY" offset="00" relocatable="true" max_length="0">
+			<original>金异形兵的出现几率</original>
+			<edited>金异形兵的出现几率</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_EXP_ENEMY" offset="00" relocatable="true" max_length="0">
+			<original>银异形兵的出现几率</original>
+			<edited>银异形兵的出现几率</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_ANIMAL_ENABLE" offset="00" relocatable="true" max_length="0">
+			<original>学习饲养方法</original>
+			<edited>学习饲养方法</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_NATIONDATA_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>在&#xE;&#x1;&#x0;&#x0;获得的物品</original>
+			<edited>在&#xE;&#x1;&#x0;&#x0;获得的物品</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_NATIONDATA_REFINE_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>矿物</original>
+			<edited>矿物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_NATIONDATA_FOOD" offset="00" relocatable="true" max_length="0">
+			<original>食材</original>
+			<edited>食材</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_NATIONDATA_ANIMAL" offset="00" relocatable="true" max_length="0">
+			<original>动物</original>
+			<edited>动物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_BONUS_FILENE_1" offset="00" relocatable="true" max_length="0">
+			<original>大丰收礼包</original>
+			<edited>大丰收礼包</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_BONUS_BRODIA_1" offset="00" relocatable="true" max_length="0">
+			<original>大发掘礼包</original>
+			<edited>大发掘礼包</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_BONUS_IRCION_1" offset="00" relocatable="true" max_length="0">
+			<original>回复礼包</original>
+			<edited>回复礼包</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_BONUS_SOLUM_1" offset="00" relocatable="true" max_length="0">
+			<original>摊贩礼包</original>
+			<edited>摊贩礼包</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_BONUS_2" offset="00" relocatable="true" max_length="0">
+			<original>民族服装礼包</original>
+			<edited>民族服装礼包</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_BONUS_3" offset="00" relocatable="true" max_length="0">
+			<original>朋友礼包</original>
+			<edited>朋友礼包</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_BONUS_4" offset="00" relocatable="true" max_length="0">
+			<original>传统服装礼包</original>
+			<edited>传统服装礼包</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_BONUS_Get" offset="00" relocatable="true" max_length="0">
+			<original>已收下&#xE;&#x1;&#x0;&#x0;。</original>
+			<edited>已收下&#xE;&#x1;&#x0;&#x0;。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_DIALOG_NEXT_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>距离升级还需（&#xE;&#x1;&#x0;&#x0;）</original>
+			<edited>距离升级还需（&#xE;&#x1;&#x0;&#x0;）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SOLANEL_INFO_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>据点情报</original>
+			<edited>据点情报</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SOLANEL_INFO_COMMENT" offset="00" relocatable="true" max_length="0">
+			<original>请选择要前往的地方。</original>
+			<edited>请选择要前往的地方。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SOLANEL_INFO_CONFIRM_TEXT" offset="00" relocatable="true" max_length="0">
+			<original>要移动到“&#xE;&#x1;&#x0;&#x0;”吗？</original>
+			<edited>要移动到“&#xE;&#x1;&#x0;&#x0;”吗？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SOLANEL_INFO_CONFIRM_YES" offset="00" relocatable="true" max_length="0">
+			<original>前往</original>
+			<edited>前往</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>成就</original>
+			<edited>成就</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_COUNT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>达成数量</original>
+			<edited>达成数量</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_COUNT_UNIT" offset="00" relocatable="true" max_length="0">
+			<original>伙伴</original>
+			<edited>伙伴</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_COUNT_BATTLE" offset="00" relocatable="true" max_length="0">
+			<original>战斗</original>
+			<edited>战斗</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_COUNT_SOLANEL" offset="00" relocatable="true" max_length="0">
+			<original>索拉涅尔</original>
+			<edited>索拉涅尔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_COUNT_SHOP" offset="00" relocatable="true" max_length="0">
+			<original>商店</original>
+			<edited>商店</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_COUNT_SYSTEM" offset="00" relocatable="true" max_length="0">
+			<original>系统</original>
+			<edited>系统</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_COUNT_TOTAL" offset="00" relocatable="true" max_length="0">
+			<original>总计</original>
+			<edited>总计</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_NOW" offset="00" relocatable="true" max_length="0">
+			<original>当前：</original>
+			<edited>当前：</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_BONUS" offset="00" relocatable="true" max_length="0">
+			<original>奖励：</original>
+			<edited>奖励：</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_CLEAR" offset="00" relocatable="true" max_length="0">
+			<original>达成！</original>
+			<edited>达成！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_COMPLETE" offset="00" relocatable="true" max_length="0">
+			<original>完成</original>
+			<edited>完成</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_DIALOG_MESSAGE" offset="00" relocatable="true" max_length="0">
+			<original>已领取下列成就达成奖励。
+“&#xE;&#x1;&#x0;&#x0;”</original>
+			<edited>已领取下列成就达成奖励。
+“&#xE;&#x1;&#x0;&#x0;”</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_DIALOG_MESSAGE_ALL" offset="00" relocatable="true" max_length="0">
+			<original>要统一领取成就达成奖励吗？</original>
+			<edited>要统一领取成就达成奖励吗？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_DIALOG_MESSAGE_ALLGET" offset="00" relocatable="true" max_length="0">
+			<original>已批量领取成就达成奖励。</original>
+			<edited>已批量领取成就达成奖励。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_DIALOG_MESSAGE_ALL_YES" offset="00" relocatable="true" max_length="0">
+			<original>领取</original>
+			<edited>领取</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" offset="00" relocatable="true" max_length="0">
+			<original>位</original>
+			<edited>位</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_UNIT_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>个</original>
+			<edited>个</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_UNIT_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>次</original>
+			<edited>次</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_UNIT_TIME" offset="00" relocatable="true" max_length="0">
+			<original>小时</original>
+			<edited>小时</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_UNIT_ENEMY" offset="00" relocatable="true" max_length="0">
+			<original>名</original>
+			<edited>名</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_Clear_Nothing" offset="00" relocatable="true" max_length="0">
+			<original>尚未达成任何成就。</original>
+			<edited>尚未达成任何成就。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_AnimalCoop_Nothing" offset="00" relocatable="true" max_length="0">
+			<original>尚未饲养任何动物……</original>
+			<edited>尚未饲养任何动物……</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_AnimalCoop_Choice" offset="00" relocatable="true" max_length="0">
+			<original>请选择要放牧的动物。</original>
+			<edited>请选择要放牧的动物。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_AnimalCoop_Trade" offset="00" relocatable="true" max_length="0">
+			<original>替换</original>
+			<edited>替换</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_AnimalCoop_FreeAnimal" offset="00" relocatable="true" max_length="0">
+			<original>要放牧的动物</original>
+			<edited>要放牧的动物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_AnimalCoop_InAnimal" offset="00" relocatable="true" max_length="0">
+			<original>饲养中的动物</original>
+			<edited>饲养中的动物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_AnimalCoop_Number" offset="00" relocatable="true" max_length="0">
+			<original>饲养数量</original>
+			<edited>饲养数量</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_AnimalCoop_Entrust" offset="00" relocatable="true" max_length="0">
+			<original>回小屋</original>
+			<edited>回小屋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_AnimalCoop_Contact" offset="00" relocatable="true" max_length="0">
+			<original>凝视</original>
+			<edited>凝视</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_RECORD_HALL_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>活动记录馆</original>
+			<edited>活动记录馆</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_RECORD_HALL_0" offset="00" relocatable="true" max_length="0">
+			<original>可在活动记录馆
+查看及编辑“神龙战历卡”。</original>
+			<edited>可在活动记录馆
+查看及编辑“神龙战历卡”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_RECORD_HALL_1" offset="00" relocatable="true" max_length="0">
+			<original>在据点菜单的“伙伴”
+也可执行相同操作。
+（只能在索拉涅尔的室外印制风景）</original>
+			<edited>在据点菜单的“伙伴”
+也可执行相同操作。
+（只能在索拉涅尔的室外印制风景）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_PROFILE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>神龙战历卡</original>
+			<edited>神龙战历卡</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_PROFILE_0" offset="00" relocatable="true" max_length="0">
+			<original>能够记录到目前为止的游玩记录，
+以及自己简历的卡片。</original>
+			<edited>能够记录到目前为止的游玩记录，
+以及自己简历的卡片。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_PROFILE_1" offset="00" relocatable="true" max_length="0">
+			<original>只要使用通信功能，
+即可向其他玩家公开自己的战历卡，
+或是获得其他玩家的战历卡。</original>
+			<edited>只要使用通信功能，
+即可向其他玩家公开自己的战历卡，
+或是获得其他玩家的战历卡。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_PROFILE_EDIT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>编辑战历卡</original>
+			<edited>编辑战历卡</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_PROFILE_EDIT_0" offset="00" relocatable="true" max_length="0">
+			<original>可在“个人卡片”编辑自己的战历卡。</original>
+			<edited>可在“个人卡片”编辑自己的战历卡。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_PROFILE_EDIT_1" offset="00" relocatable="true" max_length="0">
+			<original>持续游玩以满足条件，
+能够选择的词语及素材就会增加。</original>
+			<edited>持续游玩以满足条件，
+能够选择的词语及素材就会增加。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_PROFILE_PHOTO_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>印制风景</original>
+			<edited>印制风景</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_PROFILE_PHOTO_0" offset="00" relocatable="true" max_length="0">
+			<original>可以印制（拍摄）要显示在战历卡上的图片。</original>
+			<edited>可以印制（拍摄）要显示在战历卡上的图片。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_PROFILE_PHOTO_1" offset="00" relocatable="true" max_length="0">
+			<original>选择喜欢的地点、伙伴、装饰品、姿势。</original>
+			<edited>选择喜欢的地点、伙伴、装饰品、姿势。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_PROFILE_PHOTO_2" offset="00" relocatable="true" max_length="0">
+			<original>全部选择完毕后，
+按下&#xE;&#x8;&#x2;
+&#x8;&#x0;P&#x0;l&#x0;u&#x0;s&#x0;进入印制模式，再按下&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;L&#x0;&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;R&#x0;即可印制。</original>
+			<edited>全部选择完毕后，
+按下&#xE;&#x8;&#x2;
+&#x8;&#x0;P&#x0;l&#x0;u&#x0;s&#x0;进入印制模式，再按下&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;L&#x0;&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;R&#x0;即可印制。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_PROFILE_TRADE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>交换战历卡</original>
+			<edited>交换战历卡</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_PROFILE_TRADE_0" offset="00" relocatable="true" max_length="0">
+			<original>只要游玩续战的试炼或异界的试炼，
+就会上传个人卡片，
+让其他玩家能够获得。</original>
+			<edited>只要游玩续战的试炼或异界的试炼，
+就会上传个人卡片，
+让其他玩家能够获得。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_PROFILE_TRADE_1" offset="00" relocatable="true" max_length="0">
+			<original>若将卡片设定为“不公开”，
+其他玩家就无法获得上传的个人卡片。</original>
+			<edited>若将卡片设定为“不公开”，
+其他玩家就无法获得上传的个人卡片。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_PROFILE_TRADE_2" offset="00" relocatable="true" max_length="0">
+			<original>可在异界战历卡菜单中查看、删除获得的卡片。</original>
+			<edited>可在异界战历卡菜单中查看、删除获得的卡片。</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

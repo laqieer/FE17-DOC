@@ -1,0 +1,2313 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_MENU_YES" offset="00" relocatable="true" max_length="0">
+			<original>是</original>
+			<edited>是</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_START" offset="00" relocatable="true" max_length="0">
+			<original>开始</original>
+			<edited>开始</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_NO" offset="00" relocatable="true" max_length="0">
+			<original>否</original>
+			<edited>否</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CANCEL" offset="00" relocatable="true" max_length="0">
+			<original>返回</original>
+			<edited>返回</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CANCEL_NO" offset="00" relocatable="true" max_length="0">
+			<original>退出</original>
+			<edited>退出</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MONETARY_UNIT" offset="00" relocatable="true" max_length="0">
+			<original>G</original>
+			<edited>G</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_UNIT_LIST" offset="00" relocatable="true" max_length="0">
+			<original>部队表</original>
+			<edited>部队表</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_UNIT_LIST_HELP" offset="00" relocatable="true" max_length="0">
+			<original>一并确认我方单位的详细情况。</original>
+			<edited>一并确认我方单位的详细情况。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_UNIT_LIST_TITLEHELP" offset="00" relocatable="true" max_length="0">
+			<original>一并确认我方单位的详细情况。</original>
+			<edited>一并确认我方单位的详细情况。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ORDER" offset="00" relocatable="true" max_length="0">
+			<original>委任</original>
+			<edited>委任</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ORDER_HELP" offset="00" relocatable="true" max_length="0">
+			<original>仅决定战斗方针，
+交由伙伴自主行动。</original>
+			<edited>仅决定战斗方针，
+交由伙伴自主行动。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REWIND" offset="00" relocatable="true" max_length="0">
+			<original>龙之时水晶</original>
+			<edited>龙之时水晶</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REWIND_HELP" offset="00" relocatable="true" max_length="0">
+			<original>使时光回溯并重新行动。</original>
+			<edited>使时光回溯并重新行动。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SYSTEM" offset="00" relocatable="true" max_length="0">
+			<original>系统</original>
+			<edited>系统</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_H_SYSTEM" offset="00" relocatable="true" max_length="0">
+			<original>再次查看指南或调整环境设置。</original>
+			<edited>再次查看指南或调整环境设置。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TUTORIAL" offset="00" relocatable="true" max_length="0">
+			<original>指南</original>
+			<edited>指南</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TUTORIAL_HELP" offset="00" relocatable="true" max_length="0">
+			<original>请选择指南项目。</original>
+			<edited>请选择指南项目。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_H_TUTORIAL" offset="00" relocatable="true" max_length="0">
+			<original>查看指南。</original>
+			<edited>查看指南。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CONFIG" offset="00" relocatable="true" max_length="0">
+			<original>环境设置</original>
+			<edited>环境设置</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CONFIG_HELP" offset="00" relocatable="true" max_length="0">
+			<original>请依照您的喜好调整设置。</original>
+			<edited>请依照您的喜好调整设置。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_H_CONFIG" offset="00" relocatable="true" max_length="0">
+			<original>调整环境设置。</original>
+			<edited>调整环境设置。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_RESTART" offset="00" relocatable="true" max_length="0">
+			<original>重新开始</original>
+			<edited>重新开始</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_RESTART_HELP" offset="00" relocatable="true" max_length="0">
+			<original>回到出击前的状态。</original>
+			<edited>回到出击前的状态。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_RESTART_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>确定要回到出击前的状态吗？
+（战斗中获得的经验值将恢复原状）</original>
+			<edited>确定要回到出击前的状态吗？
+（战斗中获得的经验值将恢复原状）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_RESTART_CONFIRM_YES" offset="00" relocatable="true" max_length="0">
+			<original>重新开始</original>
+			<edited>重新开始</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CONTINUEBATTLE_RESTART" offset="00" relocatable="true" max_length="0">
+			<original>重新开始连战</original>
+			<edited>重新开始连战</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CONTINUEBATTLE_RESTART_HELP" offset="00" relocatable="true" max_length="0">
+			<original>回到最初的地图重新开始连战。</original>
+			<edited>回到最初的地图重新开始连战。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CONTINUEBATTLE_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>确定要回到开始连战前的状态吗？
+（战斗中获得的经验值将恢复原状）</original>
+			<edited>确定要回到开始连战前的状态吗？
+（战斗中获得的经验值将恢复原状）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_RESET" offset="00" relocatable="true" max_length="0">
+			<original>重置</original>
+			<edited>重置</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_RESET_HELP" offset="00" relocatable="true" max_length="0">
+			<original>回到游戏开始画面</original>
+			<edited>回到游戏开始画面</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_RESET_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>目前进度尚未保存，确定要回到游戏开始画面吗？</original>
+			<edited>目前进度尚未保存，确定要回到游戏开始画面吗？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_RESET_CONFIRM_YES" offset="00" relocatable="true" max_length="0">
+			<original>回到游戏开始画面</original>
+			<edited>回到游戏开始画面</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TEMPORARY_SAVE" offset="00" relocatable="true" max_length="0">
+			<original>中断</original>
+			<edited>中断</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TEMPORARY_SAVE_HELP" offset="00" relocatable="true" max_length="0">
+			<original>保存战斗状况，暂时中断游戏。</original>
+			<edited>保存战斗状况，暂时中断游戏。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_END_TURN" offset="00" relocatable="true" max_length="0">
+			<original>结束</original>
+			<edited>结束</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_END_TURN_HELP" offset="00" relocatable="true" max_length="0">
+			<original>结束我军行动。</original>
+			<edited>结束我军行动。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_MVP" offset="00" relocatable="true" max_length="0">
+			<original>MVP</original>
+			<edited>MVP</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TURN_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>回合数</original>
+			<edited>回合数</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TURNS_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>回合数</original>
+			<edited>回合数</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_WAIT_UNIT_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>未行动</original>
+			<edited>未行动</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STATUS_STYLE" offset="00" relocatable="true" max_length="0">
+			<original>类型</original>
+			<edited>类型</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STATUS_ATTACK_DEFENSE" offset="00" relocatable="true" max_length="0">
+			<original>物攻/防守</original>
+			<edited>物攻/防守</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STATUS_MAGIC_ATTACK_DEFENSE" offset="00" relocatable="true" max_length="0">
+			<original>魔攻/魔防</original>
+			<edited>魔攻/魔防</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STATUS_HIT_AVOIDANCE" offset="00" relocatable="true" max_length="0">
+			<original>命中/回避</original>
+			<edited>命中/回避</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STATUS_CRITICAL_SECURE" offset="00" relocatable="true" max_length="0">
+			<original>必杀/必避</original>
+			<edited>必杀/必避</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STATUS_TECHNIQUE_SPEED" offset="00" relocatable="true" max_length="0">
+			<original>技巧/速度</original>
+			<edited>技巧/速度</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STATUS_MOVE_PHYSIQUE" offset="00" relocatable="true" max_length="0">
+			<original>移动/体格</original>
+			<edited>移动/体格</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STATUS_NONE" offset="00" relocatable="true" max_length="0">
+			<original>隐藏显示</original>
+			<edited>隐藏显示</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STATUS_MINIMAP" offset="00" relocatable="true" max_length="0">
+			<original>小地图</original>
+			<edited>小地图</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STATUS_MINIMAP_SMALL" offset="00" relocatable="true" max_length="0">
+			<original>显示尺寸：小</original>
+			<edited>显示尺寸：小</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STATUS_MINIMAP_BIG" offset="00" relocatable="true" max_length="0">
+			<original>显示尺寸：大</original>
+			<edited>显示尺寸：大</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_INITIALIZE" offset="00" relocatable="true" max_length="0">
+			<original>是否还原环境设置？</original>
+			<edited>是否还原环境设置？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_GRID" offset="00" relocatable="true" max_length="0">
+			<original>格子透明度</original>
+			<edited>格子透明度</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_GRID" offset="00" relocatable="true" max_length="0">
+			<original>格子的透明度。</original>
+			<edited>格子的透明度。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_OVERALLINFORMATION" offset="00" relocatable="true" max_length="0">
+			<original>显示全体危险范围</original>
+			<edited>显示全体危险范围</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_OVERALLINFORMATION_TOGGLE" offset="00" relocatable="true" max_length="0">
+			<original>开关</original>
+			<edited>开关</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_OVERALLINFORMATION_TOGGLE" offset="00" relocatable="true" max_length="0">
+			<original>按下&#xE;&#x8;&#x2;&#x6;&#x4;&#x0;Z&#x0;L&#x0;键即可显示/隐藏危险范围。</original>
+			<edited>按下&#xE;&#x8;&#x2;&#x6;&#x4;&#x0;Z&#x0;L&#x0;键即可显示/隐藏危险范围。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_OVERALLINFORMATION_PUSH" offset="00" relocatable="true" max_length="0">
+			<original>按压</original>
+			<edited>按压</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_OVERALLINFORMATION_PUSH" offset="00" relocatable="true" max_length="0">
+			<original>仅在长按&#xE;&#x8;&#x2;&#x6;&#x4;&#x0;Z&#x0;L&#x0;键时显示危险范围。</original>
+			<edited>仅在长按&#xE;&#x8;&#x2;&#x6;&#x4;&#x0;Z&#x0;L&#x0;键时显示危险范围。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_COMBATANIME" offset="00" relocatable="true" max_length="0">
+			<original>战斗动画</original>
+			<edited>战斗动画</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_COMBATANIME_ON" offset="00" relocatable="true" max_length="0">
+			<original>开启</original>
+			<edited>开启</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_COMBATANIME_ON" offset="00" relocatable="true" max_length="0">
+			<original>显示战斗动画。</original>
+			<edited>显示战斗动画。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_COMBATANIME_OFF" offset="00" relocatable="true" max_length="0">
+			<original>关闭</original>
+			<edited>关闭</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_COMBATANIME_OFF" offset="00" relocatable="true" max_length="0">
+			<original>不显示战斗动画。</original>
+			<edited>不显示战斗动画。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_COMBATANIME_MYUNIT" offset="00" relocatable="true" max_length="0">
+			<original>我方单位</original>
+			<edited>我方单位</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_COMBATANIME_MYUNIT" offset="00" relocatable="true" max_length="0">
+			<original>仅在我方单位参与战斗时显示战斗动画。</original>
+			<edited>仅在我方单位参与战斗时显示战斗动画。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_COMBATANIME_MYTURN" offset="00" relocatable="true" max_length="0">
+			<original>我方行动阶段</original>
+			<edited>我方行动阶段</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_COMBATANIME_MYTURN" offset="00" relocatable="true" max_length="0">
+			<original>仅在我方行动阶段显示战斗动画。</original>
+			<edited>仅在我方行动阶段显示战斗动画。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_ROD_DANCE" offset="00" relocatable="true" max_length="0">
+			<original>杖·起舞动画</original>
+			<edited>杖·起舞动画</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_ROD_DANCE_ON" offset="00" relocatable="true" max_length="0">
+			<original>开启</original>
+			<edited>开启</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_ROD_DANCE_ON" offset="00" relocatable="true" max_length="0">
+			<original>显示杖·起舞动画。</original>
+			<edited>显示杖·起舞动画。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_ROD_DANCE_OFF" offset="00" relocatable="true" max_length="0">
+			<original>关闭</original>
+			<edited>关闭</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_ROD_DANCE_OFF" offset="00" relocatable="true" max_length="0">
+			<original>不显示杖·起舞动画。</original>
+			<edited>不显示杖·起舞动画。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_ROD_DANCE_MYUNIT" offset="00" relocatable="true" max_length="0">
+			<original>我方单位</original>
+			<edited>我方单位</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_ROD_DANCE_MYUNIT" offset="00" relocatable="true" max_length="0">
+			<original>仅在我方单位参与战斗时显示杖·起舞动画。</original>
+			<edited>仅在我方单位参与战斗时显示杖·起舞动画。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_ROD_DANCE_MYTURN" offset="00" relocatable="true" max_length="0">
+			<original>我方行动阶段</original>
+			<edited>我方行动阶段</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_ROD_DANCE_MYTURN" offset="00" relocatable="true" max_length="0">
+			<original>仅在我方行动阶段显示杖·起舞动画。</original>
+			<edited>仅在我方行动阶段显示杖·起舞动画。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_ENGAGE" offset="00" relocatable="true" max_length="0">
+			<original>结合动画</original>
+			<edited>结合动画</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_ENGAGE_ON" offset="00" relocatable="true" max_length="0">
+			<original>开启</original>
+			<edited>开启</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_ENGAGE_ON" offset="00" relocatable="true" max_length="0">
+			<original>显示结合时的动画。</original>
+			<edited>显示结合时的动画。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_ENGAGE_OFF" offset="00" relocatable="true" max_length="0">
+			<original>关闭</original>
+			<edited>关闭</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_ENGAGE_OFF" offset="00" relocatable="true" max_length="0">
+			<original>不显示结合时的动画。</original>
+			<edited>不显示结合时的动画。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_ENGAGE_ONCE" offset="00" relocatable="true" max_length="0">
+			<original>仅限首次</original>
+			<edited>仅限首次</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_ENGAGE_ONCE" offset="00" relocatable="true" max_length="0">
+			<original>仅在每回合首次结合时显示动画。</original>
+			<edited>仅在每回合首次结合时显示动画。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_AI_SKIP" offset="00" relocatable="true" max_length="0">
+			<original>跳过AI显示</original>
+			<edited>跳过AI显示</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_AI_SKIP_ON" offset="00" relocatable="true" max_length="0">
+			<original>开启</original>
+			<edited>开启</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_AI_SKIP_ON" offset="00" relocatable="true" max_length="0">
+			<original>跳过敌军的行动阶段或“委任”时的行动过程。</original>
+			<edited>跳过敌军的行动阶段或“委任”时的行动过程。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_AI_SKIP_OFF" offset="00" relocatable="true" max_length="0">
+			<original>关闭</original>
+			<edited>关闭</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_AI_SKIP_OFF" offset="00" relocatable="true" max_length="0">
+			<original>显示敌军的行动阶段或“委任”时的行动过程。</original>
+			<edited>显示敌军的行动阶段或“委任”时的行动过程。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_UNITHELP_PAGE" offset="00" relocatable="true" max_length="0">
+			<original>单位辅助信息</original>
+			<edited>单位辅助信息</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_UNITHELP_PAGE_H_STYLE" offset="00" relocatable="true" max_length="0">
+			<original>于单位辅助信息显示战斗类型。</original>
+			<edited>于单位辅助信息显示战斗类型。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_UNITHELP_PAGE_H_ATTACK_DEFENSE" offset="00" relocatable="true" max_length="0">
+			<original>于单位辅助信息显示物攻/防守。</original>
+			<edited>于单位辅助信息显示物攻/防守。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_UNITHELP_PAGE_H_MAGIC_ATTACK_DEFENSE" offset="00" relocatable="true" max_length="0">
+			<original>于单位辅助信息显示魔攻/魔防。</original>
+			<edited>于单位辅助信息显示魔攻/魔防。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_UNITHELP_PAGE_H_HIT_AVOIDANCE" offset="00" relocatable="true" max_length="0">
+			<original>于单位辅助信息显示命中/回避。</original>
+			<edited>于单位辅助信息显示命中/回避。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_UNITHELP_PAGE_H_CRITICAL_SECURE" offset="00" relocatable="true" max_length="0">
+			<original>于单位辅助信息显示必杀/必避。</original>
+			<edited>于单位辅助信息显示必杀/必避。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_UNITHELP_PAGE_H_TECHNIQUE_SPEED" offset="00" relocatable="true" max_length="0">
+			<original>于单位辅助信息显示技巧/速度。</original>
+			<edited>于单位辅助信息显示技巧/速度。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_UNITHELP_PAGE_H_MOVE_PHYSIQUE" offset="00" relocatable="true" max_length="0">
+			<original>于单位辅助信息显示移动/体格。</original>
+			<edited>于单位辅助信息显示移动/体格。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_BATTLE_MINIMAP" offset="00" relocatable="true" max_length="0">
+			<original>战斗小地图</original>
+			<edited>战斗小地图</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_BATTLE_MINIMAP_BIG" offset="00" relocatable="true" max_length="0">
+			<original>放大显示战斗小地图</original>
+			<edited>放大显示战斗小地图</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_BATTLE_MINIMAP_SMALL" offset="00" relocatable="true" max_length="0">
+			<original>缩小显示战斗小地图</original>
+			<edited>缩小显示战斗小地图</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_BATTLE_MINIMAP_OFF" offset="00" relocatable="true" max_length="0">
+			<original>不显示战斗小地图</original>
+			<edited>不显示战斗小地图</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_MAPUNIT" offset="00" relocatable="true" max_length="0">
+			<original>单位的操作方式</original>
+			<edited>单位的操作方式</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_MAPUNIT_DIRECT" offset="00" relocatable="true" max_length="0">
+			<original>直接操作</original>
+			<edited>直接操作</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_MAPUNIT_DIRECT" offset="00" relocatable="true" max_length="0">
+			<original>选择单位并直接操作。</original>
+			<edited>选择单位并直接操作。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_MAPUNIT_INDIRECT" offset="00" relocatable="true" max_length="0">
+			<original>间接操作</original>
+			<edited>间接操作</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_MAPUNIT_INDIRECT" offset="00" relocatable="true" max_length="0">
+			<original>将光标移至移动目的地，间接执行操作。</original>
+			<edited>将光标移至移动目的地，间接执行操作。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_MINIMAP_ROTATION" offset="00" relocatable="true" max_length="0">
+			<original>转动据点和散步小地图</original>
+			<edited>转动据点和散步小地图</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_MINIMAP_ROTATION_ON" offset="00" relocatable="true" max_length="0">
+			<original>开启</original>
+			<edited>开启</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_MINIMAP_ROTATION_ON" offset="00" relocatable="true" max_length="0">
+			<original>据点与散步时的小地图将随视角转动。</original>
+			<edited>据点与散步时的小地图将随视角转动。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_MINIMAP_ROTATION_OFF" offset="00" relocatable="true" max_length="0">
+			<original>关闭</original>
+			<edited>关闭</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_MINIMAP_ROTATION_OFF" offset="00" relocatable="true" max_length="0">
+			<original>据点地图与散步时的地图将固定不转动。</original>
+			<edited>据点地图与散步时的地图将固定不转动。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_CAMERA_SPEED" offset="00" relocatable="true" max_length="0">
+			<original>视角转动灵敏度</original>
+			<edited>视角转动灵敏度</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_CAMERA_SPEED" offset="00" relocatable="true" max_length="0">
+			<original>调整据点与散步时视角转动的灵敏度。</original>
+			<edited>调整据点与散步时视角转动的灵敏度。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_COMBATCAMERA_HORIZON" offset="00" relocatable="true" max_length="0">
+			<original>调整战斗视角的水平转动</original>
+			<edited>调整战斗视角的水平转动</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_COMBATCAMERA_HORIZON_NOMAL" offset="00" relocatable="true" max_length="0">
+			<original>正向</original>
+			<edited>正向</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_COMBATCAMERA_HORIZON_NOMAL" offset="00" relocatable="true" max_length="0">
+			<original>将战斗视角的水平转动设置为正向模式。</original>
+			<edited>将战斗视角的水平转动设置为正向模式。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_COMBATCAMERA_HORIZON_REVERSE" offset="00" relocatable="true" max_length="0">
+			<original>反向</original>
+			<edited>反向</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_COMBATCAMERA_HORIZON_REVERSE" offset="00" relocatable="true" max_length="0">
+			<original>将战斗视角的水平转动设置为反向模式。</original>
+			<edited>将战斗视角的水平转动设置为反向模式。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_COMBATCAMERA_VERTICAL" offset="00" relocatable="true" max_length="0">
+			<original>调整战斗视角的垂直转动</original>
+			<edited>调整战斗视角的垂直转动</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_COMBATCAMERA_VERTICAL_NOMAL" offset="00" relocatable="true" max_length="0">
+			<original>正向</original>
+			<edited>正向</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_COMBATCAMERA_VERTICAL_NOMAL" offset="00" relocatable="true" max_length="0">
+			<original>将战斗视角的垂直转动设置为正向模式。</original>
+			<edited>将战斗视角的垂直转动设置为正向模式。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_COMBATCAMERA_VERTICAL_REVERSE" offset="00" relocatable="true" max_length="0">
+			<original>反向</original>
+			<edited>反向</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_COMBATCAMERA_VERTICAL_REVERSE" offset="00" relocatable="true" max_length="0">
+			<original>将战斗视角的垂直转动设置为反向模式。</original>
+			<edited>将战斗视角的垂直转动设置为反向模式。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_HABCAMERA_HORIZON" offset="00" relocatable="true" max_length="0">
+			<original>调整据点视角的水平转动</original>
+			<edited>调整据点视角的水平转动</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_HABCAMERA_HORIZON_NOMAL" offset="00" relocatable="true" max_length="0">
+			<original>正向</original>
+			<edited>正向</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_HABCAMERA_HORIZON_NOMAL" offset="00" relocatable="true" max_length="0">
+			<original>将据点视角的水平移动设置为正向模式。</original>
+			<edited>将据点视角的水平移动设置为正向模式。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_HABCAMERA_HORIZON_REVERSE" offset="00" relocatable="true" max_length="0">
+			<original>反向</original>
+			<edited>反向</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_HABCAMERA_HORIZON_REVERSE" offset="00" relocatable="true" max_length="0">
+			<original>将据点视角的水平移动设置为反向模式。</original>
+			<edited>将据点视角的水平移动设置为反向模式。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_HABCAMERA_VERTICAL" offset="00" relocatable="true" max_length="0">
+			<original>调整据点视角的垂直移动</original>
+			<edited>调整据点视角的垂直移动</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_HABCAMERA_VERTICAL_NOMAL" offset="00" relocatable="true" max_length="0">
+			<original>正向</original>
+			<edited>正向</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_HABCAMERA_VERTICAL_NOMAL" offset="00" relocatable="true" max_length="0">
+			<original>将据点视角的垂直移动设置为正向模式。</original>
+			<edited>将据点视角的垂直移动设置为正向模式。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_HABCAMERA_VERTICAL_REVERSE" offset="00" relocatable="true" max_length="0">
+			<original>反向</original>
+			<edited>反向</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_HABCAMERA_VERTICAL_REVERSE" offset="00" relocatable="true" max_length="0">
+			<original>将据点视角的垂直移动设置为反向模式。</original>
+			<edited>将据点视角的垂直移动设置为反向模式。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_GAMESPEED" offset="00" relocatable="true" max_length="0">
+			<original>游戏速度</original>
+			<edited>游戏速度</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_GAMESPEED_FAST" offset="00" relocatable="true" max_length="0">
+			<original>快速</original>
+			<edited>快速</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_GAMESPEED_FAST" offset="00" relocatable="true" max_length="0">
+			<original>将移动等游戏进行速度设置为快速。</original>
+			<edited>将移动等游戏进行速度设置为快速。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_GAMESPEED_NOMAL" offset="00" relocatable="true" max_length="0">
+			<original>普通</original>
+			<edited>普通</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_GAMESPEED_NOMAL" offset="00" relocatable="true" max_length="0">
+			<original>将移动等游戏进行速度设置为正常。</original>
+			<edited>将移动等游戏进行速度设置为正常。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_GAMESPEED_SLOW" offset="00" relocatable="true" max_length="0">
+			<original>慢速</original>
+			<edited>慢速</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_GAMESPEED_SLOW" offset="00" relocatable="true" max_length="0">
+			<original>将移动等游戏进行速度设置为慢速。</original>
+			<edited>将移动等游戏进行速度设置为慢速。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_HPGAGE" offset="00" relocatable="true" max_length="0">
+			<original>HP条</original>
+			<edited>HP条</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_HPGAGE_ON" offset="00" relocatable="true" max_length="0">
+			<original>开启</original>
+			<edited>开启</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_HPGAGE_ON" offset="00" relocatable="true" max_length="0">
+			<original>显示HP条。</original>
+			<edited>显示HP条。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_HPGAGE_OFF" offset="00" relocatable="true" max_length="0">
+			<original>关闭</original>
+			<edited>关闭</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_HPGAGE_OFF" offset="00" relocatable="true" max_length="0">
+			<original>不显示HP条。</original>
+			<edited>不显示HP条。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_SPEAKMODE" offset="00" relocatable="true" max_length="0">
+			<original>对话进行模式</original>
+			<edited>对话进行模式</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_SPEAKMODE_MANUAL" offset="00" relocatable="true" max_length="0">
+			<original>手动</original>
+			<edited>手动</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_SPEAKMODE_MANUAL" offset="00" relocatable="true" max_length="0">
+			<original>手动进行对话。</original>
+			<edited>手动进行对话。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_SPEAKMODE_AUTOMATIC" offset="00" relocatable="true" max_length="0">
+			<original>自动</original>
+			<edited>自动</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_SPEAKMODE_AUTOMATIC" offset="00" relocatable="true" max_length="0">
+			<original>自动进行对话。</original>
+			<edited>自动进行对话。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_BGM" offset="00" relocatable="true" max_length="0">
+			<original>背景音乐音量</original>
+			<edited>背景音乐音量</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_BGM" offset="00" relocatable="true" max_length="0">
+			<original>调节背景音乐音量。</original>
+			<edited>调节背景音乐音量。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_SE" offset="00" relocatable="true" max_length="0">
+			<original>音效音量</original>
+			<edited>音效音量</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_SE" offset="00" relocatable="true" max_length="0">
+			<original>调整音效音量。</original>
+			<edited>调整音效音量。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_VOICE" offset="00" relocatable="true" max_length="0">
+			<original>语音音量</original>
+			<edited>语音音量</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_VOICE" offset="00" relocatable="true" max_length="0">
+			<original>调节语音音量。</original>
+			<edited>调节语音音量。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_BGM_CHANGE_MYTURN" offset="00" relocatable="true" max_length="0">
+			<original>背景音乐设置（我军行动阶段）</original>
+			<edited>背景音乐设置（我军行动阶段）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_BGM_CHANGE_MYTURN" offset="00" relocatable="true" max_length="0">
+			<original>将故事剧情以外的我军行动阶段背景音乐设置为“&#xE;&#x1;&#x0;&#x0;”。</original>
+			<edited>将故事剧情以外的我军行动阶段背景音乐设置为“&#xE;&#x1;&#x0;&#x0;”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_BGM_CHANGE_MYTURN_NONE" offset="00" relocatable="true" max_length="0">
+			<original>不变更故事剧情以外的我军行动阶段背景音乐。</original>
+			<edited>不变更故事剧情以外的我军行动阶段背景音乐。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_BGM_CHANGE_ENEMYTURN" offset="00" relocatable="true" max_length="0">
+			<original>背景音乐设置（敌军行动阶段）</original>
+			<edited>背景音乐设置（敌军行动阶段）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_BGM_CHANGE_ENEMYTURN" offset="00" relocatable="true" max_length="0">
+			<original>将故事剧情以外的敌军行动阶段背景音乐设置为“&#xE;&#x1;&#x0;&#x0;”。</original>
+			<edited>将故事剧情以外的敌军行动阶段背景音乐设置为“&#xE;&#x1;&#x0;&#x0;”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_BGM_CHANGE_ENEMYTURN_NONE" offset="00" relocatable="true" max_length="0">
+			<original>不变更故事剧情以外的敌军行动阶段背景音乐。</original>
+			<edited>不变更故事剧情以外的敌军行动阶段背景音乐。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_BGM_CHANGE_DECIDE" offset="00" relocatable="true" max_length="0">
+			<original>更改设置</original>
+			<edited>更改设置</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_BGM_CHANGE_NOSELECT" offset="00" relocatable="true" max_length="0">
+			<original>尚未选择</original>
+			<edited>尚未选择</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_TUTORIAL" offset="00" relocatable="true" max_length="0">
+			<original>显示指南</original>
+			<edited>显示指南</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_TUTORIAL_ON" offset="00" relocatable="true" max_length="0">
+			<original>开启</original>
+			<edited>开启</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_TUTORIAL_ON" offset="00" relocatable="true" max_length="0">
+			<original>于游戏中显示指南。</original>
+			<edited>于游戏中显示指南。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_TUTORIAL_OFF" offset="00" relocatable="true" max_length="0">
+			<original>关闭</original>
+			<edited>关闭</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_TUTORIAL_OFF" offset="00" relocatable="true" max_length="0">
+			<original>不于游戏中显示指南。（部分情况除外）</original>
+			<edited>不于游戏中显示指南。（部分情况除外）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_NETWORK" offset="00" relocatable="true" max_length="0">
+			<original>通讯</original>
+			<edited>通讯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_NETWORK_ON" offset="00" relocatable="true" max_length="0">
+			<original>开启</original>
+			<edited>开启</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_NETWORK_ON" offset="00" relocatable="true" max_length="0">
+			<original>开启通讯功能。</original>
+			<edited>开启通讯功能。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_NETWORK_OFF" offset="00" relocatable="true" max_length="0">
+			<original>关闭</original>
+			<edited>关闭</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_NETWORK_OFF" offset="00" relocatable="true" max_length="0">
+			<original>关闭通讯功能。</original>
+			<edited>关闭通讯功能。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TITLE_GMAP" offset="00" relocatable="true" max_length="0">
+			<original>世界地图菜单</original>
+			<edited>世界地图菜单</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TITLE_KIZUNA" offset="00" relocatable="true" max_length="0">
+			<original>散步菜单</original>
+			<edited>散步菜单</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TITLE_HUB" offset="00" relocatable="true" max_length="0">
+			<original>据点菜单</original>
+			<edited>据点菜单</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TITLE_FASTTRAVEL" offset="00" relocatable="true" max_length="0">
+			<original>快捷旅行</original>
+			<edited>快捷旅行</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TITLE_FASTTRAVEL_HELP" offset="00" relocatable="true" max_length="0">
+			<original>请选择想前往的目的地。</original>
+			<edited>请选择想前往的目的地。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_CHAPTER" offset="00" relocatable="true" max_length="0">
+			<original>开始该章节</original>
+			<edited>开始该章节</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_CHAPTER_HELP" offset="00" relocatable="true" max_length="0">
+			<original>开始该地图的故事。</original>
+			<edited>开始该地图的故事。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_ENCOUNTER" offset="00" relocatable="true" max_length="0">
+			<original>开始遭遇战</original>
+			<edited>开始遭遇战</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_ENCOUNTER_HELP" offset="00" relocatable="true" max_length="0">
+			<original>与该地图的敌人战斗。</original>
+			<edited>与该地图的敌人战斗。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_TRAINING" offset="00" relocatable="true" max_length="0">
+			<original>开始训练</original>
+			<edited>开始训练</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_TRAINING_HELP" offset="00" relocatable="true" max_length="0">
+			<original>与该地图的士兵进行训练。</original>
+			<edited>与该地图的士兵进行训练。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_CHAPTER_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>是否开启该章节？</original>
+			<edited>是否开启该章节？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_CHAPTER_CONFIRM_M010" offset="00" relocatable="true" max_length="0">
+			<original>是否开启该章节？
+（此章与下一章将为连续战斗）</original>
+			<edited>是否开启该章节？
+（此章与下一章将为连续战斗）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_ENCOUNTER_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>是否展开遭遇战？</original>
+			<edited>是否展开遭遇战？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_TRAINING_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>是否开始训练？</original>
+			<edited>是否开始训练？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_YES" offset="00" relocatable="true" max_length="0">
+			<original>开始</original>
+			<edited>开始</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_CHAPTER_OPEN_M026" offset="00" relocatable="true" max_length="0">
+			<original>可以从索拉涅尔２楼的开放式茶座阳台，
+前往和邪龙尚卜尔的最终决战。</original>
+			<edited>可以从索拉涅尔２楼的开放式茶座阳台，
+前往和邪龙尚卜尔的最终决战。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FRIEND" offset="00" relocatable="true" max_length="0">
+			<original>伙伴</original>
+			<edited>伙伴</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FRIEND_HELP" offset="00" relocatable="true" max_length="0">
+			<original>确认对话与伙伴的相关信息。</original>
+			<edited>确认对话与伙伴的相关信息。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FRIEND_LIST" offset="00" relocatable="true" max_length="0">
+			<original>伙伴手册</original>
+			<edited>伙伴手册</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FRIEND_LIST_HELP" offset="00" relocatable="true" max_length="0">
+			<original>查看伙伴信息。</original>
+			<edited>查看伙伴信息。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FRIEND_LIST_SELECT_HELP" offset="00" relocatable="true" max_length="0">
+			<original>请选择想查看信息的单位。</original>
+			<edited>请选择想查看信息的单位。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FRIEND_LIST_NONE" offset="00" relocatable="true" max_length="0">
+			<original>尚无信息。
+到据点去找伙伴们聊聊吧。</original>
+			<edited>尚无信息。
+到据点去找伙伴们聊聊吧。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_RING_LIST" offset="00" relocatable="true" max_length="0">
+			<original>戒指&#xE;&#x1;&#x8;&#x0;图鉴</original>
+			<edited>戒指&#xE;&#x1;&#x8;&#x0;图鉴</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_RING_LIST_HELP" offset="00" relocatable="true" max_length="0">
+			<original>确认纹章士戒指及牵绊戒指的信息。</original>
+			<edited>确认纹章士戒指及牵绊戒指的信息。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_RING_LIST_SELECT_HELP" offset="00" relocatable="true" max_length="0">
+			<original>请选择想查看信息的戒指&#xE;&#x1;&#x8;&#x0;。</original>
+			<edited>请选择想查看信息的戒指&#xE;&#x1;&#x8;&#x0;。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HUB_MATERIAL" offset="00" relocatable="true" max_length="0">
+			<original>持有物品</original>
+			<edited>持有物品</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HUB_MATERIAL_HELP" offset="00" relocatable="true" max_length="0">
+			<original>查看材料与贵重品。</original>
+			<edited>查看材料与贵重品。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HUB_MAP_CHECK" offset="00" relocatable="true" max_length="0">
+			<original>据点情报</original>
+			<edited>据点情报</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HUB_MAP_CHECK_HELP" offset="00" relocatable="true" max_length="0">
+			<original>确认各设施信息、快速旅行。</original>
+			<edited>确认各设施信息、快速旅行。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_KIZUNA_DEPART" offset="00" relocatable="true" max_length="0">
+			<original>前往下个目的地</original>
+			<edited>前往下个目的地</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_KIZUNA_DEPART_HELP" offset="00" relocatable="true" max_length="0">
+			<original>离开并前往下个目的地。</original>
+			<edited>离开并前往下个目的地。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TO_SOLANEL" offset="00" relocatable="true" max_length="0">
+			<original>回到索拉涅尔</original>
+			<edited>回到索拉涅尔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TO_SOLANEL_HELP" offset="00" relocatable="true" max_length="0">
+			<original>移动到据点索拉涅尔。</original>
+			<edited>移动到据点索拉涅尔。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TO_SOLANEL_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>是否移动到索拉涅尔？</original>
+			<edited>是否移动到索拉涅尔？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TO_GMAP" offset="00" relocatable="true" max_length="0">
+			<original>前往世界地图</original>
+			<edited>前往世界地图</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TO_GMAP_HELP" offset="00" relocatable="true" max_length="0">
+			<original>移动至世界地图。</original>
+			<edited>移动至世界地图。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOPPING" offset="00" relocatable="true" max_length="0">
+			<original>商店</original>
+			<edited>商店</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOPPING_HELP" offset="00" relocatable="true" max_length="0">
+			<original>买卖武器或道具。</original>
+			<edited>买卖武器或道具。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_Recall_Reliance" offset="00" relocatable="true" max_length="0">
+			<original>支援对话</original>
+			<edited>支援对话</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_H_Recall_Reliance" offset="00" relocatable="true" max_length="0">
+			<original>和伙伴进行支援对话。</original>
+			<edited>和伙伴进行支援对话。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_Recall_Reliance_Unit" offset="00" relocatable="true" max_length="0">
+			<original>支援对象一览</original>
+			<edited>支援对象一览</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_Recall_GodReliance" offset="00" relocatable="true" max_length="0">
+			<original>牵绊对话</original>
+			<edited>牵绊对话</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_H_Recall_GodReliance" offset="00" relocatable="true" max_length="0">
+			<original>和纹章士进行牵绊对话。</original>
+			<edited>和纹章士进行牵绊对话。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_Recall_GodReliance_Unit" offset="00" relocatable="true" max_length="0">
+			<original>纹章士一览</original>
+			<edited>纹章士一览</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SoundList" offset="00" relocatable="true" max_length="0">
+			<original>乐曲一览</original>
+			<edited>乐曲一览</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_TRAINING" offset="00" relocatable="true" max_length="0">
+			<original>可以参与训练了！</original>
+			<edited>可以参与训练了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_ENCOUNTER" offset="00" relocatable="true" max_length="0">
+			<original>触发了遭遇战！</original>
+			<edited>触发了遭遇战！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_RarEnemy_EXP" offset="00" relocatable="true" max_length="0">
+			<original>银异形兵出现了！</original>
+			<edited>银异形兵出现了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_RarEnemy_Gold" offset="00" relocatable="true" max_length="0">
+			<original>金异形兵出现了！</original>
+			<edited>金异形兵出现了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Position" offset="00" relocatable="true" max_length="0">
+			<original>推荐</original>
+			<edited>推荐</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_PositionLv" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;Lv.&#xE;&#x1;&#x1;&#x0;</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;Lv.&#xE;&#x1;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Investment" offset="00" relocatable="true" max_length="0">
+			<original>投资Lv.&#xE;&#x1;&#x0;&#x0;</original>
+			<edited>投资Lv.&#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Material" offset="00" relocatable="true" max_length="0">
+			<original>材料</original>
+			<edited>材料</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Food" offset="00" relocatable="true" max_length="0">
+			<original>食材</original>
+			<edited>食材</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Animal" offset="00" relocatable="true" max_length="0">
+			<original>动物</original>
+			<edited>动物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Animal_Capture_OK" offset="00" relocatable="true" max_length="0">
+			<original>可收容</original>
+			<edited>可收容</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Animal_Capture_NG" offset="00" relocatable="true" max_length="0">
+			<original>不可收容</original>
+			<edited>不可收容</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Animal_Capture_Verification" offset="00" relocatable="true" max_length="0">
+			<original>是否将&#xE;&#x1;&#x0;&#x0;带回索拉涅尔？</original>
+			<edited>是否将&#xE;&#x1;&#x0;&#x0;带回索拉涅尔？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Animal_Capture_Yes" offset="00" relocatable="true" max_length="0">
+			<original>收容</original>
+			<edited>收容</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Animal_Capture_Attention" offset="00" relocatable="true" max_length="0">
+			<original>不知道饲养“&#xE;&#x1;&#x0;&#x0;”的方法，
+因此无法收容。
+只要在开放式茶座的布告栏“投资国家”，
+即可学到饲养方法。</original>
+			<edited>不知道饲养“&#xE;&#x1;&#x0;&#x0;”的方法，
+因此无法收容。
+只要在开放式茶座的布告栏“投资国家”，
+即可学到饲养方法。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Animal_Capture_Get" offset="00" relocatable="true" max_length="0">
+			<original>收容</original>
+			<edited>收容</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Animal_Capture_Got" offset="00" relocatable="true" max_length="0">
+			<original>已收容</original>
+			<edited>已收容</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ORDER_ADVANCE" offset="00" relocatable="true" max_length="0">
+			<original>进军</original>
+			<edited>进军</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ORDER_ADVANCE_HELP" offset="00" relocatable="true" max_length="0">
+			<original>根据当前战况行动。</original>
+			<edited>根据当前战况行动。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ORDER_RUSH" offset="00" relocatable="true" max_length="0">
+			<original>突击</original>
+			<edited>突击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ORDER_RUSH_HELP" offset="00" relocatable="true" max_length="0">
+			<original>行动中优先采取攻击。</original>
+			<edited>行动中优先采取攻击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ORDER_ESCORT" offset="00" relocatable="true" max_length="0">
+			<original>护卫</original>
+			<edited>护卫</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ORDER_ESCORT_HELP" offset="00" relocatable="true" max_length="0">
+			<original>掩护&#xE;&#x6;&#x3;&#x0;
+同时采取行动。</original>
+			<edited>掩护&#xE;&#x6;&#x3;&#x0;
+同时采取行动。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ORDER_WITHDRAW" offset="00" relocatable="true" max_length="0">
+			<original>后退</original>
+			<edited>后退</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ORDER_WITHDRAW_HELP" offset="00" relocatable="true" max_length="0">
+			<original>行动中与敌人保持距离。</original>
+			<edited>行动中与敌人保持距离。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_BREAK_DOWN" offset="00" relocatable="true" max_length="0">
+			<original>占领</original>
+			<edited>占领</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_BREAK_DOWN" offset="00" relocatable="true" max_length="0">
+			<original>通关该地图。</original>
+			<edited>通关该地图。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ESCAPE" offset="00" relocatable="true" max_length="0">
+			<original>离开</original>
+			<edited>离开</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_ESCAPE" offset="00" relocatable="true" max_length="0">
+			<original>离开该地图。</original>
+			<edited>离开该地图。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ATTACK" offset="00" relocatable="true" max_length="0">
+			<original>攻击</original>
+			<edited>攻击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_ATTACK" offset="00" relocatable="true" max_length="0">
+			<original>与敌人战斗。</original>
+			<edited>与敌人战斗。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENGAGE_COMMAND" offset="00" relocatable="true" max_length="0">
+			<original>结合</original>
+			<edited>结合</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENGAGE_COMMAND_RELEASE" offset="00" relocatable="true" max_length="0">
+			<original>解除结合</original>
+			<edited>解除结合</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_ENGAGE_COMMAND" offset="00" relocatable="true" max_length="0">
+			<original>与纹章士合为一体。</original>
+			<edited>与纹章士合为一体。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENGAGE_HELP_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>解放的能力</original>
+			<edited>解放的能力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ALTERNATE_HELP_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>变化的能力</original>
+			<edited>变化的能力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENGAGE_LINK" offset="00" relocatable="true" max_length="0">
+			<original>结合＋</original>
+			<edited>结合＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_ENGAGE_LINK" offset="00" relocatable="true" max_length="0">
+			<original>和指定对象同时结合。</original>
+			<edited>和指定对象同时结合。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENGAGE_LINK_OUT_OF_MOVE_RANGE" offset="00" relocatable="true" max_length="0">
+			<original>在此位置执行将会超出移动范围。</original>
+			<edited>在此位置执行将会超出移动范围。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CANNON" offset="00" relocatable="true" max_length="0">
+			<original>炮击</original>
+			<edited>炮击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_CANNON" offset="00" relocatable="true" max_length="0">
+			<original>使用炮台对敌人进行炮击。</original>
+			<edited>使用炮台对敌人进行炮击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CANNON_NO_AVAILABLE_BOW" offset="00" relocatable="true" max_length="0">
+			<original>未持有当前可使用的弓。</original>
+			<edited>未持有当前可使用的弓。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CANNON_NO_AVAILABLE_MAGIC" offset="00" relocatable="true" max_length="0">
+			<original>未持有当前可使用的魔道书。</original>
+			<edited>未持有当前可使用的魔道书。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CANNON_OUT_OF_AMMO" offset="00" relocatable="true" max_length="0">
+			<original>已达射击上限。</original>
+			<edited>已达射击上限。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CANNON_OUT_OF_RANGE" offset="00" relocatable="true" max_length="0">
+			<original>炮击范围内没有敌人。</original>
+			<edited>炮击范围内没有敌人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_DESTROY" offset="00" relocatable="true" max_length="0">
+			<original>破坏</original>
+			<edited>破坏</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_DESTROY" offset="00" relocatable="true" max_length="0">
+			<original>破坏墙壁或障碍物。</original>
+			<edited>破坏墙壁或障碍物。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ROD" offset="00" relocatable="true" max_length="0">
+			<original>杖</original>
+			<edited>杖</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_ROD" offset="00" relocatable="true" max_length="0">
+			<original>回复我方单位或妨碍敌人。</original>
+			<edited>回复我方单位或妨碍敌人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_VISIT" offset="00" relocatable="true" max_length="0">
+			<original>访问</original>
+			<edited>访问</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_VISIT" offset="00" relocatable="true" max_length="0">
+			<original>拜访民宅。</original>
+			<edited>拜访民宅。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TREASURE_BOX" offset="00" relocatable="true" max_length="0">
+			<original>宝箱</original>
+			<edited>宝箱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_TREASURE_BOX" offset="00" relocatable="true" max_length="0">
+			<original>可获得道具。</original>
+			<edited>可获得道具。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TORCH_ON" offset="00" relocatable="true" max_length="0">
+			<original>篝火</original>
+			<edited>篝火</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_TORCH_ON" offset="00" relocatable="true" max_length="0">
+			<original>照亮周围环境。</original>
+			<edited>照亮周围环境。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_DOOR" offset="00" relocatable="true" max_length="0">
+			<original>门扉钥匙</original>
+			<edited>门扉钥匙</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_DOOR" offset="00" relocatable="true" max_length="0">
+			<original>打开门扉。</original>
+			<edited>打开门扉。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>持有物品</original>
+			<edited>持有物品</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>使用／装备道具。</original>
+			<edited>使用／装备道具。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TRADE" offset="00" relocatable="true" max_length="0">
+			<original>交换持有物品</original>
+			<edited>交换持有物品</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_TRADE" offset="00" relocatable="true" max_length="0">
+			<original>和伙伴交换道具。</original>
+			<edited>和伙伴交换道具。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TRANSPORTER" offset="00" relocatable="true" max_length="0">
+			<original>运输队</original>
+			<edited>运输队</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_TRANSPORTER" offset="00" relocatable="true" max_length="0">
+			<original>保管／取出道具。</original>
+			<edited>保管／取出道具。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TITLEHELP_TRANSPORTER" offset="00" relocatable="true" max_length="0">
+			<original>保管/取出道具。</original>
+			<edited>保管/取出道具。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TALK" offset="00" relocatable="true" max_length="0">
+			<original>对话</original>
+			<edited>对话</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_TALK" offset="00" relocatable="true" max_length="0">
+			<original>和该单位对话。</original>
+			<edited>和该单位对话。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_GUARD" offset="00" relocatable="true" max_length="0">
+			<original>连锁防御</original>
+			<edited>连锁防御</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_GUARD" offset="00" relocatable="true" max_length="0">
+			<original>使相邻我方单位所受攻击无效。</original>
+			<edited>使相邻我方单位所受攻击无效。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_GUARD_FULL_HP" offset="00" relocatable="true" max_length="0">
+			<original>HP未达最大值，无法使用。</original>
+			<edited>HP未达最大值，无法使用。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_DANCE" offset="00" relocatable="true" max_length="0">
+			<original>起舞</original>
+			<edited>起舞</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_DANCE" offset="00" relocatable="true" max_length="0">
+			<original>表演特别舞蹈使我方单位再次行动。</original>
+			<edited>表演特别舞蹈使我方单位再次行动。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_WAIT" offset="00" relocatable="true" max_length="0">
+			<original>待命</original>
+			<edited>待命</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_WAIT" offset="00" relocatable="true" max_length="0">
+			<original>结束行动。</original>
+			<edited>结束行动。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_EQUIP" offset="00" relocatable="true" max_length="0">
+			<original>装备</original>
+			<edited>装备</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_REMOVE" offset="00" relocatable="true" max_length="0">
+			<original>卸除</original>
+			<edited>卸除</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_ARRANGE" offset="00" relocatable="true" max_length="0">
+			<original>更改排序</original>
+			<edited>更改排序</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_USE" offset="00" relocatable="true" max_length="0">
+			<original>使用</original>
+			<edited>使用</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_USE_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>是否使用“&#xE;&#x1;&#x0;&#x0;”？</original>
+			<edited>是否使用“&#xE;&#x1;&#x0;&#x0;”？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_USE_DOPING_FOREVER" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;值上升了&#xE;&#x1;&#x1;&#x0;。</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;值上升了&#xE;&#x1;&#x1;&#x0;。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_USE_DOPING_TEMPORARY" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;值上升了&#xE;&#x1;&#x1;&#x0;。（直到战斗结束）</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;值上升了&#xE;&#x1;&#x1;&#x0;。（直到战斗结束）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_TRADE" offset="00" relocatable="true" max_length="0">
+			<original>交换</original>
+			<edited>交换</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_DISCARD" offset="00" relocatable="true" max_length="0">
+			<original>舍弃</original>
+			<edited>舍弃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_DISCARD_NOTIFY" offset="00" relocatable="true" max_length="0">
+			<original>持有物品过多。
+请选择一件要舍弃的东西。</original>
+			<edited>持有物品过多。
+请选择一件要舍弃的东西。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_SEND_NOTIFY" offset="00" relocatable="true" max_length="0">
+			<original>持有物品过多。
+请选择一件要交给运输队的东西。</original>
+			<edited>持有物品过多。
+请选择一件要交给运输队的东西。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_SEND_EQUIP" offset="00" relocatable="true" max_length="0">
+			<original>无法交付装备中的武器。</original>
+			<edited>无法交付装备中的武器。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_DISCARD_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>是否确定要舍弃&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;？</original>
+			<edited>是否确定要舍弃&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_DISCARD_CONFIRM_YES" offset="00" relocatable="true" max_length="0">
+			<original>舍弃</original>
+			<edited>舍弃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_SEND_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>是否将&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;交给运输队？</original>
+			<edited>是否将&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;交给运输队？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_SEND_YES" offset="00" relocatable="true" max_length="0">
+			<original>是</original>
+			<edited>是</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_CASH_ANNOUNCE" offset="00" relocatable="true" max_length="0">
+			<original>运输队保管的道具数量超过上限，
+已售出价格较低的道具。</original>
+			<edited>运输队保管的道具数量超过上限，
+已售出价格较低的道具。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ITEMMENU_TITLE_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>持有物品</original>
+			<edited>持有物品</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ITEMMENU_TITLE_ATTACK" offset="00" relocatable="true" max_length="0">
+			<original>选择武器</original>
+			<edited>选择武器</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ITEMMENU_TITLE_ROD" offset="00" relocatable="true" max_length="0">
+			<original>选择杖</original>
+			<edited>选择杖</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ITEMMENU_TITLE_TRANSPORTER" offset="00" relocatable="true" max_length="0">
+			<original>运输队</original>
+			<edited>运输队</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ITEMMENU_ITEM_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>持有数量</original>
+			<edited>持有数量</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ITEMMENU_ITEM_ALL" offset="00" relocatable="true" max_length="0">
+			<original>ALL</original>
+			<edited>ALL</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REWIND_INFO_TURN" offset="00" relocatable="true" max_length="0">
+			<original>回合</original>
+			<edited>回合</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REWIND_INFO_TURNS" offset="00" relocatable="true" max_length="0">
+			<original>回合</original>
+			<edited>回合</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REWIND_INFO_REST_UNIT" offset="00" relocatable="true" max_length="0">
+			<original>未行动</original>
+			<edited>未行动</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REWIND_INFO_TIMES" offset="00" relocatable="true" max_length="0">
+			<original>剩余次数</original>
+			<edited>剩余次数</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REWIND_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>回溯后并非我军行动阶段，
+是否确定仍要回溯？</original>
+			<edited>回溯后并非我军行动阶段，
+是否确定仍要回溯？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REWIND_DECIDE_YES" offset="00" relocatable="true" max_length="0">
+			<original>回溯</original>
+			<edited>回溯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_HELP" offset="00" relocatable="true" max_length="0">
+			<original>请选择要采取的行动。</original>
+			<edited>请选择要采取的行动。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_BUY" offset="00" relocatable="true" max_length="0">
+			<original>购买</original>
+			<edited>购买</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_BUY_EMPTY" offset="00" relocatable="true" max_length="0">
+			<original>现在没有任何商品。</original>
+			<edited>现在没有任何商品。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_BUY_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>是否购买道具？</original>
+			<edited>是否购买道具？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_PurchasedItem" offset="00" relocatable="true" max_length="0">
+			<original>待购品</original>
+			<edited>待购品</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_BUY_CONFIRM_YES" offset="00" relocatable="true" max_length="0">
+			<original>确定购买</original>
+			<edited>确定购买</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_BUY_NOTICE_FULL" offset="00" relocatable="true" max_length="0">
+			<original>无法持有更多物品，故无法购买。</original>
+			<edited>无法持有更多物品，故无法购买。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_SELL" offset="00" relocatable="true" max_length="0">
+			<original>出售</original>
+			<edited>出售</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_SELL_EMPTY" offset="00" relocatable="true" max_length="0">
+			<original>未持有任何物品。</original>
+			<edited>未持有任何物品。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_SELL_CANNOT" offset="00" relocatable="true" max_length="0">
+			<original>无法出售</original>
+			<edited>无法出售</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_SELL_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>是否确定出售道具？</original>
+			<edited>是否确定出售道具？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_SELL_CONFIRM_Multiple" offset="00" relocatable="true" max_length="0">
+			<original>是否确定出售选择的道具？</original>
+			<edited>是否确定出售选择的道具？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_SELL_CONFIRM_Other" offset="00" relocatable="true" max_length="0">
+			<original>其他：&#xE;&#x1;&#x0;&#x0;个</original>
+			<edited>其他：&#xE;&#x1;&#x0;&#x0;个</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_SaleItem" offset="00" relocatable="true" max_length="0">
+			<original>出售物品</original>
+			<edited>出售物品</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_SELL_CONFIRM_YES" offset="00" relocatable="true" max_length="0">
+			<original>确定出售</original>
+			<edited>确定出售</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>道具</original>
+			<edited>道具</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_STOCK" offset="00" relocatable="true" max_length="0">
+			<original>库存</original>
+			<edited>库存</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_USABLE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>次数</original>
+			<edited>次数</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_PRICE" offset="00" relocatable="true" max_length="0">
+			<original>价格</original>
+			<edited>价格</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_SELLING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>出售数</original>
+			<edited>出售数</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_SELLING_TOTAL" offset="00" relocatable="true" max_length="0">
+			<original>售价</original>
+			<edited>售价</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_WEAPON_SHOP" offset="00" relocatable="true" max_length="0">
+			<original>武器店</original>
+			<edited>武器店</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_WEAPON_SHOP_BUY_HELP" offset="00" relocatable="true" max_length="0">
+			<original>请选择要购买的武器。</original>
+			<edited>请选择要购买的武器。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_WEAPON_SHOP_HOLDING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>相同武器持有数量</original>
+			<edited>相同武器持有数量</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_WEAPON_SHOP_EQUIPPED_POSSIBLE" offset="00" relocatable="true" max_length="0">
+			<original>可装备的武器等级</original>
+			<edited>可装备的武器等级</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_SHOP" offset="00" relocatable="true" max_length="0">
+			<original>道具店</original>
+			<edited>道具店</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_SHOP_BUY_HELP" offset="00" relocatable="true" max_length="0">
+			<original>请选择要购买的道具。</original>
+			<edited>请选择要购买的道具。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_SHOP_SELL_HELP" offset="00" relocatable="true" max_length="0">
+			<original>请选择要出售的道具。</original>
+			<edited>请选择要出售的道具。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_SHOP_HOLDING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>相同道具持有数量</original>
+			<edited>相同道具持有数量</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACCESSORY_SHOP" offset="00" relocatable="true" max_length="0">
+			<original>装饰品店</original>
+			<edited>装饰品店</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACCESSORY_SHOP_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>换装</original>
+			<edited>换装</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACCESSORY_SHOP_BUY_HELP" offset="00" relocatable="true" max_length="0">
+			<original>请选择要购买的装饰品。</original>
+			<edited>请选择要购买的装饰品。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACCESSORY_SHOP_BUY_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>是否要购买装饰品？</original>
+			<edited>是否要购买装饰品？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACCESSORY_SHOP_ACCESSORY" offset="00" relocatable="true" max_length="0">
+			<original>装饰品一览</original>
+			<edited>装饰品一览</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACCESSORY_SHOP_PART_BODY" offset="00" relocatable="true" max_length="0">
+			<original>身体</original>
+			<edited>身体</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACCESSORY_SHOP_PART_HEAD" offset="00" relocatable="true" max_length="0">
+			<original>头</original>
+			<edited>头</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACCESSORY_SHOP_PART_FACE" offset="00" relocatable="true" max_length="0">
+			<original>脸部</original>
+			<edited>脸部</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACCESSORY_SHOP_PART_BACK" offset="00" relocatable="true" max_length="0">
+			<original>背后</original>
+			<edited>背后</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACCESSORY_SHOP_CHANGE_HELP" offset="00" relocatable="true" max_length="0">
+			<original>请选择要换上的装饰品。</original>
+			<edited>请选择要换上的装饰品。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACCESSORY_SHOP_CHANGE_EMPTY" offset="00" relocatable="true" max_length="0">
+			<original>未持有任何物品。</original>
+			<edited>未持有任何物品。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP" offset="00" relocatable="true" max_length="0">
+			<original>锻造店</original>
+			<edited>锻造店</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_REFINE" offset="00" relocatable="true" max_length="0">
+			<original>锻造·进化</original>
+			<edited>锻造·进化</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_REFINE_WEAPONS" offset="00" relocatable="true" max_length="0">
+			<original>武器一览</original>
+			<edited>武器一览</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_REFINE_GODSYMBOL" offset="00" relocatable="true" max_length="0">
+			<original>纹章一览</original>
+			<edited>纹章一览</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_ENGRAVE" offset="00" relocatable="true" max_length="0">
+			<original>纹章刻印</original>
+			<edited>纹章刻印</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE" offset="00" relocatable="true" max_length="0">
+			<original>交换材料</original>
+			<edited>交换材料</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_REFINE_BASE_HELP" offset="00" relocatable="true" max_length="0">
+			<original>请选择要锻造·进化的武器。</original>
+			<edited>请选择要锻造·进化的武器。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_REFINE_BASE_EMPTY" offset="00" relocatable="true" max_length="0">
+			<original>没有可锻造·进化的武器。</original>
+			<edited>没有可锻造·进化的武器。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_REFINE_TARGET_HELP" offset="00" relocatable="true" max_length="0">
+			<original>请选择要通过锻造·进化铸成的武器。</original>
+			<edited>请选择要通过锻造·进化铸成的武器。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_REFINE_TARGET_UNKNOWN" offset="00" relocatable="true" max_length="0">
+			<original>？？？</original>
+			<edited>？？？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_REFINE_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>是否要锻造武器？</original>
+			<edited>是否要锻造武器？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_REFINE_CONTENTS" offset="00" relocatable="true" max_length="0">
+			<original>锻造内容</original>
+			<edited>锻造内容</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_REFINE_CONFIRM_YES" offset="00" relocatable="true" max_length="0">
+			<original>确定锻造</original>
+			<edited>确定锻造</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EVOLVE_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>是否要进化武器？</original>
+			<edited>是否要进化武器？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EVOLVE_CONTENTS" offset="00" relocatable="true" max_length="0">
+			<original>进化内容</original>
+			<edited>进化内容</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EVOLVE_CONFIRM_YES" offset="00" relocatable="true" max_length="0">
+			<original>确定进化</original>
+			<edited>确定进化</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_ENGRAVE_ITEM_HELP" offset="00" relocatable="true" max_length="0">
+			<original>请选择要刻上纹章的武器。</original>
+			<edited>请选择要刻上纹章的武器。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_ENGRAVE_ITEM_EMPTY" offset="00" relocatable="true" max_length="0">
+			<original>未持有任何武器</original>
+			<edited>未持有任何武器</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_ENGRAVE_GOD_HELP" offset="00" relocatable="true" max_length="0">
+			<original>请选择要刻在武器上面的纹章。</original>
+			<edited>请选择要刻在武器上面的纹章。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_ENGRAVE_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>是否刻印纹章？</original>
+			<edited>是否刻印纹章？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_ENGRAVE_CONTENTS" offset="00" relocatable="true" max_length="0">
+			<original>刻印内容</original>
+			<edited>刻印内容</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_ENGRAVE_CONFIRM_YES" offset="00" relocatable="true" max_length="0">
+			<original>刻印</original>
+			<edited>刻印</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_ENGRAVE_CONFIRM_TO_REPLACE" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;已刻印在&#xE;&#x1;&#x1;&#x0;上。
+是否要替换到这把武器上？</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;已刻印在&#xE;&#x1;&#x1;&#x0;上。
+是否要替换到这把武器上？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_ENGRAVE_EMPTY" offset="00" relocatable="true" max_length="0">
+			<original>没有可选择的纹章。</original>
+			<edited>没有可选择的纹章。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_SELECT_TARGET" offset="00" relocatable="true" max_length="0">
+			<original>请选择想要的晶石。</original>
+			<edited>请选择想要的晶石。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_SELECT_SOURCE" offset="00" relocatable="true" max_length="0">
+			<original>请选择要消费的晶石。</original>
+			<edited>请选择要消费的晶石。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_SELECT_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>请选择要交换的数量。</original>
+			<edited>请选择要交换的数量。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_SOURCE" offset="00" relocatable="true" max_length="0">
+			<original>消费的晶石</original>
+			<edited>消费的晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_GET" offset="00" relocatable="true" max_length="0">
+			<original>获得的晶石</original>
+			<edited>获得的晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_POSSIBLE" offset="00" relocatable="true" max_length="0">
+			<original>可交换</original>
+			<edited>可交换</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_ADJUSTMENT" offset="00" relocatable="true" max_length="0">
+			<original>数量增减</original>
+			<edited>数量增减</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_IMPOSSIBLE" offset="00" relocatable="true" max_length="0">
+			<original>不可交换：持有数量已达上限</original>
+			<edited>不可交换：持有数量已达上限</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_Lack" offset="00" relocatable="true" max_length="0">
+			<original>不可交换：晶石不足</original>
+			<edited>不可交换：晶石不足</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_01" offset="00" relocatable="true" max_length="0">
+			<original>要用这个内容交换吗？</original>
+			<edited>要用这个内容交换吗？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_02" offset="00" relocatable="true" max_length="0">
+			<original>无法获得超过持有上限的部分
+（&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;个）。</original>
+			<edited>无法获得超过持有上限的部分
+（&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;个）。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_YES" offset="00" relocatable="true" max_length="0">
+			<original>确定交换</original>
+			<edited>确定交换</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FLEA_MARKET" offset="00" relocatable="true" max_length="0">
+			<original>跳蚤市场</original>
+			<edited>跳蚤市场</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FLEA_MARKET_NOUNIT" offset="00" relocatable="true" max_length="0">
+			<original>虽然没有店员，但好像可以购买商品。</original>
+			<edited>虽然没有店员，但好像可以购买商品。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FORTUNE_TELLING_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>占卜小屋</original>
+			<edited>占卜小屋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FORTUNE_TELLING_HELP" offset="00" relocatable="true" max_length="0">
+			<original>请选择要占卜的人物</original>
+			<edited>请选择要占卜的人物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FORTUNE_TELLING_RESULT0" offset="00" relocatable="true" max_length="0">
+			<original>在意的事</original>
+			<edited>在意的事</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FORTUNE_TELLING_RESULT1" offset="00" relocatable="true" max_length="0">
+			<original>在乎的人</original>
+			<edited>在乎的人</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_PROFILE_CARD" offset="00" relocatable="true" max_length="0">
+			<original>神龙战历卡</original>
+			<edited>神龙战历卡</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_PROFILE_CARD_HELP" offset="00" relocatable="true" max_length="0">
+			<original>查看可利用通信功能交换的卡片。</original>
+			<edited>查看可利用通信功能交换的卡片。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RINGLIST_SKILLLIST_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>提升牵绊等级后可获得的能力。</original>
+			<edited>提升牵绊等级后可获得的能力。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RINGLIST_BONDSRING_NAME" offset="00" relocatable="true" max_length="0">
+			<original>牵绊戒指</original>
+			<edited>牵绊戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RINGLIST_BONDSRING_NAME_MULTIPLE" offset="00" relocatable="true" max_length="0">
+			<original>牵绊戒指</original>
+			<edited>牵绊戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RINGLIST_BONDSRINGLIST_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>牵绊戒指的能力</original>
+			<edited>牵绊戒指的能力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_START" offset="00" relocatable="true" max_length="0">
+			<original>从头开始</original>
+			<edited>从头开始</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_CONTINUE" offset="00" relocatable="true" max_length="0">
+			<original>继续游戏</original>
+			<edited>继续游戏</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_OPTION" offset="00" relocatable="true" max_length="0">
+			<original>选项</original>
+			<edited>选项</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_SAVEDATA_COPY" offset="00" relocatable="true" max_length="0">
+			<original>复制数据</original>
+			<edited>复制数据</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_SAVEDATA_DELETE" offset="00" relocatable="true" max_length="0">
+			<original>删除数据</original>
+			<edited>删除数据</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_LANGUAGE_SETTING" offset="00" relocatable="true" max_length="0">
+			<original>切换语言</original>
+			<edited>切换语言</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_LANGUAGE_SETTING_HELP" offset="00" relocatable="true" max_length="0">
+			<original>切换游戏中的显示语言</original>
+			<edited>切换游戏中的显示语言</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_LANGUAGE_MESS" offset="00" relocatable="true" max_length="0">
+			<original>文本</original>
+			<edited>文本</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_LANGUAGE_VOICE" offset="00" relocatable="true" max_length="0">
+			<original>语音</original>
+			<edited>语音</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_LANGUAGE_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>要切换语言吗？</original>
+			<edited>要切换语言吗？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_LANGUAGE_CONFIRM_YES" offset="00" relocatable="true" max_length="0">
+			<original>切换</original>
+			<edited>切换</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_PRIVILEFE_LABEL" offset="00" relocatable="true" max_length="0">
+			<original>© Nintendo / INTELLIGENT SYSTEMS</original>
+			<edited>© Nintendo / INTELLIGENT SYSTEMS</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_GAME_VERSION" offset="00" relocatable="true" max_length="0">
+			<original>Ver. &#xE;&#x1;&#x0;&#x0;</original>
+			<edited>Ver. &#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PRESS_ANY_BUTTON" offset="00" relocatable="true" max_length="0">
+			<original>请按任意键</original>
+			<edited>请按任意键</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_MODE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>模式</original>
+			<edited>模式</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_NAME_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>名字</original>
+			<edited>名字</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_BIRTHDAY_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>生日</original>
+			<edited>生日</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_DIFFICULTY_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>难度</original>
+			<edited>难度</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_GROWMODE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>成长方式</original>
+			<edited>成长方式</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_NETWORK_SERVICE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>网络</original>
+			<edited>网络</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_DIFFICULTY_SELECT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>选择难易度</original>
+			<edited>选择难易度</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_DIFFICULTY_SELECT_HELP" offset="00" relocatable="true" max_length="0">
+			<original>请选择难易度。</original>
+			<edited>请选择难易度。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_MODE_SELECT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>选择模式</original>
+			<edited>选择模式</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_MODE_SELECT_HELP" offset="00" relocatable="true" max_length="0">
+			<original>请选择模式。</original>
+			<edited>请选择模式。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_GROWMODE_SELECT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>选择成长方式</original>
+			<edited>选择成长方式</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_GROWMODE_SELECT_HELP" offset="00" relocatable="true" max_length="0">
+			<original>请选择单位的成长方式。</original>
+			<edited>请选择单位的成长方式。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_GROEMODE_LOCKED_BY_LUNATIC" offset="00" relocatable="true" max_length="0">
+			<original>要选择超难难度的“随机”成长方式，
+需先在超难难度下通关游戏。</original>
+			<edited>要选择超难难度的“随机”成长方式，
+需先在超难难度下通关游戏。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_NETWORK_SERVICE_ON" offset="00" relocatable="true" max_length="0">
+			<original>使用</original>
+			<edited>使用</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_NETWORK_SERVICE_OFF" offset="00" relocatable="true" max_length="0">
+			<original>不使用</original>
+			<edited>不使用</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_GENDER_SELECT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>选择样貌</original>
+			<edited>选择样貌</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_GENDER_SELECT_HELP" offset="00" relocatable="true" max_length="0">
+			<original>请选择您的样貌。</original>
+			<edited>请选择您的样貌。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_NAME_INPUT" offset="00" relocatable="true" max_length="0">
+			<original>请输入名字。</original>
+			<edited>请输入名字。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_NAME_CHECK" offset="00" relocatable="true" max_length="0">
+			<original>确定要用这个名字吗？
+（无法显示的文字将会以 &#xE;&#x1;&#x0;&#x0; 表示）</original>
+			<edited>确定要用这个名字吗？
+（无法显示的文字将会以 &#xE;&#x1;&#x0;&#x0; 表示）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_NAME_CHECK_YES" offset="00" relocatable="true" max_length="0">
+			<original>是</original>
+			<edited>是</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_NAME_CHECK_NO" offset="00" relocatable="true" max_length="0">
+			<original>重新输入</original>
+			<edited>重新输入</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_BIRTHDAY_INPUT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>输入生日</original>
+			<edited>输入生日</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_BIRTHDAY_INPUT_HELP" offset="00" relocatable="true" max_length="0">
+			<original>请输入您的生日。</original>
+			<edited>请输入您的生日。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_BIRTHDAY_INPUT_MONTH" offset="00" relocatable="true" max_length="0">
+			<original>月</original>
+			<edited>月</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_BIRTHDAY_INPUT_DAY" offset="00" relocatable="true" max_length="0">
+			<original>日</original>
+			<edited>日</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_BIRTHDAY_INPUT_MONTH_DAY" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;月　&#xE;&#x1;&#x1;&#x0;日</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;月　&#xE;&#x1;&#x1;&#x0;日</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_NETWORK_SERVICE_SELECT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>网络设置</original>
+			<edited>网络设置</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_NETWORK_SERVICE_SELECT_HELP" offset="00" relocatable="true" max_length="0">
+			<original>游玩时是否要连接网络？</original>
+			<edited>游玩时是否要连接网络？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_CONFIRM_FINAL" offset="00" relocatable="true" max_length="0">
+			<original>是否开始游戏？</original>
+			<edited>是否开始游戏？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_CONFIRM_FINAL_OK" offset="00" relocatable="true" max_length="0">
+			<original>开始</original>
+			<edited>开始</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

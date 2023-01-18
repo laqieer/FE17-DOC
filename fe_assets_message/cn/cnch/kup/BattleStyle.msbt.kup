@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MBSID_None" offset="00" relocatable="true" max_length="0">
+			<original>无</original>
+			<edited>无</edited>
+			<subEntries />
+		</entry>
+		<entry name="MBSID_H_None" offset="00" relocatable="true" max_length="0">
+			<original>不属于任何战斗类型</original>
+			<edited>不属于任何战斗类型</edited>
+			<subEntries />
+		</entry>
+		<entry name="MBSID_Cooperation" offset="00" relocatable="true" max_length="0">
+			<original>连携</original>
+			<edited>连携</edited>
+			<subEntries />
+		</entry>
+		<entry name="MBSID_H_Cooperation" offset="00" relocatable="true" max_length="0">
+			<original>战斗类型【连携】
+通过连锁攻击
+参与射程范围内的我方战斗</original>
+			<edited>战斗类型【连携】
+通过连锁攻击
+参与射程范围内的我方战斗</edited>
+			<subEntries />
+		</entry>
+		<entry name="MBSID_Horse" offset="00" relocatable="true" max_length="0">
+			<original>骑马</original>
+			<edited>骑马</edited>
+			<subEntries />
+		</entry>
+		<entry name="MBSID_H_Horse" offset="00" relocatable="true" max_length="0">
+			<original>战斗类型【骑马】
+可移动的距离较远</original>
+			<edited>战斗类型【骑马】
+可移动的距离较远</edited>
+			<subEntries />
+		</entry>
+		<entry name="MBSID_Covert" offset="00" relocatable="true" max_length="0">
+			<original>隐密</original>
+			<edited>隐密</edited>
+			<subEntries />
+		</entry>
+		<entry name="MBSID_H_Covert" offset="00" relocatable="true" max_length="0">
+			<original>战斗类型【隐密】
+地形效果的回避修正变成两倍</original>
+			<edited>战斗类型【隐密】
+地形效果的回避修正变成两倍</edited>
+			<subEntries />
+		</entry>
+		<entry name="MBSID_Heavy" offset="00" relocatable="true" max_length="0">
+			<original>重装</original>
+			<edited>重装</edited>
+			<subEntries />
+		</entry>
+		<entry name="MBSID_H_Heavy" offset="00" relocatable="true" max_length="0">
+			<original>战斗类型【重装】
+使武器互克时的打破效果无效</original>
+			<edited>战斗类型【重装】
+使武器互克时的打破效果无效</edited>
+			<subEntries />
+		</entry>
+		<entry name="MBSID_Fly" offset="00" relocatable="true" max_length="0">
+			<original>飞行</original>
+			<edited>飞行</edited>
+			<subEntries />
+		</entry>
+		<entry name="MBSID_H_Fly" offset="00" relocatable="true" max_length="0">
+			<original>战斗类型【飞行】
+移动时不会受到地形或地形效果影响
+还可在“天空”等地形移动</original>
+			<edited>战斗类型【飞行】
+移动时不会受到地形或地形效果影响
+还可在“天空”等地形移动</edited>
+			<subEntries />
+		</entry>
+		<entry name="MBSID_Magic" offset="00" relocatable="true" max_length="0">
+			<original>魔道</original>
+			<edited>魔道</edited>
+			<subEntries />
+		</entry>
+		<entry name="MBSID_H_Magic" offset="00" relocatable="true" max_length="0">
+			<original>战斗类型【魔道】
+使用魔法发动攻击时
+令敌方因地形效果获得的回避修正无效</original>
+			<edited>战斗类型【魔道】
+使用魔法发动攻击时
+令敌方因地形效果获得的回避修正无效</edited>
+			<subEntries />
+		</entry>
+		<entry name="MBSID_Prana" offset="00" relocatable="true" max_length="0">
+			<original>气功</original>
+			<edited>气功</edited>
+			<subEntries />
+		</entry>
+		<entry name="MBSID_H_Prana" offset="00" relocatable="true" max_length="0">
+			<original>战斗类型【气功】
+可使用能保护相邻我方的
+连锁防御指令</original>
+			<edited>战斗类型【气功】
+可使用能保护相邻我方的
+连锁防御指令</edited>
+			<subEntries />
+		</entry>
+		<entry name="MBSID_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>龙族</original>
+			<edited>龙族</edited>
+			<subEntries />
+		</entry>
+		<entry name="MBSID_H_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>战斗类型【龙族】
+结合时必定能获得附加效果</original>
+			<edited>战斗类型【龙族】
+结合时必定能获得附加效果</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

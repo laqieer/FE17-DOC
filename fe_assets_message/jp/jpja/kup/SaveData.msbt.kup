@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_SAVEDATA_CONFIRM_CLEARDATA" offset="00" relocatable="true" max_length="0">
+			<original>クリアデータをセーブしますか？
+（自軍の状態は第26章戦闘開始前のものになりますが
+クリアの実績が記録されます）</original>
+			<edited>クリアデータをセーブしますか？
+（自軍の状態は第26章戦闘開始前のものになりますが
+クリアの実績が記録されます）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_CONFIRM_WRITING" offset="00" relocatable="true" max_length="0">
+			<original>現在の状態をセーブしますか？</original>
+			<edited>現在の状態をセーブしますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_CONFIRM_SKIP_WRITING" offset="00" relocatable="true" max_length="0">
+			<original>現在の状態をセーブせずに
+次へ進みますか？</original>
+			<edited>現在の状態をセーブせずに
+次へ進みますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_CONFIRM_SKIP_YES" offset="00" relocatable="true" max_length="0">
+			<original>進む</original>
+			<edited>進む</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_CONFIRM_SUSPEND" offset="00" relocatable="true" max_length="0">
+			<original>現在の状態をセーブしてタイトル画面に戻ります。
+よろしいですか？</original>
+			<edited>現在の状態をセーブしてタイトル画面に戻ります。
+よろしいですか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_CONFIRM_SUSPEND_LOAD" offset="00" relocatable="true" max_length="0">
+			<original>中断データをロード後にゲームを終了すると
+出撃前の状態に戻ってしまいます。
+状態を保存したい時は、再び「中断」を行ってください。</original>
+			<edited>中断データをロード後にゲームを終了すると
+出撃前の状態に戻ってしまいます。
+状態を保存したい時は、再び「中断」を行ってください。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_CONFIRM_SUSPEND_COPY" offset="00" relocatable="true" max_length="0">
+			<original>中断データはコピーできません。</original>
+			<edited>中断データはコピーできません。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_CONFIRM_COPY" offset="00" relocatable="true" max_length="0">
+			<original>セーブデータをコピーしますか？</original>
+			<edited>セーブデータをコピーしますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_CONFIRM_COPY_YES" offset="00" relocatable="true" max_length="0">
+			<original>コピーする</original>
+			<edited>コピーする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_CONFIRM_DELETE" offset="00" relocatable="true" max_length="0">
+			<original>セーブデータを消去しますか？</original>
+			<edited>セーブデータを消去しますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_CONFIRM_DELETE_YES" offset="00" relocatable="true" max_length="0">
+			<original>消去する</original>
+			<edited>消去する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_READING" offset="00" relocatable="true" max_length="0">
+			<original>セーブデータをロードしています。
+電源を切ったりしないでください。</original>
+			<edited>セーブデータをロードしています。
+電源を切ったりしないでください。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_WRITING" offset="00" relocatable="true" max_length="0">
+			<original>現在の状態をセーブしています。
+電源を切ったりしないでください。</original>
+			<edited>現在の状態をセーブしています。
+電源を切ったりしないでください。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_COPYING" offset="00" relocatable="true" max_length="0">
+			<original>セーブデータをコピーしています。
+電源を切ったりしないでください。</original>
+			<edited>セーブデータをコピーしています。
+電源を切ったりしないでください。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_DELETING" offset="00" relocatable="true" max_length="0">
+			<original>セーブデータを消去しています。
+電源を切ったりしないでください。</original>
+			<edited>セーブデータを消去しています。
+電源を切ったりしないでください。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_LOAD_FAILED" offset="00" relocatable="true" max_length="0">
+			<original>セーブデータのロードに失敗しました。</original>
+			<edited>セーブデータのロードに失敗しました。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_VERSION_ERROR" offset="00" relocatable="true" max_length="0">
+			<original>セーブデータのバージョンが異なるため
+ロードに失敗しました。
+ゲームを最新版に更新してください。</original>
+			<edited>セーブデータのバージョンが異なるため
+ロードに失敗しました。
+ゲームを最新版に更新してください。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SAVE_FAILED" offset="00" relocatable="true" max_length="0">
+			<original>現在の状態のセーブに失敗しました。</original>
+			<edited>現在の状態のセーブに失敗しました。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_COPY_FAILED" offset="00" relocatable="true" max_length="0">
+			<original>セーブデータのコピーに失敗しました。</original>
+			<edited>セーブデータのコピーに失敗しました。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_DELETE_FAILED" offset="00" relocatable="true" max_length="0">
+			<original>セーブデータの消去に失敗しました。</original>
+			<edited>セーブデータの消去に失敗しました。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_OLD_VERSION" offset="00" relocatable="true" max_length="0">
+			<original>ソフトのバージョンが古いため
+このセーブデータはロードできません
+ニンテンドーeショップ等で更新を行ってください</original>
+			<edited>ソフトのバージョンが古いため
+このセーブデータはロードできません
+ニンテンドーeショップ等で更新を行ってください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_NO_DATA" offset="00" relocatable="true" max_length="0">
+			<original>セーブデータなし</original>
+			<edited>セーブデータなし</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_TYPE_AUTO" offset="00" relocatable="true" max_length="0">
+			<original>オートセーブ</original>
+			<edited>オートセーブ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_TYPE_MANUAL" offset="00" relocatable="true" max_length="0">
+			<original>スロット&#xE;&#x1;&#x0;&#x0;</original>
+			<edited>スロット&#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_SORTIE" offset="00" relocatable="true" max_length="0">
+			<original>出撃前</original>
+			<edited>出撃前</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_BMAP" offset="00" relocatable="true" max_length="0">
+			<original>出撃中</original>
+			<edited>出撃中</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_BMAP_AFTER" offset="00" relocatable="true" max_length="0">
+			<original>クリア後</original>
+			<edited>クリア後</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_SORTIE_ENCOUNT" offset="00" relocatable="true" max_length="0">
+			<original>遭遇戦前</original>
+			<edited>遭遇戦前</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_BMAP_ENCOUNT" offset="00" relocatable="true" max_length="0">
+			<original>遭遇戦中</original>
+			<edited>遭遇戦中</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_ENCOUNT_AFTER" offset="00" relocatable="true" max_length="0">
+			<original>遭遇戦後</original>
+			<edited>遭遇戦後</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_SORTIE_TRAINING" offset="00" relocatable="true" max_length="0">
+			<original>訓練前</original>
+			<edited>訓練前</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_BMAP_TRAINING" offset="00" relocatable="true" max_length="0">
+			<original>訓練中</original>
+			<edited>訓練中</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_TRAINING_AFTER" offset="00" relocatable="true" max_length="0">
+			<original>訓練後</original>
+			<edited>訓練後</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_KIZUNA" offset="00" relocatable="true" max_length="0">
+			<original>散策中</original>
+			<edited>散策中</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_HUB" offset="00" relocatable="true" max_length="0">
+			<original>拠点ソラネル</original>
+			<edited>拠点ソラネル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_GMAP" offset="00" relocatable="true" max_length="0">
+			<original>ワールドマップ</original>
+			<edited>ワールドマップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_LOAD_YES" offset="00" relocatable="true" max_length="0">
+			<original>ロードする</original>
+			<edited>ロードする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_LOAD_HELP" offset="00" relocatable="true" max_length="0">
+			<original>スロットを選択してください</original>
+			<edited>スロットを選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SAVE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>セーブ</original>
+			<edited>セーブ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SAVE_HELP" offset="00" relocatable="true" max_length="0">
+			<original>スロットを選択してください</original>
+			<edited>スロットを選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SAVE_YES" offset="00" relocatable="true" max_length="0">
+			<original>セーブする</original>
+			<edited>セーブする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SUSPEND_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>中断</original>
+			<edited>中断</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SUSPEND_HELP" offset="00" relocatable="true" max_length="0">
+			<original>スロットを選択してください</original>
+			<edited>スロットを選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SUSPEND_YES" offset="00" relocatable="true" max_length="0">
+			<original>中断する</original>
+			<edited>中断する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_COPY_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>データコピー</original>
+			<edited>データコピー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_COPY_SRC_HELP" offset="00" relocatable="true" max_length="0">
+			<original>コピー元のスロットを選択してください</original>
+			<edited>コピー元のスロットを選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_COPY_DST_HELP" offset="00" relocatable="true" max_length="0">
+			<original>コピー先のスロットを選択してください</original>
+			<edited>コピー先のスロットを選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_DELETE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>データ消去</original>
+			<edited>データ消去</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_DELETE_HELP" offset="00" relocatable="true" max_length="0">
+			<original>スロットを選択してください</original>
+			<edited>スロットを選択してください</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

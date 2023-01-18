@@ -1,0 +1,1057 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_HUB_Dinner_Vandre_A" offset="00" relocatable="true" max_length="0">
+			<original>これは美味だな…！</original>
+			<edited>これは美味だな…！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Vandre_B" offset="00" relocatable="true" max_length="0">
+			<original>まずまずの出来かと</original>
+			<edited>まずまずの出来かと</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Vandre_C" offset="00" relocatable="true" max_length="0">
+			<original>神竜様は食されぬ方が宜しいかと</original>
+			<edited>神竜様は食されぬ方が宜しいかと</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Vandre_Foodstuff" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Vandre_Before" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Vandre_After" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Clan_A" offset="00" relocatable="true" max_length="0">
+			<original>素晴らしい…この料理は推せる</original>
+			<edited>素晴らしい…この料理は推せる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Clan_B" offset="00" relocatable="true" max_length="0">
+			<original>おいしい！　おかわりほしいな</original>
+			<edited>おいしい！　おかわりほしいな</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Clan_C" offset="00" relocatable="true" max_length="0">
+			<original>虚無を感じる気がする</original>
+			<edited>虚無を感じる気がする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Clan_Foodstuff" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Clan_Before" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Clan_After" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Fram_A" offset="00" relocatable="true" max_length="0">
+			<original>おいしい！　この料理は推しだわ！</original>
+			<edited>おいしい！　この料理は推しだわ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Fram_B" offset="00" relocatable="true" max_length="0">
+			<original>私、これ好きだなー。</original>
+			<edited>私、これ好きだなー。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Fram_C" offset="00" relocatable="true" max_length="0">
+			<original>１回食べたらもういいかな…</original>
+			<edited>１回食べたらもういいかな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Fram_Foodstuff" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Fram_Before" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Fram_After" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Alfred_A" offset="00" relocatable="true" max_length="0">
+			<original>幸せの味がするよ…！</original>
+			<edited>幸せの味がするよ…！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Alfred_B" offset="00" relocatable="true" max_length="0">
+			<original>身体に良さそうな味がするね</original>
+			<edited>身体に良さそうな味がするね</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Alfred_C" offset="00" relocatable="true" max_length="0">
+			<original>喉の筋肉が拒否を示している…っ</original>
+			<edited>喉の筋肉が拒否を示している…っ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Alfred_Foodstuff" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Alfred_Before" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Alfred_After" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Boucheron_A" offset="00" relocatable="true" max_length="0">
+			<original>おいしすぎて、涙が…！</original>
+			<edited>おいしすぎて、涙が…！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Boucheron_B" offset="00" relocatable="true" max_length="0">
+			<original>うん、うまいな</original>
+			<edited>うん、うまいな</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Boucheron_C" offset="00" relocatable="true" max_length="0">
+			<original>味が迷子になっている…</original>
+			<edited>味が迷子になっている…</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Boucheron_Foodstuff" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Boucheron_Before" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Boucheron_After" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Etie_A" offset="00" relocatable="true" max_length="0">
+			<original>体に良さそうですわね！</original>
+			<edited>体に良さそうですわね！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Etie_B" offset="00" relocatable="true" max_length="0">
+			<original>食べた分、運動したいですわ</original>
+			<edited>食べた分、運動したいですわ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Etie_C" offset="00" relocatable="true" max_length="0">
+			<original>体に悪そうですわね！</original>
+			<edited>体に悪そうですわね！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Etie_Foodstuff" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Etie_Before" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Etie_After" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Celine_A" offset="00" relocatable="true" max_length="0">
+			<original>素晴らしい味と香りだわ…！</original>
+			<edited>素晴らしい味と香りだわ…！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Celine_B" offset="00" relocatable="true" max_length="0">
+			<original>おいしい。盛り付けも好きだわ</original>
+			<edited>おいしい。盛り付けも好きだわ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Celine_C" offset="00" relocatable="true" max_length="0">
+			<original>こ、個性的なお味ね…</original>
+			<edited>こ、個性的なお味ね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Celine_Foodstuff" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Celine_Before" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Celine_After" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Louis_A" offset="00" relocatable="true" max_length="0">
+			<original>この組み合わせ…最高の美味です</original>
+			<edited>この組み合わせ…最高の美味です</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Louis_B" offset="00" relocatable="true" max_length="0">
+			<original>どなたを想って作られたのです？</original>
+			<edited>どなたを想って作られたのです？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Louis_C" offset="00" relocatable="true" max_length="0">
+			<original>毒殺しようとしてますか？</original>
+			<edited>毒殺しようとしてますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Louis_Foodstuff" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Louis_Before" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Louis_After" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Chloe_A" offset="00" relocatable="true" max_length="0">
+			<original>美味しい！もっといただきたいわ！</original>
+			<edited>美味しい！もっといただきたいわ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Chloe_B" offset="00" relocatable="true" max_length="0">
+			<original>おいしいわ。お代わりはあるかしら</original>
+			<edited>おいしいわ。お代わりはあるかしら</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Chloe_C" offset="00" relocatable="true" max_length="0">
+			<original>個性的で美味しいわ。あら、みんな…？</original>
+			<edited>個性的で美味しいわ。あら、みんな…？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Chloe_Foodstuff" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Chloe_Before" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Chloe_After" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Diamand_A" offset="00" relocatable="true" max_length="0">
+			<original>素晴らしい腕だな！</original>
+			<edited>素晴らしい腕だな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Diamand_B" offset="00" relocatable="true" max_length="0">
+			<original>おいしい。よくできている</original>
+			<edited>おいしい。よくできている</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Diamand_C" offset="00" relocatable="true" max_length="0">
+			<original>うっ！　結果ではなく、過程を評価しよう…</original>
+			<edited>うっ！　結果ではなく、過程を評価しよう…</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Diamand_Foodstuff" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Diamand_Before" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Diamand_After" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Umber_A" offset="00" relocatable="true" max_length="0">
+			<original>おいしい！　ソラネルの宝だ！</original>
+			<edited>おいしい！　ソラネルの宝だ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Umber_B" offset="00" relocatable="true" max_length="0">
+			<original>毎日食べたくなる味だ！</original>
+			<edited>毎日食べたくなる味だ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Umber_C" offset="00" relocatable="true" max_length="0">
+			<original>毒だ！　みんな逃げろ！</original>
+			<edited>毒だ！　みんな逃げろ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Umber_Foodstuff" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Umber_Before" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Umber_After" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Jade_A" offset="00" relocatable="true" max_length="0">
+			<original>騎士は美食に舌鼓を打った</original>
+			<edited>騎士は美食に舌鼓を打った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Jade_B" offset="00" relocatable="true" max_length="0">
+			<original>おいしい</original>
+			<edited>おいしい</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Jade_C" offset="00" relocatable="true" max_length="0">
+			<original>おもしろい味…</original>
+			<edited>おもしろい味…</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Jade_Foodstuff" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Jade_Before" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Jade_After" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Staluke_A" offset="00" relocatable="true" max_length="0">
+			<original>料理の天才です！それに比べて僕は…</original>
+			<edited>料理の天才です！それに比べて僕は…</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Staluke_B" offset="00" relocatable="true" max_length="0">
+			<original>おいしいです…尊敬です…</original>
+			<edited>おいしいです…尊敬です…</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Staluke_C" offset="00" relocatable="true" max_length="0">
+			<original>あ…この料理、僕に似てますね…</original>
+			<edited>あ…この料理、僕に似てますね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Staluke_Foodstuff" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Staluke_Before" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Staluke_After" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Lapis_A" offset="00" relocatable="true" max_length="0">
+			<original>おいしすぎて、あたしには勿体ないわ</original>
+			<edited>おいしすぎて、あたしには勿体ないわ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Lapis_B" offset="00" relocatable="true" max_length="0">
+			<original>好きな味だわ</original>
+			<edited>好きな味だわ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Lapis_C" offset="00" relocatable="true" max_length="0">
+			<original>…口に合わなくても、残さない…！</original>
+			<edited>…口に合わなくても、残さない…！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Lapis_Foodstuff" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Lapis_Before" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Lapis_After" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Citrinica_A" offset="00" relocatable="true" max_length="0">
+			<original>このシェフを百年雇いたいわ！</original>
+			<edited>このシェフを百年雇いたいわ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Citrinica_B" offset="00" relocatable="true" max_length="0">
+			<original>お屋敷の料理に引けを取らないわ</original>
+			<edited>お屋敷の料理に引けを取らないわ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Citrinica_C" offset="00" relocatable="true" max_length="0">
+			<original>あ、あまり食べたことのない味だわ…</original>
+			<edited>あ、あまり食べたことのない味だわ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Citrinica_Foodstuff" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Citrinica_Before" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Citrinica_After" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Ivy_A" offset="00" relocatable="true" max_length="0">
+			<original>…美味しい。こういうの好きよ…</original>
+			<edited>…美味しい。こういうの好きよ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Ivy_B" offset="00" relocatable="true" max_length="0">
+			<original>風味が気に入ったわ…</original>
+			<edited>風味が気に入ったわ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Ivy_C" offset="00" relocatable="true" max_length="0">
+			<original>甘じょっぱくて、辛ニガいわ…</original>
+			<edited>甘じょっぱくて、辛ニガいわ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Ivy_Foodstuff" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Ivy_Before" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Ivy_After" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Zelkova_A" offset="00" relocatable="true" max_length="0">
+			<original>こいつは『極上』だ</original>
+			<edited>こいつは『極上』だ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Zelkova_B" offset="00" relocatable="true" max_length="0">
+			<original>素直に『旨い』と思う</original>
+			<edited>素直に『旨い』と思う</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Zelkova_C" offset="00" relocatable="true" max_length="0">
+			<original>『毒物』か？</original>
+			<edited>『毒物』か？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Zelkova_Foodstuff" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Zelkova_Before" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Zelkova_After" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Kagetsu_A" offset="00" relocatable="true" max_length="0">
+			<original>うまい！　まさに酒池肉林じゃな！</original>
+			<edited>うまい！　まさに酒池肉林じゃな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Kagetsu_B" offset="00" relocatable="true" max_length="0">
+			<original>うむ！　余の好きな味！</original>
+			<edited>うむ！　余の好きな味！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Kagetsu_C" offset="00" relocatable="true" max_length="0">
+			<original>めっちゃまずいのう！</original>
+			<edited>めっちゃまずいのう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Kagetsu_Foodstuff" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Kagetsu_Before" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Kagetsu_After" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Hortensia_A" offset="00" relocatable="true" max_length="0">
+			<original>おいしーい！　大天才！</original>
+			<edited>おいしーい！　大天才！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Hortensia_B" offset="00" relocatable="true" max_length="0">
+			<original>あたし、これ好きよ</original>
+			<edited>あたし、これ好きよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Hortensia_C" offset="00" relocatable="true" max_length="0">
+			<original>どうしたらこうなるわけ！？</original>
+			<edited>どうしたらこうなるわけ！？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Hortensia_Foodstuff" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Hortensia_Before" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Hortensia_After" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Rosado_A" offset="00" relocatable="true" max_length="0">
+			<original>お、おいしい！　記念に残したい！</original>
+			<edited>お、おいしい！　記念に残したい！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Rosado_B" offset="00" relocatable="true" max_length="0">
+			<original>盛り付けもきれいで好きだなー！</original>
+			<edited>盛り付けもきれいで好きだなー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Rosado_C" offset="00" relocatable="true" max_length="0">
+			<original>かわいいけど、まずい！</original>
+			<edited>かわいいけど、まずい！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Rosado_Foodstuff" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Rosado_Before" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Rosado_After" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Goldmary_A" offset="00" relocatable="true" max_length="0">
+			<original>悔しいほどおいしいですね…</original>
+			<edited>悔しいほどおいしいですね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Goldmary_B" offset="00" relocatable="true" max_length="0">
+			<original>わたしの次に料理上手です…</original>
+			<edited>わたしの次に料理上手です…</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Goldmary_C" offset="00" relocatable="true" max_length="0">
+			<original>わたしに謝ってください…</original>
+			<edited>わたしに謝ってください…</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Goldmary_Foodstuff" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Goldmary_Before" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Goldmary_After" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Misutira_A" offset="00" relocatable="true" max_length="0">
+			<original>おいしー！誰が作ったの？</original>
+			<edited>おいしー！誰が作ったの？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Misutira_B" offset="00" relocatable="true" max_length="0">
+			<original>クセになる味だね！</original>
+			<edited>クセになる味だね！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Misutira_C" offset="00" relocatable="true" max_length="0">
+			<original>もっかい焼いとく？</original>
+			<edited>もっかい焼いとく？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Misutira_Foodstuff" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Misutira_Before" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Misutira_After" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Merin_A" offset="00" relocatable="true" max_length="0">
+			<original>人間ならこの味に抗えないよ</original>
+			<edited>人間ならこの味に抗えないよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Merin_B" offset="00" relocatable="true" max_length="0">
+			<original>ボクのオオカミにも食べさせたいな</original>
+			<edited>ボクのオオカミにも食べさせたいな</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Merin_C" offset="00" relocatable="true" max_length="0">
+			<original>残したくないが…これは…っ！</original>
+			<edited>残したくないが…これは…っ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Merin_Foodstuff" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Merin_Before" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Merin_After" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Panetone_A" offset="00" relocatable="true" max_length="0">
+			<original>素晴らしいお味ですます…！</original>
+			<edited>素晴らしいお味ですます…！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Panetone_B" offset="00" relocatable="true" max_length="0">
+			<original>刺激的でいいお味ですます</original>
+			<edited>刺激的でいいお味ですます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Panetone_C" offset="00" relocatable="true" max_length="0">
+			<original>こいつはやべえよ…</original>
+			<edited>こいつはやべえよ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Panetone_Foodstuff" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Panetone_Before" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Panetone_After" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Fogato_A" offset="00" relocatable="true" max_length="0">
+			<original>俺この料理、大好き！</original>
+			<edited>俺この料理、大好き！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Fogato_B" offset="00" relocatable="true" max_length="0">
+			<original>うん、おいしくて好きー</original>
+			<edited>うん、おいしくて好きー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Fogato_C" offset="00" relocatable="true" max_length="0">
+			<original>どうしても…好きになれない！</original>
+			<edited>どうしても…好きになれない！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Fogato_Foodstuff" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Fogato_Before" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Fogato_After" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Pandoro_A" offset="00" relocatable="true" max_length="0">
+			<original>神に感謝するレベルの旨さだ…</original>
+			<edited>神に感謝するレベルの旨さだ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Pandoro_B" offset="00" relocatable="true" max_length="0">
+			<original>おいしいな、宴で出したいぜ</original>
+			<edited>おいしいな、宴で出したいぜ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Pandoro_C" offset="00" relocatable="true" max_length="0">
+			<original>うぶっ！助けて神様！</original>
+			<edited>うぶっ！助けて神様！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Pandoro_Foodstuff" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Pandoro_Before" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Pandoro_After" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Bonet_A" offset="00" relocatable="true" max_length="0">
+			<original>名のあるシェフの仕事と見受ける…</original>
+			<edited>名のあるシェフの仕事と見受ける…</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Bonet_B" offset="00" relocatable="true" max_length="0">
+			<original>旨い…妬けてしまうな…</original>
+			<edited>旨い…妬けてしまうな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Bonet_C" offset="00" relocatable="true" max_length="0">
+			<original>食材への冒涜だ…</original>
+			<edited>食材への冒涜だ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Bonet_Foodstuff" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Bonet_Before" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Bonet_After" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Anna_A" offset="00" relocatable="true" max_length="0">
+			<original>おいしい！高そうな味がする！</original>
+			<edited>おいしい！高そうな味がする！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Anna_B" offset="00" relocatable="true" max_length="0">
+			<original>はんじょうしそうな味ね</original>
+			<edited>はんじょうしそうな味ね</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Anna_C" offset="00" relocatable="true" max_length="0">
+			<original>…こどもには早い味？</original>
+			<edited>…こどもには早い味？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Anna_Foodstuff" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Anna_Before" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Anna_After" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Jean_A" offset="00" relocatable="true" max_length="0">
+			<original>ほっぺたが落ちそうや！</original>
+			<edited>ほっぺたが落ちそうや！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Jean_B" offset="00" relocatable="true" max_length="0">
+			<original>なんやお洒落でおいしいなあ</original>
+			<edited>なんやお洒落でおいしいなあ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Jean_C" offset="00" relocatable="true" max_length="0">
+			<original>あかん！これはあかん！</original>
+			<edited>あかん！これはあかん！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Jean_Foodstuff" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Jean_Before" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Jean_After" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Yunaka_A" offset="00" relocatable="true" max_length="0">
+			<original>このような美味をわたくしめに…！？</original>
+			<edited>このような美味をわたくしめに…！？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Yunaka_B" offset="00" relocatable="true" max_length="0">
+			<original>おいしいですな！</original>
+			<edited>おいしいですな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Yunaka_C" offset="00" relocatable="true" max_length="0">
+			<original>おおお…やばぴっぴですぞ！</original>
+			<edited>おおお…やばぴっぴですぞ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Yunaka_Foodstuff" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Yunaka_Before" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Yunaka_After" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Seadas_A" offset="00" relocatable="true" max_length="0">
+			<original>これ好き。もっといっぱい食べたい…！</original>
+			<edited>これ好き。もっといっぱい食べたい…！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Seadas_B" offset="00" relocatable="true" max_length="0">
+			<original>おいしい。おかわりしたら太るかな…</original>
+			<edited>おいしい。おかわりしたら太るかな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Seadas_C" offset="00" relocatable="true" max_length="0">
+			<original>すごいまずいね</original>
+			<edited>すごいまずいね</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Seadas_Foodstuff" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Seadas_Before" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Seadas_After" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Linden_A" offset="00" relocatable="true" max_length="0">
+			<original>うまい！調理法を知りたいのう</original>
+			<edited>うまい！調理法を知りたいのう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Linden_B" offset="00" relocatable="true" max_length="0">
+			<original>興味深い仕上がりじゃ</original>
+			<edited>興味深い仕上がりじゃ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Linden_C" offset="00" relocatable="true" max_length="0">
+			<original>ま、まずい！！</original>
+			<edited>ま、まずい！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Linden_Foodstuff" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Linden_Before" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Linden_After" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Saphir_A" offset="00" relocatable="true" max_length="0">
+			<original>こんな旨いの食べたことないよ！</original>
+			<edited>こんな旨いの食べたことないよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Saphir_B" offset="00" relocatable="true" max_length="0">
+			<original>いい味だよ</original>
+			<edited>いい味だよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Saphir_C" offset="00" relocatable="true" max_length="0">
+			<original>はは…強烈だねえ</original>
+			<edited>はは…強烈だねえ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Saphir_Foodstuff" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Saphir_Before" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Saphir_After" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Veyre_A" offset="00" relocatable="true" max_length="0">
+			<original>おいしくて幸せな気持ち！</original>
+			<edited>おいしくて幸せな気持ち！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Veyre_B" offset="00" relocatable="true" max_length="0">
+			<original>おいしい！また作って！</original>
+			<edited>おいしい！また作って！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Veyre_C" offset="00" relocatable="true" max_length="0">
+			<original>食べられなくはないよ</original>
+			<edited>食べられなくはないよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Veyre_Foodstuff" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Veyre_Before" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Veyre_After" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Mauve_A" offset="00" relocatable="true" max_length="0">
+			<original>芳醇な美味だな…！</original>
+			<edited>芳醇な美味だな…！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Mauve_B" offset="00" relocatable="true" max_length="0">
+			<original>うまい。ほっとする味だ</original>
+			<edited>うまい。ほっとする味だ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Mauve_C" offset="00" relocatable="true" max_length="0">
+			<original>毒物には慣れている、ご安心を</original>
+			<edited>毒物には慣れている、ご安心を</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Mauve_Foodstuff" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Mauve_Before" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_HUB_Dinner_Mauve_After" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

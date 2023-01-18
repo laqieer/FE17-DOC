@@ -1,0 +1,2317 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_MENU_YES" offset="00" relocatable="true" max_length="0">
+			<original>はい</original>
+			<edited>はい</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_START" offset="00" relocatable="true" max_length="0">
+			<original>始める</original>
+			<edited>始める</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_NO" offset="00" relocatable="true" max_length="0">
+			<original>いいえ</original>
+			<edited>いいえ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CANCEL" offset="00" relocatable="true" max_length="0">
+			<original>戻る</original>
+			<edited>戻る</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CANCEL_NO" offset="00" relocatable="true" max_length="0">
+			<original>やめる</original>
+			<edited>やめる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MONETARY_UNIT" offset="00" relocatable="true" max_length="0">
+			<original>G</original>
+			<edited>G</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_UNIT_LIST" offset="00" relocatable="true" max_length="0">
+			<original>部隊表</original>
+			<edited>部隊表</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_UNIT_LIST_HELP" offset="00" relocatable="true" max_length="0">
+			<original>味方の詳細情報をまとめて確認する</original>
+			<edited>味方の詳細情報をまとめて確認する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_UNIT_LIST_TITLEHELP" offset="00" relocatable="true" max_length="0">
+			<original>味方の詳細情報をまとめて確認する</original>
+			<edited>味方の詳細情報をまとめて確認する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ORDER" offset="00" relocatable="true" max_length="0">
+			<original>おまかせ</original>
+			<edited>おまかせ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ORDER_HELP" offset="00" relocatable="true" max_length="0">
+			<original>戦闘方針のみ決めて味方に行動をおまかせする</original>
+			<edited>戦闘方針のみ決めて味方に行動をおまかせする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REWIND" offset="00" relocatable="true" max_length="0">
+			<original>竜の時水晶</original>
+			<edited>竜の時水晶</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REWIND_HELP" offset="00" relocatable="true" max_length="0">
+			<original>時間をさかのぼり行動のやり直しを行う</original>
+			<edited>時間をさかのぼり行動のやり直しを行う</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SYSTEM" offset="00" relocatable="true" max_length="0">
+			<original>システム</original>
+			<edited>システム</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_H_SYSTEM" offset="00" relocatable="true" max_length="0">
+			<original>指南の再確認や環境設定を行う</original>
+			<edited>指南の再確認や環境設定を行う</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TUTORIAL" offset="00" relocatable="true" max_length="0">
+			<original>指南</original>
+			<edited>指南</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TUTORIAL_HELP" offset="00" relocatable="true" max_length="0">
+			<original>指南のカテゴリを選んでください</original>
+			<edited>指南のカテゴリを選んでください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_H_TUTORIAL" offset="00" relocatable="true" max_length="0">
+			<original>指南を見る</original>
+			<edited>指南を見る</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CONFIG" offset="00" relocatable="true" max_length="0">
+			<original>環境設定</original>
+			<edited>環境設定</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CONFIG_HELP" offset="00" relocatable="true" max_length="0">
+			<original>お好みの設定に調整してください</original>
+			<edited>お好みの設定に調整してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_H_CONFIG" offset="00" relocatable="true" max_length="0">
+			<original>環境設定を調整する</original>
+			<edited>環境設定を調整する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_RESTART" offset="00" relocatable="true" max_length="0">
+			<original>やりなおす</original>
+			<edited>やりなおす</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_RESTART_HELP" offset="00" relocatable="true" max_length="0">
+			<original>出撃前の状態からやりなおす</original>
+			<edited>出撃前の状態からやりなおす</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_RESTART_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>出撃する前の状態からやりなおしますか？
+（獲得した経験値などは元に戻ります）</original>
+			<edited>出撃する前の状態からやりなおしますか？
+（獲得した経験値などは元に戻ります）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_RESTART_CONFIRM_YES" offset="00" relocatable="true" max_length="0">
+			<original>やりなおす</original>
+			<edited>やりなおす</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CONTINUEBATTLE_RESTART" offset="00" relocatable="true" max_length="0">
+			<original>連戦をやりなおす</original>
+			<edited>連戦をやりなおす</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CONTINUEBATTLE_RESTART_HELP" offset="00" relocatable="true" max_length="0">
+			<original>連戦を最初のマップからやりなおす</original>
+			<edited>連戦を最初のマップからやりなおす</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CONTINUEBATTLE_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>連戦に出撃する前の状態からやりなおしますか？
+（獲得した経験値などは元に戻ります）</original>
+			<edited>連戦に出撃する前の状態からやりなおしますか？
+（獲得した経験値などは元に戻ります）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_RESET" offset="00" relocatable="true" max_length="0">
+			<original>リセット</original>
+			<edited>リセット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_RESET_HELP" offset="00" relocatable="true" max_length="0">
+			<original>タイトル画面に戻る</original>
+			<edited>タイトル画面に戻る</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_RESET_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>現在の状態を保存せずにタイトル画面に戻りますか？</original>
+			<edited>現在の状態を保存せずにタイトル画面に戻りますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_RESET_CONFIRM_YES" offset="00" relocatable="true" max_length="0">
+			<original>タイトル画面に戻る</original>
+			<edited>タイトル画面に戻る</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TEMPORARY_SAVE" offset="00" relocatable="true" max_length="0">
+			<original>中断</original>
+			<edited>中断</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TEMPORARY_SAVE_HELP" offset="00" relocatable="true" max_length="0">
+			<original>戦闘状況を保存し一時的に中断する</original>
+			<edited>戦闘状況を保存し一時的に中断する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_END_TURN" offset="00" relocatable="true" max_length="0">
+			<original>終了</original>
+			<edited>終了</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_END_TURN_HELP" offset="00" relocatable="true" max_length="0">
+			<original>自軍の行動を終了する</original>
+			<edited>自軍の行動を終了する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_MVP" offset="00" relocatable="true" max_length="0">
+			<original>MVP</original>
+			<edited>MVP</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TURN_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>ターン数</original>
+			<edited>ターン数</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TURNS_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>ターン数</original>
+			<edited>ターン数</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_WAIT_UNIT_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>未行動</original>
+			<edited>未行動</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STATUS_STYLE" offset="00" relocatable="true" max_length="0">
+			<original>スタイル</original>
+			<edited>スタイル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STATUS_ATTACK_DEFENSE" offset="00" relocatable="true" max_length="0">
+			<original>物攻/守備</original>
+			<edited>物攻/守備</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STATUS_MAGIC_ATTACK_DEFENSE" offset="00" relocatable="true" max_length="0">
+			<original>魔攻/魔防</original>
+			<edited>魔攻/魔防</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STATUS_HIT_AVOIDANCE" offset="00" relocatable="true" max_length="0">
+			<original>命中/回避</original>
+			<edited>命中/回避</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STATUS_CRITICAL_SECURE" offset="00" relocatable="true" max_length="0">
+			<original>必殺/必避</original>
+			<edited>必殺/必避</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STATUS_TECHNIQUE_SPEED" offset="00" relocatable="true" max_length="0">
+			<original>技/速さ</original>
+			<edited>技/速さ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STATUS_MOVE_PHYSIQUE" offset="00" relocatable="true" max_length="0">
+			<original>移動/体格</original>
+			<edited>移動/体格</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STATUS_NONE" offset="00" relocatable="true" max_length="0">
+			<original>非表示</original>
+			<edited>非表示</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STATUS_MINIMAP" offset="00" relocatable="true" max_length="0">
+			<original>ミニマップ</original>
+			<edited>ミニマップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STATUS_MINIMAP_SMALL" offset="00" relocatable="true" max_length="0">
+			<original>表示サイズ小</original>
+			<edited>表示サイズ小</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STATUS_MINIMAP_BIG" offset="00" relocatable="true" max_length="0">
+			<original>表示サイズ大</original>
+			<edited>表示サイズ大</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_INITIALIZE" offset="00" relocatable="true" max_length="0">
+			<original>環境設定を初期化しますか？</original>
+			<edited>環境設定を初期化しますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_GRID" offset="00" relocatable="true" max_length="0">
+			<original>グリッドの透明度</original>
+			<edited>グリッドの透明度</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_GRID" offset="00" relocatable="true" max_length="0">
+			<original>グリッドの透明度を調整します</original>
+			<edited>グリッドの透明度を調整します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_OVERALLINFORMATION" offset="00" relocatable="true" max_length="0">
+			<original>全体危険範囲表示</original>
+			<edited>全体危険範囲表示</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_OVERALLINFORMATION_TOGGLE" offset="00" relocatable="true" max_length="0">
+			<original>トグル</original>
+			<edited>トグル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_OVERALLINFORMATION_TOGGLE" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x8;&#x2;&#x6;&#x4;&#x0;Z&#x0;L&#x0;を押すたびに表示と非表示を切り替えます</original>
+			<edited>&#xE;&#x8;&#x2;&#x6;&#x4;&#x0;Z&#x0;L&#x0;を押すたびに表示と非表示を切り替えます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_OVERALLINFORMATION_PUSH" offset="00" relocatable="true" max_length="0">
+			<original>押し込み</original>
+			<edited>押し込み</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_OVERALLINFORMATION_PUSH" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x8;&#x2;&#x6;&#x4;&#x0;Z&#x0;L&#x0;を押し込んでいる間だけ表示します</original>
+			<edited>&#xE;&#x8;&#x2;&#x6;&#x4;&#x0;Z&#x0;L&#x0;を押し込んでいる間だけ表示します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_COMBATANIME" offset="00" relocatable="true" max_length="0">
+			<original>戦闘アニメ</original>
+			<edited>戦闘アニメ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_COMBATANIME_ON" offset="00" relocatable="true" max_length="0">
+			<original>ON</original>
+			<edited>ON</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_COMBATANIME_ON" offset="00" relocatable="true" max_length="0">
+			<original>戦闘アニメを表示します</original>
+			<edited>戦闘アニメを表示します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_COMBATANIME_OFF" offset="00" relocatable="true" max_length="0">
+			<original>OFF</original>
+			<edited>OFF</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_COMBATANIME_OFF" offset="00" relocatable="true" max_length="0">
+			<original>戦闘アニメを表示しません</original>
+			<edited>戦闘アニメを表示しません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_COMBATANIME_MYUNIT" offset="00" relocatable="true" max_length="0">
+			<original>味方ユニット</original>
+			<edited>味方ユニット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_COMBATANIME_MYUNIT" offset="00" relocatable="true" max_length="0">
+			<original>味方のユニットが戦闘に参加する時のみ戦闘アニメを表示します</original>
+			<edited>味方のユニットが戦闘に参加する時のみ戦闘アニメを表示します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_COMBATANIME_MYTURN" offset="00" relocatable="true" max_length="0">
+			<original>自軍フェイズ</original>
+			<edited>自軍フェイズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_COMBATANIME_MYTURN" offset="00" relocatable="true" max_length="0">
+			<original>自軍のフェイズの時のみ戦闘アニメを表示します</original>
+			<edited>自軍のフェイズの時のみ戦闘アニメを表示します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_ROD_DANCE" offset="00" relocatable="true" max_length="0">
+			<original>杖・踊るアニメ</original>
+			<edited>杖・踊るアニメ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_ROD_DANCE_ON" offset="00" relocatable="true" max_length="0">
+			<original>ON</original>
+			<edited>ON</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_ROD_DANCE_ON" offset="00" relocatable="true" max_length="0">
+			<original>杖・踊るのアニメを表示します</original>
+			<edited>杖・踊るのアニメを表示します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_ROD_DANCE_OFF" offset="00" relocatable="true" max_length="0">
+			<original>OFF</original>
+			<edited>OFF</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_ROD_DANCE_OFF" offset="00" relocatable="true" max_length="0">
+			<original>杖・踊るのアニメを表示しません</original>
+			<edited>杖・踊るのアニメを表示しません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_ROD_DANCE_MYUNIT" offset="00" relocatable="true" max_length="0">
+			<original>味方ユニット</original>
+			<edited>味方ユニット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_ROD_DANCE_MYUNIT" offset="00" relocatable="true" max_length="0">
+			<original>味方ユニットが戦闘に参加する時のみ杖・踊るのアニメを表示します</original>
+			<edited>味方ユニットが戦闘に参加する時のみ杖・踊るのアニメを表示します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_ROD_DANCE_MYTURN" offset="00" relocatable="true" max_length="0">
+			<original>自軍フェイズ</original>
+			<edited>自軍フェイズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_ROD_DANCE_MYTURN" offset="00" relocatable="true" max_length="0">
+			<original>自軍のフェイズの時のみ杖・踊るのアニメを表示します</original>
+			<edited>自軍のフェイズの時のみ杖・踊るのアニメを表示します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_ENGAGE" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ演出</original>
+			<edited>エンゲージ演出</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_ENGAGE_ON" offset="00" relocatable="true" max_length="0">
+			<original>ON</original>
+			<edited>ON</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_ENGAGE_ON" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ演出を再生します</original>
+			<edited>エンゲージ演出を再生します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_ENGAGE_OFF" offset="00" relocatable="true" max_length="0">
+			<original>OFF</original>
+			<edited>OFF</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_ENGAGE_OFF" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ演出を再生しません</original>
+			<edited>エンゲージ演出を再生しません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_ENGAGE_ONCE" offset="00" relocatable="true" max_length="0">
+			<original>初回のみ</original>
+			<edited>初回のみ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_ENGAGE_ONCE" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ演出を各ターン初回のみ再生します</original>
+			<edited>エンゲージ演出を各ターン初回のみ再生します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_AI_SKIP" offset="00" relocatable="true" max_length="0">
+			<original>AIのスキップ</original>
+			<edited>AIのスキップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_AI_SKIP_ON" offset="00" relocatable="true" max_length="0">
+			<original>ON</original>
+			<edited>ON</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_AI_SKIP_ON" offset="00" relocatable="true" max_length="0">
+			<original>敵軍フェイズや「おまかせ」での行動を結果までスキップします</original>
+			<edited>敵軍フェイズや「おまかせ」での行動を結果までスキップします</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_AI_SKIP_OFF" offset="00" relocatable="true" max_length="0">
+			<original>OFF</original>
+			<edited>OFF</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_AI_SKIP_OFF" offset="00" relocatable="true" max_length="0">
+			<original>敵軍フェイズや「おまかせ」での行動を結果までスキップしません</original>
+			<edited>敵軍フェイズや「おまかせ」での行動を結果までスキップしません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_UNITHELP_PAGE" offset="00" relocatable="true" max_length="0">
+			<original>ユニット補助情報</original>
+			<edited>ユニット補助情報</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_UNITHELP_PAGE_H_STYLE" offset="00" relocatable="true" max_length="0">
+			<original>ユニット補助情報に戦闘スタイルを表示します</original>
+			<edited>ユニット補助情報に戦闘スタイルを表示します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_UNITHELP_PAGE_H_ATTACK_DEFENSE" offset="00" relocatable="true" max_length="0">
+			<original>ユニット補助情報に物攻/守備を表示します</original>
+			<edited>ユニット補助情報に物攻/守備を表示します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_UNITHELP_PAGE_H_MAGIC_ATTACK_DEFENSE" offset="00" relocatable="true" max_length="0">
+			<original>ユニット補助情報に魔攻/魔防を表示します</original>
+			<edited>ユニット補助情報に魔攻/魔防を表示します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_UNITHELP_PAGE_H_HIT_AVOIDANCE" offset="00" relocatable="true" max_length="0">
+			<original>ユニット補助情報に命中/回避を表示します</original>
+			<edited>ユニット補助情報に命中/回避を表示します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_UNITHELP_PAGE_H_CRITICAL_SECURE" offset="00" relocatable="true" max_length="0">
+			<original>ユニット補助情報に必殺/必避を表示します</original>
+			<edited>ユニット補助情報に必殺/必避を表示します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_UNITHELP_PAGE_H_TECHNIQUE_SPEED" offset="00" relocatable="true" max_length="0">
+			<original>ユニット補助情報に技/速さを表示します</original>
+			<edited>ユニット補助情報に技/速さを表示します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_UNITHELP_PAGE_H_MOVE_PHYSIQUE" offset="00" relocatable="true" max_length="0">
+			<original>ユニット補助情報に移動/体格を表示します</original>
+			<edited>ユニット補助情報に移動/体格を表示します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_BATTLE_MINIMAP" offset="00" relocatable="true" max_length="0">
+			<original>戦闘ミニマップ</original>
+			<edited>戦闘ミニマップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_BATTLE_MINIMAP_BIG" offset="00" relocatable="true" max_length="0">
+			<original>戦闘ミニマップを大きく表示します</original>
+			<edited>戦闘ミニマップを大きく表示します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_BATTLE_MINIMAP_SMALL" offset="00" relocatable="true" max_length="0">
+			<original>戦闘ミニマップを小さく表示します</original>
+			<edited>戦闘ミニマップを小さく表示します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_BATTLE_MINIMAP_OFF" offset="00" relocatable="true" max_length="0">
+			<original>戦闘ミニマップを表示しません</original>
+			<edited>戦闘ミニマップを表示しません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_MAPUNIT" offset="00" relocatable="true" max_length="0">
+			<original>ユニットの操作方法</original>
+			<edited>ユニットの操作方法</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_MAPUNIT_DIRECT" offset="00" relocatable="true" max_length="0">
+			<original>直接操作</original>
+			<edited>直接操作</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_MAPUNIT_DIRECT" offset="00" relocatable="true" max_length="0">
+			<original>ユニットを選択して、直接操作します</original>
+			<edited>ユニットを選択して、直接操作します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_MAPUNIT_INDIRECT" offset="00" relocatable="true" max_length="0">
+			<original>間接操作</original>
+			<edited>間接操作</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_MAPUNIT_INDIRECT" offset="00" relocatable="true" max_length="0">
+			<original>カーソルで移動先を指定して、間接的に操作します</original>
+			<edited>カーソルで移動先を指定して、間接的に操作します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_MINIMAP_ROTATION" offset="00" relocatable="true" max_length="0">
+			<original>拠点・散策ミニマップの回転</original>
+			<edited>拠点・散策ミニマップの回転</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_MINIMAP_ROTATION_ON" offset="00" relocatable="true" max_length="0">
+			<original>ON</original>
+			<edited>ON</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_MINIMAP_ROTATION_ON" offset="00" relocatable="true" max_length="0">
+			<original>拠点や散策のミニマップがカメラの動きに合わせて回転します</original>
+			<edited>拠点や散策のミニマップがカメラの動きに合わせて回転します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_MINIMAP_ROTATION_OFF" offset="00" relocatable="true" max_length="0">
+			<original>OFF</original>
+			<edited>OFF</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_MINIMAP_ROTATION_OFF" offset="00" relocatable="true" max_length="0">
+			<original>拠点や散策のミニマップが回転しません</original>
+			<edited>拠点や散策のミニマップが回転しません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_CAMERA_SPEED" offset="00" relocatable="true" max_length="0">
+			<original>カメラ感度</original>
+			<edited>カメラ感度</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_CAMERA_SPEED" offset="00" relocatable="true" max_length="0">
+			<original>拠点や散策でのカメラ感度を調整します</original>
+			<edited>拠点や散策でのカメラ感度を調整します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_COMBATCAMERA_HORIZON" offset="00" relocatable="true" max_length="0">
+			<original>戦闘カメラの水平方向の回転</original>
+			<edited>戦闘カメラの水平方向の回転</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_COMBATCAMERA_HORIZON_NOMAL" offset="00" relocatable="true" max_length="0">
+			<original>ノーマル</original>
+			<edited>ノーマル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_COMBATCAMERA_HORIZON_NOMAL" offset="00" relocatable="true" max_length="0">
+			<original>戦闘カメラの水平操作を標準にします</original>
+			<edited>戦闘カメラの水平操作を標準にします</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_COMBATCAMERA_HORIZON_REVERSE" offset="00" relocatable="true" max_length="0">
+			<original>リバース</original>
+			<edited>リバース</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_COMBATCAMERA_HORIZON_REVERSE" offset="00" relocatable="true" max_length="0">
+			<original>戦闘カメラの水平操作を反対にします</original>
+			<edited>戦闘カメラの水平操作を反対にします</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_COMBATCAMERA_VERTICAL" offset="00" relocatable="true" max_length="0">
+			<original>戦闘カメラの垂直方向の回転</original>
+			<edited>戦闘カメラの垂直方向の回転</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_COMBATCAMERA_VERTICAL_NOMAL" offset="00" relocatable="true" max_length="0">
+			<original>ノーマル</original>
+			<edited>ノーマル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_COMBATCAMERA_VERTICAL_NOMAL" offset="00" relocatable="true" max_length="0">
+			<original>戦闘カメラの垂直操作を標準にします</original>
+			<edited>戦闘カメラの垂直操作を標準にします</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_COMBATCAMERA_VERTICAL_REVERSE" offset="00" relocatable="true" max_length="0">
+			<original>リバース</original>
+			<edited>リバース</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_COMBATCAMERA_VERTICAL_REVERSE" offset="00" relocatable="true" max_length="0">
+			<original>戦闘カメラの垂直操作を反対にします</original>
+			<edited>戦闘カメラの垂直操作を反対にします</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_HABCAMERA_HORIZON" offset="00" relocatable="true" max_length="0">
+			<original>拠点カメラの水平方向の回転</original>
+			<edited>拠点カメラの水平方向の回転</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_HABCAMERA_HORIZON_NOMAL" offset="00" relocatable="true" max_length="0">
+			<original>ノーマル</original>
+			<edited>ノーマル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_HABCAMERA_HORIZON_NOMAL" offset="00" relocatable="true" max_length="0">
+			<original>拠点カメラの水平操作を標準にします</original>
+			<edited>拠点カメラの水平操作を標準にします</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_HABCAMERA_HORIZON_REVERSE" offset="00" relocatable="true" max_length="0">
+			<original>リバース</original>
+			<edited>リバース</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_HABCAMERA_HORIZON_REVERSE" offset="00" relocatable="true" max_length="0">
+			<original>拠点カメラの水平操作を反対にします</original>
+			<edited>拠点カメラの水平操作を反対にします</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_HABCAMERA_VERTICAL" offset="00" relocatable="true" max_length="0">
+			<original>拠点カメラの垂直方向の回転</original>
+			<edited>拠点カメラの垂直方向の回転</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_HABCAMERA_VERTICAL_NOMAL" offset="00" relocatable="true" max_length="0">
+			<original>ノーマル</original>
+			<edited>ノーマル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_HABCAMERA_VERTICAL_NOMAL" offset="00" relocatable="true" max_length="0">
+			<original>拠点カメラの垂直操作を標準にします</original>
+			<edited>拠点カメラの垂直操作を標準にします</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_HABCAMERA_VERTICAL_REVERSE" offset="00" relocatable="true" max_length="0">
+			<original>リバース</original>
+			<edited>リバース</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_HABCAMERA_VERTICAL_REVERSE" offset="00" relocatable="true" max_length="0">
+			<original>拠点カメラの垂直操作を反対にします</original>
+			<edited>拠点カメラの垂直操作を反対にします</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_GAMESPEED" offset="00" relocatable="true" max_length="0">
+			<original>ゲームスピード</original>
+			<edited>ゲームスピード</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_GAMESPEED_FAST" offset="00" relocatable="true" max_length="0">
+			<original>速い</original>
+			<edited>速い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_GAMESPEED_FAST" offset="00" relocatable="true" max_length="0">
+			<original>移動等のゲーム進行スピードを速くします</original>
+			<edited>移動等のゲーム進行スピードを速くします</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_GAMESPEED_NOMAL" offset="00" relocatable="true" max_length="0">
+			<original>普通</original>
+			<edited>普通</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_GAMESPEED_NOMAL" offset="00" relocatable="true" max_length="0">
+			<original>移動等のゲーム進行スピードを普通程度にします</original>
+			<edited>移動等のゲーム進行スピードを普通程度にします</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_GAMESPEED_SLOW" offset="00" relocatable="true" max_length="0">
+			<original>遅い</original>
+			<edited>遅い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_GAMESPEED_SLOW" offset="00" relocatable="true" max_length="0">
+			<original>移動等のゲーム進行スピードを遅くします</original>
+			<edited>移動等のゲーム進行スピードを遅くします</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_HPGAGE" offset="00" relocatable="true" max_length="0">
+			<original>HPゲージ</original>
+			<edited>HPゲージ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_HPGAGE_ON" offset="00" relocatable="true" max_length="0">
+			<original>ON</original>
+			<edited>ON</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_HPGAGE_ON" offset="00" relocatable="true" max_length="0">
+			<original>HPゲージを表示します</original>
+			<edited>HPゲージを表示します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_HPGAGE_OFF" offset="00" relocatable="true" max_length="0">
+			<original>OFF</original>
+			<edited>OFF</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_HPGAGE_OFF" offset="00" relocatable="true" max_length="0">
+			<original>HPゲージを表示しません</original>
+			<edited>HPゲージを表示しません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_SPEAKMODE" offset="00" relocatable="true" max_length="0">
+			<original>会話再生モード</original>
+			<edited>会話再生モード</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_SPEAKMODE_MANUAL" offset="00" relocatable="true" max_length="0">
+			<original>手動</original>
+			<edited>手動</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_SPEAKMODE_MANUAL" offset="00" relocatable="true" max_length="0">
+			<original>会話を手動で送ります</original>
+			<edited>会話を手動で送ります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_SPEAKMODE_AUTOMATIC" offset="00" relocatable="true" max_length="0">
+			<original>自動</original>
+			<edited>自動</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_SPEAKMODE_AUTOMATIC" offset="00" relocatable="true" max_length="0">
+			<original>会話が自動で送られます</original>
+			<edited>会話が自動で送られます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_BGM" offset="00" relocatable="true" max_length="0">
+			<original>BGM音量</original>
+			<edited>BGM音量</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_BGM" offset="00" relocatable="true" max_length="0">
+			<original>BGMの音量を調整します</original>
+			<edited>BGMの音量を調整します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_SE" offset="00" relocatable="true" max_length="0">
+			<original>SE音量</original>
+			<edited>SE音量</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_SE" offset="00" relocatable="true" max_length="0">
+			<original>SEの音量を調整します</original>
+			<edited>SEの音量を調整します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_VOICE" offset="00" relocatable="true" max_length="0">
+			<original>ボイス音量</original>
+			<edited>ボイス音量</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_VOICE" offset="00" relocatable="true" max_length="0">
+			<original>ボイスの音量を調整します</original>
+			<edited>ボイスの音量を調整します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_BGM_CHANGE_MYTURN" offset="00" relocatable="true" max_length="0">
+			<original>BGM設定（自軍フェイズ）</original>
+			<edited>BGM設定（自軍フェイズ）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_BGM_CHANGE_MYTURN" offset="00" relocatable="true" max_length="0">
+			<original>ストーリー以外の自軍フェイズBGMを「&#xE;&#x1;&#x0;&#x0;」にします</original>
+			<edited>ストーリー以外の自軍フェイズBGMを「&#xE;&#x1;&#x0;&#x0;」にします</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_BGM_CHANGE_MYTURN_NONE" offset="00" relocatable="true" max_length="0">
+			<original>ストーリー以外の自軍フェイズBGMを変更しません</original>
+			<edited>ストーリー以外の自軍フェイズBGMを変更しません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_BGM_CHANGE_ENEMYTURN" offset="00" relocatable="true" max_length="0">
+			<original>BGM設定（敵軍フェイズ）</original>
+			<edited>BGM設定（敵軍フェイズ）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_BGM_CHANGE_ENEMYTURN" offset="00" relocatable="true" max_length="0">
+			<original>ストーリー以外の敵軍フェイズBGMを「&#xE;&#x1;&#x0;&#x0;」にします</original>
+			<edited>ストーリー以外の敵軍フェイズBGMを「&#xE;&#x1;&#x0;&#x0;」にします</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_BGM_CHANGE_ENEMYTURN_NONE" offset="00" relocatable="true" max_length="0">
+			<original>ストーリー以外の敵軍フェイズBGMを変更しません</original>
+			<edited>ストーリー以外の敵軍フェイズBGMを変更しません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_BGM_CHANGE_DECIDE" offset="00" relocatable="true" max_length="0">
+			<original>設定変更</original>
+			<edited>設定変更</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_BGM_CHANGE_NOSELECT" offset="00" relocatable="true" max_length="0">
+			<original>未選択</original>
+			<edited>未選択</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_TUTORIAL" offset="00" relocatable="true" max_length="0">
+			<original>指南表示</original>
+			<edited>指南表示</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_TUTORIAL_ON" offset="00" relocatable="true" max_length="0">
+			<original>ON</original>
+			<edited>ON</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_TUTORIAL_ON" offset="00" relocatable="true" max_length="0">
+			<original>ゲーム中に指南を表示します</original>
+			<edited>ゲーム中に指南を表示します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_TUTORIAL_OFF" offset="00" relocatable="true" max_length="0">
+			<original>OFF</original>
+			<edited>OFF</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_TUTORIAL_OFF" offset="00" relocatable="true" max_length="0">
+			<original>ゲーム中に指南を表示しません（一部を除く）</original>
+			<edited>ゲーム中に指南を表示しません（一部を除く）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_NETWORK" offset="00" relocatable="true" max_length="0">
+			<original>通信</original>
+			<edited>通信</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_NETWORK_ON" offset="00" relocatable="true" max_length="0">
+			<original>ON</original>
+			<edited>ON</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_NETWORK_ON" offset="00" relocatable="true" max_length="0">
+			<original>通信機能を使用します</original>
+			<edited>通信機能を使用します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_NETWORK_OFF" offset="00" relocatable="true" max_length="0">
+			<original>OFF</original>
+			<edited>OFF</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CONFIG_H_NETWORK_OFF" offset="00" relocatable="true" max_length="0">
+			<original>通信機能を使用しません</original>
+			<edited>通信機能を使用しません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TITLE_GMAP" offset="00" relocatable="true" max_length="0">
+			<original>ワールドマップメニュー</original>
+			<edited>ワールドマップメニュー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TITLE_KIZUNA" offset="00" relocatable="true" max_length="0">
+			<original>散策メニュー</original>
+			<edited>散策メニュー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TITLE_HUB" offset="00" relocatable="true" max_length="0">
+			<original>拠点メニュー</original>
+			<edited>拠点メニュー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TITLE_FASTTRAVEL" offset="00" relocatable="true" max_length="0">
+			<original>ファストトラベル</original>
+			<edited>ファストトラベル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TITLE_FASTTRAVEL_HELP" offset="00" relocatable="true" max_length="0">
+			<original>行きたい場所を選択してください</original>
+			<edited>行きたい場所を選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_CHAPTER" offset="00" relocatable="true" max_length="0">
+			<original>章開始</original>
+			<edited>章開始</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_CHAPTER_HELP" offset="00" relocatable="true" max_length="0">
+			<original>このマップのストーリーを開始する</original>
+			<edited>このマップのストーリーを開始する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_ENCOUNTER" offset="00" relocatable="true" max_length="0">
+			<original>遭遇戦開始</original>
+			<edited>遭遇戦開始</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_ENCOUNTER_HELP" offset="00" relocatable="true" max_length="0">
+			<original>このマップの敵と戦闘する</original>
+			<edited>このマップの敵と戦闘する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_TRAINING" offset="00" relocatable="true" max_length="0">
+			<original>訓練開始</original>
+			<edited>訓練開始</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_TRAINING_HELP" offset="00" relocatable="true" max_length="0">
+			<original>このマップの兵士と訓練する</original>
+			<edited>このマップの兵士と訓練する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_CHAPTER_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>この章を開始しますか？</original>
+			<edited>この章を開始しますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_CHAPTER_CONFIRM_M010" offset="00" relocatable="true" max_length="0">
+			<original>この章を開始しますか？
+（次の章との連戦になります）</original>
+			<edited>この章を開始しますか？
+（次の章との連戦になります）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_ENCOUNTER_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>遭遇戦を開始しますか？</original>
+			<edited>遭遇戦を開始しますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_TRAINING_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>訓練を開始しますか？</original>
+			<edited>訓練を開始しますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_YES" offset="00" relocatable="true" max_length="0">
+			<original>開始する</original>
+			<edited>開始する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENTER_CHAPTER_OPEN_M026" offset="00" relocatable="true" max_length="0">
+			<original>邪竜ソンブルとの最終決戦には
+ソラネルのカフェテラス2階にある
+バルコニーから向かうことができます。</original>
+			<edited>邪竜ソンブルとの最終決戦には
+ソラネルのカフェテラス2階にある
+バルコニーから向かうことができます。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FRIEND" offset="00" relocatable="true" max_length="0">
+			<original>仲間</original>
+			<edited>仲間</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FRIEND_HELP" offset="00" relocatable="true" max_length="0">
+			<original>会話や仲間の情報を確認する</original>
+			<edited>会話や仲間の情報を確認する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FRIEND_LIST" offset="00" relocatable="true" max_length="0">
+			<original>仲間手帖</original>
+			<edited>仲間手帖</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FRIEND_LIST_HELP" offset="00" relocatable="true" max_length="0">
+			<original>仲間の情報を確認する</original>
+			<edited>仲間の情報を確認する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FRIEND_LIST_SELECT_HELP" offset="00" relocatable="true" max_length="0">
+			<original>情報を見たいユニットを選んでください</original>
+			<edited>情報を見たいユニットを選んでください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FRIEND_LIST_NONE" offset="00" relocatable="true" max_length="0">
+			<original>まだ情報がありません
+拠点で仲間に話しかけてみましょう</original>
+			<edited>まだ情報がありません
+拠点で仲間に話しかけてみましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_RING_LIST" offset="00" relocatable="true" max_length="0">
+			<original>指輪&#xE;&#x1;&#x8;&#x0;図鑑</original>
+			<edited>指輪&#xE;&#x1;&#x8;&#x0;図鑑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_RING_LIST_HELP" offset="00" relocatable="true" max_length="0">
+			<original>紋章士や絆の指輪の情報を確認する</original>
+			<edited>紋章士や絆の指輪の情報を確認する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_RING_LIST_SELECT_HELP" offset="00" relocatable="true" max_length="0">
+			<original>情報を見たい指輪&#xE;&#x1;&#x8;&#x0;を選んでください</original>
+			<edited>情報を見たい指輪&#xE;&#x1;&#x8;&#x0;を選んでください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HUB_MATERIAL" offset="00" relocatable="true" max_length="0">
+			<original>所持品</original>
+			<edited>所持品</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HUB_MATERIAL_HELP" offset="00" relocatable="true" max_length="0">
+			<original>素材や貴重品を確認する</original>
+			<edited>素材や貴重品を確認する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HUB_MAP_CHECK" offset="00" relocatable="true" max_length="0">
+			<original>拠点情報</original>
+			<edited>拠点情報</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HUB_MAP_CHECK_HELP" offset="00" relocatable="true" max_length="0">
+			<original>施設情報の確認　ファストトラベル</original>
+			<edited>施設情報の確認　ファストトラベル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_KIZUNA_DEPART" offset="00" relocatable="true" max_length="0">
+			<original>次へ進む</original>
+			<edited>次へ進む</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_KIZUNA_DEPART_HELP" offset="00" relocatable="true" max_length="0">
+			<original>この場を後にして次の目的地に進む</original>
+			<edited>この場を後にして次の目的地に進む</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TO_SOLANEL" offset="00" relocatable="true" max_length="0">
+			<original>ソラネルへ</original>
+			<edited>ソラネルへ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TO_SOLANEL_HELP" offset="00" relocatable="true" max_length="0">
+			<original>拠点ソラネルへ移動する</original>
+			<edited>拠点ソラネルへ移動する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TO_SOLANEL_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>ソラネルへ移動しますか？</original>
+			<edited>ソラネルへ移動しますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TO_GMAP" offset="00" relocatable="true" max_length="0">
+			<original>ワールドマップへ</original>
+			<edited>ワールドマップへ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TO_GMAP_HELP" offset="00" relocatable="true" max_length="0">
+			<original>ワールドマップへ移動する</original>
+			<edited>ワールドマップへ移動する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOPPING" offset="00" relocatable="true" max_length="0">
+			<original>買い物</original>
+			<edited>買い物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOPPING_HELP" offset="00" relocatable="true" max_length="0">
+			<original>武器や道具を売買する</original>
+			<edited>武器や道具を売買する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_Recall_Reliance" offset="00" relocatable="true" max_length="0">
+			<original>支援会話</original>
+			<edited>支援会話</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_H_Recall_Reliance" offset="00" relocatable="true" max_length="0">
+			<original>仲間との支援会話を行う</original>
+			<edited>仲間との支援会話を行う</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_Recall_Reliance_Unit" offset="00" relocatable="true" max_length="0">
+			<original>支援相手一覧</original>
+			<edited>支援相手一覧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_Recall_GodReliance" offset="00" relocatable="true" max_length="0">
+			<original>絆会話</original>
+			<edited>絆会話</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_H_Recall_GodReliance" offset="00" relocatable="true" max_length="0">
+			<original>紋章士との絆会話を行う</original>
+			<edited>紋章士との絆会話を行う</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_Recall_GodReliance_Unit" offset="00" relocatable="true" max_length="0">
+			<original>紋章士一覧</original>
+			<edited>紋章士一覧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SoundList" offset="00" relocatable="true" max_length="0">
+			<original>楽曲一覧</original>
+			<edited>楽曲一覧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_TRAINING" offset="00" relocatable="true" max_length="0">
+			<original>訓練　参加可能！</original>
+			<edited>訓練　参加可能！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_ENCOUNTER" offset="00" relocatable="true" max_length="0">
+			<original>遭遇戦　発生中！</original>
+			<edited>遭遇戦　発生中！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_RarEnemy_EXP" offset="00" relocatable="true" max_length="0">
+			<original>銀ノ異形兵　出現中！</original>
+			<edited>銀ノ異形兵　出現中！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_RarEnemy_Gold" offset="00" relocatable="true" max_length="0">
+			<original>金ノ異形兵　出現中！</original>
+			<edited>金ノ異形兵　出現中！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Position" offset="00" relocatable="true" max_length="0">
+			<original>推奨</original>
+			<edited>推奨</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_PositionLv" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;Lv.&#xE;&#x1;&#x1;&#x0;</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;Lv.&#xE;&#x1;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Investment" offset="00" relocatable="true" max_length="0">
+			<original>投資Lv.&#xE;&#x1;&#x0;&#x0;</original>
+			<edited>投資Lv.&#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Material" offset="00" relocatable="true" max_length="0">
+			<original>素材</original>
+			<edited>素材</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Food" offset="00" relocatable="true" max_length="0">
+			<original>食材</original>
+			<edited>食材</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Animal" offset="00" relocatable="true" max_length="0">
+			<original>動物</original>
+			<edited>動物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Animal_Capture_OK" offset="00" relocatable="true" max_length="0">
+			<original>保護可能</original>
+			<edited>保護可能</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Animal_Capture_NG" offset="00" relocatable="true" max_length="0">
+			<original>保護不可</original>
+			<edited>保護不可</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Animal_Capture_Verification" offset="00" relocatable="true" max_length="0">
+			<original>「&#xE;&#x1;&#x0;&#x0;」を
+ソラネルへ連れ帰って保護しますか？</original>
+			<edited>「&#xE;&#x1;&#x0;&#x0;」を
+ソラネルへ連れ帰って保護しますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Animal_Capture_Yes" offset="00" relocatable="true" max_length="0">
+			<original>保護する</original>
+			<edited>保護する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Animal_Capture_Attention" offset="00" relocatable="true" max_length="0">
+			<original>「&#xE;&#x1;&#x0;&#x0;」の飼育方法が
+わからないため保護できません。
+カフェテラスの掲示板で「国への投資」を行うと
+飼育方法を教わることができます。</original>
+			<edited>「&#xE;&#x1;&#x0;&#x0;」の飼育方法が
+わからないため保護できません。
+カフェテラスの掲示板で「国への投資」を行うと
+飼育方法を教わることができます。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Animal_Capture_Get" offset="00" relocatable="true" max_length="0">
+			<original>保護する</original>
+			<edited>保護する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GMAP_MapDetails_Animal_Capture_Got" offset="00" relocatable="true" max_length="0">
+			<original>保護しました</original>
+			<edited>保護しました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ORDER_ADVANCE" offset="00" relocatable="true" max_length="0">
+			<original>進軍</original>
+			<edited>進軍</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ORDER_ADVANCE_HELP" offset="00" relocatable="true" max_length="0">
+			<original>状況に合わせて行動する</original>
+			<edited>状況に合わせて行動する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ORDER_RUSH" offset="00" relocatable="true" max_length="0">
+			<original>突撃</original>
+			<edited>突撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ORDER_RUSH_HELP" offset="00" relocatable="true" max_length="0">
+			<original>攻撃を最優先に行動する</original>
+			<edited>攻撃を最優先に行動する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ORDER_ESCORT" offset="00" relocatable="true" max_length="0">
+			<original>護衛</original>
+			<edited>護衛</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ORDER_ESCORT_HELP" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x3;&#x0;を守りながら行動する</original>
+			<edited>&#xE;&#x6;&#x3;&#x0;を守りながら行動する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ORDER_WITHDRAW" offset="00" relocatable="true" max_length="0">
+			<original>後退</original>
+			<edited>後退</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ORDER_WITHDRAW_HELP" offset="00" relocatable="true" max_length="0">
+			<original>敵から距離を取って行動する</original>
+			<edited>敵から距離を取って行動する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_BREAK_DOWN" offset="00" relocatable="true" max_length="0">
+			<original>制圧</original>
+			<edited>制圧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_BREAK_DOWN" offset="00" relocatable="true" max_length="0">
+			<original>マップをクリアする</original>
+			<edited>マップをクリアする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ESCAPE" offset="00" relocatable="true" max_length="0">
+			<original>離脱</original>
+			<edited>離脱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_ESCAPE" offset="00" relocatable="true" max_length="0">
+			<original>マップから離脱する</original>
+			<edited>マップから離脱する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ATTACK" offset="00" relocatable="true" max_length="0">
+			<original>攻撃</original>
+			<edited>攻撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_ATTACK" offset="00" relocatable="true" max_length="0">
+			<original>敵と戦う</original>
+			<edited>敵と戦う</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENGAGE_COMMAND" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ</original>
+			<edited>エンゲージ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENGAGE_COMMAND_RELEASE" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ解除</original>
+			<edited>エンゲージ解除</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_ENGAGE_COMMAND" offset="00" relocatable="true" max_length="0">
+			<original>紋章士と一体化する</original>
+			<edited>紋章士と一体化する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENGAGE_HELP_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>解放される能力</original>
+			<edited>解放される能力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ALTERNATE_HELP_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>変化する能力</original>
+			<edited>変化する能力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENGAGE_LINK" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ＋</original>
+			<edited>エンゲージ＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_ENGAGE_LINK" offset="00" relocatable="true" max_length="0">
+			<original>相手と同時にエンゲージする</original>
+			<edited>相手と同時にエンゲージする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ENGAGE_LINK_OUT_OF_MOVE_RANGE" offset="00" relocatable="true" max_length="0">
+			<original>この位置で行うと移動範囲外になります</original>
+			<edited>この位置で行うと移動範囲外になります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CANNON" offset="00" relocatable="true" max_length="0">
+			<original>砲撃</original>
+			<edited>砲撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_CANNON" offset="00" relocatable="true" max_length="0">
+			<original>砲台を使って敵を攻撃する</original>
+			<edited>砲台を使って敵を攻撃する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CANNON_NO_AVAILABLE_BOW" offset="00" relocatable="true" max_length="0">
+			<original>現在使用できる弓を所持していません</original>
+			<edited>現在使用できる弓を所持していません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CANNON_NO_AVAILABLE_MAGIC" offset="00" relocatable="true" max_length="0">
+			<original>現在使用できる魔道書を所持していません</original>
+			<edited>現在使用できる魔道書を所持していません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CANNON_OUT_OF_AMMO" offset="00" relocatable="true" max_length="0">
+			<original>撃てる制限数に達しています</original>
+			<edited>撃てる制限数に達しています</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_CANNON_OUT_OF_RANGE" offset="00" relocatable="true" max_length="0">
+			<original>砲撃可能な範囲に敵がいません</original>
+			<edited>砲撃可能な範囲に敵がいません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_DESTROY" offset="00" relocatable="true" max_length="0">
+			<original>破壊</original>
+			<edited>破壊</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_DESTROY" offset="00" relocatable="true" max_length="0">
+			<original>壁や障害物を破壊する</original>
+			<edited>壁や障害物を破壊する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ROD" offset="00" relocatable="true" max_length="0">
+			<original>杖</original>
+			<edited>杖</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_ROD" offset="00" relocatable="true" max_length="0">
+			<original>味方の回復や敵の妨害などを行う</original>
+			<edited>味方の回復や敵の妨害などを行う</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_VISIT" offset="00" relocatable="true" max_length="0">
+			<original>訪問</original>
+			<edited>訪問</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_VISIT" offset="00" relocatable="true" max_length="0">
+			<original>民家を訪れる</original>
+			<edited>民家を訪れる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TREASURE_BOX" offset="00" relocatable="true" max_length="0">
+			<original>宝箱</original>
+			<edited>宝箱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_TREASURE_BOX" offset="00" relocatable="true" max_length="0">
+			<original>アイテムを入手する</original>
+			<edited>アイテムを入手する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TORCH_ON" offset="00" relocatable="true" max_length="0">
+			<original>篝火</original>
+			<edited>篝火</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_TORCH_ON" offset="00" relocatable="true" max_length="0">
+			<original>周囲を照らす</original>
+			<edited>周囲を照らす</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_DOOR" offset="00" relocatable="true" max_length="0">
+			<original>扉の鍵</original>
+			<edited>扉の鍵</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_DOOR" offset="00" relocatable="true" max_length="0">
+			<original>扉を開く</original>
+			<edited>扉を開く</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>持ち物</original>
+			<edited>持ち物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>アイテムを使用/装備する</original>
+			<edited>アイテムを使用/装備する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TRADE" offset="00" relocatable="true" max_length="0">
+			<original>持ち物交換</original>
+			<edited>持ち物交換</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_TRADE" offset="00" relocatable="true" max_length="0">
+			<original>味方とアイテムを交換する</original>
+			<edited>味方とアイテムを交換する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TRANSPORTER" offset="00" relocatable="true" max_length="0">
+			<original>輸送隊</original>
+			<edited>輸送隊</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_TRANSPORTER" offset="00" relocatable="true" max_length="0">
+			<original>アイテムを預ける/引き出す</original>
+			<edited>アイテムを預ける/引き出す</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TITLEHELP_TRANSPORTER" offset="00" relocatable="true" max_length="0">
+			<original>アイテムを預ける/引き出す</original>
+			<edited>アイテムを預ける/引き出す</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_TALK" offset="00" relocatable="true" max_length="0">
+			<original>会話</original>
+			<edited>会話</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_TALK" offset="00" relocatable="true" max_length="0">
+			<original>ユニットと会話する</original>
+			<edited>ユニットと会話する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_GUARD" offset="00" relocatable="true" max_length="0">
+			<original>チェインガード</original>
+			<edited>チェインガード</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_GUARD" offset="00" relocatable="true" max_length="0">
+			<original>隣接する味方が受ける攻撃を無効化</original>
+			<edited>隣接する味方が受ける攻撃を無効化</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_GUARD_FULL_HP" offset="00" relocatable="true" max_length="0">
+			<original>HPが最大値でないため使用できません</original>
+			<edited>HPが最大値でないため使用できません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_DANCE" offset="00" relocatable="true" max_length="0">
+			<original>踊る</original>
+			<edited>踊る</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_DANCE" offset="00" relocatable="true" max_length="0">
+			<original>特別な踊りで味方を再行動させる</original>
+			<edited>特別な踊りで味方を再行動させる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_WAIT" offset="00" relocatable="true" max_length="0">
+			<original>待機</original>
+			<edited>待機</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_HELP_WAIT" offset="00" relocatable="true" max_length="0">
+			<original>行動を終える</original>
+			<edited>行動を終える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_EQUIP" offset="00" relocatable="true" max_length="0">
+			<original>装備</original>
+			<edited>装備</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_REMOVE" offset="00" relocatable="true" max_length="0">
+			<original>外す</original>
+			<edited>外す</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_ARRANGE" offset="00" relocatable="true" max_length="0">
+			<original>並べ替え</original>
+			<edited>並べ替え</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_USE" offset="00" relocatable="true" max_length="0">
+			<original>使う</original>
+			<edited>使う</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_USE_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>「&#xE;&#x1;&#x0;&#x0;」を使いますか？</original>
+			<edited>「&#xE;&#x1;&#x0;&#x0;」を使いますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_USE_DOPING_FOREVER" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;が&#xE;&#x1;&#x1;&#x0;上がった</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;が&#xE;&#x1;&#x1;&#x0;上がった</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_USE_DOPING_TEMPORARY" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;が&#xE;&#x1;&#x1;&#x0;上がった（戦闘マップ終了まで）</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;が&#xE;&#x1;&#x1;&#x0;上がった（戦闘マップ終了まで）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_TRADE" offset="00" relocatable="true" max_length="0">
+			<original>交換</original>
+			<edited>交換</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_DISCARD" offset="00" relocatable="true" max_length="0">
+			<original>捨てる</original>
+			<edited>捨てる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_DISCARD_NOTIFY" offset="00" relocatable="true" max_length="0">
+			<original>持ち物がいっぱいです。
+どれか1つを捨ててください。</original>
+			<edited>持ち物がいっぱいです。
+どれか1つを捨ててください。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_SEND_NOTIFY" offset="00" relocatable="true" max_length="0">
+			<original>持ち物がいっぱいです。
+輸送隊に送る持ち物を
+1つ選んでください。</original>
+			<edited>持ち物がいっぱいです。
+輸送隊に送る持ち物を
+1つ選んでください。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_SEND_EQUIP" offset="00" relocatable="true" max_length="0">
+			<original>装備中の武器は送ることができません</original>
+			<edited>装備中の武器は送ることができません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_DISCARD_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;を本当に捨てますか？</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;を本当に捨てますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_DISCARD_CONFIRM_YES" offset="00" relocatable="true" max_length="0">
+			<original>捨てる</original>
+			<edited>捨てる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_SEND_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;を輸送隊に送りますか？</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;を輸送隊に送りますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_SEND_YES" offset="00" relocatable="true" max_length="0">
+			<original>送る</original>
+			<edited>送る</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_CASH_ANNOUNCE" offset="00" relocatable="true" max_length="0">
+			<original>輸送隊に入れられるアイテム数の上限を超えたため
+価格の低いものから売却しました</original>
+			<edited>輸送隊に入れられるアイテム数の上限を超えたため
+価格の低いものから売却しました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ITEMMENU_TITLE_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>持ち物</original>
+			<edited>持ち物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ITEMMENU_TITLE_ATTACK" offset="00" relocatable="true" max_length="0">
+			<original>武器選択</original>
+			<edited>武器選択</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ITEMMENU_TITLE_ROD" offset="00" relocatable="true" max_length="0">
+			<original>杖選択</original>
+			<edited>杖選択</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ITEMMENU_TITLE_TRANSPORTER" offset="00" relocatable="true" max_length="0">
+			<original>輸送隊</original>
+			<edited>輸送隊</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ITEMMENU_ITEM_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>所持数</original>
+			<edited>所持数</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ITEMMENU_ITEM_ALL" offset="00" relocatable="true" max_length="0">
+			<original>ALL</original>
+			<edited>ALL</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REWIND_INFO_TURN" offset="00" relocatable="true" max_length="0">
+			<original>ターン</original>
+			<edited>ターン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REWIND_INFO_TURNS" offset="00" relocatable="true" max_length="0">
+			<original>ターン</original>
+			<edited>ターン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REWIND_INFO_REST_UNIT" offset="00" relocatable="true" max_length="0">
+			<original>未行動</original>
+			<edited>未行動</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REWIND_INFO_TIMES" offset="00" relocatable="true" max_length="0">
+			<original>残り回数</original>
+			<edited>残り回数</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REWIND_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>自軍フェイズではありませんが
+この状況に戻しますか？</original>
+			<edited>自軍フェイズではありませんが
+この状況に戻しますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REWIND_DECIDE_YES" offset="00" relocatable="true" max_length="0">
+			<original>戻す</original>
+			<edited>戻す</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_HELP" offset="00" relocatable="true" max_length="0">
+			<original>行動を選択してください</original>
+			<edited>行動を選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_BUY" offset="00" relocatable="true" max_length="0">
+			<original>購入</original>
+			<edited>購入</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_BUY_EMPTY" offset="00" relocatable="true" max_length="0">
+			<original>何も売っていません</original>
+			<edited>何も売っていません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_BUY_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>アイテムを購入しますか？</original>
+			<edited>アイテムを購入しますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_PurchasedItem" offset="00" relocatable="true" max_length="0">
+			<original>購入品</original>
+			<edited>購入品</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_BUY_CONFIRM_YES" offset="00" relocatable="true" max_length="0">
+			<original>購入する</original>
+			<edited>購入する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_BUY_NOTICE_FULL" offset="00" relocatable="true" max_length="0">
+			<original>これ以上所持できないため購入できません。</original>
+			<edited>これ以上所持できないため購入できません。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_SELL" offset="00" relocatable="true" max_length="0">
+			<original>売却</original>
+			<edited>売却</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_SELL_EMPTY" offset="00" relocatable="true" max_length="0">
+			<original>何も持っていません</original>
+			<edited>何も持っていません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_SELL_CANNOT" offset="00" relocatable="true" max_length="0">
+			<original>売却不可</original>
+			<edited>売却不可</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_SELL_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>アイテムを売却しますか？</original>
+			<edited>アイテムを売却しますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_SELL_CONFIRM_Multiple" offset="00" relocatable="true" max_length="0">
+			<original>選択したアイテムを売却しますか？</original>
+			<edited>選択したアイテムを売却しますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_SELL_CONFIRM_Other" offset="00" relocatable="true" max_length="0">
+			<original>他：&#xE;&#x1;&#x0;&#x0; 品</original>
+			<edited>他：&#xE;&#x1;&#x0;&#x0; 品</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_SaleItem" offset="00" relocatable="true" max_length="0">
+			<original>売却品</original>
+			<edited>売却品</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_SELL_CONFIRM_YES" offset="00" relocatable="true" max_length="0">
+			<original>売却する</original>
+			<edited>売却する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>アイテム</original>
+			<edited>アイテム</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_STOCK" offset="00" relocatable="true" max_length="0">
+			<original>在庫</original>
+			<edited>在庫</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_USABLE_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>回数</original>
+			<edited>回数</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_PRICE" offset="00" relocatable="true" max_length="0">
+			<original>価格</original>
+			<edited>価格</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_SELLING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>売却数</original>
+			<edited>売却数</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SHOP_SELLING_TOTAL" offset="00" relocatable="true" max_length="0">
+			<original>売却価格</original>
+			<edited>売却価格</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_WEAPON_SHOP" offset="00" relocatable="true" max_length="0">
+			<original>武器屋</original>
+			<edited>武器屋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_WEAPON_SHOP_BUY_HELP" offset="00" relocatable="true" max_length="0">
+			<original>購入する武器を選択してください</original>
+			<edited>購入する武器を選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_WEAPON_SHOP_HOLDING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>同じ武器の所持数</original>
+			<edited>同じ武器の所持数</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_WEAPON_SHOP_EQUIPPED_POSSIBLE" offset="00" relocatable="true" max_length="0">
+			<original>装備可能な武器レベル</original>
+			<edited>装備可能な武器レベル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_SHOP" offset="00" relocatable="true" max_length="0">
+			<original>道具屋</original>
+			<edited>道具屋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_SHOP_BUY_HELP" offset="00" relocatable="true" max_length="0">
+			<original>購入するアイテムを選択してください</original>
+			<edited>購入するアイテムを選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_SHOP_SELL_HELP" offset="00" relocatable="true" max_length="0">
+			<original>売却するアイテムを選択してください</original>
+			<edited>売却するアイテムを選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ITEM_SHOP_HOLDING_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>同じアイテムの所持数</original>
+			<edited>同じアイテムの所持数</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACCESSORY_SHOP" offset="00" relocatable="true" max_length="0">
+			<original>アクセサリー屋</original>
+			<edited>アクセサリー屋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACCESSORY_SHOP_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>着替え</original>
+			<edited>着替え</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACCESSORY_SHOP_BUY_HELP" offset="00" relocatable="true" max_length="0">
+			<original>購入するアクセサリーを選択してください</original>
+			<edited>購入するアクセサリーを選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACCESSORY_SHOP_BUY_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>アクセサリーを購入しますか？</original>
+			<edited>アクセサリーを購入しますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACCESSORY_SHOP_ACCESSORY" offset="00" relocatable="true" max_length="0">
+			<original>アクセサリー一覧</original>
+			<edited>アクセサリー一覧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACCESSORY_SHOP_PART_BODY" offset="00" relocatable="true" max_length="0">
+			<original>体</original>
+			<edited>体</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACCESSORY_SHOP_PART_HEAD" offset="00" relocatable="true" max_length="0">
+			<original>頭</original>
+			<edited>頭</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACCESSORY_SHOP_PART_FACE" offset="00" relocatable="true" max_length="0">
+			<original>顔</original>
+			<edited>顔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACCESSORY_SHOP_PART_BACK" offset="00" relocatable="true" max_length="0">
+			<original>背中</original>
+			<edited>背中</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACCESSORY_SHOP_CHANGE_HELP" offset="00" relocatable="true" max_length="0">
+			<original>着替えるアクセサリーを選択してください</original>
+			<edited>着替えるアクセサリーを選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACCESSORY_SHOP_CHANGE_EMPTY" offset="00" relocatable="true" max_length="0">
+			<original>何も持っていません</original>
+			<edited>何も持っていません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP" offset="00" relocatable="true" max_length="0">
+			<original>錬成屋</original>
+			<edited>錬成屋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_REFINE" offset="00" relocatable="true" max_length="0">
+			<original>錬成・進化</original>
+			<edited>錬成・進化</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_REFINE_WEAPONS" offset="00" relocatable="true" max_length="0">
+			<original>武器一覧</original>
+			<edited>武器一覧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_REFINE_GODSYMBOL" offset="00" relocatable="true" max_length="0">
+			<original>紋章一覧</original>
+			<edited>紋章一覧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_ENGRAVE" offset="00" relocatable="true" max_length="0">
+			<original>紋章刻印</original>
+			<edited>紋章刻印</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE" offset="00" relocatable="true" max_length="0">
+			<original>素材交換</original>
+			<edited>素材交換</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_REFINE_BASE_HELP" offset="00" relocatable="true" max_length="0">
+			<original>錬成・進化する武器を選んでください</original>
+			<edited>錬成・進化する武器を選んでください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_REFINE_BASE_EMPTY" offset="00" relocatable="true" max_length="0">
+			<original>錬成・進化できる武器がありません</original>
+			<edited>錬成・進化できる武器がありません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_REFINE_TARGET_HELP" offset="00" relocatable="true" max_length="0">
+			<original>錬成・進化先の武器を選んでください</original>
+			<edited>錬成・進化先の武器を選んでください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_REFINE_TARGET_UNKNOWN" offset="00" relocatable="true" max_length="0">
+			<original>？？？</original>
+			<edited>？？？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_REFINE_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>武器を錬成しますか？</original>
+			<edited>武器を錬成しますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_REFINE_CONTENTS" offset="00" relocatable="true" max_length="0">
+			<original>錬成内容</original>
+			<edited>錬成内容</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_REFINE_CONFIRM_YES" offset="00" relocatable="true" max_length="0">
+			<original>錬成する</original>
+			<edited>錬成する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EVOLVE_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>武器を進化させますか？</original>
+			<edited>武器を進化させますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EVOLVE_CONTENTS" offset="00" relocatable="true" max_length="0">
+			<original>進化内容</original>
+			<edited>進化内容</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EVOLVE_CONFIRM_YES" offset="00" relocatable="true" max_length="0">
+			<original>進化させる</original>
+			<edited>進化させる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_ENGRAVE_ITEM_HELP" offset="00" relocatable="true" max_length="0">
+			<original>紋章を刻む武器を選択してください</original>
+			<edited>紋章を刻む武器を選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_ENGRAVE_ITEM_EMPTY" offset="00" relocatable="true" max_length="0">
+			<original>何も武器を持っていません</original>
+			<edited>何も武器を持っていません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_ENGRAVE_GOD_HELP" offset="00" relocatable="true" max_length="0">
+			<original>武器に刻む紋章を選択してください</original>
+			<edited>武器に刻む紋章を選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_ENGRAVE_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>紋章を刻印しますか？</original>
+			<edited>紋章を刻印しますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_ENGRAVE_CONTENTS" offset="00" relocatable="true" max_length="0">
+			<original>刻印内容</original>
+			<edited>刻印内容</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_ENGRAVE_CONFIRM_YES" offset="00" relocatable="true" max_length="0">
+			<original>刻印する</original>
+			<edited>刻印する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_ENGRAVE_CONFIRM_TO_REPLACE" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;は、&#xE;&#x1;&#x1;&#x0;に
+刻印されています。
+こちらに付け替えて刻印しますか？</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;は、&#xE;&#x1;&#x1;&#x0;に
+刻印されています。
+こちらに付け替えて刻印しますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_ENGRAVE_EMPTY" offset="00" relocatable="true" max_length="0">
+			<original>選択できる紋章がありません</original>
+			<edited>選択できる紋章がありません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_SELECT_TARGET" offset="00" relocatable="true" max_length="0">
+			<original>欲しい晶石を選択してください</original>
+			<edited>欲しい晶石を選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_SELECT_SOURCE" offset="00" relocatable="true" max_length="0">
+			<original>消費する晶石を選択してください</original>
+			<edited>消費する晶石を選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_SELECT_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>交換する個数を選択してください</original>
+			<edited>交換する個数を選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_SOURCE" offset="00" relocatable="true" max_length="0">
+			<original>消費する晶石</original>
+			<edited>消費する晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_GET" offset="00" relocatable="true" max_length="0">
+			<original>入手する晶石</original>
+			<edited>入手する晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_POSSIBLE" offset="00" relocatable="true" max_length="0">
+			<original>交換可能</original>
+			<edited>交換可能</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_ADJUSTMENT" offset="00" relocatable="true" max_length="0">
+			<original>個数増減</original>
+			<edited>個数増減</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_IMPOSSIBLE" offset="00" relocatable="true" max_length="0">
+			<original>交換不可：所持数が最大です</original>
+			<edited>交換不可：所持数が最大です</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_Lack" offset="00" relocatable="true" max_length="0">
+			<original>交換不可：晶石が不足しています</original>
+			<edited>交換不可：晶石が不足しています</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_01" offset="00" relocatable="true" max_length="0">
+			<original>こちらの内容で交換しますか？</original>
+			<edited>こちらの内容で交換しますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_02" offset="00" relocatable="true" max_length="0">
+			<original>最大所持数を超えた分
+（&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;個）は入手できません</original>
+			<edited>最大所持数を超えた分
+（&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;個）は入手できません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_REFINE_SHOP_EXCHANGE_YES" offset="00" relocatable="true" max_length="0">
+			<original>交換する</original>
+			<edited>交換する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FLEA_MARKET" offset="00" relocatable="true" max_length="0">
+			<original>蚤の市</original>
+			<edited>蚤の市</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FLEA_MARKET_NOUNIT" offset="00" relocatable="true" max_length="0">
+			<original>店番はいないが、買い物はできるようだ</original>
+			<edited>店番はいないが、買い物はできるようだ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FORTUNE_TELLING_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>占い小屋</original>
+			<edited>占い小屋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FORTUNE_TELLING_HELP" offset="00" relocatable="true" max_length="0">
+			<original>占うユニットを選択してください</original>
+			<edited>占うユニットを選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FORTUNE_TELLING_RESULT0" offset="00" relocatable="true" max_length="0">
+			<original>気にしていること</original>
+			<edited>気にしていること</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_FORTUNE_TELLING_RESULT1" offset="00" relocatable="true" max_length="0">
+			<original>気にしている人</original>
+			<edited>気にしている人</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_PROFILE_CARD" offset="00" relocatable="true" max_length="0">
+			<original>神竜戦歴カード</original>
+			<edited>神竜戦歴カード</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_PROFILE_CARD_HELP" offset="00" relocatable="true" max_length="0">
+			<original>通信で交換できるカードを確認する</original>
+			<edited>通信で交換できるカードを確認する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RINGLIST_SKILLLIST_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>絆レベルアップで得られる能力</original>
+			<edited>絆レベルアップで得られる能力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RINGLIST_BONDSRING_NAME" offset="00" relocatable="true" max_length="0">
+			<original>絆の指輪</original>
+			<edited>絆の指輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RINGLIST_BONDSRING_NAME_MULTIPLE" offset="00" relocatable="true" max_length="0">
+			<original>絆の指輪</original>
+			<edited>絆の指輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RINGLIST_BONDSRINGLIST_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>絆の指輪が持つ能力</original>
+			<edited>絆の指輪が持つ能力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_START" offset="00" relocatable="true" max_length="0">
+			<original>最初から</original>
+			<edited>最初から</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_CONTINUE" offset="00" relocatable="true" max_length="0">
+			<original>続きから</original>
+			<edited>続きから</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_OPTION" offset="00" relocatable="true" max_length="0">
+			<original>オプション</original>
+			<edited>オプション</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_SAVEDATA_COPY" offset="00" relocatable="true" max_length="0">
+			<original>データコピー</original>
+			<edited>データコピー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_SAVEDATA_DELETE" offset="00" relocatable="true" max_length="0">
+			<original>データ消去</original>
+			<edited>データ消去</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_LANGUAGE_SETTING" offset="00" relocatable="true" max_length="0">
+			<original>言語切り替え</original>
+			<edited>言語切り替え</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_LANGUAGE_SETTING_HELP" offset="00" relocatable="true" max_length="0">
+			<original>ゲーム中に表示される言語を切り替えます</original>
+			<edited>ゲーム中に表示される言語を切り替えます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_LANGUAGE_MESS" offset="00" relocatable="true" max_length="0">
+			<original>メッセージ</original>
+			<edited>メッセージ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_LANGUAGE_VOICE" offset="00" relocatable="true" max_length="0">
+			<original>音声</original>
+			<edited>音声</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_LANGUAGE_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>言語を切り替えますか？</original>
+			<edited>言語を切り替えますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_LANGUAGE_CONFIRM_YES" offset="00" relocatable="true" max_length="0">
+			<original>切り替える</original>
+			<edited>切り替える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_PRIVILEFE_LABEL" offset="00" relocatable="true" max_length="0">
+			<original>© Nintendo / INTELLIGENT SYSTEMS</original>
+			<edited>© Nintendo / INTELLIGENT SYSTEMS</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAINMENU_GAME_VERSION" offset="00" relocatable="true" max_length="0">
+			<original>Ver. &#xE;&#x1;&#x0;&#x0;</original>
+			<edited>Ver. &#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PRESS_ANY_BUTTON" offset="00" relocatable="true" max_length="0">
+			<original>PRESS ANY BUTTON</original>
+			<edited>PRESS ANY BUTTON</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_MODE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>モード</original>
+			<edited>モード</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_NAME_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>名前</original>
+			<edited>名前</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_BIRTHDAY_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>誕生日</original>
+			<edited>誕生日</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_DIFFICULTY_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>難易度</original>
+			<edited>難易度</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_GROWMODE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>成長方式</original>
+			<edited>成長方式</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_NETWORK_SERVICE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>ネットワーク</original>
+			<edited>ネットワーク</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_DIFFICULTY_SELECT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>難易度選択</original>
+			<edited>難易度選択</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_DIFFICULTY_SELECT_HELP" offset="00" relocatable="true" max_length="0">
+			<original>難易度を選択してください</original>
+			<edited>難易度を選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_MODE_SELECT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>モード選択</original>
+			<edited>モード選択</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_MODE_SELECT_HELP" offset="00" relocatable="true" max_length="0">
+			<original>モードを選択してください</original>
+			<edited>モードを選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_GROWMODE_SELECT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>成長方式選択</original>
+			<edited>成長方式選択</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_GROWMODE_SELECT_HELP" offset="00" relocatable="true" max_length="0">
+			<original>ユニットの成長方式を選択してください</original>
+			<edited>ユニットの成長方式を選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_GROEMODE_LOCKED_BY_LUNATIC" offset="00" relocatable="true" max_length="0">
+			<original>難易度ルナティックで成長方法「ランダム」を選ぶには
+ルナティックでのゲームクリアが必要です</original>
+			<edited>難易度ルナティックで成長方法「ランダム」を選ぶには
+ルナティックでのゲームクリアが必要です</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_NETWORK_SERVICE_ON" offset="00" relocatable="true" max_length="0">
+			<original>接続する</original>
+			<edited>接続する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_NETWORK_SERVICE_OFF" offset="00" relocatable="true" max_length="0">
+			<original>接続しない</original>
+			<edited>接続しない</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_GENDER_SELECT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>姿選択</original>
+			<edited>姿選択</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_GENDER_SELECT_HELP" offset="00" relocatable="true" max_length="0">
+			<original>あなたの分身の姿を教えてください</original>
+			<edited>あなたの分身の姿を教えてください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_NAME_INPUT" offset="00" relocatable="true" max_length="0">
+			<original>名前を入力してください</original>
+			<edited>名前を入力してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_NAME_CHECK" offset="00" relocatable="true" max_length="0">
+			<original>この名前でよろしいですか？
+（表示できない文字がある場合は &#xE;&#x1;&#x0;&#x0; になります）</original>
+			<edited>この名前でよろしいですか？
+（表示できない文字がある場合は &#xE;&#x1;&#x0;&#x0; になります）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_NAME_CHECK_YES" offset="00" relocatable="true" max_length="0">
+			<original>はい</original>
+			<edited>はい</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_NAME_CHECK_NO" offset="00" relocatable="true" max_length="0">
+			<original>入力しなおす</original>
+			<edited>入力しなおす</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_BIRTHDAY_INPUT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>誕生日入力</original>
+			<edited>誕生日入力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_BIRTHDAY_INPUT_HELP" offset="00" relocatable="true" max_length="0">
+			<original>誕生日を教えてください</original>
+			<edited>誕生日を教えてください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_BIRTHDAY_INPUT_MONTH" offset="00" relocatable="true" max_length="0">
+			<original>の月</original>
+			<edited>の月</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_BIRTHDAY_INPUT_DAY" offset="00" relocatable="true" max_length="0">
+			<original>の日</original>
+			<edited>の日</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_PLAYER_BIRTHDAY_INPUT_MONTH_DAY" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;の月　&#xE;&#x1;&#x1;&#x0;の日</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;の月　&#xE;&#x1;&#x1;&#x0;の日</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_NETWORK_SERVICE_SELECT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>ネットワーク利用設定</original>
+			<edited>ネットワーク利用設定</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_NETWORK_SERVICE_SELECT_HELP" offset="00" relocatable="true" max_length="0">
+			<original>ネットワークに接続してプレイしますか？</original>
+			<edited>ネットワークに接続してプレイしますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_CONFIRM_FINAL" offset="00" relocatable="true" max_length="0">
+			<original>ゲームを開始しますか？</original>
+			<edited>ゲームを開始しますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_GAMESTART_CONFIRM_FINAL_OK" offset="00" relocatable="true" max_length="0">
+			<original>開始する</original>
+			<edited>開始する</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

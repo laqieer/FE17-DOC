@@ -1,0 +1,2818 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_CARD_KEYHELP_TURN_OVER" offset="00" relocatable="true" max_length="0">
+			<original>表裏反転</original>
+			<edited>表裏反転</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CARD_KEYHELP_EDIT" offset="00" relocatable="true" max_length="0">
+			<original>編集</original>
+			<edited>編集</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CARD_KEYHELP_CARD_LIST" offset="00" relocatable="true" max_length="0">
+			<original>カードリスト</original>
+			<edited>カードリスト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CARD_KEYHELP_STAMP_LIST" offset="00" relocatable="true" max_length="0">
+			<original>スタンプリスト</original>
+			<edited>スタンプリスト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CARD_KEYHELP_STAMP_SWITCHING" offset="00" relocatable="true" max_length="0">
+			<original>編集モード切替</original>
+			<edited>編集モード切替</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CARD_KEYHELP_DELETE" offset="00" relocatable="true" max_length="0">
+			<original>削除</original>
+			<edited>削除</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CARD_KEYHELP_END" offset="00" relocatable="true" max_length="0">
+			<original>終了</original>
+			<edited>終了</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard" offset="00" relocatable="true" max_length="0">
+			<original>神竜戦歴カード</original>
+			<edited>神竜戦歴カード</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_MyCard" offset="00" relocatable="true" max_length="0">
+			<original>マイカード</original>
+			<edited>マイカード</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_MyCard_Description" offset="00" relocatable="true" max_length="0">
+			<original>カードに書かれているテキストの編集や
+デザイン変更・デコレーションを
+行うことができます</original>
+			<edited>カードに書かれているテキストの編集や
+デザイン変更・デコレーションを
+行うことができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Notes_Terms" offset="00" relocatable="true" max_length="0">
+			<original>The Community Guidelines apply to shared
+content and can be found on Nintendo's website.
+Please be considerate to your fellow players.</original>
+			<edited>The Community Guidelines apply to shared
+content and can be found on Nintendo's website.
+Please be considerate to your fellow players.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Album" offset="00" relocatable="true" max_length="0">
+			<original>異界の戦歴カード</original>
+			<edited>異界の戦歴カード</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Album_Help" offset="00" relocatable="true" max_length="0">
+			<original>受け取ったカードの確認と削除</original>
+			<edited>受け取ったカードの確認と削除</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Album_Description" offset="00" relocatable="true" max_length="0">
+			<original>「試練の離れ」で受け取った
+フレンドの戦歴カードを確認したり
+リストを整理したりすることができます</original>
+			<edited>「試練の離れ」で受け取った
+フレンドの戦歴カードを確認したり
+リストを整理したりすることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Photo" offset="00" relocatable="true" max_length="0">
+			<original>風景印画</original>
+			<edited>風景印画</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Photo_Description" offset="00" relocatable="true" max_length="0">
+			<original>ソラネル内で好きな仲間や場所を選んで
+戦歴カード用の画像を
+印画（撮影）することができます</original>
+			<edited>ソラネル内で好きな仲間や場所を選んで
+戦歴カード用の画像を
+印画（撮影）することができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Photo_Warning" offset="00" relocatable="true" max_length="0">
+			<original>風景印画はソラネルの屋外でのみ行うことができます</original>
+			<edited>風景印画はソラネルの屋外でのみ行うことができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Setting" offset="00" relocatable="true" max_length="0">
+			<original>公開設定</original>
+			<edited>公開設定</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Setting_Description" offset="00" relocatable="true" max_length="0">
+			<original>マイカードの公開設定を変更できます</original>
+			<edited>マイカードの公開設定を変更できます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Setting_Warning_Public" offset="00" relocatable="true" max_length="0">
+			<original>現在の公開設定：公開</original>
+			<edited>現在の公開設定：公開</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Setting_Warning_Private" offset="00" relocatable="true" max_length="0">
+			<original>現在の公開設定：非公開</original>
+			<edited>現在の公開設定：非公開</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Setting_Confirm" offset="00" relocatable="true" max_length="0">
+			<original>マイカードの公開設定を選択してください
+（設定はいつでも変更できます
+交換済みのカードに影響はありません）</original>
+			<edited>マイカードの公開設定を選択してください
+（設定はいつでも変更できます
+交換済みのカードに影響はありません）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Setting_Public" offset="00" relocatable="true" max_length="0">
+			<original>公開にする</original>
+			<edited>公開にする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Setting_Private" offset="00" relocatable="true" max_length="0">
+			<original>非公開にする</original>
+			<edited>非公開にする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_ShowStamp" offset="00" relocatable="true" max_length="0">
+			<original>スタンプ表示設定</original>
+			<edited>スタンプ表示設定</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_ShowStamp_Description" offset="00" relocatable="true" max_length="0">
+			<original>受け取った異界の戦歴カードの
+スタンプの表示設定を変更できます</original>
+			<edited>受け取った異界の戦歴カードの
+スタンプの表示設定を変更できます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_ShowStamp_Warning_Show" offset="00" relocatable="true" max_length="0">
+			<original>現在の表示設定：表示</original>
+			<edited>現在の表示設定：表示</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_ShowStamp_Warning_Hide" offset="00" relocatable="true" max_length="0">
+			<original>現在の表示設定：非表示</original>
+			<edited>現在の表示設定：非表示</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_ShowStamp_Confirm" offset="00" relocatable="true" max_length="0">
+			<original>スタンプの表示設定を選択してください
+（設定はいつでも変更できます）</original>
+			<edited>スタンプの表示設定を選択してください
+（設定はいつでも変更できます）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_ShowStamp_Show" offset="00" relocatable="true" max_length="0">
+			<original>表示にする</original>
+			<edited>表示にする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_ShowStamp_Hide" offset="00" relocatable="true" max_length="0">
+			<original>非表示にする</original>
+			<edited>非表示にする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Settings_Cannot_Change" offset="00" relocatable="true" max_length="0">
+			<original>みまもり設定で制限されているため
+設定を変更することができません</original>
+			<edited>みまもり設定で制限されているため
+設定を変更することができません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_PlayerInfo" offset="00" relocatable="true" max_length="0">
+			<original>プレイヤー情報</original>
+			<edited>プレイヤー情報</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_TolalPlayTime" offset="00" relocatable="true" max_length="0">
+			<original>総プレイ時間</original>
+			<edited>総プレイ時間</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_Birthday" offset="00" relocatable="true" max_length="0">
+			<original>誕生日</original>
+			<edited>誕生日</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_Difficulty" offset="00" relocatable="true" max_length="0">
+			<original>難易度</original>
+			<edited>難易度</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_GameMode" offset="00" relocatable="true" max_length="0">
+			<original>モード</original>
+			<edited>モード</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_FaivoriteCharacter" offset="00" relocatable="true" max_length="0">
+			<original>お気に入りのキャラクター</original>
+			<edited>お気に入りのキャラクター</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_Relay" offset="00" relocatable="true" max_length="0">
+			<original>繋戦の試練</original>
+			<edited>繋戦の試練</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_FavoriteMap" offset="00" relocatable="true" max_length="0">
+			<original>お気に入りのマップ</original>
+			<edited>お気に入りのマップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_PlayingCount" offset="00" relocatable="true" max_length="0">
+			<original>プレイ回数</original>
+			<edited>プレイ回数</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_Versus" offset="00" relocatable="true" max_length="0">
+			<original>異界の試練</original>
+			<edited>異界の試練</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_ThemeOfEditMap" offset="00" relocatable="true" max_length="0">
+			<original>エディットマップのテーマ</original>
+			<edited>エディットマップのテーマ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_VersusRate" offset="00" relocatable="true" max_length="0">
+			<original>本格対戦のレート</original>
+			<edited>本格対戦のレート</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_SortieCount" offset="00" relocatable="true" max_length="0">
+			<original>ユニット出撃回数</original>
+			<edited>ユニット出撃回数</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_AchievementCount" offset="00" relocatable="true" max_length="0">
+			<original>実績達成数</original>
+			<edited>実績達成数</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_MyCard_Help" offset="00" relocatable="true" max_length="0">
+			<original>カード内容の確認と編集</original>
+			<edited>カード内容の確認と編集</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit" offset="00" relocatable="true" max_length="0">
+			<original>カード編集</original>
+			<edited>カード編集</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Help" offset="00" relocatable="true" max_length="0">
+			<original>編集する項目を選択してください</original>
+			<edited>編集する項目を選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Title" offset="00" relocatable="true" max_length="0">
+			<original>称号</original>
+			<edited>称号</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Title_Help" offset="00" relocatable="true" max_length="0">
+			<original>称号を選択してください</original>
+			<edited>称号を選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Title_Caption" offset="00" relocatable="true" max_length="0">
+			<original>称号一覧</original>
+			<edited>称号一覧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Comment" offset="00" relocatable="true" max_length="0">
+			<original>一言コメント</original>
+			<edited>一言コメント</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Comment_Help" offset="00" relocatable="true" max_length="0">
+			<original>単語を3つ選択してください</original>
+			<edited>単語を3つ選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Comment_Caption" offset="00" relocatable="true" max_length="0">
+			<original>一言コメント作成</original>
+			<edited>一言コメント作成</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_FavoriteCharacter" offset="00" relocatable="true" max_length="0">
+			<original>お気に入りのキャラクター</original>
+			<edited>お気に入りのキャラクター</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_FavoriteCharacter_Help" offset="00" relocatable="true" max_length="0">
+			<original>キャラクターを選択してください</original>
+			<edited>キャラクターを選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_FavoriteCharacter_Caption" offset="00" relocatable="true" max_length="0">
+			<original>キャラクター一覧</original>
+			<edited>キャラクター一覧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_FavoriteRelayMap" offset="00" relocatable="true" max_length="0">
+			<original>お気に入りのマップ</original>
+			<edited>お気に入りのマップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_FavoriteRelayMap_Help" offset="00" relocatable="true" max_length="0">
+			<original>マップを選択してください</original>
+			<edited>マップを選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_FavoriteRelayMap_Caption" offset="00" relocatable="true" max_length="0">
+			<original>マップ一覧</original>
+			<edited>マップ一覧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Bg" offset="00" relocatable="true" max_length="0">
+			<original>カード背景</original>
+			<edited>カード背景</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Bg_Help" offset="00" relocatable="true" max_length="0">
+			<original>デザインを選択してください</original>
+			<edited>デザインを選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Bg_Caption" offset="00" relocatable="true" max_length="0">
+			<original>カード背景一覧</original>
+			<edited>カード背景一覧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Frame" offset="00" relocatable="true" max_length="0">
+			<original>カード飾り枠</original>
+			<edited>カード飾り枠</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Frame_Help" offset="00" relocatable="true" max_length="0">
+			<original>デザインを選択してください</original>
+			<edited>デザインを選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Frame_Caption" offset="00" relocatable="true" max_length="0">
+			<original>カード飾り枠一覧</original>
+			<edited>カード飾り枠一覧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_TextDeco" offset="00" relocatable="true" max_length="0">
+			<original>文字飾り</original>
+			<edited>文字飾り</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_TextDeco_Help" offset="00" relocatable="true" max_length="0">
+			<original>デザインを選択してください</original>
+			<edited>デザインを選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_TextDeco_Caption" offset="00" relocatable="true" max_length="0">
+			<original>文字飾り一覧</original>
+			<edited>文字飾り一覧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_TextColor" offset="00" relocatable="true" max_length="0">
+			<original>文字色</original>
+			<edited>文字色</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_TextColor_Help" offset="00" relocatable="true" max_length="0">
+			<original>文字の色を選択してください</original>
+			<edited>文字の色を選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_TextColor_Caption" offset="00" relocatable="true" max_length="0">
+			<original>文字色一覧</original>
+			<edited>文字色一覧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_CharecterStamp" offset="00" relocatable="true" max_length="0">
+			<original>フェイスパネル</original>
+			<edited>フェイスパネル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_CharecterStamp_Help" offset="00" relocatable="true" max_length="0">
+			<original>パネルを選択してください</original>
+			<edited>パネルを選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_CharecterStamp_Caption" offset="00" relocatable="true" max_length="0">
+			<original>フェイスパネル一覧</original>
+			<edited>フェイスパネル一覧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Stamp" offset="00" relocatable="true" max_length="0">
+			<original>スタンプ</original>
+			<edited>スタンプ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Stamp_Help" offset="00" relocatable="true" max_length="0">
+			<original>カードのデコレーション</original>
+			<edited>カードのデコレーション</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Stamp_Count" offset="00" relocatable="true" max_length="0">
+			<original>スタンプの数</original>
+			<edited>スタンプの数</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Stamp_ConfirmToClear" offset="00" relocatable="true" max_length="0">
+			<original>押したスタンプを全て消去しますか？
+（この操作は元に戻すことができません）</original>
+			<edited>押したスタンプを全て消去しますか？
+（この操作は元に戻すことができません）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Stamp_ConfirmToClear_Yes" offset="00" relocatable="true" max_length="0">
+			<original>全て消去する</original>
+			<edited>全て消去する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Stamp_ConfirmToClose" offset="00" relocatable="true" max_length="0">
+			<original>スタンプの編集を終了しますか？</original>
+			<edited>スタンプの編集を終了しますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Stamp_SaveAndClose" offset="00" relocatable="true" max_length="0">
+			<original>保存して終了する</original>
+			<edited>保存して終了する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Stamp_NoSaveAndClose" offset="00" relocatable="true" max_length="0">
+			<original>保存しないで終了する</original>
+			<edited>保存しないで終了する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Stamp_ContinueToEdit" offset="00" relocatable="true" max_length="0">
+			<original>編集を続ける</original>
+			<edited>編集を続ける</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Album_ConfirmToDelete" offset="00" relocatable="true" max_length="0">
+			<original>「&#xE;&#x1;&#x0;&#x0;」の戦歴カードを削除しますか？</original>
+			<edited>「&#xE;&#x1;&#x0;&#x0;」の戦歴カードを削除しますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Album_Delete" offset="00" relocatable="true" max_length="0">
+			<original>削除する</original>
+			<edited>削除する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Possession" offset="00" relocatable="true" max_length="0">
+			<original>所持数</original>
+			<edited>所持数</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Language_Attention" offset="00" relocatable="true" max_length="0">
+			<original>言語切り替えが行われたので
+「一言コメント」をリセットしました</original>
+			<edited>言語切り替えが行われたので
+「一言コメント」をリセットしました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Net_Save_Confirm_Match" offset="00" relocatable="true" max_length="0">
+			<original>対戦相手の戦歴カードを保存しますか？</original>
+			<edited>対戦相手の戦歴カードを保存しますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Net_Save_Confirm_Relay" offset="00" relocatable="true" max_length="0">
+			<original>一緒に戦ったプレイヤーの戦歴カードを保存しますか？</original>
+			<edited>一緒に戦ったプレイヤーの戦歴カードを保存しますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Net_Save_Done" offset="00" relocatable="true" max_length="0">
+			<original>戦歴カードを保存しました</original>
+			<edited>戦歴カードを保存しました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Net_Overlimit_Title" offset="00" relocatable="true" max_length="0">
+			<original>戦歴カード削除</original>
+			<edited>戦歴カード削除</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Net_Overlimit_Title_Help" offset="00" relocatable="true" max_length="0">
+			<original>削除する戦歴カードを選んでください</original>
+			<edited>削除する戦歴カードを選んでください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Net_Overlimit_Incomplete" offset="00" relocatable="true" max_length="0">
+			<original>所持できる戦歴カードの枚数を超えています
+上限枚数に収まるようにカードを削除してください</original>
+			<edited>所持できる戦歴カードの枚数を超えています
+上限枚数に収まるようにカードを削除してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Comment_CharacterFeeling" offset="00" relocatable="true" max_length="0">
+			<original>性格/感情</original>
+			<edited>性格/感情</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Comment_FeaturePosition" offset="00" relocatable="true" max_length="0">
+			<original>特徴/役職</original>
+			<edited>特徴/役職</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Comment_AdpositionConjection" offset="00" relocatable="true" max_length="0">
+			<original>助詞/接続詞/敬称/記号</original>
+			<edited>助詞/接続詞/敬称/記号</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Comment_Tearms" offset="00" relocatable="true" max_length="0">
+			<original>専門用語/擬音</original>
+			<edited>専門用語/擬音</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Comment_ClassStyle" offset="00" relocatable="true" max_length="0">
+			<original>兵種/戦闘スタイル</original>
+			<edited>兵種/戦闘スタイル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Comment_PersonName" offset="00" relocatable="true" max_length="0">
+			<original>キャラクター名</original>
+			<edited>キャラクター名</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STAMP_KEYHELP_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>スタンプ操作</original>
+			<edited>スタンプ操作</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STAMP_KEYHELP_PUT_A_STAMP" offset="00" relocatable="true" max_length="0">
+			<original>押す</original>
+			<edited>押す</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STAMP_KEYHELP_LR_REVERSE" offset="00" relocatable="true" max_length="0">
+			<original>左右反転</original>
+			<edited>左右反転</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STAMP_KEYHELP_ROTATE_SCALE" offset="00" relocatable="true" max_length="0">
+			<original>回転拡縮</original>
+			<edited>回転拡縮</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STAMP_KEYHELP_ROTATE_SCALE_RESET" offset="00" relocatable="true" max_length="0">
+			<original>回転拡縮リセット</original>
+			<edited>回転拡縮リセット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STAMP_KEYHELP_HIGH_SPEED" offset="00" relocatable="true" max_length="0">
+			<original>高速移動</original>
+			<edited>高速移動</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STAMP_KEYHELP_ERASE_ALL" offset="00" relocatable="true" max_length="0">
+			<original>全消去</original>
+			<edited>全消去</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STAMP_KEYHELP_TWEAK" offset="00" relocatable="true" max_length="0">
+			<original>調整移動</original>
+			<edited>調整移動</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Stamp_Unit" offset="00" relocatable="true" max_length="0">
+			<original>ユニット</original>
+			<edited>ユニット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Stamp_GodUnit" offset="00" relocatable="true" max_length="0">
+			<original>紋章士</original>
+			<edited>紋章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Stamp_Weapon" offset="00" relocatable="true" max_length="0">
+			<original>武器</original>
+			<edited>武器</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Stamp_GodWeapon" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ武器</original>
+			<edited>エンゲージ武器</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Stamp_RodAndItem" offset="00" relocatable="true" max_length="0">
+			<original>杖・アイテム</original>
+			<edited>杖・アイテム</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Stamp_System" offset="00" relocatable="true" max_length="0">
+			<original>システム</original>
+			<edited>システム</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Stamp_Others" offset="00" relocatable="true" max_length="0">
+			<original>その他</original>
+			<edited>その他</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_FireEmblem" offset="00" relocatable="true" max_length="0">
+			<original>ファイアーエムブレム</original>
+			<edited>ファイアーエムブレム</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ShadowDragon" offset="00" relocatable="true" max_length="0">
+			<original>暗黒竜と光の剣</original>
+			<edited>暗黒竜と光の剣</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_NewShadowDragon" offset="00" relocatable="true" max_length="0">
+			<original>新・暗黒竜と光の剣</original>
+			<edited>新・暗黒竜と光の剣</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_MysteryOfTheEmblem" offset="00" relocatable="true" max_length="0">
+			<original>紋章の謎</original>
+			<edited>紋章の謎</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_NewMysteryOfTheEmblem" offset="00" relocatable="true" max_length="0">
+			<original>新・紋章の謎</original>
+			<edited>新・紋章の謎</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_SideStory" offset="00" relocatable="true" max_length="0">
+			<original>外伝</original>
+			<edited>外伝</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_GenealogyOfTheHolyWar" offset="00" relocatable="true" max_length="0">
+			<original>聖戦の系譜</original>
+			<edited>聖戦の系譜</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Thracia776" offset="00" relocatable="true" max_length="0">
+			<original>トラキア776</original>
+			<edited>トラキア776</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_TheBindingBlade" offset="00" relocatable="true" max_length="0">
+			<original>封印の剣</original>
+			<edited>封印の剣</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_TheBlazingBlade" offset="00" relocatable="true" max_length="0">
+			<original>烈火の剣</original>
+			<edited>烈火の剣</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_TheSacredStones" offset="00" relocatable="true" max_length="0">
+			<original>聖魔の光石</original>
+			<edited>聖魔の光石</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_PathOfRadiance" offset="00" relocatable="true" max_length="0">
+			<original>蒼炎の軌跡</original>
+			<edited>蒼炎の軌跡</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RadiantDawn" offset="00" relocatable="true" max_length="0">
+			<original>暁の女神</original>
+			<edited>暁の女神</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Awakening" offset="00" relocatable="true" max_length="0">
+			<original>覚醒</original>
+			<edited>覚醒</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Fates" offset="00" relocatable="true" max_length="0">
+			<original>if</original>
+			<edited>if</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Birthright" offset="00" relocatable="true" max_length="0">
+			<original>白夜王国</original>
+			<edited>白夜王国</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Conquest" offset="00" relocatable="true" max_length="0">
+			<original>暗夜王国</original>
+			<edited>暗夜王国</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Echoes" offset="00" relocatable="true" max_length="0">
+			<original>Echoes</original>
+			<edited>Echoes</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ThreeHouses" offset="00" relocatable="true" max_length="0">
+			<original>風花雪月</original>
+			<edited>風花雪月</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Heroes" offset="00" relocatable="true" max_length="0">
+			<original>ヒーローズ</original>
+			<edited>ヒーローズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Marth" offset="00" relocatable="true" max_length="0">
+			<original>アリティアのために！</original>
+			<edited>アリティアのために！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Celica" offset="00" relocatable="true" max_length="0">
+			<original>ミラさまのご加護を</original>
+			<edited>ミラさまのご加護を</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Siglud" offset="00" relocatable="true" max_length="0">
+			<original>剣をおさめよ！</original>
+			<edited>剣をおさめよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Leaf" offset="00" relocatable="true" max_length="0">
+			<original>どんなことでも！</original>
+			<edited>どんなことでも！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Roy" offset="00" relocatable="true" max_length="0">
+			<original>僕は負けない！</original>
+			<edited>僕は負けない！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Lin" offset="00" relocatable="true" max_length="0">
+			<original>私の心は今も草原にある…</original>
+			<edited>私の心は今も草原にある…</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Eirik" offset="00" relocatable="true" max_length="0">
+			<original>兄上！</original>
+			<edited>兄上！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Ike" offset="00" relocatable="true" max_length="0">
+			<original>なぜ俺の前に立った！</original>
+			<edited>なぜ俺の前に立った！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Micaiah" offset="00" relocatable="true" max_length="0">
+			<original>退けない理由がある！</original>
+			<edited>退けない理由がある！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Lucina" offset="00" relocatable="true" max_length="0">
+			<original>運命を変えます！</original>
+			<edited>運命を変えます！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Kamui" offset="00" relocatable="true" max_length="0">
+			<original>私は選びました！</original>
+			<edited>私は選びました！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Byleth" offset="00" relocatable="true" max_length="0">
+			<original>その身で学べ！</original>
+			<edited>その身で学べ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Lueur" offset="00" relocatable="true" max_length="0">
+			<original>神竜と共に！</original>
+			<edited>神竜と共に！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RelianceC_WithAllUnit" offset="00" relocatable="true" max_length="0">
+			<original>支援C</original>
+			<edited>支援C</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RelianceB_WithAllUnit" offset="00" relocatable="true" max_length="0">
+			<original>支援B</original>
+			<edited>支援B</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RelianceA_WithAllUnit" offset="00" relocatable="true" max_length="0">
+			<original>支援A</original>
+			<edited>支援A</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RelianceRing" offset="00" relocatable="true" max_length="0">
+			<original>支援Ring</original>
+			<edited>支援Ring</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_SortieWithAllUnitCount5" offset="00" relocatable="true" max_length="0">
+			<original>総出撃</original>
+			<edited>総出撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_EncountBattleCount45" offset="00" relocatable="true" max_length="0">
+			<original>掃除屋</original>
+			<edited>掃除屋</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BattleCount5000" offset="00" relocatable="true" max_length="0">
+			<original>戦闘狂</original>
+			<edited>戦闘狂</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_DefeatSoldierCount500" offset="00" relocatable="true" max_length="0">
+			<original>一般兵</original>
+			<edited>一般兵</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_DefeatMorphCount500" offset="00" relocatable="true" max_length="0">
+			<original>異形兵</original>
+			<edited>異形兵</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_DefeatBanditsCount500" offset="00" relocatable="true" max_length="0">
+			<original>蛮族</original>
+			<edited>蛮族</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CaneCount500" offset="00" relocatable="true" max_length="0">
+			<original>杖使い</original>
+			<edited>杖使い</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CriticalCount300" offset="00" relocatable="true" max_length="0">
+			<original>仕事人</original>
+			<edited>仕事人</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_EngageCount300" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ！</original>
+			<edited>エンゲージ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_EngageAttackCount300" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージアタック！</original>
+			<edited>エンゲージアタック！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_AvoidanceCount500" offset="00" relocatable="true" max_length="0">
+			<original>避けます！</original>
+			<edited>避けます！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ChainGuardCount300" offset="00" relocatable="true" max_length="0">
+			<original>守ります！</original>
+			<edited>守ります！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ChainAttackCount300" offset="00" relocatable="true" max_length="0">
+			<original>手伝います！</original>
+			<edited>手伝います！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ChainUnitCount10" offset="00" relocatable="true" max_length="0">
+			<original>一斉攻撃！</original>
+			<edited>一斉攻撃！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BreakCount300" offset="00" relocatable="true" max_length="0">
+			<original>ブレイク！</original>
+			<edited>ブレイク！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_SmashCount50" offset="00" relocatable="true" max_length="0">
+			<original>スマッシュ！</original>
+			<edited>スマッシュ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_MiniGamePlayCount100" offset="00" relocatable="true" max_length="0">
+			<original>ちょっと休憩</original>
+			<edited>ちょっと休憩</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CreateRingCount5000" offset="00" relocatable="true" max_length="0">
+			<original>指輪コレクター</original>
+			<edited>指輪コレクター</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_SynthesizeRingCount500" offset="00" relocatable="true" max_length="0">
+			<original>合成魔人</original>
+			<edited>合成魔人</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_GetBondRingC_Count1000" offset="00" relocatable="true" max_length="0">
+			<original>Cランク</original>
+			<edited>Cランク</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_GetBondRingB_Count100" offset="00" relocatable="true" max_length="0">
+			<original>Bランク</original>
+			<edited>Bランク</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_GetBondRingA_Count50" offset="00" relocatable="true" max_length="0">
+			<original>Aランク</original>
+			<edited>Aランク</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_GetBondRingS_Count10" offset="00" relocatable="true" max_length="0">
+			<original>Sランク</original>
+			<edited>Sランク</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CleaningRingCount100" offset="00" relocatable="true" max_length="0">
+			<original>綺麗好き</original>
+			<edited>綺麗好き</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_InvestmentFileneStage5" offset="00" relocatable="true" max_length="0">
+			<original>フィレネ親善大使</original>
+			<edited>フィレネ親善大使</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_InvestmentBrodiaStage5" offset="00" relocatable="true" max_length="0">
+			<original>ブロディア親善大使</original>
+			<edited>ブロディア親善大使</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_InvestmentIrcionStage5" offset="00" relocatable="true" max_length="0">
+			<original>イルシオン親善大使</original>
+			<edited>イルシオン親善大使</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_InvestmentSolumStage5" offset="00" relocatable="true" max_length="0">
+			<original>ソルム親善大使</original>
+			<edited>ソルム親善大使</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_InvestmentStage5All" offset="00" relocatable="true" max_length="0">
+			<original>エレオス親善大使</original>
+			<edited>エレオス親善大使</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_InvestmentTotalValue1000000" offset="00" relocatable="true" max_length="0">
+			<original>お金持ち</original>
+			<edited>お金持ち</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CookingCount100" offset="00" relocatable="true" max_length="0">
+			<original>料理人</original>
+			<edited>料理人</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CookingG_Count5" offset="00" relocatable="true" max_length="0">
+			<original>失敗料理人</original>
+			<edited>失敗料理人</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CookingF_Count5" offset="00" relocatable="true" max_length="0">
+			<original>科学料理人</original>
+			<edited>科学料理人</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CookingE_Count5" offset="00" relocatable="true" max_length="0">
+			<original>珍味料理人</original>
+			<edited>珍味料理人</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CookingD_Count5" offset="00" relocatable="true" max_length="0">
+			<original>見習い料理人</original>
+			<edited>見習い料理人</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CookingC_Count20" offset="00" relocatable="true" max_length="0">
+			<original>まかない料理人</original>
+			<edited>まかない料理人</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CookingB_Count20" offset="00" relocatable="true" max_length="0">
+			<original>平凡な料理人</original>
+			<edited>平凡な料理人</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CookingA_Count20" offset="00" relocatable="true" max_length="0">
+			<original>人気の料理人</original>
+			<edited>人気の料理人</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CookingS_Count5" offset="00" relocatable="true" max_length="0">
+			<original>最高の料理人</original>
+			<edited>最高の料理人</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CookingSS_Count3" offset="00" relocatable="true" max_length="0">
+			<original>伝説の料理人</original>
+			<edited>伝説の料理人</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Sleep100" offset="00" relocatable="true" max_length="0">
+			<original>お布団大好き</original>
+			<edited>お布団大好き</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_WakeUpC_People30" offset="00" relocatable="true" max_length="0">
+			<original>ねぼすけ</original>
+			<edited>ねぼすけ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_WakeUpB_People30" offset="00" relocatable="true" max_length="0">
+			<original>起こされ上手</original>
+			<edited>起こされ上手</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_WakeUpA_People30" offset="00" relocatable="true" max_length="0">
+			<original>目覚まし必須</original>
+			<edited>目覚まし必須</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_WakeUpS" offset="00" relocatable="true" max_length="0">
+			<original>美しい目覚め</original>
+			<edited>美しい目覚め</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ArenaCount100" offset="00" relocatable="true" max_length="0">
+			<original>鍛錬好き</original>
+			<edited>鍛錬好き</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ArenaWinCount100" offset="00" relocatable="true" max_length="0">
+			<original>真剣勝負</original>
+			<edited>真剣勝負</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ArenaVsGodCount100" offset="00" relocatable="true" max_length="0">
+			<original>絆職人</original>
+			<edited>絆職人</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ArenaWinVsGodCount100" offset="00" relocatable="true" max_length="0">
+			<original>紋章士</original>
+			<edited>紋章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BuyWeaponCount100" offset="00" relocatable="true" max_length="0">
+			<original>準備万端</original>
+			<edited>準備万端</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BuySwordCount50" offset="00" relocatable="true" max_length="0">
+			<original>剣の達人</original>
+			<edited>剣の達人</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BuyLanceCount50" offset="00" relocatable="true" max_length="0">
+			<original>槍の達人</original>
+			<edited>槍の達人</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BuyAxeCount50" offset="00" relocatable="true" max_length="0">
+			<original>斧の達人</original>
+			<edited>斧の達人</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BuyBowCount50" offset="00" relocatable="true" max_length="0">
+			<original>弓の達人</original>
+			<edited>弓の達人</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BuyKnifeCount50" offset="00" relocatable="true" max_length="0">
+			<original>短剣の達人</original>
+			<edited>短剣の達人</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BuyMagicCount50" offset="00" relocatable="true" max_length="0">
+			<original>魔法の達人</original>
+			<edited>魔法の達人</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BuyFistCount50" offset="00" relocatable="true" max_length="0">
+			<original>体術の達人</original>
+			<edited>体術の達人</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_SellWeaponCount50" offset="00" relocatable="true" max_length="0">
+			<original>買い物上手</original>
+			<edited>買い物上手</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BuyItemCount500" offset="00" relocatable="true" max_length="0">
+			<original>心配性</original>
+			<edited>心配性</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_SellItemCount50" offset="00" relocatable="true" max_length="0">
+			<original>商売人</original>
+			<edited>商売人</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BuyRodCount50" offset="00" relocatable="true" max_length="0">
+			<original>杖の達人</original>
+			<edited>杖の達人</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BuyAccessoryCount25" offset="00" relocatable="true" max_length="0">
+			<original>お洒落好き</original>
+			<edited>お洒落好き</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ChangeAccessoryCount100" offset="00" relocatable="true" max_length="0">
+			<original>着せ替え人形</original>
+			<edited>着せ替え人形</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RefineCount100" offset="00" relocatable="true" max_length="0">
+			<original>錬成師</original>
+			<edited>錬成師</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RefineSwordCount50" offset="00" relocatable="true" max_length="0">
+			<original>剣の錬成師</original>
+			<edited>剣の錬成師</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RefineLanceCount50" offset="00" relocatable="true" max_length="0">
+			<original>槍の錬成師</original>
+			<edited>槍の錬成師</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RefineAxeCount50" offset="00" relocatable="true" max_length="0">
+			<original>斧の錬成師</original>
+			<edited>斧の錬成師</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RefineBowCount50" offset="00" relocatable="true" max_length="0">
+			<original>弓の錬成師</original>
+			<edited>弓の錬成師</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RefineKnifeCount50" offset="00" relocatable="true" max_length="0">
+			<original>短剣の錬成師</original>
+			<edited>短剣の錬成師</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RefineMagicCount50" offset="00" relocatable="true" max_length="0">
+			<original>魔法の錬成師</original>
+			<edited>魔法の錬成師</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RefineFistCount50" offset="00" relocatable="true" max_length="0">
+			<original>体術の錬成師</original>
+			<edited>体術の錬成師</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_EngraveCount100" offset="00" relocatable="true" max_length="0">
+			<original>彫師</original>
+			<edited>彫師</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_PlayTime240Hours" offset="00" relocatable="true" max_length="0">
+			<original>FIRE EMBLEM ENGAGE</original>
+			<edited>FIRE EMBLEM ENGAGE</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ClearedChapter26" offset="00" relocatable="true" max_length="0">
+			<original>救世主</original>
+			<edited>救世主</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_VersusCount200" offset="00" relocatable="true" max_length="0">
+			<original>挑戦者</original>
+			<edited>挑戦者</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_VersusWinCount100" offset="00" relocatable="true" max_length="0">
+			<original>チャンピオン</original>
+			<edited>チャンピオン</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RelayCount200" offset="00" relocatable="true" max_length="0">
+			<original>チームメイト</original>
+			<edited>チームメイト</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RelayWinCount100" offset="00" relocatable="true" max_length="0">
+			<original>チームリーダー</original>
+			<edited>チームリーダー</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ChallengeMap1Rank50" offset="00" relocatable="true" max_length="0">
+			<original>緑野の達人</original>
+			<edited>緑野の達人</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ChallengeMap2Rank50" offset="00" relocatable="true" max_length="0">
+			<original>花畑の達人</original>
+			<edited>花畑の達人</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ChallengeMap3Rank50" offset="00" relocatable="true" max_length="0">
+			<original>高原の達人</original>
+			<edited>高原の達人</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ChallengeMap4Rank50" offset="00" relocatable="true" max_length="0">
+			<original>雪樹林の達人</original>
+			<edited>雪樹林の達人</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ChallengeMap5Rank50" offset="00" relocatable="true" max_length="0">
+			<original>砂海の達人</original>
+			<edited>砂海の達人</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ChallengeMap6Rank50" offset="00" relocatable="true" max_length="0">
+			<original>岩漿の達人</original>
+			<edited>岩漿の達人</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_E004_Kill_Count" offset="00" relocatable="true" max_length="0">
+			<original>喧嘩両成敗</original>
+			<edited>喧嘩両成敗</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Nothing" offset="00" relocatable="true" max_length="0">
+			<original>空欄</original>
+			<edited>空欄</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling1" offset="00" relocatable="true" max_length="0">
+			<original>気楽</original>
+			<edited>気楽</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling2" offset="00" relocatable="true" max_length="0">
+			<original>のんき</original>
+			<edited>のんき</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling3" offset="00" relocatable="true" max_length="0">
+			<original>楽観的</original>
+			<edited>楽観的</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling4" offset="00" relocatable="true" max_length="0">
+			<original>魅力的</original>
+			<edited>魅力的</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling5" offset="00" relocatable="true" max_length="0">
+			<original>怖がり</original>
+			<edited>怖がり</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling6" offset="00" relocatable="true" max_length="0">
+			<original>シャイ</original>
+			<edited>シャイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling7" offset="00" relocatable="true" max_length="0">
+			<original>ヤンチャ</original>
+			<edited>ヤンチャ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling8" offset="00" relocatable="true" max_length="0">
+			<original>かわいい</original>
+			<edited>かわいい</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling9" offset="00" relocatable="true" max_length="0">
+			<original>美しい</original>
+			<edited>美しい</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling10" offset="00" relocatable="true" max_length="0">
+			<original>綺麗</original>
+			<edited>綺麗</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling11" offset="00" relocatable="true" max_length="0">
+			<original>素敵</original>
+			<edited>素敵</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling12" offset="00" relocatable="true" max_length="0">
+			<original>優しい</original>
+			<edited>優しい</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling13" offset="00" relocatable="true" max_length="0">
+			<original>暖かい</original>
+			<edited>暖かい</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling14" offset="00" relocatable="true" max_length="0">
+			<original>おいしい</original>
+			<edited>おいしい</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling15" offset="00" relocatable="true" max_length="0">
+			<original>うまい</original>
+			<edited>うまい</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling16" offset="00" relocatable="true" max_length="0">
+			<original>愛</original>
+			<edited>愛</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling17" offset="00" relocatable="true" max_length="0">
+			<original>恋</original>
+			<edited>恋</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling18" offset="00" relocatable="true" max_length="0">
+			<original>大好き</original>
+			<edited>大好き</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling19" offset="00" relocatable="true" max_length="0">
+			<original>お気に入り</original>
+			<edited>お気に入り</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling20" offset="00" relocatable="true" max_length="0">
+			<original>宝物</original>
+			<edited>宝物</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling21" offset="00" relocatable="true" max_length="0">
+			<original>推し</original>
+			<edited>推し</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling22" offset="00" relocatable="true" max_length="0">
+			<original>萌え</original>
+			<edited>萌え</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling23" offset="00" relocatable="true" max_length="0">
+			<original>尊い</original>
+			<edited>尊い</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature1" offset="00" relocatable="true" max_length="0">
+			<original>最強</original>
+			<edited>最強</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature2" offset="00" relocatable="true" max_length="0">
+			<original>無敵</original>
+			<edited>無敵</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature3" offset="00" relocatable="true" max_length="0">
+			<original>一番</original>
+			<edited>一番</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature4" offset="00" relocatable="true" max_length="0">
+			<original>唯一</original>
+			<edited>唯一</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature5" offset="00" relocatable="true" max_length="0">
+			<original>筋肉質</original>
+			<edited>筋肉質</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature6" offset="00" relocatable="true" max_length="0">
+			<original>イケメン</original>
+			<edited>イケメン</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature7" offset="00" relocatable="true" max_length="0">
+			<original>ひ弱</original>
+			<edited>ひ弱</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature8" offset="00" relocatable="true" max_length="0">
+			<original>か細い</original>
+			<edited>か細い</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature9" offset="00" relocatable="true" max_length="0">
+			<original>華奢</original>
+			<edited>華奢</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature10" offset="00" relocatable="true" max_length="0">
+			<original>料理人</original>
+			<edited>料理人</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature11" offset="00" relocatable="true" max_length="0">
+			<original>釣り人</original>
+			<edited>釣り人</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature12" offset="00" relocatable="true" max_length="0">
+			<original>踊り子</original>
+			<edited>踊り子</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature13" offset="00" relocatable="true" max_length="0">
+			<original>暗殺者</original>
+			<edited>暗殺者</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature14" offset="00" relocatable="true" max_length="0">
+			<original>神竜</original>
+			<edited>神竜</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature15" offset="00" relocatable="true" max_length="0">
+			<original>王子</original>
+			<edited>王子</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature16" offset="00" relocatable="true" max_length="0">
+			<original>王女</original>
+			<edited>王女</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature17" offset="00" relocatable="true" max_length="0">
+			<original>母</original>
+			<edited>母</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature18" offset="00" relocatable="true" max_length="0">
+			<original>父</original>
+			<edited>父</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature19" offset="00" relocatable="true" max_length="0">
+			<original>兄</original>
+			<edited>兄</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature20" offset="00" relocatable="true" max_length="0">
+			<original>姉</original>
+			<edited>姉</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature21" offset="00" relocatable="true" max_length="0">
+			<original>弟</original>
+			<edited>弟</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature22" offset="00" relocatable="true" max_length="0">
+			<original>妹</original>
+			<edited>妹</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature23" offset="00" relocatable="true" max_length="0">
+			<original>兄弟</original>
+			<edited>兄弟</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature24" offset="00" relocatable="true" max_length="0">
+			<original>姉妹</original>
+			<edited>姉妹</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature25" offset="00" relocatable="true" max_length="0">
+			<original>きょうだい</original>
+			<edited>きょうだい</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature26" offset="00" relocatable="true" max_length="0">
+			<original>親子</original>
+			<edited>親子</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature27" offset="00" relocatable="true" max_length="0">
+			<original>娘</original>
+			<edited>娘</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature28" offset="00" relocatable="true" max_length="0">
+			<original>息子</original>
+			<edited>息子</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Adposition1" offset="00" relocatable="true" max_length="0">
+			<original>は</original>
+			<edited>は</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Adposition2" offset="00" relocatable="true" max_length="0">
+			<original>が</original>
+			<edited>が</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Adposition3" offset="00" relocatable="true" max_length="0">
+			<original>の</original>
+			<edited>の</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Adposition4" offset="00" relocatable="true" max_length="0">
+			<original>を</original>
+			<edited>を</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Adposition5" offset="00" relocatable="true" max_length="0">
+			<original>に</original>
+			<edited>に</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Adposition6" offset="00" relocatable="true" max_length="0">
+			<original>と</original>
+			<edited>と</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Adposition7" offset="00" relocatable="true" max_length="0">
+			<original>＆</original>
+			<edited>＆</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Adposition8" offset="00" relocatable="true" max_length="0">
+			<original>VS</original>
+			<edited>VS</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Adposition9" offset="00" relocatable="true" max_length="0">
+			<original>で</original>
+			<edited>で</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection1" offset="00" relocatable="true" max_length="0">
+			<original>だから</original>
+			<edited>だから</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection2" offset="00" relocatable="true" max_length="0">
+			<original>しかし</original>
+			<edited>しかし</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection3" offset="00" relocatable="true" max_length="0">
+			<original>だけど</original>
+			<edited>だけど</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection4" offset="00" relocatable="true" max_length="0">
+			<original>なのに</original>
+			<edited>なのに</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection5" offset="00" relocatable="true" max_length="0">
+			<original>でも</original>
+			<edited>でも</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection6" offset="00" relocatable="true" max_length="0">
+			<original>逆に</original>
+			<edited>逆に</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection7" offset="00" relocatable="true" max_length="0">
+			<original>一方</original>
+			<edited>一方</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection8" offset="00" relocatable="true" max_length="0">
+			<original>または</original>
+			<edited>または</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection9" offset="00" relocatable="true" max_length="0">
+			<original>ただし</original>
+			<edited>ただし</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection10" offset="00" relocatable="true" max_length="0">
+			<original>実は</original>
+			<edited>実は</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection11" offset="00" relocatable="true" max_length="0">
+			<original>すなわち</original>
+			<edited>すなわち</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection12" offset="00" relocatable="true" max_length="0">
+			<original>とにかく</original>
+			<edited>とにかく</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection13" offset="00" relocatable="true" max_length="0">
+			<original>特に</original>
+			<edited>特に</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection14" offset="00" relocatable="true" max_length="0">
+			<original>かつ</original>
+			<edited>かつ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection15" offset="00" relocatable="true" max_length="0">
+			<original>なぜなら</original>
+			<edited>なぜなら</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection16" offset="00" relocatable="true" max_length="0">
+			<original>しかも</original>
+			<edited>しかも</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection17" offset="00" relocatable="true" max_length="0">
+			<original>それに</original>
+			<edited>それに</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection18" offset="00" relocatable="true" max_length="0">
+			<original>だし</original>
+			<edited>だし</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection19" offset="00" relocatable="true" max_length="0">
+			<original>あと</original>
+			<edited>あと</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection20" offset="00" relocatable="true" max_length="0">
+			<original>+</original>
+			<edited>+</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection21" offset="00" relocatable="true" max_length="0">
+			<original>/</original>
+			<edited>/</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Honorific1" offset="00" relocatable="true" max_length="0">
+			<original>くん</original>
+			<edited>くん</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Honorific2" offset="00" relocatable="true" max_length="0">
+			<original>ちゃん</original>
+			<edited>ちゃん</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Honorific3" offset="00" relocatable="true" max_length="0">
+			<original>さん</original>
+			<edited>さん</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Honorific4" offset="00" relocatable="true" max_length="0">
+			<original>様</original>
+			<edited>様</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Honorific5" offset="00" relocatable="true" max_length="0">
+			<original>殿</original>
+			<edited>殿</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Team1" offset="00" relocatable="true" max_length="0">
+			<original>エムブレム！</original>
+			<edited>エムブレム！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Team2" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ！</original>
+			<edited>エンゲージ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Team3" offset="00" relocatable="true" max_length="0">
+			<original>チェイン</original>
+			<edited>チェイン</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Team4" offset="00" relocatable="true" max_length="0">
+			<original>ガード</original>
+			<edited>ガード</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Team5" offset="00" relocatable="true" max_length="0">
+			<original>アタック</original>
+			<edited>アタック</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Solanel" offset="00" relocatable="true" max_length="0">
+			<original>ソラネル</original>
+			<edited>ソラネル</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Eleos" offset="00" relocatable="true" max_length="0">
+			<original>エレオス</original>
+			<edited>エレオス</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Player" offset="00" relocatable="true" max_length="0">
+			<original>プレイヤー</original>
+			<edited>プレイヤー</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Enemy" offset="00" relocatable="true" max_length="0">
+			<original>エネミー</original>
+			<edited>エネミー</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_VIP" offset="00" relocatable="true" max_length="0">
+			<original>VIP</original>
+			<edited>VIP</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Training" offset="00" relocatable="true" max_length="0">
+			<original>鍛錬</original>
+			<edited>鍛錬</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Party" offset="00" relocatable="true" max_length="0">
+			<original>宴</original>
+			<edited>宴</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Others1" offset="00" relocatable="true" max_length="0">
+			<original>エンジョイ！</original>
+			<edited>エンジョイ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Others2" offset="00" relocatable="true" max_length="0">
+			<original>楽しもう！</original>
+			<edited>楽しもう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Others3" offset="00" relocatable="true" max_length="0">
+			<original>行くぜ！</original>
+			<edited>行くぜ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Others4" offset="00" relocatable="true" max_length="0">
+			<original>ムキムキ</original>
+			<edited>ムキムキ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Others5" offset="00" relocatable="true" max_length="0">
+			<original>キラキラ</original>
+			<edited>キラキラ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Others6" offset="00" relocatable="true" max_length="0">
+			<original>ドキドキ</original>
+			<edited>ドキドキ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Others7" offset="00" relocatable="true" max_length="0">
+			<original>ピカピカ</original>
+			<edited>ピカピカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Position" offset="00" relocatable="true" max_length="0">
+			<original>兵種</original>
+			<edited>兵種</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_BasicPosition" offset="00" relocatable="true" max_length="0">
+			<original>基本兵種</original>
+			<edited>基本兵種</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_SeniorPosition" offset="00" relocatable="true" max_length="0">
+			<original>上級兵種</original>
+			<edited>上級兵種</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_SpecialPosition" offset="00" relocatable="true" max_length="0">
+			<original>特殊兵種</original>
+			<edited>特殊兵種</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Style" offset="00" relocatable="true" max_length="0">
+			<original>スタイル</original>
+			<edited>スタイル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Map_Theme_Select" offset="00" relocatable="true" max_length="0">
+			<original>作成したエディットマップのテーマを選択してください
+（選択したテーマは神竜戦歴カードに反映されます）</original>
+			<edited>作成したエディットマップのテーマを選択してください
+（選択したテーマは神竜戦歴カードに反映されます）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Theme_Unit" offset="00" relocatable="true" max_length="0">
+			<original>配置ユニット</original>
+			<edited>配置ユニット</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Unit1" offset="00" relocatable="true" max_length="0">
+			<original>遠距離</original>
+			<edited>遠距離</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Unit2" offset="00" relocatable="true" max_length="0">
+			<original>近距離</original>
+			<edited>近距離</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Unit3" offset="00" relocatable="true" max_length="0">
+			<original>総動員</original>
+			<edited>総動員</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Unit4" offset="00" relocatable="true" max_length="0">
+			<original>重装</original>
+			<edited>重装</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Unit5" offset="00" relocatable="true" max_length="0">
+			<original>騎馬</original>
+			<edited>騎馬</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Unit6" offset="00" relocatable="true" max_length="0">
+			<original>飛行</original>
+			<edited>飛行</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Unit7" offset="00" relocatable="true" max_length="0">
+			<original>連携</original>
+			<edited>連携</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Unit8" offset="00" relocatable="true" max_length="0">
+			<original>隠密</original>
+			<edited>隠密</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Unit9" offset="00" relocatable="true" max_length="0">
+			<original>気功</original>
+			<edited>気功</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Unit10" offset="00" relocatable="true" max_length="0">
+			<original>魔道</original>
+			<edited>魔道</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Theme_Map" offset="00" relocatable="true" max_length="0">
+			<original>マップ</original>
+			<edited>マップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Map1" offset="00" relocatable="true" max_length="0">
+			<original>城塞</original>
+			<edited>城塞</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Map2" offset="00" relocatable="true" max_length="0">
+			<original>迷路</original>
+			<edited>迷路</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Map3" offset="00" relocatable="true" max_length="0">
+			<original>回避</original>
+			<edited>回避</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Map4" offset="00" relocatable="true" max_length="0">
+			<original>砲台</original>
+			<edited>砲台</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Map5" offset="00" relocatable="true" max_length="0">
+			<original>庭園</original>
+			<edited>庭園</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Map6" offset="00" relocatable="true" max_length="0">
+			<original>和風</original>
+			<edited>和風</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Map7" offset="00" relocatable="true" max_length="0">
+			<original>籠城</original>
+			<edited>籠城</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Map8" offset="00" relocatable="true" max_length="0">
+			<original>神殿</original>
+			<edited>神殿</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Map9" offset="00" relocatable="true" max_length="0">
+			<original>シンプル</original>
+			<edited>シンプル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Theme_Object" offset="00" relocatable="true" max_length="0">
+			<original>配置地形</original>
+			<edited>配置地形</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Object1" offset="00" relocatable="true" max_length="0">
+			<original>アルパカ</original>
+			<edited>アルパカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Object2" offset="00" relocatable="true" max_length="0">
+			<original>守り神</original>
+			<edited>守り神</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Object3" offset="00" relocatable="true" max_length="0">
+			<original>砂場</original>
+			<edited>砂場</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Object4" offset="00" relocatable="true" max_length="0">
+			<original>氷</original>
+			<edited>氷</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Object5" offset="00" relocatable="true" max_length="0">
+			<original>柱</original>
+			<edited>柱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Theme_Conception" offset="00" relocatable="true" max_length="0">
+			<original>雰囲気</original>
+			<edited>雰囲気</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Conception1" offset="00" relocatable="true" max_length="0">
+			<original>可愛い</original>
+			<edited>可愛い</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Conception2" offset="00" relocatable="true" max_length="0">
+			<original>格好いい</original>
+			<edited>格好いい</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Conception3" offset="00" relocatable="true" max_length="0">
+			<original>怖い</original>
+			<edited>怖い</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Conception4" offset="00" relocatable="true" max_length="0">
+			<original>クール</original>
+			<edited>クール</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Conception5" offset="00" relocatable="true" max_length="0">
+			<original>ファンシー</original>
+			<edited>ファンシー</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Conception6" offset="00" relocatable="true" max_length="0">
+			<original>綺麗</original>
+			<edited>綺麗</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Theme_Onomatopoeia" offset="00" relocatable="true" max_length="0">
+			<original>オノマトペ</original>
+			<edited>オノマトペ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Onomatopoeia1" offset="00" relocatable="true" max_length="0">
+			<original>キラキラ</original>
+			<edited>キラキラ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Onomatopoeia2" offset="00" relocatable="true" max_length="0">
+			<original>ぐるぐる</original>
+			<edited>ぐるぐる</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Onomatopoeia3" offset="00" relocatable="true" max_length="0">
+			<original>ごつごつ</original>
+			<edited>ごつごつ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Onomatopoeia4" offset="00" relocatable="true" max_length="0">
+			<original>イケイケ</original>
+			<edited>イケイケ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Onomatopoeia5" offset="00" relocatable="true" max_length="0">
+			<original>ごちゃごちゃ</original>
+			<edited>ごちゃごちゃ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Area_Select" offset="00" relocatable="true" max_length="0">
+			<original>エリア選択</original>
+			<edited>エリア選択</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Area_Select_Help" offset="00" relocatable="true" max_length="0">
+			<original>印画する場所を選択してください</original>
+			<edited>印画する場所を選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Area_List" offset="00" relocatable="true" max_length="0">
+			<original>エリア一覧</original>
+			<edited>エリア一覧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Placement_Limit" offset="00" relocatable="true" max_length="0">
+			<original>配置できる仲間の数</original>
+			<edited>配置できる仲間の数</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Spot_Title" offset="00" relocatable="true" max_length="0">
+			<original>配置する仲間</original>
+			<edited>配置する仲間</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Spot_01" offset="00" relocatable="true" max_length="0">
+			<original>スポット1</original>
+			<edited>スポット1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Spot_02" offset="00" relocatable="true" max_length="0">
+			<original>スポット2</original>
+			<edited>スポット2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Spot_03" offset="00" relocatable="true" max_length="0">
+			<original>スポット3</original>
+			<edited>スポット3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Spot_Weapon" offset="00" relocatable="true" max_length="0">
+			<original>武器一覧</original>
+			<edited>武器一覧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Spot_Scarf" offset="00" relocatable="true" max_length="0">
+			<original>スカーフの色一覧</original>
+			<edited>スカーフの色一覧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Photo_Finish_Confirm" offset="00" relocatable="true" max_length="0">
+			<original>エリア選択に戻りますか？</original>
+			<edited>エリア選択に戻りますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Save_Confirm" offset="00" relocatable="true" max_length="0">
+			<original>印画した画像を保存し、戦歴カードに反映しました
+（画像は1枚だけ保存できます）</original>
+			<edited>印画した画像を保存し、戦歴カードに反映しました
+（画像は1枚だけ保存できます）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Hyphen01" offset="00" relocatable="true" max_length="0">
+			<original>－</original>
+			<edited>－</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Hyphen05" offset="00" relocatable="true" max_length="0">
+			<original>－－－－－</original>
+			<edited>－－－－－</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_UI_ON" offset="00" relocatable="true" max_length="0">
+			<original>印画モード</original>
+			<edited>印画モード</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_UI_OFF" offset="00" relocatable="true" max_length="0">
+			<original>印画モード解除</original>
+			<edited>印画モード解除</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_PHOTO" offset="00" relocatable="true" max_length="0">
+			<original>印画実行</original>
+			<edited>印画実行</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_RANDOM" offset="00" relocatable="true" max_length="0">
+			<original>ランダム選択</original>
+			<edited>ランダム選択</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_LIST" offset="00" relocatable="true" max_length="0">
+			<original>リスト表示</original>
+			<edited>リスト表示</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_AREA_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>スポット切替</original>
+			<edited>スポット切替</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_CAMERA_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>カメラ切替</original>
+			<edited>カメラ切替</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_CAMERA_HORIZON" offset="00" relocatable="true" max_length="0">
+			<original>カメラ左右移動</original>
+			<edited>カメラ左右移動</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_CAMERA_VERTICAL" offset="00" relocatable="true" max_length="0">
+			<original>カメラ上下移動</original>
+			<edited>カメラ上下移動</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_CAMERA" offset="00" relocatable="true" max_length="0">
+			<original>カメラ操作</original>
+			<edited>カメラ操作</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_SAVE" offset="00" relocatable="true" max_length="0">
+			<original>保存</original>
+			<edited>保存</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_NO_SAVE" offset="00" relocatable="true" max_length="0">
+			<original>再印画</original>
+			<edited>再印画</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PoseType_1" offset="00" relocatable="true" max_length="0">
+			<original>1</original>
+			<edited>1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PoseType_2" offset="00" relocatable="true" max_length="0">
+			<original>2</original>
+			<edited>2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PoseType_3" offset="00" relocatable="true" max_length="0">
+			<original>3</original>
+			<edited>3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PoseType_4" offset="00" relocatable="true" max_length="0">
+			<original>4</original>
+			<edited>4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PoseType_5" offset="00" relocatable="true" max_length="0">
+			<original>5</original>
+			<edited>5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PoseType_6" offset="00" relocatable="true" max_length="0">
+			<original>6</original>
+			<edited>6</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PoseType_7" offset="00" relocatable="true" max_length="0">
+			<original>7</original>
+			<edited>7</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PoseType_Normal" offset="00" relocatable="true" max_length="0">
+			<original>基本ポーズ</original>
+			<edited>基本ポーズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PoseType_Battle" offset="00" relocatable="true" max_length="0">
+			<original>戦闘ポーズ</original>
+			<edited>戦闘ポーズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PoseType_Solanel" offset="00" relocatable="true" max_length="0">
+			<original>拠点ポーズ</original>
+			<edited>拠点ポーズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Normal" offset="00" relocatable="true" max_length="0">
+			<original>待つ</original>
+			<edited>待つ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Angry" offset="00" relocatable="true" max_length="0">
+			<original>怒る</original>
+			<edited>怒る</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Deny" offset="00" relocatable="true" max_length="0">
+			<original>否定する</original>
+			<edited>否定する</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Deny2" offset="00" relocatable="true" max_length="0">
+			<original>首を振る</original>
+			<edited>首を振る</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Give" offset="00" relocatable="true" max_length="0">
+			<original>あげる</original>
+			<edited>あげる</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Joy" offset="00" relocatable="true" max_length="0">
+			<original>喜ぶ</original>
+			<edited>喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Joy2" offset="00" relocatable="true" max_length="0">
+			<original>はしゃぐ</original>
+			<edited>はしゃぐ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_LookR" offset="00" relocatable="true" max_length="0">
+			<original>見回す（右）</original>
+			<edited>見回す（右）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_LookL" offset="00" relocatable="true" max_length="0">
+			<original>見回す（左）</original>
+			<edited>見回す（左）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Pray" offset="00" relocatable="true" max_length="0">
+			<original>祈る</original>
+			<edited>祈る</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Proud" offset="00" relocatable="true" max_length="0">
+			<original>誇る</original>
+			<edited>誇る</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Relax" offset="00" relocatable="true" max_length="0">
+			<original>安心する</original>
+			<edited>安心する</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Sad" offset="00" relocatable="true" max_length="0">
+			<original>落ち込む</original>
+			<edited>落ち込む</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Sad2" offset="00" relocatable="true" max_length="0">
+			<original>悲しむ</original>
+			<edited>悲しむ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Shy" offset="00" relocatable="true" max_length="0">
+			<original>照れる</original>
+			<edited>照れる</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Surprise" offset="00" relocatable="true" max_length="0">
+			<original>仰天する</original>
+			<edited>仰天する</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Surprise2" offset="00" relocatable="true" max_length="0">
+			<original>驚く</original>
+			<edited>驚く</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Talk" offset="00" relocatable="true" max_length="0">
+			<original>話す</original>
+			<edited>話す</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Talk2" offset="00" relocatable="true" max_length="0">
+			<original>喋る</original>
+			<edited>喋る</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Think" offset="00" relocatable="true" max_length="0">
+			<original>考える</original>
+			<edited>考える</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Tired" offset="00" relocatable="true" max_length="0">
+			<original>疲れる</original>
+			<edited>疲れる</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Wave" offset="00" relocatable="true" max_length="0">
+			<original>手を振る</original>
+			<edited>手を振る</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Posing" offset="00" relocatable="true" max_length="0">
+			<original>お手軽ポーズ</original>
+			<edited>お手軽ポーズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Posing2" offset="00" relocatable="true" max_length="0">
+			<original>決めポーズ</original>
+			<edited>決めポーズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Cheer1" offset="00" relocatable="true" max_length="0">
+			<original>声援を送る</original>
+			<edited>声援を送る</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Cheer2" offset="00" relocatable="true" max_length="0">
+			<original>応援する</original>
+			<edited>応援する</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_FishShow" offset="00" relocatable="true" max_length="0">
+			<original>鼓舞する</original>
+			<edited>鼓舞する</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Guitar" offset="00" relocatable="true" max_length="0">
+			<original>エアギター</original>
+			<edited>エアギター</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Pick1" offset="00" relocatable="true" max_length="0">
+			<original>もぎる</original>
+			<edited>もぎる</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Pick2" offset="00" relocatable="true" max_length="0">
+			<original>確認する</original>
+			<edited>確認する</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Pick3" offset="00" relocatable="true" max_length="0">
+			<original>収穫する</original>
+			<edited>収穫する</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_ScatterR" offset="00" relocatable="true" max_length="0">
+			<original>エサをまく（右）</original>
+			<edited>エサをまく（右）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_ScatterL" offset="00" relocatable="true" max_length="0">
+			<original>エサをまく（左）</original>
+			<edited>エサをまく（左）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Sing" offset="00" relocatable="true" max_length="0">
+			<original>歌う</original>
+			<edited>歌う</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_SitUp_Start" offset="00" relocatable="true" max_length="0">
+			<original>腹筋（始め）</original>
+			<edited>腹筋（始め）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_SitUp_End" offset="00" relocatable="true" max_length="0">
+			<original>腹筋（終わり）</original>
+			<edited>腹筋（終わり）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Squat_Start" offset="00" relocatable="true" max_length="0">
+			<original>スクワット（始め）</original>
+			<edited>スクワット（始め）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Squat_End" offset="00" relocatable="true" max_length="0">
+			<original>スクワット（終わり）</original>
+			<edited>スクワット（終わり）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_PushUp_Start" offset="00" relocatable="true" max_length="0">
+			<original>腕立て伏せ（始め）</original>
+			<edited>腕立て伏せ（始め）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_PushUp_End" offset="00" relocatable="true" max_length="0">
+			<original>腕立て伏せ（終わり）</original>
+			<edited>腕立て伏せ（終わり）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_WateringR" offset="00" relocatable="true" max_length="0">
+			<original>水やり（右）</original>
+			<edited>水やり（右）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_WateringL" offset="00" relocatable="true" max_length="0">
+			<original>水やり（左）</original>
+			<edited>水やり（左）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Splash_OneHand" offset="00" relocatable="true" max_length="0">
+			<original>水掛け（片手）</original>
+			<edited>水掛け（片手）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_SplashothHands" offset="00" relocatable="true" max_length="0">
+			<original>水掛け（両手）</original>
+			<edited>水掛け（両手）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Splash" offset="00" relocatable="true" max_length="0">
+			<original>水浴び</original>
+			<edited>水浴び</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_StrokeStand" offset="00" relocatable="true" max_length="0">
+			<original>ブラッシング</original>
+			<edited>ブラッシング</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_SitNormal" offset="00" relocatable="true" max_length="0">
+			<original>座る</original>
+			<edited>座る</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_ChairNormal" offset="00" relocatable="true" max_length="0">
+			<original>椅子に座る</original>
+			<edited>椅子に座る</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Reactionbad" offset="00" relocatable="true" max_length="0">
+			<original>不味い</original>
+			<edited>不味い</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_ReactionGood" offset="00" relocatable="true" max_length="0">
+			<original>美味しい</original>
+			<edited>美味しい</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_ReactionGreat" offset="00" relocatable="true" max_length="0">
+			<original>とても美味しい</original>
+			<edited>とても美味しい</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Battle_Sword" offset="00" relocatable="true" max_length="0">
+			<original>戦闘ポーズ（剣）</original>
+			<edited>戦闘ポーズ（剣）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Battle_Lance" offset="00" relocatable="true" max_length="0">
+			<original>戦闘ポーズ（槍）</original>
+			<edited>戦闘ポーズ（槍）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Battle_Axe" offset="00" relocatable="true" max_length="0">
+			<original>戦闘ポーズ（斧）</original>
+			<edited>戦闘ポーズ（斧）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Battle_Bow" offset="00" relocatable="true" max_length="0">
+			<original>戦闘ポーズ（弓）</original>
+			<edited>戦闘ポーズ（弓）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Battle_Magic" offset="00" relocatable="true" max_length="0">
+			<original>戦闘ポーズ（魔道書）</original>
+			<edited>戦闘ポーズ（魔道書）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Battle_Knife" offset="00" relocatable="true" max_length="0">
+			<original>戦闘ポーズ（短剣）</original>
+			<edited>戦闘ポーズ（短剣）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Battle_Fist" offset="00" relocatable="true" max_length="0">
+			<original>戦闘ポーズ（体術）</original>
+			<edited>戦闘ポーズ（体術）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_Normal" offset="00" relocatable="true" max_length="0">
+			<original>待つ</original>
+			<edited>待つ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_Angry" offset="00" relocatable="true" max_length="0">
+			<original>怒る</original>
+			<edited>怒る</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_Joy" offset="00" relocatable="true" max_length="0">
+			<original>喜ぶ</original>
+			<edited>喜ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_Cheer" offset="00" relocatable="true" max_length="0">
+			<original>はしゃぐ</original>
+			<edited>はしゃぐ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_Petted" offset="00" relocatable="true" max_length="0">
+			<original>落ち着く</original>
+			<edited>落ち着く</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_Sad" offset="00" relocatable="true" max_length="0">
+			<original>悲しむ</original>
+			<edited>悲しむ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_GestureR" offset="00" relocatable="true" max_length="0">
+			<original>見回す（右）</original>
+			<edited>見回す（右）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_GestureL" offset="00" relocatable="true" max_length="0">
+			<original>見回す（左）</original>
+			<edited>見回す（左）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_Eat" offset="00" relocatable="true" max_length="0">
+			<original>食べる</original>
+			<edited>食べる</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_Drop" offset="00" relocatable="true" max_length="0">
+			<original>のびる</original>
+			<edited>のびる</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_GetUp" offset="00" relocatable="true" max_length="0">
+			<original>決めポーズ</original>
+			<edited>決めポーズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_Sit" offset="00" relocatable="true" max_length="0">
+			<original>座る</original>
+			<edited>座る</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_Sleep" offset="00" relocatable="true" max_length="0">
+			<original>寝る</original>
+			<edited>寝る</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Entrance_front1" offset="00" relocatable="true" max_length="0">
+			<original>エントランス（正面1）</original>
+			<edited>エントランス（正面1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Entrance_front2" offset="00" relocatable="true" max_length="0">
+			<original>エントランス（正面2）</original>
+			<edited>エントランス（正面2）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Entrance1" offset="00" relocatable="true" max_length="0">
+			<original>エントランス（シチュエーション1）</original>
+			<edited>エントランス（シチュエーション1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Entrance2" offset="00" relocatable="true" max_length="0">
+			<original>エントランス（シチュエーション2）</original>
+			<edited>エントランス（シチュエーション2）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Cafeteria_front1" offset="00" relocatable="true" max_length="0">
+			<original>カフェテラス（正面1）</original>
+			<edited>カフェテラス（正面1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Cafeteria_front2" offset="00" relocatable="true" max_length="0">
+			<original>カフェテラス（正面2）</original>
+			<edited>カフェテラス（正面2）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Cafeteria1" offset="00" relocatable="true" max_length="0">
+			<original>カフェテラス（シチュエーション1）</original>
+			<edited>カフェテラス（シチュエーション1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Cafeteria2" offset="00" relocatable="true" max_length="0">
+			<original>カフェテラス（シチュエーション2）</original>
+			<edited>カフェテラス（シチュエーション2）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Cafeteria3" offset="00" relocatable="true" max_length="0">
+			<original>カフェテラス（シチュエーション3）</original>
+			<edited>カフェテラス（シチュエーション3）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_WeaponShop_front" offset="00" relocatable="true" max_length="0">
+			<original>武器屋（正面1）</original>
+			<edited>武器屋（正面1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_WeaponShop1" offset="00" relocatable="true" max_length="0">
+			<original>武器屋（シチュエーション1）</original>
+			<edited>武器屋（シチュエーション1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_ItemShop_front" offset="00" relocatable="true" max_length="0">
+			<original>道具屋（正面1）</original>
+			<edited>道具屋（正面1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_ItemShop1" offset="00" relocatable="true" max_length="0">
+			<original>道具屋（シチュエーション1）</original>
+			<edited>道具屋（シチュエーション1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_RefineShop_front" offset="00" relocatable="true" max_length="0">
+			<original>錬成屋（正面1）</original>
+			<edited>錬成屋（正面1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_RefineShop1" offset="00" relocatable="true" max_length="0">
+			<original>錬成屋（シチュエーション1）</original>
+			<edited>錬成屋（シチュエーション1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_AccessoryShop_front" offset="00" relocatable="true" max_length="0">
+			<original>アクセサリー屋（正面1）</original>
+			<edited>アクセサリー屋（正面1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_AccessoryShop1" offset="00" relocatable="true" max_length="0">
+			<original>アクセサリー屋（シチュエーション1）</original>
+			<edited>アクセサリー屋（シチュエーション1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Poolside_front" offset="00" relocatable="true" max_length="0">
+			<original>プールサイド（正面1）</original>
+			<edited>プールサイド（正面1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Poolside1" offset="00" relocatable="true" max_length="0">
+			<original>プールサイド（シチュエーション1）</original>
+			<edited>プールサイド（シチュエーション1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_FleaMarket_front" offset="00" relocatable="true" max_length="0">
+			<original>蚤の市（正面1）</original>
+			<edited>蚤の市（正面1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_FleaMarket1" offset="00" relocatable="true" max_length="0">
+			<original>蚤の市（シチュエーション1）</original>
+			<edited>蚤の市（シチュエーション1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Fortune_front" offset="00" relocatable="true" max_length="0">
+			<original>占い小屋（正面1）</original>
+			<edited>占い小屋（正面1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Fortune1" offset="00" relocatable="true" max_length="0">
+			<original>占い小屋（シチュエーション1）</original>
+			<edited>占い小屋（シチュエーション1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Orchard_front" offset="00" relocatable="true" max_length="0">
+			<original>果樹園（正面1）</original>
+			<edited>果樹園（正面1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Orchard1" offset="00" relocatable="true" max_length="0">
+			<original>果樹園（シチュエーション1）</original>
+			<edited>果樹園（シチュエーション1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Fountain_front" offset="00" relocatable="true" max_length="0">
+			<original>噴水（正面1）</original>
+			<edited>噴水（正面1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Fountain1" offset="00" relocatable="true" max_length="0">
+			<original>噴水（シチュエーション1）</original>
+			<edited>噴水（シチュエーション1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Corridor1" offset="00" relocatable="true" max_length="0">
+			<original>回廊（シチュエーション1）</original>
+			<edited>回廊（シチュエーション1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Pond_front" offset="00" relocatable="true" max_length="0">
+			<original>湧水の池（正面1）</original>
+			<edited>湧水の池（正面1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Pond1" offset="00" relocatable="true" max_length="0">
+			<original>湧水の池（シチュエーション1）</original>
+			<edited>湧水の池（シチュエーション1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Pond2" offset="00" relocatable="true" max_length="0">
+			<original>湧水の池（シチュエーション2）</original>
+			<edited>湧水の池（シチュエーション2）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_TrainingSpot_front" offset="00" relocatable="true" max_length="0">
+			<original>裏庭（正面1）</original>
+			<edited>裏庭（正面1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_TrainingSpot1" offset="00" relocatable="true" max_length="0">
+			<original>裏庭（シチュエーション1）</original>
+			<edited>裏庭（シチュエーション1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_TrainingSpot2" offset="00" relocatable="true" max_length="0">
+			<original>裏庭（シチュエーション2）</original>
+			<edited>裏庭（シチュエーション2）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_TrainingSpot3" offset="00" relocatable="true" max_length="0">
+			<original>裏庭（シチュエーション3）</original>
+			<edited>裏庭（シチュエーション3）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_TrainingSpot4" offset="00" relocatable="true" max_length="0">
+			<original>裏庭（シチュエーション4）</original>
+			<edited>裏庭（シチュエーション4）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Farm_front" offset="00" relocatable="true" max_length="0">
+			<original>牧場（正面1）</original>
+			<edited>牧場（正面1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Farm1" offset="00" relocatable="true" max_length="0">
+			<original>牧場（シチュエーション1）</original>
+			<edited>牧場（シチュエーション1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Farm2" offset="00" relocatable="true" max_length="0">
+			<original>牧場（シチュエーション2）</original>
+			<edited>牧場（シチュエーション2）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Farm3" offset="00" relocatable="true" max_length="0">
+			<original>牧場（シチュエーション3）</original>
+			<edited>牧場（シチュエーション3）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Cave_front" offset="00" relocatable="true" max_length="0">
+			<original>鍾乳洞（正面1）</original>
+			<edited>鍾乳洞（正面1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Cave1" offset="00" relocatable="true" max_length="0">
+			<original>鍾乳洞（シチュエーション1）</original>
+			<edited>鍾乳洞（シチュエーション1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_GoodViewSpot_front" offset="00" relocatable="true" max_length="0">
+			<original>見晴らしの丘（正面1）</original>
+			<edited>見晴らしの丘（正面1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_GoodViewSpot1" offset="00" relocatable="true" max_length="0">
+			<original>見晴らしの丘（シチュエーション1）</original>
+			<edited>見晴らしの丘（シチュエーション1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Tower_front" offset="00" relocatable="true" max_length="0">
+			<original>試練の離れ（正面1）</original>
+			<edited>試練の離れ（正面1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Tower1" offset="00" relocatable="true" max_length="0">
+			<original>試練の離れ（シチュエーション1）</original>
+			<edited>試練の離れ（シチュエーション1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_1" offset="00" relocatable="true" max_length="0">
+			<original>モモ</original>
+			<edited>モモ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_2" offset="00" relocatable="true" max_length="0">
+			<original>イチゴ</original>
+			<edited>イチゴ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_3" offset="00" relocatable="true" max_length="0">
+			<original>ウミ</original>
+			<edited>ウミ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_4" offset="00" relocatable="true" max_length="0">
+			<original>オレンジ</original>
+			<edited>オレンジ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_5" offset="00" relocatable="true" max_length="0">
+			<original>レモン</original>
+			<edited>レモン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_6" offset="00" relocatable="true" max_length="0">
+			<original>ソラ</original>
+			<edited>ソラ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_7" offset="00" relocatable="true" max_length="0">
+			<original>ミント</original>
+			<edited>ミント</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_8" offset="00" relocatable="true" max_length="0">
+			<original>リーフ</original>
+			<edited>リーフ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_9" offset="00" relocatable="true" max_length="0">
+			<original>オリーブ</original>
+			<edited>オリーブ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_10" offset="00" relocatable="true" max_length="0">
+			<original>グレープ</original>
+			<edited>グレープ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_11" offset="00" relocatable="true" max_length="0">
+			<original>チャコール</original>
+			<edited>チャコール</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_12" offset="00" relocatable="true" max_length="0">
+			<original>モチ</original>
+			<edited>モチ</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

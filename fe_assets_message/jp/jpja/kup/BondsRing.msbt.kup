@@ -1,0 +1,4119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_BONDSRING_H_CommonTytle" offset="00" relocatable="true" max_length="0">
+			<original>〈キャラクター登場タイトル〉</original>
+			<edited>〈キャラクター登場タイトル〉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_HELP" offset="00" relocatable="true" max_length="0">
+			<original>紋章士&#xE;&#x1;&#x0;&#x0;と縁がある
+英雄の力が宿る指輪
+身に着ける者に力を与える</original>
+			<edited>紋章士&#xE;&#x1;&#x0;&#x0;と縁がある
+英雄の力が宿る指輪
+身に着ける者に力を与える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_HELP_Special" offset="00" relocatable="true" max_length="0">
+			<original>特別な英雄の力が宿る指輪
+身に着ける者に力を与える</original>
+			<edited>特別な英雄の力が宿る指輪
+身に着ける者に力を与える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Marth00" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸アカネイアにある
+アリティア王国の王子。</original>
+			<edited>異界の大陸アカネイアにある
+アリティア王国の王子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Marth01" offset="00" relocatable="true" max_length="0">
+			<original>人を動かす力を持ち、仲間と力を合わせて
+暗黒竜メディウスと戦った。</original>
+			<edited>人を動かす力を持ち、仲間と力を合わせて
+暗黒竜メディウスと戦った。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Seeda" offset="00" relocatable="true" max_length="0">
+			<original>シーダ</original>
+			<edited>シーダ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Seeda00" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸アカネイアにある
+タリス王国の王女。</original>
+			<edited>異界の大陸アカネイアにある
+タリス王国の王女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Seeda01" offset="00" relocatable="true" max_length="0">
+			<original>天馬騎士として戦場に立つ快活な女性で
+人を惹きつける天性の魅力を持つ。</original>
+			<edited>天馬騎士として戦場に立つ快活な女性で
+人を惹きつける天性の魅力を持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Seeda02" offset="00" relocatable="true" max_length="0">
+			<original>亡命してきたマルスと知り合い
+彼を支え、やがて婚約者となる。</original>
+			<edited>亡命してきたマルスと知り合い
+彼を支え、やがて婚約者となる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Seeda03" offset="00" relocatable="true" max_length="0">
+			<original>「暗黒竜と光の剣」「紋章の謎」他</original>
+			<edited>「暗黒竜と光の剣」「紋章の謎」他</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Tiki" offset="00" relocatable="true" max_length="0">
+			<original>チキ</original>
+			<edited>チキ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Tiki00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、神竜族の王女。</original>
+			<edited>異界の英雄で、神竜族の王女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Tiki01" offset="00" relocatable="true" max_length="0">
+			<original>竜の力を石に封じ、人間へと姿を変えた
+「マムクート」の一人。</original>
+			<edited>竜の力を石に封じ、人間へと姿を変えた
+「マムクート」の一人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Tiki02" offset="00" relocatable="true" max_length="0">
+			<original>魔王ガーネフに操られていたが
+マルスに助けられ、その味方となった。</original>
+			<edited>魔王ガーネフに操られていたが
+マルスに助けられ、その味方となった。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Tiki03" offset="00" relocatable="true" max_length="0">
+			<original>「暗黒竜と光の剣」「紋章の謎」他</original>
+			<edited>「暗黒竜と光の剣」「紋章の謎」他</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Minerba" offset="00" relocatable="true" max_length="0">
+			<original>ミネルバ</original>
+			<edited>ミネルバ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Minerba00" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸アカネイアにある
+マケドニア王国の王女。</original>
+			<edited>異界の大陸アカネイアにある
+マケドニア王国の王女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Minerba01" offset="00" relocatable="true" max_length="0">
+			<original>誇り高く、勇ましい女性で
+「赤い竜騎士」の異名を持つ。</original>
+			<edited>誇り高く、勇ましい女性で
+「赤い竜騎士」の異名を持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Minerba02" offset="00" relocatable="true" max_length="0">
+			<original>ドルーア帝国に与する祖国を正すため、
+裏切り者となって戦った。</original>
+			<edited>ドルーア帝国に与する祖国を正すため、
+裏切り者となって戦った。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Minerba03" offset="00" relocatable="true" max_length="0">
+			<original>「暗黒竜と光の剣」「紋章の謎」他</original>
+			<edited>「暗黒竜と光の剣」「紋章の謎」他</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Nabarl" offset="00" relocatable="true" max_length="0">
+			<original>ナバール</original>
+			<edited>ナバール</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nabarl00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、
+「紅の剣士」と呼ばれた剣の達人。</original>
+			<edited>異界の英雄で、
+「紅の剣士」と呼ばれた剣の達人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nabarl01" offset="00" relocatable="true" max_length="0">
+			<original>盗賊の用心棒としてマルスの前に現れ
+必殺剣「キルソード」を手に、戦った。</original>
+			<edited>盗賊の用心棒としてマルスの前に現れ
+必殺剣「キルソード」を手に、戦った。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nabarl02" offset="00" relocatable="true" max_length="0">
+			<original>「女に切りつける剣を持ってはおらぬ」
+と語るなど、女性に弱い一面も持つ。</original>
+			<edited>「女に切りつける剣を持ってはおらぬ」
+と語るなど、女性に弱い一面も持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nabarl03" offset="00" relocatable="true" max_length="0">
+			<original>「暗黒竜と光の剣」「紋章の謎」他</original>
+			<edited>「暗黒竜と光の剣」「紋章の謎」他</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Oguma" offset="00" relocatable="true" max_length="0">
+			<original>オグマ</original>
+			<edited>オグマ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Oguma00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、
+タリス王家に仕える傭兵隊長。</original>
+			<edited>異界の英雄で、
+タリス王家に仕える傭兵隊長。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Oguma01" offset="00" relocatable="true" max_length="0">
+			<original>戦場で剛腕を振るう歴戦の勇士で
+剣闘士だった過去を持つ。</original>
+			<edited>戦場で剛腕を振るう歴戦の勇士で
+剣闘士だった過去を持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Oguma02" offset="00" relocatable="true" max_length="0">
+			<original>剣闘士時代、王女シーダに命を助けられ、
+以来、彼女に敬愛と忠誠を捧げている。</original>
+			<edited>剣闘士時代、王女シーダに命を助けられ、
+以来、彼女に敬愛と忠誠を捧げている。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Oguma03" offset="00" relocatable="true" max_length="0">
+			<original>「暗黒竜と光の剣」「紋章の謎」他</original>
+			<edited>「暗黒竜と光の剣」「紋章の謎」他</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Katarina" offset="00" relocatable="true" max_length="0">
+			<original>カタリナ</original>
+			<edited>カタリナ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Katarina00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、軍師見習いの少女。</original>
+			<edited>異界の英雄で、軍師見習いの少女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Katarina01" offset="00" relocatable="true" max_length="0">
+			<original>マルスに仕えるためにアリティア城を訪れ
+クリスと共に第七小隊の一員となった。</original>
+			<edited>マルスに仕えるためにアリティア城を訪れ
+クリスと共に第七小隊の一員となった。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Katarina02" offset="00" relocatable="true" max_length="0">
+			<original>落ち着いた性格で、仲間思い。
+しかし、人に言えぬ秘密を抱えている。</original>
+			<edited>落ち着いた性格で、仲間思い。
+しかし、人に言えぬ秘密を抱えている。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Katarina03" offset="00" relocatable="true" max_length="0">
+			<original>「新・紋章の謎」</original>
+			<edited>「新・紋章の謎」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Marich" offset="00" relocatable="true" max_length="0">
+			<original>マリク</original>
+			<edited>マリク</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Marich00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、
+「風の魔道士」と呼ばれる魔道の天才。</original>
+			<edited>異界の英雄で、
+「風の魔道士」と呼ばれる魔道の天才。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Marich01" offset="00" relocatable="true" max_length="0">
+			<original>魔道都市カダインに留学し、風の高位魔法
+「エクスカリバー」を継承した。</original>
+			<edited>魔道都市カダインに留学し、風の高位魔法
+「エクスカリバー」を継承した。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Marich02" offset="00" relocatable="true" max_length="0">
+			<original>アリティア王国の貴族の出身で
+マルス王子とは幼馴染の間柄。</original>
+			<edited>アリティア王国の貴族の出身で
+マルス王子とは幼馴染の間柄。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Marich03" offset="00" relocatable="true" max_length="0">
+			<original>「暗黒竜と光の剣」「紋章の謎」他</original>
+			<edited>「暗黒竜と光の剣」「紋章の謎」他</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Rinda" offset="00" relocatable="true" max_length="0">
+			<original>リンダ</original>
+			<edited>リンダ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Rinda00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、高い魔道の才を持つ少女。</original>
+			<edited>異界の英雄で、高い魔道の才を持つ少女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Rinda01" offset="00" relocatable="true" max_length="0">
+			<original>アカネイア王国の大司祭ミロアの娘で
+気の強い性格。</original>
+			<edited>アカネイア王国の大司祭ミロアの娘で
+気の強い性格。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Rinda02" offset="00" relocatable="true" max_length="0">
+			<original>亡き父から光の上級魔法「オーラ」を継承し
+その力で、仇敵ガーネフを討つべく戦う。</original>
+			<edited>亡き父から光の上級魔法「オーラ」を継承し
+その力で、仇敵ガーネフを討つべく戦う。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Rinda03" offset="00" relocatable="true" max_length="0">
+			<original>「暗黒竜と光の剣」「紋章の謎」他</original>
+			<edited>「暗黒竜と光の剣」「紋章の謎」他</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Kris" offset="00" relocatable="true" max_length="0">
+			<original>クリス</original>
+			<edited>クリス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Kris00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、マルスに仕える近衛騎士。</original>
+			<edited>異界の英雄で、マルスに仕える近衛騎士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Kris01" offset="00" relocatable="true" max_length="0">
+			<original>アリティア王国の出身で、
+第七小隊に配属され、騎士となった青年。</original>
+			<edited>アリティア王国の出身で、
+第七小隊に配属され、騎士となった青年。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Kris02" offset="00" relocatable="true" max_length="0">
+			<original>以後、マルスを護りながら各地を転戦し、
+彼を支え続けた影の英雄。</original>
+			<edited>以後、マルスを護りながら各地を転戦し、
+彼を支え続けた影の英雄。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Kris03" offset="00" relocatable="true" max_length="0">
+			<original>「新・紋章の謎」</original>
+			<edited>「新・紋章の謎」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Roro" offset="00" relocatable="true" max_length="0">
+			<original>ローロー</original>
+			<edited>ローロー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Roro00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、暗殺者集団の狂戦士。</original>
+			<edited>異界の英雄で、暗殺者集団の狂戦士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Roro01" offset="00" relocatable="true" max_length="0">
+			<original>常に怪しい仮面を被っており
+奇妙な笑い声をあげながら戦う。</original>
+			<edited>常に怪しい仮面を被っており
+奇妙な笑い声をあげながら戦う。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Roro02" offset="00" relocatable="true" max_length="0">
+			<original>まったく同じ姿の「兄弟」が多数おり
+力を合わせて対象を暗殺する。</original>
+			<edited>まったく同じ姿の「兄弟」が多数おり
+力を合わせて対象を暗殺する。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Roro03" offset="00" relocatable="true" max_length="0">
+			<original>「新・紋章の謎」</original>
+			<edited>「新・紋章の謎」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Siglud00" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸ユグドラルにある
+グランベル王国シアルフィ公爵家の公子。</original>
+			<edited>異界の大陸ユグドラルにある
+グランベル王国シアルフィ公爵家の公子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Siglud01" offset="00" relocatable="true" max_length="0">
+			<original>暗黒神ロプトウスを奉じる教団の陰謀により
+亡き人となるが、その意志を息子に託した。</original>
+			<edited>暗黒神ロプトウスを奉じる教団の陰謀により
+亡き人となるが、その意志を息子に託した。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Ira" offset="00" relocatable="true" max_length="0">
+			<original>アイラ</original>
+			<edited>アイラ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ira00" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸ユグドラルにある
+イザーク王国の王女。</original>
+			<edited>異界の大陸ユグドラルにある
+イザーク王国の王女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ira01" offset="00" relocatable="true" max_length="0">
+			<original>優れた剣の腕を持つ女性剣士で
+シグルドの仲間となり、共に戦った。</original>
+			<edited>優れた剣の腕を持つ女性剣士で
+シグルドの仲間となり、共に戦った。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ira02" offset="00" relocatable="true" max_length="0">
+			<original>剣聖と呼ばれた聖戦士オードの血を引き
+必殺の奥義「流星剣」を使いこなす。</original>
+			<edited>剣聖と呼ばれた聖戦士オードの血を引き
+必殺の奥義「流星剣」を使いこなす。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ira03" offset="00" relocatable="true" max_length="0">
+			<original>「聖戦の系譜」</original>
+			<edited>「聖戦の系譜」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Arden" offset="00" relocatable="true" max_length="0">
+			<original>アーダン</original>
+			<edited>アーダン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Arden00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、
+シグルドに仕える重装の騎士。</original>
+			<edited>異界の英雄で、
+シグルドに仕える重装の騎士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Arden01" offset="00" relocatable="true" max_length="0">
+			<original>シアルフィ公爵家の騎士団
+「グリューンリッター」に所属している。</original>
+			<edited>シアルフィ公爵家の騎士団
+「グリューンリッター」に所属している。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Arden02" offset="00" relocatable="true" max_length="0">
+			<original>頼りになるが、移動力に欠け、
+周囲に「固い、強い、おそい」と評される。</original>
+			<edited>頼りになるが、移動力に欠け、
+周囲に「固い、強い、おそい」と評される。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Arden03" offset="00" relocatable="true" max_length="0">
+			<original>「聖戦の系譜」</original>
+			<edited>「聖戦の系譜」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Celice" offset="00" relocatable="true" max_length="0">
+			<original>セリス</original>
+			<edited>セリス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Celice00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、
+「光の公子」と呼ばれた青年。</original>
+			<edited>異界の英雄で、
+「光の公子」と呼ばれた青年。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Celice01" offset="00" relocatable="true" max_length="0">
+			<original>シグルドとディアドラの息子で
+聖戦士バルドの血を引く。</original>
+			<edited>シグルドとディアドラの息子で
+聖戦士バルドの血を引く。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Celice02" offset="00" relocatable="true" max_length="0">
+			<original>反乱軍を率いてグランベル帝国と戦い
+ユグドラル大陸の救世主となる。</original>
+			<edited>反乱軍を率いてグランベル帝国と戦い
+ユグドラル大陸の救世主となる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Celice03" offset="00" relocatable="true" max_length="0">
+			<original>「聖戦の系譜」「トラキア776」</original>
+			<edited>「聖戦の系譜」「トラキア776」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Levn" offset="00" relocatable="true" max_length="0">
+			<original>レヴィン</original>
+			<edited>レヴィン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Levn00" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸ユグドラルにある
+シレジア王国の王子。</original>
+			<edited>異界の大陸ユグドラルにある
+シレジア王国の王子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Levn01" offset="00" relocatable="true" max_length="0">
+			<original>風使いセティの血を引く聖戦士の末裔で
+「風魔法 フォルセティ」を受け継ぐ。</original>
+			<edited>風使いセティの血を引く聖戦士の末裔で
+「風魔法 フォルセティ」を受け継ぐ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Levn02" offset="00" relocatable="true" max_length="0">
+			<original>シグルドと共に戦い、彼の死後は
+その息子セリスの戦いを見守った。</original>
+			<edited>シグルドと共に戦い、彼の死後は
+その息子セリスの戦いを見守った。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Levn03" offset="00" relocatable="true" max_length="0">
+			<original>「聖戦の系譜」「トラキア776」</original>
+			<edited>「聖戦の系譜」「トラキア776」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Rackesis" offset="00" relocatable="true" max_length="0">
+			<original>ラケシス</original>
+			<edited>ラケシス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Rackesis00" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸ユグドラルにある
+ノディオン王国の王女。</original>
+			<edited>異界の大陸ユグドラルにある
+ノディオン王国の王女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Rackesis01" offset="00" relocatable="true" max_length="0">
+			<original>獅子王エルトシャンの妹で
+美しく、気高き心を持つプリンセス。</original>
+			<edited>獅子王エルトシャンの妹で
+美しく、気高き心を持つプリンセス。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Rackesis02" offset="00" relocatable="true" max_length="0">
+			<original>兄に理想の男性像を見ており
+その仲の良さは領民の噂になるほど。</original>
+			<edited>兄に理想の男性像を見ており
+その仲の良さは領民の噂になるほど。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Rackesis03" offset="00" relocatable="true" max_length="0">
+			<original>「聖戦の系譜」</original>
+			<edited>「聖戦の系譜」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Cuan" offset="00" relocatable="true" max_length="0">
+			<original>キュアン</original>
+			<edited>キュアン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Cuan00" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸ユグドラルにある
+レンスター王国の王子。</original>
+			<edited>異界の大陸ユグドラルにある
+レンスター王国の王子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Cuan01" offset="00" relocatable="true" max_length="0">
+			<original>槍騎士ノヴァの血を引く聖戦士の末裔で
+「地槍 ゲイボルグ」を受け継ぐ。</original>
+			<edited>槍騎士ノヴァの血を引く聖戦士の末裔で
+「地槍 ゲイボルグ」を受け継ぐ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Cuan02" offset="00" relocatable="true" max_length="0">
+			<original>シグルドの士官学校時代からの友人で
+友情に篤く、正義の心を持つ人物。</original>
+			<edited>シグルドの士官学校時代からの友人で
+友情に篤く、正義の心を持つ人物。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Cuan03" offset="00" relocatable="true" max_length="0">
+			<original>「聖戦の系譜」</original>
+			<edited>「聖戦の系譜」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Diadora" offset="00" relocatable="true" max_length="0">
+			<original>ディアドラ</original>
+			<edited>ディアドラ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Diadora00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、精霊の森の巫女。</original>
+			<edited>異界の英雄で、精霊の森の巫女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Diadora01" offset="00" relocatable="true" max_length="0">
+			<original>人と交わることを禁じられていたが
+シグルド公子と出会い、その妻となった。</original>
+			<edited>人と交わることを禁じられていたが
+シグルド公子と出会い、その妻となった。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Diadora02" offset="00" relocatable="true" max_length="0">
+			<original>息子セリスを授かり、幸福に暮らしていたが
+暗黒教団に狙われ、悲劇の運命を迎える。</original>
+			<edited>息子セリスを授かり、幸福に暮らしていたが
+暗黒教団に狙われ、悲劇の運命を迎える。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Diadora03" offset="00" relocatable="true" max_length="0">
+			<original>「聖戦の系譜」</original>
+			<edited>「聖戦の系譜」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Ethlin" offset="00" relocatable="true" max_length="0">
+			<original>エスリン</original>
+			<edited>エスリン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ethlin00" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸ユグドラルにある
+グランベル王国シアルフィ公爵家の公女。</original>
+			<edited>異界の大陸ユグドラルにある
+グランベル王国シアルフィ公爵家の公女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ethlin01" offset="00" relocatable="true" max_length="0">
+			<original>シグルドの妹で、
+面倒見の良い、しっかり者の女性。</original>
+			<edited>シグルドの妹で、
+面倒見の良い、しっかり者の女性。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ethlin02" offset="00" relocatable="true" max_length="0">
+			<original>兄の親友キュアン王子の元に嫁ぎ
+アルテナとリーフの二児の母となる。</original>
+			<edited>兄の親友キュアン王子の元に嫁ぎ
+アルテナとリーフの二児の母となる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ethlin03" offset="00" relocatable="true" max_length="0">
+			<original>「聖戦の系譜」</original>
+			<edited>「聖戦の系譜」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Ferry" offset="00" relocatable="true" max_length="0">
+			<original>フュリー</original>
+			<edited>フュリー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ferry00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、
+シレジア王国に仕える天馬騎士。</original>
+			<edited>異界の英雄で、
+シレジア王国に仕える天馬騎士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ferry01" offset="00" relocatable="true" max_length="0">
+			<original>「四天馬騎士」と呼ばれる精鋭の一人で
+レヴィン王子を探して各地を駆け巡った。</original>
+			<edited>「四天馬騎士」と呼ばれる精鋭の一人で
+レヴィン王子を探して各地を駆け巡った。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ferry02" offset="00" relocatable="true" max_length="0">
+			<original>高い実力を持つが、とても真面目で
+騙されやすい一面も持つ。</original>
+			<edited>高い実力を持つが、とても真面目で
+騙されやすい一面も持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ferry03" offset="00" relocatable="true" max_length="0">
+			<original>「聖戦の系譜」</original>
+			<edited>「聖戦の系譜」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Azel" offset="00" relocatable="true" max_length="0">
+			<original>アゼル</original>
+			<edited>アゼル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Azel00" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸ユグドラルにある
+グランベル王国ヴェルトマー公爵家の公子。</original>
+			<edited>異界の大陸ユグドラルにある
+グランベル王国ヴェルトマー公爵家の公子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Azel01" offset="00" relocatable="true" max_length="0">
+			<original>魔法戦士ファラの血を引く聖戦士の末裔で
+炎魔法を得意とする心優しい青年。</original>
+			<edited>魔法戦士ファラの血を引く聖戦士の末裔で
+炎魔法を得意とする心優しい青年。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Azel02" offset="00" relocatable="true" max_length="0">
+			<original>想いを寄せる女性エーディンがさらわれ
+彼女を救けるために奮戦する。</original>
+			<edited>想いを寄せる女性エーディンがさらわれ
+彼女を救けるために奮戦する。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Azel03" offset="00" relocatable="true" max_length="0">
+			<original>「聖戦の系譜」</original>
+			<edited>「聖戦の系譜」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Celica00" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸バレンシアにある
+ソフィア王国の王族の生き残り。</original>
+			<edited>異界の大陸バレンシアにある
+ソフィア王国の王族の生き残り。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Celica01" offset="00" relocatable="true" max_length="0">
+			<original>世界に起きた異変の原因を求めて旅をし
+アルムと共に邪神ドーマと戦った。</original>
+			<edited>世界に起きた異変の原因を求めて旅をし
+アルムと共に邪神ドーマと戦った。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Alm" offset="00" relocatable="true" max_length="0">
+			<original>アルム</original>
+			<edited>アルム</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Alm00" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸バレンシアを救った英雄。</original>
+			<edited>異界の大陸バレンシアを救った英雄。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Alm01" offset="00" relocatable="true" max_length="0">
+			<original>正義の心に溢れた少年で
+左手に聖痕を持つ、予言されし勇者。</original>
+			<edited>正義の心に溢れた少年で
+左手に聖痕を持つ、予言されし勇者。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Alm02" offset="00" relocatable="true" max_length="0">
+			<original>セリカとは幼馴染で、旅の道中で再会し
+力を合わせて、邪神ドーマと戦った。</original>
+			<edited>セリカとは幼馴染で、旅の道中で再会し
+力を合わせて、邪神ドーマと戦った。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Alm03" offset="00" relocatable="true" max_length="0">
+			<original>「外伝」「Echoes」</original>
+			<edited>「外伝」「Echoes」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Deute" offset="00" relocatable="true" max_length="0">
+			<original>デューテ</original>
+			<edited>デューテ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Deute00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、明るい性格の魔道士。</original>
+			<edited>異界の英雄で、明るい性格の魔道士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Deute01" offset="00" relocatable="true" max_length="0">
+			<original>敵の妖術師に操られていたところを
+アルムに助けられ、仲間となった。</original>
+			<edited>敵の妖術師に操られていたところを
+アルムに助けられ、仲間となった。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Deute02" offset="00" relocatable="true" max_length="0">
+			<original>辺境の村の生まれだが、田舎を嫌がり
+都会的で素敵な人と恋をすることを夢見る。</original>
+			<edited>辺境の村の生まれだが、田舎を嫌がり
+都会的で素敵な人と恋をすることを夢見る。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Deute03" offset="00" relocatable="true" max_length="0">
+			<original>「外伝」「Echoes」</original>
+			<edited>「外伝」「Echoes」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Effie" offset="00" relocatable="true" max_length="0">
+			<original>エフィ</original>
+			<edited>エフィ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Effie00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、アルムを一途に思う少女。</original>
+			<edited>異界の英雄で、アルムを一途に思う少女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Effie01" offset="00" relocatable="true" max_length="0">
+			<original>アルムが育ったラムの村の娘で
+彼とは幼馴染の間柄。</original>
+			<edited>アルムが育ったラムの村の娘で
+彼とは幼馴染の間柄。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Effie02" offset="00" relocatable="true" max_length="0">
+			<original>幼い頃からアルムのことを慕っており
+いつか一緒に暮らしたいと願っている。</original>
+			<edited>幼い頃からアルムのことを慕っており
+いつか一緒に暮らしたいと願っている。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Effie03" offset="00" relocatable="true" max_length="0">
+			<original>「Echoes」</original>
+			<edited>「Echoes」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Genny" offset="00" relocatable="true" max_length="0">
+			<original>ジェニー</original>
+			<edited>ジェニー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Genny00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、おっとりとした修道女。</original>
+			<edited>異界の英雄で、おっとりとした修道女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Genny01" offset="00" relocatable="true" max_length="0">
+			<original>ノーヴァ島の修道院に仕えていたが
+セリカに同行し、共に旅をした。</original>
+			<edited>ノーヴァ島の修道院に仕えていたが
+セリカに同行し、共に旅をした。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Genny02" offset="00" relocatable="true" max_length="0">
+			<original>のんびり屋で、家で読書をしたり
+物語を書いたりすることを好む。</original>
+			<edited>のんびり屋で、家で読書をしたり
+物語を書いたりすることを好む。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Genny03" offset="00" relocatable="true" max_length="0">
+			<original>「外伝」「Echoes」</original>
+			<edited>「外伝」「Echoes」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Lukas" offset="00" relocatable="true" max_length="0">
+			<original>ルカ</original>
+			<edited>ルカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lukas00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、ソフィア解放軍の兵士。</original>
+			<edited>異界の英雄で、ソフィア解放軍の兵士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lukas01" offset="00" relocatable="true" max_length="0">
+			<original>物腰の穏やかな青年で
+アルムを解放軍へと導いた。</original>
+			<edited>物腰の穏やかな青年で
+アルムを解放軍へと導いた。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lukas02" offset="00" relocatable="true" max_length="0">
+			<original>貴族の出身だが、家柄に囚われず
+誰にでも礼儀正しく接する。</original>
+			<edited>貴族の出身だが、家柄に囚われず
+誰にでも礼儀正しく接する。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lukas03" offset="00" relocatable="true" max_length="0">
+			<original>「外伝」「Echoes」</original>
+			<edited>「外伝」「Echoes」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Conrad" offset="00" relocatable="true" max_length="0">
+			<original>コンラート</original>
+			<edited>コンラート</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Conrad00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、正体不明の仮面の騎士。</original>
+			<edited>異界の英雄で、正体不明の仮面の騎士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Conrad01" offset="00" relocatable="true" max_length="0">
+			<original>セリカが危機に陥った際に、
+幾度となく現れ、彼女を救済した。</original>
+			<edited>セリカが危機に陥った際に、
+幾度となく現れ、彼女を救済した。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Conrad02" offset="00" relocatable="true" max_length="0">
+			<original>白い仮面で顔を隠しており
+詳しい素性は謎に包まれている。</original>
+			<edited>白い仮面で顔を隠しており
+詳しい素性は謎に包まれている。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Conrad03" offset="00" relocatable="true" max_length="0">
+			<original>「Echoes」</original>
+			<edited>「Echoes」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Saber" offset="00" relocatable="true" max_length="0">
+			<original>セーバー</original>
+			<edited>セーバー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Saber00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、腕利きの傭兵。</original>
+			<edited>異界の英雄で、腕利きの傭兵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Saber01" offset="00" relocatable="true" max_length="0">
+			<original>海賊の出没する危険な海を渡るため
+護衛としてセリカに雇われた。</original>
+			<edited>海賊の出没する危険な海を渡るため
+護衛としてセリカに雇われた。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Saber02" offset="00" relocatable="true" max_length="0">
+			<original>金で動く無頼漢だが、気の良いところもあり
+若いセリカを諫めつつ、その旅を見守った。</original>
+			<edited>金で動く無頼漢だが、気の良いところもあり
+若いセリカを諫めつつ、その旅を見守った。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Saber03" offset="00" relocatable="true" max_length="0">
+			<original>「外伝」「Echoes」</original>
+			<edited>「外伝」「Echoes」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Silque" offset="00" relocatable="true" max_length="0">
+			<original>シルク</original>
+			<edited>シルク</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Silque00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、
+女神ミラに仕える敬虔なシスター。</original>
+			<edited>異界の英雄で、
+女神ミラに仕える敬虔なシスター。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Silque01" offset="00" relocatable="true" max_length="0">
+			<original>盗賊に捕まっていたところを助けられ、
+アルムの仲間に加わった。</original>
+			<edited>盗賊に捕まっていたところを助けられ、
+アルムの仲間に加わった。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Silque02" offset="00" relocatable="true" max_length="0">
+			<original>とても信心深く、苦しむ人たちを
+ミラの教えで救いたいと願っている。</original>
+			<edited>とても信心深く、苦しむ人たちを
+ミラの教えで救いたいと願っている。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Silque03" offset="00" relocatable="true" max_length="0">
+			<original>「外伝」「Echoes」</original>
+			<edited>「外伝」「Echoes」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Mae" offset="00" relocatable="true" max_length="0">
+			<original>メイ</original>
+			<edited>メイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Mae00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、元気な魔道士の少女。</original>
+			<edited>異界の英雄で、元気な魔道士の少女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Mae01" offset="00" relocatable="true" max_length="0">
+			<original>ノーヴァ島の修道院に仕えており
+ミラの神殿を目指すセリカの旅に同行した。</original>
+			<edited>ノーヴァ島の修道院に仕えており
+ミラの神殿を目指すセリカの旅に同行した。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Mae02" offset="00" relocatable="true" max_length="0">
+			<original>セリカを慕っており、時に従者のように、
+時に友人のように、彼女のことを支える。</original>
+			<edited>セリカを慕っており、時に従者のように、
+時に友人のように、彼女のことを支える。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Mae03" offset="00" relocatable="true" max_length="0">
+			<original>「外伝」「Echoes」</original>
+			<edited>「外伝」「Echoes」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Valbar" offset="00" relocatable="true" max_length="0">
+			<original>バルボ</original>
+			<edited>バルボ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Valbar00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、腕自慢の重装の戦士。</original>
+			<edited>異界の英雄で、腕自慢の重装の戦士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Valbar01" offset="00" relocatable="true" max_length="0">
+			<original>海賊に家族を殺された哀しい過去を持ち
+その仇討ちのために戦う。</original>
+			<edited>海賊に家族を殺された哀しい過去を持ち
+その仇討ちのために戦う。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Valbar02" offset="00" relocatable="true" max_length="0">
+			<original>豪放磊落な性格で面倒見がよく、
+仲間たちから慕われている。</original>
+			<edited>豪放磊落な性格で面倒見がよく、
+仲間たちから慕われている。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Valbar03" offset="00" relocatable="true" max_length="0">
+			<original>「外伝」「Echoes」</original>
+			<edited>「外伝」「Echoes」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Micaiah00" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸テリウスにある
+デイン王国の義賊集団「暁の団」の一員。</original>
+			<edited>異界の大陸テリウスにある
+デイン王国の義賊集団「暁の団」の一員。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Micaiah01" offset="00" relocatable="true" max_length="0">
+			<original>祖国を救いたいという願いを持ち
+人類を裁く女神アスタルテと戦った。</original>
+			<edited>祖国を救いたいという願いを持ち
+人類を裁く女神アスタルテと戦った。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Nephenee" offset="00" relocatable="true" max_length="0">
+			<original>ネフェニー</original>
+			<edited>ネフェニー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nephenee00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、クリミア王国の女性兵士。</original>
+			<edited>異界の英雄で、クリミア王国の女性兵士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nephenee01" offset="00" relocatable="true" max_length="0">
+			<original>地方の農村出身で、祖国を救うために
+義勇兵として戦争に参加した。</original>
+			<edited>地方の農村出身で、祖国を救うために
+義勇兵として戦争に参加した。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nephenee02" offset="00" relocatable="true" max_length="0">
+			<original>口数少なく、控えめな性格だが
+その胸中に強い愛国心を秘めている。</original>
+			<edited>口数少なく、控えめな性格だが
+その胸中に強い愛国心を秘めている。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nephenee03" offset="00" relocatable="true" max_length="0">
+			<original>「蒼炎の軌跡」「暁の女神」</original>
+			<edited>「蒼炎の軌跡」「暁の女神」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_BlackKnight" offset="00" relocatable="true" max_length="0">
+			<original>漆黒の騎士</original>
+			<edited>漆黒の騎士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_BlackKnight00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、デイン王国の最強の将。</original>
+			<edited>異界の英雄で、デイン王国の最強の将。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_BlackKnight01" offset="00" relocatable="true" max_length="0">
+			<original>「四駿」と呼ばれた精鋭の一人で
+全身を黒い甲冑に包み、無敵の強さを誇る。</original>
+			<edited>「四駿」と呼ばれた精鋭の一人で
+全身を黒い甲冑に包み、無敵の強さを誇る。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_BlackKnight02" offset="00" relocatable="true" max_length="0">
+			<original>傭兵団長グレイルを殺した人物で
+その息子アイクと死闘を繰り広げる。</original>
+			<edited>傭兵団長グレイルを殺した人物で
+その息子アイクと死闘を繰り広げる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_BlackKnight03" offset="00" relocatable="true" max_length="0">
+			<original>「蒼炎の軌跡」「暁の女神」</original>
+			<edited>「蒼炎の軌跡」「暁の女神」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Sothe" offset="00" relocatable="true" max_length="0">
+			<original>サザ</original>
+			<edited>サザ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sothe00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、ミカヤの義理の弟。</original>
+			<edited>異界の英雄で、ミカヤの義理の弟。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sothe01" offset="00" relocatable="true" max_length="0">
+			<original>義賊集団「暁の団」の一員で
+帝国の圧政から人々を救うべく活動する。</original>
+			<edited>義賊集団「暁の団」の一員で
+帝国の圧政から人々を救うべく活動する。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sothe02" offset="00" relocatable="true" max_length="0">
+			<original>ミカヤと血のつながりはないが、共に育ち
+義弟として、彼女を誰より大切に想う。</original>
+			<edited>ミカヤと血のつながりはないが、共に育ち
+義弟として、彼女を誰より大切に想う。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sothe03" offset="00" relocatable="true" max_length="0">
+			<original>「蒼炎の軌跡」「暁の女神」</original>
+			<edited>「蒼炎の軌跡」「暁の女神」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Erincia" offset="00" relocatable="true" max_length="0">
+			<original>エリンシア</original>
+			<edited>エリンシア</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Erincia00" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸テリウスにある
+クリミア王国の女王。</original>
+			<edited>異界の大陸テリウスにある
+クリミア王国の女王。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Erincia01" offset="00" relocatable="true" max_length="0">
+			<original>清らかな心を持つ女性で、
+祖国を愛し、民から慕われている。</original>
+			<edited>清らかな心を持つ女性で、
+祖国を愛し、民から慕われている。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Erincia02" offset="00" relocatable="true" max_length="0">
+			<original>戦場で武器を捨て、停戦を訴えるなど
+争いを好まない、強い信念を持つ人物。</original>
+			<edited>戦場で武器を捨て、停戦を訴えるなど
+争いを好まない、強い信念を持つ人物。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Erincia03" offset="00" relocatable="true" max_length="0">
+			<original>「蒼炎の軌跡」「暁の女神」</original>
+			<edited>「蒼炎の軌跡」「暁の女神」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Tibarn" offset="00" relocatable="true" max_length="0">
+			<original>ティバーン</original>
+			<edited>ティバーン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Tibarn00" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸テリウスにある
+フェニキス王国の王。</original>
+			<edited>異界の大陸テリウスにある
+フェニキス王国の王。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Tibarn01" offset="00" relocatable="true" max_length="0">
+			<original>肉体を化身させて戦う「ラグズ」の一人で
+鳥翼族の、鷹に化身する民の指導者。</original>
+			<edited>肉体を化身させて戦う「ラグズ」の一人で
+鳥翼族の、鷹に化身する民の指導者。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Tibarn02" offset="00" relocatable="true" max_length="0">
+			<original>その剛腕と人望で仲間たちをまとめ
+「鷹王」と称される。</original>
+			<edited>その剛腕と人望で仲間たちをまとめ
+「鷹王」と称される。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Tibarn03" offset="00" relocatable="true" max_length="0">
+			<original>「蒼炎の軌跡」「暁の女神」</original>
+			<edited>「蒼炎の軌跡」「暁の女神」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Sanaki" offset="00" relocatable="true" max_length="0">
+			<original>サナキ</original>
+			<edited>サナキ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sanaki00" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸テリウスにある
+ベグニオン帝国の指導者。</original>
+			<edited>異界の大陸テリウスにある
+ベグニオン帝国の指導者。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sanaki01" offset="00" relocatable="true" max_length="0">
+			<original>第37代皇帝にして
+女神の声を聞く「神使」を務める。</original>
+			<edited>第37代皇帝にして
+女神の声を聞く「神使」を務める。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sanaki02" offset="00" relocatable="true" max_length="0">
+			<original>幼いが、強い意志と高潔な心を持ち
+大国を立派に治める人物。</original>
+			<edited>幼いが、強い意志と高潔な心を持ち
+大国を立派に治める人物。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sanaki03" offset="00" relocatable="true" max_length="0">
+			<original>「蒼炎の軌跡」「暁の女神」</original>
+			<edited>「蒼炎の軌跡」「暁の女神」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Nike" offset="00" relocatable="true" max_length="0">
+			<original>ニケ</original>
+			<edited>ニケ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nike00" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸テリウスにある
+ハタリ王国の女王。</original>
+			<edited>異界の大陸テリウスにある
+ハタリ王国の女王。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nike01" offset="00" relocatable="true" max_length="0">
+			<original>巨大な狼に化身するラグズで
+見た者を石化する「邪眼」の持ち主。</original>
+			<edited>巨大な狼に化身するラグズで
+見た者を石化する「邪眼」の持ち主。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nike02" offset="00" relocatable="true" max_length="0">
+			<original>砂漠で行き倒れていたセリノス王国の王子
+ラフィエルと出会い、その伴侶となった。</original>
+			<edited>砂漠で行き倒れていたセリノス王国の王子
+ラフィエルと出会い、その伴侶となった。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nike03" offset="00" relocatable="true" max_length="0">
+			<original>「暁の女神」</original>
+			<edited>「暁の女神」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Naesala" offset="00" relocatable="true" max_length="0">
+			<original>ネサラ</original>
+			<edited>ネサラ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Naesala00" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸テリウスにある
+キルヴァス王国の王。</original>
+			<edited>異界の大陸テリウスにある
+キルヴァス王国の王。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Naesala01" offset="00" relocatable="true" max_length="0">
+			<original>肉体を化身させて戦う「ラグズ」の一人で
+鳥翼族の、鴉に化身する民の指導者。</original>
+			<edited>肉体を化身させて戦う「ラグズ」の一人で
+鳥翼族の、鴉に化身する民の指導者。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Naesala02" offset="00" relocatable="true" max_length="0">
+			<original>計算高く狡猾な人物で、自国の利益の
+ことを第一に考えて行動する。</original>
+			<edited>計算高く狡猾な人物で、自国の利益の
+ことを第一に考えて行動する。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Naesala03" offset="00" relocatable="true" max_length="0">
+			<original>「蒼炎の軌跡」「暁の女神」</original>
+			<edited>「蒼炎の軌跡」「暁の女神」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Caineghis" offset="00" relocatable="true" max_length="0">
+			<original>カイネギス</original>
+			<edited>カイネギス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Caineghis00" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸テリウスにある
+ガリア王国の王。</original>
+			<edited>異界の大陸テリウスにある
+ガリア王国の王。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Caineghis01" offset="00" relocatable="true" max_length="0">
+			<original>肉体を化身させて戦う「ラグズ」の一人で
+虎や猫などに化身する「獣牙族」の指導者。</original>
+			<edited>肉体を化身させて戦う「ラグズ」の一人で
+虎や猫などに化身する「獣牙族」の指導者。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Caineghis02" offset="00" relocatable="true" max_length="0">
+			<original>武勇に優れ、同時に思慮深い人物で
+ベオクとラグズの友好を願い、尽力する。</original>
+			<edited>武勇に優れ、同時に思慮深い人物で
+ベオクとラグズの友好を願い、尽力する。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Caineghis03" offset="00" relocatable="true" max_length="0">
+			<original>「蒼炎の軌跡」「暁の女神」</original>
+			<edited>「蒼炎の軌跡」「暁の女神」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Learne" offset="00" relocatable="true" max_length="0">
+			<original>リアーネ</original>
+			<edited>リアーネ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Learne00" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸テリウスにある
+セリノス王国の王女。</original>
+			<edited>異界の大陸テリウスにある
+セリノス王国の王女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Learne01" offset="00" relocatable="true" max_length="0">
+			<original>祖国は暴徒に襲われ滅ぼされてしまうが
+奇跡的にその難を逃れた、生き残りの一人。</original>
+			<edited>祖国は暴徒に襲われ滅ぼされてしまうが
+奇跡的にその難を逃れた、生き残りの一人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Learne02" offset="00" relocatable="true" max_length="0">
+			<original>清らかで、純粋無垢な心の持ち主であり
+呪歌で仲間の疲れを癒やすことができる。</original>
+			<edited>清らかで、純粋無垢な心の持ち主であり
+呪歌で仲間の疲れを癒やすことができる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Learne03" offset="00" relocatable="true" max_length="0">
+			<original>「蒼炎の軌跡」「暁の女神」</original>
+			<edited>「蒼炎の軌跡」「暁の女神」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Roy00" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸エレブにある
+リキア地方フェレ侯爵家の公子。</original>
+			<edited>異界の大陸エレブにある
+リキア地方フェレ侯爵家の公子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Roy01" offset="00" relocatable="true" max_length="0">
+			<original>他国を侵略するベルン王国に立ち向かい
+彼らが復活させた魔竜イドゥンと戦った。</original>
+			<edited>他国を侵略するベルン王国に立ち向かい
+彼らが復活させた魔竜イドゥンと戦った。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Lilina" offset="00" relocatable="true" max_length="0">
+			<original>リリーナ</original>
+			<edited>リリーナ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lilina00" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸エレブにある
+リキア地方オスティア侯爵家の公女。</original>
+			<edited>異界の大陸エレブにある
+リキア地方オスティア侯爵家の公女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lilina01" offset="00" relocatable="true" max_length="0">
+			<original>優れた魔道の才を持つ少女で
+ロイとは幼馴染の間柄。</original>
+			<edited>優れた魔道の才を持つ少女で
+ロイとは幼馴染の間柄。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lilina02" offset="00" relocatable="true" max_length="0">
+			<original>勇猛で名高いヘクトルの娘であり
+可憐さと、強い心をあわせ持つ。</original>
+			<edited>勇猛で名高いヘクトルの娘であり
+可憐さと、強い心をあわせ持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lilina03" offset="00" relocatable="true" max_length="0">
+			<original>「封印の剣」「烈火の剣」</original>
+			<edited>「封印の剣」「烈火の剣」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Sofiya" offset="00" relocatable="true" max_length="0">
+			<original>ソフィーヤ</original>
+			<edited>ソフィーヤ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sofiya00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、
+神秘的な雰囲気を持つシャーマン。</original>
+			<edited>異界の英雄で、
+神秘的な雰囲気を持つシャーマン。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sofiya01" offset="00" relocatable="true" max_length="0">
+			<original>未来の出来事を予言するなど
+常人には無い不思議な力を持つ。</original>
+			<edited>未来の出来事を予言するなど
+常人には無い不思議な力を持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sofiya02" offset="00" relocatable="true" max_length="0">
+			<original>竜と人が暮らす「ナバタの里」の住人で、
+隠されていたその地へと、ロイを導いた。</original>
+			<edited>竜と人が暮らす「ナバタの里」の住人で、
+隠されていたその地へと、ロイを導いた。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sofiya03" offset="00" relocatable="true" max_length="0">
+			<original>「封印の剣」「烈火の剣」</original>
+			<edited>「封印の剣」「烈火の剣」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Rutger" offset="00" relocatable="true" max_length="0">
+			<original>ルトガー</original>
+			<edited>ルトガー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Rutger00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、寡黙な孤高の剣士。</original>
+			<edited>異界の英雄で、寡黙な孤高の剣士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Rutger01" offset="00" relocatable="true" max_length="0">
+			<original>自分の部族をベルン王国に滅ぼされ
+その仇討ちのために戦っていた青年。</original>
+			<edited>自分の部族をベルン王国に滅ぼされ
+その仇討ちのために戦っていた青年。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Rutger02" offset="00" relocatable="true" max_length="0">
+			<original>当初はロイの敵に雇われていたが
+ロイがベルンと戦っていると知り、寝返る。</original>
+			<edited>当初はロイの敵に雇われていたが
+ロイがベルンと戦っていると知り、寝返る。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Rutger03" offset="00" relocatable="true" max_length="0">
+			<original>「封印の剣」</original>
+			<edited>「封印の剣」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Fir" offset="00" relocatable="true" max_length="0">
+			<original>フィル</original>
+			<edited>フィル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Fir00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、剣の道に生きる少女。</original>
+			<edited>異界の英雄で、剣の道に生きる少女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Fir01" offset="00" relocatable="true" max_length="0">
+			<original>「剣姫」と呼ばれた女性剣士カアラの娘で
+母に憧れ、武者修行の旅を続けていた。</original>
+			<edited>「剣姫」と呼ばれた女性剣士カアラの娘で
+母に憧れ、武者修行の旅を続けていた。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Fir02" offset="00" relocatable="true" max_length="0">
+			<original>真面目で努力家だが、人を信じやすく
+騙されて海賊の手先になったことも。</original>
+			<edited>真面目で努力家だが、人を信じやすく
+騙されて海賊の手先になったことも。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Fir03" offset="00" relocatable="true" max_length="0">
+			<original>「封印の剣」</original>
+			<edited>「封印の剣」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Fa" offset="00" relocatable="true" max_length="0">
+			<original>ファ</original>
+			<edited>ファ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Fa00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、神竜族の生き残り。</original>
+			<edited>異界の英雄で、神竜族の生き残り。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Fa01" offset="00" relocatable="true" max_length="0">
+			<original>「マムクート」の一人で、人目を避け
+ナバタの隠れ里に住んでいた。</original>
+			<edited>「マムクート」の一人で、人目を避け
+ナバタの隠れ里に住んでいた。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Fa02" offset="00" relocatable="true" max_length="0">
+			<original>見た目は天真爛漫な幼い子供だが
+実際の年齢は数百歳を超える。</original>
+			<edited>見た目は天真爛漫な幼い子供だが
+実際の年齢は数百歳を超える。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Fa03" offset="00" relocatable="true" max_length="0">
+			<original>「封印の剣」「烈火の剣」</original>
+			<edited>「封印の剣」「烈火の剣」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Dieck" offset="00" relocatable="true" max_length="0">
+			<original>ディーク</original>
+			<edited>ディーク</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Dieck00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、フェレ侯爵家に雇われた傭兵。</original>
+			<edited>異界の英雄で、フェレ侯爵家に雇われた傭兵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Dieck01" offset="00" relocatable="true" max_length="0">
+			<original>傭兵団の団長を務め、
+仲間から篤い信頼を集める人物。</original>
+			<edited>傭兵団の団長を務め、
+仲間から篤い信頼を集める人物。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Dieck02" offset="00" relocatable="true" max_length="0">
+			<original>かつては剣闘士をしており、
+闘技場でその勇名を馳せた。</original>
+			<edited>かつては剣闘士をしており、
+闘技場でその勇名を馳せた。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Dieck03" offset="00" relocatable="true" max_length="0">
+			<original>「封印の剣」</original>
+			<edited>「封印の剣」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Lugh" offset="00" relocatable="true" max_length="0">
+			<original>ルゥ</original>
+			<edited>ルゥ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lugh00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、真っ直ぐな心を持つ少年。</original>
+			<edited>異界の英雄で、真っ直ぐな心を持つ少年。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lugh01" offset="00" relocatable="true" max_length="0">
+			<original>孤児院で育った双子の兄弟の兄で
+理魔法を得意とする魔道士。</original>
+			<edited>孤児院で育った双子の兄弟の兄で
+理魔法を得意とする魔道士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lugh02" offset="00" relocatable="true" max_length="0">
+			<original>優しい性格だが、大切な人を守るため
+戦うことを決意する。</original>
+			<edited>優しい性格だが、大切な人を守るため
+戦うことを決意する。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lugh03" offset="00" relocatable="true" max_length="0">
+			<original>「封印の剣」</original>
+			<edited>「封印の剣」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Wolt" offset="00" relocatable="true" max_length="0">
+			<original>ウォルト</original>
+			<edited>ウォルト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Wolt00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、ロイに仕える弓兵。</original>
+			<edited>異界の英雄で、ロイに仕える弓兵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Wolt01" offset="00" relocatable="true" max_length="0">
+			<original>明るく努力家の少年で、ロイの家臣として
+より相応しい人間になるべく尽力する。</original>
+			<edited>明るく努力家の少年で、ロイの家臣として
+より相応しい人間になるべく尽力する。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Wolt02" offset="00" relocatable="true" max_length="0">
+			<original>母親がロイの乳母で
+ロイとは乳兄弟にあたる。</original>
+			<edited>母親がロイの乳母で
+ロイとは乳兄弟にあたる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Wolt03" offset="00" relocatable="true" max_length="0">
+			<original>「封印の剣」</original>
+			<edited>「封印の剣」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Lleu" offset="00" relocatable="true" max_length="0">
+			<original>レイ</original>
+			<edited>レイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lleu00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、大人びた性格の少年。</original>
+			<edited>異界の英雄で、大人びた性格の少年。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lleu01" offset="00" relocatable="true" max_length="0">
+			<original>孤児院で育った双子の兄弟の弟で
+闇魔法を得意とするシャーマン。</original>
+			<edited>孤児院で育った双子の兄弟の弟で
+闇魔法を得意とするシャーマン。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lleu02" offset="00" relocatable="true" max_length="0">
+			<original>憎まれ口ばかり叩くが、実は家族想いで
+院長先生の仇討ちのために戦う。</original>
+			<edited>憎まれ口ばかり叩くが、実は家族想いで
+院長先生の仇討ちのために戦う。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lleu03" offset="00" relocatable="true" max_length="0">
+			<original>「封印の剣」</original>
+			<edited>「封印の剣」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Cecilia" offset="00" relocatable="true" max_length="0">
+			<original>セシリア</original>
+			<edited>セシリア</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Cecilia00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、エトルリア王国の将軍。</original>
+			<edited>異界の英雄で、エトルリア王国の将軍。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Cecilia01" offset="00" relocatable="true" max_length="0">
+			<original>「三軍将」と呼ばれる、秀でた将の一人で
+魔道士たちを統べる「魔道軍将」。</original>
+			<edited>「三軍将」と呼ばれる、秀でた将の一人で
+魔道士たちを統べる「魔道軍将」。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Cecilia02" offset="00" relocatable="true" max_length="0">
+			<original>才知に長けた聡明な女性であり
+ロイに戦い方を教えた師匠にあたる。</original>
+			<edited>才知に長けた聡明な女性であり
+ロイに戦い方を教えた師匠にあたる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Cecilia03" offset="00" relocatable="true" max_length="0">
+			<original>「封印の剣」</original>
+			<edited>「封印の剣」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Leaf00" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸ユグドラルにある
+トラキア半島のレンスター王国の王子。</original>
+			<edited>異界の大陸ユグドラルにある
+トラキア半島のレンスター王国の王子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Leaf01" offset="00" relocatable="true" max_length="0">
+			<original>半島を支配する帝国軍に立ち向かい、
+彼らを裏で操る暗黒の司教ベルドと戦った。</original>
+			<edited>半島を支配する帝国軍に立ち向かい、
+彼らを裏で操る暗黒の司教ベルドと戦った。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Fin" offset="00" relocatable="true" max_length="0">
+			<original>フィン</original>
+			<edited>フィン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Fin00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、リーフに仕える騎士。</original>
+			<edited>異界の英雄で、リーフに仕える騎士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Fin01" offset="00" relocatable="true" max_length="0">
+			<original>キュアンとリーフ、二代の王子を支えた
+レンスター王国の忠臣。</original>
+			<edited>キュアンとリーフ、二代の王子を支えた
+レンスター王国の忠臣。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Fin02" offset="00" relocatable="true" max_length="0">
+			<original>レンスター城が陥落した際にリーフを
+連れて脱出し、大切に護り育てた人物。</original>
+			<edited>レンスター城が陥落した際にリーフを
+連れて脱出し、大切に護り育てた人物。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Fin03" offset="00" relocatable="true" max_length="0">
+			<original>「聖戦の系譜」「トラキア776」</original>
+			<edited>「聖戦の系譜」「トラキア776」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Olwen" offset="00" relocatable="true" max_length="0">
+			<original>オルエン</original>
+			<edited>オルエン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Olwen00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、
+真面目な性格の魔法騎士。</original>
+			<edited>異界の英雄で、
+真面目な性格の魔法騎士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Olwen01" offset="00" relocatable="true" max_length="0">
+			<original>フリージ家に仕える軍人であり
+名将ラインハルトを兄に持つ。</original>
+			<edited>フリージ家に仕える軍人であり
+名将ラインハルトを兄に持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Olwen02" offset="00" relocatable="true" max_length="0">
+			<original>自軍が非道な行いをしていたことを知り
+袂を分かつなど、誠実で実直な人物。</original>
+			<edited>自軍が非道な行いをしていたことを知り
+袂を分かつなど、誠実で実直な人物。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Olwen03" offset="00" relocatable="true" max_length="0">
+			<original>「トラキア776」</original>
+			<edited>「トラキア776」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Mareeta" offset="00" relocatable="true" max_length="0">
+			<original>マリータ</original>
+			<edited>マリータ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Mareeta00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、フィアナ義勇軍の剣士。</original>
+			<edited>異界の英雄で、フィアナ義勇軍の剣士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Mareeta01" offset="00" relocatable="true" max_length="0">
+			<original>義勇軍のリーダーであるエーヴェルの養女で
+剣の腕の立つ、勝ち気な性格の少女。</original>
+			<edited>義勇軍のリーダーであるエーヴェルの養女で
+剣の腕の立つ、勝ち気な性格の少女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Mareeta02" offset="00" relocatable="true" max_length="0">
+			<original>剣聖オードの血を引き、必殺の奥義
+「月光剣」と「流星剣」を使いこなす。</original>
+			<edited>剣聖オードの血を引き、必殺の奥義
+「月光剣」と「流星剣」を使いこなす。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Mareeta03" offset="00" relocatable="true" max_length="0">
+			<original>「トラキア776」</original>
+			<edited>「トラキア776」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Nanna" offset="00" relocatable="true" max_length="0">
+			<original>ナンナ</original>
+			<edited>ナンナ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nanna00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、ラケシス王女の娘。</original>
+			<edited>異界の英雄で、ラケシス王女の娘。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nanna01" offset="00" relocatable="true" max_length="0">
+			<original>レンスターの騎士フィンの下で
+リーフと一緒に育った。</original>
+			<edited>レンスターの騎士フィンの下で
+リーフと一緒に育った。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nanna02" offset="00" relocatable="true" max_length="0">
+			<original>母譲りの美しさと気高さを持ち
+仲間と共にトラキア解放の戦いに挑んだ。</original>
+			<edited>母譲りの美しさと気高さを持ち
+仲間と共にトラキア解放の戦いに挑んだ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nanna03" offset="00" relocatable="true" max_length="0">
+			<original>「聖戦の系譜」「トラキア776」</original>
+			<edited>「聖戦の系譜」「トラキア776」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Sety" offset="00" relocatable="true" max_length="0">
+			<original>セティ</original>
+			<edited>セティ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sety00" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸ユグドラルにある
+シレジア王国の王子。</original>
+			<edited>異界の大陸ユグドラルにある
+シレジア王国の王子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sety01" offset="00" relocatable="true" max_length="0">
+			<original>レヴィンの息子で、聖戦士の血を引き、
+「風魔法 フォルセティ」を継承する。</original>
+			<edited>レヴィンの息子で、聖戦士の血を引き、
+「風魔法 フォルセティ」を継承する。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sety02" offset="00" relocatable="true" max_length="0">
+			<original>人々を救うために、反帝国組織「マギ団」を
+結成し、人々から「勇者」と称された。</original>
+			<edited>人々を救うために、反帝国組織「マギ団」を
+結成し、人々から「勇者」と称された。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sety03" offset="00" relocatable="true" max_length="0">
+			<original>「聖戦の系譜」「トラキア776」</original>
+			<edited>「聖戦の系譜」「トラキア776」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Sara" offset="00" relocatable="true" max_length="0">
+			<original>サラ</original>
+			<edited>サラ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sara00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、
+不思議な力を持つシスター。</original>
+			<edited>異界の英雄で、
+不思議な力を持つシスター。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sara01" offset="00" relocatable="true" max_length="0">
+			<original>リーフに呼ばれていると感じ
+彼のことを助けるために仲間となった。</original>
+			<edited>リーフに呼ばれていると感じ
+彼のことを助けるために仲間となった。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sara02" offset="00" relocatable="true" max_length="0">
+			<original>ロプト教団の大司教マンフロイの孫娘だが
+祖父のことを嫌っている。</original>
+			<edited>ロプト教団の大司教マンフロイの孫娘だが
+祖父のことを嫌っている。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sara03" offset="00" relocatable="true" max_length="0">
+			<original>「トラキア776」</original>
+			<edited>「トラキア776」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Asvel" offset="00" relocatable="true" max_length="0">
+			<original>アスベル</original>
+			<edited>アスベル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Asvel00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、
+風の魔法を得意とする魔道士。</original>
+			<edited>異界の英雄で、
+風の魔法を得意とする魔道士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Asvel01" offset="00" relocatable="true" max_length="0">
+			<original>マギ団のリーダーであるセティの弟子で
+彼から様々なことを学んだ。</original>
+			<edited>マギ団のリーダーであるセティの弟子で
+彼から様々なことを学んだ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Asvel02" offset="00" relocatable="true" max_length="0">
+			<original>リーフ王子とは幼い日に出会い
+「トラキアを取り戻そう」と誓った間柄。</original>
+			<edited>リーフ王子とは幼い日に出会い
+「トラキアを取り戻そう」と誓った間柄。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Asvel03" offset="00" relocatable="true" max_length="0">
+			<original>「トラキア776」</original>
+			<edited>「トラキア776」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Othin" offset="00" relocatable="true" max_length="0">
+			<original>オーシン</original>
+			<edited>オーシン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Othin00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、フィアナ義勇軍の斧戦士。</original>
+			<edited>異界の英雄で、フィアナ義勇軍の斧戦士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Othin01" offset="00" relocatable="true" max_length="0">
+			<original>血気盛んな腕自慢の青年で
+投げ斧「プージ」を愛用している。</original>
+			<edited>血気盛んな腕自慢の青年で
+投げ斧「プージ」を愛用している。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Othin02" offset="00" relocatable="true" max_length="0">
+			<original>喧嘩っ早く、思慮が浅いところがあるが
+明るい性格で、軍のムードメーカー的存在。</original>
+			<edited>喧嘩っ早く、思慮が浅いところがあるが
+明るい性格で、軍のムードメーカー的存在。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Othin03" offset="00" relocatable="true" max_length="0">
+			<original>「トラキア776」</original>
+			<edited>「トラキア776」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Shiva" offset="00" relocatable="true" max_length="0">
+			<original>シヴァ</original>
+			<edited>シヴァ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Shiva00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、流れ者の剣士。</original>
+			<edited>異界の英雄で、流れ者の剣士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Shiva01" offset="00" relocatable="true" max_length="0">
+			<original>黒衣に身を包んだ、剣の達人で
+必殺剣「キルソード」を操る。</original>
+			<edited>黒衣に身を包んだ、剣の達人で
+必殺剣「キルソード」を操る。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Shiva02" offset="00" relocatable="true" max_length="0">
+			<original>非情だが、全くの冷血漢ではなく
+自らの命を粗末にする人間を嫌う。</original>
+			<edited>非情だが、全くの冷血漢ではなく
+自らの命を粗末にする人間を嫌う。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Shiva03" offset="00" relocatable="true" max_length="0">
+			<original>「トラキア776」</original>
+			<edited>「トラキア776」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Linoan" offset="00" relocatable="true" max_length="0">
+			<original>リノアン</original>
+			<edited>リノアン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Linoan00" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸ユグドラルにある
+トラキア半島のターラ公爵家の公女。</original>
+			<edited>異界の大陸ユグドラルにある
+トラキア半島のターラ公爵家の公女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Linoan01" offset="00" relocatable="true" max_length="0">
+			<original>亡き父に代わり、城塞都市ターラの
+市長を務める、優しく聡明な女性。</original>
+			<edited>亡き父に代わり、城塞都市ターラの
+市長を務める、優しく聡明な女性。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Linoan02" offset="00" relocatable="true" max_length="0">
+			<original>聖戦士の一人聖者ヘイムの血を引く人物で
+帝国の圧政に抵抗し、リーフと共に戦った。</original>
+			<edited>聖戦士の一人聖者ヘイムの血を引く人物で
+帝国の圧政に抵抗し、リーフと共に戦った。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Linoan03" offset="00" relocatable="true" max_length="0">
+			<original>「トラキア776」</original>
+			<edited>「トラキア776」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Lucina00" offset="00" relocatable="true" max_length="0">
+			<original>異界の国、イーリス聖王国の王子クロムの娘で
+未来の時代からやってきた。</original>
+			<edited>異界の国、イーリス聖王国の王子クロムの娘で
+未来の時代からやってきた。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Lucina01" offset="00" relocatable="true" max_length="0">
+			<original>未来の世界は邪竜ギムレーに滅ぼされており
+時を遡り、その運命を変えるべく戦った。</original>
+			<edited>未来の世界は邪竜ギムレーに滅ぼされており
+時を遡り、その運命を変えるべく戦った。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Sallya" offset="00" relocatable="true" max_length="0">
+			<original>サーリャ</original>
+			<edited>サーリャ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sallya00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、ペレジア王国の呪術師。</original>
+			<edited>異界の英雄で、ペレジア王国の呪術師。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sallya01" offset="00" relocatable="true" max_length="0">
+			<original>陰湿かつ、嫉妬深い性格の少女で
+よく一人で怪しいまじないをしている。</original>
+			<edited>陰湿かつ、嫉妬深い性格の少女で
+よく一人で怪しいまじないをしている。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sallya02" offset="00" relocatable="true" max_length="0">
+			<original>ルフレを気に入り、強い執着を見せる。
+軍の中で一番、スタイルが良い。</original>
+			<edited>ルフレを気に入り、強い執着を見せる。
+軍の中で一番、スタイルが良い。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sallya03" offset="00" relocatable="true" max_length="0">
+			<original>「覚醒」</original>
+			<edited>「覚醒」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Chrom" offset="00" relocatable="true" max_length="0">
+			<original>クロム</original>
+			<edited>クロム</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Chrom00" offset="00" relocatable="true" max_length="0">
+			<original>異界の国、イーリス聖王国の王子。</original>
+			<edited>異界の国、イーリス聖王国の王子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Chrom01" offset="00" relocatable="true" max_length="0">
+			<original>英雄王の末裔で、自警団を組織し
+国の安全を守るために活動をしていた。</original>
+			<edited>英雄王の末裔で、自警団を組織し
+国の安全を守るために活動をしていた。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Chrom02" offset="00" relocatable="true" max_length="0">
+			<original>軍師のルフレや、娘のルキナたちと共に
+世界の破滅を目論む邪竜ギムレーと戦った。</original>
+			<edited>軍師のルフレや、娘のルキナたちと共に
+世界の破滅を目論む邪竜ギムレーと戦った。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Chrom03" offset="00" relocatable="true" max_length="0">
+			<original>「覚醒」</original>
+			<edited>「覚醒」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Tiamo" offset="00" relocatable="true" max_length="0">
+			<original>ティアモ</original>
+			<edited>ティアモ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Tiamo00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、イーリス聖王国の天馬騎士。</original>
+			<edited>異界の英雄で、イーリス聖王国の天馬騎士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Tiamo01" offset="00" relocatable="true" max_length="0">
+			<original>誰もが認める美貌の持ち主で
+何事もそつなくこなす天才肌の少女。</original>
+			<edited>誰もが認める美貌の持ち主で
+何事もそつなくこなす天才肌の少女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Tiamo02" offset="00" relocatable="true" max_length="0">
+			<original>クロム王子に叶わぬ想いを抱いており
+軍の中で一番、ため息が多い。</original>
+			<edited>クロム王子に叶わぬ想いを抱いており
+軍の中で一番、ため息が多い。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Tiamo03" offset="00" relocatable="true" max_length="0">
+			<original>「覚醒」</original>
+			<edited>「覚醒」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Marc" offset="00" relocatable="true" max_length="0">
+			<original>マーク</original>
+			<edited>マーク</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Marc00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、ルフレの子。</original>
+			<edited>異界の英雄で、ルフレの子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Marc01" offset="00" relocatable="true" max_length="0">
+			<original>未来からやってきた子供たちの一人。
+ルフレの様な軍師になることを夢見ている。</original>
+			<edited>未来からやってきた子供たちの一人。
+ルフレの様な軍師になることを夢見ている。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Marc02" offset="00" relocatable="true" max_length="0">
+			<original>記憶喪失だが、元気で明るく振る舞う。
+軍の中で一番、行動が自由。</original>
+			<edited>記憶喪失だが、元気で明るく振る舞う。
+軍の中で一番、行動が自由。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Marc03" offset="00" relocatable="true" max_length="0">
+			<original>「覚醒」</original>
+			<edited>「覚醒」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Nono" offset="00" relocatable="true" max_length="0">
+			<original>ノノ</original>
+			<edited>ノノ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nono00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、無邪気な竜の幼子。</original>
+			<edited>異界の英雄で、無邪気な竜の幼子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nono01" offset="00" relocatable="true" max_length="0">
+			<original>人に姿を変えた竜「マムクート」の一人。
+見た目は幼いが、年齢は千歳以上。</original>
+			<edited>人に姿を変えた竜「マムクート」の一人。
+見た目は幼いが、年齢は千歳以上。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nono02" offset="00" relocatable="true" max_length="0">
+			<original>他人と遊ぶことが大好きで
+軍の中で一番、遅くまで寝ている。</original>
+			<edited>他人と遊ぶことが大好きで
+軍の中で一番、遅くまで寝ている。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nono03" offset="00" relocatable="true" max_length="0">
+			<original>「覚醒」</original>
+			<edited>「覚醒」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Azul" offset="00" relocatable="true" max_length="0">
+			<original>アズール</original>
+			<edited>アズール</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Azul00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、オリヴィエの息子。</original>
+			<edited>異界の英雄で、オリヴィエの息子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Azul01" offset="00" relocatable="true" max_length="0">
+			<original>未来からやってきた子供たちの一人。
+明るくて人当たりの良い性格の少年。</original>
+			<edited>未来からやってきた子供たちの一人。
+明るくて人当たりの良い性格の少年。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Azul02" offset="00" relocatable="true" max_length="0">
+			<original>女の子をナンパするのが趣味で
+軍の中で一番、夜中に出歩いている。</original>
+			<edited>女の子をナンパするのが趣味で
+軍の中で一番、夜中に出歩いている。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Azul03" offset="00" relocatable="true" max_length="0">
+			<original>「覚醒」</original>
+			<edited>「覚醒」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Serena" offset="00" relocatable="true" max_length="0">
+			<original>セレナ</original>
+			<edited>セレナ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Serena00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、ティアモの娘。</original>
+			<edited>異界の英雄で、ティアモの娘。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Serena01" offset="00" relocatable="true" max_length="0">
+			<original>未来からやってきた子供たちの一人。
+強気な性格で、生意気な態度をとる。</original>
+			<edited>未来からやってきた子供たちの一人。
+強気な性格で、生意気な態度をとる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Serena02" offset="00" relocatable="true" max_length="0">
+			<original>自分の可愛さを武器にするあざとさを持つ。
+軍の中で一番、無駄な買い物が多い。</original>
+			<edited>自分の可愛さを武器にするあざとさを持つ。
+軍の中で一番、無駄な買い物が多い。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Serena03" offset="00" relocatable="true" max_length="0">
+			<original>「覚醒」</original>
+			<edited>「覚醒」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Gaius" offset="00" relocatable="true" max_length="0">
+			<original>ガイア</original>
+			<edited>ガイア</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Gaius00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、イーリス聖王国の盗賊。</original>
+			<edited>異界の英雄で、イーリス聖王国の盗賊。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Gaius01" offset="00" relocatable="true" max_length="0">
+			<original>冷静なキレ者で、報酬を貰えれば、
+基本的に、どんな依頼でも請け負う。</original>
+			<edited>冷静なキレ者で、報酬を貰えれば、
+基本的に、どんな依頼でも請け負う。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Gaius02" offset="00" relocatable="true" max_length="0">
+			<original>甘い物好きで、全身に菓子を隠し持つ。
+軍の中で一番、鼻血を出す。</original>
+			<edited>甘い物好きで、全身に菓子を隠し持つ。
+軍の中で一番、鼻血を出す。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Gaius03" offset="00" relocatable="true" max_length="0">
+			<original>「覚醒」</original>
+			<edited>「覚醒」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Oud" offset="00" relocatable="true" max_length="0">
+			<original>ウード</original>
+			<edited>ウード</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Oud00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、リズの息子。</original>
+			<edited>異界の英雄で、リズの息子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Oud01" offset="00" relocatable="true" max_length="0">
+			<original>未来からやってきた子供たちの一人。
+聖王の血を引き、身体に「聖痕」を持つ。</original>
+			<edited>未来からやってきた子供たちの一人。
+聖王の血を引き、身体に「聖痕」を持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Oud02" offset="00" relocatable="true" max_length="0">
+			<original>目だちたがりで、格好をつけたがる性格。
+軍の中で一番、よく血が騒ぐ。</original>
+			<edited>目だちたがりで、格好をつけたがる性格。
+軍の中で一番、よく血が騒ぐ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Oud03" offset="00" relocatable="true" max_length="0">
+			<original>「覚醒」</original>
+			<edited>「覚醒」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Lissa" offset="00" relocatable="true" max_length="0">
+			<original>リズ</original>
+			<edited>リズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lissa00" offset="00" relocatable="true" max_length="0">
+			<original>異界の国、イーリス聖王国の王女。</original>
+			<edited>異界の国、イーリス聖王国の王女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lissa01" offset="00" relocatable="true" max_length="0">
+			<original>誰にでも分け隔てなく接する気さくな少女で
+クロム自警団の一員として活躍する。</original>
+			<edited>誰にでも分け隔てなく接する気さくな少女で
+クロム自警団の一員として活躍する。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lissa02" offset="00" relocatable="true" max_length="0">
+			<original>自警団のムードメーカー的存在で、
+軍の中で一番、よく飛び跳ねている。</original>
+			<edited>自警団のムードメーカー的存在で、
+軍の中で一番、よく飛び跳ねている。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lissa03" offset="00" relocatable="true" max_length="0">
+			<original>「覚醒」</original>
+			<edited>「覚醒」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Lin00" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸エレブのサカ地方の出身。
+キアラン侯爵家の血を引く公女でもある。</original>
+			<edited>異界の大陸エレブのサカ地方の出身。
+キアラン侯爵家の血を引く公女でもある。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Lin01" offset="00" relocatable="true" max_length="0">
+			<original>友人のエリウッド、ヘクトルらと共に
+世界に災いを招く者ネルガルと戦った。</original>
+			<edited>友人のエリウッド、ヘクトルらと共に
+世界に災いを招く者ネルガルと戦った。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Hector" offset="00" relocatable="true" max_length="0">
+			<original>ヘクトル</original>
+			<edited>ヘクトル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Hector00" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸エレブにある
+リキア地方オスティア侯爵家の公子。</original>
+			<edited>異界の大陸エレブにある
+リキア地方オスティア侯爵家の公子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Hector01" offset="00" relocatable="true" max_length="0">
+			<original>剛腕の持ち主で、斧を得意とし
+我流の技で戦う、豪快な性格の青年。</original>
+			<edited>剛腕の持ち主で、斧を得意とし
+我流の技で戦う、豪快な性格の青年。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Hector02" offset="00" relocatable="true" max_length="0">
+			<original>エリウッドとは子供の頃からの知り合いで
+生涯変わらぬ友情を誓い合った間柄。</original>
+			<edited>エリウッドとは子供の頃からの知り合いで
+生涯変わらぬ友情を誓い合った間柄。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Hector03" offset="00" relocatable="true" max_length="0">
+			<original>「封印の剣」「烈火の剣」</original>
+			<edited>「封印の剣」「烈火の剣」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Dorcas" offset="00" relocatable="true" max_length="0">
+			<original>ドルカス</original>
+			<edited>ドルカス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Dorcas00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、辺境の村の戦士。</original>
+			<edited>異界の英雄で、辺境の村の戦士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Dorcas01" offset="00" relocatable="true" max_length="0">
+			<original>妻の治療のために金銭を必要とし
+山賊団の手先となって働いていた。</original>
+			<edited>妻の治療のために金銭を必要とし
+山賊団の手先となって働いていた。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Dorcas02" offset="00" relocatable="true" max_length="0">
+			<original>しかしリンに助けられ、彼女の仲間となる。
+穏やかな性格で、家族想いの人物。</original>
+			<edited>しかしリンに助けられ、彼女の仲間となる。
+穏やかな性格で、家族想いの人物。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Dorcas03" offset="00" relocatable="true" max_length="0">
+			<original>「烈火の剣」</original>
+			<edited>「烈火の剣」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Eliwod" offset="00" relocatable="true" max_length="0">
+			<original>エリウッド</original>
+			<edited>エリウッド</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Eliwod00" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸エレブにある
+リキア地方フェレ侯爵家の公子。</original>
+			<edited>異界の大陸エレブにある
+リキア地方フェレ侯爵家の公子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Eliwod01" offset="00" relocatable="true" max_length="0">
+			<original>誠実で、真っ直ぐな心を持つ青年で
+行方不明の父を探して旅をしていた。</original>
+			<edited>誠実で、真っ直ぐな心を持つ青年で
+行方不明の父を探して旅をしていた。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Eliwod02" offset="00" relocatable="true" max_length="0">
+			<original>そこで邪悪な者の陰謀に巻き込まれるが
+ヘクトルやリンと共に、敢然と立ち向かった。</original>
+			<edited>そこで邪悪な者の陰謀に巻き込まれるが
+ヘクトルやリンと共に、敢然と立ち向かった。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Eliwod03" offset="00" relocatable="true" max_length="0">
+			<original>「封印の剣」「烈火の剣」</original>
+			<edited>「封印の剣」「烈火の剣」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Nino" offset="00" relocatable="true" max_length="0">
+			<original>ニノ</original>
+			<edited>ニノ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nino00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、
+心優しい性格の魔道士見習い。</original>
+			<edited>異界の英雄で、
+心優しい性格の魔道士見習い。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nino01" offset="00" relocatable="true" max_length="0">
+			<original>暗殺組織「黒い牙」の首領の娘だが
+母に冷たくされ、愛情に飢えている。</original>
+			<edited>暗殺組織「黒い牙」の首領の娘だが
+母に冷たくされ、愛情に飢えている。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nino02" offset="00" relocatable="true" max_length="0">
+			<original>組織の仲間たちを大切にし
+家族の様に思っている。</original>
+			<edited>組織の仲間たちを大切にし
+家族の様に思っている。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nino03" offset="00" relocatable="true" max_length="0">
+			<original>「烈火の剣」</original>
+			<edited>「烈火の剣」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Flolina" offset="00" relocatable="true" max_length="0">
+			<original>フロリーナ</original>
+			<edited>フロリーナ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Flolina00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、イリア地方の天馬騎士見習い。</original>
+			<edited>異界の英雄で、イリア地方の天馬騎士見習い。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Flolina01" offset="00" relocatable="true" max_length="0">
+			<original>動物を愛する心優しい少女で
+とても大人しい性格。</original>
+			<edited>動物を愛する心優しい少女で
+とても大人しい性格。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Flolina02" offset="00" relocatable="true" max_length="0">
+			<original>内気で、怖がりで、男性が苦手だが
+親友リンのために、彼女の旅に同行する。</original>
+			<edited>内気で、怖がりで、男性が苦手だが
+親友リンのために、彼女の旅に同行する。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Flolina03" offset="00" relocatable="true" max_length="0">
+			<original>「烈火の剣」</original>
+			<edited>「烈火の剣」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Jaffar" offset="00" relocatable="true" max_length="0">
+			<original>ジャファル</original>
+			<edited>ジャファル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Jaffar00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、
+暗殺組織「黒い牙」の暗殺者。</original>
+			<edited>異界の英雄で、
+暗殺組織「黒い牙」の暗殺者。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Jaffar01" offset="00" relocatable="true" max_length="0">
+			<original>「四牙」と呼ばれる4人の精鋭の一人で
+「死神」の異名を持つ。</original>
+			<edited>「四牙」と呼ばれる4人の精鋭の一人で
+「死神」の異名を持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Jaffar02" offset="00" relocatable="true" max_length="0">
+			<original>情に流されない冷酷な殺し屋だったが
+ニノと触れ合う中で、人の心を知ってゆく。</original>
+			<edited>情に流されない冷酷な殺し屋だったが
+ニノと触れ合う中で、人の心を知ってゆく。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Jaffar03" offset="00" relocatable="true" max_length="0">
+			<original>「烈火の剣」</original>
+			<edited>「烈火の剣」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Matthew" offset="00" relocatable="true" max_length="0">
+			<original>マシュー</original>
+			<edited>マシュー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Matthew00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、
+オスティア侯爵家に仕える密偵。</original>
+			<edited>異界の英雄で、
+オスティア侯爵家に仕える密偵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Matthew01" offset="00" relocatable="true" max_length="0">
+			<original>明るく、飄々とした性格で
+誰にでも、気さくな話し方で接する。</original>
+			<edited>明るく、飄々とした性格で
+誰にでも、気さくな話し方で接する。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Matthew02" offset="00" relocatable="true" max_length="0">
+			<original>一見お調子者のように見えるが
+任務を確実にこなす裏の仕事人。</original>
+			<edited>一見お調子者のように見えるが
+任務を確実にこなす裏の仕事人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Matthew03" offset="00" relocatable="true" max_length="0">
+			<original>「烈火の剣」</original>
+			<edited>「烈火の剣」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Ninian" offset="00" relocatable="true" max_length="0">
+			<original>ニニアン</original>
+			<edited>ニニアン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ninian00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、旅回りの踊り子。</original>
+			<edited>異界の英雄で、旅回りの踊り子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ninian01" offset="00" relocatable="true" max_length="0">
+			<original>賊に襲われていたところを、エリウッドや
+リンに助けられ、その友人となった女性。</original>
+			<edited>賊に襲われていたところを、エリウッドや
+リンに助けられ、その友人となった女性。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ninian02" offset="00" relocatable="true" max_length="0">
+			<original>儚げな少女だが、その身に、世界を揺るがす
+大いなる秘密を秘めている。</original>
+			<edited>儚げな少女だが、その身に、世界を揺るがす
+大いなる秘密を秘めている。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ninian03" offset="00" relocatable="true" max_length="0">
+			<original>「烈火の剣」</original>
+			<edited>「烈火の剣」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Rebacca" offset="00" relocatable="true" max_length="0">
+			<original>レベッカ</original>
+			<edited>レベッカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Rebacca00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、とある村の村長の娘。</original>
+			<edited>異界の英雄で、とある村の村長の娘。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Rebacca01" offset="00" relocatable="true" max_length="0">
+			<original>自分の村をエリウッドに助けられ
+恩に報いるため、その仲間となった。</original>
+			<edited>自分の村をエリウッドに助けられ
+恩に報いるため、その仲間となった。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Rebacca02" offset="00" relocatable="true" max_length="0">
+			<original>明るく、優しい心を持ち
+狩りで鍛えた、高い弓の腕を持つ。</original>
+			<edited>明るく、優しい心を持ち
+狩りで鍛えた、高い弓の腕を持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Rebacca03" offset="00" relocatable="true" max_length="0">
+			<original>「烈火の剣」</original>
+			<edited>「烈火の剣」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Serra" offset="00" relocatable="true" max_length="0">
+			<original>セーラ</original>
+			<edited>セーラ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Serra00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、
+オスティア侯爵家に仕えるシスター。</original>
+			<edited>異界の英雄で、
+オスティア侯爵家に仕えるシスター。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Serra01" offset="00" relocatable="true" max_length="0">
+			<original>打算的な性格で、権力者に恩を売るため、
+リンの仲間に加わった。</original>
+			<edited>打算的な性格で、権力者に恩を売るため、
+リンの仲間に加わった。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Serra02" offset="00" relocatable="true" max_length="0">
+			<original>自由奔放に振る舞い、他人を振り回すが
+どこか憎めないところがある少女。</original>
+			<edited>自由奔放に振る舞い、他人を振り回すが
+どこか憎めないところがある少女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Serra03" offset="00" relocatable="true" max_length="0">
+			<original>「烈火の剣」</original>
+			<edited>「烈火の剣」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Ike00" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸テリウスにある、クリミア王国の
+グレイル傭兵団を率いる青年。</original>
+			<edited>異界の大陸テリウスにある、クリミア王国の
+グレイル傭兵団を率いる青年。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Ike01" offset="00" relocatable="true" max_length="0">
+			<original>大陸に戦乱を起こし、邪神の復活を目論む
+デインの狂王アシュナードと戦った。</original>
+			<edited>大陸に戦乱を起こし、邪神の復活を目論む
+デインの狂王アシュナードと戦った。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Senerio" offset="00" relocatable="true" max_length="0">
+			<original>セネリオ</original>
+			<edited>セネリオ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Senerio00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、グレイル傭兵団の魔道士。</original>
+			<edited>異界の英雄で、グレイル傭兵団の魔道士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Senerio01" offset="00" relocatable="true" max_length="0">
+			<original>冷静な判断力を持ち、
+情報収集にも長けた、団の参謀的存在。</original>
+			<edited>冷静な判断力を持ち、
+情報収集にも長けた、団の参謀的存在。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Senerio02" offset="00" relocatable="true" max_length="0">
+			<original>他人とはなれ合わず、距離を置くが
+アイクには絶大な信頼を寄せている。</original>
+			<edited>他人とはなれ合わず、距離を置くが
+アイクには絶大な信頼を寄せている。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Senerio03" offset="00" relocatable="true" max_length="0">
+			<original>「蒼炎の軌跡」「暁の女神」</original>
+			<edited>「蒼炎の軌跡」「暁の女神」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Wayu" offset="00" relocatable="true" max_length="0">
+			<original>ワユ</original>
+			<edited>ワユ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Wayu00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、グレイル傭兵団の剣士。</original>
+			<edited>異界の英雄で、グレイル傭兵団の剣士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Wayu01" offset="00" relocatable="true" max_length="0">
+			<original>活発で裏表のない、竹を割った様な
+さっぱりとした性格の少女。</original>
+			<edited>活発で裏表のない、竹を割った様な
+さっぱりとした性格の少女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Wayu02" offset="00" relocatable="true" max_length="0">
+			<original>剣の腕を鍛えることを望み
+強い相手を探しては、勝負を挑む。</original>
+			<edited>剣の腕を鍛えることを望み
+強い相手を探しては、勝負を挑む。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Wayu03" offset="00" relocatable="true" max_length="0">
+			<original>「蒼炎の軌跡」「暁の女神」</original>
+			<edited>「蒼炎の軌跡」「暁の女神」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Tiamat" offset="00" relocatable="true" max_length="0">
+			<original>ティアマト</original>
+			<edited>ティアマト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Tiamat00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、グレイル傭兵団の副長。</original>
+			<edited>異界の英雄で、グレイル傭兵団の副長。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Tiamat01" offset="00" relocatable="true" max_length="0">
+			<original>元クリミアの王宮騎士だった経歴を持つ
+斧の扱いに長けたベテラン騎士。</original>
+			<edited>元クリミアの王宮騎士だった経歴を持つ
+斧の扱いに長けたベテラン騎士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Tiamat02" offset="00" relocatable="true" max_length="0">
+			<original>落ち着いた大人の女性で、時に母の様に
+時に姉の様に、アイクや団員たちを見守る。</original>
+			<edited>落ち着いた大人の女性で、時に母の様に
+時に姉の様に、アイクや団員たちを見守る。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Tiamat03" offset="00" relocatable="true" max_length="0">
+			<original>「蒼炎の軌跡」「暁の女神」</original>
+			<edited>「蒼炎の軌跡」「暁の女神」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Elaice" offset="00" relocatable="true" max_length="0">
+			<original>イレース</original>
+			<edited>イレース</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Elaice00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、雷魔法を得意とする魔道士。</original>
+			<edited>異界の英雄で、雷魔法を得意とする魔道士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Elaice01" offset="00" relocatable="true" max_length="0">
+			<original>行商人と共に旅をしていたが、望まぬ戦いに
+巻き込まれ、アイクたちの仲間となった。</original>
+			<edited>行商人と共に旅をしていたが、望まぬ戦いに
+巻き込まれ、アイクたちの仲間となった。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Elaice02" offset="00" relocatable="true" max_length="0">
+			<original>小柄で儚げな風貌だが、大食らいで
+いつもお腹を空かせている。</original>
+			<edited>小柄で儚げな風貌だが、大食らいで
+いつもお腹を空かせている。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Elaice03" offset="00" relocatable="true" max_length="0">
+			<original>「蒼炎の軌跡」「暁の女神」</original>
+			<edited>「蒼炎の軌跡」「暁の女神」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Lethe" offset="00" relocatable="true" max_length="0">
+			<original>レテ</original>
+			<edited>レテ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lethe00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、ガリア王国の獣牙戦士。</original>
+			<edited>異界の英雄で、ガリア王国の獣牙戦士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lethe01" offset="00" relocatable="true" max_length="0">
+			<original>肉体を化身させて戦う「ラグズ」の一人で
+巨大な猫に化身する、獣牙族の少女。</original>
+			<edited>肉体を化身させて戦う「ラグズ」の一人で
+巨大な猫に化身する、獣牙族の少女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lethe02" offset="00" relocatable="true" max_length="0">
+			<original>アイクたち「ベオク」を嫌い、
+敵意を見せつつも、王命に従い協力する。</original>
+			<edited>アイクたち「ベオク」を嫌い、
+敵意を見せつつも、王命に従い協力する。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lethe03" offset="00" relocatable="true" max_length="0">
+			<original>「蒼炎の軌跡」「暁の女神」</original>
+			<edited>「蒼炎の軌跡」「暁の女神」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Mist" offset="00" relocatable="true" max_length="0">
+			<original>ミスト</original>
+			<edited>ミスト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Mist00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、グレイル傭兵団の杖使い。</original>
+			<edited>異界の英雄で、グレイル傭兵団の杖使い。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Mist01" offset="00" relocatable="true" max_length="0">
+			<original>アイクの妹で、汚れなき心を持つ
+心優しい少女。</original>
+			<edited>アイクの妹で、汚れなき心を持つ
+心優しい少女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Mist02" offset="00" relocatable="true" max_length="0">
+			<original>働き者で、いつも兄や団員たちのことを
+気づかい、身の周りの世話をしている。</original>
+			<edited>働き者で、いつも兄や団員たちのことを
+気づかい、身の周りの世話をしている。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Mist03" offset="00" relocatable="true" max_length="0">
+			<original>「蒼炎の軌跡」「暁の女神」</original>
+			<edited>「蒼炎の軌跡」「暁の女神」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Chinon" offset="00" relocatable="true" max_length="0">
+			<original>シノン</original>
+			<edited>シノン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Chinon00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、グレイル傭兵団の弓使い。</original>
+			<edited>異界の英雄で、グレイル傭兵団の弓使い。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Chinon01" offset="00" relocatable="true" max_length="0">
+			<original>古参の団員で
+狙った獲物は外さない達人級の腕を持つ。</original>
+			<edited>古参の団員で
+狙った獲物は外さない達人級の腕を持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Chinon02" offset="00" relocatable="true" max_length="0">
+			<original>皮肉屋で、いつも憎まれ口をきくが
+面倒見の良い一面も持つ。</original>
+			<edited>皮肉屋で、いつも憎まれ口をきくが
+面倒見の良い一面も持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Chinon03" offset="00" relocatable="true" max_length="0">
+			<original>「蒼炎の軌跡」「暁の女神」</original>
+			<edited>「蒼炎の軌跡」「暁の女神」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Greil" offset="00" relocatable="true" max_length="0">
+			<original>グレイル</original>
+			<edited>グレイル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Greil00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、
+グレイル傭兵団の初代団長。</original>
+			<edited>異界の英雄で、
+グレイル傭兵団の初代団長。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Greil01" offset="00" relocatable="true" max_length="0">
+			<original>誰からも信頼される一流の傭兵であり
+卓越した戦闘技術を持つ。</original>
+			<edited>誰からも信頼される一流の傭兵であり
+卓越した戦闘技術を持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Greil02" offset="00" relocatable="true" max_length="0">
+			<original>アイクとミストの父親で
+団員たち全員を家族のように思っている。</original>
+			<edited>アイクとミストの父親で
+団員たち全員を家族のように思っている。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Greil03" offset="00" relocatable="true" max_length="0">
+			<original>「蒼炎の軌跡」</original>
+			<edited>「蒼炎の軌跡」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Lay" offset="00" relocatable="true" max_length="0">
+			<original>ライ</original>
+			<edited>ライ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lay00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、ガリア王国の獣牙戦士。</original>
+			<edited>異界の英雄で、ガリア王国の獣牙戦士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lay01" offset="00" relocatable="true" max_length="0">
+			<original>肉体を化身させて戦う「ラグズ」の一人で
+巨大な猫に化身する、気さくな性格の青年。</original>
+			<edited>肉体を化身させて戦う「ラグズ」の一人で
+巨大な猫に化身する、気さくな性格の青年。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lay02" offset="00" relocatable="true" max_length="0">
+			<original>一見柔和な人物だが、その実力は高く
+他の獣牙戦士を率いる部隊長を務める。</original>
+			<edited>一見柔和な人物だが、その実力は高く
+他の獣牙戦士を率いる部隊長を務める。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lay03" offset="00" relocatable="true" max_length="0">
+			<original>「蒼炎の軌跡」「暁の女神」</original>
+			<edited>「蒼炎の軌跡」「暁の女神」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Gatrie" offset="00" relocatable="true" max_length="0">
+			<original>ガトリー</original>
+			<edited>ガトリー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Gatrie00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、グレイル傭兵団の重歩兵。</original>
+			<edited>異界の英雄で、グレイル傭兵団の重歩兵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Gatrie01" offset="00" relocatable="true" max_length="0">
+			<original>少々お調子者だが、気の良い人物。
+同じ傭兵であるシノンの舎弟。</original>
+			<edited>少々お調子者だが、気の良い人物。
+同じ傭兵であるシノンの舎弟。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Gatrie02" offset="00" relocatable="true" max_length="0">
+			<original>女性に弱く、惚れっぽい性格で
+叶わぬ恋も多いが、アタックを続ける。</original>
+			<edited>女性に弱く、惚れっぽい性格で
+叶わぬ恋も多いが、アタックを続ける。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Gatrie03" offset="00" relocatable="true" max_length="0">
+			<original>「蒼炎の軌跡」「暁の女神」</original>
+			<edited>「蒼炎の軌跡」「暁の女神」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Byleth00" offset="00" relocatable="true" max_length="0">
+			<original>異界の地フォドラで傭兵として暮らすが
+ある出来事をきっかけに教師となった人物。</original>
+			<edited>異界の地フォドラで傭兵として暮らすが
+ある出来事をきっかけに教師となった人物。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Byleth01" offset="00" relocatable="true" max_length="0">
+			<original>古の英雄ネメシスの武器「天帝の剣」を手に
+生徒たちを導き、戦った。</original>
+			<edited>古の英雄ネメシスの武器「天帝の剣」を手に
+生徒たちを導き、戦った。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Edelgard" offset="00" relocatable="true" max_length="0">
+			<original>エーデルガルト</original>
+			<edited>エーデルガルト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Edelgard00" offset="00" relocatable="true" max_length="0">
+			<original>異界の地フォドラにある
+アドラステア帝国の皇女。</original>
+			<edited>異界の地フォドラにある
+アドラステア帝国の皇女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Edelgard01" offset="00" relocatable="true" max_length="0">
+			<original>ガルグ＝マク大修道院の士官学校で学び
+黒鷲の学級の級長を務める。</original>
+			<edited>ガルグ＝マク大修道院の士官学校で学び
+黒鷲の学級の級長を務める。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Edelgard02" offset="00" relocatable="true" max_length="0">
+			<original>気高く、意志の強い少女で
+世界を改革することを望む。</original>
+			<edited>気高く、意志の強い少女で
+世界を改革することを望む。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Edelgard03" offset="00" relocatable="true" max_length="0">
+			<original>「風花雪月」</original>
+			<edited>「風花雪月」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Dimitri" offset="00" relocatable="true" max_length="0">
+			<original>ディミトリ</original>
+			<edited>ディミトリ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Dimitri00" offset="00" relocatable="true" max_length="0">
+			<original>異界の地フォドラにある
+ファーガス神聖王国の王子。</original>
+			<edited>異界の地フォドラにある
+ファーガス神聖王国の王子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Dimitri01" offset="00" relocatable="true" max_length="0">
+			<original>ガルグ＝マク大修道院の士官学校で学び
+青獅子の学級の級長を務める。</original>
+			<edited>ガルグ＝マク大修道院の士官学校で学び
+青獅子の学級の級長を務める。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Dimitri02" offset="00" relocatable="true" max_length="0">
+			<original>礼儀正しく、実直な性格の青年。
+実は心の奥に、人知れず闇を抱えている。</original>
+			<edited>礼儀正しく、実直な性格の青年。
+実は心の奥に、人知れず闇を抱えている。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Dimitri03" offset="00" relocatable="true" max_length="0">
+			<original>「風花雪月」</original>
+			<edited>「風花雪月」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Claude" offset="00" relocatable="true" max_length="0">
+			<original>クロード</original>
+			<edited>クロード</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Claude00" offset="00" relocatable="true" max_length="0">
+			<original>異界の地フォドラにあるレスター諸侯同盟の
+盟主リーガン公爵家の嫡子。</original>
+			<edited>異界の地フォドラにあるレスター諸侯同盟の
+盟主リーガン公爵家の嫡子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Claude01" offset="00" relocatable="true" max_length="0">
+			<original>ガルグ＝マク大修道院の士官学校で学び
+金鹿の学級の級長を務める。</original>
+			<edited>ガルグ＝マク大修道院の士官学校で学び
+金鹿の学級の級長を務める。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Claude02" offset="00" relocatable="true" max_length="0">
+			<original>飄々としていて、人懐っこい性格だが
+常に策を巡らす抜け目ない一面を持つ。</original>
+			<edited>飄々としていて、人懐っこい性格だが
+常に策を巡らす抜け目ない一面を持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Claude03" offset="00" relocatable="true" max_length="0">
+			<original>「風花雪月」</original>
+			<edited>「風花雪月」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Lysithea" offset="00" relocatable="true" max_length="0">
+			<original>リシテア</original>
+			<edited>リシテア</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lysithea00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、コーデリア伯爵家の長女。</original>
+			<edited>異界の英雄で、コーデリア伯爵家の長女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lysithea01" offset="00" relocatable="true" max_length="0">
+			<original>金鹿の学級に所属する
+努力家で、高い魔道の才能を持つ生徒。</original>
+			<edited>金鹿の学級に所属する
+努力家で、高い魔道の才能を持つ生徒。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lysithea02" offset="00" relocatable="true" max_length="0">
+			<original>甘い物が大好きで、
+お化けと子供扱いされることを嫌う。</original>
+			<edited>甘い物が大好きで、
+お化けと子供扱いされることを嫌う。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lysithea03" offset="00" relocatable="true" max_length="0">
+			<original>「風花雪月」</original>
+			<edited>「風花雪月」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Bernadetta" offset="00" relocatable="true" max_length="0">
+			<original>ベルナデッタ</original>
+			<edited>ベルナデッタ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Bernadetta00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、ヴァーリ伯爵家の一人娘。</original>
+			<edited>異界の英雄で、ヴァーリ伯爵家の一人娘。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Bernadetta01" offset="00" relocatable="true" max_length="0">
+			<original>黒鷲の学級に所属する
+とても人見知りが激しい生徒。</original>
+			<edited>黒鷲の学級に所属する
+とても人見知りが激しい生徒。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Bernadetta02" offset="00" relocatable="true" max_length="0">
+			<original>厳しい教育の反動で、部屋に籠もる様になり
+講義の時以外は、あまり外に出てこない。</original>
+			<edited>厳しい教育の反動で、部屋に籠もる様になり
+講義の時以外は、あまり外に出てこない。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Bernadetta03" offset="00" relocatable="true" max_length="0">
+			<original>「風花雪月」</original>
+			<edited>「風花雪月」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Felix" offset="00" relocatable="true" max_length="0">
+			<original>フェリクス</original>
+			<edited>フェリクス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Felix00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、フラルダリウス公爵家の嫡子。</original>
+			<edited>異界の英雄で、フラルダリウス公爵家の嫡子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Felix01" offset="00" relocatable="true" max_length="0">
+			<original>青獅子の学級に所属する生徒で
+ディミトリとは幼馴染の間柄。</original>
+			<edited>青獅子の学級に所属する生徒で
+ディミトリとは幼馴染の間柄。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Felix02" offset="00" relocatable="true" max_length="0">
+			<original>剣の腕を磨くことに余念がなく
+強い相手を見ると、手合わせを申し込む。</original>
+			<edited>剣の腕を磨くことに余念がなく
+強い相手を見ると、手合わせを申し込む。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Felix03" offset="00" relocatable="true" max_length="0">
+			<original>「風花雪月」</original>
+			<edited>「風花雪月」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Ferdinand" offset="00" relocatable="true" max_length="0">
+			<original>フェルディナント</original>
+			<edited>フェルディナント</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ferdinand00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、エーギル公爵家の嫡男。</original>
+			<edited>異界の英雄で、エーギル公爵家の嫡男。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ferdinand01" offset="00" relocatable="true" max_length="0">
+			<original>黒鷲の学級に所属する、自分が貴族で
+あることに強い誇りを持つ生徒。</original>
+			<edited>黒鷲の学級に所属する、自分が貴族で
+あることに強い誇りを持つ生徒。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ferdinand02" offset="00" relocatable="true" max_length="0">
+			<original>負けず嫌いな一面もあり、皇女である
+エーデルガルトに対抗意識を持っている。</original>
+			<edited>負けず嫌いな一面もあり、皇女である
+エーデルガルトに対抗意識を持っている。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ferdinand03" offset="00" relocatable="true" max_length="0">
+			<original>「風花雪月」</original>
+			<edited>「風花雪月」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Ingrid" offset="00" relocatable="true" max_length="0">
+			<original>イングリット</original>
+			<edited>イングリット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ingrid00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、ガラテア伯爵家の息女。</original>
+			<edited>異界の英雄で、ガラテア伯爵家の息女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ingrid01" offset="00" relocatable="true" max_length="0">
+			<original>青獅子の学級に所属する、
+真面目でしっかりとした性格の生徒。</original>
+			<edited>青獅子の学級に所属する、
+真面目でしっかりとした性格の生徒。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ingrid02" offset="00" relocatable="true" max_length="0">
+			<original>高潔な騎士に憧れを持ち
+いつか自分もそうなることを夢見ている。</original>
+			<edited>高潔な騎士に憧れを持ち
+いつか自分もそうなることを夢見ている。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ingrid03" offset="00" relocatable="true" max_length="0">
+			<original>「風花雪月」</original>
+			<edited>「風花雪月」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Raphael" offset="00" relocatable="true" max_length="0">
+			<original>ラファエル</original>
+			<edited>ラファエル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Raphael00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、レスター地方の商人の息子。</original>
+			<edited>異界の英雄で、レスター地方の商人の息子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Raphael01" offset="00" relocatable="true" max_length="0">
+			<original>金鹿の学級に所属する
+大食漢で、たくましい肉体を持つ生徒。</original>
+			<edited>金鹿の学級に所属する
+大食漢で、たくましい肉体を持つ生徒。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Raphael02" offset="00" relocatable="true" max_length="0">
+			<original>座学は苦手だが、肉体の鍛錬には余念がなく
+立派な騎士となるべく精進を重ねる。</original>
+			<edited>座学は苦手だが、肉体の鍛錬には余念がなく
+立派な騎士となるべく精進を重ねる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Raphael03" offset="00" relocatable="true" max_length="0">
+			<original>「風花雪月」</original>
+			<edited>「風花雪月」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Flayn" offset="00" relocatable="true" max_length="0">
+			<original>フレン</original>
+			<edited>フレン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Flayn00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、
+セイロス聖教会の大司教補佐セテスの妹。</original>
+			<edited>異界の英雄で、
+セイロス聖教会の大司教補佐セテスの妹。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Flayn01" offset="00" relocatable="true" max_length="0">
+			<original>生徒ではないが、兄の庇護のもと
+大修道院で暮らしている少女。</original>
+			<edited>生徒ではないが、兄の庇護のもと
+大修道院で暮らしている少女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Flayn02" offset="00" relocatable="true" max_length="0">
+			<original>世間一般的な常識にうとく
+市井の様々なことに興味を持つ。</original>
+			<edited>世間一般的な常識にうとく
+市井の様々なことに興味を持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Flayn03" offset="00" relocatable="true" max_length="0">
+			<original>「風花雪月」</original>
+			<edited>「風花雪月」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Kamui00" offset="00" relocatable="true" max_length="0">
+			<original>異界の国、白夜王国に生まれたが、
+幼い時にさらわれ、暗夜王国で育った王族。</original>
+			<edited>異界の国、白夜王国に生まれたが、
+幼い時にさらわれ、暗夜王国で育った王族。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Kamui01" offset="00" relocatable="true" max_length="0">
+			<original>平和を願い、両王国の争いを止め
+世界を破滅に導く透魔竜ハイドラと戦った。</original>
+			<edited>平和を願い、両王国の争いを止め
+世界を破滅に導く透魔竜ハイドラと戦った。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Camilla" offset="00" relocatable="true" max_length="0">
+			<original>カミラ</original>
+			<edited>カミラ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Camilla00" offset="00" relocatable="true" max_length="0">
+			<original>異界の国、暗夜王国の第一王女。</original>
+			<edited>異界の国、暗夜王国の第一王女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Camilla01" offset="00" relocatable="true" max_length="0">
+			<original>魔竜を駆り、自らも戦場に立つ
+美しく妖艶な女性。</original>
+			<edited>魔竜を駆り、自らも戦場に立つ
+美しく妖艶な女性。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Camilla02" offset="00" relocatable="true" max_length="0">
+			<original>カムイを溺愛しており、深い愛情を注ぐ。
+可愛くて強い女の子が好き。</original>
+			<edited>カムイを溺愛しており、深い愛情を注ぐ。
+可愛くて強い女の子が好き。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Camilla03" offset="00" relocatable="true" max_length="0">
+			<original>「白夜王国」「暗夜王国」他</original>
+			<edited>「白夜王国」「暗夜王国」他</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Aqua" offset="00" relocatable="true" max_length="0">
+			<original>アクア</original>
+			<edited>アクア</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Aqua00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、暗夜王国からさらわれ
+白夜王国で育った王女。</original>
+			<edited>異界の英雄で、暗夜王国からさらわれ
+白夜王国で育った王女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Aqua01" offset="00" relocatable="true" max_length="0">
+			<original>あまり感情を表に出さない
+儚げな雰囲気を持つ人物。</original>
+			<edited>あまり感情を表に出さない
+儚げな雰囲気を持つ人物。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Aqua02" offset="00" relocatable="true" max_length="0">
+			<original>歌や踊りを得意とする「歌姫」で
+槍と舞いを武器に、戦場で活躍する。</original>
+			<edited>歌や踊りを得意とする「歌姫」で
+槍と舞いを武器に、戦場で活躍する。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Aqua03" offset="00" relocatable="true" max_length="0">
+			<original>「白夜王国」「暗夜王国」他</original>
+			<edited>「白夜王国」「暗夜王国」他</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Takumi" offset="00" relocatable="true" max_length="0">
+			<original>タクミ</original>
+			<edited>タクミ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Takumi00" offset="00" relocatable="true" max_length="0">
+			<original>異界の国、白夜王国の王子。</original>
+			<edited>異界の国、白夜王国の王子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Takumi01" offset="00" relocatable="true" max_length="0">
+			<original>弓の名手で、王家に伝わる弓の神器
+「風神弓」を操る。</original>
+			<edited>弓の名手で、王家に伝わる弓の神器
+「風神弓」を操る。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Takumi02" offset="00" relocatable="true" max_length="0">
+			<original>祖国を脅かす暗夜王国を憎んでおり
+カムイに複雑な感情を抱く。</original>
+			<edited>祖国を脅かす暗夜王国を憎んでおり
+カムイに複雑な感情を抱く。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Takumi03" offset="00" relocatable="true" max_length="0">
+			<original>「白夜王国」「暗夜王国」他</original>
+			<edited>「白夜王国」「暗夜王国」他</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Leon" offset="00" relocatable="true" max_length="0">
+			<original>レオン</original>
+			<edited>レオン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Leon00" offset="00" relocatable="true" max_length="0">
+			<original>異界の国、暗夜王国の王子。</original>
+			<edited>異界の国、暗夜王国の王子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Leon01" offset="00" relocatable="true" max_length="0">
+			<original>闇魔法のエリートで、神器である魔道書
+「ブリュンヒルデ」を使いこなす。</original>
+			<edited>闇魔法のエリートで、神器である魔道書
+「ブリュンヒルデ」を使いこなす。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Leon02" offset="00" relocatable="true" max_length="0">
+			<original>何事もそつなくこなす秀才だが、法衣を
+裏返しに着るなど、少し抜けた一面も持つ。</original>
+			<edited>何事もそつなくこなす秀才だが、法衣を
+裏返しに着るなど、少し抜けた一面も持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Leon03" offset="00" relocatable="true" max_length="0">
+			<original>「白夜王国」「暗夜王国」他</original>
+			<edited>「白夜王国」「暗夜王国」他</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Elise" offset="00" relocatable="true" max_length="0">
+			<original>エリーゼ</original>
+			<edited>エリーゼ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Elise00" offset="00" relocatable="true" max_length="0">
+			<original>異界の国、暗夜王国の王女。</original>
+			<edited>異界の国、暗夜王国の王女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Elise01" offset="00" relocatable="true" max_length="0">
+			<original>暗夜王族のきょうだいの末妹で、
+明るく天真爛漫な性格。</original>
+			<edited>暗夜王族のきょうだいの末妹で、
+明るく天真爛漫な性格。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Elise02" offset="00" relocatable="true" max_length="0">
+			<original>きょうだいたちのことが大好きで
+カムイのことを、とても慕っている。</original>
+			<edited>きょうだいたちのことが大好きで
+カムイのことを、とても慕っている。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Elise03" offset="00" relocatable="true" max_length="0">
+			<original>「白夜王国」「暗夜王国」他</original>
+			<edited>「白夜王国」「暗夜王国」他</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Sakura" offset="00" relocatable="true" max_length="0">
+			<original>サクラ</original>
+			<edited>サクラ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sakura00" offset="00" relocatable="true" max_length="0">
+			<original>異界の国、白夜王国の王女。</original>
+			<edited>異界の国、白夜王国の王女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sakura01" offset="00" relocatable="true" max_length="0">
+			<original>白夜王族のきょうだいの末妹で
+奥ゆかしく、心優しい性格。</original>
+			<edited>白夜王族のきょうだいの末妹で
+奥ゆかしく、心優しい性格。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sakura02" offset="00" relocatable="true" max_length="0">
+			<original>誰にでも礼儀正しく接するが
+照れ屋で、すぐに緊張してしまう。</original>
+			<edited>誰にでも礼儀正しく接するが
+照れ屋で、すぐに緊張してしまう。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sakura03" offset="00" relocatable="true" max_length="0">
+			<original>「白夜王国」「暗夜王国」他</original>
+			<edited>「白夜王国」「暗夜王国」他</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Marks" offset="00" relocatable="true" max_length="0">
+			<original>マークス</original>
+			<edited>マークス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Marks00" offset="00" relocatable="true" max_length="0">
+			<original>異界の国、暗夜王国の第一王子。</original>
+			<edited>異界の国、暗夜王国の第一王子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Marks01" offset="00" relocatable="true" max_length="0">
+			<original>次期暗夜王であり、
+剣の神器「ジークフリート」の継承者。</original>
+			<edited>次期暗夜王であり、
+剣の神器「ジークフリート」の継承者。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Marks02" offset="00" relocatable="true" max_length="0">
+			<original>騎士道精神に溢れた人物で
+厳しさと優しさとをあわせ持つ。</original>
+			<edited>騎士道精神に溢れた人物で
+厳しさと優しさとをあわせ持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Marks03" offset="00" relocatable="true" max_length="0">
+			<original>「白夜王国」「暗夜王国」他</original>
+			<edited>「白夜王国」「暗夜王国」他</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Joker" offset="00" relocatable="true" max_length="0">
+			<original>ジョーカー</original>
+			<edited>ジョーカー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Joker00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、カムイに仕える執事。</original>
+			<edited>異界の英雄で、カムイに仕える執事。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Joker01" offset="00" relocatable="true" max_length="0">
+			<original>頭脳明晰で、家事に雑用、武器の手入れから
+戦闘までこなす万能な人物。</original>
+			<edited>頭脳明晰で、家事に雑用、武器の手入れから
+戦闘までこなす万能な人物。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Joker02" offset="00" relocatable="true" max_length="0">
+			<original>主君であるカムイに絶対の忠誠を誓い
+それ以外の人間には、冷淡に振る舞う。</original>
+			<edited>主君であるカムイに絶対の忠誠を誓い
+それ以外の人間には、冷淡に振る舞う。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Joker03" offset="00" relocatable="true" max_length="0">
+			<original>「白夜王国」「暗夜王国」他</original>
+			<edited>「白夜王国」「暗夜王国」他</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Ryoma" offset="00" relocatable="true" max_length="0">
+			<original>リョウマ</original>
+			<edited>リョウマ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ryoma00" offset="00" relocatable="true" max_length="0">
+			<original>異界の国、白夜王国の第一王子。</original>
+			<edited>異界の国、白夜王国の第一王子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ryoma01" offset="00" relocatable="true" max_length="0">
+			<original>次期白夜王であり、
+刀の神器「雷神刀」の継承者。</original>
+			<edited>次期白夜王であり、
+刀の神器「雷神刀」の継承者。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ryoma02" offset="00" relocatable="true" max_length="0">
+			<original>武士道精神を重んじる侍で
+どんな苦難にも挫けない不屈の闘志を持つ。</original>
+			<edited>武士道精神を重んじる侍で
+どんな苦難にも挫けない不屈の闘志を持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ryoma03" offset="00" relocatable="true" max_length="0">
+			<original>「白夜王国」「暗夜王国」他</original>
+			<edited>「白夜王国」「暗夜王国」他</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Hinoka" offset="00" relocatable="true" max_length="0">
+			<original>ヒノカ</original>
+			<edited>ヒノカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Hinoka00" offset="00" relocatable="true" max_length="0">
+			<original>異界の国、白夜王国の第一王女。</original>
+			<edited>異界の国、白夜王国の第一王女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Hinoka01" offset="00" relocatable="true" max_length="0">
+			<original>天馬に跨がって、戦場を駆ける
+武人のような性格の姫。</original>
+			<edited>天馬に跨がって、戦場を駆ける
+武人のような性格の姫。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Hinoka02" offset="00" relocatable="true" max_length="0">
+			<original>幼い時にカムイがさらわれ
+取り戻す日を夢見て天馬武者になった。</original>
+			<edited>幼い時にカムイがさらわれ
+取り戻す日を夢見て天馬武者になった。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Hinoka03" offset="00" relocatable="true" max_length="0">
+			<original>「白夜王国」「暗夜王国」他</original>
+			<edited>「白夜王国」「暗夜王国」他</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Eirik00" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸マギ・ヴァルにある
+ルネス王国の王女。</original>
+			<edited>異界の大陸マギ・ヴァルにある
+ルネス王国の王女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Eirik01" offset="00" relocatable="true" max_length="0">
+			<original>双子の兄エフラムと共に、双聖器と呼ばれる
+伝説の武器で、魔王フォデスと戦った。</original>
+			<edited>双子の兄エフラムと共に、双聖器と呼ばれる
+伝説の武器で、魔王フォデスと戦った。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Lute" offset="00" relocatable="true" max_length="0">
+			<original>ルーテ</original>
+			<edited>ルーテ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lute00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、天才肌の魔道士。</original>
+			<edited>異界の英雄で、天才肌の魔道士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lute01" offset="00" relocatable="true" max_length="0">
+			<original>優れた魔道の才能と、豊富な知識を持ち
+「私、優秀ですから」が口癖。</original>
+			<edited>優れた魔道の才能と、豊富な知識を持ち
+「私、優秀ですから」が口癖。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lute02" offset="00" relocatable="true" max_length="0">
+			<original>真面目なのか、冗談なのか解りづらい
+風変わりな喋り方を得意とする。</original>
+			<edited>真面目なのか、冗談なのか解りづらい
+風変わりな喋り方を得意とする。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lute03" offset="00" relocatable="true" max_length="0">
+			<original>「聖魔の光石」</original>
+			<edited>「聖魔の光石」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Jhosua" offset="00" relocatable="true" max_length="0">
+			<original>ヨシュア</original>
+			<edited>ヨシュア</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Jhosua00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、飄々とした性格の剣士。</original>
+			<edited>異界の英雄で、飄々とした性格の剣士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Jhosua01" offset="00" relocatable="true" max_length="0">
+			<original>賭け事が大好きで、大事な決定を
+投げたコインの裏表で決める。</original>
+			<edited>賭け事が大好きで、大事な決定を
+投げたコインの裏表で決める。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Jhosua02" offset="00" relocatable="true" max_length="0">
+			<original>グラド帝国に傭兵として雇われていたが
+コインの賭けに従い、寝返った。</original>
+			<edited>グラド帝国に傭兵として雇われていたが
+コインの賭けに従い、寝返った。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Jhosua03" offset="00" relocatable="true" max_length="0">
+			<original>「聖魔の光石」</original>
+			<edited>「聖魔の光石」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Marica" offset="00" relocatable="true" max_length="0">
+			<original>マリカ</original>
+			<edited>マリカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Marica00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、
+ジスト傭兵団に所属する剣士。</original>
+			<edited>異界の英雄で、
+ジスト傭兵団に所属する剣士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Marica01" offset="00" relocatable="true" max_length="0">
+			<original>凄腕の持ち主で
+人々から「緋閃」と呼ばれ、恐れられる。</original>
+			<edited>凄腕の持ち主で
+人々から「緋閃」と呼ばれ、恐れられる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Marica02" offset="00" relocatable="true" max_length="0">
+			<original>無口で、あまり感情を表に出さない。
+隊長のジストのことを心から信頼している。</original>
+			<edited>無口で、あまり感情を表に出さない。
+隊長のジストのことを心から信頼している。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Marica03" offset="00" relocatable="true" max_length="0">
+			<original>「聖魔の光石」</original>
+			<edited>「聖魔の光石」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Seth" offset="00" relocatable="true" max_length="0">
+			<original>ゼト</original>
+			<edited>ゼト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Seth00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、ルネス王家に仕える騎士。</original>
+			<edited>異界の英雄で、ルネス王家に仕える騎士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Seth01" offset="00" relocatable="true" max_length="0">
+			<original>騎士団を束ねる若き将軍で
+「真銀の騎士」の異名を持つ。</original>
+			<edited>騎士団を束ねる若き将軍で
+「真銀の騎士」の異名を持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Seth02" offset="00" relocatable="true" max_length="0">
+			<original>グラド帝国に侵攻を受けた際には、
+エイリークを護り、彼女の脱出を助けた。</original>
+			<edited>グラド帝国に侵攻を受けた際には、
+エイリークを護り、彼女の脱出を助けた。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Seth03" offset="00" relocatable="true" max_length="0">
+			<original>「聖魔の光石」</original>
+			<edited>「聖魔の光石」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Amelia" offset="00" relocatable="true" max_length="0">
+			<original>アメリア</original>
+			<edited>アメリア</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Amelia00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、グラド帝国の見習い兵士。</original>
+			<edited>異界の英雄で、グラド帝国の見習い兵士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Amelia01" offset="00" relocatable="true" max_length="0">
+			<original>世間知らずだが、素直で明るく
+いつも一生懸命な、頑張り屋の少女。</original>
+			<edited>世間知らずだが、素直で明るく
+いつも一生懸命な、頑張り屋の少女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Amelia02" offset="00" relocatable="true" max_length="0">
+			<original>エイリークやエフラムを極悪非道な人物だと
+教えられ、誤解をしたまま戦っていた。</original>
+			<edited>エイリークやエフラムを極悪非道な人物だと
+教えられ、誤解をしたまま戦っていた。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Amelia03" offset="00" relocatable="true" max_length="0">
+			<original>「聖魔の光石」</original>
+			<edited>「聖魔の光石」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Turner" offset="00" relocatable="true" max_length="0">
+			<original>ターナ</original>
+			<edited>ターナ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Turner00" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸マギ・ヴァルにある
+フレリア王国の王女。</original>
+			<edited>異界の大陸マギ・ヴァルにある
+フレリア王国の王女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Turner01" offset="00" relocatable="true" max_length="0">
+			<original>高貴な身分だが、お転婆な性格で
+天馬に跨がり、槍を振るう。</original>
+			<edited>高貴な身分だが、お転婆な性格で
+天馬に跨がり、槍を振るう。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Turner02" offset="00" relocatable="true" max_length="0">
+			<original>エイリークとは仲の良い友達で
+彼女の助けになろうと、城を飛び出した。</original>
+			<edited>エイリークとは仲の良い友達で
+彼女の助けになろうと、城を飛び出した。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Turner03" offset="00" relocatable="true" max_length="0">
+			<original>「聖魔の光石」</original>
+			<edited>「聖魔の光石」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Larchel" offset="00" relocatable="true" max_length="0">
+			<original>ラーチェル</original>
+			<edited>ラーチェル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Larchel00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、人々を救う正義の少女。</original>
+			<edited>異界の英雄で、人々を救う正義の少女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Larchel01" offset="00" relocatable="true" max_length="0">
+			<original>マギ・ヴァル大陸の各地を渡り歩き
+出現した魔物を退治していた。</original>
+			<edited>マギ・ヴァル大陸の各地を渡り歩き
+出現した魔物を退治していた。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Larchel02" offset="00" relocatable="true" max_length="0">
+			<original>その正体はロストン聖教国の聖王女で
+二人のお供をつれて奮戦した。</original>
+			<edited>その正体はロストン聖教国の聖王女で
+二人のお供をつれて奮戦した。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Larchel03" offset="00" relocatable="true" max_length="0">
+			<original>「聖魔の光石」</original>
+			<edited>「聖魔の光石」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Ross" offset="00" relocatable="true" max_length="0">
+			<original>ロス</original>
+			<edited>ロス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ross00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、戦士ガルシアの息子。</original>
+			<edited>異界の英雄で、戦士ガルシアの息子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ross01" offset="00" relocatable="true" max_length="0">
+			<original>ルネス王国のかけだしの戦士で
+気合いとやる気に溢れた元気な少年。</original>
+			<edited>ルネス王国のかけだしの戦士で
+気合いとやる気に溢れた元気な少年。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ross02" offset="00" relocatable="true" max_length="0">
+			<original>父のことを、とても尊敬しており
+彼のようになるべく、日々精進を重ねる。</original>
+			<edited>父のことを、とても尊敬しており
+彼のようになるべく、日々精進を重ねる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ross03" offset="00" relocatable="true" max_length="0">
+			<original>「聖魔の光石」</original>
+			<edited>「聖魔の光石」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Heanius" offset="00" relocatable="true" max_length="0">
+			<original>ヒーニアス</original>
+			<edited>ヒーニアス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Heanius00" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸マギ・ヴァルにある
+フレリア王国の王子。</original>
+			<edited>異界の大陸マギ・ヴァルにある
+フレリア王国の王子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Heanius01" offset="00" relocatable="true" max_length="0">
+			<original>誇り高く、聡明な人物で、
+弓の名手として知られる。</original>
+			<edited>誇り高く、聡明な人物で、
+弓の名手として知られる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Heanius02" offset="00" relocatable="true" max_length="0">
+			<original>常に冷静で、はっきり意見を言うことから
+冷酷な人間に見えるが、好人物。</original>
+			<edited>常に冷静で、はっきり意見を言うことから
+冷酷な人間に見えるが、好人物。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Heanius03" offset="00" relocatable="true" max_length="0">
+			<original>「聖魔の光石」</original>
+			<edited>「聖魔の光石」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Xyst" offset="00" relocatable="true" max_length="0">
+			<original>ジスト</original>
+			<edited>ジスト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Xyst00" offset="00" relocatable="true" max_length="0">
+			<original>異界の英雄で、ジスト傭兵団の隊長。</original>
+			<edited>異界の英雄で、ジスト傭兵団の隊長。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Xyst01" offset="00" relocatable="true" max_length="0">
+			<original>「砂漠の虎」と呼ばれる、名高い傭兵で
+百戦錬磨の強者。</original>
+			<edited>「砂漠の虎」と呼ばれる、名高い傭兵で
+百戦錬磨の強者。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Xyst02" offset="00" relocatable="true" max_length="0">
+			<original>義理と情に厚い、面倒見の良い人物で
+仲間から信頼されている。</original>
+			<edited>義理と情に厚い、面倒見の良い人物で
+仲間から信頼されている。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Xyst03" offset="00" relocatable="true" max_length="0">
+			<original>「聖魔の光石」</original>
+			<edited>「聖魔の光石」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Alfonse" offset="00" relocatable="true" max_length="0">
+			<original>アルフォンス</original>
+			<edited>アルフォンス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Alfonse00" offset="00" relocatable="true" max_length="0">
+			<original>異界の国、アスク王国の王子。</original>
+			<edited>異界の国、アスク王国の王子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Alfonse01" offset="00" relocatable="true" max_length="0">
+			<original>優しく真面目な青年で、国を守る特務機関
+「ヴァイス・ブレイヴ」の一員。</original>
+			<edited>優しく真面目な青年で、国を守る特務機関
+「ヴァイス・ブレイヴ」の一員。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Alfonse02" offset="00" relocatable="true" max_length="0">
+			<original>どんな苦境にあっても決して諦めず、
+勝利の道を見つけ出す、強い心を持つ。</original>
+			<edited>どんな苦境にあっても決して諦めず、
+勝利の道を見つけ出す、強い心を持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Alfonse03" offset="00" relocatable="true" max_length="0">
+			<original>「ヒーローズ」</original>
+			<edited>「ヒーローズ」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Sharena" offset="00" relocatable="true" max_length="0">
+			<original>シャロン</original>
+			<edited>シャロン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sharena00" offset="00" relocatable="true" max_length="0">
+			<original>異界の国、アスク王国の王女。</original>
+			<edited>異界の国、アスク王国の王女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sharena01" offset="00" relocatable="true" max_length="0">
+			<original>明るく元気な少女で、国を守る特務機関
+「ヴァイス・ブレイヴ」の一員。</original>
+			<edited>明るく元気な少女で、国を守る特務機関
+「ヴァイス・ブレイヴ」の一員。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sharena02" offset="00" relocatable="true" max_length="0">
+			<original>天真爛漫で、人懐っこい性格をしており
+異界の英雄たちと仲良くなることを望む。</original>
+			<edited>天真爛漫で、人懐っこい性格をしており
+異界の英雄たちと仲良くなることを望む。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sharena03" offset="00" relocatable="true" max_length="0">
+			<original>「ヒーローズ」</original>
+			<edited>「ヒーローズ」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Anna" offset="00" relocatable="true" max_length="0">
+			<original>アンナ</original>
+			<edited>アンナ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Anna00" offset="00" relocatable="true" max_length="0">
+			<original>異界の国、アスク王国の戦士。</original>
+			<edited>異界の国、アスク王国の戦士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Anna01" offset="00" relocatable="true" max_length="0">
+			<original>経験豊かな女性で、国を守る特務機関
+「ヴァイス・ブレイヴ」の隊長。</original>
+			<edited>経験豊かな女性で、国を守る特務機関
+「ヴァイス・ブレイヴ」の隊長。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Anna02" offset="00" relocatable="true" max_length="0">
+			<original>面倒見の良い、とても頼れる人物。
+だがお金のことになると、少々分別を失う。</original>
+			<edited>面倒見の良い、とても頼れる人物。
+だがお金のことになると、少々分別を失う。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Anna03" offset="00" relocatable="true" max_length="0">
+			<original>「ヒーローズ」</original>
+			<edited>「ヒーローズ」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Lueur00" offset="00" relocatable="true" max_length="0">
+			<original>戦の中で絶命するが「紋章の奇跡」により
+十三番目の紋章士として新たな生を受けた。</original>
+			<edited>戦の中で絶命するが「紋章の奇跡」により
+十三番目の紋章士として新たな生を受けた。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Lueur01" offset="00" relocatable="true" max_length="0">
+			<original>紋章士でありながら実体も持つという
+稀有な能力を駆使し、平和のために戦う。</original>
+			<edited>紋章士でありながら実体も持つという
+稀有な能力を駆使し、平和のために戦う。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ring_Marth" offset="00" relocatable="true" max_length="0">
+			<original>英雄王の指輪</original>
+			<edited>英雄王の指輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Ring_Marth" offset="00" relocatable="true" max_length="0">
+			<original>通称『始まりの紋章士』マルスが宿る指輪。
+高潔でカリスマに溢れた英雄の中の英雄。</original>
+			<edited>通称『始まりの紋章士』マルスが宿る指輪。
+高潔でカリスマに溢れた英雄の中の英雄。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ring_Siglud" offset="00" relocatable="true" max_length="0">
+			<original>聖騎士の指輪</original>
+			<edited>聖騎士の指輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Ring_Siglud" offset="00" relocatable="true" max_length="0">
+			<original>通称『聖戦の紋章士』シグルドが宿る指輪。
+聖戦士の血を受け継ぐ清廉なる騎士。</original>
+			<edited>通称『聖戦の紋章士』シグルドが宿る指輪。
+聖戦士の血を受け継ぐ清廉なる騎士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ring_Celica" offset="00" relocatable="true" max_length="0">
+			<original>慈愛の王女の指輪</original>
+			<edited>慈愛の王女の指輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Ring_Celica" offset="00" relocatable="true" max_length="0">
+			<original>通称『響きの紋章士』セリカが宿る指輪。
+豊穣の国の王女。神官戦士でもある。</original>
+			<edited>通称『響きの紋章士』セリカが宿る指輪。
+豊穣の国の王女。神官戦士でもある。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ring_Micaiah" offset="00" relocatable="true" max_length="0">
+			<original>暁の巫女の指輪</original>
+			<edited>暁の巫女の指輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Ring_Micaiah" offset="00" relocatable="true" max_length="0">
+			<original>通称『暁の紋章士』ミカヤが宿る指輪。
+治癒や未来の予見など、不思議な力を持つ。</original>
+			<edited>通称『暁の紋章士』ミカヤが宿る指輪。
+治癒や未来の予見など、不思議な力を持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ring_Roy" offset="00" relocatable="true" max_length="0">
+			<original>若き獅子の指輪</original>
+			<edited>若き獅子の指輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Ring_Roy" offset="00" relocatable="true" max_length="0">
+			<original>通称『封印の紋章士』ロイが宿る指輪。
+勇敢で才知に長けた、将の器を持つ公子。</original>
+			<edited>通称『封印の紋章士』ロイが宿る指輪。
+勇敢で才知に長けた、将の器を持つ公子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ring_Lin" offset="00" relocatable="true" max_length="0">
+			<original>草原の公女の指輪</original>
+			<edited>草原の公女の指輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Ring_Lin" offset="00" relocatable="true" max_length="0">
+			<original>通称『烈火の紋章士』リンが宿る指輪。
+大自然と共に生きる遊牧民で、凄腕の剣士。</original>
+			<edited>通称『烈火の紋章士』リンが宿る指輪。
+大自然と共に生きる遊牧民で、凄腕の剣士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ring_Ike" offset="00" relocatable="true" max_length="0">
+			<original>蒼炎の勇者の指輪</original>
+			<edited>蒼炎の勇者の指輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Ring_Ike" offset="00" relocatable="true" max_length="0">
+			<original>通称『蒼炎の紋章士』アイクが宿る指輪。
+高名な傭兵団長で、比類無き戦技を持つ。</original>
+			<edited>通称『蒼炎の紋章士』アイクが宿る指輪。
+高名な傭兵団長で、比類無き戦技を持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ring_Lucina" offset="00" relocatable="true" max_length="0">
+			<original>聖王女の指輪</original>
+			<edited>聖王女の指輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Ring_Lucina" offset="00" relocatable="true" max_length="0">
+			<original>通称『覚醒の紋章士』ルキナが宿る指輪。
+希望を信じ、絶望に屈しない、聖なる王女。</original>
+			<edited>通称『覚醒の紋章士』ルキナが宿る指輪。
+希望を信じ、絶望に屈しない、聖なる王女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ring_Leaf" offset="00" relocatable="true" max_length="0">
+			<original>賢王の指輪</original>
+			<edited>賢王の指輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Ring_Leaf" offset="00" relocatable="true" max_length="0">
+			<original>通称『系譜の紋章士』リーフが宿る指輪。
+二人の聖戦士の血を引く、勇ましき王子。</original>
+			<edited>通称『系譜の紋章士』リーフが宿る指輪。
+二人の聖戦士の血を引く、勇ましき王子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ring_Kamui" offset="00" relocatable="true" max_length="0">
+			<original>未来を選びし者の指輪</original>
+			<edited>未来を選びし者の指輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Ring_Kamui" offset="00" relocatable="true" max_length="0">
+			<original>通称『選択の紋章士』カムイが宿る指輪。
+神祖竜の血を引く、折れない心を持つ王族。</original>
+			<edited>通称『選択の紋章士』カムイが宿る指輪。
+神祖竜の血を引く、折れない心を持つ王族。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ring_Eirik" offset="00" relocatable="true" max_length="0">
+			<original>碧き風空の指輪</original>
+			<edited>碧き風空の指輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Ring_Eirik" offset="00" relocatable="true" max_length="0">
+			<original>通称『聖魔の紋章士』エイリークが宿る指輪。
+平和の為に剣を振るう、心優しき王女。</original>
+			<edited>通称『聖魔の紋章士』エイリークが宿る指輪。
+平和の為に剣を振るう、心優しき王女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ring_Byleth" offset="00" relocatable="true" max_length="0">
+			<original>導き手の指輪</original>
+			<edited>導き手の指輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Ring_Byleth" offset="00" relocatable="true" max_length="0">
+			<original>通称『風花の紋章士』ベレトが宿る指輪。
+元傭兵にして、士官学校の指導者。</original>
+			<edited>通称『風花の紋章士』ベレトが宿る指輪。
+元傭兵にして、士官学校の指導者。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ring_Lueur" offset="00" relocatable="true" max_length="0">
+			<original>紡ぎし者の指輪</original>
+			<edited>紡ぎし者の指輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ring_CharacterName" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;の指輪</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;の指輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ring_God_Category" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;の絆の指輪</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;の絆の指輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ring_Special_Category" offset="00" relocatable="true" max_length="0">
+			<original>特別な絆の指輪</original>
+			<edited>特別な絆の指輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BondsRing_RankS" offset="00" relocatable="true" max_length="0">
+			<original>ランクS</original>
+			<edited>ランクS</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BondsRing_RankA" offset="00" relocatable="true" max_length="0">
+			<original>ランクA</original>
+			<edited>ランクA</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BondsRing_RankB" offset="00" relocatable="true" max_length="0">
+			<original>ランクB</original>
+			<edited>ランクB</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BondsRing_RankC" offset="00" relocatable="true" max_length="0">
+			<original>ランクC</original>
+			<edited>ランクC</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_World_Marth" offset="00" relocatable="true" max_length="0">
+			<original>英雄王の世界</original>
+			<edited>英雄王の世界</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_World_Siglud" offset="00" relocatable="true" max_length="0">
+			<original>聖騎士の世界</original>
+			<edited>聖騎士の世界</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_World_Celica" offset="00" relocatable="true" max_length="0">
+			<original>慈愛の王女の世界</original>
+			<edited>慈愛の王女の世界</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_World_Micaiah" offset="00" relocatable="true" max_length="0">
+			<original>暁の巫女の世界</original>
+			<edited>暁の巫女の世界</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_World_Roy" offset="00" relocatable="true" max_length="0">
+			<original>若き獅子の世界</original>
+			<edited>若き獅子の世界</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_World_Lin" offset="00" relocatable="true" max_length="0">
+			<original>草原の公女の世界</original>
+			<edited>草原の公女の世界</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_World_Ike" offset="00" relocatable="true" max_length="0">
+			<original>蒼炎の勇者の世界</original>
+			<edited>蒼炎の勇者の世界</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_World_Lucina" offset="00" relocatable="true" max_length="0">
+			<original>聖王女の世界</original>
+			<edited>聖王女の世界</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_World_Leaf" offset="00" relocatable="true" max_length="0">
+			<original>賢王の世界</original>
+			<edited>賢王の世界</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_World_Kamui" offset="00" relocatable="true" max_length="0">
+			<original>未来を選びし者の世界</original>
+			<edited>未来を選びし者の世界</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_World_Eirik" offset="00" relocatable="true" max_length="0">
+			<original>碧き風空の世界</original>
+			<edited>碧き風空の世界</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_World_Byleth" offset="00" relocatable="true" max_length="0">
+			<original>導き手の世界</original>
+			<edited>導き手の世界</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_World_Special" offset="00" relocatable="true" max_length="0">
+			<original>八百万の世界</original>
+			<edited>八百万の世界</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_World_Lueur" offset="00" relocatable="true" max_length="0">
+			<original>紡ぎし者の世界</original>
+			<edited>紡ぎし者の世界</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

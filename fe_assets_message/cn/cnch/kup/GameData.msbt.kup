@@ -1,0 +1,1825 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_PLACE_Filene" offset="00" relocatable="true" max_length="0">
+			<original>费列聂</original>
+			<edited>费列聂</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PLACE_Brodia" offset="00" relocatable="true" max_length="0">
+			<original>布罗帝亚</original>
+			<edited>布罗帝亚</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PLACE_Ircion" offset="00" relocatable="true" max_length="0">
+			<original>伊尔席翁</original>
+			<edited>伊尔席翁</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PLACE_Solum" offset="00" relocatable="true" max_length="0">
+			<original>索尔姆</original>
+			<edited>索尔姆</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PLACE_Lithos" offset="00" relocatable="true" max_length="0">
+			<original>里特司</original>
+			<edited>里特司</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PLACE_Gradron" offset="00" relocatable="true" max_length="0">
+			<original>古拉铎隆</original>
+			<edited>古拉铎隆</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M000_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>序章</original>
+			<edited>序章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M000" offset="00" relocatable="true" max_length="0">
+			<original>纹章士</original>
+			<edited>纹章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M000_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>神龙王城</original>
+			<edited>神龙王城</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M001_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第1章</original>
+			<edited>第1章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M001" offset="00" relocatable="true" max_length="0">
+			<original>苏醒</original>
+			<edited>苏醒</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M001_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>里特司草原</original>
+			<edited>里特司草原</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M002_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第2章</original>
+			<edited>第2章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M002" offset="00" relocatable="true" max_length="0">
+			<original>神龙王琉弥艾尔</original>
+			<edited>神龙王琉弥艾尔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M002_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>神龙王城庭园</original>
+			<edited>神龙王城庭园</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M003_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第3章</original>
+			<edited>第3章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M003" offset="00" relocatable="true" max_length="0">
+			<original>袭击者</original>
+			<edited>袭击者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M003_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>纹章戒指之间</original>
+			<edited>纹章戒指之间</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M004_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第4章</original>
+			<edited>第4章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M004" offset="00" relocatable="true" max_length="0">
+			<original>花之风车村</original>
+			<edited>花之风车村</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M004_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>弗鲁鲁风车村</original>
+			<edited>弗鲁鲁风车村</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M005_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第5章</original>
+			<edited>第5章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M005" offset="00" relocatable="true" max_length="0">
+			<original>夺回王城</original>
+			<edited>夺回王城</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M005_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>费列聂城</original>
+			<edited>费列聂城</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M005_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>听闻伊尔席翁军已攻入费列聂城，
+神龙军立即赶往王城，保护伊芙女王。</original>
+			<edited>听闻伊尔席翁军已攻入费列聂城，
+神龙军立即赶往王城，保护伊芙女王。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M006_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第6章</original>
+			<edited>第6章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M006" offset="00" relocatable="true" max_length="0">
+			<original>被夺走的戒指</original>
+			<edited>被夺走的戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M006_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>山道聚落</original>
+			<edited>山道聚落</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M006_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>一行人顺利守住费列聂王城后，
+动身前往保管“拂晓巫女戒指”的祠堂。</original>
+			<edited>一行人顺利守住费列聂王城后，
+动身前往保管“拂晓巫女戒指”的祠堂。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M007_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第7章</original>
+			<edited>第7章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M007" offset="00" relocatable="true" max_length="0">
+			<original>暗黑纹章士</original>
+			<edited>暗黑纹章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M007_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>古兰斯尔大桥</original>
+			<edited>古兰斯尔大桥</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M007_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>为了求取交由布罗帝亚王国保管的戒指，
+神龙军一行人打算跨越国境。</original>
+			<edited>为了求取交由布罗帝亚王国保管的戒指，
+神龙军一行人打算跨越国境。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M008_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第8章</original>
+			<edited>第8章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M008" offset="00" relocatable="true" max_length="0">
+			<original>英勇尚武的王国</original>
+			<edited>英勇尚武的王国</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M008_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>布罗帝亚城</original>
+			<edited>布罗帝亚城</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M008_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>神龙军瓦解了伊尔席翁军的突袭，
+顺利抵达目的地布罗帝亚城。</original>
+			<edited>神龙军瓦解了伊尔席翁军的突袭，
+顺利抵达目的地布罗帝亚城。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M009_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第9章</original>
+			<edited>第9章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M009" offset="00" relocatable="true" max_length="0">
+			<original>冲突</original>
+			<edited>冲突</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M009_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>国境堡垒</original>
+			<edited>国境堡垒</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M009_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>莫力翁王与神龙军接受海亚信斯王的宣战，
+前往布罗帝亚与伊尔席翁的国境交界处。</original>
+			<edited>莫力翁王与神龙军接受海亚信斯王的宣战，
+前往布罗帝亚与伊尔席翁的国境交界处。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M010_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第10章</original>
+			<edited>第10章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M010" offset="00" relocatable="true" max_length="0">
+			<original>邪龙尚卜尔</original>
+			<edited>邪龙尚卜尔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M010_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>德斯坦大教会</original>
+			<edited>德斯坦大教会</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M010_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>为了救出遭掳走的莫力翁王，
+神龙军赶往位于伊尔席翁境内的教会。</original>
+			<edited>为了救出遭掳走的莫力翁王，
+神龙军赶往位于伊尔席翁境内的教会。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M011_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第11章</original>
+			<edited>第11章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M011" offset="00" relocatable="true" max_length="0">
+			<original>撤退</original>
+			<edited>撤退</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M011_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>影子原野</original>
+			<edited>影子原野</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M012_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第12章</original>
+			<edited>第12章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M012" offset="00" relocatable="true" max_length="0">
+			<original>沙漠自卫团</original>
+			<edited>沙漠自卫团</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M012_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>图拉沙漠</original>
+			<edited>图拉沙漠</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M012_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>戒指被贝珥夺走后，为重整旗鼓，
+神龙军决心直奔索尔姆王国。</original>
+			<edited>戒指被贝珥夺走后，为重整旗鼓，
+神龙军决心直奔索尔姆王国。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M013_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第13章</original>
+			<edited>第13章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M013" offset="00" relocatable="true" max_length="0">
+			<original>绿洲勇者</original>
+			<edited>绿洲勇者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M013_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>绿洲之乡</original>
+			<edited>绿洲之乡</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M013_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>为了寻找持有“苍炎勇者戒指”的
+蜜丝提拉，神龙军动身前往绿洲。</original>
+			<edited>为了寻找持有“苍炎勇者戒指”的
+蜜丝提拉，神龙军动身前往绿洲。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M014_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第14章</original>
+			<edited>第14章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M014" offset="00" relocatable="true" max_length="0">
+			<original>索尔姆攻防战</original>
+			<edited>索尔姆攻防战</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M014_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>索尔姆城</original>
+			<edited>索尔姆城</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M014_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>奥尔坦希亚率兵攻打索尔姆王城，
+收到消息的神龙军急忙回城支援。</original>
+			<edited>奥尔坦希亚率兵攻打索尔姆王城，
+收到消息的神龙军急忙回城支援。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M015_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第15章</original>
+			<edited>第15章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M015" offset="00" relocatable="true" max_length="0">
+			<original>废墟的舞蹈家</original>
+			<edited>废墟的舞蹈家</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M015_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>北城塞</original>
+			<edited>北城塞</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M015_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>索尔姆王城一役结束后，神龙军前往
+“选择未来之人戒指”所在的城塞。</original>
+			<edited>索尔姆王城一役结束后，神龙军前往
+“选择未来之人戒指”所在的城塞。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M016_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第16章</original>
+			<edited>第16章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M016" offset="00" relocatable="true" max_length="0">
+			<original>穿越海岸线</original>
+			<edited>穿越海岸线</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M016_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>绀碧海岸</original>
+			<edited>绀碧海岸</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M016_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>神龙军在城塞成功收回新的戒指。
+众人正商讨今后策略之际，收到了一则消息。</original>
+			<edited>神龙军在城塞成功收回新的戒指。
+众人正商讨今后策略之际，收到了一则消息。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M017_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第17章</original>
+			<edited>第17章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M017" offset="00" relocatable="true" max_length="0">
+			<original>粉碎的和平</original>
+			<edited>粉碎的和平</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M017_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>弗鲁鲁港</original>
+			<edited>弗鲁鲁港</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M017_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>神龙军紧追驶向费列聂的伊尔席翁军舰，
+最终抵达了弗鲁鲁港。</original>
+			<edited>神龙军紧追驶向费列聂的伊尔席翁军舰，
+最终抵达了弗鲁鲁港。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M018_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第18章</original>
+			<edited>第18章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M018" offset="00" relocatable="true" max_length="0">
+			<original>冰冷的航线</original>
+			<edited>冰冷的航线</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M018_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>伊尔席翁航路</original>
+			<edited>伊尔席翁航路</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M018_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>得知贝珥不为人知的真相后，
+神龙军动身前往邪龙的所在地伊尔席翁。</original>
+			<edited>得知贝珥不为人知的真相后，
+神龙军动身前往邪龙的所在地伊尔席翁。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M019_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第19章</original>
+			<edited>第19章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M019" offset="00" relocatable="true" max_length="0">
+			<original>死之海港</original>
+			<edited>死之海港</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M019_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>吉布尔港</original>
+			<edited>吉布尔港</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M019_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>神龙军击退埋伏于海上的刺客后，
+抵达了伊尔席翁的繁荣海港。</original>
+			<edited>神龙军击退埋伏于海上的刺客后，
+抵达了伊尔席翁的繁荣海港。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M020_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第20章</original>
+			<edited>第20章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M020" offset="00" relocatable="true" max_length="0">
+			<original>无王之城</original>
+			<edited>无王之城</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M020_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>伊尔席翁城</original>
+			<edited>伊尔席翁城</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M020_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>顺利击败玛伦与莫布并成功夺回戒指，
+神龙军总算得以前往伊尔席翁城。</original>
+			<edited>顺利击败玛伦与莫布并成功夺回戒指，
+神龙军总算得以前往伊尔席翁城。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M021_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第21章</original>
+			<edited>第21章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M021" offset="00" relocatable="true" max_length="0">
+			<original>归来</original>
+			<edited>归来</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M021_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>神龙王城</original>
+			<edited>神龙王城</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M021_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>从孤栗口中得知了真相的神龙一行人，
+紧追邪龙的脚步，前往里特司的神龙王城。</original>
+			<edited>从孤栗口中得知了真相的神龙一行人，
+紧追邪龙的脚步，前往里特司的神龙王城。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M022_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第22章</original>
+			<edited>第22章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M022" offset="00" relocatable="true" max_length="0">
+			<original>神龙与邪龙</original>
+			<edited>神龙与邪龙</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M022_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>神龙王城</original>
+			<edited>神龙王城</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M023_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第23章</original>
+			<edited>第23章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M023" offset="00" relocatable="true" max_length="0">
+			<original>四狗</original>
+			<edited>四狗</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M023_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>熔岩地带</original>
+			<edited>熔岩地带</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M023_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>为了解除艾雷欧斯上空的结界，
+神龙军造访某个刻有邪龙纹的地区。</original>
+			<edited>为了解除艾雷欧斯上空的结界，
+神龙军造访某个刻有邪龙纹的地区。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M024_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第24章</original>
+			<edited>第24章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M024" offset="00" relocatable="true" max_length="0">
+			<original>回忆</original>
+			<edited>回忆</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M024_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>高山地带</original>
+			<edited>高山地带</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M024_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>神龙军从赛皮雅手中拿到魔法器具后，
+前往据传刻有第二个邪龙纹的湖泊。</original>
+			<edited>神龙军从赛皮雅手中拿到魔法器具后，
+前往据传刻有第二个邪龙纹的湖泊。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M025_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第25章</original>
+			<edited>第25章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M025" offset="00" relocatable="true" max_length="0">
+			<original>最后的门卫</original>
+			<edited>最后的门卫</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M025_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>古拉铎隆神殿</original>
+			<edited>古拉铎隆神殿</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M025_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>神龙遇见了千年前的自己。
+仅差最后一个邪龙纹，但在那的却是……</original>
+			<edited>神龙遇见了千年前的自己。
+仅差最后一个邪龙纹，但在那的却是……</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M026_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>第26章</original>
+			<edited>第26章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M026" offset="00" relocatable="true" max_length="0">
+			<original>最终结合</original>
+			<edited>最终结合</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_M026_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>异界之门</original>
+			<edited>异界之门</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S001_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>外传</original>
+			<edited>外传</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S001" offset="00" relocatable="true" max_length="0">
+			<original>大器晚成</original>
+			<edited>大器晚成</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S001_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>茶园之乡</original>
+			<edited>茶园之乡</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S001_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>和平的茶园之乡遭遇异形兵突袭。
+神龙军闻讯后立即前去营救村民。</original>
+			<edited>和平的茶园之乡遭遇异形兵突袭。
+神龙军闻讯后立即前去营救村民。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S002_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>外传</original>
+			<edited>外传</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S002" offset="00" relocatable="true" max_length="0">
+			<original>秘密的旅行商人</original>
+			<edited>秘密的旅行商人</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S002_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>盗贼团秘密基地</original>
+			<edited>盗贼团秘密基地</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S002_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>神龙军发现了盗贼团的的据点。
+在那有位觊觎宝藏的小访客……</original>
+			<edited>神龙军发现了盗贼团的的据点。
+在那有位觊觎宝藏的小访客……</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S003_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>外传</original>
+			<edited>外传</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S003" offset="00" relocatable="true" max_length="0">
+			<original>圣公主</original>
+			<edited>圣公主</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S003_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>众神斗技场</original>
+			<edited>众神斗技场</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S003_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>与纹章士露琪娜渊源深厚之地。
+将于此面临一场试炼。</original>
+			<edited>与纹章士露琪娜渊源深厚之地。
+将于此面临一场试炼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S004_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>外传</original>
+			<edited>外传</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S004" offset="00" relocatable="true" max_length="0">
+			<original>草原女爵</original>
+			<edited>草原女爵</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S004_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>疾风草原</original>
+			<edited>疾风草原</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S004_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>与纹章士琳渊源深厚之地。
+将于此面临一场试炼。</original>
+			<edited>与纹章士琳渊源深厚之地。
+将于此面临一场试炼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S005_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>外传</original>
+			<edited>外传</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S005" offset="00" relocatable="true" max_length="0">
+			<original>苍炎勇者</original>
+			<edited>苍炎勇者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S005_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>希望堡垒</original>
+			<edited>希望堡垒</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S005_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>与纹章士艾克渊源深厚之地。
+将于此面临一场试炼。</original>
+			<edited>与纹章士艾克渊源深厚之地。
+将于此面临一场试炼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S006_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>外传</original>
+			<edited>外传</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S006" offset="00" relocatable="true" max_length="0">
+			<original>引领者</original>
+			<edited>引领者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S006_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>神圣墓地</original>
+			<edited>神圣墓地</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S006_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>与纹章士贝雷特渊源深厚之地。
+将于此面临一场试炼。</original>
+			<edited>与纹章士贝雷特渊源深厚之地。
+将于此面临一场试炼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S007_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>外传</original>
+			<edited>外传</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S007" offset="00" relocatable="true" max_length="0">
+			<original>选择未来之人</original>
+			<edited>选择未来之人</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S007_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>命运岔路</original>
+			<edited>命运岔路</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S007_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>与纹章士神威渊源深厚之地。
+将于此面临一场试炼。</original>
+			<edited>与纹章士神威渊源深厚之地。
+将于此面临一场试炼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S008_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>外传</original>
+			<edited>外传</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S008" offset="00" relocatable="true" max_length="0">
+			<original>碧绿风空</original>
+			<edited>碧绿风空</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S008_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>魔之遗迹</original>
+			<edited>魔之遗迹</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S008_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>与纹章士艾莉可渊源深厚之地。
+将于此面临一场试炼。</original>
+			<edited>与纹章士艾莉可渊源深厚之地。
+将于此面临一场试炼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S009_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>外传</original>
+			<edited>外传</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S009" offset="00" relocatable="true" max_length="0">
+			<original>圣战骑士</original>
+			<edited>圣战骑士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S009_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>光与暗的大河</original>
+			<edited>光与暗的大河</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S009_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>与纹章士西格尔特渊源深厚之地。
+将于此面临一场试炼。</original>
+			<edited>与纹章士西格尔特渊源深厚之地。
+将于此面临一场试炼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S010_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>外传</original>
+			<edited>外传</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S010" offset="00" relocatable="true" max_length="0">
+			<original>贤王</original>
+			<edited>贤王</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S010_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>连绵桥</original>
+			<edited>连绵桥</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S010_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>与纹章士里弗渊源深厚之地。
+将于此面临一场试炼。</original>
+			<edited>与纹章士里弗渊源深厚之地。
+将于此面临一场试炼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S011_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>外传</original>
+			<edited>外传</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S011" offset="00" relocatable="true" max_length="0">
+			<original>拂晓巫女</original>
+			<edited>拂晓巫女</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S011_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>结冻堡垒</original>
+			<edited>结冻堡垒</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S011_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>与纹章士米卡雅渊源深厚之地。
+将于此面临一场试炼。</original>
+			<edited>与纹章士米卡雅渊源深厚之地。
+将于此面临一场试炼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S012_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>外传</original>
+			<edited>外传</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S012" offset="00" relocatable="true" max_length="0">
+			<original>幼狮</original>
+			<edited>幼狮</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S012_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>封印大地</original>
+			<edited>封印大地</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S012_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>与纹章士罗伊渊源深厚之地。
+将于此面临一场试炼。</original>
+			<edited>与纹章士罗伊渊源深厚之地。
+将于此面临一场试炼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S013_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>外传</original>
+			<edited>外传</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S013" offset="00" relocatable="true" max_length="0">
+			<original>慈悲公主</original>
+			<edited>慈悲公主</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S013_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>忘却祠堂</original>
+			<edited>忘却祠堂</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S013_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>与纹章士赛莉卡渊源深厚之地。
+将于此面临一场试炼。</original>
+			<edited>与纹章士赛莉卡渊源深厚之地。
+将于此面临一场试炼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S014_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>外传</original>
+			<edited>外传</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S014" offset="00" relocatable="true" max_length="0">
+			<original>英雄王</original>
+			<edited>英雄王</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S014_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>英雄城迹</original>
+			<edited>英雄城迹</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S014_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>与纹章士马尔斯渊源深厚之地。
+将于此面临一场试炼。</original>
+			<edited>与纹章士马尔斯渊源深厚之地。
+将于此面临一场试炼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S015_PREFIX" offset="00" relocatable="true" max_length="0">
+			<original>外传</original>
+			<edited>外传</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S015" offset="00" relocatable="true" max_length="0">
+			<original>编织者</original>
+			<edited>编织者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S015_PLACE" offset="00" relocatable="true" max_length="0">
+			<original>回忆庭园</original>
+			<edited>回忆庭园</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_S015_OUTLINE" offset="00" relocatable="true" max_length="0">
+			<original>令人联想到神龙王城庭园之地。
+有枚神秘戒指被安放于此。</original>
+			<edited>令人联想到神龙王城庭园之地。
+有枚神秘戒指被安放于此。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ENCOUNT" offset="00" relocatable="true" max_length="0">
+			<original>遭遇战</original>
+			<edited>遭遇战</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ENCOUNT_TRAINING" offset="00" relocatable="true" max_length="0">
+			<original>训练</original>
+			<edited>训练</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_Title" offset="00" relocatable="true" max_length="0">
+			<original>胜利条件</original>
+			<edited>胜利条件</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_Title_LOSE" offset="00" relocatable="true" max_length="0">
+			<original>失败条件</original>
+			<edited>失败条件</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_ANNIHILATE" offset="00" relocatable="true" max_length="0">
+			<original>击败所有敌人</original>
+			<edited>击败所有敌人</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_DESTROY_BOSS" offset="00" relocatable="true" max_length="0">
+			<original>击败敌方将领</original>
+			<edited>击败敌方将领</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_DESTROY_BOSS_TURN" offset="00" relocatable="true" max_length="0">
+			<original>于&#xE;&#x1;&#x0;&#x0;回合以内击败敌方将领</original>
+			<edited>于&#xE;&#x1;&#x0;&#x0;回合以内击败敌方将领</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_SURVIVE_TURN" offset="00" relocatable="true" max_length="0">
+			<original>于&#xE;&#x1;&#x0;&#x0;回合内存活</original>
+			<edited>于&#xE;&#x1;&#x0;&#x0;回合内存活</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_COMMON_LOSE" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x3;&#x0;被击败</original>
+			<edited>&#xE;&#x6;&#x3;&#x0;被击败</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_WANNIHILATION_LOSE" offset="00" relocatable="true" max_length="0">
+			<original>我方单位全部被击败</original>
+			<edited>我方单位全部被击败</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M000_WIN" offset="00" relocatable="true" max_length="0">
+			<original>击败敌人</original>
+			<edited>击败敌人</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M001_WIN" offset="00" relocatable="true" max_length="0">
+			<original>击败所有敌人</original>
+			<edited>击败所有敌人</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M002_WIN" offset="00" relocatable="true" max_length="0">
+			<original>击败琉弥艾尔</original>
+			<edited>击败琉弥艾尔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M003_WIN" offset="00" relocatable="true" max_length="0">
+			<original>击败所有敌人</original>
+			<edited>击败所有敌人</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M004_WIN" offset="00" relocatable="true" max_length="0">
+			<original>击败罗丹</original>
+			<edited>击败罗丹</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M005_WIN" offset="00" relocatable="true" max_length="0">
+			<original>击败聂尔凯</original>
+			<edited>击败聂尔凯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M006_WIN" offset="00" relocatable="true" max_length="0">
+			<original>击败堤蓝达</original>
+			<edited>击败堤蓝达</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M006_LOSE" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x3;&#x0;或尤娜卡被击败</original>
+			<edited>&#xE;&#x6;&#x3;&#x0;或尤娜卡被击败</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M007_WIN" offset="00" relocatable="true" max_length="0">
+			<original>击败奥尔坦希亚</original>
+			<edited>击败奥尔坦希亚</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M008_WIN" offset="00" relocatable="true" max_length="0">
+			<original>击败艾比</original>
+			<edited>击败艾比</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M008_LOSE" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x3;&#x0;被击败或防卫地点遭到入侵</original>
+			<edited>&#xE;&#x6;&#x3;&#x0;被击败或防卫地点遭到入侵</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M009_WIN" offset="00" relocatable="true" max_length="0">
+			<original>击败艾比</original>
+			<edited>击败艾比</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M010_WIN" offset="00" relocatable="true" max_length="0">
+			<original>击败海亚信斯、异形莫力翁</original>
+			<edited>击败海亚信斯、异形莫力翁</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M011_WIN" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x3;&#x0;成功撤离战场</original>
+			<edited>&#xE;&#x6;&#x3;&#x0;成功撤离战场</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M012_WIN" offset="00" relocatable="true" max_length="0">
+			<original>击败所有敌人</original>
+			<edited>击败所有敌人</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M013_WIN" offset="00" relocatable="true" max_length="0">
+			<original>击败铁兹、拓兹</original>
+			<edited>击败铁兹、拓兹</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M014_WIN" offset="00" relocatable="true" max_length="0">
+			<original>击败奥尔坦希亚、赛皮雅、玛伦、莫布</original>
+			<edited>击败奥尔坦希亚、赛皮雅、玛伦、莫布</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M015_WIN" offset="00" relocatable="true" max_length="0">
+			<original>赛安达斯成功撤离战场</original>
+			<edited>赛安达斯成功撤离战场</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M015_LOSE" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x3;&#x0;或赛安达斯被击败</original>
+			<edited>&#xE;&#x6;&#x3;&#x0;或赛安达斯被击败</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M016_WIN" offset="00" relocatable="true" max_length="0">
+			<original>击败玛伦、莫布</original>
+			<edited>击败玛伦、莫布</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M017_WIN" offset="00" relocatable="true" max_length="0">
+			<original>击败6名敌方将领</original>
+			<edited>击败6名敌方将领</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M018_WIN" offset="00" relocatable="true" max_length="0">
+			<original>击败亚彪姆</original>
+			<edited>击败亚彪姆</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M019_WIN" offset="00" relocatable="true" max_length="0">
+			<original>击败玛伦、莫布</original>
+			<edited>击败玛伦、莫布</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M020_WIN" offset="00" relocatable="true" max_length="0">
+			<original>击败孤栗</original>
+			<edited>击败孤栗</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M021_WIN" offset="00" relocatable="true" max_length="0">
+			<original>击败贝珥</original>
+			<edited>击败贝珥</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M022_WIN" offset="00" relocatable="true" max_length="0">
+			<original>收回所有纹章士戒指</original>
+			<edited>收回所有纹章士戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M023_WIN" offset="00" relocatable="true" max_length="0">
+			<original>击败赛皮雅、孤栗</original>
+			<edited>击败赛皮雅、孤栗</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M024_WIN" offset="00" relocatable="true" max_length="0">
+			<original>击败过去的&#xE;&#x6;&#x3;&#x0;</original>
+			<edited>击败过去的&#xE;&#x6;&#x3;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M024_LOSE" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x3;&#x0;被击败或超过&#xE;&#x1;&#x0;&#x0;回合</original>
+			<edited>&#xE;&#x6;&#x3;&#x0;被击败或超过&#xE;&#x1;&#x0;&#x0;回合</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M025_WIN" offset="00" relocatable="true" max_length="0">
+			<original>击败异形琉弥艾尔</original>
+			<edited>击败异形琉弥艾尔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_M026_WIN" offset="00" relocatable="true" max_length="0">
+			<original>击败尚卜尔</original>
+			<edited>击败尚卜尔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_S001_WIN" offset="00" relocatable="true" max_length="0">
+			<original>击败所有敌人</original>
+			<edited>击败所有敌人</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_S002_WIN" offset="00" relocatable="true" max_length="0">
+			<original>击败米坦</original>
+			<edited>击败米坦</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_S003_WIN" offset="00" relocatable="true" max_length="0">
+			<original>战胜纹章士露琪娜</original>
+			<edited>战胜纹章士露琪娜</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_S004_WIN" offset="00" relocatable="true" max_length="0">
+			<original>战胜纹章士琳</original>
+			<edited>战胜纹章士琳</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_S005_WIN" offset="00" relocatable="true" max_length="0">
+			<original>战胜纹章士艾克</original>
+			<edited>战胜纹章士艾克</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_S006_WIN" offset="00" relocatable="true" max_length="0">
+			<original>战胜纹章士贝雷特</original>
+			<edited>战胜纹章士贝雷特</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_S007_WIN" offset="00" relocatable="true" max_length="0">
+			<original>战胜纹章士神威</original>
+			<edited>战胜纹章士神威</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_S008_WIN" offset="00" relocatable="true" max_length="0">
+			<original>战胜纹章士艾莉可</original>
+			<edited>战胜纹章士艾莉可</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_S009_WIN" offset="00" relocatable="true" max_length="0">
+			<original>战胜纹章士西格尔特</original>
+			<edited>战胜纹章士西格尔特</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_S010_WIN" offset="00" relocatable="true" max_length="0">
+			<original>战胜纹章士里弗</original>
+			<edited>战胜纹章士里弗</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_S011_WIN" offset="00" relocatable="true" max_length="0">
+			<original>战胜纹章士米卡雅</original>
+			<edited>战胜纹章士米卡雅</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_S011_LOSE" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x3;&#x0;被击败或防卫地点遭到入侵</original>
+			<edited>&#xE;&#x6;&#x3;&#x0;被击败或防卫地点遭到入侵</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_S012_WIN" offset="00" relocatable="true" max_length="0">
+			<original>战胜纹章士罗伊</original>
+			<edited>战胜纹章士罗伊</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_S013_WIN" offset="00" relocatable="true" max_length="0">
+			<original>战胜纹章士赛莉卡</original>
+			<edited>战胜纹章士赛莉卡</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_S014_WIN" offset="00" relocatable="true" max_length="0">
+			<original>战胜纹章士马尔斯</original>
+			<edited>战胜纹章士马尔斯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_S015_WIN" offset="00" relocatable="true" max_length="0">
+			<original>夺回戒指</original>
+			<edited>夺回戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_S015_LOSE" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x3;&#x0;被击败或敌方带着戒指逃跑</original>
+			<edited>&#xE;&#x6;&#x3;&#x0;被击败或敌方带着戒指逃跑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_TURN_LOSE" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x3;&#x0;被击败或超过&#xE;&#x1;&#x0;&#x0;回合</original>
+			<edited>&#xE;&#x6;&#x3;&#x0;被击败或超过&#xE;&#x1;&#x0;&#x0;回合</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RULE_VERSUS_LOSE" offset="00" relocatable="true" max_length="0">
+			<original>所有我方单位都被击败，或超过&#xE;&#x1;&#x0;&#x0;回合。</original>
+			<edited>所有我方单位都被击败，或超过&#xE;&#x1;&#x0;&#x0;回合。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Nothing" offset="00" relocatable="true" max_length="0">
+			<original>无</original>
+			<edited>无</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Engage" offset="00" relocatable="true" max_length="0">
+			<original>纹章气</original>
+			<edited>纹章气</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_SoulOfDead" offset="00" relocatable="true" max_length="0">
+			<original>战死者之魂</original>
+			<edited>战死者之魂</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_GuardFence" offset="00" relocatable="true" max_length="0">
+			<original>防护栅栏</original>
+			<edited>防护栅栏</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_BreakableWall" offset="00" relocatable="true" max_length="0">
+			<original>脆弱的墙</original>
+			<edited>脆弱的墙</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Cargo" offset="00" relocatable="true" max_length="0">
+			<original>货物</original>
+			<edited>货物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Crystal" offset="00" relocatable="true" max_length="0">
+			<original>水晶</original>
+			<edited>水晶</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Pedestal" offset="00" relocatable="true" max_length="0">
+			<original>台座</original>
+			<edited>台座</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Rock" offset="00" relocatable="true" max_length="0">
+			<original>岩石</original>
+			<edited>岩石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_RockLarge" offset="00" relocatable="true" max_length="0">
+			<original>巨岩</original>
+			<edited>巨岩</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Sandbag" offset="00" relocatable="true" max_length="0">
+			<original>沙包</original>
+			<edited>沙包</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Chair" offset="00" relocatable="true" max_length="0">
+			<original>长椅</original>
+			<edited>长椅</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Paling" offset="00" relocatable="true" max_length="0">
+			<original>防护栏</original>
+			<edited>防护栏</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Barrier" offset="00" relocatable="true" max_length="0">
+			<original>防护墙</original>
+			<edited>防护墙</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_ObstacleLow" offset="00" relocatable="true" max_length="0">
+			<original>矮障碍物</original>
+			<edited>矮障碍物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Altar" offset="00" relocatable="true" max_length="0">
+			<original>祭坛</original>
+			<edited>祭坛</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Rubble" offset="00" relocatable="true" max_length="0">
+			<original>瓦砾</original>
+			<edited>瓦砾</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Pier" offset="00" relocatable="true" max_length="0">
+			<original>码头</original>
+			<edited>码头</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Ground" offset="00" relocatable="true" max_length="0">
+			<original>地面</original>
+			<edited>地面</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Forest" offset="00" relocatable="true" max_length="0">
+			<original>森林</original>
+			<edited>森林</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Grove" offset="00" relocatable="true" max_length="0">
+			<original>林地</original>
+			<edited>林地</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Desert" offset="00" relocatable="true" max_length="0">
+			<original>沙漠</original>
+			<edited>沙漠</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Quicksand" offset="00" relocatable="true" max_length="0">
+			<original>流沙</original>
+			<edited>流沙</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Shallow" offset="00" relocatable="true" max_length="0">
+			<original>浅滩</original>
+			<edited>浅滩</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_River" offset="00" relocatable="true" max_length="0">
+			<original>河川</original>
+			<edited>河川</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Waterway" offset="00" relocatable="true" max_length="0">
+			<original>水路</original>
+			<edited>水路</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Mountain" offset="00" relocatable="true" max_length="0">
+			<original>山</original>
+			<edited>山</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Sky" offset="00" relocatable="true" max_length="0">
+			<original>天空</original>
+			<edited>天空</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Bridge" offset="00" relocatable="true" max_length="0">
+			<original>桥</original>
+			<edited>桥</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_BridgeBroken" offset="00" relocatable="true" max_length="0">
+			<original>毁损的桥</original>
+			<edited>毁损的桥</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_BridgeRise" offset="00" relocatable="true" max_length="0">
+			<original>升起的桥</original>
+			<edited>升起的桥</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Ruin" offset="00" relocatable="true" max_length="0">
+			<original>毁损的建筑物</original>
+			<edited>毁损的建筑物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Windmill" offset="00" relocatable="true" max_length="0">
+			<original>风车</original>
+			<edited>风车</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_PrivateHouse" offset="00" relocatable="true" max_length="0">
+			<original>民宅</original>
+			<edited>民宅</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_House" offset="00" relocatable="true" max_length="0">
+			<original>建筑物</original>
+			<edited>建筑物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_StoneStatue" offset="00" relocatable="true" max_length="0">
+			<original>石像</original>
+			<edited>石像</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Building" offset="00" relocatable="true" max_length="0">
+			<original>建造物</original>
+			<edited>建造物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Hull" offset="00" relocatable="true" max_length="0">
+			<original>船身</original>
+			<edited>船身</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Sarcophagus" offset="00" relocatable="true" max_length="0">
+			<original>棺材</original>
+			<edited>棺材</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Object" offset="00" relocatable="true" max_length="0">
+			<original>障碍物</original>
+			<edited>障碍物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Bush" offset="00" relocatable="true" max_length="0">
+			<original>草丛</original>
+			<edited>草丛</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Sea" offset="00" relocatable="true" max_length="0">
+			<original>海</original>
+			<edited>海</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Tile" offset="00" relocatable="true" max_length="0">
+			<original>地板</original>
+			<edited>地板</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Lava" offset="00" relocatable="true" max_length="0">
+			<original>熔岩</original>
+			<edited>熔岩</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Wall" offset="00" relocatable="true" max_length="0">
+			<original>墙壁</original>
+			<edited>墙壁</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Stairs" offset="00" relocatable="true" max_length="0">
+			<original>楼梯</original>
+			<edited>楼梯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_SummonCircle" offset="00" relocatable="true" max_length="0">
+			<original>魔法阵</original>
+			<edited>魔法阵</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_WallLow" offset="00" relocatable="true" max_length="0">
+			<original>矮墙</original>
+			<edited>矮墙</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Door" offset="00" relocatable="true" max_length="0">
+			<original>门扉</original>
+			<edited>门扉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Chest" offset="00" relocatable="true" max_length="0">
+			<original>宝箱</original>
+			<edited>宝箱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Chest_Empty" offset="00" relocatable="true" max_length="0">
+			<original>空宝箱</original>
+			<edited>空宝箱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Roof" offset="00" relocatable="true" max_length="0">
+			<original>屋顶</original>
+			<edited>屋顶</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_TileCollapsed" offset="00" relocatable="true" max_length="0">
+			<original>崩塌地板</original>
+			<edited>崩塌地板</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_TileRecovery" offset="00" relocatable="true" max_length="0">
+			<original>回复地板</original>
+			<edited>回复地板</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_TileDefense" offset="00" relocatable="true" max_length="0">
+			<original>防卫地板</original>
+			<edited>防卫地板</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Fort" offset="00" relocatable="true" max_length="0">
+			<original>堡垒</original>
+			<edited>堡垒</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Pillar" offset="00" relocatable="true" max_length="0">
+			<original>柱</original>
+			<edited>柱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_PillarLarge" offset="00" relocatable="true" max_length="0">
+			<original>巨柱</original>
+			<edited>巨柱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Cliff" offset="00" relocatable="true" max_length="0">
+			<original>悬崖</original>
+			<edited>悬崖</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Bonfire" offset="00" relocatable="true" max_length="0">
+			<original>篝火</original>
+			<edited>篝火</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Candlestick" offset="00" relocatable="true" max_length="0">
+			<original>烛台</original>
+			<edited>烛台</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Beach" offset="00" relocatable="true" max_length="0">
+			<original>沙滩</original>
+			<edited>沙滩</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Shrubbery" offset="00" relocatable="true" max_length="0">
+			<original>绿篱</original>
+			<edited>绿篱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Deck" offset="00" relocatable="true" max_length="0">
+			<original>甲板</original>
+			<edited>甲板</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Mast" offset="00" relocatable="true" max_length="0">
+			<original>桅杆</original>
+			<edited>桅杆</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_EvilDragonVein" offset="00" relocatable="true" max_length="0">
+			<original>邪龙纹</original>
+			<edited>邪龙纹</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_BowCannon" offset="00" relocatable="true" max_length="0">
+			<original>弓弩炮台</original>
+			<edited>弓弩炮台</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_MagicCannon" offset="00" relocatable="true" max_length="0">
+			<original>魔炮台</original>
+			<edited>魔炮台</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_FireCannon" offset="00" relocatable="true" max_length="0">
+			<original>火炎炮台</original>
+			<edited>火炎炮台</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Ring_Siglud" offset="00" relocatable="true" max_length="0">
+			<original>圣战骑士戒指</original>
+			<edited>圣战骑士戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Ring_Celica" offset="00" relocatable="true" max_length="0">
+			<original>慈悲公主戒指</original>
+			<edited>慈悲公主戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Ring_Micaiah" offset="00" relocatable="true" max_length="0">
+			<original>拂晓巫女戒指</original>
+			<edited>拂晓巫女戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Ring_Roy" offset="00" relocatable="true" max_length="0">
+			<original>幼狮戒指</original>
+			<edited>幼狮戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Ring_Leaf" offset="00" relocatable="true" max_length="0">
+			<original>贤王戒指</original>
+			<edited>贤王戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Ring_Lucina" offset="00" relocatable="true" max_length="0">
+			<original>圣公主戒指</original>
+			<edited>圣公主戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Ring_Lin" offset="00" relocatable="true" max_length="0">
+			<original>草原女爵戒指</original>
+			<edited>草原女爵戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Ring_Ike" offset="00" relocatable="true" max_length="0">
+			<original>苍炎勇者戒指</original>
+			<edited>苍炎勇者戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Ring_Byleth" offset="00" relocatable="true" max_length="0">
+			<original>引领者戒指</original>
+			<edited>引领者戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Ring_Kamui" offset="00" relocatable="true" max_length="0">
+			<original>选择未来之人戒指</original>
+			<edited>选择未来之人戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Ring_Eirik" offset="00" relocatable="true" max_length="0">
+			<original>碧绿风空戒指</original>
+			<edited>碧绿风空戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_NoEntry" offset="00" relocatable="true" max_length="0">
+			<original>区域外</original>
+			<edited>区域外</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_HelpSpot" offset="00" relocatable="true" max_length="0">
+			<original>入口面板</original>
+			<edited>入口面板</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Sandbox" offset="00" relocatable="true" max_length="0">
+			<original>沙地</original>
+			<edited>沙地</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_GoldMountain" offset="00" relocatable="true" max_length="0">
+			<original>金币堆</original>
+			<edited>金币堆</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Spring" offset="00" relocatable="true" max_length="0">
+			<original>泉水</original>
+			<edited>泉水</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_IceFloor" offset="00" relocatable="true" max_length="0">
+			<original>冰地板</original>
+			<edited>冰地板</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Snowman" offset="00" relocatable="true" max_length="0">
+			<original>雪人</original>
+			<edited>雪人</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Hay" offset="00" relocatable="true" max_length="0">
+			<original>干草堆</original>
+			<edited>干草堆</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Cactus" offset="00" relocatable="true" max_length="0">
+			<original>仙人掌</original>
+			<edited>仙人掌</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_RoseArch" offset="00" relocatable="true" max_length="0">
+			<original>玫瑰拱门</original>
+			<edited>玫瑰拱门</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Remains" offset="00" relocatable="true" max_length="0">
+			<original>遗迹</original>
+			<edited>遗迹</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Cart" offset="00" relocatable="true" max_length="0">
+			<original>货车</original>
+			<edited>货车</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Well" offset="00" relocatable="true" max_length="0">
+			<original>水井</original>
+			<edited>水井</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Loading" offset="00" relocatable="true" max_length="0">
+			<original>货物</original>
+			<edited>货物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Fence" offset="00" relocatable="true" max_length="0">
+			<original>栏杆</original>
+			<edited>栏杆</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_AnimalStatue" offset="00" relocatable="true" max_length="0">
+			<original>动物雕像</original>
+			<edited>动物雕像</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_SoraStatue" offset="00" relocatable="true" max_length="0">
+			<original>守护神像</original>
+			<edited>守护神像</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_EarthPillar" offset="00" relocatable="true" max_length="0">
+			<original>土柱</original>
+			<edited>土柱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Fog" offset="00" relocatable="true" max_length="0">
+			<original>雾</original>
+			<edited>雾</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Fire" offset="00" relocatable="true" max_length="0">
+			<original>火焰</original>
+			<edited>火焰</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Miasma" offset="00" relocatable="true" max_length="0">
+			<original>瘴气</original>
+			<edited>瘴气</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Aroma" offset="00" relocatable="true" max_length="0">
+			<original>熏香</original>
+			<edited>熏香</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Block" offset="00" relocatable="true" max_length="0">
+			<original>冰柱</original>
+			<edited>冰柱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Water" offset="00" relocatable="true" max_length="0">
+			<original>水洼</original>
+			<edited>水洼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Ivy" offset="00" relocatable="true" max_length="0">
+			<original>藤蔓</original>
+			<edited>藤蔓</edited>
+			<subEntries />
+		</entry>
+		<entry name="MTID_Light" offset="00" relocatable="true" max_length="0">
+			<original>闪光</original>
+			<edited>闪光</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_Avoid" offset="00" relocatable="true" max_length="0">
+			<original>回避</original>
+			<edited>回避</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_Heal" offset="00" relocatable="true" max_length="0">
+			<original>每回合HP</original>
+			<edited>每回合HP</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_Damage" offset="00" relocatable="true" max_length="0">
+			<original>每回合HP</original>
+			<edited>每回合HP</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_Def" offset="00" relocatable="true" max_length="0">
+			<original>防守</original>
+			<edited>防守</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_MDef" offset="00" relocatable="true" max_length="0">
+			<original>魔防</original>
+			<edited>魔防</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_PlayerDamage" offset="00" relocatable="true" max_length="0">
+			<original>我方的防守与魔防</original>
+			<edited>我方的防守与魔防</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_EnemyDamage" offset="00" relocatable="true" max_length="0">
+			<original>敌方的防守与魔防</original>
+			<edited>敌方的防守与魔防</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_Break" offset="00" relocatable="true" max_length="0">
+			<original>打破无效</original>
+			<edited>打破无效</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_FlightOnly" offset="00" relocatable="true" max_length="0">
+			<original>无法步行</original>
+			<edited>无法步行</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_NoEntry" offset="00" relocatable="true" max_length="0">
+			<original>无法进入</original>
+			<edited>无法进入</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_Destroy" offset="00" relocatable="true" max_length="0">
+			<original>可摧毁</original>
+			<edited>可摧毁</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_Shine" offset="00" relocatable="true" max_length="0">
+			<original>照亮周围格子</original>
+			<edited>照亮周围格子</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_HelpSpot" offset="00" relocatable="true" max_length="0">
+			<original>可设置追加单位</original>
+			<edited>可设置追加单位</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_Cannon_Attack" offset="00" relocatable="true" max_length="0">
+			<original>攻击</original>
+			<edited>攻击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_Cannon_Hit" offset="00" relocatable="true" max_length="0">
+			<original>命中</original>
+			<edited>命中</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_Cannon_Stock" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;/&#xE;&#x1;&#x1;&#x0;</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;/&#xE;&#x1;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_Skill_Effect" offset="00" relocatable="true" max_length="0">
+			<original>特技效果</original>
+			<edited>特技效果</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TE_Move" offset="00" relocatable="true" max_length="0">
+			<original>移动</original>
+			<edited>移动</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

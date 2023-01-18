@@ -1,0 +1,1653 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_SYS_Difficulty_Normal" offset="00" relocatable="true" max_length="0">
+			<original>Normal</original>
+			<edited>Normal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Difficulty_Normal" offset="00" relocatable="true" max_length="0">
+			<original>For new and intermediate players.</original>
+			<edited>For new and intermediate players.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Difficulty_Hard" offset="00" relocatable="true" max_length="0">
+			<original>Hard</original>
+			<edited>Hard</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Difficulty_Hard" offset="00" relocatable="true" max_length="0">
+			<original>For experienced players.</original>
+			<edited>For experienced players.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Difficulty_Lunatic" offset="00" relocatable="true" max_length="0">
+			<original>Maddening</original>
+			<edited>Maddening</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Difficulty_Lunatic" offset="00" relocatable="true" max_length="0">
+			<original>For those who seek a true challenge.</original>
+			<edited>For those who seek a true challenge.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Mode_Select" offset="00" relocatable="true" max_length="0">
+			<original>Select a mode.</original>
+			<edited>Select a mode.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Mode_Casual" offset="00" relocatable="true" max_length="0">
+			<original>Casual</original>
+			<edited>Casual</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Mode_Casual" offset="00" relocatable="true" max_length="0">
+			<original>Fallen units return in the next battle.</original>
+			<edited>Fallen units return in the next battle.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Mode_Classic" offset="00" relocatable="true" max_length="0">
+			<original>Classic</original>
+			<edited>Classic</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Mode_Classic" offset="00" relocatable="true" max_length="0">
+			<original>Fallen units are lost forever.
+Every decision counts.</original>
+			<edited>Fallen units are lost forever.
+Every decision counts.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Grow_Random" offset="00" relocatable="true" max_length="0">
+			<original>Random</original>
+			<edited>Random</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Grow_Random" offset="00" relocatable="true" max_length="0">
+			<original>Stat boosts when leveling up will be assigned
+randomly, but influenced by the unit and class.</original>
+			<edited>Stat boosts when leveling up will be assigned
+randomly, but influenced by the unit and class.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Grow_Fixed" offset="00" relocatable="true" max_length="0">
+			<original>Fixed</original>
+			<edited>Fixed</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Grow_Fixed" offset="00" relocatable="true" max_length="0">
+			<original>Stat boosts when leveling up will be assigned
+based strictly on the unit and class.</original>
+			<edited>Stat boosts when leveling up will be assigned
+based strictly on the unit and class.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Decision" offset="00" relocatable="true" max_length="0">
+			<original>Confirm</original>
+			<edited>Confirm</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ToNext" offset="00" relocatable="true" max_length="0">
+			<original>Next</original>
+			<edited>Next</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_BattleRecord" offset="00" relocatable="true" max_length="0">
+			<original>Battle Data</original>
+			<edited>Battle Data</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Time" offset="00" relocatable="true" max_length="0">
+			<original>Time</original>
+			<edited>Time</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_None" offset="00" relocatable="true" max_length="0">
+			<original>None</original>
+			<edited>None</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Battle_Count" offset="00" relocatable="true" max_length="0">
+			<original> Battles</original>
+			<edited> Battles</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Win_Count" offset="00" relocatable="true" max_length="0">
+			<original> Wins</original>
+			<edited> Wins</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_FoughtTogetherGod" offset="00" relocatable="true" max_length="0">
+			<original>Most Used Emblem</original>
+			<edited>Most Used Emblem</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_TypeSection" offset="00" relocatable="true" max_length="0">
+			<original>Class Division</original>
+			<edited>Class Division</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_SeniorPosition" offset="00" relocatable="true" max_length="0">
+			<original>Advanced</original>
+			<edited>Advanced</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_BasicPosition" offset="00" relocatable="true" max_length="0">
+			<original>Base</original>
+			<edited>Base</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_SpecialPosition" offset="00" relocatable="true" max_length="0">
+			<original>Special</original>
+			<edited>Special</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Position" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; Class</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; Class</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_UseWeapon" offset="00" relocatable="true" max_length="0">
+			<original>Weapons</original>
+			<edited>Weapons</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_TypeOfWepon_1" offset="00" relocatable="true" max_length="0">
+			<original>Type 1</original>
+			<edited>Type 1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_TypeOfWepon_2" offset="00" relocatable="true" max_length="0">
+			<original>Type 2</original>
+			<edited>Type 2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Status" offset="00" relocatable="true" max_length="0">
+			<original>Combat Stats</original>
+			<edited>Combat Stats</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Capability" offset="00" relocatable="true" max_length="0">
+			<original>Basic Stats</original>
+			<edited>Basic Stats</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_EquipedStatus" offset="00" relocatable="true" max_length="0">
+			<original>In-Use Stats</original>
+			<edited>In-Use Stats</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Spec" offset="00" relocatable="true" max_length="0">
+			<original>Performance</original>
+			<edited>Performance</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Detail" offset="00" relocatable="true" max_length="0">
+			<original>Details</original>
+			<edited>Details</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_EngageWeapon" offset="00" relocatable="true" max_length="0">
+			<original>Engage Weapons</original>
+			<edited>Engage Weapons</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Class" offset="00" relocatable="true" max_length="0">
+			<original>Class</original>
+			<edited>Class</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Item" offset="00" relocatable="true" max_length="0">
+			<original>Items</original>
+			<edited>Items</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Skill" offset="00" relocatable="true" max_length="0">
+			<original>Skills</original>
+			<edited>Skills</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_SP" offset="00" relocatable="true" max_length="0">
+			<original>SP</original>
+			<edited>SP</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_SP" offset="00" relocatable="true" max_length="0">
+			<original>Skill Points. Used to inherit skills
+from Emblems.</original>
+			<edited>Skill Points. Used to inherit skills
+from Emblems.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Rating" offset="00" relocatable="true" max_length="0">
+			<original>Rating</original>
+			<edited>Rating</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Rating" offset="00" relocatable="true" max_length="0">
+			<original>The sum of the unit's key stats.</original>
+			<edited>The sum of the unit's key stats.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_LV" offset="00" relocatable="true" max_length="0">
+			<original>Lvl</original>
+			<edited>Lvl</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_LV" offset="00" relocatable="true" max_length="0">
+			<original>Indicates the unit's overall strength.
+Increases with experience.
+&#xE;&#x1;&#x0;&#x0; EXP until next level.</original>
+			<edited>Indicates the unit's overall strength.
+Increases with experience.
+&#xE;&#x1;&#x0;&#x0; EXP until next level.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_LV_MAX" offset="00" relocatable="true" max_length="0">
+			<original>Indicates the unit's overall strength.
+Increases with experience.
+Unit has reached maximum level.</original>
+			<edited>Indicates the unit's overall strength.
+Increases with experience.
+Unit has reached maximum level.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_LV_ENEMY" offset="00" relocatable="true" max_length="0">
+			<original>Indicates the unit's overall strength.
+Increases with experience.</original>
+			<edited>Indicates the unit's overall strength.
+Increases with experience.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_BOND_LV" offset="00" relocatable="true" max_length="0">
+			<original>The strength of the bond between
+the unit and Emblem. The higher it is
+the more power the Emblem grants.</original>
+			<edited>The strength of the bond between
+the unit and Emblem. The higher it is
+the more power the Emblem grants.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Exp" offset="00" relocatable="true" max_length="0">
+			<original>EXP</original>
+			<edited>EXP</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_HP_MAX_UP" offset="00" relocatable="true" max_length="0">
+			<original>Max HP</original>
+			<edited>Max HP</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_HP" offset="00" relocatable="true" max_length="0">
+			<original>HP</original>
+			<edited>HP</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_HP" offset="00" relocatable="true" max_length="0">
+			<original>Overall health. The unit is
+defeated if this reaches 0.</original>
+			<edited>Overall health. The unit is
+defeated if this reaches 0.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_COMBAT_INFO_HP" offset="00" relocatable="true" max_length="0">
+			<original>A prediction of changes to HP as a
+result of this combat.</original>
+			<edited>A prediction of changes to HP as a
+result of this combat.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Str" offset="00" relocatable="true" max_length="0">
+			<original>Str</original>
+			<edited>Str</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Str" offset="00" relocatable="true" max_length="0">
+			<original>Strength. Affects damage the
+unit deals with physical attacks.</original>
+			<edited>Strength. Affects damage the
+unit deals with physical attacks.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Mag" offset="00" relocatable="true" max_length="0">
+			<original>Mag</original>
+			<edited>Mag</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Mag" offset="00" relocatable="true" max_length="0">
+			<original>Magic. Affects damage the unit
+deals with magical attacks.</original>
+			<edited>Magic. Affects damage the unit
+deals with magical attacks.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Tec" offset="00" relocatable="true" max_length="0">
+			<original>Dex</original>
+			<edited>Dex</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Tec" offset="00" relocatable="true" max_length="0">
+			<original>Dexterity. Determines hit rate
+and frequency of critical hits.</original>
+			<edited>Dexterity. Determines hit rate
+and frequency of critical hits.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Spd" offset="00" relocatable="true" max_length="0">
+			<original>Spd</original>
+			<edited>Spd</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Spd" offset="00" relocatable="true" max_length="0">
+			<original>Speed. Contributes to Avo. If greater
+than or equal to foe's Spd+5, unit
+strikes twice.</original>
+			<edited>Speed. Contributes to Avo. If greater
+than or equal to foe's Spd+5, unit
+strikes twice.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Lck" offset="00" relocatable="true" max_length="0">
+			<original>Lck</original>
+			<edited>Lck</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Lck" offset="00" relocatable="true" max_length="0">
+			<original>Luck. Has various effects, including
+lowering risk of enemy criticals.</original>
+			<edited>Luck. Has various effects, including
+lowering risk of enemy criticals.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Def" offset="00" relocatable="true" max_length="0">
+			<original>Def</original>
+			<edited>Def</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Def" offset="00" relocatable="true" max_length="0">
+			<original>Defense. Reduces damage
+from physical attacks.</original>
+			<edited>Defense. Reduces damage
+from physical attacks.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Res" offset="00" relocatable="true" max_length="0">
+			<original>Res</original>
+			<edited>Res</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Res" offset="00" relocatable="true" max_length="0">
+			<original>Resistance. Reduces damage
+from magical attacks.</original>
+			<edited>Resistance. Reduces damage
+from magical attacks.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Mov" offset="00" relocatable="true" max_length="0">
+			<original>Mov</original>
+			<edited>Mov</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Mov" offset="00" relocatable="true" max_length="0">
+			<original>Movement. Determines how
+many spaces a unit can move.</original>
+			<edited>Movement. Determines how
+many spaces a unit can move.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Phy" offset="00" relocatable="true" max_length="0">
+			<original>Bld</original>
+			<edited>Bld</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Phy" offset="00" relocatable="true" max_length="0">
+			<original>Build. Prevents heavy weapons
+from slowing attack speed.</original>
+			<edited>Build. Prevents heavy weapons
+from slowing attack speed.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Vis" offset="00" relocatable="true" max_length="0">
+			<original>Vis</original>
+			<edited>Vis</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Vis" offset="00" relocatable="true" max_length="0">
+			<original>Vision. Determines visibility range
+in darkness or similar conditions. </original>
+			<edited>Vision. Determines visibility range
+in darkness or similar conditions. </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Atk" offset="00" relocatable="true" max_length="0">
+			<original>Atk</original>
+			<edited>Atk</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Dmg" offset="00" relocatable="true" max_length="0">
+			<original>Dmg</original>
+			<edited>Dmg</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Atk" offset="00" relocatable="true" max_length="0">
+			<original>Attack. The offensive power of the
+unit's physical or magical attacks.</original>
+			<edited>Attack. The offensive power of the
+unit's physical or magical attacks.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_COMBAT_INFO_Dmg" offset="00" relocatable="true" max_length="0">
+			<original>The amount of damage dealt to the
+foe on a hit.</original>
+			<edited>The amount of damage dealt to the
+foe on a hit.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Weapon_Attack" offset="00" relocatable="true" max_length="0">
+			<original>Ph Atk</original>
+			<edited>Ph Atk</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_Weapon_Attack" offset="00" relocatable="true" max_length="0">
+			<original>Physical attack. The unit's attack
+power using a physical weapon.</original>
+			<edited>Physical attack. The unit's attack
+power using a physical weapon.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Magic_Attack" offset="00" relocatable="true" max_length="0">
+			<original>Mag Atk</original>
+			<edited>Mag Atk</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_Magic_Attack" offset="00" relocatable="true" max_length="0">
+			<original>Magical attack. The unit's attack
+power using a magic weapon.</original>
+			<edited>Magical attack. The unit's attack
+power using a magic weapon.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Special_Attack" offset="00" relocatable="true" max_length="0">
+			<original>Pn Atk</original>
+			<edited>Pn Atk</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_Special_Attack" offset="00" relocatable="true" max_length="0">
+			<original>Penetrating attack. The unit's attack
+power with attacks that are not
+affected by Defense or Resistance.</original>
+			<edited>Penetrating attack. The unit's attack
+power with attacks that are not
+affected by Defense or Resistance.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Hit" offset="00" relocatable="true" max_length="0">
+			<original>Hit</original>
+			<edited>Hit</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Hit" offset="00" relocatable="true" max_length="0">
+			<original>Hit rate. Determines the
+odds of landing an attack.</original>
+			<edited>Hit rate. Determines the
+odds of landing an attack.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_COMBAT_INFO_Hit" offset="00" relocatable="true" max_length="0">
+			<original>Hit rate for attacks and other effects.</original>
+			<edited>Hit rate for attacks and other effects.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Avo" offset="00" relocatable="true" max_length="0">
+			<original>Avo</original>
+			<edited>Avo</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Avo" offset="00" relocatable="true" max_length="0">
+			<original>Avoid rate. Determines the odds of
+evading an attack.</original>
+			<edited>Avoid rate. Determines the odds of
+evading an attack.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Crit" offset="00" relocatable="true" max_length="0">
+			<original>Crit</original>
+			<edited>Crit</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Crit" offset="00" relocatable="true" max_length="0">
+			<original>Critical rate. Determines the odds of
+landing a critical hit (triple damage).</original>
+			<edited>Critical rate. Determines the odds of
+landing a critical hit (triple damage).</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_COMBAT_INFO_Crit" offset="00" relocatable="true" max_length="0">
+			<original>The chance of landing a critical hit.</original>
+			<edited>The chance of landing a critical hit.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Secure" offset="00" relocatable="true" max_length="0">
+			<original>Ddg</original>
+			<edited>Ddg</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Secure" offset="00" relocatable="true" max_length="0">
+			<original>Dodge. Determines the odds of
+avoiding a critical hit.</original>
+			<edited>Dodge. Determines the odds of
+avoiding a critical hit.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_COMBAT_INFO_Recovery" offset="00" relocatable="true" max_length="0">
+			<original>Rec</original>
+			<edited>Rec</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_COMBAT_INFO_Recovery" offset="00" relocatable="true" max_length="0">
+			<original>The amount of HP the unit's target
+will recover when healed.</original>
+			<edited>The amount of HP the unit's target
+will recover when healed.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_WLV" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; Level</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; Level</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_WLV_Special" offset="00" relocatable="true" max_length="0">
+			<original>Special</original>
+			<edited>Special</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_WLV_Sword" offset="00" relocatable="true" max_length="0">
+			<original>Sword</original>
+			<edited>Sword</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_WLV_Lance" offset="00" relocatable="true" max_length="0">
+			<original>Lance</original>
+			<edited>Lance</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_WLV_Magic" offset="00" relocatable="true" max_length="0">
+			<original>Tome</original>
+			<edited>Tome</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_WLV_Dagger" offset="00" relocatable="true" max_length="0">
+			<original>Knife</original>
+			<edited>Knife</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_WLV_Axe" offset="00" relocatable="true" max_length="0">
+			<original>Axe</original>
+			<edited>Axe</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_WLV_Bow" offset="00" relocatable="true" max_length="0">
+			<original>Bow</original>
+			<edited>Bow</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_WLV_Rod" offset="00" relocatable="true" max_length="0">
+			<original>Staff</original>
+			<edited>Staff</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_WLV_Fist" offset="00" relocatable="true" max_length="0">
+			<original>Art</original>
+			<edited>Art</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_BondCombi" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; and &#xE;&#x1;&#x1;&#x0;'s Bond</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; and &#xE;&#x1;&#x1;&#x0;'s Bond</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_BOND_LV" offset="00" relocatable="true" max_length="0">
+			<original>Bond</original>
+			<edited>Bond</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_MAX" offset="00" relocatable="true" max_length="0">
+			<original>MAX</original>
+			<edited>MAX</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Infinity" offset="00" relocatable="true" max_length="0">
+			<original>∞</original>
+			<edited>∞</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_STYLE_BONUS" offset="00" relocatable="true" max_length="0">
+			<original>Type Bonus!</original>
+			<edited>Type Bonus!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_QUALITY_Sword" offset="00" relocatable="true" max_length="0">
+			<original>Sword Prof.</original>
+			<edited>Sword Prof.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_QUALITY_Sword" offset="00" relocatable="true" max_length="0">
+			<original>Proficiency with swords.
+Required for promotion to
+certain classes.</original>
+			<edited>Proficiency with swords.
+Required for promotion to
+certain classes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_QUALITY_Lance" offset="00" relocatable="true" max_length="0">
+			<original>Lance Prof.</original>
+			<edited>Lance Prof.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_QUALITY_Lance" offset="00" relocatable="true" max_length="0">
+			<original>Proficiency with lances.
+Required for promotion to
+certain classes.</original>
+			<edited>Proficiency with lances.
+Required for promotion to
+certain classes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_QUALITY_Magic" offset="00" relocatable="true" max_length="0">
+			<original>Magic Prof.</original>
+			<edited>Magic Prof.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_QUALITY_Magic" offset="00" relocatable="true" max_length="0">
+			<original>Proficiency with magic.
+Required for promotion to
+certain classes.</original>
+			<edited>Proficiency with magic.
+Required for promotion to
+certain classes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_QUALITY_Knife" offset="00" relocatable="true" max_length="0">
+			<original>Knife Prof.</original>
+			<edited>Knife Prof.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_QUALITY_Knife" offset="00" relocatable="true" max_length="0">
+			<original>Proficiency with knives.
+Required for promotion to
+certain classes.</original>
+			<edited>Proficiency with knives.
+Required for promotion to
+certain classes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_QUALITY_Axe" offset="00" relocatable="true" max_length="0">
+			<original>Axe Prof.</original>
+			<edited>Axe Prof.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_QUALITY_Axe" offset="00" relocatable="true" max_length="0">
+			<original>Proficiency with axes.
+Required for promotion to
+certain classes.</original>
+			<edited>Proficiency with axes.
+Required for promotion to
+certain classes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_QUALITY_Bow" offset="00" relocatable="true" max_length="0">
+			<original>Bow Prof.</original>
+			<edited>Bow Prof.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_QUALITY_Bow" offset="00" relocatable="true" max_length="0">
+			<original>Proficiency with bows.
+Required for promotion to
+certain classes.</original>
+			<edited>Proficiency with bows.
+Required for promotion to
+certain classes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_QUALITY_Rod" offset="00" relocatable="true" max_length="0">
+			<original>Staff Prof.</original>
+			<edited>Staff Prof.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_QUALITY_Rod" offset="00" relocatable="true" max_length="0">
+			<original>Proficiency with staves.
+Required for promotion to
+certain classes.</original>
+			<edited>Proficiency with staves.
+Required for promotion to
+certain classes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_QUALITY_Fist" offset="00" relocatable="true" max_length="0">
+			<original>Art Prof.</original>
+			<edited>Art Prof.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_QUALITY_Fist" offset="00" relocatable="true" max_length="0">
+			<original>Proficiency with arts.
+Required for promotion to
+certain classes.</original>
+			<edited>Proficiency with arts.
+Required for promotion to
+certain classes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_HPStock" offset="00" relocatable="true" max_length="0">
+			<original>Revival Stones
+Consumed to recover all HP once
+unit's HP reaches 0.</original>
+			<edited>Revival Stones
+Consumed to recover all HP once
+unit's HP reaches 0.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_ValueEmpty" offset="00" relocatable="true" max_length="0">
+			<original>--</original>
+			<edited>--</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Mt" offset="00" relocatable="true" max_length="0">
+			<original>Mt</original>
+			<edited>Mt</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Rec" offset="00" relocatable="true" max_length="0">
+			<original>Pwr</original>
+			<edited>Pwr</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Eff" offset="00" relocatable="true" max_length="0">
+			<original>Eff</original>
+			<edited>Eff</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Weight" offset="00" relocatable="true" max_length="0">
+			<original>Wt</original>
+			<edited>Wt</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Rng" offset="00" relocatable="true" max_length="0">
+			<original>Rng</original>
+			<edited>Rng</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_WLV_Short" offset="00" relocatable="true" max_length="0">
+			<original>Lvl</original>
+			<edited>Lvl</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_SYS_Equip" offset="00" relocatable="true" max_length="0">
+			<original>E</original>
+			<edited>E</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Target" offset="00" relocatable="true" max_length="0">
+			<original>Target</original>
+			<edited>Target</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Me" offset="00" relocatable="true" max_length="0">
+			<original>Self</original>
+			<edited>Self</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_DISABLE_ENGAGE" offset="00" relocatable="true" max_length="0">
+			<original>Cannot Use (Not Engaged)</original>
+			<edited>Cannot Use (Not Engaged)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_DISABLE_WEAPONLEVEL" offset="00" relocatable="true" max_length="0">
+			<original>Cannot Use (Wrong Unit Type)</original>
+			<edited>Cannot Use (Wrong Unit Type)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_GodWeapon_LV" offset="00" relocatable="true" max_length="0">
+			<original>Lvl</original>
+			<edited>Lvl</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_ExpNext" offset="00" relocatable="true" max_length="0">
+			<original>Next</original>
+			<edited>Next</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_GOLD_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>Money</original>
+			<edited>Money</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_ABRIDGEMENT" offset="00" relocatable="true" max_length="0">
+			<original>...</original>
+			<edited>...</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Param_Base" offset="00" relocatable="true" max_length="0">
+			<original>Base value: </original>
+			<edited>Base value: </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Param_Correction_Weight" offset="00" relocatable="true" max_length="0">
+			<original>Weapon weight</original>
+			<edited>Weapon weight</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Param_Correction_God" offset="00" relocatable="true" max_length="0">
+			<original>Emblem</original>
+			<edited>Emblem</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Param_Correction_Support" offset="00" relocatable="true" max_length="0">
+			<original>Support</original>
+			<edited>Support</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Param_Correction_Terrain" offset="00" relocatable="true" max_length="0">
+			<original>Terrain</original>
+			<edited>Terrain</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Param_Correction_Effect" offset="00" relocatable="true" max_length="0">
+			<original>Effect</original>
+			<edited>Effect</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Param_Correction_Hub" offset="00" relocatable="true" max_length="0">
+			<original>Activity</original>
+			<edited>Activity</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Material_Iron" offset="00" relocatable="true" max_length="0">
+			<original>Iron</original>
+			<edited>Iron</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Material_Steel" offset="00" relocatable="true" max_length="0">
+			<original>Steel</original>
+			<edited>Steel</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Material_Silver" offset="00" relocatable="true" max_length="0">
+			<original>Silver</original>
+			<edited>Silver</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PieceOfBonds" offset="00" relocatable="true" max_length="0">
+			<original>Bond Fragments</original>
+			<edited>Bond Fragments</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_B_INFO_DAMAGE" offset="00" relocatable="true" max_length="0">
+			<original>Damage</original>
+			<edited>Damage</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GET" offset="00" relocatable="true" max_length="0">
+			<original>Obtained</original>
+			<edited>Obtained</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_COST" offset="00" relocatable="true" max_length="0">
+			<original>Cost</original>
+			<edited>Cost</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_JOIN_UNIT" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; joined your group.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; joined your group.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_JOIN_UNIT2" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; and &#xE;&#x1;&#x1;&#x0; joined your group.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; and &#xE;&#x1;&#x1;&#x0; joined your group.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_JOIN_UNIT3" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;, &#xE;&#x1;&#x1;&#x0;, and &#xE;&#x1;&#x2;&#x0; joined your group.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;, &#xE;&#x1;&#x1;&#x0;, and &#xE;&#x1;&#x2;&#x0; joined your group.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GET_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0; obtained.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0; obtained.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GET_ALREADY" offset="00" relocatable="true" max_length="0">
+			<original>You cannot scan this amiibo until your scans
+are refreshed.</original>
+			<edited>You cannot scan this amiibo until your scans
+are refreshed.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GET_ITEM_PLURAL" offset="00" relocatable="true" max_length="0">
+			<original>You got &#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;×&#xE;&#x1;&#x2;&#x0;.</original>
+			<edited>You got &#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;×&#xE;&#x1;&#x2;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GET_GOLD" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0; G obtained.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0; G obtained.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GET_PIECE" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x1;&#x0; &#xE;&#x1;&#x0;&#x0; bond fragments obtained.</original>
+			<edited>&#xE;&#x1;&#x1;&#x0; &#xE;&#x1;&#x0;&#x0; bond fragments obtained.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_BREAK_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0; broke.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0; broke.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_DEPRIVED_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>The enemy swiped &#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;.</original>
+			<edited>The enemy swiped &#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_LEARN_SKILL" offset="00" relocatable="true" max_length="0">
+			<original>Learned the class skill &#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;.</original>
+			<edited>Learned the class skill &#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_SUPPORT_LEVEL_UP" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; and &#xE;&#x1;&#x1;&#x0;'s support level
+reached &#xE;&#x1;&#x2;&#x0;.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; and &#xE;&#x1;&#x1;&#x0;'s support level
+reached &#xE;&#x1;&#x2;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_POPUP_RELIANCE_EXP_UP" offset="00" relocatable="true" max_length="0">
+			<original>Support Up!</original>
+			<edited>Support Up!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_POPUP_RELIANCE_ADDITION" offset="00" relocatable="true" max_length="0">
+			<original>Conversation available!</original>
+			<edited>Conversation available!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_TUTORIAL_NEW" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; is now in the Guide.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; is now in the Guide.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_BOND_LV_CAP" offset="00" relocatable="true" max_length="0">
+			<original>Bond conversations are available.</original>
+			<edited>Bond conversations are available.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_FRIENDLIST_NEWPAGE" offset="00" relocatable="true" max_length="0">
+			<original>New page on &#xE;&#x1;&#x0;&#x0; in the Ally Notebook.</original>
+			<edited>New page on &#xE;&#x1;&#x0;&#x0; in the Ally Notebook.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_BONDRING_NEWPAGE" offset="00" relocatable="true" max_length="0">
+			<original>New content in the Ring Reference.</original>
+			<edited>New content in the Ring Reference.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_BOND_LV_CAP_Talk_Attention" offset="00" relocatable="true" max_length="0">
+			<original>Bond EXP between &#xE;&#x1;&#x0;&#x0; and &#xE;&#x1;&#x1;&#x0; is at max. Select Bond in the Reference menu on the Somniel or world map to increase bond level further.</original>
+			<edited>Bond EXP between &#xE;&#x1;&#x0;&#x0; and &#xE;&#x1;&#x1;&#x0; is at max. Select Bond in the Reference menu on the Somniel or world map to increase bond level further.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_BOND_LV_CAP_RELEASE" offset="00" relocatable="true" max_length="0">
+			<original>Max bond level unlocked!</original>
+			<edited>Max bond level unlocked!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_BOND_LV_MAX_amiiboItem" offset="00" relocatable="true" max_length="0">
+			<original>You have received &#xE;&#x1;&#x1;&#x0;&#xE;&#x1;&#x2;&#x0; for getting Emblem &#xE;&#x1;&#x0;&#x0; to maximum bond level with many allies.</original>
+			<edited>You have received &#xE;&#x1;&#x1;&#x0;&#xE;&#x1;&#x2;&#x0; for getting Emblem &#xE;&#x1;&#x0;&#x0; to maximum bond level with many allies.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_POPUP_BOND_EXP_UP" offset="00" relocatable="true" max_length="0">
+			<original>Bond Up!</original>
+			<edited>Bond Up!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GAMEOVER_TIMECRYSTAL_ATTENTION" offset="00" relocatable="true" max_length="0">
+			<original>If you choose not to use the Time
+Crystal, you will be defeated and
+receive a game over. Is that OK?</original>
+			<edited>If you choose not to use the Time
+Crystal, you will be defeated and
+receive a game over. Is that OK?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GAMEOVER_TIMECRYSTAL_ATTENTION_NETWORK" offset="00" relocatable="true" max_length="0">
+			<original>If you choose not to use the Time
+Crystal, you will be defeated and
+the trial will be over. Is that OK?</original>
+			<edited>If you choose not to use the Time
+Crystal, you will be defeated and
+the trial will be over. Is that OK?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GAMEOVER_TIMECRYSTAL_ATTENTION_YES" offset="00" relocatable="true" max_length="0">
+			<original>Yes (Game Over)</original>
+			<edited>Yes (Game Over)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GAMEOVER_TIMECRYSTAL_ATTENTION_YES_NETWORK" offset="00" relocatable="true" max_length="0">
+			<original>Yes (End Trial)</original>
+			<edited>Yes (End Trial)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GAMEOVER_TIMECRYSTAL_ATTENTION_NO" offset="00" relocatable="true" max_length="0">
+			<original>No (Use Crystal)</original>
+			<edited>No (Use Crystal)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GAMEOVER_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>Retry this battle from the start? You can
+retain your earned experience as well.</original>
+			<edited>Retry this battle from the start? You can
+retain your earned experience as well.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GAMEOVER_YES_EXP_ON" offset="00" relocatable="true" max_length="0">
+			<original>Retain EXP and Try Again</original>
+			<edited>Retain EXP and Try Again</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GAMEOVER_YES_EXP_OFF" offset="00" relocatable="true" max_length="0">
+			<original>Reset EXP and Try Again</original>
+			<edited>Reset EXP and Try Again</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GAMEOVER_NO" offset="00" relocatable="true" max_length="0">
+			<original>Return to Title</original>
+			<edited>Return to Title</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_BGM_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>The Settings menu now has options for music.
+You can change the music for player/enemy
+phases in battles outside of the main story.</original>
+			<edited>The Settings menu now has options for music.
+You can change the music for player/enemy
+phases in battles outside of the main story.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_ENGAGE_PLUS_ATTENTION" offset="00" relocatable="true" max_length="0">
+			<original>Emblem &#xE;&#x6;&#x3;&#x0;'s Engage+ skill cannot
+be used in Relay Trials or Outrealm Trials.</original>
+			<edited>Emblem &#xE;&#x6;&#x3;&#x0;'s Engage+ skill cannot
+be used in Relay Trials or Outrealm Trials.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_STORY_COMPLETE_REWARD" offset="00" relocatable="true" max_length="0">
+			<original>Clear Rewards</original>
+			<edited>Clear Rewards</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_PLAYER_PHASE" offset="00" relocatable="true" max_length="0">
+			<original>PLAYER PHASE</original>
+			<edited>PLAYER PHASE</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_ENEMY_PHASE" offset="00" relocatable="true" max_length="0">
+			<original>ENEMY PHASE</original>
+			<edited>ENEMY PHASE</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_ALLY_PHASE" offset="00" relocatable="true" max_length="0">
+			<original>ALLY PHASE</original>
+			<edited>ALLY PHASE</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_OFFENSE_PHASE" offset="00" relocatable="true" max_length="0">
+			<original>ATTACKER PHASE</original>
+			<edited>ATTACKER PHASE</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_DEFENSE_PHASE" offset="00" relocatable="true" max_length="0">
+			<original>DEFENDER PHASE</original>
+			<edited>DEFENDER PHASE</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_PHASE_TURN" offset="00" relocatable="true" max_length="0">
+			<original>Turns left: &#xE;&#x1;&#x0;&#x0;</original>
+			<edited>Turns left: &#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_AUTO_TROPE" offset="00" relocatable="true" max_length="0">
+			<original>Auto-battling...</original>
+			<edited>Auto-battling...</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_SKIP_TROPE" offset="00" relocatable="true" max_length="0">
+			<original>Skipping...</original>
+			<edited>Skipping...</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_LEVEL_UP" offset="00" relocatable="true" max_length="0">
+			<original>LEVEL UP!</original>
+			<edited>LEVEL UP!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_CLASS_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>CLASS CHANGE!</original>
+			<edited>CLASS CHANGE!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_STAGE_CLEAR" offset="00" relocatable="true" max_length="0">
+			<original>STAGE CLEAR!</original>
+			<edited>STAGE CLEAR!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GAME_OVER" offset="00" relocatable="true" max_length="0">
+			<original>GAME OVER</original>
+			<edited>GAME OVER</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_POPUP_CRITICAL" offset="00" relocatable="true" max_length="0">
+			<original>Critical!</original>
+			<edited>Critical!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_POPUP_BREAK" offset="00" relocatable="true" max_length="0">
+			<original>Break!</original>
+			<edited>Break!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_POPUP_MISS" offset="00" relocatable="true" max_length="0">
+			<original>Miss!</original>
+			<edited>Miss!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_POPUP_NO_DAMAGE" offset="00" relocatable="true" max_length="0">
+			<original>No Damage!</original>
+			<edited>No Damage!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_POPUP_SMASH" offset="00" relocatable="true" max_length="0">
+			<original>Smash!</original>
+			<edited>Smash!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_POPUP_CHAINATTACK" offset="00" relocatable="true" max_length="0">
+			<original>Chain Attack!</original>
+			<edited>Chain Attack!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_POPUP_CHAINGUARD" offset="00" relocatable="true" max_length="0">
+			<original>Chain Guard!</original>
+			<edited>Chain Guard!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_POPUP_DUALGUARD" offset="00" relocatable="true" max_length="0">
+			<original>Dual Guard!</original>
+			<edited>Dual Guard!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MYFACE_SELECT" offset="00" relocatable="true" max_length="0">
+			<original>Select Form</original>
+			<edited>Select Form</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_BIRTHDAY_SELECT" offset="00" relocatable="true" max_length="0">
+			<original>Month/Day</original>
+			<edited>Month/Day</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MAP_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Details</original>
+			<edited>Details</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MINIGAME_OPERATION_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Controls</original>
+			<edited>Controls</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MAP_NOT_ACTION" offset="00" relocatable="true" max_length="0">
+			<original>Cycle Units</original>
+			<edited>Cycle Units</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MAP_UNIT_VIEWER" offset="00" relocatable="true" max_length="0">
+			<original>Unit Details</original>
+			<edited>Unit Details</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MAP_CANCEL_ORDERS" offset="00" relocatable="true" max_length="0">
+			<original>Cancel Auto-Battle</original>
+			<edited>Cancel Auto-Battle</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MAP_SKIP" offset="00" relocatable="true" max_length="0">
+			<original>Skip</original>
+			<edited>Skip</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_GMAP_LOOK_OVER" offset="00" relocatable="true" max_length="0">
+			<original>Zoom Out</original>
+			<edited>Zoom Out</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_GMAP_MOVE_NEWEST" offset="00" relocatable="true" max_length="0">
+			<original>To Next Chapter</original>
+			<edited>To Next Chapter</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_GMAP_FREE_CAMERA" offset="00" relocatable="true" max_length="0">
+			<original>Free Camera</original>
+			<edited>Free Camera</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MAP_ACTION" offset="00" relocatable="true" max_length="0">
+			<original>Cycle Map</original>
+			<edited>Cycle Map</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_DASH" offset="00" relocatable="true" max_length="0">
+			<original>Dash</original>
+			<edited>Dash</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU" offset="00" relocatable="true" max_length="0">
+			<original>Menu</original>
+			<edited>Menu</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_ACTION" offset="00" relocatable="true" max_length="0">
+			<original>Change Menu</original>
+			<edited>Change Menu</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_CATEGORY_ACTION" offset="00" relocatable="true" max_length="0">
+			<original>Cycle Category</original>
+			<edited>Cycle Category</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_TALK_AUTOPLAY" offset="00" relocatable="true" max_length="0">
+			<original>Auto-Advance</original>
+			<edited>Auto-Advance</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_TALK_AUTOPLAY_CANCEL" offset="00" relocatable="true" max_length="0">
+			<original>Cancel Auto-Advance</original>
+			<edited>Cancel Auto-Advance</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_TALK_LOG" offset="00" relocatable="true" max_length="0">
+			<original>Text Log</original>
+			<edited>Text Log</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_TALK_LOG_VOICE" offset="00" relocatable="true" max_length="0">
+			<original>Replay Voice</original>
+			<edited>Replay Voice</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_DECIDE" offset="00" relocatable="true" max_length="0">
+			<original>Confirm</original>
+			<edited>Confirm</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_SELECT" offset="00" relocatable="true" max_length="0">
+			<original>Select</original>
+			<edited>Select</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_RETURN" offset="00" relocatable="true" max_length="0">
+			<original>Back</original>
+			<edited>Back</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_AUTO" offset="00" relocatable="true" max_length="0">
+			<original>Optimize All</original>
+			<edited>Optimize All</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_TROOPLIST_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>Cycle Units</original>
+			<edited>Cycle Units</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Details</original>
+			<edited>Details</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_ASSISTINFO_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>Additional Info</original>
+			<edited>Additional Info</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_WEAPON_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>Cycle Weapons</original>
+			<edited>Cycle Weapons</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_UNIT_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>Cycle Units</original>
+			<edited>Cycle Units</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_CHARACTER_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>Cycle Allies</original>
+			<edited>Cycle Allies</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_GOD_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>Cycle Emblems</original>
+			<edited>Cycle Emblems</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_HELP_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>Cycle Info</original>
+			<edited>Cycle Info</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_ABILITY" offset="00" relocatable="true" max_length="0">
+			<original>Bond Effects</original>
+			<edited>Bond Effects</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_BATTLE_START" offset="00" relocatable="true" max_length="0">
+			<original>Fight!</original>
+			<edited>Fight!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_TUTORIAL" offset="00" relocatable="true" max_length="0">
+			<original>Guide</original>
+			<edited>Guide</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_COUNTRY_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>Cycle Countries</original>
+			<edited>Cycle Countries</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_ZOOM_PICTURE" offset="00" relocatable="true" max_length="0">
+			<original>Zoom Portrait</original>
+			<edited>Zoom Portrait</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_UNIT_SELECT" offset="00" relocatable="true" max_length="0">
+			<original>List</original>
+			<edited>List</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_LOOK_UNIT" offset="00" relocatable="true" max_length="0">
+			<original>View</original>
+			<edited>View</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_CAMERA_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>Move Camera</original>
+			<edited>Move Camera</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_CAMERA_IN_OUT" offset="00" relocatable="true" max_length="0">
+			<original>Vertical Camera</original>
+			<edited>Vertical Camera</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_CAMERA_OPERATION" offset="00" relocatable="true" max_length="0">
+			<original>Control Camera</original>
+			<edited>Control Camera</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_BACK_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>Background</original>
+			<edited>Background</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_UI_HIDE" offset="00" relocatable="true" max_length="0">
+			<original>Display</original>
+			<edited>Display</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_EYES" offset="00" relocatable="true" max_length="0">
+			<original>Camera Look</original>
+			<edited>Camera Look</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_RESET" offset="00" relocatable="true" max_length="0">
+			<original>Reset Settings</original>
+			<edited>Reset Settings</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_SORT" offset="00" relocatable="true" max_length="0">
+			<original>Sort</original>
+			<edited>Sort</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_FISHING_CAST" offset="00" relocatable="true" max_length="0">
+			<original>Cast</original>
+			<edited>Cast</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_FISHING_CAST_STOP" offset="00" relocatable="true" max_length="0">
+			<original>Cancel</original>
+			<edited>Cancel</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_ACHIEVEMENT" offset="00" relocatable="true" max_length="0">
+			<original>Claim Reward</original>
+			<edited>Claim Reward</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_ACHIEVEMENT_ALL" offset="00" relocatable="true" max_length="0">
+			<original>Claim All</original>
+			<edited>Claim All</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MOVIE_CAPTION" offset="00" relocatable="true" max_length="0">
+			<original>Subtitles</original>
+			<edited>Subtitles</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_EDIT_TURN" offset="00" relocatable="true" max_length="0">
+			<original>Rotate</original>
+			<edited>Rotate</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_EDIT_PUT" offset="00" relocatable="true" max_length="0">
+			<original>Place</original>
+			<edited>Place</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_EDIT_DELETE" offset="00" relocatable="true" max_length="0">
+			<original>Delete</original>
+			<edited>Delete</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_EDIT_TACTICS_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>Command</original>
+			<edited>Command</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_EDIT_LIST" offset="00" relocatable="true" max_length="0">
+			<original>Terrain List</original>
+			<edited>Terrain List</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_EDIT_OBJCHANGE" offset="00" relocatable="true" max_length="0">
+			<original>Cycle Terrain</original>
+			<edited>Cycle Terrain</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_EDIT_UNDO" offset="00" relocatable="true" max_length="0">
+			<original>Undo</original>
+			<edited>Undo</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_NEXT" offset="00" relocatable="true" max_length="0">
+			<original>Next</original>
+			<edited>Next</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_ANIMAL_VIEW" offset="00" relocatable="true" max_length="0">
+			<original>View</original>
+			<edited>View</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_ANIMAL_ACTION" offset="00" relocatable="true" max_length="0">
+			<original>Action</original>
+			<edited>Action</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_REWIND_TURN" offset="00" relocatable="true" max_length="0">
+			<original>Prev/Next Turn</original>
+			<edited>Prev/Next Turn</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_REWIND_ACTION" offset="00" relocatable="true" max_length="0">
+			<original>Navigate</original>
+			<edited>Navigate</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WEAPON_NAME_REFINE" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;+&#xE;&#x1;&#x1;&#x0;</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;+&#xE;&#x1;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WEAPON_NAME_ENGRAVE" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WEAPON_NAME_ENGRAVE_REFINE" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;+&#xE;&#x1;&#x1;&#x0;&#xE;&#x1;&#x2;&#x0;</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;+&#xE;&#x1;&#x1;&#x0;&#xE;&#x1;&#x2;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RING_RANK_S" offset="00" relocatable="true" max_length="0">
+			<original>S</original>
+			<edited>S</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RING_RANK_A" offset="00" relocatable="true" max_length="0">
+			<original>A</original>
+			<edited>A</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RING_RANK_B" offset="00" relocatable="true" max_length="0">
+			<original>B</original>
+			<edited>B</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RING_RANK_C" offset="00" relocatable="true" max_length="0">
+			<original>C</original>
+			<edited>C</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LOCALIZE_COLON" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_LOCALIZE_HYPHEN" offset="00" relocatable="true" max_length="0">
+			<original> - </original>
+			<edited> - </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LOCALIZE_CN_THIRD_M" offset="00" relocatable="true" max_length="0">
+			<original>他</original>
+			<edited>他</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LOCALIZE_CN_THIRD_F" offset="00" relocatable="true" max_length="0">
+			<original>她</original>
+			<edited>她</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LOCALIZE_TW_THIRD_M" offset="00" relocatable="true" max_length="0">
+			<original>他</original>
+			<edited>他</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LOCALIZE_TW_THIRD_F" offset="00" relocatable="true" max_length="0">
+			<original>她</original>
+			<edited>她</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_JP_JAPANESE" offset="00" relocatable="true" max_length="0">
+			<original>Japanese</original>
+			<edited>Japanese</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_US_ENGLISH" offset="00" relocatable="true" max_length="0">
+			<original>English (North America)</original>
+			<edited>English (North America)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_US_FRENCH" offset="00" relocatable="true" max_length="0">
+			<original>French (Canada)</original>
+			<edited>French (Canada)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_US_SPANISH" offset="00" relocatable="true" max_length="0">
+			<original>Spanish (Latin America)</original>
+			<edited>Spanish (Latin America)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_EU_ENGLISH" offset="00" relocatable="true" max_length="0">
+			<original>English (Europe)</original>
+			<edited>English (Europe)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_EU_FRENCH" offset="00" relocatable="true" max_length="0">
+			<original>French (Europe)</original>
+			<edited>French (Europe)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_EU_SPANISH" offset="00" relocatable="true" max_length="0">
+			<original>Spanish (Europe)</original>
+			<edited>Spanish (Europe)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_EU_GERMAN" offset="00" relocatable="true" max_length="0">
+			<original>German</original>
+			<edited>German</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_EU_ITALIAN" offset="00" relocatable="true" max_length="0">
+			<original>Italian</original>
+			<edited>Italian</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_CN_TRADITIONAL" offset="00" relocatable="true" max_length="0">
+			<original>Traditional Chinese</original>
+			<edited>Traditional Chinese</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_CN_SIMPLIFIED" offset="00" relocatable="true" max_length="0">
+			<original>Simplified Chinese</original>
+			<edited>Simplified Chinese</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_KR_KOREAN" offset="00" relocatable="true" max_length="0">
+			<original>Korean</original>
+			<edited>Korean</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_VOICE_JAPANESE" offset="00" relocatable="true" max_length="0">
+			<original>Japanese</original>
+			<edited>Japanese</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_VOICE_ENGLISH" offset="00" relocatable="true" max_length="0">
+			<original>English</original>
+			<edited>English</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GET_ITEM_FEH" offset="00" relocatable="true" max_length="0">
+			<original>You've received a special gift!</original>
+			<edited>You've received a special gift!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

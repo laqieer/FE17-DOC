@@ -1,0 +1,2140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_NET_SettingOn" offset="00" relocatable="true" max_length="0">
+			<original>通信機能を使用しますか？
+（ネットワークに接続します）</original>
+			<edited>通信機能を使用しますか？
+（ネットワークに接続します）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_TowerNetwork_On" offset="00" relocatable="true" max_length="0">
+			<original>他のプレイヤーと一緒にゲームを楽しむことができます
+通信機能を使用しますか？
+（ネットワークに接続します）</original>
+			<edited>他のプレイヤーと一緒にゲームを楽しむことができます
+通信機能を使用しますか？
+（ネットワークに接続します）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_RANKING_On" offset="00" relocatable="true" max_length="0">
+			<original>このマップで他のプレイヤーが使用した
+ユニットのランキングを見ることができます
+通信機能を使用しますか？
+（ネットワークに接続します）</original>
+			<edited>このマップで他のプレイヤーが使用した
+ユニットのランキングを見ることができます
+通信機能を使用しますか？
+（ネットワークに接続します）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_SettingOn_Yes" offset="00" relocatable="true" max_length="0">
+			<original>使用する</original>
+			<edited>使用する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_Setting" offset="00" relocatable="true" max_length="0">
+			<original>環境設定の通信が有効ではありません</original>
+			<edited>環境設定の通信が有効ではありません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_Connecting" offset="00" relocatable="true" max_length="0">
+			<original>通信中</original>
+			<edited>通信中</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_Error_TROPE" offset="00" relocatable="true" max_length="0">
+			<original>通信に失敗しました</original>
+			<edited>通信に失敗しました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_Connecting_Error" offset="00" relocatable="true" max_length="0">
+			<original>エラーが発生しました
+しばらく待って、やりなおしてください</original>
+			<edited>エラーが発生しました
+しばらく待って、やりなおしてください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_Title_Help" offset="00" relocatable="true" max_length="0">
+			<original>挑戦する試練を選択してください</original>
+			<edited>挑戦する試練を選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_Notes_Terms" offset="00" relocatable="true" max_length="0">
+			<original>「繋戦の試練」「異界の試練」では他のプレイヤーに
+ユーザーのニックネームが公開されます。
+また、神竜戦歴カードの公開設定を「公開」に
+設定していると、マイカードが相手に送られます。
+他のプレイヤーに不快な思いをさせる行為や
+チート行為はしないでください。
+共有されたコンテンツやゲーム中の行為には
+「ニンテンドーアカウント利用規約」が適用されます。
+規約に従って、他のプレイヤーへの思いやりのある
+プレイをお願いいたします。</original>
+			<edited>「繋戦の試練」「異界の試練」では他のプレイヤーに
+ユーザーのニックネームが公開されます。
+また、神竜戦歴カードの公開設定を「公開」に
+設定していると、マイカードが相手に送られます。
+他のプレイヤーに不快な思いをさせる行為や
+チート行為はしないでください。
+共有されたコンテンツやゲーム中の行為には
+「ニンテンドーアカウント利用規約」が適用されます。
+規約に従って、他のプレイヤーへの思いやりのある
+プレイをお願いいたします。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_Notes_Report" offset="00" relocatable="true" max_length="0">
+			<original>「ニンテンドーアカウント利用規約」違反となる
+コンテンツや行為が発見された場合、サーバーの
+データを削除したり、オンラインプレイへの
+接続を制限することがあります。
+不適切なコンテンツや行為については、出撃前に限り
+「システム」から「通報」することができます。</original>
+			<edited>「ニンテンドーアカウント利用規約」違反となる
+コンテンツや行為が発見された場合、サーバーの
+データを削除したり、オンラインプレイへの
+接続を制限することがあります。
+不適切なコンテンツや行為については、出撃前に限り
+「システム」から「通報」することができます。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Title" offset="00" relocatable="true" max_length="0">
+			<original>異界の試練</original>
+			<edited>異界の試練</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Help" offset="00" relocatable="true" max_length="0">
+			<original>選んだマップや、エディットしたマップで
+他のプレイヤーの部隊と対戦する試練です
+（ネットワークを使用します）</original>
+			<edited>選んだマップや、エディットしたマップで
+他のプレイヤーの部隊と対戦する試練です
+（ネットワークを使用します）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Title_Help" offset="00" relocatable="true" max_length="0">
+			<original>モードを選択してください</original>
+			<edited>モードを選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Title" offset="00" relocatable="true" max_length="0">
+			<original>繋戦の試練</original>
+			<edited>繋戦の試練</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Help" offset="00" relocatable="true" max_length="0">
+			<original>他のプレイヤーと協力して一つのマップを
+リレーのようにプレイする試練です
+プレイにはチケットが必要です
+（ネットワークを使用します）</original>
+			<edited>他のプレイヤーと協力して一つのマップを
+リレーのようにプレイする試練です
+プレイにはチケットが必要です
+（ネットワークを使用します）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Title_Help" offset="00" relocatable="true" max_length="0">
+			<original>試練の始め方を選択してください</original>
+			<edited>試練の始め方を選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_Title" offset="00" relocatable="true" max_length="0">
+			<original>連戦の試練</original>
+			<edited>連戦の試練</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_Help" offset="00" relocatable="true" max_length="0">
+			<original>連続でマップをプレイする試練です
+挑戦時に難易度を選ぶことができ
+高い難易度だと、より良い報酬が貰えます</original>
+			<edited>連続でマップをプレイする試練です
+挑戦時に難易度を選ぶことができ
+高い難易度だと、より良い報酬が貰えます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_Closed_Dialog" offset="00" relocatable="true" max_length="0">
+			<original>「連戦の試練」は第11章をクリアすると
+プレイできるようになります</original>
+			<edited>「連戦の試練」は第11章をクリアすると
+プレイできるようになります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NETWORK_Map_Outline" offset="00" relocatable="true" max_length="0">
+			<original>マップ情報</original>
+			<edited>マップ情報</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NETWORK_Map_Name" offset="00" relocatable="true" max_length="0">
+			<original>地名</original>
+			<edited>地名</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NETWORK_Map_Name_Content" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;（&#xE;&#x1;&#x1;&#x0;）</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;（&#xE;&#x1;&#x1;&#x0;）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NETWORK_LimitTurn_Content" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;×&#xE;&#x1;&#x1;&#x0;人</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;×&#xE;&#x1;&#x1;&#x0;人</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NETWORK_Reward" offset="00" relocatable="true" max_length="0">
+			<original>報酬</original>
+			<edited>報酬</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NETWORK_Degree" offset="00" relocatable="true" max_length="0">
+			<original>称号</original>
+			<edited>称号</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NETWORK_Clear_Reward" offset="00" relocatable="true" max_length="0">
+			<original>クリア報酬</original>
+			<edited>クリア報酬</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NETWORK_Map_Select" offset="00" relocatable="true" max_length="0">
+			<original>マップ選択</original>
+			<edited>マップ選択</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NETWORK_BACK_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>メニュー画面に戻りますか？</original>
+			<edited>メニュー画面に戻りますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NETWORK_BACK_CONFIRM_YES" offset="00" relocatable="true" max_length="0">
+			<original>メニュー画面に戻る</original>
+			<edited>メニュー画面に戻る</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NETWORK_H_BACK_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>メニュー画面に戻る</original>
+			<edited>メニュー画面に戻る</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_Error" offset="00" relocatable="true" max_length="0">
+			<original>エラーが発生しました</original>
+			<edited>エラーが発生しました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_NFC_Error" offset="00" relocatable="true" max_length="0">
+			<original>amiiboを読み込むことができるコントローラーとの
+通信が切断されました</original>
+			<edited>amiiboを読み込むことができるコントローラーとの
+通信が切断されました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Easy" offset="00" relocatable="true" max_length="0">
+			<original>お手軽対戦</original>
+			<edited>お手軽対戦</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Easy" offset="00" relocatable="true" max_length="0">
+			<original>好きなマップを選んで
+他のプレイヤーの部隊と対戦を行います</original>
+			<edited>好きなマップを選んで
+他のプレイヤーの部隊と対戦を行います</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Easy_TitleHelp" offset="00" relocatable="true" max_length="0">
+			<original>使用するマップを選択してください</original>
+			<edited>使用するマップを選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_V001" offset="00" relocatable="true" max_length="0">
+			<original>深緑と水の間</original>
+			<edited>深緑と水の間</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_V002" offset="00" relocatable="true" max_length="0">
+			<original>水晶と炎の間</original>
+			<edited>水晶と炎の間</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_V003" offset="00" relocatable="true" max_length="0">
+			<original>砲台と砦の間</original>
+			<edited>砲台と砦の間</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_V004" offset="00" relocatable="true" max_length="0">
+			<original>障壁と金の間</original>
+			<edited>障壁と金の間</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_V005" offset="00" relocatable="true" max_length="0">
+			<original>守神と柱の間</original>
+			<edited>守神と柱の間</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_V006" offset="00" relocatable="true" max_length="0">
+			<original>雪玉と氷の間</original>
+			<edited>雪玉と氷の間</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Search" offset="00" relocatable="true" max_length="0">
+			<original>相手検索</original>
+			<edited>相手検索</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Search_Help" offset="00" relocatable="true" max_length="0">
+			<original>対戦相手の決め方を選択してください</original>
+			<edited>対戦相手の決め方を選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Random" offset="00" relocatable="true" max_length="0">
+			<original>ランダム</original>
+			<edited>ランダム</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Random" offset="00" relocatable="true" max_length="0">
+			<original>他のプレイヤーの部隊が自動で選ばれ
+対戦を行います</original>
+			<edited>他のプレイヤーの部隊が自動で選ばれ
+対戦を行います</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Serious_H_Random" offset="00" relocatable="true" max_length="0">
+			<original>他のプレイヤーのマップが自動で選ばれ
+対戦を行います
+（勝敗によってレートが変動します）</original>
+			<edited>他のプレイヤーのマップが自動で選ばれ
+対戦を行います
+（勝敗によってレートが変動します）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Matching" offset="00" relocatable="true" max_length="0">
+			<original>対戦相手&#xE;&#x1;&#x0;&#x0;が見つかりました。</original>
+			<edited>対戦相手&#xE;&#x1;&#x0;&#x0;が見つかりました。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Matching_Empty" offset="00" relocatable="true" max_length="0">
+			<original>対戦相手が見つかりません。</original>
+			<edited>対戦相手が見つかりません。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Matching_Verification" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;と対戦しますか？</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;と対戦しますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_NoData" offset="00" relocatable="true" max_length="0">
+			<original>データが見つかりませんでした。</original>
+			<edited>データが見つかりませんでした。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Friend" offset="00" relocatable="true" max_length="0">
+			<original>フレンド</original>
+			<edited>フレンド</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Friend" offset="00" relocatable="true" max_length="0">
+			<original>フレンド登録したプレイヤーの部隊が表示され
+その中から対戦する部隊を選ぶことができます</original>
+			<edited>フレンド登録したプレイヤーの部隊が表示され
+その中から対戦する部隊を選ぶことができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Serious_H_Friend" offset="00" relocatable="true" max_length="0">
+			<original>フレンド登録したプレイヤーのマップが表示され
+その中から対戦したい場所を選ぶことができます
+（勝敗に関わらず、レートが変動しません）</original>
+			<edited>フレンド登録したプレイヤーのマップが表示され
+その中から対戦したい場所を選ぶことができます
+（勝敗に関わらず、レートが変動しません）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Friend_Select_Prompt" offset="00" relocatable="true" max_length="0">
+			<original>フレンドを選択してください</original>
+			<edited>フレンドを選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Friend_Select" offset="00" relocatable="true" max_length="0">
+			<original>フレンド選択</original>
+			<edited>フレンド選択</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Friend_Corps" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Friend_Code" offset="00" relocatable="true" max_length="0">
+			<original>ID入力</original>
+			<edited>ID入力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Friend_Code" offset="00" relocatable="true" max_length="0">
+			<original>IDを入力して、特定のプレイヤーの部隊と
+対戦することができます</original>
+			<edited>IDを入力して、特定のプレイヤーの部隊と
+対戦することができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Serious_H_Friend_Code" offset="00" relocatable="true" max_length="0">
+			<original>IDを入力して、特定のプレイヤーのマップで
+対戦をすることができます
+（勝敗に関わらず、レートが変動しません）</original>
+			<edited>IDを入力して、特定のプレイヤーのマップで
+対戦をすることができます
+（勝敗に関わらず、レートが変動しません）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Friend_Code_Input_Easy" offset="00" relocatable="true" max_length="0">
+			<original>お手軽対戦の相手のIDを入力してください</original>
+			<edited>お手軽対戦の相手のIDを入力してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Friend_ID" offset="00" relocatable="true" max_length="0">
+			<original>このIDで検索しますか？</original>
+			<edited>このIDで検索しますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Friend_ID_Search" offset="00" relocatable="true" max_length="0">
+			<original>このIDで検索する</original>
+			<edited>このIDで検索する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_My_ID_Attention" offset="00" relocatable="true" max_length="0">
+			<original>自分の対戦IDは入力できません。</original>
+			<edited>自分の対戦IDは入力できません。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Profile" offset="00" relocatable="true" max_length="0">
+			<original>戦歴カード</original>
+			<edited>戦歴カード</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Profile" offset="00" relocatable="true" max_length="0">
+			<original>現在所持している異界の戦歴カードの
+一覧から選ぶことができます</original>
+			<edited>現在所持している異界の戦歴カードの
+一覧から選ぶことができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Serious_H_Profile" offset="00" relocatable="true" max_length="0">
+			<original>現在所持している異界の戦歴カードの
+一覧から選ぶことができます
+（勝敗に関わらず、レートが変動しません）</original>
+			<edited>現在所持している異界の戦歴カードの
+一覧から選ぶことができます
+（勝敗に関わらず、レートが変動しません）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Profile_Select_Prompt" offset="00" relocatable="true" max_length="0">
+			<original>プレイヤーを選択してください</original>
+			<edited>プレイヤーを選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Profile_Select" offset="00" relocatable="true" max_length="0">
+			<original>プレイヤー選択</original>
+			<edited>プレイヤー選択</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Match_NoProfile" offset="00" relocatable="true" max_length="0">
+			<original>対戦可能な戦歴カードがありません</original>
+			<edited>対戦可能な戦歴カードがありません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_MAP_Error" offset="00" relocatable="true" max_length="0">
+			<original>ダウンロードしたデータからエラーを検出したため
+対戦を中断しました</original>
+			<edited>ダウンロードしたデータからエラーを検出したため
+対戦を中断しました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Serious" offset="00" relocatable="true" max_length="0">
+			<original>本格対戦</original>
+			<edited>本格対戦</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Serious" offset="00" relocatable="true" max_length="0">
+			<original>マップをエディットして公開したり
+自分のマップを他のプレイヤーが公開した
+マップと繋いで対戦を行ったりします</original>
+			<edited>マップをエディットして公開したり
+自分のマップを他のプレイヤーが公開した
+マップと繋いで対戦を行ったりします</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Serious_Attention" offset="00" relocatable="true" max_length="0">
+			<original>本格対戦を遊ぶには
+自軍のユニットが2体以上必要です</original>
+			<edited>本格対戦を遊ぶには
+自軍のユニットが2体以上必要です</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Serious_OldMap" offset="00" relocatable="true" max_length="0">
+			<original>現在サーバーにアップロードされているマップデータが
+本体のマップデータよりも古いため対戦を開始できません
+「マップエディット」から
+最新のマップデータをアップロードしてください</original>
+			<edited>現在サーバーにアップロードされているマップデータが
+本体のマップデータよりも古いため対戦を開始できません
+「マップエディット」から
+最新のマップデータをアップロードしてください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Serious_Help" offset="00" relocatable="true" max_length="0">
+			<original>行動を選択してください</original>
+			<edited>行動を選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Friend_Code_Input_Serious" offset="00" relocatable="true" max_length="0">
+			<original>本格対戦の相手のIDを入力してください</original>
+			<edited>本格対戦の相手のIDを入力してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Battle_Start" offset="00" relocatable="true" max_length="0">
+			<original>対戦開始</original>
+			<edited>対戦開始</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Battle_Start" offset="00" relocatable="true" max_length="0">
+			<original>エディットしたマップを使って
+他のプレイヤーと対戦を行います</original>
+			<edited>エディットしたマップを使って
+他のプレイヤーと対戦を行います</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Battle_Win" offset="00" relocatable="true" max_length="0">
+			<original>あなたの勝利です！</original>
+			<edited>あなたの勝利です！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Battle_Lose" offset="00" relocatable="true" max_length="0">
+			<original>あなたは敗北しました…</original>
+			<edited>あなたは敗北しました…</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_GET_PIECE" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;絆のかけらを&#xE;&#x1;&#x1;&#x0;個手に入れました</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;絆のかけらを&#xE;&#x1;&#x1;&#x0;個手に入れました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_GET_GOLD" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;Gを手に入れました</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;Gを手に入れました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_GET_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;を手に入れました</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;を手に入れました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_GET_ITEM_PLURAL" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;×&#xE;&#x1;&#x2;&#x0;を手に入れました</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;×&#xE;&#x1;&#x2;&#x0;を手に入れました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_EditName" offset="00" relocatable="true" max_length="0">
+			<original>防衛準備</original>
+			<edited>防衛準備</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit" offset="00" relocatable="true" max_length="0">
+			<original>マップエディット</original>
+			<edited>マップエディット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Edit" offset="00" relocatable="true" max_length="0">
+			<original>対戦に使うマップを作成し
+防衛部隊を設定します</original>
+			<edited>対戦に使うマップを作成し
+防衛部隊を設定します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Reset" offset="00" relocatable="true" max_length="0">
+			<original>マップリセット</original>
+			<edited>マップリセット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Reset" offset="00" relocatable="true" max_length="0">
+			<original>今まで配置した情報をリセットする</original>
+			<edited>今まで配置した情報をリセットする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Reset_Confirmation" offset="00" relocatable="true" max_length="0">
+			<original>今まで配置した情報をリセットしますか？</original>
+			<edited>今まで配置した情報をリセットしますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Save" offset="00" relocatable="true" max_length="0">
+			<original>マップ保存</original>
+			<edited>マップ保存</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Save" offset="00" relocatable="true" max_length="0">
+			<original>エディットしたマップを保存する</original>
+			<edited>エディットしたマップを保存する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit_Finish" offset="00" relocatable="true" max_length="0">
+			<original>エディット終了</original>
+			<edited>エディット終了</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Edit_Finish" offset="00" relocatable="true" max_length="0">
+			<original>マップエディットを終了する</original>
+			<edited>マップエディットを終了する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit_Finish_Confirmation" offset="00" relocatable="true" max_length="0">
+			<original>このままエディットを終了しますか？</original>
+			<edited>このままエディットを終了しますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit_Finish_Confirmation_NoSave" offset="00" relocatable="true" max_length="0">
+			<original>マップを保存せずにエディットを終了しますか？</original>
+			<edited>マップを保存せずにエディットを終了しますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit_Finish_Confirmation_Yes" offset="00" relocatable="true" max_length="0">
+			<original>終了する</original>
+			<edited>終了する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit_Finish_Confirmation_No" offset="00" relocatable="true" max_length="0">
+			<original>続ける</original>
+			<edited>続ける</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_HealPanel_Duplicated" offset="00" relocatable="true" max_length="0">
+			<original>回復床と、防衛床は
+同時に1つしか設置できません</original>
+			<edited>回復床と、防衛床は
+同時に1つしか設置できません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Cannon_Duplicated" offset="00" relocatable="true" max_length="0">
+			<original>弓砲台、魔砲台、火炎砲台は
+同時に1つしか設置できません</original>
+			<edited>弓砲台、魔砲台、火炎砲台は
+同時に1つしか設置できません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Save_Error" offset="00" relocatable="true" max_length="0">
+			<original>エディットしたマップが保存できません
+&#xE;&#x1;&#x0;&#x0;</original>
+			<edited>エディットしたマップが保存できません
+&#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Save_Error_NoUnit" offset="00" relocatable="true" max_length="0">
+			<original>最低1人は出撃ユニットを配置してください</original>
+			<edited>最低1人は出撃ユニットを配置してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Save_Error_AllUnit" offset="00" relocatable="true" max_length="0">
+			<original>全てのユニットが防衛戦に配置されており
+出撃できるユニットが一人もいません</original>
+			<edited>全てのユニットが防衛戦に配置されており
+出撃できるユニットが一人もいません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Serious_Error_AllUnit" offset="00" relocatable="true" max_length="0">
+			<original>攻撃部隊に編成可能な仲間がいません
+マップエディットで防衛部隊に編成した
+仲間の人数を少なくしてください</original>
+			<edited>攻撃部隊に編成可能な仲間がいません
+マップエディットで防衛部隊に編成した
+仲間の人数を少なくしてください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Save_Error_BanAreaUnit" offset="00" relocatable="true" max_length="0">
+			<original>到達できない場所にユニットが配置されています</original>
+			<edited>到達できない場所にユニットが配置されています</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Save_Error_InvalidData" offset="00" relocatable="true" max_length="0">
+			<original>データが不正な可能性があるため
+保存できませんでした</original>
+			<edited>データが不正な可能性があるため
+保存できませんでした</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Save_Success" offset="00" relocatable="true" max_length="0">
+			<original>エディットしたマップを保存しました</original>
+			<edited>エディットしたマップを保存しました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_UpRoad" offset="00" relocatable="true" max_length="0">
+			<original>このマップを他のプレイヤーに公開して防衛戦に
+使用するためにサーバーにアップロードしますか？
+
+（既にアップロード済みのマップがあった場合は
+上書きされます）
+（複数のセーブデータを使用していた場合でも
+サーバー上にアップロードしておけるマップは
+1つのニンテンドーアカウントにつき1つまでです）</original>
+			<edited>このマップを他のプレイヤーに公開して防衛戦に
+使用するためにサーバーにアップロードしますか？
+
+（既にアップロード済みのマップがあった場合は
+上書きされます）
+（複数のセーブデータを使用していた場合でも
+サーバー上にアップロードしておけるマップは
+1つのニンテンドーアカウントにつき1つまでです）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_UpRoad_Yes" offset="00" relocatable="true" max_length="0">
+			<original>アップロードする</original>
+			<edited>アップロードする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_UpRoad_No" offset="00" relocatable="true" max_length="0">
+			<original>やめる</original>
+			<edited>やめる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_UpRoad_Success" offset="00" relocatable="true" max_length="0">
+			<original>アップロードに成功しました</original>
+			<edited>アップロードに成功しました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_UpRoad_Failure" offset="00" relocatable="true" max_length="0">
+			<original>アップロードに失敗しました</original>
+			<edited>アップロードに失敗しました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Unit_Duplicate" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;は防衛戦に配置されています</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;は防衛戦に配置されています</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit_AI_NotMove" offset="00" relocatable="true" max_length="0">
+			<original>待機戦術</original>
+			<edited>待機戦術</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Edit_AI_NotMove" offset="00" relocatable="true" max_length="0">
+			<original>初期位置から動かない</original>
+			<edited>初期位置から動かない</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit_AI_Defense" offset="00" relocatable="true" max_length="0">
+			<original>防衛戦術</original>
+			<edited>防衛戦術</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Edit_AI_Defense" offset="00" relocatable="true" max_length="0">
+			<original>攻撃範囲に入った敵を迎え撃つ</original>
+			<edited>攻撃範囲に入った敵を迎え撃つ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit_AI_Rush" offset="00" relocatable="true" max_length="0">
+			<original>突撃戦術</original>
+			<edited>突撃戦術</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Edit_AI_Rush" offset="00" relocatable="true" max_length="0">
+			<original>突撃し、範囲内の弱い敵から攻撃</original>
+			<edited>突撃し、範囲内の弱い敵から攻撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit_AI_ResponseA" offset="00" relocatable="true" max_length="0">
+			<original>連携戦術A</original>
+			<edited>連携戦術A</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Edit_AI_ResponseA" offset="00" relocatable="true" max_length="0">
+			<original>集団Aの攻撃範囲に敵が入ると行動</original>
+			<edited>集団Aの攻撃範囲に敵が入ると行動</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit_AI_ResponseB" offset="00" relocatable="true" max_length="0">
+			<original>連携戦術B</original>
+			<edited>連携戦術B</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Edit_AI_ResponseB" offset="00" relocatable="true" max_length="0">
+			<original>集団Bの攻撃範囲に敵が入ると行動</original>
+			<edited>集団Bの攻撃範囲に敵が入ると行動</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit_AI_ResponseC" offset="00" relocatable="true" max_length="0">
+			<original>連携戦術C</original>
+			<edited>連携戦術C</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Edit_AI_ResponseC" offset="00" relocatable="true" max_length="0">
+			<original>集団Cの攻撃範囲に敵が入ると行動</original>
+			<edited>集団Cの攻撃範囲に敵が入ると行動</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Replay" offset="00" relocatable="true" max_length="0">
+			<original>結果の確認</original>
+			<edited>結果の確認</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Replay" offset="00" relocatable="true" max_length="0">
+			<original>防衛戦の結果を確認したり
+リプレイを見たりすることができます</original>
+			<edited>防衛戦の結果を確認したり
+リプレイを見たりすることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_History" offset="00" relocatable="true" max_length="0">
+			<original>あなたが公開したマップが攻撃を受け
+防衛戦が行われました
+防衛戦のリプレイと結果を確認しますか？　</original>
+			<edited>あなたが公開したマップが攻撃を受け
+防衛戦が行われました
+防衛戦のリプレイと結果を確認しますか？　</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_NoHistory" offset="00" relocatable="true" max_length="0">
+			<original>あなたが公開したマップで
+防衛戦は行われていません</original>
+			<edited>あなたが公開したマップで
+防衛戦は行われていません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_MockCombat" offset="00" relocatable="true" max_length="0">
+			<original>模擬戦</original>
+			<edited>模擬戦</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_MockCombat" offset="00" relocatable="true" max_length="0">
+			<original>自分のエディットしたマップをテストプレイし
+内容を確認することができます</original>
+			<edited>自分のエディットしたマップをテストプレイし
+内容を確認することができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Surrender" offset="00" relocatable="true" max_length="0">
+			<original>降参</original>
+			<edited>降参</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Surrender" offset="00" relocatable="true" max_length="0">
+			<original>降参してメニューに戻る</original>
+			<edited>降参してメニューに戻る</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Surrender_Attention" offset="00" relocatable="true" max_length="0">
+			<original>降参しますか？
+（敗北扱いになります）</original>
+			<edited>降参しますか？
+（敗北扱いになります）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Surrender_Yes" offset="00" relocatable="true" max_length="0">
+			<original>降参する</original>
+			<edited>降参する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_MyRate" offset="00" relocatable="true" max_length="0">
+			<original>自分のレート</original>
+			<edited>自分のレート</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_ID" offset="00" relocatable="true" max_length="0">
+			<original>対戦ID</original>
+			<edited>対戦ID</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Victory" offset="00" relocatable="true" max_length="0">
+			<original>VICTORY!</original>
+			<edited>VICTORY!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Defeat" offset="00" relocatable="true" max_length="0">
+			<original>DEFEAT</original>
+			<edited>DEFEAT</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>通報</original>
+			<edited>通報</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_MAP_DELETE" offset="00" relocatable="true" max_length="0">
+			<original>アップロードしていたマップが
+通報により削除されました</original>
+			<edited>アップロードしていたマップが
+通報により削除されました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_TITLE_HELP" offset="00" relocatable="true" max_length="0">
+			<original>不適切なマップを通報する</original>
+			<edited>不適切なマップを通報する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_NOTES" offset="00" relocatable="true" max_length="0">
+			<original>「ニンテンドーアカウント利用規約」に
+違反する内容を含むマップを通報しようとしています
+
+この通報はマップを公開した人ではなく
+任天堂へ送信されます</original>
+			<edited>「ニンテンドーアカウント利用規約」に
+違反する内容を含むマップを通報しようとしています
+
+この通報はマップを公開した人ではなく
+任天堂へ送信されます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT__CONFIRM_DIALOG" offset="00" relocatable="true" max_length="0">
+			<original>この内容で通報しますか？</original>
+			<edited>この内容で通報しますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT__CONFIRM_DIALOG_YES" offset="00" relocatable="true" max_length="0">
+			<original>通報する</original>
+			<edited>通報する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_CATEGORY_SELECT" offset="00" relocatable="true" max_length="0">
+			<original>通報の種類を選択してください</original>
+			<edited>通報の種類を選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_MAP" offset="00" relocatable="true" max_length="0">
+			<original>通報するマップ</original>
+			<edited>通報するマップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_CATEGORY" offset="00" relocatable="true" max_length="0">
+			<original>通報の種類</original>
+			<edited>通報の種類</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_REASON" offset="00" relocatable="true" max_length="0">
+			<original>通報の理由</original>
+			<edited>通報の理由</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_REASON_INPUT" offset="00" relocatable="true" max_length="0">
+			<original>通報する理由を入力してください</original>
+			<edited>通報する理由を入力してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_CATEGORY_PERSONAL" offset="00" relocatable="true" max_length="0">
+			<original>個人情報、出会い</original>
+			<edited>個人情報、出会い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_CATEGORY_CRIMINAL" offset="00" relocatable="true" max_length="0">
+			<original>暴力的な内容</original>
+			<edited>暴力的な内容</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_CATEGORY_IMMORAL" offset="00" relocatable="true" max_length="0">
+			<original>公序良俗に反する内容</original>
+			<edited>公序良俗に反する内容</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_CATEGORY_HARASSMENT" offset="00" relocatable="true" max_length="0">
+			<original>他人への嫌がらせ、悪口</original>
+			<edited>他人への嫌がらせ、悪口</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_CATEGORY_COMMERCIAL" offset="00" relocatable="true" max_length="0">
+			<original>営利宣伝目的</original>
+			<edited>営利宣伝目的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_CATEGORY_SEXUALLY_EXPLICIT" offset="00" relocatable="true" max_length="0">
+			<original>わいせつな内容</original>
+			<edited>わいせつな内容</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_CATEGORY_OTHER" offset="00" relocatable="true" max_length="0">
+			<original>その他不適切な内容</original>
+			<edited>その他不適切な内容</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_RESULT" offset="00" relocatable="true" max_length="0">
+			<original>通報が完了しました
+送信した内容は確認が行われます</original>
+			<edited>通報が完了しました
+送信した内容は確認が行われます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Ticket" offset="00" relocatable="true" max_length="0">
+			<original>「繋戦開始チケット」を&#xE;&#x1;&#x0;&#x0;枚手に入れました</original>
+			<edited>「繋戦開始チケット」を&#xE;&#x1;&#x0;&#x0;枚手に入れました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Ticket_Stock" offset="00" relocatable="true" max_length="0">
+			<original>繋戦開始チケット</original>
+			<edited>繋戦開始チケット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_NewData" offset="00" relocatable="true" max_length="0">
+			<original>新しく始める</original>
+			<edited>新しく始める</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_H_NewData" offset="00" relocatable="true" max_length="0">
+			<original>チケットを支払って、新しくデータを作り
+マップの始めから試練を開始します</original>
+			<edited>チケットを支払って、新しくデータを作り
+マップの始めから試練を開始します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_TakeOver_START_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>戦闘を開始しますか？
+（味方の配置も決定となります）</original>
+			<edited>戦闘を開始しますか？
+（味方の配置も決定となります）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Unit_Select" offset="00" relocatable="true" max_length="0">
+			<original>出撃するユニットを&#xE;&#x1;&#x0;&#x0;人にしてください
+（「ユニット編成」で、あなたのユニットを
+追加で選択し、出撃させることができます）</original>
+			<edited>出撃するユニットを&#xE;&#x1;&#x0;&#x0;人にしてください
+（「ユニット編成」で、あなたのユニットを
+追加で選択し、出撃させることができます）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Ticket_Lack" offset="00" relocatable="true" max_length="0">
+			<original>チケットがないため新しく始められません</original>
+			<edited>チケットがないため新しく始められません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Unit_Lack" offset="00" relocatable="true" max_length="0">
+			<original>ユニットの数が足りないのでプレイできません</original>
+			<edited>ユニットの数が足りないのでプレイできません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_TakeOver" offset="00" relocatable="true" max_length="0">
+			<original>引き継ぐ</original>
+			<edited>引き継ぐ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_H_TakeOver" offset="00" relocatable="true" max_length="0">
+			<original>誰かのデータを引き継いで
+マップの途中から試練をプレイします</original>
+			<edited>誰かのデータを引き継いで
+マップの途中から試練をプレイします</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_TakeOver_Outline" offset="00" relocatable="true" max_length="0">
+			<original>引き継ぐ内容</original>
+			<edited>引き継ぐ内容</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_TakeOver_Empty" offset="00" relocatable="true" max_length="0">
+			<original>引き継げるデータがありません</original>
+			<edited>引き継げるデータがありません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Joining_players" offset="00" relocatable="true" max_length="0">
+			<original>参加プレイヤー</original>
+			<edited>参加プレイヤー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_TakeOver_Help" offset="00" relocatable="true" max_length="0">
+			<original>データの探し方を選択してください</original>
+			<edited>データの探し方を選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_TakeOver_ID" offset="00" relocatable="true" max_length="0">
+			<original>引き継ぎID</original>
+			<edited>引き継ぎID</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Random" offset="00" relocatable="true" max_length="0">
+			<original>ランダム</original>
+			<edited>ランダム</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_H_Random" offset="00" relocatable="true" max_length="0">
+			<original>他のプレイヤーのデータが自動で選ばれ
+それを引き継いでプレイします</original>
+			<edited>他のプレイヤーのデータが自動で選ばれ
+それを引き継いでプレイします</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_ID_Search" offset="00" relocatable="true" max_length="0">
+			<original>ID入力</original>
+			<edited>ID入力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_H_ID_Search" offset="00" relocatable="true" max_length="0">
+			<original>IDを入力して、特定のプレイヤーのデータを
+引き継いでプレイすることができます</original>
+			<edited>IDを入力して、特定のプレイヤーのデータを
+引き継いでプレイすることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_ID_Input" offset="00" relocatable="true" max_length="0">
+			<original>引き継ぎIDを入力してください</original>
+			<edited>引き継ぎIDを入力してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_ID_Search_Attention" offset="00" relocatable="true" max_length="0">
+			<original>この引き継ぎIDで検索しますか？
+「&#xE;&#x1;&#x0;&#x0;」</original>
+			<edited>この引き継ぎIDで検索しますか？
+「&#xE;&#x1;&#x0;&#x0;」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_ID_Search_OK" offset="00" relocatable="true" max_length="0">
+			<original>検索する</original>
+			<edited>検索する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Data_Error" offset="00" relocatable="true" max_length="0">
+			<original>データが見つかりませんでした</original>
+			<edited>データが見つかりませんでした</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_ID_Search_MyMap_Error" offset="00" relocatable="true" max_length="0">
+			<original>自分が開始したマップは引き継げません</original>
+			<edited>自分が開始したマップは引き継げません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_ID_Search_Again_Error" offset="00" relocatable="true" max_length="0">
+			<original>既にプレイ済なので引き継げません</original>
+			<edited>既にプレイ済なので引き継げません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_ID_Search_Finish_Error" offset="00" relocatable="true" max_length="0">
+			<original>既に終了しているので引き継げません</original>
+			<edited>既に終了しているので引き継げません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_ID_Search_Other_Error" offset="00" relocatable="true" max_length="0">
+			<original>他の人がプレイ中のため引き継げません
+（プレイ結果がアップロードされるか
+24時間経過すると引き継げるようになります）</original>
+			<edited>他の人がプレイ中のため引き継げません
+（プレイ結果がアップロードされるか
+24時間経過すると引き継げるようになります）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_ID_Search_Error" offset="00" relocatable="true" max_length="0">
+			<original>そのデータは引き継げません</original>
+			<edited>そのデータは引き継げません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_ID_Search_NoData" offset="00" relocatable="true" max_length="0">
+			<original>データの取得に失敗しました
+最終データ更新より一定期間が経過したため
+データが削除された可能性があります</original>
+			<edited>データの取得に失敗しました
+最終データ更新より一定期間が経過したため
+データが削除された可能性があります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay" offset="00" relocatable="true" max_length="0">
+			<original>結果確認</original>
+			<edited>結果確認</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_H_Replay" offset="00" relocatable="true" max_length="0">
+			<original>自分が参加したデータのプレイ結果を確認し
+報酬の受け取りや、リプレイの視聴ができます
+（未終了の時はリプレイは途中まで視聴できます）</original>
+			<edited>自分が参加したデータのプレイ結果を確認し
+報酬の受け取りや、リプレイの視聴ができます
+（未終了の時はリプレイは途中まで視聴できます）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Map_Select" offset="00" relocatable="true" max_length="0">
+			<original>挑戦するマップを選択してください</original>
+			<edited>挑戦するマップを選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_Select" offset="00" relocatable="true" max_length="0">
+			<original>参加した戦闘</original>
+			<edited>参加した戦闘</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_Datetime" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;/&#xE;&#x1;&#x1;&#x0;/&#xE;&#x1;&#x2;&#x0; &#xE;&#x1;&#x3;&#x0;:&#xE;&#x1;&#x4;&#x0;</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;/&#xE;&#x1;&#x1;&#x0;/&#xE;&#x1;&#x2;&#x0; &#xE;&#x1;&#x3;&#x0;:&#xE;&#x1;&#x4;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_Select_Prompt" offset="00" relocatable="true" max_length="0">
+			<original>確認したいデータを選択してください</original>
+			<edited>確認したいデータを選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Reselect" offset="00" relocatable="true" max_length="0">
+			<original>他の人が引き継いでしまったので
+別のデータを選びなおします</original>
+			<edited>他の人が引き継いでしまったので
+別のデータを選びなおします</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_Empty" offset="00" relocatable="true" max_length="0">
+			<original>リプレイが見られるデータがありません
+（一定期間経過したデータは削除されます）</original>
+			<edited>リプレイが見られるデータがありません
+（一定期間経過したデータは削除されます）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_NotUpdate" offset="00" relocatable="true" max_length="0">
+			<original>他の人のプレイで更新済のため
+更新できませんでした</original>
+			<edited>他の人のプレイで更新済のため
+更新できませんでした</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_NotSeeYet" offset="00" relocatable="true" max_length="0">
+			<original>参加した繋戦の試練のデータがありません</original>
+			<edited>参加した繋戦の試練のデータがありません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_Beginning_NoFinish" offset="00" relocatable="true" max_length="0">
+			<original>現時点までのリプレイを見ますか？
+（結果が未確定のため、マップの途中で終了します）</original>
+			<edited>現時点までのリプレイを見ますか？
+（結果が未確定のため、マップの途中で終了します）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_Beginning_NoFinish_Yes" offset="00" relocatable="true" max_length="0">
+			<original>見る</original>
+			<edited>見る</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_Beginning" offset="00" relocatable="true" max_length="0">
+			<original>リプレイを見ますか？</original>
+			<edited>リプレイを見ますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_Beginning_Yes" offset="00" relocatable="true" max_length="0">
+			<original>見る</original>
+			<edited>見る</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_Beginning_No" offset="00" relocatable="true" max_length="0">
+			<original>結果だけ見る</original>
+			<edited>結果だけ見る</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_Reward_Received" offset="00" relocatable="true" max_length="0">
+			<original>この繋戦での報酬は既に受け取り済みです</original>
+			<edited>この繋戦での報酬は既に受け取り済みです</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_UpdateContents_Attention" offset="00" relocatable="true" max_length="0">
+			<original>プレイしたデータの公開設定をしてください
+「公開」誰でもこのデータを引き継ぐことができます
+「非公開」IDを入力しないと引き継ぐことができません</original>
+			<edited>プレイしたデータの公開設定をしてください
+「公開」誰でもこのデータを引き継ぐことができます
+「非公開」IDを入力しないと引き継ぐことができません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_UpdateContents_Yes" offset="00" relocatable="true" max_length="0">
+			<original>データを公開する</original>
+			<edited>データを公開する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_UpdateContents_No" offset="00" relocatable="true" max_length="0">
+			<original>データを非公開にする</original>
+			<edited>データを非公開にする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_MyMap_ID" offset="00" relocatable="true" max_length="0">
+			<original>「&#xE;&#x1;&#x0;&#x0;」
+このデータの引き継ぎIDです
+特定の人に引き継いでもらいたい場合は
+このIDを伝えてください</original>
+			<edited>「&#xE;&#x1;&#x0;&#x0;」
+このデータの引き継ぎIDです
+特定の人に引き継いでもらいたい場合は
+このIDを伝えてください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Redo" offset="00" relocatable="true" max_length="0">
+			<original>通信処理をやり直しますか？</original>
+			<edited>通信処理をやり直しますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_PlayUser" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;さんがプレイ中…</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;さんがプレイ中…</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_UserMessage" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;さんからのメッセージ</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;さんからのメッセージ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_PlayerChange" offset="00" relocatable="true" max_length="0">
+			<original>PLAYER CHANGE !!</original>
+			<edited>PLAYER CHANGE !!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Win" offset="00" relocatable="true" max_length="0">
+			<original>勝利</original>
+			<edited>勝利</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Lose" offset="00" relocatable="true" max_length="0">
+			<original>敗北</original>
+			<edited>敗北</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_FinalRecord" offset="00" relocatable="true" max_length="0">
+			<original>最終結果</original>
+			<edited>最終結果</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_UpRoad" offset="00" relocatable="true" max_length="0">
+			<original>こちらの情報をアップロードします</original>
+			<edited>こちらの情報をアップロードします</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Failure" offset="00" relocatable="true" max_length="0">
+			<original>TRIAL FAILURE</original>
+			<edited>TRIAL FAILURE</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_OPEN_N006" offset="00" relocatable="true" max_length="0">
+			<original>繋戦の試練で
+「溶岩地帯」を選択できるようになりました</original>
+			<edited>繋戦の試練で
+「溶岩地帯」を選択できるようになりました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_N001_1" offset="00" relocatable="true" max_length="0">
+			<original>草原地帯</original>
+			<edited>草原地帯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_N002_1" offset="00" relocatable="true" max_length="0">
+			<original>花野地帯</original>
+			<edited>花野地帯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_N003_1" offset="00" relocatable="true" max_length="0">
+			<original>山岳地帯</original>
+			<edited>山岳地帯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_N004_1" offset="00" relocatable="true" max_length="0">
+			<original>森林地帯</original>
+			<edited>森林地帯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_N005_1" offset="00" relocatable="true" max_length="0">
+			<original>砂漠地帯</original>
+			<edited>砂漠地帯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_N006_1" offset="00" relocatable="true" max_length="0">
+			<original>溶岩地帯</original>
+			<edited>溶岩地帯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_All" offset="00" relocatable="true" max_length="0">
+			<original>参加者全員</original>
+			<edited>参加者全員</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Regret" offset="00" relocatable="true" max_length="0">
+			<original>残念賞</original>
+			<edited>残念賞</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Kill" offset="00" relocatable="true" max_length="0">
+			<original>最も多く敵を撃破した</original>
+			<edited>最も多く敵を撃破した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Damage" offset="00" relocatable="true" max_length="0">
+			<original>最も多くダメージを受けた</original>
+			<edited>最も多くダメージを受けた</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Recovered" offset="00" relocatable="true" max_length="0">
+			<original>最も多く味方を回復した</original>
+			<edited>最も多く味方を回復した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Break" offset="00" relocatable="true" max_length="0">
+			<original>最も多く敵を「ブレイク」させた</original>
+			<edited>最も多く敵を「ブレイク」させた</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Engage" offset="00" relocatable="true" max_length="0">
+			<original>最も多く「エンゲージ」を行った</original>
+			<edited>最も多く「エンゲージ」を行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Item" offset="00" relocatable="true" max_length="0">
+			<original>最も多く道具を使用した</original>
+			<edited>最も多く道具を使用した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Poison" offset="00" relocatable="true" max_length="0">
+			<original>最も多く敵に毒を与えた</original>
+			<edited>最も多く敵に毒を与えた</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_LongWalk" offset="00" relocatable="true" max_length="0">
+			<original>最も長い距離を移動した</original>
+			<edited>最も長い距離を移動した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Skill" offset="00" relocatable="true" max_length="0">
+			<original>最も多くスキルを発動した</original>
+			<edited>最も多くスキルを発動した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Invisible" offset="00" relocatable="true" max_length="0">
+			<original>一度もダメージを受けなかった</original>
+			<edited>一度もダメージを受けなかった</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Critical" offset="00" relocatable="true" max_length="0">
+			<original>最も多く「必殺の一撃」を発動した</original>
+			<edited>最も多く「必殺の一撃」を発動した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_SpecialAttack" offset="00" relocatable="true" max_length="0">
+			<original>最も多く「特効」を発生させた</original>
+			<edited>最も多く「特効」を発生させた</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_EngageAttack" offset="00" relocatable="true" max_length="0">
+			<original>最も多く「エンゲージ技」を発動した</original>
+			<edited>最も多く「エンゲージ技」を発動した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_ChainGuard" offset="00" relocatable="true" max_length="0">
+			<original>最も多く「チェインガード」を発動した</original>
+			<edited>最も多く「チェインガード」を発動した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Smash" offset="00" relocatable="true" max_length="0">
+			<original>最も多く「スマッシュ」を発動した</original>
+			<edited>最も多く「スマッシュ」を発動した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Adjacent" offset="00" relocatable="true" max_length="0">
+			<original>最も多く敵に隣接攻撃を行った</original>
+			<edited>最も多く敵に隣接攻撃を行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Indirect" offset="00" relocatable="true" max_length="0">
+			<original>最も多く敵に間接攻撃を行った</original>
+			<edited>最も多く敵に間接攻撃を行った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_NoKill" offset="00" relocatable="true" max_length="0">
+			<original>撃破は少ないが多くの回数敵に攻撃した</original>
+			<edited>撃破は少ないが多くの回数敵に攻撃した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_ChainAttack" offset="00" relocatable="true" max_length="0">
+			<original>最も多く「チェインアタック」を発動した</original>
+			<edited>最も多く「チェインアタック」を発動した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Sabotage_Comment" offset="00" relocatable="true" max_length="0">
+			<original>無駄な行動をあまりしなかった</original>
+			<edited>無駄な行動をあまりしなかった</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_MyPace" offset="00" relocatable="true" max_length="0">
+			<original>移動した距離が最も少なかった</original>
+			<edited>移動した距離が最も少なかった</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Strike" offset="00" relocatable="true" max_length="0">
+			<original>敵に与えたダメージが最も少なかった</original>
+			<edited>敵に与えたダメージが最も少なかった</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Standby" offset="00" relocatable="true" max_length="0">
+			<original>最も多い回数「待機」を選んだ</original>
+			<edited>最も多い回数「待機」を選んだ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_TroubleMaker" offset="00" relocatable="true" max_length="0">
+			<original>最も多く味方から回復をしてもらった</original>
+			<edited>最も多く味方から回復をしてもらった</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Sabotage_Unlucky" offset="00" relocatable="true" max_length="0">
+			<original>最も多く敵から「スキル」を発動された</original>
+			<edited>最も多く敵から「スキル」を発動された</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Kill" offset="00" relocatable="true" max_length="0">
+			<original>スレイヤー</original>
+			<edited>スレイヤー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Damage" offset="00" relocatable="true" max_length="0">
+			<original>サバイバー</original>
+			<edited>サバイバー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Recovered" offset="00" relocatable="true" max_length="0">
+			<original>ヒールマスター</original>
+			<edited>ヒールマスター</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Break" offset="00" relocatable="true" max_length="0">
+			<original>ブレイクマスター</original>
+			<edited>ブレイクマスター</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Engage" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージマスター</original>
+			<edited>エンゲージマスター</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Item" offset="00" relocatable="true" max_length="0">
+			<original>アイテムマスター</original>
+			<edited>アイテムマスター</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Poison" offset="00" relocatable="true" max_length="0">
+			<original>ポイズンマスター</original>
+			<edited>ポイズンマスター</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_LongWalk" offset="00" relocatable="true" max_length="0">
+			<original>ランナー</original>
+			<edited>ランナー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Skill" offset="00" relocatable="true" max_length="0">
+			<original>スキルマスター</original>
+			<edited>スキルマスター</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_NoDamage" offset="00" relocatable="true" max_length="0">
+			<original>インビジブル</original>
+			<edited>インビジブル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Critical" offset="00" relocatable="true" max_length="0">
+			<original>クリティカルマスター</original>
+			<edited>クリティカルマスター</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_SpecialAttack" offset="00" relocatable="true" max_length="0">
+			<original>ウィークハンター</original>
+			<edited>ウィークハンター</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_EngageAttack" offset="00" relocatable="true" max_length="0">
+			<original>ワンハート</original>
+			<edited>ワンハート</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_ChainGuard" offset="00" relocatable="true" max_length="0">
+			<original>ガーディアン</original>
+			<edited>ガーディアン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Smash" offset="00" relocatable="true" max_length="0">
+			<original>スマッシャー</original>
+			<edited>スマッシャー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Adjacent" offset="00" relocatable="true" max_length="0">
+			<original>アグレッシブ</original>
+			<edited>アグレッシブ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Indirect" offset="00" relocatable="true" max_length="0">
+			<original>エレガント</original>
+			<edited>エレガント</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_NoKill" offset="00" relocatable="true" max_length="0">
+			<original>アシストマスター</original>
+			<edited>アシストマスター</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_ChainAttack" offset="00" relocatable="true" max_length="0">
+			<original>チェインアタッカー</original>
+			<edited>チェインアタッカー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Sabotage" offset="00" relocatable="true" max_length="0">
+			<original>パワーセーブ</original>
+			<edited>パワーセーブ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_EnergySaving" offset="00" relocatable="true" max_length="0">
+			<original>マイペース</original>
+			<edited>マイペース</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Peace" offset="00" relocatable="true" max_length="0">
+			<original>ピースフル</original>
+			<edited>ピースフル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Standby" offset="00" relocatable="true" max_length="0">
+			<original>ワンダラー</original>
+			<edited>ワンダラー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Protected" offset="00" relocatable="true" max_length="0">
+			<original>イモータル</original>
+			<edited>イモータル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_SkillTarget" offset="00" relocatable="true" max_length="0">
+			<original>アンラッキー</original>
+			<edited>アンラッキー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Message" offset="00" relocatable="true" max_length="0">
+			<original>次のプレイヤーに残すメッセージ</original>
+			<edited>次のプレイヤーに残すメッセージ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Lueur_M_0" offset="00" relocatable="true" max_length="0">
+			<original>後はよろしくお願いします</original>
+			<edited>後はよろしくお願いします</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Lueur_F_0" offset="00" relocatable="true" max_length="0">
+			<original>一緒に戦えて嬉しいです</original>
+			<edited>一緒に戦えて嬉しいです</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Vandre_0" offset="00" relocatable="true" max_length="0">
+			<original>どうか、慎重に進軍を</original>
+			<edited>どうか、慎重に進軍を</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Clan_0" offset="00" relocatable="true" max_length="0">
+			<original>難しくて卒倒しそうでした…</original>
+			<edited>難しくて卒倒しそうでした…</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Fram_0" offset="00" relocatable="true" max_length="0">
+			<original>尊い神業、期待してますっ！</original>
+			<edited>尊い神業、期待してますっ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Alfred_0" offset="00" relocatable="true" max_length="0">
+			<original>鍛錬の成果を見せる時だ！</original>
+			<edited>鍛錬の成果を見せる時だ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Boucheron_0" offset="00" relocatable="true" max_length="0">
+			<original>涙が出てきた…</original>
+			<edited>涙が出てきた…</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Etie_0" offset="00" relocatable="true" max_length="0">
+			<original>一緒に乗り越えますわよ！</original>
+			<edited>一緒に乗り越えますわよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Celine_0" offset="00" relocatable="true" max_length="0">
+			<original>あなたの力が必要だわ</original>
+			<edited>あなたの力が必要だわ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Louis_0" offset="00" relocatable="true" max_length="0">
+			<original>ずっと見ておりますので</original>
+			<edited>ずっと見ておりますので</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Chloe_0" offset="00" relocatable="true" max_length="0">
+			<original>どんな組み合わせでいくのかしら？</original>
+			<edited>どんな組み合わせでいくのかしら？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Diamand_0" offset="00" relocatable="true" max_length="0">
+			<original>力を合わせて切り抜けるぞ</original>
+			<edited>力を合わせて切り抜けるぞ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Umber_0" offset="00" relocatable="true" max_length="0">
+			<original>俺たちが伝説になるんだ！</original>
+			<edited>俺たちが伝説になるんだ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Jade_0" offset="00" relocatable="true" max_length="0">
+			<original>…面白いことになりそうね</original>
+			<edited>…面白いことになりそうね</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Staluke_0" offset="00" relocatable="true" max_length="0">
+			<original>やらかしましたすみません消えます</original>
+			<edited>やらかしましたすみません消えます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Lapis_0" offset="00" relocatable="true" max_length="0">
+			<original>腕力でガーっといきましょう！</original>
+			<edited>腕力でガーっといきましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Citrinica_0" offset="00" relocatable="true" max_length="0">
+			<original>煌びやかに応援しているわ</original>
+			<edited>煌びやかに応援しているわ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Ivy_0" offset="00" relocatable="true" max_length="0">
+			<original>貴方ならできるわ…</original>
+			<edited>貴方ならできるわ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Zelkova_0" offset="00" relocatable="true" max_length="0">
+			<original>「これ」をどう「読み解く」？</original>
+			<edited>「これ」をどう「読み解く」？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Kagetsu_0" offset="00" relocatable="true" max_length="0">
+			<original>今日から友人じゃ！　よろしく頼む</original>
+			<edited>今日から友人じゃ！　よろしく頼む</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Hortensia_0" offset="00" relocatable="true" max_length="0">
+			<original>無事に戻ってきなさいよね！</original>
+			<edited>無事に戻ってきなさいよね！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Rosado_0" offset="00" relocatable="true" max_length="0">
+			<original>えへ、やりすぎちゃったー</original>
+			<edited>えへ、やりすぎちゃったー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Goldmary_0" offset="00" relocatable="true" max_length="0">
+			<original>見事な采配を披露してすみません…</original>
+			<edited>見事な采配を披露してすみません…</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Misutira_0" offset="00" relocatable="true" max_length="0">
+			<original>あたしたちなら楽勝だよ！</original>
+			<edited>あたしたちなら楽勝だよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Merin_0" offset="00" relocatable="true" max_length="0">
+			<original>活躍に見惚れて構わないよ</original>
+			<edited>活躍に見惚れて構わないよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Panetone_0" offset="00" relocatable="true" max_length="0">
+			<original>カチコミの御時間ですわ</original>
+			<edited>カチコミの御時間ですわ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Fogato_0" offset="00" relocatable="true" max_length="0">
+			<original>君のことが、だーい好き！</original>
+			<edited>君のことが、だーい好き！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Pandoro_0" offset="00" relocatable="true" max_length="0">
+			<original>うぇーーーーい！！</original>
+			<edited>うぇーーーーい！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Bonet_0" offset="00" relocatable="true" max_length="0">
+			<original>うまそうだな…</original>
+			<edited>うまそうだな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Anna_0" offset="00" relocatable="true" max_length="0">
+			<original>サービスしちゃったわ！</original>
+			<edited>サービスしちゃったわ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Jean_0" offset="00" relocatable="true" max_length="0">
+			<original>よろしゅう頼みます</original>
+			<edited>よろしゅう頼みます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Yunaka_0" offset="00" relocatable="true" max_length="0">
+			<original>わたくしめの推しを、よろぴっぴ！</original>
+			<edited>わたくしめの推しを、よろぴっぴ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Seadas_0" offset="00" relocatable="true" max_length="0">
+			<original>ここからは君の舞台さ</original>
+			<edited>ここからは君の舞台さ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Linden_0" offset="00" relocatable="true" max_length="0">
+			<original>実験失敗じゃーっ！！</original>
+			<edited>実験失敗じゃーっ！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Saphir_0" offset="00" relocatable="true" max_length="0">
+			<original>編成を失敗しちまったかな</original>
+			<edited>編成を失敗しちまったかな</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Veyre_0" offset="00" relocatable="true" max_length="0">
+			<original>わたし、頑張ったよ</original>
+			<edited>わたし、頑張ったよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Mauve_0" offset="00" relocatable="true" max_length="0">
+			<original>すまない…後は頼む</original>
+			<edited>すまない…後は頼む</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Lumiere_0" offset="00" relocatable="true" max_length="0">
+			<original>気をつけて、いってらっしゃい</original>
+			<edited>気をつけて、いってらっしゃい</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Marth_0" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージしてくれ！</original>
+			<edited>エンゲージしてくれ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Celica_0" offset="00" relocatable="true" max_length="0">
+			<original>戦いは好まないのだけれど…</original>
+			<edited>戦いは好まないのだけれど…</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Siglud_0" offset="00" relocatable="true" max_length="0">
+			<original>この采配に後悔はしない</original>
+			<edited>この采配に後悔はしない</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Leaf_0" offset="00" relocatable="true" max_length="0">
+			<original>どんな困難も乗り越えられるさ</original>
+			<edited>どんな困難も乗り越えられるさ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Roy_0" offset="00" relocatable="true" max_length="0">
+			<original>真の戦いはここからだよ</original>
+			<edited>真の戦いはここからだよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Lin_0" offset="00" relocatable="true" max_length="0">
+			<original>良い風が吹きますように</original>
+			<edited>良い風が吹きますように</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Eirik_0" offset="00" relocatable="true" max_length="0">
+			<original>ご武運を祈ります</original>
+			<edited>ご武運を祈ります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Ike_0" offset="00" relocatable="true" max_length="0">
+			<original>誰も死なせるな！</original>
+			<edited>誰も死なせるな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Micaiah_0" offset="00" relocatable="true" max_length="0">
+			<original>あなたと協力できて嬉しいわ</original>
+			<edited>あなたと協力できて嬉しいわ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Lucina_0" offset="00" relocatable="true" max_length="0">
+			<original>運命を変えてください！</original>
+			<edited>運命を変えてください！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Kamui_0" offset="00" relocatable="true" max_length="0">
+			<original>あなたを信じています</original>
+			<edited>あなたを信じています</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Byleth_0" offset="00" relocatable="true" max_length="0">
+			<original>学んだことを活かすんだ</original>
+			<edited>学んだことを活かすんだ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RANKING_Title" offset="00" relocatable="true" max_length="0">
+			<original>出撃ランキング</original>
+			<edited>出撃ランキング</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_RANKING_Title" offset="00" relocatable="true" max_length="0">
+			<original>このマップの出撃ランキングを見る</original>
+			<edited>このマップの出撃ランキングを見る</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RANKING_First" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;位</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;位</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RANKING_Second" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;位</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;位</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RANKING_Third" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;位</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;位</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RANKING_Other" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;位</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;位</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RANKING_Fail" offset="00" relocatable="true" max_length="0">
+			<original>ランキングデータが正しく取得できませんでした</original>
+			<edited>ランキングデータが正しく取得できませんでした</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_EXP_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>参加経験値</original>
+			<edited>参加経験値</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_MapSelect_Help" offset="00" relocatable="true" max_length="0">
+			<original>挑戦する連戦マップを選択してください</original>
+			<edited>挑戦する連戦マップを選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_MapSelect_MenuCaption" offset="00" relocatable="true" max_length="0">
+			<original>試練の種類</original>
+			<edited>試練の種類</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_MapInfo_N_Battles" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;連戦</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;連戦</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_MapInfo_BestRecort" offset="00" relocatable="true" max_length="0">
+			<original>クリア最高記録</original>
+			<edited>クリア最高記録</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_MapInfo_Turn" offset="00" relocatable="true" max_length="0">
+			<original>ターン</original>
+			<edited>ターン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_MapInfo_Materials" offset="00" relocatable="true" max_length="0">
+			<original>手に入りやすい素材</original>
+			<edited>手に入りやすい素材</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_DifficultyMenu_Help" offset="00" relocatable="true" max_length="0">
+			<original>挑戦する難易度を選択してください</original>
+			<edited>挑戦する難易度を選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_DifficultyMenu_Recommended" offset="00" relocatable="true" max_length="0">
+			<original>おすすめ難易度：&#xE;&#x1;&#x0;&#x0;</original>
+			<edited>おすすめ難易度：&#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_DifficultyMenu_Difficulty" offset="00" relocatable="true" max_length="0">
+			<original>難易度</original>
+			<edited>難易度</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_DifficultyMenu_Start" offset="00" relocatable="true" max_length="0">
+			<original>戦闘開始</original>
+			<edited>戦闘開始</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_Start_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>戦闘を開始しますか？
+（チケットを1枚消費します。現在の枚数：&#xE;&#x1;&#x0;&#x0;）</original>
+			<edited>戦闘を開始しますか？
+（チケットを1枚消費します。現在の枚数：&#xE;&#x1;&#x0;&#x0;）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_GiveUp" offset="00" relocatable="true" max_length="0">
+			<original>あきらめる</original>
+			<edited>あきらめる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_H_GiveUp" offset="00" relocatable="true" max_length="0">
+			<original>試練を終了してメニューへ戻る</original>
+			<edited>試練を終了してメニューへ戻る</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_GiveUp_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>連戦の試練を終了して、メニュー画面に戻りますか？
+（敗北となり、クリア報酬は貰えませんが
+マップのクリア数に応じた経験値を得られます）</original>
+			<edited>連戦の試練を終了して、メニュー画面に戻りますか？
+（敗北となり、クリア報酬は貰えませんが
+マップのクリア数に応じた経験値を得られます）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_Confirm" offset="00" relocatable="true" max_length="0">
+			<original>連戦マップ「&#xE;&#x1;&#x0;&#x0;」を
+「難易度&#xE;&#x1;&#x1;&#x0;」で始めますか？</original>
+			<edited>連戦マップ「&#xE;&#x1;&#x0;&#x0;」を
+「難易度&#xE;&#x1;&#x1;&#x0;」で始めますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_MAP1" offset="00" relocatable="true" max_length="0">
+			<original>初戦</original>
+			<edited>初戦</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_MAP2" offset="00" relocatable="true" max_length="0">
+			<original>2戦目</original>
+			<edited>2戦目</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_MAP3" offset="00" relocatable="true" max_length="0">
+			<original>最終戦</original>
+			<edited>最終戦</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_Get_Item" offset="00" relocatable="true" max_length="0">
+			<original>～</original>
+			<edited>～</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_Get_EXP" offset="00" relocatable="true" max_length="0">
+			<original>取得経験値</original>
+			<edited>取得経験値</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_Join_MAP1" offset="00" relocatable="true" max_length="0">
+			<original>1戦参加</original>
+			<edited>1戦参加</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_Join_MAP2" offset="00" relocatable="true" max_length="0">
+			<original>2戦参加</original>
+			<edited>2戦参加</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_Join_MAP3" offset="00" relocatable="true" max_length="0">
+			<original>3戦参加</original>
+			<edited>3戦参加</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_Get_SP" offset="00" relocatable="true" max_length="0">
+			<original>スキルの書取得数</original>
+			<edited>スキルの書取得数</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_OPEN_LEVEL41" offset="00" relocatable="true" max_length="0">
+			<original>連戦の試練の
+難易度41以上が解放されました</original>
+			<edited>連戦の試練の
+難易度41以上が解放されました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_C001_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>緑野の連戦</original>
+			<edited>緑野の連戦</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_C002_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>花畑の連戦</original>
+			<edited>花畑の連戦</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_C003_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>高原の連戦</original>
+			<edited>高原の連戦</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_C004_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>雪樹林の連戦</original>
+			<edited>雪樹林の連戦</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_C005_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>砂海の連戦</original>
+			<edited>砂海の連戦</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_C006_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>岩漿の連戦</original>
+			<edited>岩漿の連戦</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Ticket_Music" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x8;&#x2;&#x18;&#x16;&#x0;S&#x0;o&#x0;u&#x0;n&#x0;d&#x0;T&#x0;i&#x0;c&#x0;k&#x0;e&#x0;t&#x0;「楽曲交換チケット」を手に入れました</original>
+			<edited>&#xE;&#x8;&#x2;&#x18;&#x16;&#x0;S&#x0;o&#x0;u&#x0;n&#x0;d&#x0;T&#x0;i&#x0;c&#x0;k&#x0;e&#x0;t&#x0;「楽曲交換チケット」を手に入れました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Ticket_Accessories" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x8;&#x2;&#x14;&#x12;&#x0;A&#x0;c&#x0;c&#x0;T&#x0;i&#x0;c&#x0;k&#x0;e&#x0;t&#x0;「衣装交換チケット」を手に入れました</original>
+			<edited>&#xE;&#x8;&#x2;&#x14;&#x12;&#x0;A&#x0;c&#x0;c&#x0;T&#x0;i&#x0;c&#x0;k&#x0;e&#x0;t&#x0;「衣装交換チケット」を手に入れました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Touch_Count" offset="00" relocatable="true" max_length="0">
+			<original>読み込み可能回数 &#xE;&#x1;&#x0;&#x0;/5</original>
+			<edited>読み込み可能回数 &#xE;&#x1;&#x0;&#x0;/5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Touch_Interval" offset="00" relocatable="true" max_length="0">
+			<original>あと&#xE;&#x1;&#x0;&#x0;時間&#xE;&#x1;&#x1;&#x0;分経過で回復</original>
+			<edited>あと&#xE;&#x1;&#x0;&#x0;時間&#xE;&#x1;&#x1;&#x0;分経過で回復</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Touch" offset="00" relocatable="true" max_length="0">
+			<original>amiiboをタッチしてください</original>
+			<edited>amiiboをタッチしてください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Accessories_Attention" offset="00" relocatable="true" max_length="0">
+			<original>使用不可：ユニット制限</original>
+			<edited>使用不可：ユニット制限</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Trade_Ticket" offset="00" relocatable="true" max_length="0">
+			<original>「&#xE;&#x1;&#x0;&#x0;」と交換しますか？
+（チケットを1枚消費します。現在の枚数： &#xE;&#x1;&#x1;&#x0;）</original>
+			<edited>「&#xE;&#x1;&#x0;&#x0;」と交換しますか？
+（チケットを1枚消費します。現在の枚数： &#xE;&#x1;&#x1;&#x0;）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Trade_Ticket_Use" offset="00" relocatable="true" max_length="0">
+			<original>消費チケット</original>
+			<edited>消費チケット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Trade_Ticket_Have" offset="00" relocatable="true" max_length="0">
+			<original>チケットの所持数</original>
+			<edited>チケットの所持数</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Trade_Music_Select" offset="00" relocatable="true" max_length="0">
+			<original>楽曲を選択してください</original>
+			<edited>楽曲を選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Trade_Ticket_Music" offset="00" relocatable="true" max_length="0">
+			<original>楽曲交換チケット</original>
+			<edited>楽曲交換チケット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Music" offset="00" relocatable="true" max_length="0">
+			<original>楽曲</original>
+			<edited>楽曲</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Trade_Accessories_Select" offset="00" relocatable="true" max_length="0">
+			<original>衣装を選択してください</original>
+			<edited>衣装を選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Trade_Ticket_Accessories" offset="00" relocatable="true" max_length="0">
+			<original>衣装交換チケット</original>
+			<edited>衣装交換チケット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Accessories" offset="00" relocatable="true" max_length="0">
+			<original>衣装</original>
+			<edited>衣装</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Trade_Nothing" offset="00" relocatable="true" max_length="0">
+			<original>何もありません</original>
+			<edited>何もありません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Trade_Information" offset="00" relocatable="true" max_length="0">
+			<original>全ての&#xE;&#x1;&#x0;&#x0;を交換済みのため
+チケットを絆のかけらに交換しました</original>
+			<edited>全ての&#xE;&#x1;&#x0;&#x0;を交換済みのため
+チケットを絆のかけらに交換しました</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

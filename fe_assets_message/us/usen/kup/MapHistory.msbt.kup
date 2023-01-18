@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_MAP_HIS_PhaseBegin_Player" offset="00" relocatable="true" max_length="0">
+			<original>Began player phase.</original>
+			<edited>Began player phase.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_PhaseBegin_Enemy" offset="00" relocatable="true" max_length="0">
+			<original>Began enemy phase.</original>
+			<edited>Began enemy phase.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_PhaseBegin_Ally" offset="00" relocatable="true" max_length="0">
+			<original>Began ally phase.</original>
+			<edited>Began ally phase.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_Fixed" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; waited.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; waited.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_Talk" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; talked.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; talked.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_Attack" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; attacked.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; attacked.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_Rod" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; used a staff.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; used a staff.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_EngageCharge" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; used Great Aether.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; used Great Aether.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_Destroy" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; destroyed something.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; destroyed something.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_ItemUse" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; used an item.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; used an item.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_Trade" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; traded item(s).</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; traded item(s).</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_PutOff" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; discarded item(s).</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; discarded item(s).</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_Visit" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; visited.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; visited.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_Breakdown" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; seized something.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; seized something.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_Escape" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; escaped.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; escaped.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_Door" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; opened a door.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; opened a door.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_Torch_Off" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; put out a beacon.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; put out a beacon.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_Torch_On" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; lit a beacon.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; lit a beacon.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_TreasureBox" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; opened a chest.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; opened a chest.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_Transporter" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; used the convoy.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; used the convoy.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_Dance" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; danced.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; danced.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_Guard" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; used Chain Guard.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; used Chain Guard.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_LucinaEngage" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; used Bonded Shield.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; used Bonded Shield.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_OverlapSkill" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; used Dragon Vein.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; used Dragon Vein.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_CommandSkill" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; used &#xE;&#x1;&#x1;&#x0;.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; used &#xE;&#x1;&#x1;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_VisionCreate" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; called illusory doubles.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; called illusory doubles.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_VisionDelete" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; dispelled illusory doubles.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; dispelled illusory doubles.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_DestroyVillage" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; destroyed a house.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; destroyed a house.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_EngageBreak" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; used Disengage.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; used Disengage.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_EngageAttack" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; used &#xE;&#x1;&#x1;&#x0;.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; used &#xE;&#x1;&#x1;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MAP_HIS_PickUp" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; acted</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; acted</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

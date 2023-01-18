@@ -1,0 +1,2814 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_CARD_KEYHELP_TURN_OVER" offset="00" relocatable="true" max_length="0">
+			<original>翻面</original>
+			<edited>翻面</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CARD_KEYHELP_EDIT" offset="00" relocatable="true" max_length="0">
+			<original>编辑</original>
+			<edited>编辑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CARD_KEYHELP_CARD_LIST" offset="00" relocatable="true" max_length="0">
+			<original>卡片列表</original>
+			<edited>卡片列表</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CARD_KEYHELP_STAMP_LIST" offset="00" relocatable="true" max_length="0">
+			<original>印章清单</original>
+			<edited>印章清单</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CARD_KEYHELP_STAMP_SWITCHING" offset="00" relocatable="true" max_length="0">
+			<original>切换编辑模式</original>
+			<edited>切换编辑模式</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CARD_KEYHELP_DELETE" offset="00" relocatable="true" max_length="0">
+			<original>删除</original>
+			<edited>删除</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CARD_KEYHELP_END" offset="00" relocatable="true" max_length="0">
+			<original>结束</original>
+			<edited>结束</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard" offset="00" relocatable="true" max_length="0">
+			<original>神龙战历卡</original>
+			<edited>神龙战历卡</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_MyCard" offset="00" relocatable="true" max_length="0">
+			<original>个人卡片</original>
+			<edited>个人卡片</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_MyCard_Description" offset="00" relocatable="true" max_length="0">
+			<original>可以编辑卡片上的文字，
+或是更改设计与装饰。</original>
+			<edited>可以编辑卡片上的文字，
+或是更改设计与装饰。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Notes_Terms" offset="00" relocatable="true" max_length="0">
+			<original>The Community Guidelines apply to shared
+content and can be found on Nintendo's website.
+Please be considerate to your fellow players.</original>
+			<edited>The Community Guidelines apply to shared
+content and can be found on Nintendo's website.
+Please be considerate to your fellow players.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Album" offset="00" relocatable="true" max_length="0">
+			<original>异界战历卡</original>
+			<edited>异界战历卡</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Album_Help" offset="00" relocatable="true" max_length="0">
+			<original>查看及删除获得的卡片。</original>
+			<edited>查看及删除获得的卡片。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Album_Description" offset="00" relocatable="true" max_length="0">
+			<original>可以查看在“试炼别屋”获得的
+朋友的战历卡以及整理清单。</original>
+			<edited>可以查看在“试炼别屋”获得的
+朋友的战历卡以及整理清单。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Photo" offset="00" relocatable="true" max_length="0">
+			<original>印制风景</original>
+			<edited>印制风景</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Photo_Description" offset="00" relocatable="true" max_length="0">
+			<original>可以在索拉涅尔
+选择喜欢的伙伴与场景，
+印制（拍摄）使用于战历卡的图片。</original>
+			<edited>可以在索拉涅尔
+选择喜欢的伙伴与场景，
+印制（拍摄）使用于战历卡的图片。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Photo_Warning" offset="00" relocatable="true" max_length="0">
+			<original>只能在索拉涅尔的室外印制风景。</original>
+			<edited>只能在索拉涅尔的室外印制风景。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Setting" offset="00" relocatable="true" max_length="0">
+			<original>公开设置</original>
+			<edited>公开设置</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Setting_Description" offset="00" relocatable="true" max_length="0">
+			<original>可以设置是否要公开个人卡片。</original>
+			<edited>可以设置是否要公开个人卡片。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Setting_Warning_Public" offset="00" relocatable="true" max_length="0">
+			<original>目前设置：公开</original>
+			<edited>目前设置：公开</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Setting_Warning_Private" offset="00" relocatable="true" max_length="0">
+			<original>目前设置：不公开</original>
+			<edited>目前设置：不公开</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Setting_Confirm" offset="00" relocatable="true" max_length="0">
+			<original>请设置是否要公开个人卡片。
+（随时都可以更改设置，
+且不影响已交换的卡片）</original>
+			<edited>请设置是否要公开个人卡片。
+（随时都可以更改设置，
+且不影响已交换的卡片）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Setting_Public" offset="00" relocatable="true" max_length="0">
+			<original>公开</original>
+			<edited>公开</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Setting_Private" offset="00" relocatable="true" max_length="0">
+			<original>不公开</original>
+			<edited>不公开</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_ShowStamp" offset="00" relocatable="true" max_length="0">
+			<original>印章显示设置</original>
+			<edited>印章显示设置</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_ShowStamp_Description" offset="00" relocatable="true" max_length="0">
+			<original>可以设置是否要显示
+获得的异界战历卡上的印章。</original>
+			<edited>可以设置是否要显示
+获得的异界战历卡上的印章。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_ShowStamp_Warning_Show" offset="00" relocatable="true" max_length="0">
+			<original>当前设置：显示</original>
+			<edited>当前设置：显示</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_ShowStamp_Warning_Hide" offset="00" relocatable="true" max_length="0">
+			<original>当前设置：隐藏</original>
+			<edited>当前设置：隐藏</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_ShowStamp_Confirm" offset="00" relocatable="true" max_length="0">
+			<original>请设置是否要显示印章。
+（随时都可以更改设置）</original>
+			<edited>请设置是否要显示印章。
+（随时都可以更改设置）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_ShowStamp_Show" offset="00" relocatable="true" max_length="0">
+			<original>设为显示</original>
+			<edited>设为显示</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_ShowStamp_Hide" offset="00" relocatable="true" max_length="0">
+			<original>设为隐藏</original>
+			<edited>设为隐藏</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Settings_Cannot_Change" offset="00" relocatable="true" max_length="0">
+			<original>受限于Parental Controls设置，
+无法更改设置。</original>
+			<edited>受限于Parental Controls设置，
+无法更改设置。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_PlayerInfo" offset="00" relocatable="true" max_length="0">
+			<original>玩家信息</original>
+			<edited>玩家信息</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_TolalPlayTime" offset="00" relocatable="true" max_length="0">
+			<original>总计游玩时间</original>
+			<edited>总计游玩时间</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_Birthday" offset="00" relocatable="true" max_length="0">
+			<original>生日</original>
+			<edited>生日</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_Difficulty" offset="00" relocatable="true" max_length="0">
+			<original>难度</original>
+			<edited>难度</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_GameMode" offset="00" relocatable="true" max_length="0">
+			<original>模式</original>
+			<edited>模式</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_FaivoriteCharacter" offset="00" relocatable="true" max_length="0">
+			<original>喜爱的角色</original>
+			<edited>喜爱的角色</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_Relay" offset="00" relocatable="true" max_length="0">
+			<original>续战的试炼</original>
+			<edited>续战的试炼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_FavoriteMap" offset="00" relocatable="true" max_length="0">
+			<original>喜爱的地图</original>
+			<edited>喜爱的地图</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_PlayingCount" offset="00" relocatable="true" max_length="0">
+			<original>游玩次数</original>
+			<edited>游玩次数</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_Versus" offset="00" relocatable="true" max_length="0">
+			<original>异界的试炼</original>
+			<edited>异界的试炼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_ThemeOfEditMap" offset="00" relocatable="true" max_length="0">
+			<original>编辑地图的主题</original>
+			<edited>编辑地图的主题</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_VersusRate" offset="00" relocatable="true" max_length="0">
+			<original>正式对战成绩</original>
+			<edited>正式对战成绩</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_SortieCount" offset="00" relocatable="true" max_length="0">
+			<original>单位出击次数</original>
+			<edited>单位出击次数</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Card_AchievementCount" offset="00" relocatable="true" max_length="0">
+			<original>成就达成次数</original>
+			<edited>成就达成次数</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_MyCard_Help" offset="00" relocatable="true" max_length="0">
+			<original>查看和编辑卡片内容</original>
+			<edited>查看和编辑卡片内容</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit" offset="00" relocatable="true" max_length="0">
+			<original>编辑卡片</original>
+			<edited>编辑卡片</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Help" offset="00" relocatable="true" max_length="0">
+			<original>请选择要编辑的项目。</original>
+			<edited>请选择要编辑的项目。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Title" offset="00" relocatable="true" max_length="0">
+			<original>称号</original>
+			<edited>称号</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Title_Help" offset="00" relocatable="true" max_length="0">
+			<original>请选择称号。</original>
+			<edited>请选择称号。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Title_Caption" offset="00" relocatable="true" max_length="0">
+			<original>称号一览</original>
+			<edited>称号一览</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Comment" offset="00" relocatable="true" max_length="0">
+			<original>状态消息</original>
+			<edited>状态消息</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Comment_Help" offset="00" relocatable="true" max_length="0">
+			<original>请选择三个字词。</original>
+			<edited>请选择三个字词。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Comment_Caption" offset="00" relocatable="true" max_length="0">
+			<original>编辑状态消息</original>
+			<edited>编辑状态消息</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_FavoriteCharacter" offset="00" relocatable="true" max_length="0">
+			<original>喜爱的角色</original>
+			<edited>喜爱的角色</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_FavoriteCharacter_Help" offset="00" relocatable="true" max_length="0">
+			<original>请选择角色。</original>
+			<edited>请选择角色。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_FavoriteCharacter_Caption" offset="00" relocatable="true" max_length="0">
+			<original>角色一览</original>
+			<edited>角色一览</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_FavoriteRelayMap" offset="00" relocatable="true" max_length="0">
+			<original>喜爱的地图</original>
+			<edited>喜爱的地图</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_FavoriteRelayMap_Help" offset="00" relocatable="true" max_length="0">
+			<original>请选择地图。</original>
+			<edited>请选择地图。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_FavoriteRelayMap_Caption" offset="00" relocatable="true" max_length="0">
+			<original>地图一览</original>
+			<edited>地图一览</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Bg" offset="00" relocatable="true" max_length="0">
+			<original>卡片背景</original>
+			<edited>卡片背景</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Bg_Help" offset="00" relocatable="true" max_length="0">
+			<original>请选择设计。</original>
+			<edited>请选择设计。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Bg_Caption" offset="00" relocatable="true" max_length="0">
+			<original>卡片背景一览</original>
+			<edited>卡片背景一览</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Frame" offset="00" relocatable="true" max_length="0">
+			<original>卡片边框</original>
+			<edited>卡片边框</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Frame_Help" offset="00" relocatable="true" max_length="0">
+			<original>请选择设计。</original>
+			<edited>请选择设计。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Frame_Caption" offset="00" relocatable="true" max_length="0">
+			<original>卡片边框一览</original>
+			<edited>卡片边框一览</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_TextDeco" offset="00" relocatable="true" max_length="0">
+			<original>文字装饰</original>
+			<edited>文字装饰</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_TextDeco_Help" offset="00" relocatable="true" max_length="0">
+			<original>请选择设计。</original>
+			<edited>请选择设计。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_TextDeco_Caption" offset="00" relocatable="true" max_length="0">
+			<original>文字装饰一览</original>
+			<edited>文字装饰一览</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_TextColor" offset="00" relocatable="true" max_length="0">
+			<original>文字颜色</original>
+			<edited>文字颜色</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_TextColor_Help" offset="00" relocatable="true" max_length="0">
+			<original>请选择文字的颜色。</original>
+			<edited>请选择文字的颜色。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_TextColor_Caption" offset="00" relocatable="true" max_length="0">
+			<original>文字颜色一览</original>
+			<edited>文字颜色一览</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_CharecterStamp" offset="00" relocatable="true" max_length="0">
+			<original>头像图示</original>
+			<edited>头像图示</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_CharecterStamp_Help" offset="00" relocatable="true" max_length="0">
+			<original>请选择图示。</original>
+			<edited>请选择图示。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_CharecterStamp_Caption" offset="00" relocatable="true" max_length="0">
+			<original>头像图示一览</original>
+			<edited>头像图示一览</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Stamp" offset="00" relocatable="true" max_length="0">
+			<original>印章</original>
+			<edited>印章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Stamp_Help" offset="00" relocatable="true" max_length="0">
+			<original>卡片的装饰。</original>
+			<edited>卡片的装饰。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Stamp_Count" offset="00" relocatable="true" max_length="0">
+			<original>印章数量</original>
+			<edited>印章数量</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Stamp_ConfirmToClear" offset="00" relocatable="true" max_length="0">
+			<original>要清除所有盖过的印章吗？
+（无法撤销此操作）</original>
+			<edited>要清除所有盖过的印章吗？
+（无法撤销此操作）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Stamp_ConfirmToClear_Yes" offset="00" relocatable="true" max_length="0">
+			<original>全部清除</original>
+			<edited>全部清除</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Stamp_ConfirmToClose" offset="00" relocatable="true" max_length="0">
+			<original>要结束编辑印章吗？</original>
+			<edited>要结束编辑印章吗？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Stamp_SaveAndClose" offset="00" relocatable="true" max_length="0">
+			<original>保存并结束</original>
+			<edited>保存并结束</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Stamp_NoSaveAndClose" offset="00" relocatable="true" max_length="0">
+			<original>放弃保存并结束</original>
+			<edited>放弃保存并结束</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Edit_Stamp_ContinueToEdit" offset="00" relocatable="true" max_length="0">
+			<original>继续编辑</original>
+			<edited>继续编辑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Album_ConfirmToDelete" offset="00" relocatable="true" max_length="0">
+			<original>要删除“&#xE;&#x1;&#x0;&#x0;”的战历卡吗？</original>
+			<edited>要删除“&#xE;&#x1;&#x0;&#x0;”的战历卡吗？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Album_Delete" offset="00" relocatable="true" max_length="0">
+			<original>删除</original>
+			<edited>删除</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Possession" offset="00" relocatable="true" max_length="0">
+			<original>持有数量</original>
+			<edited>持有数量</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Language_Attention" offset="00" relocatable="true" max_length="0">
+			<original>已切换语言，
+并重置“状态消息”。</original>
+			<edited>已切换语言，
+并重置“状态消息”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Net_Save_Confirm_Match" offset="00" relocatable="true" max_length="0">
+			<original>要保存对战对手的战历卡吗？</original>
+			<edited>要保存对战对手的战历卡吗？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Net_Save_Confirm_Relay" offset="00" relocatable="true" max_length="0">
+			<original>要保存共战玩家的战历卡吗？</original>
+			<edited>要保存共战玩家的战历卡吗？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Net_Save_Done" offset="00" relocatable="true" max_length="0">
+			<original>已保存战历卡。</original>
+			<edited>已保存战历卡。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Net_Overlimit_Title" offset="00" relocatable="true" max_length="0">
+			<original>删除战历卡</original>
+			<edited>删除战历卡</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Net_Overlimit_Title_Help" offset="00" relocatable="true" max_length="0">
+			<original>请选择要删除的战历卡。</original>
+			<edited>请选择要删除的战历卡。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Net_Overlimit_Incomplete" offset="00" relocatable="true" max_length="0">
+			<original>持有的战历卡已达上限。
+请删除超出上限的卡片。</original>
+			<edited>持有的战历卡已达上限。
+请删除超出上限的卡片。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Comment_CharacterFeeling" offset="00" relocatable="true" max_length="0">
+			<original>性格／感情</original>
+			<edited>性格／感情</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Comment_FeaturePosition" offset="00" relocatable="true" max_length="0">
+			<original>特征／职位</original>
+			<edited>特征／职位</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Comment_AdpositionConjection" offset="00" relocatable="true" max_length="0">
+			<original>助词／连接词／称谓／符号</original>
+			<edited>助词／连接词／称谓／符号</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Comment_Tearms" offset="00" relocatable="true" max_length="0">
+			<original>专用术语／拟声词</original>
+			<edited>专用术语／拟声词</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Comment_ClassStyle" offset="00" relocatable="true" max_length="0">
+			<original>兵种／战斗类型</original>
+			<edited>兵种／战斗类型</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Comment_PersonName" offset="00" relocatable="true" max_length="0">
+			<original>角色名称</original>
+			<edited>角色名称</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STAMP_KEYHELP_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>操作印章</original>
+			<edited>操作印章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STAMP_KEYHELP_PUT_A_STAMP" offset="00" relocatable="true" max_length="0">
+			<original>盖印</original>
+			<edited>盖印</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STAMP_KEYHELP_LR_REVERSE" offset="00" relocatable="true" max_length="0">
+			<original>左右翻转</original>
+			<edited>左右翻转</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STAMP_KEYHELP_ROTATE_SCALE" offset="00" relocatable="true" max_length="0">
+			<original>旋转缩放</original>
+			<edited>旋转缩放</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STAMP_KEYHELP_ROTATE_SCALE_RESET" offset="00" relocatable="true" max_length="0">
+			<original>重置旋转缩放</original>
+			<edited>重置旋转缩放</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STAMP_KEYHELP_HIGH_SPEED" offset="00" relocatable="true" max_length="0">
+			<original>高速移动</original>
+			<edited>高速移动</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STAMP_KEYHELP_ERASE_ALL" offset="00" relocatable="true" max_length="0">
+			<original>全部清除</original>
+			<edited>全部清除</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_STAMP_KEYHELP_TWEAK" offset="00" relocatable="true" max_length="0">
+			<original>调整移动</original>
+			<edited>调整移动</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Stamp_Unit" offset="00" relocatable="true" max_length="0">
+			<original>单位</original>
+			<edited>单位</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Stamp_GodUnit" offset="00" relocatable="true" max_length="0">
+			<original>纹章士</original>
+			<edited>纹章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Stamp_Weapon" offset="00" relocatable="true" max_length="0">
+			<original>武器</original>
+			<edited>武器</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Stamp_GodWeapon" offset="00" relocatable="true" max_length="0">
+			<original>结合武器</original>
+			<edited>结合武器</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Stamp_RodAndItem" offset="00" relocatable="true" max_length="0">
+			<original>杖·道具</original>
+			<edited>杖·道具</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Stamp_System" offset="00" relocatable="true" max_length="0">
+			<original>系统</original>
+			<edited>系统</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Stamp_Others" offset="00" relocatable="true" max_length="0">
+			<original>其他</original>
+			<edited>其他</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_FireEmblem" offset="00" relocatable="true" max_length="0">
+			<original>FIRE EMBLEM</original>
+			<edited>FIRE EMBLEM</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ShadowDragon" offset="00" relocatable="true" max_length="0">
+			<original>暗黒竜と光の剣</original>
+			<edited>暗黒竜と光の剣</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_NewShadowDragon" offset="00" relocatable="true" max_length="0">
+			<original>新・暗黒竜と光の剣</original>
+			<edited>新・暗黒竜と光の剣</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_MysteryOfTheEmblem" offset="00" relocatable="true" max_length="0">
+			<original>紋章の謎</original>
+			<edited>紋章の謎</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_NewMysteryOfTheEmblem" offset="00" relocatable="true" max_length="0">
+			<original>新・紋章の謎</original>
+			<edited>新・紋章の謎</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_SideStory" offset="00" relocatable="true" max_length="0">
+			<original>外伝</original>
+			<edited>外伝</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_GenealogyOfTheHolyWar" offset="00" relocatable="true" max_length="0">
+			<original>聖戦の系譜</original>
+			<edited>聖戦の系譜</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Thracia776" offset="00" relocatable="true" max_length="0">
+			<original>トラキア776</original>
+			<edited>トラキア776</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_TheBindingBlade" offset="00" relocatable="true" max_length="0">
+			<original>封印の剣</original>
+			<edited>封印の剣</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_TheBlazingBlade" offset="00" relocatable="true" max_length="0">
+			<original>烈火の剣</original>
+			<edited>烈火の剣</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_TheSacredStones" offset="00" relocatable="true" max_length="0">
+			<original>聖魔の光石</original>
+			<edited>聖魔の光石</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_PathOfRadiance" offset="00" relocatable="true" max_length="0">
+			<original>蒼炎の軌跡</original>
+			<edited>蒼炎の軌跡</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RadiantDawn" offset="00" relocatable="true" max_length="0">
+			<original>暁の女神</original>
+			<edited>暁の女神</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Awakening" offset="00" relocatable="true" max_length="0">
+			<original>覚醒</original>
+			<edited>覚醒</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Fates" offset="00" relocatable="true" max_length="0">
+			<original>if</original>
+			<edited>if</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Birthright" offset="00" relocatable="true" max_length="0">
+			<original>白夜王国</original>
+			<edited>白夜王国</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Conquest" offset="00" relocatable="true" max_length="0">
+			<original>暗夜王国</original>
+			<edited>暗夜王国</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Echoes" offset="00" relocatable="true" max_length="0">
+			<original>Echoes</original>
+			<edited>Echoes</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ThreeHouses" offset="00" relocatable="true" max_length="0">
+			<original>风花雪月</original>
+			<edited>风花雪月</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Heroes" offset="00" relocatable="true" max_length="0">
+			<original>Heroes</original>
+			<edited>Heroes</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Marth" offset="00" relocatable="true" max_length="0">
+			<original>为了阿利提亚！</original>
+			<edited>为了阿利提亚！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Celica" offset="00" relocatable="true" max_length="0">
+			<original>愿美拉大人保佑</original>
+			<edited>愿美拉大人保佑</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Siglud" offset="00" relocatable="true" max_length="0">
+			<original>收起剑吧！</original>
+			<edited>收起剑吧！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Leaf" offset="00" relocatable="true" max_length="0">
+			<original>无论如何！</original>
+			<edited>无论如何！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Roy" offset="00" relocatable="true" max_length="0">
+			<original>我不会输！</original>
+			<edited>我不会输！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Lin" offset="00" relocatable="true" max_length="0">
+			<original>我的心至今仍在草原上……</original>
+			<edited>我的心至今仍在草原上……</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Eirik" offset="00" relocatable="true" max_length="0">
+			<original>哥哥！</original>
+			<edited>哥哥！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Ike" offset="00" relocatable="true" max_length="0">
+			<original>别阻挡我！</original>
+			<edited>别阻挡我！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Micaiah" offset="00" relocatable="true" max_length="0">
+			<original>我有不能退让的理由！</original>
+			<edited>我有不能退让的理由！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Lucina" offset="00" relocatable="true" max_length="0">
+			<original>我要改写命运！</original>
+			<edited>我要改写命运！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Kamui" offset="00" relocatable="true" max_length="0">
+			<original>这是我所选的！</original>
+			<edited>这是我所选的！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Byleth" offset="00" relocatable="true" max_length="0">
+			<original>亲身学习吧！</original>
+			<edited>亲身学习吧！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Lueur" offset="00" relocatable="true" max_length="0">
+			<original>与神龙共进退！</original>
+			<edited>与神龙共进退！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RelianceC_WithAllUnit" offset="00" relocatable="true" max_length="0">
+			<original>支援C</original>
+			<edited>支援C</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RelianceB_WithAllUnit" offset="00" relocatable="true" max_length="0">
+			<original>支援B</original>
+			<edited>支援B</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RelianceA_WithAllUnit" offset="00" relocatable="true" max_length="0">
+			<original>支援A</original>
+			<edited>支援A</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RelianceRing" offset="00" relocatable="true" max_length="0">
+			<original>支援Ring</original>
+			<edited>支援Ring</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_SortieWithAllUnitCount5" offset="00" relocatable="true" max_length="0">
+			<original>全员出击</original>
+			<edited>全员出击</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_EncountBattleCount45" offset="00" relocatable="true" max_length="0">
+			<original>清扫大师</original>
+			<edited>清扫大师</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BattleCount5000" offset="00" relocatable="true" max_length="0">
+			<original>战斗狂</original>
+			<edited>战斗狂</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_DefeatSoldierCount500" offset="00" relocatable="true" max_length="0">
+			<original>一般士兵</original>
+			<edited>一般士兵</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_DefeatMorphCount500" offset="00" relocatable="true" max_length="0">
+			<original>异形兵</original>
+			<edited>异形兵</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_DefeatBanditsCount500" offset="00" relocatable="true" max_length="0">
+			<original>蛮族</original>
+			<edited>蛮族</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CaneCount500" offset="00" relocatable="true" max_length="0">
+			<original>操杖士</original>
+			<edited>操杖士</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CriticalCount300" offset="00" relocatable="true" max_length="0">
+			<original>专家</original>
+			<edited>专家</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_EngageCount300" offset="00" relocatable="true" max_length="0">
+			<original>结合！</original>
+			<edited>结合！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_EngageAttackCount300" offset="00" relocatable="true" max_length="0">
+			<original>结合攻击！</original>
+			<edited>结合攻击！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_AvoidanceCount500" offset="00" relocatable="true" max_length="0">
+			<original>躲开！</original>
+			<edited>躲开！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ChainGuardCount300" offset="00" relocatable="true" max_length="0">
+			<original>守护！</original>
+			<edited>守护！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ChainAttackCount300" offset="00" relocatable="true" max_length="0">
+			<original>我来帮忙！</original>
+			<edited>我来帮忙！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ChainUnitCount10" offset="00" relocatable="true" max_length="0">
+			<original>同时攻击！</original>
+			<edited>同时攻击！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BreakCount300" offset="00" relocatable="true" max_length="0">
+			<original>打破！</original>
+			<edited>打破！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_SmashCount50" offset="00" relocatable="true" max_length="0">
+			<original>猛击！</original>
+			<edited>猛击！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_MiniGamePlayCount100" offset="00" relocatable="true" max_length="0">
+			<original>休息一下</original>
+			<edited>休息一下</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CreateRingCount5000" offset="00" relocatable="true" max_length="0">
+			<original>戒指收藏家</original>
+			<edited>戒指收藏家</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_SynthesizeRingCount500" offset="00" relocatable="true" max_length="0">
+			<original>合成魔人</original>
+			<edited>合成魔人</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_GetBondRingC_Count1000" offset="00" relocatable="true" max_length="0">
+			<original>阶级C</original>
+			<edited>阶级C</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_GetBondRingB_Count100" offset="00" relocatable="true" max_length="0">
+			<original>阶级B</original>
+			<edited>阶级B</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_GetBondRingA_Count50" offset="00" relocatable="true" max_length="0">
+			<original>阶级A</original>
+			<edited>阶级A</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_GetBondRingS_Count10" offset="00" relocatable="true" max_length="0">
+			<original>阶级S</original>
+			<edited>阶级S</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CleaningRingCount100" offset="00" relocatable="true" max_length="0">
+			<original>爱干净</original>
+			<edited>爱干净</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_InvestmentFileneStage5" offset="00" relocatable="true" max_length="0">
+			<original>费列聂亲善大使</original>
+			<edited>费列聂亲善大使</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_InvestmentBrodiaStage5" offset="00" relocatable="true" max_length="0">
+			<original>布罗帝亚亲善大使</original>
+			<edited>布罗帝亚亲善大使</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_InvestmentIrcionStage5" offset="00" relocatable="true" max_length="0">
+			<original>伊尔席翁亲善大使</original>
+			<edited>伊尔席翁亲善大使</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_InvestmentSolumStage5" offset="00" relocatable="true" max_length="0">
+			<original>索尔姆亲善大使</original>
+			<edited>索尔姆亲善大使</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_InvestmentStage5All" offset="00" relocatable="true" max_length="0">
+			<original>艾雷欧斯亲善大使</original>
+			<edited>艾雷欧斯亲善大使</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_InvestmentTotalValue1000000" offset="00" relocatable="true" max_length="0">
+			<original>有钱人</original>
+			<edited>有钱人</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CookingCount100" offset="00" relocatable="true" max_length="0">
+			<original>厨师</original>
+			<edited>厨师</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CookingG_Count5" offset="00" relocatable="true" max_length="0">
+			<original>失败的厨师</original>
+			<edited>失败的厨师</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CookingF_Count5" offset="00" relocatable="true" max_length="0">
+			<original>科学厨师</original>
+			<edited>科学厨师</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CookingE_Count5" offset="00" relocatable="true" max_length="0">
+			<original>奇珍异味厨师</original>
+			<edited>奇珍异味厨师</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CookingD_Count5" offset="00" relocatable="true" max_length="0">
+			<original>见习厨师</original>
+			<edited>见习厨师</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CookingC_Count20" offset="00" relocatable="true" max_length="0">
+			<original>员工餐厨师</original>
+			<edited>员工餐厨师</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CookingB_Count20" offset="00" relocatable="true" max_length="0">
+			<original>平凡厨师</original>
+			<edited>平凡厨师</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CookingA_Count20" offset="00" relocatable="true" max_length="0">
+			<original>知名厨师</original>
+			<edited>知名厨师</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CookingS_Count5" offset="00" relocatable="true" max_length="0">
+			<original>顶级厨师</original>
+			<edited>顶级厨师</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_CookingSS_Count3" offset="00" relocatable="true" max_length="0">
+			<original>传说中的厨师</original>
+			<edited>传说中的厨师</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_Sleep100" offset="00" relocatable="true" max_length="0">
+			<original>最爱被窝</original>
+			<edited>最爱被窝</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_WakeUpC_People30" offset="00" relocatable="true" max_length="0">
+			<original>赖床鬼</original>
+			<edited>赖床鬼</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_WakeUpB_People30" offset="00" relocatable="true" max_length="0">
+			<original>待人唤醒</original>
+			<edited>待人唤醒</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_WakeUpA_People30" offset="00" relocatable="true" max_length="0">
+			<original>闹钟不离身</original>
+			<edited>闹钟不离身</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_WakeUpS" offset="00" relocatable="true" max_length="0">
+			<original>美妙的苏醒瞬间</original>
+			<edited>美妙的苏醒瞬间</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ArenaCount100" offset="00" relocatable="true" max_length="0">
+			<original>热爱锻炼</original>
+			<edited>热爱锻炼</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ArenaWinCount100" offset="00" relocatable="true" max_length="0">
+			<original>一决胜负</original>
+			<edited>一决胜负</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ArenaVsGodCount100" offset="00" relocatable="true" max_length="0">
+			<original>牵绊专家</original>
+			<edited>牵绊专家</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ArenaWinVsGodCount100" offset="00" relocatable="true" max_length="0">
+			<original>纹章士</original>
+			<edited>纹章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BuyWeaponCount100" offset="00" relocatable="true" max_length="0">
+			<original>准备万全</original>
+			<edited>准备万全</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BuySwordCount50" offset="00" relocatable="true" max_length="0">
+			<original>用剑高手</original>
+			<edited>用剑高手</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BuyLanceCount50" offset="00" relocatable="true" max_length="0">
+			<original>用枪高手</original>
+			<edited>用枪高手</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BuyAxeCount50" offset="00" relocatable="true" max_length="0">
+			<original>用斧高手</original>
+			<edited>用斧高手</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BuyBowCount50" offset="00" relocatable="true" max_length="0">
+			<original>用弓高手</original>
+			<edited>用弓高手</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BuyKnifeCount50" offset="00" relocatable="true" max_length="0">
+			<original>短剑高手</original>
+			<edited>短剑高手</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BuyMagicCount50" offset="00" relocatable="true" max_length="0">
+			<original>魔法高手</original>
+			<edited>魔法高手</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BuyFistCount50" offset="00" relocatable="true" max_length="0">
+			<original>体术高手</original>
+			<edited>体术高手</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_SellWeaponCount50" offset="00" relocatable="true" max_length="0">
+			<original>购物专家</original>
+			<edited>购物专家</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BuyItemCount500" offset="00" relocatable="true" max_length="0">
+			<original>爱操心</original>
+			<edited>爱操心</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_SellItemCount50" offset="00" relocatable="true" max_length="0">
+			<original>商人</original>
+			<edited>商人</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BuyRodCount50" offset="00" relocatable="true" max_length="0">
+			<original>用杖高手</original>
+			<edited>用杖高手</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_BuyAccessoryCount25" offset="00" relocatable="true" max_length="0">
+			<original>追求时髦</original>
+			<edited>追求时髦</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ChangeAccessoryCount100" offset="00" relocatable="true" max_length="0">
+			<original>换装人偶</original>
+			<edited>换装人偶</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RefineCount100" offset="00" relocatable="true" max_length="0">
+			<original>锻造师</original>
+			<edited>锻造师</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RefineSwordCount50" offset="00" relocatable="true" max_length="0">
+			<original>剑锻造师</original>
+			<edited>剑锻造师</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RefineLanceCount50" offset="00" relocatable="true" max_length="0">
+			<original>枪锻造师</original>
+			<edited>枪锻造师</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RefineAxeCount50" offset="00" relocatable="true" max_length="0">
+			<original>斧锻造师</original>
+			<edited>斧锻造师</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RefineBowCount50" offset="00" relocatable="true" max_length="0">
+			<original>弓锻造师</original>
+			<edited>弓锻造师</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RefineKnifeCount50" offset="00" relocatable="true" max_length="0">
+			<original>短剑锻造师</original>
+			<edited>短剑锻造师</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RefineMagicCount50" offset="00" relocatable="true" max_length="0">
+			<original>魔法锻造师</original>
+			<edited>魔法锻造师</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RefineFistCount50" offset="00" relocatable="true" max_length="0">
+			<original>体术锻造师</original>
+			<edited>体术锻造师</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_EngraveCount100" offset="00" relocatable="true" max_length="0">
+			<original>雕刻家</original>
+			<edited>雕刻家</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_PlayTime240Hours" offset="00" relocatable="true" max_length="0">
+			<original>FIRE EMBLEM ENGAGE</original>
+			<edited>FIRE EMBLEM ENGAGE</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ClearedChapter26" offset="00" relocatable="true" max_length="0">
+			<original>救世主</original>
+			<edited>救世主</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_VersusCount200" offset="00" relocatable="true" max_length="0">
+			<original>挑战者</original>
+			<edited>挑战者</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_VersusWinCount100" offset="00" relocatable="true" max_length="0">
+			<original>冠军</original>
+			<edited>冠军</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RelayCount200" offset="00" relocatable="true" max_length="0">
+			<original>队友</original>
+			<edited>队友</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_RelayWinCount100" offset="00" relocatable="true" max_length="0">
+			<original>队长</original>
+			<edited>队长</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ChallengeMap1Rank50" offset="00" relocatable="true" max_length="0">
+			<original>绿野专家</original>
+			<edited>绿野专家</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ChallengeMap2Rank50" offset="00" relocatable="true" max_length="0">
+			<original>花田专家</original>
+			<edited>花田专家</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ChallengeMap3Rank50" offset="00" relocatable="true" max_length="0">
+			<original>高原专家</original>
+			<edited>高原专家</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ChallengeMap4Rank50" offset="00" relocatable="true" max_length="0">
+			<original>雪森林专家</original>
+			<edited>雪森林专家</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ChallengeMap5Rank50" offset="00" relocatable="true" max_length="0">
+			<original>沙海专家</original>
+			<edited>沙海专家</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_ChallengeMap6Rank50" offset="00" relocatable="true" max_length="0">
+			<original>岩浆专家</original>
+			<edited>岩浆专家</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCTMID_E004_Kill_Count" offset="00" relocatable="true" max_length="0">
+			<original>双方皆有错</original>
+			<edited>双方皆有错</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Nothing" offset="00" relocatable="true" max_length="0">
+			<original>空栏</original>
+			<edited>空栏</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling1" offset="00" relocatable="true" max_length="0">
+			<original>轻松</original>
+			<edited>轻松</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling2" offset="00" relocatable="true" max_length="0">
+			<original>悠哉</original>
+			<edited>悠哉</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling3" offset="00" relocatable="true" max_length="0">
+			<original>乐观</original>
+			<edited>乐观</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling4" offset="00" relocatable="true" max_length="0">
+			<original>有魅力</original>
+			<edited>有魅力</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling5" offset="00" relocatable="true" max_length="0">
+			<original>胆小</original>
+			<edited>胆小</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling6" offset="00" relocatable="true" max_length="0">
+			<original>害羞</original>
+			<edited>害羞</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling7" offset="00" relocatable="true" max_length="0">
+			<original>活泼</original>
+			<edited>活泼</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling8" offset="00" relocatable="true" max_length="0">
+			<original>可爱</original>
+			<edited>可爱</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling9" offset="00" relocatable="true" max_length="0">
+			<original>美丽</original>
+			<edited>美丽</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling10" offset="00" relocatable="true" max_length="0">
+			<original>漂亮</original>
+			<edited>漂亮</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling11" offset="00" relocatable="true" max_length="0">
+			<original>美好</original>
+			<edited>美好</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling12" offset="00" relocatable="true" max_length="0">
+			<original>温柔</original>
+			<edited>温柔</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling13" offset="00" relocatable="true" max_length="0">
+			<original>温暖</original>
+			<edited>温暖</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling14" offset="00" relocatable="true" max_length="0">
+			<original>美味</original>
+			<edited>美味</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling15" offset="00" relocatable="true" max_length="0">
+			<original>好吃</original>
+			<edited>好吃</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling16" offset="00" relocatable="true" max_length="0">
+			<original>爱</original>
+			<edited>爱</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling17" offset="00" relocatable="true" max_length="0">
+			<original>恋</original>
+			<edited>恋</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling18" offset="00" relocatable="true" max_length="0">
+			<original>超喜欢</original>
+			<edited>超喜欢</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling19" offset="00" relocatable="true" max_length="0">
+			<original>喜爱</original>
+			<edited>喜爱</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling20" offset="00" relocatable="true" max_length="0">
+			<original>宝物</original>
+			<edited>宝物</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling21" offset="00" relocatable="true" max_length="0">
+			<original>最爱</original>
+			<edited>最爱</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling22" offset="00" relocatable="true" max_length="0">
+			<original>萌</original>
+			<edited>萌</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feeling23" offset="00" relocatable="true" max_length="0">
+			<original>神</original>
+			<edited>神</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature1" offset="00" relocatable="true" max_length="0">
+			<original>最强</original>
+			<edited>最强</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature2" offset="00" relocatable="true" max_length="0">
+			<original>无敌</original>
+			<edited>无敌</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature3" offset="00" relocatable="true" max_length="0">
+			<original>第一</original>
+			<edited>第一</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature4" offset="00" relocatable="true" max_length="0">
+			<original>唯一</original>
+			<edited>唯一</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature5" offset="00" relocatable="true" max_length="0">
+			<original>健壮</original>
+			<edited>健壮</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature6" offset="00" relocatable="true" max_length="0">
+			<original>帅气</original>
+			<edited>帅气</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature7" offset="00" relocatable="true" max_length="0">
+			<original>虚弱</original>
+			<edited>虚弱</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature8" offset="00" relocatable="true" max_length="0">
+			<original>消瘦</original>
+			<edited>消瘦</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature9" offset="00" relocatable="true" max_length="0">
+			<original>纤细</original>
+			<edited>纤细</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature10" offset="00" relocatable="true" max_length="0">
+			<original>厨师</original>
+			<edited>厨师</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature11" offset="00" relocatable="true" max_length="0">
+			<original>钓客</original>
+			<edited>钓客</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature12" offset="00" relocatable="true" max_length="0">
+			<original>舞者</original>
+			<edited>舞者</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature13" offset="00" relocatable="true" max_length="0">
+			<original>暗杀者</original>
+			<edited>暗杀者</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature14" offset="00" relocatable="true" max_length="0">
+			<original>神龙</original>
+			<edited>神龙</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature15" offset="00" relocatable="true" max_length="0">
+			<original>王子</original>
+			<edited>王子</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature16" offset="00" relocatable="true" max_length="0">
+			<original>公主</original>
+			<edited>公主</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature17" offset="00" relocatable="true" max_length="0">
+			<original>母亲</original>
+			<edited>母亲</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature18" offset="00" relocatable="true" max_length="0">
+			<original>父亲</original>
+			<edited>父亲</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature19" offset="00" relocatable="true" max_length="0">
+			<original>哥哥</original>
+			<edited>哥哥</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature20" offset="00" relocatable="true" max_length="0">
+			<original>姐姐</original>
+			<edited>姐姐</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature21" offset="00" relocatable="true" max_length="0">
+			<original>弟弟</original>
+			<edited>弟弟</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature22" offset="00" relocatable="true" max_length="0">
+			<original>妹妹</original>
+			<edited>妹妹</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature23" offset="00" relocatable="true" max_length="0">
+			<original>兄弟</original>
+			<edited>兄弟</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature24" offset="00" relocatable="true" max_length="0">
+			<original>姐妹</original>
+			<edited>姐妹</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature25" offset="00" relocatable="true" max_length="0">
+			<original>手足</original>
+			<edited>手足</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature26" offset="00" relocatable="true" max_length="0">
+			<original>亲子</original>
+			<edited>亲子</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature27" offset="00" relocatable="true" max_length="0">
+			<original>女儿</original>
+			<edited>女儿</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Feature28" offset="00" relocatable="true" max_length="0">
+			<original>儿子</original>
+			<edited>儿子</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Adposition1" offset="00" relocatable="true" max_length="0">
+			<original>就是</original>
+			<edited>就是</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Adposition2" offset="00" relocatable="true" max_length="0">
+			<original>是</original>
+			<edited>是</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Adposition3" offset="00" relocatable="true" max_length="0">
+			<original>的</original>
+			<edited>的</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Adposition4" offset="00" relocatable="true" max_length="0">
+			<original>把</original>
+			<edited>把</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Adposition5" offset="00" relocatable="true" max_length="0">
+			<original>地</original>
+			<edited>地</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Adposition6" offset="00" relocatable="true" max_length="0">
+			<original>与</original>
+			<edited>与</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Adposition7" offset="00" relocatable="true" max_length="0">
+			<original>＆</original>
+			<edited>＆</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Adposition8" offset="00" relocatable="true" max_length="0">
+			<original>VS</original>
+			<edited>VS</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Adposition9" offset="00" relocatable="true" max_length="0">
+			<original>在</original>
+			<edited>在</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection1" offset="00" relocatable="true" max_length="0">
+			<original>所以</original>
+			<edited>所以</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection2" offset="00" relocatable="true" max_length="0">
+			<original>但是</original>
+			<edited>但是</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection3" offset="00" relocatable="true" max_length="0">
+			<original>可是</original>
+			<edited>可是</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection4" offset="00" relocatable="true" max_length="0">
+			<original>明明</original>
+			<edited>明明</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection5" offset="00" relocatable="true" max_length="0">
+			<original>却</original>
+			<edited>却</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection6" offset="00" relocatable="true" max_length="0">
+			<original>反而</original>
+			<edited>反而</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection7" offset="00" relocatable="true" max_length="0">
+			<original>另一方面</original>
+			<edited>另一方面</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection8" offset="00" relocatable="true" max_length="0">
+			<original>或是</original>
+			<edited>或是</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection9" offset="00" relocatable="true" max_length="0">
+			<original>不过</original>
+			<edited>不过</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection10" offset="00" relocatable="true" max_length="0">
+			<original>其实</original>
+			<edited>其实</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection11" offset="00" relocatable="true" max_length="0">
+			<original>也就是</original>
+			<edited>也就是</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection12" offset="00" relocatable="true" max_length="0">
+			<original>总之</original>
+			<edited>总之</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection13" offset="00" relocatable="true" max_length="0">
+			<original>特别是</original>
+			<edited>特别是</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection14" offset="00" relocatable="true" max_length="0">
+			<original>又</original>
+			<edited>又</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection15" offset="00" relocatable="true" max_length="0">
+			<original>因为</original>
+			<edited>因为</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection16" offset="00" relocatable="true" max_length="0">
+			<original>而且</original>
+			<edited>而且</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection17" offset="00" relocatable="true" max_length="0">
+			<original>另外</original>
+			<edited>另外</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection18" offset="00" relocatable="true" max_length="0">
+			<original>毕竟</original>
+			<edited>毕竟</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection19" offset="00" relocatable="true" max_length="0">
+			<original>还有</original>
+			<edited>还有</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection20" offset="00" relocatable="true" max_length="0">
+			<original>+</original>
+			<edited>+</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Conjection21" offset="00" relocatable="true" max_length="0">
+			<original>/</original>
+			<edited>/</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Honorific1" offset="00" relocatable="true" max_length="0">
+			<original>同学</original>
+			<edited>同学</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Honorific2" offset="00" relocatable="true" max_length="0">
+			<original>小姐</original>
+			<edited>小姐</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Honorific3" offset="00" relocatable="true" max_length="0">
+			<original>先生</original>
+			<edited>先生</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Honorific4" offset="00" relocatable="true" max_length="0">
+			<original>大人</original>
+			<edited>大人</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Honorific5" offset="00" relocatable="true" max_length="0">
+			<original>殿下</original>
+			<edited>殿下</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Team1" offset="00" relocatable="true" max_length="0">
+			<original>纹章！</original>
+			<edited>纹章！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Team2" offset="00" relocatable="true" max_length="0">
+			<original>结合！</original>
+			<edited>结合！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Team3" offset="00" relocatable="true" max_length="0">
+			<original>连锁</original>
+			<edited>连锁</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Team4" offset="00" relocatable="true" max_length="0">
+			<original>防御</original>
+			<edited>防御</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Team5" offset="00" relocatable="true" max_length="0">
+			<original>攻击</original>
+			<edited>攻击</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Solanel" offset="00" relocatable="true" max_length="0">
+			<original>索拉涅尔</original>
+			<edited>索拉涅尔</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Eleos" offset="00" relocatable="true" max_length="0">
+			<original>艾雷欧斯</original>
+			<edited>艾雷欧斯</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Player" offset="00" relocatable="true" max_length="0">
+			<original>玩家</original>
+			<edited>玩家</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Enemy" offset="00" relocatable="true" max_length="0">
+			<original>敌人</original>
+			<edited>敌人</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_VIP" offset="00" relocatable="true" max_length="0">
+			<original>VIP</original>
+			<edited>VIP</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Training" offset="00" relocatable="true" max_length="0">
+			<original>锻炼</original>
+			<edited>锻炼</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Party" offset="00" relocatable="true" max_length="0">
+			<original>宴会</original>
+			<edited>宴会</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Others1" offset="00" relocatable="true" max_length="0">
+			<original>嗨起来！</original>
+			<edited>嗨起来！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Others2" offset="00" relocatable="true" max_length="0">
+			<original>享乐吧！</original>
+			<edited>享乐吧！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Others3" offset="00" relocatable="true" max_length="0">
+			<original>上啊！</original>
+			<edited>上啊！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Others4" offset="00" relocatable="true" max_length="0">
+			<original>壮壮</original>
+			<edited>壮壮</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Others5" offset="00" relocatable="true" max_length="0">
+			<original>闪亮亮</original>
+			<edited>闪亮亮</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Others6" offset="00" relocatable="true" max_length="0">
+			<original>心怦怦跳</original>
+			<edited>心怦怦跳</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Others7" offset="00" relocatable="true" max_length="0">
+			<original>亮晶晶</original>
+			<edited>亮晶晶</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Position" offset="00" relocatable="true" max_length="0">
+			<original>兵种</original>
+			<edited>兵种</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_BasicPosition" offset="00" relocatable="true" max_length="0">
+			<original>基本兵种</original>
+			<edited>基本兵种</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_SeniorPosition" offset="00" relocatable="true" max_length="0">
+			<original>高级兵种</original>
+			<edited>高级兵种</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_SpecialPosition" offset="00" relocatable="true" max_length="0">
+			<original>特殊兵种</original>
+			<edited>特殊兵种</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCCMID_Style" offset="00" relocatable="true" max_length="0">
+			<original>类型</original>
+			<edited>类型</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Map_Theme_Select" offset="00" relocatable="true" max_length="0">
+			<original>请选择制作完毕的编辑地图的主题。
+（选择的主题将套用于神龙战历卡）</original>
+			<edited>请选择制作完毕的编辑地图的主题。
+（选择的主题将套用于神龙战历卡）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Theme_Unit" offset="00" relocatable="true" max_length="0">
+			<original>配置单位</original>
+			<edited>配置单位</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Unit1" offset="00" relocatable="true" max_length="0">
+			<original>远距离</original>
+			<edited>远距离</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Unit2" offset="00" relocatable="true" max_length="0">
+			<original>近距离</original>
+			<edited>近距离</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Unit3" offset="00" relocatable="true" max_length="0">
+			<original>全员出动</original>
+			<edited>全员出动</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Unit4" offset="00" relocatable="true" max_length="0">
+			<original>重装</original>
+			<edited>重装</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Unit5" offset="00" relocatable="true" max_length="0">
+			<original>骑马</original>
+			<edited>骑马</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Unit6" offset="00" relocatable="true" max_length="0">
+			<original>飞行</original>
+			<edited>飞行</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Unit7" offset="00" relocatable="true" max_length="0">
+			<original>连携</original>
+			<edited>连携</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Unit8" offset="00" relocatable="true" max_length="0">
+			<original>隐密</original>
+			<edited>隐密</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Unit9" offset="00" relocatable="true" max_length="0">
+			<original>气功</original>
+			<edited>气功</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Unit10" offset="00" relocatable="true" max_length="0">
+			<original>魔道</original>
+			<edited>魔道</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Theme_Map" offset="00" relocatable="true" max_length="0">
+			<original>地图</original>
+			<edited>地图</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Map1" offset="00" relocatable="true" max_length="0">
+			<original>城塞</original>
+			<edited>城塞</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Map2" offset="00" relocatable="true" max_length="0">
+			<original>迷宫</original>
+			<edited>迷宫</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Map3" offset="00" relocatable="true" max_length="0">
+			<original>回避</original>
+			<edited>回避</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Map4" offset="00" relocatable="true" max_length="0">
+			<original>炮台</original>
+			<edited>炮台</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Map5" offset="00" relocatable="true" max_length="0">
+			<original>庭园</original>
+			<edited>庭园</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Map6" offset="00" relocatable="true" max_length="0">
+			<original>东洋风</original>
+			<edited>东洋风</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Map7" offset="00" relocatable="true" max_length="0">
+			<original>围城</original>
+			<edited>围城</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Map8" offset="00" relocatable="true" max_length="0">
+			<original>神殿</original>
+			<edited>神殿</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Map9" offset="00" relocatable="true" max_length="0">
+			<original>极简</original>
+			<edited>极简</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Theme_Object" offset="00" relocatable="true" max_length="0">
+			<original>配置地形</original>
+			<edited>配置地形</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Object1" offset="00" relocatable="true" max_length="0">
+			<original>羊驼</original>
+			<edited>羊驼</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Object2" offset="00" relocatable="true" max_length="0">
+			<original>守护神</original>
+			<edited>守护神</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Object3" offset="00" relocatable="true" max_length="0">
+			<original>沙地</original>
+			<edited>沙地</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Object4" offset="00" relocatable="true" max_length="0">
+			<original>冰</original>
+			<edited>冰</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Object5" offset="00" relocatable="true" max_length="0">
+			<original>柱子</original>
+			<edited>柱子</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Theme_Conception" offset="00" relocatable="true" max_length="0">
+			<original>氛围</original>
+			<edited>氛围</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Conception1" offset="00" relocatable="true" max_length="0">
+			<original>可爱</original>
+			<edited>可爱</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Conception2" offset="00" relocatable="true" max_length="0">
+			<original>流行</original>
+			<edited>流行</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Conception3" offset="00" relocatable="true" max_length="0">
+			<original>恐怖</original>
+			<edited>恐怖</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Conception4" offset="00" relocatable="true" max_length="0">
+			<original>冷酷</original>
+			<edited>冷酷</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Conception5" offset="00" relocatable="true" max_length="0">
+			<original>幻想</original>
+			<edited>幻想</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Conception6" offset="00" relocatable="true" max_length="0">
+			<original>美丽</original>
+			<edited>美丽</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Theme_Onomatopoeia" offset="00" relocatable="true" max_length="0">
+			<original>叠词</original>
+			<edited>叠词</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Onomatopoeia1" offset="00" relocatable="true" max_length="0">
+			<original>闪亮亮</original>
+			<edited>闪亮亮</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Onomatopoeia2" offset="00" relocatable="true" max_length="0">
+			<original>转圈圈</original>
+			<edited>转圈圈</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Onomatopoeia3" offset="00" relocatable="true" max_length="0">
+			<original>硬邦邦</original>
+			<edited>硬邦邦</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Onomatopoeia4" offset="00" relocatable="true" max_length="0">
+			<original>兴冲冲</original>
+			<edited>兴冲冲</edited>
+			<subEntries />
+		</entry>
+		<entry name="PCMMID_Onomatopoeia5" offset="00" relocatable="true" max_length="0">
+			<original>乱糟糟</original>
+			<edited>乱糟糟</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Area_Select" offset="00" relocatable="true" max_length="0">
+			<original>选择区域</original>
+			<edited>选择区域</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Area_Select_Help" offset="00" relocatable="true" max_length="0">
+			<original>请选择要印制的场景。</original>
+			<edited>请选择要印制的场景。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Area_List" offset="00" relocatable="true" max_length="0">
+			<original>区域一览</original>
+			<edited>区域一览</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Placement_Limit" offset="00" relocatable="true" max_length="0">
+			<original>可配置的同伴数量</original>
+			<edited>可配置的同伴数量</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Spot_Title" offset="00" relocatable="true" max_length="0">
+			<original>要配置的同伴</original>
+			<edited>要配置的同伴</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Spot_01" offset="00" relocatable="true" max_length="0">
+			<original>定点1</original>
+			<edited>定点1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Spot_02" offset="00" relocatable="true" max_length="0">
+			<original>定点2</original>
+			<edited>定点2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Spot_03" offset="00" relocatable="true" max_length="0">
+			<original>定点3</original>
+			<edited>定点3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Spot_Weapon" offset="00" relocatable="true" max_length="0">
+			<original>武器一览</original>
+			<edited>武器一览</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Spot_Scarf" offset="00" relocatable="true" max_length="0">
+			<original>领巾颜色一览</original>
+			<edited>领巾颜色一览</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Photo_Finish_Confirm" offset="00" relocatable="true" max_length="0">
+			<original>是否要返回选择区域画面？</original>
+			<edited>是否要返回选择区域画面？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Save_Confirm" offset="00" relocatable="true" max_length="0">
+			<original>已保存印制的图片并套用于战历卡。
+（只能保存一张图片）</original>
+			<edited>已保存印制的图片并套用于战历卡。
+（只能保存一张图片）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Hyphen01" offset="00" relocatable="true" max_length="0">
+			<original>－</original>
+			<edited>－</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_Hyphen05" offset="00" relocatable="true" max_length="0">
+			<original>－－－－－</original>
+			<edited>－－－－－</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_UI_ON" offset="00" relocatable="true" max_length="0">
+			<original>印制模式</original>
+			<edited>印制模式</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_UI_OFF" offset="00" relocatable="true" max_length="0">
+			<original>解除印制模式</original>
+			<edited>解除印制模式</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_PHOTO" offset="00" relocatable="true" max_length="0">
+			<original>开始印制</original>
+			<edited>开始印制</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_RANDOM" offset="00" relocatable="true" max_length="0">
+			<original>随机选择</original>
+			<edited>随机选择</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_LIST" offset="00" relocatable="true" max_length="0">
+			<original>显示清单</original>
+			<edited>显示清单</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_AREA_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>切换定点</original>
+			<edited>切换定点</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_CAMERA_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>切换视角</original>
+			<edited>切换视角</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_CAMERA_HORIZON" offset="00" relocatable="true" max_length="0">
+			<original>左右移动视角</original>
+			<edited>左右移动视角</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_CAMERA_VERTICAL" offset="00" relocatable="true" max_length="0">
+			<original>上下移动视角</original>
+			<edited>上下移动视角</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_CAMERA" offset="00" relocatable="true" max_length="0">
+			<original>操作视角</original>
+			<edited>操作视角</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_SAVE" offset="00" relocatable="true" max_length="0">
+			<original>保存</original>
+			<edited>保存</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PS_KEYHELP_NO_SAVE" offset="00" relocatable="true" max_length="0">
+			<original>再次印制</original>
+			<edited>再次印制</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PoseType_1" offset="00" relocatable="true" max_length="0">
+			<original>1</original>
+			<edited>1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PoseType_2" offset="00" relocatable="true" max_length="0">
+			<original>2</original>
+			<edited>2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PoseType_3" offset="00" relocatable="true" max_length="0">
+			<original>3</original>
+			<edited>3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PoseType_4" offset="00" relocatable="true" max_length="0">
+			<original>4</original>
+			<edited>4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PoseType_5" offset="00" relocatable="true" max_length="0">
+			<original>5</original>
+			<edited>5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PoseType_6" offset="00" relocatable="true" max_length="0">
+			<original>6</original>
+			<edited>6</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PoseType_7" offset="00" relocatable="true" max_length="0">
+			<original>7</original>
+			<edited>7</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PoseType_Normal" offset="00" relocatable="true" max_length="0">
+			<original>基本姿势</original>
+			<edited>基本姿势</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PoseType_Battle" offset="00" relocatable="true" max_length="0">
+			<original>战斗姿势</original>
+			<edited>战斗姿势</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PoseType_Solanel" offset="00" relocatable="true" max_length="0">
+			<original>据点姿势</original>
+			<edited>据点姿势</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Normal" offset="00" relocatable="true" max_length="0">
+			<original>等待</original>
+			<edited>等待</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Angry" offset="00" relocatable="true" max_length="0">
+			<original>生气</original>
+			<edited>生气</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Deny" offset="00" relocatable="true" max_length="0">
+			<original>否定</original>
+			<edited>否定</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Deny2" offset="00" relocatable="true" max_length="0">
+			<original>摇头</original>
+			<edited>摇头</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Give" offset="00" relocatable="true" max_length="0">
+			<original>给予</original>
+			<edited>给予</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Joy" offset="00" relocatable="true" max_length="0">
+			<original>高兴</original>
+			<edited>高兴</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Joy2" offset="00" relocatable="true" max_length="0">
+			<original>雀跃</original>
+			<edited>雀跃</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_LookR" offset="00" relocatable="true" max_length="0">
+			<original>环视（右）</original>
+			<edited>环视（右）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_LookL" offset="00" relocatable="true" max_length="0">
+			<original>环视（左）</original>
+			<edited>环视（左）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Pray" offset="00" relocatable="true" max_length="0">
+			<original>祈祷</original>
+			<edited>祈祷</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Proud" offset="00" relocatable="true" max_length="0">
+			<original>得意</original>
+			<edited>得意</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Relax" offset="00" relocatable="true" max_length="0">
+			<original>安心</original>
+			<edited>安心</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Sad" offset="00" relocatable="true" max_length="0">
+			<original>沮丧</original>
+			<edited>沮丧</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Sad2" offset="00" relocatable="true" max_length="0">
+			<original>悲伤</original>
+			<edited>悲伤</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Shy" offset="00" relocatable="true" max_length="0">
+			<original>害羞</original>
+			<edited>害羞</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Surprise" offset="00" relocatable="true" max_length="0">
+			<original>吃惊</original>
+			<edited>吃惊</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Surprise2" offset="00" relocatable="true" max_length="0">
+			<original>惊讶</original>
+			<edited>惊讶</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Talk" offset="00" relocatable="true" max_length="0">
+			<original>对话</original>
+			<edited>对话</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Talk2" offset="00" relocatable="true" max_length="0">
+			<original>说话</original>
+			<edited>说话</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Think" offset="00" relocatable="true" max_length="0">
+			<original>思考</original>
+			<edited>思考</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Tired" offset="00" relocatable="true" max_length="0">
+			<original>疲倦</original>
+			<edited>疲倦</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Wave" offset="00" relocatable="true" max_length="0">
+			<original>挥手</original>
+			<edited>挥手</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Posing" offset="00" relocatable="true" max_length="0">
+			<original>放松姿势</original>
+			<edited>放松姿势</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Posing2" offset="00" relocatable="true" max_length="0">
+			<original>亮相姿势</original>
+			<edited>亮相姿势</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Cheer1" offset="00" relocatable="true" max_length="0">
+			<original>声援</original>
+			<edited>声援</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Cheer2" offset="00" relocatable="true" max_length="0">
+			<original>加油</original>
+			<edited>加油</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_FishShow" offset="00" relocatable="true" max_length="0">
+			<original>鼓舞</original>
+			<edited>鼓舞</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Guitar" offset="00" relocatable="true" max_length="0">
+			<original>空气吉他</original>
+			<edited>空气吉他</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Pick1" offset="00" relocatable="true" max_length="0">
+			<original>采摘</original>
+			<edited>采摘</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Pick2" offset="00" relocatable="true" max_length="0">
+			<original>查看</original>
+			<edited>查看</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Pick3" offset="00" relocatable="true" max_length="0">
+			<original>收成</original>
+			<edited>收成</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_ScatterR" offset="00" relocatable="true" max_length="0">
+			<original>喂饲料（右）</original>
+			<edited>喂饲料（右）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_ScatterL" offset="00" relocatable="true" max_length="0">
+			<original>喂饲料（左）</original>
+			<edited>喂饲料（左）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Sing" offset="00" relocatable="true" max_length="0">
+			<original>唱歌</original>
+			<edited>唱歌</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_SitUp_Start" offset="00" relocatable="true" max_length="0">
+			<original>锻炼腹肌（开始）</original>
+			<edited>锻炼腹肌（开始）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_SitUp_End" offset="00" relocatable="true" max_length="0">
+			<original>锻炼腹肌（结束）</original>
+			<edited>锻炼腹肌（结束）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Squat_Start" offset="00" relocatable="true" max_length="0">
+			<original>深蹲（开始）</original>
+			<edited>深蹲（开始）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Squat_End" offset="00" relocatable="true" max_length="0">
+			<original>深蹲（结束）</original>
+			<edited>深蹲（结束）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_PushUp_Start" offset="00" relocatable="true" max_length="0">
+			<original>俯卧撑（开始）</original>
+			<edited>俯卧撑（开始）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_PushUp_End" offset="00" relocatable="true" max_length="0">
+			<original>俯卧撑（结束）</original>
+			<edited>俯卧撑（结束）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_WateringR" offset="00" relocatable="true" max_length="0">
+			<original>浇水（右）</original>
+			<edited>浇水（右）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_WateringL" offset="00" relocatable="true" max_length="0">
+			<original>浇水（左）</original>
+			<edited>浇水（左）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Splash_OneHand" offset="00" relocatable="true" max_length="0">
+			<original>泼水（单手）</original>
+			<edited>泼水（单手）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_SplashothHands" offset="00" relocatable="true" max_length="0">
+			<original>泼水（双手）</original>
+			<edited>泼水（双手）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Splash" offset="00" relocatable="true" max_length="0">
+			<original>被泼水</original>
+			<edited>被泼水</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_StrokeStand" offset="00" relocatable="true" max_length="0">
+			<original>梳理</original>
+			<edited>梳理</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_SitNormal" offset="00" relocatable="true" max_length="0">
+			<original>坐下</original>
+			<edited>坐下</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_ChairNormal" offset="00" relocatable="true" max_length="0">
+			<original>坐在椅子上</original>
+			<edited>坐在椅子上</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Reactionbad" offset="00" relocatable="true" max_length="0">
+			<original>觉得难吃</original>
+			<edited>觉得难吃</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_ReactionGood" offset="00" relocatable="true" max_length="0">
+			<original>觉得美味</original>
+			<edited>觉得美味</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_ReactionGreat" offset="00" relocatable="true" max_length="0">
+			<original>觉得非常美味</original>
+			<edited>觉得非常美味</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Battle_Sword" offset="00" relocatable="true" max_length="0">
+			<original>战斗姿势（剑）</original>
+			<edited>战斗姿势（剑）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Battle_Lance" offset="00" relocatable="true" max_length="0">
+			<original>战斗姿势（枪）</original>
+			<edited>战斗姿势（枪）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Battle_Axe" offset="00" relocatable="true" max_length="0">
+			<original>战斗姿势（斧）</original>
+			<edited>战斗姿势（斧）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Battle_Bow" offset="00" relocatable="true" max_length="0">
+			<original>战斗姿势（弓）</original>
+			<edited>战斗姿势（弓）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Battle_Magic" offset="00" relocatable="true" max_length="0">
+			<original>战斗姿势（魔道书）</original>
+			<edited>战斗姿势（魔道书）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Battle_Knife" offset="00" relocatable="true" max_length="0">
+			<original>战斗姿势（短剑）</original>
+			<edited>战斗姿势（短剑）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Battle_Fist" offset="00" relocatable="true" max_length="0">
+			<original>战斗姿势（体术）</original>
+			<edited>战斗姿势（体术）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_Normal" offset="00" relocatable="true" max_length="0">
+			<original>等待</original>
+			<edited>等待</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_Angry" offset="00" relocatable="true" max_length="0">
+			<original>生气</original>
+			<edited>生气</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_Joy" offset="00" relocatable="true" max_length="0">
+			<original>高兴</original>
+			<edited>高兴</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_Cheer" offset="00" relocatable="true" max_length="0">
+			<original>雀跃</original>
+			<edited>雀跃</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_Petted" offset="00" relocatable="true" max_length="0">
+			<original>沮丧</original>
+			<edited>沮丧</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_Sad" offset="00" relocatable="true" max_length="0">
+			<original>悲伤</original>
+			<edited>悲伤</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_GestureR" offset="00" relocatable="true" max_length="0">
+			<original>环视（右）</original>
+			<edited>环视（右）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_GestureL" offset="00" relocatable="true" max_length="0">
+			<original>环视（左）</original>
+			<edited>环视（左）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_Eat" offset="00" relocatable="true" max_length="0">
+			<original>吃东西</original>
+			<edited>吃东西</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_Drop" offset="00" relocatable="true" max_length="0">
+			<original>伸展</original>
+			<edited>伸展</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_GetUp" offset="00" relocatable="true" max_length="0">
+			<original>亮相姿势</original>
+			<edited>亮相姿势</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_Sit" offset="00" relocatable="true" max_length="0">
+			<original>坐下</original>
+			<edited>坐下</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSPMID_Mascot_Sleep" offset="00" relocatable="true" max_length="0">
+			<original>睡觉</original>
+			<edited>睡觉</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Entrance_front1" offset="00" relocatable="true" max_length="0">
+			<original>入口（正面1）</original>
+			<edited>入口（正面1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Entrance_front2" offset="00" relocatable="true" max_length="0">
+			<original>入口（正面2）</original>
+			<edited>入口（正面2）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Entrance1" offset="00" relocatable="true" max_length="0">
+			<original>入口（情境1）</original>
+			<edited>入口（情境1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Entrance2" offset="00" relocatable="true" max_length="0">
+			<original>入口（情境2）</original>
+			<edited>入口（情境2）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Cafeteria_front1" offset="00" relocatable="true" max_length="0">
+			<original>开放式茶座（正面1）</original>
+			<edited>开放式茶座（正面1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Cafeteria_front2" offset="00" relocatable="true" max_length="0">
+			<original>开放式茶座（正面2）</original>
+			<edited>开放式茶座（正面2）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Cafeteria1" offset="00" relocatable="true" max_length="0">
+			<original>开放式茶座（情境1）</original>
+			<edited>开放式茶座（情境1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Cafeteria2" offset="00" relocatable="true" max_length="0">
+			<original>开放式茶座（情境2）</original>
+			<edited>开放式茶座（情境2）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Cafeteria3" offset="00" relocatable="true" max_length="0">
+			<original>开放式茶座（情境3）</original>
+			<edited>开放式茶座（情境3）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_WeaponShop_front" offset="00" relocatable="true" max_length="0">
+			<original>武器店（正面1）</original>
+			<edited>武器店（正面1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_WeaponShop1" offset="00" relocatable="true" max_length="0">
+			<original>武器店（情境1）</original>
+			<edited>武器店（情境1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_ItemShop_front" offset="00" relocatable="true" max_length="0">
+			<original>道具店（正面1）</original>
+			<edited>道具店（正面1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_ItemShop1" offset="00" relocatable="true" max_length="0">
+			<original>道具店（情境1）</original>
+			<edited>道具店（情境1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_RefineShop_front" offset="00" relocatable="true" max_length="0">
+			<original>锻造店（正面1）</original>
+			<edited>锻造店（正面1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_RefineShop1" offset="00" relocatable="true" max_length="0">
+			<original>锻造店（情境1）</original>
+			<edited>锻造店（情境1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_AccessoryShop_front" offset="00" relocatable="true" max_length="0">
+			<original>装饰品店（正面1）</original>
+			<edited>装饰品店（正面1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_AccessoryShop1" offset="00" relocatable="true" max_length="0">
+			<original>装饰品店（情境1）</original>
+			<edited>装饰品店（情境1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Poolside_front" offset="00" relocatable="true" max_length="0">
+			<original>泳池边（正面1）</original>
+			<edited>泳池边（正面1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Poolside1" offset="00" relocatable="true" max_length="0">
+			<original>泳池边（情境1）</original>
+			<edited>泳池边（情境1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_FleaMarket_front" offset="00" relocatable="true" max_length="0">
+			<original>跳蚤市场（正面1）</original>
+			<edited>跳蚤市场（正面1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_FleaMarket1" offset="00" relocatable="true" max_length="0">
+			<original>跳蚤市场（情境1）</original>
+			<edited>跳蚤市场（情境1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Fortune_front" offset="00" relocatable="true" max_length="0">
+			<original>占卜小屋（正面1）</original>
+			<edited>占卜小屋（正面1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Fortune1" offset="00" relocatable="true" max_length="0">
+			<original>占卜小屋（情境1）</original>
+			<edited>占卜小屋（情境1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Orchard_front" offset="00" relocatable="true" max_length="0">
+			<original>果树园（正面1）</original>
+			<edited>果树园（正面1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Orchard1" offset="00" relocatable="true" max_length="0">
+			<original>果树园（情境1）</original>
+			<edited>果树园（情境1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Fountain_front" offset="00" relocatable="true" max_length="0">
+			<original>喷泉（正面1）</original>
+			<edited>喷泉（正面1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Fountain1" offset="00" relocatable="true" max_length="0">
+			<original>喷泉（情境1）</original>
+			<edited>喷泉（情境1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Corridor1" offset="00" relocatable="true" max_length="0">
+			<original>长廊（情境1）</original>
+			<edited>长廊（情境1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Pond_front" offset="00" relocatable="true" max_length="0">
+			<original>涌泉池畔（正面1）</original>
+			<edited>涌泉池畔（正面1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Pond1" offset="00" relocatable="true" max_length="0">
+			<original>涌泉池畔（情境1）</original>
+			<edited>涌泉池畔（情境1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Pond2" offset="00" relocatable="true" max_length="0">
+			<original>涌泉池畔（情境2）</original>
+			<edited>涌泉池畔（情境2）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_TrainingSpot_front" offset="00" relocatable="true" max_length="0">
+			<original>后院（正面1）</original>
+			<edited>后院（正面1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_TrainingSpot1" offset="00" relocatable="true" max_length="0">
+			<original>后院（情境1）</original>
+			<edited>后院（情境1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_TrainingSpot2" offset="00" relocatable="true" max_length="0">
+			<original>后院（情境2）</original>
+			<edited>后院（情境2）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_TrainingSpot3" offset="00" relocatable="true" max_length="0">
+			<original>后院（情境3）</original>
+			<edited>后院（情境3）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_TrainingSpot4" offset="00" relocatable="true" max_length="0">
+			<original>后院（情境4）</original>
+			<edited>后院（情境4）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Farm_front" offset="00" relocatable="true" max_length="0">
+			<original>牧场（正面1）</original>
+			<edited>牧场（正面1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Farm1" offset="00" relocatable="true" max_length="0">
+			<original>牧场（情境1）</original>
+			<edited>牧场（情境1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Farm2" offset="00" relocatable="true" max_length="0">
+			<original>牧场（情境2）</original>
+			<edited>牧场（情境2）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Farm3" offset="00" relocatable="true" max_length="0">
+			<original>牧场（情境3）</original>
+			<edited>牧场（情境3）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Cave_front" offset="00" relocatable="true" max_length="0">
+			<original>钟乳洞（正面1）</original>
+			<edited>钟乳洞（正面1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Cave1" offset="00" relocatable="true" max_length="0">
+			<original>钟乳洞（情境1）</original>
+			<edited>钟乳洞（情境1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_GoodViewSpot_front" offset="00" relocatable="true" max_length="0">
+			<original>眺望之丘（正面1）</original>
+			<edited>眺望之丘（正面1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_GoodViewSpot1" offset="00" relocatable="true" max_length="0">
+			<original>眺望之丘（情境1）</original>
+			<edited>眺望之丘（情境1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Tower_front" offset="00" relocatable="true" max_length="0">
+			<original>试炼别屋（正面1）</original>
+			<edited>试炼别屋（正面1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="PSSMID_Tower1" offset="00" relocatable="true" max_length="0">
+			<original>试炼别屋（情境1）</original>
+			<edited>试炼别屋（情境1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_1" offset="00" relocatable="true" max_length="0">
+			<original>蜜桃红</original>
+			<edited>蜜桃红</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_2" offset="00" relocatable="true" max_length="0">
+			<original>草莓粉</original>
+			<edited>草莓粉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_3" offset="00" relocatable="true" max_length="0">
+			<original>大海蓝</original>
+			<edited>大海蓝</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_4" offset="00" relocatable="true" max_length="0">
+			<original>柳橙橘</original>
+			<edited>柳橙橘</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_5" offset="00" relocatable="true" max_length="0">
+			<original>柠檬黄</original>
+			<edited>柠檬黄</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_6" offset="00" relocatable="true" max_length="0">
+			<original>天空蓝</original>
+			<edited>天空蓝</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_7" offset="00" relocatable="true" max_length="0">
+			<original>薄荷绿</original>
+			<edited>薄荷绿</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_8" offset="00" relocatable="true" max_length="0">
+			<original>嫩叶绿</original>
+			<edited>嫩叶绿</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_9" offset="00" relocatable="true" max_length="0">
+			<original>橄榄绿</original>
+			<edited>橄榄绿</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_10" offset="00" relocatable="true" max_length="0">
+			<original>葡萄紫</original>
+			<edited>葡萄紫</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_11" offset="00" relocatable="true" max_length="0">
+			<original>木炭灰</original>
+			<edited>木炭灰</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MASCOT_SCARFCOLOR_12" offset="00" relocatable="true" max_length="0">
+			<original>麻薯白</original>
+			<edited>麻薯白</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

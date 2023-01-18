@@ -1,0 +1,4315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MIID_None" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_None" offset="00" relocatable="true" max_length="0">
+			<original>--------</original>
+			<edited>--------</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Unknown" offset="00" relocatable="true" max_length="0">
+			<original>???</original>
+			<edited>???</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Unknown" offset="00" relocatable="true" max_length="0">
+			<original>?????</original>
+			<edited>?????</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_UnknownArg" offset="00" relocatable="true" max_length="0">
+			<original>??? &#xE;&#x1;&#x0;&#x0;</original>
+			<edited>??? &#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_IronSword" offset="00" relocatable="true" max_length="0">
+			<original>Iron Sword</original>
+			<edited>Iron Sword</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_IronSword" offset="00" relocatable="true" max_length="0">
+			<original>A standard sword made of iron─
+simple, but effective.</original>
+			<edited>A standard sword made of iron─
+simple, but effective.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SteelSword" offset="00" relocatable="true" max_length="0">
+			<original>Steel Sword</original>
+			<edited>Steel Sword</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SteelSword" offset="00" relocatable="true" max_length="0">
+			<original>A sword made of steel.</original>
+			<edited>A sword made of steel.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SilverSword" offset="00" relocatable="true" max_length="0">
+			<original>Silver Sword</original>
+			<edited>Silver Sword</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SilverSword" offset="00" relocatable="true" max_length="0">
+			<original>An exceptional sword of rare metals.</original>
+			<edited>An exceptional sword of rare metals.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SmallSword" offset="00" relocatable="true" max_length="0">
+			<original>Slim Sword</original>
+			<edited>Slim Sword</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SmallSword" offset="00" relocatable="true" max_length="0">
+			<original>A light, unusually accurate sword.</original>
+			<edited>A light, unusually accurate sword.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_BraveSword" offset="00" relocatable="true" max_length="0">
+			<original>Brave Sword</original>
+			<edited>Brave Sword</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_BraveSword" offset="00" relocatable="true" max_length="0">
+			<original>A sword built for expert wielders.
+If user initiates combat, attacks
+twice.</original>
+			<edited>A sword built for expert wielders.
+If user initiates combat, attacks
+twice.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_ThunderSword" offset="00" relocatable="true" max_length="0">
+			<original>Levin Sword</original>
+			<edited>Levin Sword</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_ThunderSword" offset="00" relocatable="true" max_length="0">
+			<original>A magical sword that can strike
+close or at range.</original>
+			<edited>A magical sword that can strike
+close or at range.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Liberation" offset="00" relocatable="true" max_length="0">
+			<original>Libération</original>
+			<edited>Libération</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Liberation_M000" offset="00" relocatable="true" max_length="0">
+			<original>The Divine Dragon's personal sword.</original>
+			<edited>The Divine Dragon's personal sword.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Liberation" offset="00" relocatable="true" max_length="0">
+			<original>Divine Dragon only. Fills engage
+meter by 1 when user attacks and
+defeats a foe in a single turn.</original>
+			<edited>Divine Dragon only. Fills engage
+meter by 1 when user attacks and
+defeats a foe in a single turn.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_KillingEdge" offset="00" relocatable="true" max_length="0">
+			<original>Killing Edge</original>
+			<edited>Killing Edge</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_KillingEdge" offset="00" relocatable="true" max_length="0">
+			<original>A sword especially well-suited to
+inflicting deadly wounds. </original>
+			<edited>A sword especially well-suited to
+inflicting deadly wounds. </edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_JapaneseSword" offset="00" relocatable="true" max_length="0">
+			<original>Wo Dao</original>
+			<edited>Wo Dao</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_JapaneseSword" offset="00" relocatable="true" max_length="0">
+			<original>A sword honed to a razor edge.</original>
+			<edited>A sword honed to a razor edge.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Armorslayer" offset="00" relocatable="true" max_length="0">
+			<original>Armorslayer</original>
+			<edited>Armorslayer</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Armorslayer" offset="00" relocatable="true" max_length="0">
+			<original>A sword made to penetrate heavy
+armor. Effective: Armored.</original>
+			<edited>A sword made to penetrate heavy
+armor. Effective: Armored.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GodSword" offset="00" relocatable="true" max_length="0">
+			<original>Caladbolg</original>
+			<edited>Caladbolg</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GodSword" offset="00" relocatable="true" max_length="0">
+			<original>A legendary sword, famous for its
+great power.</original>
+			<edited>A legendary sword, famous for its
+great power.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_IronSwordL" offset="00" relocatable="true" max_length="0">
+			<original>Iron Blade</original>
+			<edited>Iron Blade</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_IronSwordL" offset="00" relocatable="true" max_length="0">
+			<original>A massive sword that smashes foes.
+Cannot follow up, or strike first if
+initiating combat.</original>
+			<edited>A massive sword that smashes foes.
+Cannot follow up, or strike first if
+initiating combat.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SteelSwordL" offset="00" relocatable="true" max_length="0">
+			<original>Steel Blade</original>
+			<edited>Steel Blade</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SteelSwordL" offset="00" relocatable="true" max_length="0">
+			<original>A massive sword of steel that
+smashes foes. Cannot follow up,
+or strike first if initiating combat.</original>
+			<edited>A massive sword of steel that
+smashes foes. Cannot follow up,
+or strike first if initiating combat.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SilverSwordL" offset="00" relocatable="true" max_length="0">
+			<original>Silver Blade</original>
+			<edited>Silver Blade</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SilverSwordL" offset="00" relocatable="true" max_length="0">
+			<original>A massive sword of rare metals that
+smashes foes. Cannot follow up,
+or strike first if initiating combat.</original>
+			<edited>A massive sword of rare metals that
+smashes foes. Cannot follow up,
+or strike first if initiating combat.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_WilleGlanz" offset="00" relocatable="true" max_length="0">
+			<original>Wille Glanz</original>
+			<edited>Wille Glanz</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_WilleGlanz" offset="00" relocatable="true" max_length="0">
+			<original>Divine Dragon only. A powerful
+sword that can strike close or
+at range.</original>
+			<edited>Divine Dragon only. A powerful
+sword that can strike close or
+at range.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GodSwordL" offset="00" relocatable="true" max_length="0">
+			<original>Georgios</original>
+			<edited>Georgios</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GodSwordL" offset="00" relocatable="true" max_length="0">
+			<original>A legendary blade that smashes foes.
+Cannot follow up, or strike first if
+initiating combat.</original>
+			<edited>A legendary blade that smashes foes.
+Cannot follow up, or strike first if
+initiating combat.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Dragonslayer" offset="00" relocatable="true" max_length="0">
+			<original>Wyrmslayer</original>
+			<edited>Wyrmslayer</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Dragonslayer" offset="00" relocatable="true" max_length="0">
+			<original>A sword crafted specifically to fight
+dragons. Effective: Dragon.</original>
+			<edited>A sword crafted specifically to fight
+dragons. Effective: Dragon.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_IronLance" offset="00" relocatable="true" max_length="0">
+			<original>Iron Lance</original>
+			<edited>Iron Lance</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_IronLance" offset="00" relocatable="true" max_length="0">
+			<original>A standard lance made of iron─
+simple, but effective.</original>
+			<edited>A standard lance made of iron─
+simple, but effective.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SteelLance" offset="00" relocatable="true" max_length="0">
+			<original>Steel Lance</original>
+			<edited>Steel Lance</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SteelLance" offset="00" relocatable="true" max_length="0">
+			<original>A lance made of steel.</original>
+			<edited>A lance made of steel.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SilverLance" offset="00" relocatable="true" max_length="0">
+			<original>Silver Lance</original>
+			<edited>Silver Lance</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SilverLance" offset="00" relocatable="true" max_length="0">
+			<original>An exceptional lance of rare metals.</original>
+			<edited>An exceptional lance of rare metals.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SmallLance" offset="00" relocatable="true" max_length="0">
+			<original>Slim Lance</original>
+			<edited>Slim Lance</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SmallLance" offset="00" relocatable="true" max_length="0">
+			<original>A light, unusually accurate lance.</original>
+			<edited>A light, unusually accurate lance.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_BraveLance" offset="00" relocatable="true" max_length="0">
+			<original>Brave Lance</original>
+			<edited>Brave Lance</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_BraveLance" offset="00" relocatable="true" max_length="0">
+			<original>A lance built for expert wielders.
+If user initiates combat, attacks
+twice.</original>
+			<edited>A lance built for expert wielders.
+If user initiates combat, attacks
+twice.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_HandLance" offset="00" relocatable="true" max_length="0">
+			<original>Javelin</original>
+			<edited>Javelin</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_HandLance" offset="00" relocatable="true" max_length="0">
+			<original>A light throwing lance that can
+strike close or at range.</original>
+			<edited>A light throwing lance that can
+strike close or at range.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_RiderKiller" offset="00" relocatable="true" max_length="0">
+			<original>Ridersbane</original>
+			<edited>Ridersbane</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_RiderKiller" offset="00" relocatable="true" max_length="0">
+			<original>A lance designed for foes on
+horseback. Effective: Cavalry.</original>
+			<edited>A lance designed for foes on
+horseback. Effective: Cavalry.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_KillerLance" offset="00" relocatable="true" max_length="0">
+			<original>Killer Lance</original>
+			<edited>Killer Lance</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_KillerLance" offset="00" relocatable="true" max_length="0">
+			<original>A lance especially well-suited to
+inflicting deadly wounds.</original>
+			<edited>A lance especially well-suited to
+inflicting deadly wounds.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Spear" offset="00" relocatable="true" max_length="0">
+			<original>Spear</original>
+			<edited>Spear</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Spear" offset="00" relocatable="true" max_length="0">
+			<original>A powerful throwing lance that can
+strike close or at range.</original>
+			<edited>A powerful throwing lance that can
+strike close or at range.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FlameSpear" offset="00" relocatable="true" max_length="0">
+			<original>Flame Lance</original>
+			<edited>Flame Lance</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FlameSpear" offset="00" relocatable="true" max_length="0">
+			<original>A magical lance that can strike
+close or at range.</original>
+			<edited>A magical lance that can strike
+close or at range.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GodLance" offset="00" relocatable="true" max_length="0">
+			<original>Brionac</original>
+			<edited>Brionac</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GodLance" offset="00" relocatable="true" max_length="0">
+			<original>A powerful lance of legend. Can
+strike close or at range.</original>
+			<edited>A powerful lance of legend. Can
+strike close or at range.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_IronLanceL" offset="00" relocatable="true" max_length="0">
+			<original>Iron Greatlance</original>
+			<edited>Iron Greatlance</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_IronLanceL" offset="00" relocatable="true" max_length="0">
+			<original>A massive lance that smashes foes.
+Cannot follow up, or strike first if
+initiating combat.</original>
+			<edited>A massive lance that smashes foes.
+Cannot follow up, or strike first if
+initiating combat.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SteelLanceL" offset="00" relocatable="true" max_length="0">
+			<original>Steel Greatlance</original>
+			<edited>Steel Greatlance</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SteelLanceL" offset="00" relocatable="true" max_length="0">
+			<original>A massive lance of steel that
+smashes foes. Cannot follow up,
+or strike first if initiating combat.</original>
+			<edited>A massive lance of steel that
+smashes foes. Cannot follow up,
+or strike first if initiating combat.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SilverLanceL" offset="00" relocatable="true" max_length="0">
+			<original>Silver Greatlance</original>
+			<edited>Silver Greatlance</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SilverLanceL" offset="00" relocatable="true" max_length="0">
+			<original>A massive lance of rare metals that
+smashes foes. Cannot follow up,
+or strike first if initiating combat.</original>
+			<edited>A massive lance of rare metals that
+smashes foes. Cannot follow up,
+or strike first if initiating combat.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GodLanceL" offset="00" relocatable="true" max_length="0">
+			<original>Venomous</original>
+			<edited>Venomous</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GodLanceL" offset="00" relocatable="true" max_length="0">
+			<original>A lance of legend that smashes and
+poisons hit foes. Cannot follow up,
+or strike first if initiating combat.</original>
+			<edited>A lance of legend that smashes and
+poisons hit foes. Cannot follow up,
+or strike first if initiating combat.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_IronAxe" offset="00" relocatable="true" max_length="0">
+			<original>Iron Axe</original>
+			<edited>Iron Axe</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_IronAxe" offset="00" relocatable="true" max_length="0">
+			<original>A standard axe made of iron─
+simple, but effective.</original>
+			<edited>A standard axe made of iron─
+simple, but effective.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SteelAxe" offset="00" relocatable="true" max_length="0">
+			<original>Steel Axe</original>
+			<edited>Steel Axe</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SteelAxe" offset="00" relocatable="true" max_length="0">
+			<original>An axe made of steel.</original>
+			<edited>An axe made of steel.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SilverAxe" offset="00" relocatable="true" max_length="0">
+			<original>Silver Axe</original>
+			<edited>Silver Axe</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SilverAxe" offset="00" relocatable="true" max_length="0">
+			<original>An exceptional axe of rare metals.</original>
+			<edited>An exceptional axe of rare metals.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SmallAxe" offset="00" relocatable="true" max_length="0">
+			<original>Compact Axe</original>
+			<edited>Compact Axe</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SmallAxe" offset="00" relocatable="true" max_length="0">
+			<original>A light, unusually accurate axe.</original>
+			<edited>A light, unusually accurate axe.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_BraveAxe" offset="00" relocatable="true" max_length="0">
+			<original>Brave Axe</original>
+			<edited>Brave Axe</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_BraveAxe" offset="00" relocatable="true" max_length="0">
+			<original>An axe built for expert wielders.
+If user initiates combat, attacks
+twice.</original>
+			<edited>An axe built for expert wielders.
+If user initiates combat, attacks
+twice.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_HandAxe" offset="00" relocatable="true" max_length="0">
+			<original>Hand Axe</original>
+			<edited>Hand Axe</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_HandAxe" offset="00" relocatable="true" max_length="0">
+			<original>A light throwing axe that can
+strike close or at range.</original>
+			<edited>A light throwing axe that can
+strike close or at range.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Tomahawk" offset="00" relocatable="true" max_length="0">
+			<original>Tomahawk</original>
+			<edited>Tomahawk</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Tomahawk" offset="00" relocatable="true" max_length="0">
+			<original>A powerful throwing axe that can
+strike close or at range.</original>
+			<edited>A powerful throwing axe that can
+strike close or at range.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Hammer" offset="00" relocatable="true" max_length="0">
+			<original>Hammer</original>
+			<edited>Hammer</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Hammer" offset="00" relocatable="true" max_length="0">
+			<original>A war hammer made to crack
+through heavy armor. Effective:
+Armored.</original>
+			<edited>A war hammer made to crack
+through heavy armor. Effective:
+Armored.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_KillerAxe" offset="00" relocatable="true" max_length="0">
+			<original>Killer Axe</original>
+			<edited>Killer Axe</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_KillerAxe" offset="00" relocatable="true" max_length="0">
+			<original>An axe especially well-suited to
+inflicting deadly wounds.</original>
+			<edited>An axe especially well-suited to
+inflicting deadly wounds.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_PoleAxe" offset="00" relocatable="true" max_length="0">
+			<original>Poleaxe</original>
+			<edited>Poleaxe</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_PoleAxe" offset="00" relocatable="true" max_length="0">
+			<original>An axe whose long handle helps
+reach mounted foes.
+Effective: Cavalry.</original>
+			<edited>An axe whose long handle helps
+reach mounted foes.
+Effective: Cavalry.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GodAxe" offset="00" relocatable="true" max_length="0">
+			<original>Fragarach</original>
+			<edited>Fragarach</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GodAxe" offset="00" relocatable="true" max_length="0">
+			<original>A legendary axe.</original>
+			<edited>A legendary axe.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_IronAxeL" offset="00" relocatable="true" max_length="0">
+			<original>Iron Greataxe</original>
+			<edited>Iron Greataxe</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_IronAxeL" offset="00" relocatable="true" max_length="0">
+			<original>A massive axe that smashes foes.
+Cannot follow up, or strike first if
+initiating combat.</original>
+			<edited>A massive axe that smashes foes.
+Cannot follow up, or strike first if
+initiating combat.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SteelAxeL" offset="00" relocatable="true" max_length="0">
+			<original>Steel Greataxe</original>
+			<edited>Steel Greataxe</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SteelAxeL" offset="00" relocatable="true" max_length="0">
+			<original>A massive axe of steel that
+smashes foes. Cannot follow up,
+or strike first if initiating combat.</original>
+			<edited>A massive axe of steel that
+smashes foes. Cannot follow up,
+or strike first if initiating combat.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SilverAxeL" offset="00" relocatable="true" max_length="0">
+			<original>Silver Greataxe</original>
+			<edited>Silver Greataxe</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SilverAxeL" offset="00" relocatable="true" max_length="0">
+			<original>A massive axe of rare metals that
+smashes foes. Cannot follow up,
+or strike first if initiating combat.</original>
+			<edited>A massive axe of rare metals that
+smashes foes. Cannot follow up,
+or strike first if initiating combat.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_WindAxeL" offset="00" relocatable="true" max_length="0">
+			<original>Hurricane Axe</original>
+			<edited>Hurricane Axe</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_WindAxeL" offset="00" relocatable="true" max_length="0">
+			<original>A magical axe that smashes foes.
+Cannot follow up, or strike first if
+initiating combat. Effective: Flying.</original>
+			<edited>A magical axe that smashes foes.
+Cannot follow up, or strike first if
+initiating combat. Effective: Flying.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GodAxeL" offset="00" relocatable="true" max_length="0">
+			<original>Ukonvasara</original>
+			<edited>Ukonvasara</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GodAxeL" offset="00" relocatable="true" max_length="0">
+			<original>A huge, legendary axe that smashes
+foes. Cannot follow up, or strike first
+if initiating combat.</original>
+			<edited>A huge, legendary axe that smashes
+foes. Cannot follow up, or strike first
+if initiating combat.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_ShortBow" offset="00" relocatable="true" max_length="0">
+			<original>Mini Bow</original>
+			<edited>Mini Bow</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_ShortBow" offset="00" relocatable="true" max_length="0">
+			<original>An easy-to-use, short-range bow.
+Effective: Flying.</original>
+			<edited>An easy-to-use, short-range bow.
+Effective: Flying.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_IronBow" offset="00" relocatable="true" max_length="0">
+			<original>Iron Bow</original>
+			<edited>Iron Bow</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_IronBow" offset="00" relocatable="true" max_length="0">
+			<original>A standard bow made of iron.
+Effective: Flying.</original>
+			<edited>A standard bow made of iron.
+Effective: Flying.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SteelBow" offset="00" relocatable="true" max_length="0">
+			<original>Steel Bow</original>
+			<edited>Steel Bow</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SteelBow" offset="00" relocatable="true" max_length="0">
+			<original>A bow made of steel.
+Effective: Flying.</original>
+			<edited>A bow made of steel.
+Effective: Flying.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SilverBow" offset="00" relocatable="true" max_length="0">
+			<original>Silver Bow</original>
+			<edited>Silver Bow</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SilverBow" offset="00" relocatable="true" max_length="0">
+			<original>An exceptional bow of rare metals.
+Effective: Flying.</original>
+			<edited>An exceptional bow of rare metals.
+Effective: Flying.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_BraveBow" offset="00" relocatable="true" max_length="0">
+			<original>Brave Bow</original>
+			<edited>Brave Bow</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_BraveBow" offset="00" relocatable="true" max_length="0">
+			<original>A bow built for expert wielders.
+If user initiates combat, attacks
+twice. Effective: Flying.</original>
+			<edited>A bow built for expert wielders.
+If user initiates combat, attacks
+twice. Effective: Flying.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_LongBow" offset="00" relocatable="true" max_length="0">
+			<original>Longbow</original>
+			<edited>Longbow</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_LongBow" offset="00" relocatable="true" max_length="0">
+			<original>A bow made to fire at longer ranges.
+Effective: Flying.</original>
+			<edited>A bow made to fire at longer ranges.
+Effective: Flying.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_KillerBow" offset="00" relocatable="true" max_length="0">
+			<original>Killer Bow</original>
+			<edited>Killer Bow</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_KillerBow" offset="00" relocatable="true" max_length="0">
+			<original>A bow especially well-suited to
+inflicting deadly wounds.
+Effective: Flying.</original>
+			<edited>A bow especially well-suited to
+inflicting deadly wounds.
+Effective: Flying.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_LightBow" offset="00" relocatable="true" max_length="0">
+			<original>Radiant Bow</original>
+			<edited>Radiant Bow</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_LightBow" offset="00" relocatable="true" max_length="0">
+			<original>A magical bow whose arrows pierce
+with light. Effective: Flying.</original>
+			<edited>A magical bow whose arrows pierce
+with light. Effective: Flying.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GodBow" offset="00" relocatable="true" max_length="0">
+			<original>Lendabair</original>
+			<edited>Lendabair</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GodBow" offset="00" relocatable="true" max_length="0">
+			<original>A bow wielded by legends.
+Effective: Flying.</original>
+			<edited>A bow wielded by legends.
+Effective: Flying.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SmallKnife" offset="00" relocatable="true" max_length="0">
+			<original>Short Knife</original>
+			<edited>Short Knife</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SmallKnife" offset="00" relocatable="true" max_length="0">
+			<original>An easy-to-use throwing knife.
+Poisons hit foes.</original>
+			<edited>An easy-to-use throwing knife.
+Poisons hit foes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_IronKnife" offset="00" relocatable="true" max_length="0">
+			<original>Iron Dagger</original>
+			<edited>Iron Dagger</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_IronKnife" offset="00" relocatable="true" max_length="0">
+			<original>A standard throwing knife. Poisons
+hit foes.</original>
+			<edited>A standard throwing knife. Poisons
+hit foes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SteelKnife" offset="00" relocatable="true" max_length="0">
+			<original>Steel Dagger</original>
+			<edited>Steel Dagger</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SteelKnife" offset="00" relocatable="true" max_length="0">
+			<original>A throwing knife made of steel.
+Poisons hit foes.</original>
+			<edited>A throwing knife made of steel.
+Poisons hit foes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SilverKnife" offset="00" relocatable="true" max_length="0">
+			<original>Silver Dagger</original>
+			<edited>Silver Dagger</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SilverKnife" offset="00" relocatable="true" max_length="0">
+			<original>A throwing knife made of rare
+metals. Poisons hit foes.</original>
+			<edited>A throwing knife made of rare
+metals. Poisons hit foes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Kard" offset="00" relocatable="true" max_length="0">
+			<original>Kard</original>
+			<edited>Kard</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Kard" offset="00" relocatable="true" max_length="0">
+			<original>A fighting knife intended for close
+combat. Poisons hit foes.</original>
+			<edited>A fighting knife intended for close
+combat. Poisons hit foes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Stiletto" offset="00" relocatable="true" max_length="0">
+			<original>Stiletto</original>
+			<edited>Stiletto</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Stiletto" offset="00" relocatable="true" max_length="0">
+			<original>A fighting knife intended for close
+combat. Poisons hit foes.</original>
+			<edited>A fighting knife intended for close
+combat. Poisons hit foes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Peshkad" offset="00" relocatable="true" max_length="0">
+			<original>Peshkatz</original>
+			<edited>Peshkatz</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Peshkad" offset="00" relocatable="true" max_length="0">
+			<original>A fighting knife intended for close
+combat. Poisons hit foes.</original>
+			<edited>A fighting knife intended for close
+combat. Poisons hit foes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Misericorde" offset="00" relocatable="true" max_length="0">
+			<original>Misericorde</original>
+			<edited>Misericorde</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Misericorde" offset="00" relocatable="true" max_length="0">
+			<original>Veyle only. An enchanted throwing
+knife that inflicts magic damage and
+poisons hit foes.</original>
+			<edited>Veyle only. An enchanted throwing
+knife that inflicts magic damage and
+poisons hit foes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Cinquedea" offset="00" relocatable="true" max_length="0">
+			<original>Cinquedea</original>
+			<edited>Cinquedea</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Cinquedea" offset="00" relocatable="true" max_length="0">
+			<original>A legendary throwing knife that
+poisons hit foes.</original>
+			<edited>A legendary throwing knife that
+poisons hit foes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Carnwenhan" offset="00" relocatable="true" max_length="0">
+			<original>Carnwenhan</original>
+			<edited>Carnwenhan</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Carnwenhan" offset="00" relocatable="true" max_length="0">
+			<original>A legendary short sword. Smashes
+and poisons hit foes. Cannot follow
+up, or strike first if initiating combat.</original>
+			<edited>A legendary short sword. Smashes
+and poisons hit foes. Cannot follow
+up, or strike first if initiating combat.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Surge" offset="00" relocatable="true" max_length="0">
+			<original>Surge</original>
+			<edited>Surge</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Surge" offset="00" relocatable="true" max_length="0">
+			<original>A basic attack tome that can only be
+used in close combat.</original>
+			<edited>A basic attack tome that can only be
+used in close combat.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Fire" offset="00" relocatable="true" max_length="0">
+			<original>Fire</original>
+			<edited>Fire</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Fire" offset="00" relocatable="true" max_length="0">
+			<original>A standard tome of fire magic.</original>
+			<edited>A standard tome of fire magic.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Thunder" offset="00" relocatable="true" max_length="0">
+			<original>Thunder</original>
+			<edited>Thunder</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Thunder" offset="00" relocatable="true" max_length="0">
+			<original>A standard tome of thunder magic.
+Cannot follow up.</original>
+			<edited>A standard tome of thunder magic.
+Cannot follow up.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Wind" offset="00" relocatable="true" max_length="0">
+			<original>Wind</original>
+			<edited>Wind</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Wind" offset="00" relocatable="true" max_length="0">
+			<original>A standard tome of wind magic.
+Effective: Flying.</original>
+			<edited>A standard tome of wind magic.
+Effective: Flying.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_LSurge" offset="00" relocatable="true" max_length="0">
+			<original>Elsurge</original>
+			<edited>Elsurge</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_LSurge" offset="00" relocatable="true" max_length="0">
+			<original>An advanced attack tome that can
+only be used in close combat.</original>
+			<edited>An advanced attack tome that can
+only be used in close combat.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_LFire" offset="00" relocatable="true" max_length="0">
+			<original>Elfire</original>
+			<edited>Elfire</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_LFire" offset="00" relocatable="true" max_length="0">
+			<original>An advanced fire tome.</original>
+			<edited>An advanced fire tome.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_LThunder" offset="00" relocatable="true" max_length="0">
+			<original>Elthunder</original>
+			<edited>Elthunder</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_LThunder" offset="00" relocatable="true" max_length="0">
+			<original>An advanced thunder tome. Cannot
+follow up.</original>
+			<edited>An advanced thunder tome. Cannot
+follow up.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_LWind" offset="00" relocatable="true" max_length="0">
+			<original>Elwind</original>
+			<edited>Elwind</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_LWind" offset="00" relocatable="true" max_length="0">
+			<original>An advanced wind tome.
+Effective: Flying.</original>
+			<edited>An advanced wind tome.
+Effective: Flying.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Bolganone" offset="00" relocatable="true" max_length="0">
+			<original>Bolganone</original>
+			<edited>Bolganone</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Bolganone" offset="00" relocatable="true" max_length="0">
+			<original>A truly mighty fire tome.</original>
+			<edited>A truly mighty fire tome.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Thoron" offset="00" relocatable="true" max_length="0">
+			<original>Thoron</original>
+			<edited>Thoron</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Thoron" offset="00" relocatable="true" max_length="0">
+			<original>A truly mighty thunder tome.
+Cannot follow up.</original>
+			<edited>A truly mighty thunder tome.
+Cannot follow up.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SThoron" offset="00" relocatable="true" max_length="0">
+			<original>Thoron</original>
+			<edited>Thoron</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SThoron" offset="00" relocatable="true" max_length="0">
+			<original>A truly mighty thunder tome.
+Cannot follow up.</original>
+			<edited>A truly mighty thunder tome.
+Cannot follow up.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Excalibur" offset="00" relocatable="true" max_length="0">
+			<original>Excalibur</original>
+			<edited>Excalibur</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Excalibur" offset="00" relocatable="true" max_length="0">
+			<original>A truly mighty wind tome.
+Effective: Flying.</original>
+			<edited>A truly mighty wind tome.
+Effective: Flying.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Excalibur_Gris" offset="00" relocatable="true" max_length="0">
+			<original>A truly mighty wind tome.
+Effective: Flying.</original>
+			<edited>A truly mighty wind tome.
+Effective: Flying.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Nova" offset="00" relocatable="true" max_length="0">
+			<original>Nova</original>
+			<edited>Nova</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Nova" offset="00" relocatable="true" max_length="0">
+			<original>An extremely potent tome. If user
+initiates combat, attacks twice.</original>
+			<edited>An extremely potent tome. If user
+initiates combat, attacks twice.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Meteo" offset="00" relocatable="true" max_length="0">
+			<original>Meteor</original>
+			<edited>Meteor</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Meteo" offset="00" relocatable="true" max_length="0">
+			<original>A tome of long-range attack magic.
+Cannot be used at shorter ranges.</original>
+			<edited>A tome of long-range attack magic.
+Cannot be used at shorter ranges.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Obscurite" offset="00" relocatable="true" max_length="0">
+			<original>Obscurité</original>
+			<edited>Obscurité</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Obscurite" offset="00" relocatable="true" max_length="0">
+			<original>Fell Dragon only. Truly mighty dark
+magic.</original>
+			<edited>Fell Dragon only. Truly mighty dark
+magic.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Obscurite_M000" offset="00" relocatable="true" max_length="0">
+			<original>Fell Dragon only. Truly mighty
+dark magic.</original>
+			<edited>Fell Dragon only. Truly mighty
+dark magic.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Heal" offset="00" relocatable="true" max_length="0">
+			<original>Heal</original>
+			<edited>Heal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Heal" offset="00" relocatable="true" max_length="0">
+			<original>A staff imbued with healing magic.
+Recovers an ally's HP.</original>
+			<edited>A staff imbued with healing magic.
+Recovers an ally's HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_HiHeal" offset="00" relocatable="true" max_length="0">
+			<original>Mend</original>
+			<edited>Mend</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_HiHeal" offset="00" relocatable="true" max_length="0">
+			<original>A staff imbued with healing magic.
+Recovers a great deal of an
+ally's HP.</original>
+			<edited>A staff imbued with healing magic.
+Recovers a great deal of an
+ally's HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Recover" offset="00" relocatable="true" max_length="0">
+			<original>Recover</original>
+			<edited>Recover</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Recover" offset="00" relocatable="true" max_length="0">
+			<original>A staff imbued with healing magic.
+Recovers vast amounts of an
+ally's HP.</original>
+			<edited>A staff imbued with healing magic.
+Recovers vast amounts of an
+ally's HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FarHeal" offset="00" relocatable="true" max_length="0">
+			<original>Physic</original>
+			<edited>Physic</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FarHeal" offset="00" relocatable="true" max_length="0">
+			<original>A staff imbued with healing magic.
+Can recover an ally's HP at a
+distance.</original>
+			<edited>A staff imbued with healing magic.
+Can recover an ally's HP at a
+distance.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_WholeHeal" offset="00" relocatable="true" max_length="0">
+			<original>Fortify</original>
+			<edited>Fortify</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_WholeHeal" offset="00" relocatable="true" max_length="0">
+			<original>A staff imbued with healing magic.
+Recovers HP for all allies within a
+5-space radius.</original>
+			<edited>A staff imbued with healing magic.
+Recovers HP for all allies within a
+5-space radius.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Rest" offset="00" relocatable="true" max_length="0">
+			<original>Restore</original>
+			<edited>Restore</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Rest" offset="00" relocatable="true" max_length="0">
+			<original>A staff that removes status effects
+on an ally.</original>
+			<edited>A staff that removes status effects
+on an ally.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Warp" offset="00" relocatable="true" max_length="0">
+			<original>Warp</original>
+			<edited>Warp</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Warp" offset="00" relocatable="true" max_length="0">
+			<original>A staff imbued with space-warping
+magic. Teleports an adjacent ally up
+to 5 spaces away.</original>
+			<edited>A staff imbued with space-warping
+magic. Teleports an adjacent ally up
+to 5 spaces away.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_ReWarp" offset="00" relocatable="true" max_length="0">
+			<original>Rewarp</original>
+			<edited>Rewarp</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_ReWarp" offset="00" relocatable="true" max_length="0">
+			<original>A staff imbued with space-warping
+magic. Teleports the user up to
+5 spaces away.</original>
+			<edited>A staff imbued with space-warping
+magic. Teleports the user up to
+5 spaces away.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Rescue" offset="00" relocatable="true" max_length="0">
+			<original>Rescue</original>
+			<edited>Rescue</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Rescue" offset="00" relocatable="true" max_length="0">
+			<original>A staff imbued with space-warping
+magic. Teleports a faraway ally to
+an adjacent space.</original>
+			<edited>A staff imbued with space-warping
+magic. Teleports a faraway ally to
+an adjacent space.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Draw" offset="00" relocatable="true" max_length="0">
+			<original>Entrap</original>
+			<edited>Entrap</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Draw" offset="00" relocatable="true" max_length="0">
+			<original>A staff imbued with space-warping
+magic. Teleports a faraway foe to
+an adjacent space.</original>
+			<edited>A staff imbued with space-warping
+magic. Teleports a faraway foe to
+an adjacent space.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_TorchRod" offset="00" relocatable="true" max_length="0">
+			<original>Illume</original>
+			<edited>Illume</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_TorchRod" offset="00" relocatable="true" max_length="0">
+			<original>A staff that magically shines through
+darkness. Illuminates a 7-space
+radius (shrinks one space per turn).</original>
+			<edited>A staff that magically shines through
+darkness. Illuminates a 7-space
+radius (shrinks one space per turn).</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Freeze" offset="00" relocatable="true" max_length="0">
+			<original>Freeze</original>
+			<edited>Freeze</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Freeze" offset="00" relocatable="true" max_length="0">
+			<original>A staff that prevents foes from
+moving for 1 turn.</original>
+			<edited>A staff that prevents foes from
+moving for 1 turn.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Silence" offset="00" relocatable="true" max_length="0">
+			<original>Silence</original>
+			<edited>Silence</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Silence" offset="00" relocatable="true" max_length="0">
+			<original>A staff that prevents foes from
+using tomes or staves for 1 turn.</original>
+			<edited>A staff that prevents foes from
+using tomes or staves for 1 turn.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Block" offset="00" relocatable="true" max_length="0">
+			<original>Obstruct</original>
+			<edited>Obstruct</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Block" offset="00" relocatable="true" max_length="0">
+			<original>A staff that conjures a mass of ice
+that makes one space impassable
+for 1 turn.</original>
+			<edited>A staff that conjures a mass of ice
+that makes one space impassable
+for 1 turn.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Nodus" offset="00" relocatable="true" max_length="0">
+			<original>Nodus</original>
+			<edited>Nodus</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Nodus" offset="00" relocatable="true" max_length="0">
+			<original>A staff imbued with mysterious
+magic that sets all allies' engage
+meters to max.</original>
+			<edited>A staff imbued with mysterious
+magic that sets all allies' engage
+meters to max.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Collapse" offset="00" relocatable="true" max_length="0">
+			<original>Fracture</original>
+			<edited>Fracture</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Collapse" offset="00" relocatable="true" max_length="0">
+			<original>A staff imbued with magic that can
+break foes.</original>
+			<edited>A staff imbued with magic that can
+break foes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_BeginnerFist" offset="00" relocatable="true" max_length="0">
+			<original>Initiate Art</original>
+			<edited>Initiate Art</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_BeginnerFist" offset="00" relocatable="true" max_length="0">
+			<original>A scroll of a fundamental martial
+skill. As a basic text, it does not
+attack twice.</original>
+			<edited>A scroll of a fundamental martial
+skill. As a basic text, it does not
+attack twice.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_BasicFist" offset="00" relocatable="true" max_length="0">
+			<original>Iron-Body Art</original>
+			<edited>Iron-Body Art</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_BasicFist" offset="00" relocatable="true" max_length="0">
+			<original>A scroll of a basic martial skill. If
+user initiates combat, attacks twice.</original>
+			<edited>A scroll of a basic martial skill. If
+user initiates combat, attacks twice.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_MiddleFist" offset="00" relocatable="true" max_length="0">
+			<original>Steel-Hand Art</original>
+			<edited>Steel-Hand Art</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_MiddleFist" offset="00" relocatable="true" max_length="0">
+			<original>A scroll of a standard martial skill.
+If user initiates combat, attacks
+twice.</original>
+			<edited>A scroll of a standard martial skill.
+If user initiates combat, attacks
+twice.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_HighFist" offset="00" relocatable="true" max_length="0">
+			<original>Silver-Spirit Art</original>
+			<edited>Silver-Spirit Art</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_HighFist" offset="00" relocatable="true" max_length="0">
+			<original>A scroll of a highly polished martial
+skill. If user initiates combat,
+attacks twice.</original>
+			<edited>A scroll of a highly polished martial
+skill. If user initiates combat,
+attacks twice.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GuardFist" offset="00" relocatable="true" max_length="0">
+			<original>Shielding Art</original>
+			<edited>Shielding Art</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GuardFist" offset="00" relocatable="true" max_length="0">
+			<original>A scroll of a defensive martial skill.
+Grants Def+5.</original>
+			<edited>A scroll of a defensive martial skill.
+Grants Def+5.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FlashFist" offset="00" relocatable="true" max_length="0">
+			<original>Flashing Fist Art</original>
+			<edited>Flashing Fist Art</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FlashFist" offset="00" relocatable="true" max_length="0">
+			<original>A scroll of brash martial skill. Grants
+Spd+5, but user takes +5 damage. If
+user initiates combat, attacks twice.</original>
+			<edited>A scroll of brash martial skill. Grants
+Spd+5, but user takes +5 damage. If
+user initiates combat, attacks twice.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GodFist" offset="00" relocatable="true" max_length="0">
+			<original>Divine Fist Art</original>
+			<edited>Divine Fist Art</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GodFist" offset="00" relocatable="true" max_length="0">
+			<original>A scroll of a legendary martial skill.
+If user initiates combat, attacks
+twice.</original>
+			<edited>A scroll of a legendary martial skill.
+If user initiates combat, attacks
+twice.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FireBreath" offset="00" relocatable="true" max_length="0">
+			<original>Fire Breath</original>
+			<edited>Fire Breath</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FireBreath" offset="00" relocatable="true" max_length="0">
+			<original>A scorching breath attack. Ignores
+foe's Def/Res.</original>
+			<edited>A scorching breath attack. Ignores
+foe's Def/Res.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FlameBall" offset="00" relocatable="true" max_length="0">
+			<original>Fireball</original>
+			<edited>Fireball</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FlameBall" offset="00" relocatable="true" max_length="0">
+			<original>A long-range fire attack. Ignores
+foe's Def/Res.</original>
+			<edited>A long-range fire attack. Ignores
+foe's Def/Res.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SombrePhysicalAttack" offset="00" relocatable="true" max_length="0">
+			<original>Fell Assault</original>
+			<edited>Fell Assault</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SombrePhysicalAttack" offset="00" relocatable="true" max_length="0">
+			<original>A series of colossal ranged attacks.</original>
+			<edited>A series of colossal ranged attacks.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SombreMagicAttack" offset="00" relocatable="true" max_length="0">
+			<original>Fell Surge</original>
+			<edited>Fell Surge</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SombreMagicAttack" offset="00" relocatable="true" max_length="0">
+			<original>A powerful ranged strike of
+dark magic.</original>
+			<edited>A powerful ranged strike of
+dark magic.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SombreSpinAttack" offset="00" relocatable="true" max_length="0">
+			<original>Whirling Death</original>
+			<edited>Whirling Death</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SombreSpinAttack" offset="00" relocatable="true" max_length="0">
+			<original>A spin that brutally strikes an area.
+Attacks all foes within 3 spaces.</original>
+			<edited>A spin that brutally strikes an area.
+Attacks all foes within 3 spaces.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SombreBeam" offset="00" relocatable="true" max_length="0">
+			<original>Howling Beam</original>
+			<edited>Howling Beam</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SombreBeam" offset="00" relocatable="true" max_length="0">
+			<original>A powerful beam of dark magic that
+leaves a foul miasma in its wake.</original>
+			<edited>A powerful beam of dark magic that
+leaves a foul miasma in its wake.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SombreEngageBreak" offset="00" relocatable="true" max_length="0">
+			<original>Disengage</original>
+			<edited>Disengage</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SombreEngageBreak" offset="00" relocatable="true" max_length="0">
+			<original>Forces all foes to lose engaged
+status.</original>
+			<edited>Forces all foes to lose engaged
+status.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FireCannon" offset="00" relocatable="true" max_length="0">
+			<original>Flame Cannon</original>
+			<edited>Flame Cannon</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FireCannon" offset="00" relocatable="true" max_length="0">
+			<original>Use to attack all units within a
+2-space radius of a target point
+and set the same area on fire.</original>
+			<edited>Use to attack all units within a
+2-space radius of a target point
+and set the same area on fire.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Vulnerary" offset="00" relocatable="true" max_length="0">
+			<original>Vulnerary</original>
+			<edited>Vulnerary</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Vulnerary" offset="00" relocatable="true" max_length="0">
+			<original>Drink to recover 15 HP.</original>
+			<edited>Drink to recover 15 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Medicine" offset="00" relocatable="true" max_length="0">
+			<original>Elixir</original>
+			<edited>Elixir</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Medicine" offset="00" relocatable="true" max_length="0">
+			<original>Drink to recover 30 HP.</original>
+			<edited>Drink to recover 30 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Antidote" offset="00" relocatable="true" max_length="0">
+			<original>Antitoxin</original>
+			<edited>Antitoxin</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Antidote" offset="00" relocatable="true" max_length="0">
+			<original>Drink to recover 15 HP and cure
+poison.</original>
+			<edited>Drink to recover 15 HP and cure
+poison.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_HolyWater" offset="00" relocatable="true" max_length="0">
+			<original>Pure Water</original>
+			<edited>Pure Water</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_HolyWater" offset="00" relocatable="true" max_length="0">
+			<original>Drink to grant Res+7 to user
+(bonus shrinks by 1 each turn).</original>
+			<edited>Drink to grant Res+7 to user
+(bonus shrinks by 1 each turn).</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Torch" offset="00" relocatable="true" max_length="0">
+			<original>Torch</original>
+			<edited>Torch</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Torch" offset="00" relocatable="true" max_length="0">
+			<original>Burn to illuminate a 7-space radius
+(shrinks one space per turn).</original>
+			<edited>Burn to illuminate a 7-space radius
+(shrinks one space per turn).</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SeraphRobe" offset="00" relocatable="true" max_length="0">
+			<original>Seraph Robe</original>
+			<edited>Seraph Robe</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SeraphRobe" offset="00" relocatable="true" max_length="0">
+			<original>Expend to grant max HP+5 to user
+permanently.</original>
+			<edited>Expend to grant max HP+5 to user
+permanently.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_EnergyDrop" offset="00" relocatable="true" max_length="0">
+			<original>Energy Drop</original>
+			<edited>Energy Drop</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_EnergyDrop" offset="00" relocatable="true" max_length="0">
+			<original>Expend to grant Str+2 to user
+permanently.</original>
+			<edited>Expend to grant Str+2 to user
+permanently.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SpiritDust" offset="00" relocatable="true" max_length="0">
+			<original>Spirit Dust</original>
+			<edited>Spirit Dust</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SpiritDust" offset="00" relocatable="true" max_length="0">
+			<original>Expend to grant Mag+2 to user
+permanently.</original>
+			<edited>Expend to grant Mag+2 to user
+permanently.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SecretBook" offset="00" relocatable="true" max_length="0">
+			<original>Secret Book</original>
+			<edited>Secret Book</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SecretBook" offset="00" relocatable="true" max_length="0">
+			<original>Expend to grant Dex+2 to user
+permanently.</original>
+			<edited>Expend to grant Dex+2 to user
+permanently.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Speedwing" offset="00" relocatable="true" max_length="0">
+			<original>Speedwing</original>
+			<edited>Speedwing</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Speedwing" offset="00" relocatable="true" max_length="0">
+			<original>Expend to grant Spd+2 to user
+permanently.</original>
+			<edited>Expend to grant Spd+2 to user
+permanently.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GoddessIcon" offset="00" relocatable="true" max_length="0">
+			<original>Goddess Icon</original>
+			<edited>Goddess Icon</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GoddessIcon" offset="00" relocatable="true" max_length="0">
+			<original>Expend to grant Lck+2 to user
+permanently.</original>
+			<edited>Expend to grant Lck+2 to user
+permanently.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Dracoshield" offset="00" relocatable="true" max_length="0">
+			<original>Dracoshield</original>
+			<edited>Dracoshield</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Dracoshield" offset="00" relocatable="true" max_length="0">
+			<original>Expend to grant Def+2 to user
+permanently.</original>
+			<edited>Expend to grant Def+2 to user
+permanently.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Talisman" offset="00" relocatable="true" max_length="0">
+			<original>Talisman</original>
+			<edited>Talisman</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Talisman" offset="00" relocatable="true" max_length="0">
+			<original>Expend to grant Res+2 to user
+permanently.</original>
+			<edited>Expend to grant Res+2 to user
+permanently.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Boots" offset="00" relocatable="true" max_length="0">
+			<original>Boots</original>
+			<edited>Boots</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Boots" offset="00" relocatable="true" max_length="0">
+			<original>Expend to grant Mov+1 to user
+permanently.</original>
+			<edited>Expend to grant Mov+1 to user
+permanently.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_HpTonic" offset="00" relocatable="true" max_length="0">
+			<original>HP Tonic</original>
+			<edited>HP Tonic</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_HpTonic" offset="00" relocatable="true" max_length="0">
+			<original>Drink to grant max HP+5 for the
+duration of a battle.</original>
+			<edited>Drink to grant max HP+5 for the
+duration of a battle.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_StrTonic" offset="00" relocatable="true" max_length="0">
+			<original>Strength Tonic</original>
+			<edited>Strength Tonic</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_StrTonic" offset="00" relocatable="true" max_length="0">
+			<original>Drink to grant Str+2 for the
+duration of a battle.</original>
+			<edited>Drink to grant Str+2 for the
+duration of a battle.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_MagTonic" offset="00" relocatable="true" max_length="0">
+			<original>Magic Tonic</original>
+			<edited>Magic Tonic</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_MagTonic" offset="00" relocatable="true" max_length="0">
+			<original>Drink to grant Mag+2 for the
+duration of a battle.</original>
+			<edited>Drink to grant Mag+2 for the
+duration of a battle.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_MdefTonic" offset="00" relocatable="true" max_length="0">
+			<original>Resistance Tonic</original>
+			<edited>Resistance Tonic</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_MdefTonic" offset="00" relocatable="true" max_length="0">
+			<original>Drink to grant Res+2 for the
+duration of a battle.</original>
+			<edited>Drink to grant Res+2 for the
+duration of a battle.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_TecTonic" offset="00" relocatable="true" max_length="0">
+			<original>Dexterity Tonic</original>
+			<edited>Dexterity Tonic</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_TecTonic" offset="00" relocatable="true" max_length="0">
+			<original>Drink to grant Dex+2 for the
+duration of a battle.</original>
+			<edited>Drink to grant Dex+2 for the
+duration of a battle.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SpdTonic" offset="00" relocatable="true" max_length="0">
+			<original>Speed Tonic</original>
+			<edited>Speed Tonic</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SpdTonic" offset="00" relocatable="true" max_length="0">
+			<original>Drink to grant Spd+2 for the
+duration of a battle.</original>
+			<edited>Drink to grant Spd+2 for the
+duration of a battle.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_LckTonic" offset="00" relocatable="true" max_length="0">
+			<original>Luck Tonic</original>
+			<edited>Luck Tonic</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_LckTonic" offset="00" relocatable="true" max_length="0">
+			<original>Drink to grant Lck+2 for the
+duration of a battle.</original>
+			<edited>Drink to grant Lck+2 for the
+duration of a battle.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_DefTonic" offset="00" relocatable="true" max_length="0">
+			<original>Defense Tonic</original>
+			<edited>Defense Tonic</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_DefTonic" offset="00" relocatable="true" max_length="0">
+			<original>Drink to grant Def+2 for the
+duration of a battle.</original>
+			<edited>Drink to grant Def+2 for the
+duration of a battle.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_MasterSeal" offset="00" relocatable="true" max_length="0">
+			<original>Master Seal</original>
+			<edited>Master Seal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_MasterSeal" offset="00" relocatable="true" max_length="0">
+			<original>Expend to change user to an
+advanced class.</original>
+			<edited>Expend to change user to an
+advanced class.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_ChangeSeal" offset="00" relocatable="true" max_length="0">
+			<original>Second Seal</original>
+			<edited>Second Seal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_ChangeSeal" offset="00" relocatable="true" max_length="0">
+			<original>Expend to change user to a different
+class in the same tier, or to set level
+in the current class from max to 1.</original>
+			<edited>Expend to change user to a different
+class in the same tier, or to set level
+in the current class from max to 1.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_PromiseRing" offset="00" relocatable="true" max_length="0">
+			<original>Pact Ring</original>
+			<edited>Pact Ring</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_PromiseRing" offset="00" relocatable="true" max_length="0">
+			<original>Ring used to increase the support
+level with one ally from A to &#xE;&#x8;&#x2;&#x1A;&#x18;&#x0;R&#x0;e&#x0;l&#x0;i&#x0;a&#x0;n&#x0;c&#x0;e&#x0;R&#x0;i&#x0;n&#x0;g&#x0;.</original>
+			<edited>Ring used to increase the support
+level with one ally from A to &#xE;&#x8;&#x2;&#x1A;&#x18;&#x0;R&#x0;e&#x0;l&#x0;i&#x0;a&#x0;n&#x0;c&#x0;e&#x0;R&#x0;i&#x0;n&#x0;g&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_PromiseRing_1" offset="00" relocatable="true" max_length="0">
+			<original>A ring that was enshrined on an altar
+and seems to emanate some kind
+of special power.</original>
+			<edited>A ring that was enshrined on an altar
+and seems to emanate some kind
+of special power.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_TimeCrystal" offset="00" relocatable="true" max_length="0">
+			<original>Time Crystal</original>
+			<edited>Time Crystal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_TimeCrystal" offset="00" relocatable="true" max_length="0">
+			<original>The Draconic Time Crystal can
+briefly reverse the flow of time.</original>
+			<edited>The Draconic Time Crystal can
+briefly reverse the flow of time.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_RefineIron" offset="00" relocatable="true" max_length="0">
+			<original>Iron Ingot</original>
+			<edited>Iron Ingot</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_RefineIron" offset="00" relocatable="true" max_length="0">
+			<original>A piece of iron used at the smithy
+and boutique.</original>
+			<edited>A piece of iron used at the smithy
+and boutique.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_RefineSteel" offset="00" relocatable="true" max_length="0">
+			<original>Steel Ingot</original>
+			<edited>Steel Ingot</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_RefineSteel" offset="00" relocatable="true" max_length="0">
+			<original>A piece of steel used at the smithy
+and boutique.</original>
+			<edited>A piece of steel used at the smithy
+and boutique.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_RefineSilver" offset="00" relocatable="true" max_length="0">
+			<original>Silver Ingot</original>
+			<edited>Silver Ingot</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_RefineSilver" offset="00" relocatable="true" max_length="0">
+			<original>A piece of silver used at the smithy
+and boutique.</original>
+			<edited>A piece of silver used at the smithy
+and boutique.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Atk" offset="00" relocatable="true" max_length="0">
+			<original>Mt Crystal</original>
+			<edited>Mt Crystal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Atk" offset="00" relocatable="true" max_length="0">
+			<original>Material used to reinforce engage
+weapons. Increases might (Mt).</original>
+			<edited>Material used to reinforce engage
+weapons. Increases might (Mt).</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Hit" offset="00" relocatable="true" max_length="0">
+			<original>Hit Crystal</original>
+			<edited>Hit Crystal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Hit" offset="00" relocatable="true" max_length="0">
+			<original>Material used to reinforce engage
+weapons. Increases hit rate.</original>
+			<edited>Material used to reinforce engage
+weapons. Increases hit rate.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Cri" offset="00" relocatable="true" max_length="0">
+			<original>Crit Crystal</original>
+			<edited>Crit Crystal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Cri" offset="00" relocatable="true" max_length="0">
+			<original>Material used to reinforce engage
+weapons. Increases critical (Crit).</original>
+			<edited>Material used to reinforce engage
+weapons. Increases critical (Crit).</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Avd" offset="00" relocatable="true" max_length="0">
+			<original>Avo Crystal</original>
+			<edited>Avo Crystal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Avd" offset="00" relocatable="true" max_length="0">
+			<original>Material used to reinforce engage
+weapons. Increases avoid (Avo).</original>
+			<edited>Material used to reinforce engage
+weapons. Increases avoid (Avo).</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Cavd" offset="00" relocatable="true" max_length="0">
+			<original>Ddg Crystal</original>
+			<edited>Ddg Crystal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Cavd" offset="00" relocatable="true" max_length="0">
+			<original>Material used to reinforce engage
+weapons. Increases dodge (Ddg).</original>
+			<edited>Material used to reinforce engage
+weapons. Increases dodge (Ddg).</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Tech" offset="00" relocatable="true" max_length="0">
+			<original>Dex Crystal</original>
+			<edited>Dex Crystal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Tech" offset="00" relocatable="true" max_length="0">
+			<original>Material used to reinforce engage
+weapons. Increases dexterity (Dex).</original>
+			<edited>Material used to reinforce engage
+weapons. Increases dexterity (Dex).</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Spd" offset="00" relocatable="true" max_length="0">
+			<original>Spd Crystal</original>
+			<edited>Spd Crystal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Spd" offset="00" relocatable="true" max_length="0">
+			<original>Material used to reinforce engage
+weapons. Increases speed (Spd).</original>
+			<edited>Material used to reinforce engage
+weapons. Increases speed (Spd).</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Def" offset="00" relocatable="true" max_length="0">
+			<original>Def Crystal</original>
+			<edited>Def Crystal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Def" offset="00" relocatable="true" max_length="0">
+			<original>Material used to reinforce engage
+weapons. Increases defense (Def).</original>
+			<edited>Material used to reinforce engage
+weapons. Increases defense (Def).</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Res" offset="00" relocatable="true" max_length="0">
+			<original>Res Crystal</original>
+			<edited>Res Crystal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Res" offset="00" relocatable="true" max_length="0">
+			<original>Material used to reinforce engage
+weapons. Increases resistance (Res).</original>
+			<edited>Material used to reinforce engage
+weapons. Increases resistance (Res).</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Slayer_Fly" offset="00" relocatable="true" max_length="0">
+			<original>Flier Bane</original>
+			<edited>Flier Bane</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Slayer_Fly" offset="00" relocatable="true" max_length="0">
+			<original>Material used to augment engage
+weapons. Adds Effective: Flying.</original>
+			<edited>Material used to augment engage
+weapons. Adds Effective: Flying.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Slayer_Horse" offset="00" relocatable="true" max_length="0">
+			<original>Rider Bane</original>
+			<edited>Rider Bane</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Slayer_Horse" offset="00" relocatable="true" max_length="0">
+			<original>Material used to augment engage
+weapons. Adds Effective: Cavalry.</original>
+			<edited>Material used to augment engage
+weapons. Adds Effective: Cavalry.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Slayer_Armor" offset="00" relocatable="true" max_length="0">
+			<original>Armor Bane</original>
+			<edited>Armor Bane</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Slayer_Armor" offset="00" relocatable="true" max_length="0">
+			<original>Material used to augment engage
+weapons. Adds Effective: Armored.</original>
+			<edited>Material used to augment engage
+weapons. Adds Effective: Armored.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Slayer_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>Dragon Bane</original>
+			<edited>Dragon Bane</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Slayer_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>Material used to augment engage
+weapons. Adds Effective: Dragon.</original>
+			<edited>Material used to augment engage
+weapons. Adds Effective: Dragon.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mat_Slayer_Morph" offset="00" relocatable="true" max_length="0">
+			<original>Corrupted Bane</original>
+			<edited>Corrupted Bane</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mat_Slayer_Morph" offset="00" relocatable="true" max_length="0">
+			<original>Material used to augment engage
+weapons. Adds Effective: Corrupted.</original>
+			<edited>Material used to augment engage
+weapons. Adds Effective: Corrupted.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_VandrBento" offset="00" relocatable="true" max_length="0">
+			<original>Vander's Meal</original>
+			<edited>Vander's Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_VandrBento" offset="00" relocatable="true" max_length="0">
+			<original>Leftovers tidily packed by Vander.
+Eat to recover 20 HP.</original>
+			<edited>Leftovers tidily packed by Vander.
+Eat to recover 20 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_ClanBento" offset="00" relocatable="true" max_length="0">
+			<original>Clanne's Meal</original>
+			<edited>Clanne's Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_ClanBento" offset="00" relocatable="true" max_length="0">
+			<original>Leftovers eagerly packed by Clanne.
+Eat to recover 20 HP.</original>
+			<edited>Leftovers eagerly packed by Clanne.
+Eat to recover 20 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FramBento" offset="00" relocatable="true" max_length="0">
+			<original>Framme's Meal</original>
+			<edited>Framme's Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FramBento" offset="00" relocatable="true" max_length="0">
+			<original>Leftovers enthusiastically packed by
+Framme. Eat to recover 20 HP.</original>
+			<edited>Leftovers enthusiastically packed by
+Framme. Eat to recover 20 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_AlfredBento" offset="00" relocatable="true" max_length="0">
+			<original>Alfred's Meal</original>
+			<edited>Alfred's Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_AlfredBento" offset="00" relocatable="true" max_length="0">
+			<original>Leftovers fiercely packed by Alfred.
+Eat to recover 20 HP.</original>
+			<edited>Leftovers fiercely packed by Alfred.
+Eat to recover 20 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_BoucheronBento" offset="00" relocatable="true" max_length="0">
+			<original>Boucheron's Meal</original>
+			<edited>Boucheron's Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_BoucheronBento" offset="00" relocatable="true" max_length="0">
+			<original>Leftovers idly packed by Boucheron.
+Eat to recover 20 HP.</original>
+			<edited>Leftovers idly packed by Boucheron.
+Eat to recover 20 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_EtieBento" offset="00" relocatable="true" max_length="0">
+			<original>Etie's Meal</original>
+			<edited>Etie's Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_EtieBento" offset="00" relocatable="true" max_length="0">
+			<original>Leftovers tightly packed by Etie.
+Eat to recover 20 HP.</original>
+			<edited>Leftovers tightly packed by Etie.
+Eat to recover 20 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_CelineBento" offset="00" relocatable="true" max_length="0">
+			<original>Céline's Meal</original>
+			<edited>Céline's Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_CelineBento" offset="00" relocatable="true" max_length="0">
+			<original>Leftovers elegantly packed by
+Céline. Eat to recover 20 HP.</original>
+			<edited>Leftovers elegantly packed by
+Céline. Eat to recover 20 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_LouisBento" offset="00" relocatable="true" max_length="0">
+			<original>Louis's Meal</original>
+			<edited>Louis's Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_LouisBento" offset="00" relocatable="true" max_length="0">
+			<original>Leftovers helpfully packed by Louis.
+Eat to recover 20 HP.</original>
+			<edited>Leftovers helpfully packed by Louis.
+Eat to recover 20 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_ChloeBento" offset="00" relocatable="true" max_length="0">
+			<original>Chloé's Meal</original>
+			<edited>Chloé's Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_ChloeBento" offset="00" relocatable="true" max_length="0">
+			<original>Leftovers motheringly packed by
+Chloé. Eat to recover 20 HP.</original>
+			<edited>Leftovers motheringly packed by
+Chloé. Eat to recover 20 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_DiamandBento" offset="00" relocatable="true" max_length="0">
+			<original>Diamant's Meal</original>
+			<edited>Diamant's Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_DiamandBento" offset="00" relocatable="true" max_length="0">
+			<original>Leftovers flawlessly packed by
+Diamant. Eat to recover 20 HP.</original>
+			<edited>Leftovers flawlessly packed by
+Diamant. Eat to recover 20 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_UmberBento" offset="00" relocatable="true" max_length="0">
+			<original>Amber's Meal</original>
+			<edited>Amber's Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_UmberBento" offset="00" relocatable="true" max_length="0">
+			<original>Leftovers clumsily packed by Amber.
+Eat to recover 20 HP.</original>
+			<edited>Leftovers clumsily packed by Amber.
+Eat to recover 20 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_JadeBento" offset="00" relocatable="true" max_length="0">
+			<original>Jade's Meal</original>
+			<edited>Jade's Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_JadeBento" offset="00" relocatable="true" max_length="0">
+			<original>Leftovers cleanly packed by Jade.
+Eat to recover 20 HP.</original>
+			<edited>Leftovers cleanly packed by Jade.
+Eat to recover 20 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_StalukeBento" offset="00" relocatable="true" max_length="0">
+			<original>Alcryst's Meal</original>
+			<edited>Alcryst's Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_StalukeBento" offset="00" relocatable="true" max_length="0">
+			<original>Leftovers skillfully packed by
+Alcryst. Eat to recover 20 HP.</original>
+			<edited>Leftovers skillfully packed by
+Alcryst. Eat to recover 20 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_LapisBento" offset="00" relocatable="true" max_length="0">
+			<original>Lapis's Meal</original>
+			<edited>Lapis's Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_LapisBento" offset="00" relocatable="true" max_length="0">
+			<original>Leftovers modestly packed by Lapis.
+Eat to recover 20 HP.</original>
+			<edited>Leftovers modestly packed by Lapis.
+Eat to recover 20 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_CitrinicaBento" offset="00" relocatable="true" max_length="0">
+			<original>Citrinne's Meal</original>
+			<edited>Citrinne's Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_CitrinicaBento" offset="00" relocatable="true" max_length="0">
+			<original>Leftovers lavishly packed by
+Citrinne. Eat to recover 20 HP.</original>
+			<edited>Leftovers lavishly packed by
+Citrinne. Eat to recover 20 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_IvyBento" offset="00" relocatable="true" max_length="0">
+			<original>Ivy's Meal</original>
+			<edited>Ivy's Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_IvyBento" offset="00" relocatable="true" max_length="0">
+			<original>Leftovers thoughtfully packed by Ivy.
+Eat to recover 20 HP.</original>
+			<edited>Leftovers thoughtfully packed by Ivy.
+Eat to recover 20 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_ZelkovaBento" offset="00" relocatable="true" max_length="0">
+			<original>Zelkov's Meal</original>
+			<edited>Zelkov's Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_ZelkovaBento" offset="00" relocatable="true" max_length="0">
+			<original>Leftovers *artfully* packed by
+Zelkov. Eat to recover 20 HP.</original>
+			<edited>Leftovers *artfully* packed by
+Zelkov. Eat to recover 20 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_KagetsuBento" offset="00" relocatable="true" max_length="0">
+			<original>Kagetsu's Meal</original>
+			<edited>Kagetsu's Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_KagetsuBento" offset="00" relocatable="true" max_length="0">
+			<original>Leftovers earnestly packed by
+Kagetsu. Eat to recover 20 HP.</original>
+			<edited>Leftovers earnestly packed by
+Kagetsu. Eat to recover 20 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_HortensiaBento" offset="00" relocatable="true" max_length="0">
+			<original>Hortensia's Meal</original>
+			<edited>Hortensia's Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_HortensiaBento" offset="00" relocatable="true" max_length="0">
+			<original>Leftovers haphazardly packed by
+Hortensia. Eat to recover 20 HP.</original>
+			<edited>Leftovers haphazardly packed by
+Hortensia. Eat to recover 20 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_RosadoBento" offset="00" relocatable="true" max_length="0">
+			<original>Rosado's Meal</original>
+			<edited>Rosado's Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_RosadoBento" offset="00" relocatable="true" max_length="0">
+			<original>Leftovers cutely packed by Rosado.
+Eat to recover 20 HP.</original>
+			<edited>Leftovers cutely packed by Rosado.
+Eat to recover 20 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GoldmaryBento" offset="00" relocatable="true" max_length="0">
+			<original>Goldmary's Meal</original>
+			<edited>Goldmary's Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GoldmaryBento" offset="00" relocatable="true" max_length="0">
+			<original>Leftovers immaculately packed by
+Goldmary. Eat to recover 20 HP.</original>
+			<edited>Leftovers immaculately packed by
+Goldmary. Eat to recover 20 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_MisutiraBento" offset="00" relocatable="true" max_length="0">
+			<original>Timerra's Meal</original>
+			<edited>Timerra's Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_MisutiraBento" offset="00" relocatable="true" max_length="0">
+			<original>Leftovers discordantly packed by
+Timerra. Eat to recover 20 HP.</original>
+			<edited>Leftovers discordantly packed by
+Timerra. Eat to recover 20 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_MerinBento" offset="00" relocatable="true" max_length="0">
+			<original>Merrin's Meal</original>
+			<edited>Merrin's Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_MerinBento" offset="00" relocatable="true" max_length="0">
+			<original>Leftovers coolly packed by Merrin.
+Eat to recover 20 HP.</original>
+			<edited>Leftovers coolly packed by Merrin.
+Eat to recover 20 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_PanetoneBento" offset="00" relocatable="true" max_length="0">
+			<original>Panette's Meal</original>
+			<edited>Panette's Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_PanetoneBento" offset="00" relocatable="true" max_length="0">
+			<original>Leftovers oddly packed by Panette.
+Eat to recover 20 HP.</original>
+			<edited>Leftovers oddly packed by Panette.
+Eat to recover 20 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FogatoBento" offset="00" relocatable="true" max_length="0">
+			<original>Fogado's Meal</original>
+			<edited>Fogado's Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FogatoBento" offset="00" relocatable="true" max_length="0">
+			<original>Leftovers nonchalantly packed by
+Fogado. Eat to recover 20 HP.</original>
+			<edited>Leftovers nonchalantly packed by
+Fogado. Eat to recover 20 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_PandoroBento" offset="00" relocatable="true" max_length="0">
+			<original>Pandreo's Meal</original>
+			<edited>Pandreo's Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_PandoroBento" offset="00" relocatable="true" max_length="0">
+			<original>Leftovers affably packed by
+Pandreo. Eat to recover 20 HP.</original>
+			<edited>Leftovers affably packed by
+Pandreo. Eat to recover 20 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_BonetBento" offset="00" relocatable="true" max_length="0">
+			<original>Bunet's Meal</original>
+			<edited>Bunet's Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_BonetBento" offset="00" relocatable="true" max_length="0">
+			<original>Leftovers expertly packed by Bunet.
+Eat to recover 20 HP.</original>
+			<edited>Leftovers expertly packed by Bunet.
+Eat to recover 20 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_AnnaBento" offset="00" relocatable="true" max_length="0">
+			<original>Anna's Meal</original>
+			<edited>Anna's Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_AnnaBento" offset="00" relocatable="true" max_length="0">
+			<original>Leftovers economically packed by
+Anna. Eat to recover 20 HP.</original>
+			<edited>Leftovers economically packed by
+Anna. Eat to recover 20 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_JeanBento" offset="00" relocatable="true" max_length="0">
+			<original>Jean's Meal</original>
+			<edited>Jean's Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_JeanBento" offset="00" relocatable="true" max_length="0">
+			<original>Leftovers thoroughly packed by
+Jean. Eat to recover 20 HP.</original>
+			<edited>Leftovers thoroughly packed by
+Jean. Eat to recover 20 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_YunakaBento" offset="00" relocatable="true" max_length="0">
+			<original>Yunaka's Meal</original>
+			<edited>Yunaka's Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_YunakaBento" offset="00" relocatable="true" max_length="0">
+			<original>Leftovers carefully packed by
+Yunaka. Eat to recover 20 HP.</original>
+			<edited>Leftovers carefully packed by
+Yunaka. Eat to recover 20 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SeadasBento" offset="00" relocatable="true" max_length="0">
+			<original>Seadall's Meal</original>
+			<edited>Seadall's Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SeadasBento" offset="00" relocatable="true" max_length="0">
+			<original>Leftovers prophetically packed by
+Seadall. Eat to recover 20 HP.</original>
+			<edited>Leftovers prophetically packed by
+Seadall. Eat to recover 20 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_LindenBento" offset="00" relocatable="true" max_length="0">
+			<original>Lindon's Meal</original>
+			<edited>Lindon's Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_LindenBento" offset="00" relocatable="true" max_length="0">
+			<original>Leftovers creatively packed by
+Lindon. Eat to recover 20 HP.</original>
+			<edited>Leftovers creatively packed by
+Lindon. Eat to recover 20 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SaphirBento" offset="00" relocatable="true" max_length="0">
+			<original>Saphir's Meal</original>
+			<edited>Saphir's Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SaphirBento" offset="00" relocatable="true" max_length="0">
+			<original>Leftovers neatly packed by Saphir.
+Eat to recover 20 HP.</original>
+			<edited>Leftovers neatly packed by Saphir.
+Eat to recover 20 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_VeyreBento" offset="00" relocatable="true" max_length="0">
+			<original>Veyle's Meal</original>
+			<edited>Veyle's Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_VeyreBento" offset="00" relocatable="true" max_length="0">
+			<original>Leftovers lovingly packed by Veyle.
+Eat to recover 20 HP.</original>
+			<edited>Leftovers lovingly packed by Veyle.
+Eat to recover 20 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_MauveBento" offset="00" relocatable="true" max_length="0">
+			<original>Mauvier's Meal</original>
+			<edited>Mauvier's Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_MauveBento" offset="00" relocatable="true" max_length="0">
+			<original>Leftovers meticulously packed by
+Mauvier. Eat to recover 20 HP.</original>
+			<edited>Leftovers meticulously packed by
+Mauvier. Eat to recover 20 HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_DROPITEM_MONEY" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x7;&#x0;G</original>
+			<edited>&#xE;&#x1;&#x7;&#x0;G</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_MONEY" offset="00" relocatable="true" max_length="0">
+			<original>The currency of Elyos.</original>
+			<edited>The currency of Elyos.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Beef" offset="00" relocatable="true" max_length="0">
+			<original>Beef</original>
+			<edited>Beef</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Beef" offset="00" relocatable="true" max_length="0">
+			<original>Robust red meat from a cow. Brodia
+exports a deluxe brand that comes
+with a hefty price tag.</original>
+			<edited>Robust red meat from a cow. Brodia
+exports a deluxe brand that comes
+with a hefty price tag.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Pork" offset="00" relocatable="true" max_length="0">
+			<original>Pork</original>
+			<edited>Pork</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Pork" offset="00" relocatable="true" max_length="0">
+			<original>Meat from a pig. This common meat
+is popular due to its availability and
+low cost.</original>
+			<edited>Meat from a pig. This common meat
+is popular due to its availability and
+low cost.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Chicken" offset="00" relocatable="true" max_length="0">
+			<original>Chicken</original>
+			<edited>Chicken</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Chicken" offset="00" relocatable="true" max_length="0">
+			<original>This meat is said to be an efficient
+source of nutrients for building
+muscle.</original>
+			<edited>This meat is said to be an efficient
+source of nutrients for building
+muscle.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Mutton" offset="00" relocatable="true" max_length="0">
+			<original>Mutton</original>
+			<edited>Mutton</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Mutton" offset="00" relocatable="true" max_length="0">
+			<original>Sheep meat with a distinctive aroma.
+People either love it or hate it.</original>
+			<edited>Sheep meat with a distinctive aroma.
+People either love it or hate it.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Onion" offset="00" relocatable="true" max_length="0">
+			<original>Onion</original>
+			<edited>Onion</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Onion" offset="00" relocatable="true" max_length="0">
+			<original>A vegetable found in the Somniel
+garden. It doesn't do well in heat,
+but it thrives in cold weather.</original>
+			<edited>A vegetable found in the Somniel
+garden. It doesn't do well in heat,
+but it thrives in cold weather.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Cabbage" offset="00" relocatable="true" max_length="0">
+			<original>Cabbage</original>
+			<edited>Cabbage</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Cabbage" offset="00" relocatable="true" max_length="0">
+			<original>A vegetable found in the Somniel
+garden. It tastes slightly sweet when
+eaten raw.</original>
+			<edited>A vegetable found in the Somniel
+garden. It tastes slightly sweet when
+eaten raw.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Herb" offset="00" relocatable="true" max_length="0">
+			<original>Herb</original>
+			<edited>Herb</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Herb" offset="00" relocatable="true" max_length="0">
+			<original>An aromatic culinary addition that
+improves taste or adds an attractive
+garnish.</original>
+			<edited>An aromatic culinary addition that
+improves taste or adds an attractive
+garnish.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Tomato" offset="00" relocatable="true" max_length="0">
+			<original>Tomato</original>
+			<edited>Tomato</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Tomato" offset="00" relocatable="true" max_length="0">
+			<original>A popular vegetable most commonly
+grown in Firene, where they grow
+many appealing varieties.</original>
+			<edited>A popular vegetable most commonly
+grown in Firene, where they grow
+many appealing varieties.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Potato" offset="00" relocatable="true" max_length="0">
+			<original>Potato</original>
+			<edited>Potato</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Potato" offset="00" relocatable="true" max_length="0">
+			<original>Grown in Firene, Solm, and Brodia.
+This vegetable eased the postwar
+famine a thousand years ago.</original>
+			<edited>Grown in Firene, Solm, and Brodia.
+This vegetable eased the postwar
+famine a thousand years ago.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_RareVagetable" offset="00" relocatable="true" max_length="0">
+			<original>Rare Vegetable</original>
+			<edited>Rare Vegetable</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_RareVagetable" offset="00" relocatable="true" max_length="0">
+			<original>A strange vegetable said to bring
+good fortune. It grows in very few
+places, and it cannot be cultivated.</original>
+			<edited>A strange vegetable said to bring
+good fortune. It grows in very few
+places, and it cannot be cultivated.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Wheat" offset="00" relocatable="true" max_length="0">
+			<original>Wheat Flour</original>
+			<edited>Wheat Flour</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Wheat" offset="00" relocatable="true" max_length="0">
+			<original>A common kitchen staple found in
+all manner of foods.</original>
+			<edited>A common kitchen staple found in
+all manner of foods.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Apple" offset="00" relocatable="true" max_length="0">
+			<original>Apple</original>
+			<edited>Apple</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Apple" offset="00" relocatable="true" max_length="0">
+			<original>A fruit found in the Somniel orchard.
+Popular since ancient times, it also
+appears in various fairy tales.</original>
+			<edited>A fruit found in the Somniel orchard.
+Popular since ancient times, it also
+appears in various fairy tales.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Orange" offset="00" relocatable="true" max_length="0">
+			<original>Orange</original>
+			<edited>Orange</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Orange" offset="00" relocatable="true" max_length="0">
+			<original>The most common fruit in Firene. It
+is a Firenese specialty and does not
+grow anywhere else.</original>
+			<edited>The most common fruit in Firene. It
+is a Firenese specialty and does not
+grow anywhere else.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Peach" offset="00" relocatable="true" max_length="0">
+			<original>Peach</original>
+			<edited>Peach</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Peach" offset="00" relocatable="true" max_length="0">
+			<original>A soft and delicious fruit grown
+exclusively in the Somniel orchard.
+It used to be gifted to visiting royals.</original>
+			<edited>A soft and delicious fruit grown
+exclusively in the Somniel orchard.
+It used to be gifted to visiting royals.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Grape" offset="00" relocatable="true" max_length="0">
+			<original>Grapes</original>
+			<edited>Grapes</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Grape" offset="00" relocatable="true" max_length="0">
+			<original>A fruit found in the Somniel orchard.
+It grows in bunches, so it is often
+shared in groups.</original>
+			<edited>A fruit found in the Somniel orchard.
+It grows in bunches, so it is often
+shared in groups.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Berry" offset="00" relocatable="true" max_length="0">
+			<original>Berries</original>
+			<edited>Berries</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Berry" offset="00" relocatable="true" max_length="0">
+			<original>A small fruit that grows in many
+regions. It is a familiar snack for the
+people of Firene and Brodia.</original>
+			<edited>A small fruit that grows in many
+regions. It is a familiar snack for the
+people of Firene and Brodia.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_RareFruit" offset="00" relocatable="true" max_length="0">
+			<original>Rare Fruit</original>
+			<edited>Rare Fruit</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_RareFruit" offset="00" relocatable="true" max_length="0">
+			<original>A fruit found in very few regions.
+Sometimes called "ghost fruit" as the
+tree dies after a single season.</original>
+			<edited>A fruit found in very few regions.
+Sometimes called "ghost fruit" as the
+tree dies after a single season.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Nuts" offset="00" relocatable="true" max_length="0">
+			<original>Nuts</original>
+			<edited>Nuts</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Nuts" offset="00" relocatable="true" max_length="0">
+			<original>A label used for all common tree
+nuts. Some are dried and some are
+very small.</original>
+			<edited>A label used for all common tree
+nuts. Some are dried and some are
+very small.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Herring" offset="00" relocatable="true" max_length="0">
+			<original>Herring</original>
+			<edited>Herring</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Herring" offset="00" relocatable="true" max_length="0">
+			<original>Samian herring that has been
+prepared for cooking.</original>
+			<edited>Samian herring that has been
+prepared for cooking.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Carp" offset="00" relocatable="true" max_length="0">
+			<original>Carp</original>
+			<edited>Carp</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Carp" offset="00" relocatable="true" max_length="0">
+			<original>Caria carp that has been prepared
+for cooking.</original>
+			<edited>Caria carp that has been prepared
+for cooking.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Salmon" offset="00" relocatable="true" max_length="0">
+			<original>Salmon</original>
+			<edited>Salmon</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Salmon" offset="00" relocatable="true" max_length="0">
+			<original>Tipa salmon that has been prepared
+for cooking.</original>
+			<edited>Tipa salmon that has been prepared
+for cooking.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Cod" offset="00" relocatable="true" max_length="0">
+			<original>Cod</original>
+			<edited>Cod</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Cod" offset="00" relocatable="true" max_length="0">
+			<original>Valcamonic cod that has been
+prepared for cooking.</original>
+			<edited>Valcamonic cod that has been
+prepared for cooking.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Eel" offset="00" relocatable="true" max_length="0">
+			<original>Eel</original>
+			<edited>Eel</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Eel" offset="00" relocatable="true" max_length="0">
+			<original>Myceen eel that has been prepared
+for cooking.</original>
+			<edited>Myceen eel that has been prepared
+for cooking.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Sardine" offset="00" relocatable="true" max_length="0">
+			<original>Sardines</original>
+			<edited>Sardines</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Sardine" offset="00" relocatable="true" max_length="0">
+			<original>Big-eyed sardines that have been
+prepared for cooking.</original>
+			<edited>Big-eyed sardines that have been
+prepared for cooking.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_MincedFish" offset="00" relocatable="true" max_length="0">
+			<original>Minced Fish</original>
+			<edited>Minced Fish</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_MincedFish" offset="00" relocatable="true" max_length="0">
+			<original>Fish chopped into small pieces.</original>
+			<edited>Fish chopped into small pieces.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_DriedFish" offset="00" relocatable="true" max_length="0">
+			<original>Dried Fish</original>
+			<edited>Dried Fish</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_DriedFish" offset="00" relocatable="true" max_length="0">
+			<original>A whole dried fish that has been
+prepared for cooking.</original>
+			<edited>A whole dried fish that has been
+prepared for cooking.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SlicedRawFish" offset="00" relocatable="true" max_length="0">
+			<original>Sashimi</original>
+			<edited>Sashimi</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SlicedRawFish" offset="00" relocatable="true" max_length="0">
+			<original>Fresh fish sliced into elegant pieces.</original>
+			<edited>Fresh fish sliced into elegant pieces.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_RareFish" offset="00" relocatable="true" max_length="0">
+			<original>Rare Fish</original>
+			<edited>Rare Fish</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_RareFish" offset="00" relocatable="true" max_length="0">
+			<original>Unusual fish found in the Somniel
+pond and prepared for cooking. It is
+rich in healthy nutrients.</original>
+			<edited>Unusual fish found in the Somniel
+pond and prepared for cooking. It is
+rich in healthy nutrients.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Milk" offset="00" relocatable="true" max_length="0">
+			<original>Milk</original>
+			<edited>Milk</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Milk" offset="00" relocatable="true" max_length="0">
+			<original>Dairy from animals such as cows,
+goats, and sheep.</original>
+			<edited>Dairy from animals such as cows,
+goats, and sheep.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Egg" offset="00" relocatable="true" max_length="0">
+			<original>Eggs</original>
+			<edited>Eggs</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Egg" offset="00" relocatable="true" max_length="0">
+			<original>A popular ingredient produced by
+a bird.</original>
+			<edited>A popular ingredient produced by
+a bird.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Rice" offset="00" relocatable="true" max_length="0">
+			<original>Rice</original>
+			<edited>Rice</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Rice" offset="00" relocatable="true" max_length="0">
+			<original>A common refined grain.</original>
+			<edited>A common refined grain.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Bean" offset="00" relocatable="true" max_length="0">
+			<original>Beans</original>
+			<edited>Beans</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Bean" offset="00" relocatable="true" max_length="0">
+			<original>Plant seeds used in cooking. They
+come in a variety of shapes and 
+sizes.</original>
+			<edited>Plant seeds used in cooking. They
+come in a variety of shapes and 
+sizes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Spice" offset="00" relocatable="true" max_length="0">
+			<original>Spices</original>
+			<edited>Spices</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Spice" offset="00" relocatable="true" max_length="0">
+			<original>Seasoning extracted from plants. 
+Commonly used in cooking to adjust
+aroma, flavor, and color.</original>
+			<edited>Seasoning extracted from plants. 
+Commonly used in cooking to adjust
+aroma, flavor, and color.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_RareFoodstuffs" offset="00" relocatable="true" max_length="0">
+			<original>Topping</original>
+			<edited>Topping</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_TeaLeaf" offset="00" relocatable="true" max_length="0">
+			<original>Tea Leaves</original>
+			<edited>Tea Leaves</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_TeaLeaf" offset="00" relocatable="true" max_length="0">
+			<original>An artisan fills each tea bag by hand
+with freshly plucked leaves. Favored
+by fans of tea parties and cooking.</original>
+			<edited>An artisan fills each tea bag by hand
+with freshly plucked leaves. Favored
+by fans of tea parties and cooking.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_DriedMeat" offset="00" relocatable="true" max_length="0">
+			<original>Dried Meat</original>
+			<edited>Dried Meat</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_DriedMeat" offset="00" relocatable="true" max_length="0">
+			<original>A well-aged dried meat popular as a
+portable snack. Favored by fans of
+meat and folk food.</original>
+			<edited>A well-aged dried meat popular as a
+portable snack. Favored by fans of
+meat and folk food.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Yogurt" offset="00" relocatable="true" max_length="0">
+			<original>Yogurt</original>
+			<edited>Yogurt</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Yogurt" offset="00" relocatable="true" max_length="0">
+			<original>Made with the milk of select alpacas,
+one bite will transport you to green 
+pastures. Favored by fans of dairy.</original>
+			<edited>Made with the milk of select alpacas,
+one bite will transport you to green 
+pastures. Favored by fans of dairy.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GrilledPotato" offset="00" relocatable="true" max_length="0">
+			<original>Roasted Yam</original>
+			<edited>Roasted Yam</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_GrilledPotato" offset="00" relocatable="true" max_length="0">
+			<original>Roasted in the open fire and made
+without seasoning to bring out its
+flavor. Favored by fans of yams.</original>
+			<edited>Roasted in the open fire and made
+without seasoning to bring out its
+flavor. Favored by fans of yams.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_WeightStone" offset="00" relocatable="true" max_length="0">
+			<original>Training Weight</original>
+			<edited>Training Weight</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_WeightStone" offset="00" relocatable="true" max_length="0">
+			<original>A stone weight that can be held by
+hand or tied to the leg. Favored by
+fans of training and exercise.</original>
+			<edited>A stone weight that can be held by
+hand or tied to the leg. Favored by
+fans of training and exercise.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_MuscleBuilder" offset="00" relocatable="true" max_length="0">
+			<original>Muscle Balm</original>
+			<edited>Muscle Balm</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_MuscleBuilder" offset="00" relocatable="true" max_length="0">
+			<original>Apply to muscles after working out
+to avoid soreness. Favored by fans
+of training and exercise.</original>
+			<edited>Apply to muscles after working out
+to avoid soreness. Favored by fans
+of training and exercise.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Actinidia" offset="00" relocatable="true" max_length="0">
+			<original>Animal Treats</original>
+			<edited>Animal Treats</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Actinidia" offset="00" relocatable="true" max_length="0">
+			<original>A tightly sealed bottle of pungent
+treats that will draw all kinds of
+creatures. Favored by animal fans.</original>
+			<edited>A tightly sealed bottle of pungent
+treats that will draw all kinds of
+creatures. Favored by animal fans.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Chisel" offset="00" relocatable="true" max_length="0">
+			<original>Sharp Chisel</original>
+			<edited>Sharp Chisel</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Chisel" offset="00" relocatable="true" max_length="0">
+			<original>A tool used to carve intricate designs
+on wood. Favored by fans of crafting
+and weapons.</original>
+			<edited>A tool used to carve intricate designs
+on wood. Favored by fans of crafting
+and weapons.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FairyTaleBook" offset="00" relocatable="true" max_length="0">
+			<original>Fairy-Tale Book</original>
+			<edited>Fairy-Tale Book</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FairyTaleBook" offset="00" relocatable="true" max_length="0">
+			<original>A picture book containing many
+short and wondrous tales. Favored
+by fans of reading and fairy tales.</original>
+			<edited>A picture book containing many
+short and wondrous tales. Favored
+by fans of reading and fairy tales.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_PoetryCollection" offset="00" relocatable="true" max_length="0">
+			<original>Poetry Book</original>
+			<edited>Poetry Book</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_PoetryCollection" offset="00" relocatable="true" max_length="0">
+			<original>A diverse book of poetry including
+submissions from the public. Favored
+by fans of reading and daydreaming.</original>
+			<edited>A diverse book of poetry including
+submissions from the public. Favored
+by fans of reading and daydreaming.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_PhilosophyBook" offset="00" relocatable="true" max_length="0">
+			<original>Philosophy Book</original>
+			<edited>Philosophy Book</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_PhilosophyBook" offset="00" relocatable="true" max_length="0">
+			<original>A complex introductory text for
+students of reason and meaning.
+Favored by fans of studying.</original>
+			<edited>A complex introductory text for
+students of reason and meaning.
+Favored by fans of studying.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Bible" offset="00" relocatable="true" max_length="0">
+			<original>Dragon Scripture</original>
+			<edited>Dragon Scripture</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Bible" offset="00" relocatable="true" max_length="0">
+			<original>Scripture written by Divine Dragon
+worshippers passed down through
+the ages. Favored by pious believers.</original>
+			<edited>Scripture written by Divine Dragon
+worshippers passed down through
+the ages. Favored by pious believers.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_HistoryBook" offset="00" relocatable="true" max_length="0">
+			<original>Elyos History</original>
+			<edited>Elyos History</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_HistoryBook" offset="00" relocatable="true" max_length="0">
+			<original>A thick book detailing the history of
+Elyos and its regions. Favored by
+fans of reading and studying.</original>
+			<edited>A thick book detailing the history of
+Elyos and its regions. Favored by
+fans of reading and studying.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Perfume" offset="00" relocatable="true" max_length="0">
+			<original>Strong Perfume</original>
+			<edited>Strong Perfume</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Perfume" offset="00" relocatable="true" max_length="0">
+			<original>A small bottle of perfume made from
+the essence of fruit and flowers.
+Favored by fans of fashion.</original>
+			<edited>A small bottle of perfume made from
+the essence of fruit and flowers.
+Favored by fans of fashion.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_InsectCatchingNet" offset="00" relocatable="true" max_length="0">
+			<original>Butterfly Net</original>
+			<edited>Butterfly Net</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_InsectCatchingNet" offset="00" relocatable="true" max_length="0">
+			<original>A light and long-handled net made
+especially for catching bugs. Favored
+by fans of animals and bugs.</original>
+			<edited>A light and long-handled net made
+especially for catching bugs. Favored
+by fans of animals and bugs.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SunHat" offset="00" relocatable="true" max_length="0">
+			<original>Sun Visor</original>
+			<edited>Sun Visor</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SunHat" offset="00" relocatable="true" max_length="0">
+			<original>The visor protects the face and neck
+from sunburn. Favored by fans of
+exercise and walks as well.</original>
+			<edited>The visor protects the face and neck
+from sunburn. Favored by fans of
+exercise and walks as well.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Chrysanthemum" offset="00" relocatable="true" max_length="0">
+			<original>Chrysanthemum</original>
+			<edited>Chrysanthemum</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Chrysanthemum" offset="00" relocatable="true" max_length="0">
+			<original>This popular blossom is the national 
+flower of Lythos. Favored by Lythian
+fans of flowers.</original>
+			<edited>This popular blossom is the national 
+flower of Lythos. Favored by Lythian
+fans of flowers.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lentils" offset="00" relocatable="true" max_length="0">
+			<original>Lentil Flower</original>
+			<edited>Lentil Flower</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lentils" offset="00" relocatable="true" max_length="0">
+			<original>This popular blossom is the national
+flower of Firene. Favored by Firenese
+fans of flowers.</original>
+			<edited>This popular blossom is the national
+flower of Firene. Favored by Firenese
+fans of flowers.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lily" offset="00" relocatable="true" max_length="0">
+			<original>Lily</original>
+			<edited>Lily</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lily" offset="00" relocatable="true" max_length="0">
+			<original>This popular blossom is the national
+flower of Brodia. Favored by Brodian
+fans of flowers.</original>
+			<edited>This popular blossom is the national
+flower of Brodia. Favored by Brodian
+fans of flowers.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Komatsuna" offset="00" relocatable="true" max_length="0">
+			<original>Desert Marigold</original>
+			<edited>Desert Marigold</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Komatsuna" offset="00" relocatable="true" max_length="0">
+			<original>This popular blossom is the national
+flower of Solm. Favored by Solmic
+fans of flowers.</original>
+			<edited>This popular blossom is the national
+flower of Solm. Favored by Solmic
+fans of flowers.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lupinus" offset="00" relocatable="true" max_length="0">
+			<original>Lupine Flower</original>
+			<edited>Lupine Flower</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lupinus" offset="00" relocatable="true" max_length="0">
+			<original>This popular blossom is the national
+flower of Elusia. Favored by Elusian
+fans of flowers.</original>
+			<edited>This popular blossom is the national
+flower of Elusia. Favored by Elusian
+fans of flowers.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_WhiteClover" offset="00" relocatable="true" max_length="0">
+			<original>White Clover</original>
+			<edited>White Clover</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_WhiteClover" offset="00" relocatable="true" max_length="0">
+			<original>Used for cooking. With luck, one can
+be found with four leaves. Favored
+by fans of cooking and herbs.</original>
+			<edited>Used for cooking. With luck, one can
+be found with four leaves. Favored
+by fans of cooking and herbs.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Horn" offset="00" relocatable="true" max_length="0">
+			<original>Horn</original>
+			<edited>Horn</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Horn" offset="00" relocatable="true" max_length="0">
+			<original>A hollow animal horn that makes a
+loud noise. Has no holes for playing
+notes. Favored by fans of music.</original>
+			<edited>A hollow animal horn that makes a
+loud noise. Has no holes for playing
+notes. Favored by fans of music.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Wreath" offset="00" relocatable="true" max_length="0">
+			<original>Flower Wreath</original>
+			<edited>Flower Wreath</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Wreath" offset="00" relocatable="true" max_length="0">
+			<original>A handmade wreath often displayed
+on doors or walls. Favored by fans
+of flowers and cute things.</original>
+			<edited>A handmade wreath often displayed
+on doors or walls. Favored by fans
+of flowers and cute things.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Apron" offset="00" relocatable="true" max_length="0">
+			<original>Cute Apron</original>
+			<edited>Cute Apron</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Apron" offset="00" relocatable="true" max_length="0">
+			<original>A charming pink apron embellished
+with embroidery and frills. Favored
+by fans of cooking and cute things.</original>
+			<edited>A charming pink apron embellished
+with embroidery and frills. Favored
+by fans of cooking and cute things.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FishingBait" offset="00" relocatable="true" max_length="0">
+			<original>Fishing Bait</original>
+			<edited>Fishing Bait</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FishingBait" offset="00" relocatable="true" max_length="0">
+			<original>Bait to lure fish made with the most
+appetizing worms. Favored by fans
+of fishing.</original>
+			<edited>Bait to lure fish made with the most
+appetizing worms. Favored by fans
+of fishing.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_MultiFunctionKnife" offset="00" relocatable="true" max_length="0">
+			<original>Utility Knife</original>
+			<edited>Utility Knife</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_MultiFunctionKnife" offset="00" relocatable="true" max_length="0">
+			<original>A handy tool that includes a knife,
+scissors, etc. Favored by fans of
+crafting, weapons, and cool things.</original>
+			<edited>A handy tool that includes a knife,
+scissors, etc. Favored by fans of
+crafting, weapons, and cool things.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_WoodCarvingBear" offset="00" relocatable="true" max_length="0">
+			<original>Bear Carving</original>
+			<edited>Bear Carving</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_WoodCarvingBear" offset="00" relocatable="true" max_length="0">
+			<original>The realistic details make this
+wooden ornament shine. Favored by
+fans of animals and cute things.</original>
+			<edited>The realistic details make this
+wooden ornament shine. Favored by
+fans of animals and cute things.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SewingKit" offset="00" relocatable="true" max_length="0">
+			<original>Sewing Kit</original>
+			<edited>Sewing Kit</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SewingKit" offset="00" relocatable="true" max_length="0">
+			<original>This compact, well-organized sewing
+kit is handy in a pinch. Favored by
+fans of sewing and knitting.</original>
+			<edited>This compact, well-organized sewing
+kit is handy in a pinch. Favored by
+fans of sewing and knitting.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SheepYarnBall" offset="00" relocatable="true" max_length="0">
+			<original>Sheep Wool</original>
+			<edited>Sheep Wool</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SheepYarnBall" offset="00" relocatable="true" max_length="0">
+			<original>A soft ball of yarn spun from the 
+fresh wool of young sheep. Favored
+by fans of sewing and knitting.</original>
+			<edited>A soft ball of yarn spun from the 
+fresh wool of young sheep. Favored
+by fans of sewing and knitting.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Handkerchief" offset="00" relocatable="true" max_length="0">
+			<original>Quality Kerchief</original>
+			<edited>Quality Kerchief</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Handkerchief" offset="00" relocatable="true" max_length="0">
+			<original>A fancy handkerchief made from
+shiny, hand-woven cloth. Favored by
+fans of luxury, cleaning, and fashion.</original>
+			<edited>A fancy handkerchief made from
+shiny, hand-woven cloth. Favored by
+fans of luxury, cleaning, and fashion.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_QuillPen" offset="00" relocatable="true" max_length="0">
+			<original>Fine Quill Pen</original>
+			<edited>Fine Quill Pen</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_QuillPen" offset="00" relocatable="true" max_length="0">
+			<original>A one-of-a-kind quill pen made from
+a rare bird's feather. Favored by fans
+of luxury, studying, and writing.</original>
+			<edited>A one-of-a-kind quill pen made from
+a rare bird's feather. Favored by fans
+of luxury, studying, and writing.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_DecorativeDagger" offset="00" relocatable="true" max_length="0">
+			<original>Fancy Dagger</original>
+			<edited>Fancy Dagger</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_DecorativeDagger" offset="00" relocatable="true" max_length="0">
+			<original>A decorative dagger with a finely 
+wrought haft and sheath. Favored
+by fans of weapons.</original>
+			<edited>A decorative dagger with a finely 
+wrought haft and sheath. Favored
+by fans of weapons.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_KazunoEarrings" offset="00" relocatable="true" max_length="0">
+			<original>Antler Earrings</original>
+			<edited>Antler Earrings</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_KazunoEarrings" offset="00" relocatable="true" max_length="0">
+			<original>These eco-friendly earrings made
+from antlers shed by deer are popular
+in Solm. Favored by fans of fashion.</original>
+			<edited>These eco-friendly earrings made
+from antlers shed by deer are popular
+in Solm. Favored by fans of fashion.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_PlayingCards" offset="00" relocatable="true" max_length="0">
+			<original>Playing Cards</original>
+			<edited>Playing Cards</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_PlayingCards" offset="00" relocatable="true" max_length="0">
+			<original>Picture cards used for various group 
+games. Favored by children and fans
+of parties and games.</original>
+			<edited>Picture cards used for various group 
+games. Favored by children and fans
+of parties and games.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SpicySeasoning" offset="00" relocatable="true" max_length="0">
+			<original>Spicy Seasonings</original>
+			<edited>Spicy Seasonings</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SpicySeasoning" offset="00" relocatable="true" max_length="0">
+			<original>Very spicy powdered red seeds that
+can add a kick to any dish. Favored
+by fans of spicy food and folk food.</original>
+			<edited>Very spicy powdered red seeds that
+can add a kick to any dish. Favored
+by fans of spicy food and folk food.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_LandscapePostcard" offset="00" relocatable="true" max_length="0">
+			<original>Landscape Art</original>
+			<edited>Landscape Art</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_LandscapePostcard" offset="00" relocatable="true" max_length="0">
+			<original>A postcard depicting a beautiful
+landscape. There's space to write a
+note. Favored by fans of nature.</original>
+			<edited>A postcard depicting a beautiful
+landscape. There's space to write a
+note. Favored by fans of nature.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Candle" offset="00" relocatable="true" max_length="0">
+			<original>Lovely Candle</original>
+			<edited>Lovely Candle</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Candle" offset="00" relocatable="true" max_length="0">
+			<original>An exclusive candle etched by hand
+with an elaborate design. Favored by
+fans of fashion, luxury, and parties.</original>
+			<edited>An exclusive candle etched by hand
+with an elaborate design. Favored by
+fans of fashion, luxury, and parties.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_CreaturePictureBook" offset="00" relocatable="true" max_length="0">
+			<original>Field Guide</original>
+			<edited>Field Guide</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_CreaturePictureBook" offset="00" relocatable="true" max_length="0">
+			<original>A thick encyclopedia detailing all
+kinds of creatures. Favored by fans
+of animals and bugs.</original>
+			<edited>A thick encyclopedia detailing all
+kinds of creatures. Favored by fans
+of animals and bugs.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SuspiciousPaper" offset="00" relocatable="true" max_length="0">
+			<original>Spooky Scroll</original>
+			<edited>Spooky Scroll</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SuspiciousPaper" offset="00" relocatable="true" max_length="0">
+			<original>A rolled-up parchment inscribed with
+weird symbols to ward off spirits.
+Favored by fans of scary stories.</original>
+			<edited>A rolled-up parchment inscribed with
+weird symbols to ward off spirits.
+Favored by fans of scary stories.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_BigDish" offset="00" relocatable="true" max_length="0">
+			<original>Large Plate</original>
+			<edited>Large Plate</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_BigDish" offset="00" relocatable="true" max_length="0">
+			<original>A large and practical plate that holds
+food for multiple people. Favored by
+fans of cooking and parties.</original>
+			<edited>A large and practical plate that holds
+food for multiple people. Favored by
+fans of cooking and parties.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Bandage" offset="00" relocatable="true" max_length="0">
+			<original>Bandages</original>
+			<edited>Bandages</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Bandage" offset="00" relocatable="true" max_length="0">
+			<original>Mainly used for tending wounds or
+bracing joints and muscles to prevent
+injury. Favored by fans of training.</original>
+			<edited>Mainly used for tending wounds or
+bracing joints and muscles to prevent
+injury. Favored by fans of training.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_BeautifulStones" offset="00" relocatable="true" max_length="0">
+			<original>Pretty Pebble</original>
+			<edited>Pretty Pebble</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_BeautifulStones" offset="00" relocatable="true" max_length="0">
+			<original>A round, smooth, and pretty rock
+found lying on the ground.</original>
+			<edited>A round, smooth, and pretty rock
+found lying on the ground.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SoraJewelry" offset="00" relocatable="true" max_length="0">
+			<original>Spirit Gem</original>
+			<edited>Spirit Gem</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SoraJewelry" offset="00" relocatable="true" max_length="0">
+			<original>A gem that shines with many colors.
+Found only in the Somniel, especially
+near &#xE;&#x6;&#x5;&#x0;. Favored by all.</original>
+			<edited>A gem that shines with many colors.
+Found only in the Somniel, especially
+near &#xE;&#x6;&#x5;&#x0;. Favored by all.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_HorseManure" offset="00" relocatable="true" max_length="0">
+			<original>Horse Manure</original>
+			<edited>Horse Manure</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_HorseManure" offset="00" relocatable="true" max_length="0">
+			<original>Ordinary horse manure. That's it.
+You could technically give it to
+someone, but why would you?</original>
+			<edited>Ordinary horse manure. That's it.
+You could technically give it to
+someone, but why would you?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FishingRod_Smoll" offset="00" relocatable="true" max_length="0">
+			<original>Modest Rod</original>
+			<edited>Modest Rod</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FishingRod_Smoll" offset="00" relocatable="true" max_length="0">
+			<original>A simple rod suited for catching
+small fish. Its lack of flexibility lets
+you catch fish with less force.</original>
+			<edited>A simple rod suited for catching
+small fish. Its lack of flexibility lets
+you catch fish with less force.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FishingRod_Normal" offset="00" relocatable="true" max_length="0">
+			<original>Sturdy Rod</original>
+			<edited>Sturdy Rod</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FishingRod_Normal" offset="00" relocatable="true" max_length="0">
+			<original>An advanced rod suited for catching
+mid-sized fish. The rod bends when
+heavy fish bite so it will not break.</original>
+			<edited>An advanced rod suited for catching
+mid-sized fish. The rod bends when
+heavy fish bite so it will not break.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_FishingRod_AllPurpose" offset="00" relocatable="true" max_length="0">
+			<original>Supreme Rod</original>
+			<edited>Supreme Rod</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_FishingRod_AllPurpose" offset="00" relocatable="true" max_length="0">
+			<original>A powerful rod that can handle any
+large fish. Small fish won't even bite.
+Built exclusively for master anglers.</original>
+			<edited>A powerful rod that can handle any
+large fish. Small fish won't even bite.
+Built exclusively for master anglers.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Marth_Rapier" offset="00" relocatable="true" max_length="0">
+			<original>Rapier</original>
+			<edited>Rapier</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Marth_Rapier" offset="00" relocatable="true" max_length="0">
+			<original>Sword wielded by Emblem Marth.
+Effective: Cavalry, Armored.</original>
+			<edited>Sword wielded by Emblem Marth.
+Effective: Cavalry, Armored.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Marth_Mericle" offset="00" relocatable="true" max_length="0">
+			<original>Mercurius</original>
+			<edited>Mercurius</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Marth_Mericle" offset="00" relocatable="true" max_length="0">
+			<original>Sword wielded by Emblem Marth.
+Doubles user's earned experience.</original>
+			<edited>Sword wielded by Emblem Marth.
+Doubles user's earned experience.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Marth_Falchion" offset="00" relocatable="true" max_length="0">
+			<original>Falchion</original>
+			<edited>Falchion</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Marth_Falchion_M000" offset="00" relocatable="true" max_length="0">
+			<original>An exalted legendary weapon.
+Effective: Dragon.</original>
+			<edited>An exalted legendary weapon.
+Effective: Dragon.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Marth_Falchion" offset="00" relocatable="true" max_length="0">
+			<original>Sacred sword wielded by Emblem
+Marth. Effective: Dragon.</original>
+			<edited>Sacred sword wielded by Emblem
+Marth. Effective: Dragon.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Siglud_RiderKiller" offset="00" relocatable="true" max_length="0">
+			<original>Ridersbane</original>
+			<edited>Ridersbane</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Siglud_RiderKiller" offset="00" relocatable="true" max_length="0">
+			<original>Lance wielded by Emblem Sigurd.
+Effective: Cavalry.</original>
+			<edited>Lance wielded by Emblem Sigurd.
+Effective: Cavalry.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Siglud_BraveLance" offset="00" relocatable="true" max_length="0">
+			<original>Brave Lance</original>
+			<edited>Brave Lance</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Siglud_BraveLance" offset="00" relocatable="true" max_length="0">
+			<original>Lance wielded by Emblem Sigurd.
+If user initiates combat, attacks
+twice.</original>
+			<edited>Lance wielded by Emblem Sigurd.
+If user initiates combat, attacks
+twice.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Siglud_Tyrfing" offset="00" relocatable="true" max_length="0">
+			<original>Tyrfing</original>
+			<edited>Tyrfing</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Siglud_Tyrfing" offset="00" relocatable="true" max_length="0">
+			<original>Sword wielded by Emblem Sigurd.
+Grants Res+5.</original>
+			<edited>Sword wielded by Emblem Sigurd.
+Grants Res+5.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Siglud_Tyrfing_Normal" offset="00" relocatable="true" max_length="0">
+			<original>Sword wielded by Emblem Sigurd.</original>
+			<edited>Sword wielded by Emblem Sigurd.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Celica_Angel" offset="00" relocatable="true" max_length="0">
+			<original>Seraphim</original>
+			<edited>Seraphim</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Celica_Angel" offset="00" relocatable="true" max_length="0">
+			<original>Holy tome wielded by Emblem
+Celica. Effective: Corrupted.</original>
+			<edited>Holy tome wielded by Emblem
+Celica. Effective: Corrupted.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Celica_Recovery" offset="00" relocatable="true" max_length="0">
+			<original>Recover</original>
+			<edited>Recover</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Celica_Recovery" offset="00" relocatable="true" max_length="0">
+			<original>Staff wielded by Emblem Celica.
+Recovers a great deal of HP.</original>
+			<edited>Staff wielded by Emblem Celica.
+Recovers a great deal of HP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Celica_Ragnarok" offset="00" relocatable="true" max_length="0">
+			<original>Ragnarok</original>
+			<edited>Ragnarok</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Celica_Ragnarok" offset="00" relocatable="true" max_length="0">
+			<original>Mighty fire tome wielded by Emblem
+Celica.</original>
+			<edited>Mighty fire tome wielded by Emblem
+Celica.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Micaiah_Shine" offset="00" relocatable="true" max_length="0">
+			<original>Shine</original>
+			<edited>Shine</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Micaiah_Shine" offset="00" relocatable="true" max_length="0">
+			<original>Light tome wielded by Emblem
+Micaiah. Illuminates a 5-space radius
+(shrinks one space per turn).</original>
+			<edited>Light tome wielded by Emblem
+Micaiah. Illuminates a 5-space radius
+(shrinks one space per turn).</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Micaiah_Nosferatu" offset="00" relocatable="true" max_length="0">
+			<original>Nosferatu</original>
+			<edited>Nosferatu</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Micaiah_Nosferatu" offset="00" relocatable="true" max_length="0">
+			<original>Light tome wielded by Emblem
+Micaiah. User recovers HP equal
+to 50% of damage dealt.</original>
+			<edited>Light tome wielded by Emblem
+Micaiah. User recovers HP equal
+to 50% of damage dealt.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Micaiah_Thani" offset="00" relocatable="true" max_length="0">
+			<original>Thani</original>
+			<edited>Thani</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Micaiah_Thani" offset="00" relocatable="true" max_length="0">
+			<original>Mighty light tome wielded by
+Emblem Micaiah. Effective: Cavalry,
+Armored.</original>
+			<edited>Mighty light tome wielded by
+Emblem Micaiah. Effective: Cavalry,
+Armored.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_HandHeal" offset="00" relocatable="true" max_length="0">
+			<original>Sacrifice</original>
+			<edited>Sacrifice</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Roy_LanceBuster" offset="00" relocatable="true" max_length="0">
+			<original>Lancereaver</original>
+			<edited>Lancereaver</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Roy_LanceBuster" offset="00" relocatable="true" max_length="0">
+			<original>Unusual sword wielded by Emblem
+Roy. Grants advantage vs. lances
+but disadvantage vs. axes.</original>
+			<edited>Unusual sword wielded by Emblem
+Roy. Grants advantage vs. lances
+but disadvantage vs. axes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Roy_DragonKiller" offset="00" relocatable="true" max_length="0">
+			<original>Wyrmslayer</original>
+			<edited>Wyrmslayer</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Roy_DragonKiller" offset="00" relocatable="true" max_length="0">
+			<original>Sword wielded by Emblem Roy.
+Effective: Dragon.</original>
+			<edited>Sword wielded by Emblem Roy.
+Effective: Dragon.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Roy_BindingBlade" offset="00" relocatable="true" max_length="0">
+			<original>Binding Blade</original>
+			<edited>Binding Blade</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Roy_BindingBlade" offset="00" relocatable="true" max_length="0">
+			<original>Famous sword wielded by Emblem
+Roy. Grants Def/Res+5. Can strike
+close or at range.</original>
+			<edited>Famous sword wielded by Emblem
+Roy. Grants Def/Res+5. Can strike
+close or at range.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Leaf_KillerAxe" offset="00" relocatable="true" max_length="0">
+			<original>Killer Axe</original>
+			<edited>Killer Axe</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Leaf_KillerAxe_M008" offset="00" relocatable="true" max_length="0">
+			<original>An Emblem's axe. Easy to inflict a
+fatal wound with.</original>
+			<edited>An Emblem's axe. Easy to inflict a
+fatal wound with.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Leaf_KillerAxe" offset="00" relocatable="true" max_length="0">
+			<original>Axe wielded by Emblem Leif.
+Easily inflicts fatal wounds.</original>
+			<edited>Axe wielded by Emblem Leif.
+Easily inflicts fatal wounds.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Leaf_MasterLance" offset="00" relocatable="true" max_length="0">
+			<original>Master Lance</original>
+			<edited>Master Lance</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Leaf_MasterLance_M008" offset="00" relocatable="true" max_length="0">
+			<original>An Emblem's lance that can strike
+from a distance. If user initiates
+combat, attacks twice.</original>
+			<edited>An Emblem's lance that can strike
+from a distance. If user initiates
+combat, attacks twice.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Leaf_MasterLance" offset="00" relocatable="true" max_length="0">
+			<original>Lance wielded by Emblem Leif.
+If user initiates combat, attacks
+twice. Can strike close or at range.</original>
+			<edited>Lance wielded by Emblem Leif.
+If user initiates combat, attacks
+twice. Can strike close or at range.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Leaf_LightBrand" offset="00" relocatable="true" max_length="0">
+			<original>Light Brand</original>
+			<edited>Light Brand</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Leaf_LightBrand" offset="00" relocatable="true" max_length="0">
+			<original>Magical sword wielded by Emblem
+Leif. Grants Lck+10. Can strike
+close or at range.</original>
+			<edited>Magical sword wielded by Emblem
+Leif. Grants Lck+10. Can strike
+close or at range.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Leaf_MasterBow" offset="00" relocatable="true" max_length="0">
+			<original>Master Bow</original>
+			<edited>Master Bow</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lucina_NobleRapier" offset="00" relocatable="true" max_length="0">
+			<original>Noble Rapier</original>
+			<edited>Noble Rapier</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lucina_NobleRapier_M007" offset="00" relocatable="true" max_length="0">
+			<original>An Emblem's sword. Effective:
+Cavalry, Armored.</original>
+			<edited>An Emblem's sword. Effective:
+Cavalry, Armored.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lucina_NobleRapier" offset="00" relocatable="true" max_length="0">
+			<original>Sword wielded by Emblem Lucina.
+Effective: Cavalry, Armored.</original>
+			<edited>Sword wielded by Emblem Lucina.
+Effective: Cavalry, Armored.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lucina_Parthia" offset="00" relocatable="true" max_length="0">
+			<original>Parthia</original>
+			<edited>Parthia</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lucina_Parthia" offset="00" relocatable="true" max_length="0">
+			<original>Bow wielded by Emblem Lucina.
+Doubles user's earned experience.
+Grants Res+5. Effective: Flying.</original>
+			<edited>Bow wielded by Emblem Lucina.
+Doubles user's earned experience.
+Grants Res+5. Effective: Flying.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lucina_ParallelFalchion" offset="00" relocatable="true" max_length="0">
+			<original>Parallel Falchion</original>
+			<edited>Parallel Falchion</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lucina_ParallelFalchion" offset="00" relocatable="true" max_length="0">
+			<original>Sacred sword wielded by Emblem
+Lucina. Effective: Dragon.</original>
+			<edited>Sacred sword wielded by Emblem
+Lucina. Effective: Dragon.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lin_KillerBow" offset="00" relocatable="true" max_length="0">
+			<original>Killer Bow</original>
+			<edited>Killer Bow</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lin_KillerBow_M010" offset="00" relocatable="true" max_length="0">
+			<original>An Emblem's bow. Easy to inflict a
+fatal wound with. Effective: Flying.</original>
+			<edited>An Emblem's bow. Easy to inflict a
+fatal wound with. Effective: Flying.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lin_KillerBow" offset="00" relocatable="true" max_length="0">
+			<original>Bow wielded by Emblem Lyn.
+Easily inflicts fatal wounds.
+Effective: Flying.</original>
+			<edited>Bow wielded by Emblem Lyn.
+Easily inflicts fatal wounds.
+Effective: Flying.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lin_KillerBow_Normal" offset="00" relocatable="true" max_length="0">
+			<original>Bow wielded by Emblem Lyn.
+Effective: Flying.</original>
+			<edited>Bow wielded by Emblem Lyn.
+Effective: Flying.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lin_ManiKatti" offset="00" relocatable="true" max_length="0">
+			<original>Mani Katti</original>
+			<edited>Mani Katti</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lin_ManiKatti" offset="00" relocatable="true" max_length="0">
+			<original>Divine sword wielded by Emblem
+Lyn. Effective: Cavalry, Armored.</original>
+			<edited>Divine sword wielded by Emblem
+Lyn. Effective: Cavalry, Armored.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lin_ManiKatti_1" offset="00" relocatable="true" max_length="0">
+			<original>An Emblem's divine sword.
+Effective: Cavalry, Armored.</original>
+			<edited>An Emblem's divine sword.
+Effective: Cavalry, Armored.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lin_Myrgleis" offset="00" relocatable="true" max_length="0">
+			<original>Mulagir</original>
+			<edited>Mulagir</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lin_Myrgleis" offset="00" relocatable="true" max_length="0">
+			<original>Mighty bow wielded by Emblem Lyn.
+Grants Spd+5. Effective: Flying,
+Dragon.</original>
+			<edited>Mighty bow wielded by Emblem Lyn.
+Grants Spd+5. Effective: Flying,
+Dragon.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Ike_Hammer" offset="00" relocatable="true" max_length="0">
+			<original>Hammer</original>
+			<edited>Hammer</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Ike_Hammer" offset="00" relocatable="true" max_length="0">
+			<original>Hammer of Emblem Ike. Smashes
+foes. Cannot follow up, or strike first
+if initiating combat. Eff: Armored.</original>
+			<edited>Hammer of Emblem Ike. Smashes
+foes. Cannot follow up, or strike first
+if initiating combat. Eff: Armored.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Ike_Urvan" offset="00" relocatable="true" max_length="0">
+			<original>Urvan</original>
+			<edited>Urvan</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Ike_Urvan" offset="00" relocatable="true" max_length="0">
+			<original>Heirloom axe wielded by Emblem
+Ike. Grants Res+3.</original>
+			<edited>Heirloom axe wielded by Emblem
+Ike. Grants Res+3.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Ike_Ragnell" offset="00" relocatable="true" max_length="0">
+			<original>Ragnell</original>
+			<edited>Ragnell</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Ike_Ragnell" offset="00" relocatable="true" max_length="0">
+			<original>Sacred sword wielded by Emblem
+Ike. Grants Def+5. Can strike
+close or at range.</original>
+			<edited>Sacred sword wielded by Emblem
+Ike. Grants Def+5. Can strike
+close or at range.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Byleth_Aymr" offset="00" relocatable="true" max_length="0">
+			<original>Aymr</original>
+			<edited>Aymr</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_Aymr" offset="00" relocatable="true" max_length="0">
+			<original>Axe of Emblem Byleth. Smashes
+foes. Cannot follow up, or strike first
+if initiating combat. Eff: Dragon.</original>
+			<edited>Axe of Emblem Byleth. Smashes
+foes. Cannot follow up, or strike first
+if initiating combat. Eff: Dragon.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Byleth_Blutgang" offset="00" relocatable="true" max_length="0">
+			<original>Blutgang</original>
+			<edited>Blutgang</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_Blutgang" offset="00" relocatable="true" max_length="0">
+			<original>Magical sword wielded by Emblem
+Byleth. Effective: Dragon, Cavalry.</original>
+			<edited>Magical sword wielded by Emblem
+Byleth. Effective: Dragon, Cavalry.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Byleth_Luin" offset="00" relocatable="true" max_length="0">
+			<original>Lúin</original>
+			<edited>Lúin</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_Luin_M010" offset="00" relocatable="true" max_length="0">
+			<original>An Emblem's lance. Raises damage
+based on user's Spd.
+Effective: Dragon.</original>
+			<edited>An Emblem's lance. Raises damage
+based on user's Spd.
+Effective: Dragon.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_Luin" offset="00" relocatable="true" max_length="0">
+			<original>Lance wielded by Emblem Byleth.
+Raises damage based on user's Spd.
+Effective: Dragon.</original>
+			<edited>Lance wielded by Emblem Byleth.
+Raises damage based on user's Spd.
+Effective: Dragon.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Byleth_Areadbhar" offset="00" relocatable="true" max_length="0">
+			<original>Areadbhar</original>
+			<edited>Areadbhar</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_Areadbhar" offset="00" relocatable="true" max_length="0">
+			<original>Lance wielded by Emblem Byleth.
+If user initiates combat, grants
+Mt+50%.</original>
+			<edited>Lance wielded by Emblem Byleth.
+If user initiates combat, grants
+Mt+50%.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Byleth_AegisShield" offset="00" relocatable="true" max_length="0">
+			<original>Aegis Shield</original>
+			<edited>Aegis Shield</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_AegisShield" offset="00" relocatable="true" max_length="0">
+			<original>Shield wielded by Emblem Byleth.
+Grants Def+6 and Res+3. May halve
+damage if carried. Trigger %=Dex.</original>
+			<edited>Shield wielded by Emblem Byleth.
+Grants Def+6 and Res+3. May halve
+damage if carried. Trigger %=Dex.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Byleth_Failnaught" offset="00" relocatable="true" max_length="0">
+			<original>Failnaught</original>
+			<edited>Failnaught</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_Failnaught" offset="00" relocatable="true" max_length="0">
+			<original>Bow wielded by Emblem Byleth.
+If user initiates combat, grants
+Avo+20. Effective: Dragon, Flying.</original>
+			<edited>Bow wielded by Emblem Byleth.
+If user initiates combat, grants
+Avo+20. Effective: Dragon, Flying.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Byleth_Thyrsus" offset="00" relocatable="true" max_length="0">
+			<original>Thyrsus</original>
+			<edited>Thyrsus</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_Thyrsus" offset="00" relocatable="true" max_length="0">
+			<original>Staff wielded by Emblem Byleth.
+Grants magic range +2. May halve
+damage if carried.</original>
+			<edited>Staff wielded by Emblem Byleth.
+Grants magic range +2. May halve
+damage if carried.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Byleth_RafailGem" offset="00" relocatable="true" max_length="0">
+			<original>Rafail Gem</original>
+			<edited>Rafail Gem</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_RafailGem" offset="00" relocatable="true" max_length="0">
+			<original>Relic gem of Emblem Byleth. User is
+immune to Effective and critical hits.
+May halve damage if carried.</original>
+			<edited>Relic gem of Emblem Byleth. User is
+immune to Effective and critical hits.
+May halve damage if carried.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Byleth_Vajra" offset="00" relocatable="true" max_length="0">
+			<original>Vajra-Mushti</original>
+			<edited>Vajra-Mushti</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_Vajra" offset="00" relocatable="true" max_length="0">
+			<original>Gauntlets wielded by Emblem Byleth.
+If user initiates combat, attacks
+twice. Uses lowest of foe's Def/Res.</original>
+			<edited>Gauntlets wielded by Emblem Byleth.
+If user initiates combat, attacks
+twice. Uses lowest of foe's Def/Res.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Byleth_SublimeCreatorSword" offset="00" relocatable="true" max_length="0">
+			<original>Sword of the Creator</original>
+			<edited>Sword of the Creator</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_SublimeCreatorSword" offset="00" relocatable="true" max_length="0">
+			<original>Sword of Emblem Byleth. Raises
+damage with user's Mag. Can strike
+close or at range. Effective: Dragon</original>
+			<edited>Sword of Emblem Byleth. Raises
+damage with user's Mag. Can strike
+close or at range. Effective: Dragon</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Byleth_SublimeCreatorSword_M014" offset="00" relocatable="true" max_length="0">
+			<original>An Emblem's sword. Raises
+damage with user's Mag. Can strike
+close or at range. Effective: Dragon</original>
+			<edited>An Emblem's sword. Raises
+damage with user's Mag. Can strike
+close or at range. Effective: Dragon</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GoddessAgain" offset="00" relocatable="true" max_length="0">
+			<original>Goddess Dance</original>
+			<edited>Goddess Dance</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_GoddessAgain_Dark" offset="00" relocatable="true" max_length="0">
+			<original>Diabolical Dance</original>
+			<edited>Diabolical Dance</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Kamui_DualKatana" offset="00" relocatable="true" max_length="0">
+			<original>Dual Katana</original>
+			<edited>Dual Katana</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Kamui_DualKatana" offset="00" relocatable="true" max_length="0">
+			<original>Unusual sword wielded by Emblem
+Corrin. Grants advantage vs. lances
+but disadvantage vs. axes.</original>
+			<edited>Unusual sword wielded by Emblem
+Corrin. Grants advantage vs. lances
+but disadvantage vs. axes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Kamui_Wakizashi" offset="00" relocatable="true" max_length="0">
+			<original>Wakizashi</original>
+			<edited>Wakizashi</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Kamui_Wakizashi" offset="00" relocatable="true" max_length="0">
+			<original>Throwing sword wielded by Emblem
+Corrin. Can only strike at range, not
+close up.</original>
+			<edited>Throwing sword wielded by Emblem
+Corrin. Can only strike at range, not
+close up.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Kamui_Yato" offset="00" relocatable="true" max_length="0">
+			<original>Yato</original>
+			<edited>Yato</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Kamui_Yato" offset="00" relocatable="true" max_length="0">
+			<original>Sacred sword wielded by Emblem
+Corrin.</original>
+			<edited>Sacred sword wielded by Emblem
+Corrin.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Kamui_DragonPiercing" offset="00" relocatable="true" max_length="0">
+			<original>Dragon Fang</original>
+			<edited>Dragon Fang</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Kamui_DragonPiercing" offset="00" relocatable="true" max_length="0">
+			<original>Skill wielded by Emblem Corrin.</original>
+			<edited>Skill wielded by Emblem Corrin.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Eirik_Rapier" offset="00" relocatable="true" max_length="0">
+			<original>Rapier</original>
+			<edited>Rapier</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Eirik_Rapier" offset="00" relocatable="true" max_length="0">
+			<original>Sword wielded by Emblem Eirika.
+Effective: Cavalry, Armored.</original>
+			<edited>Sword wielded by Emblem Eirika.
+Effective: Cavalry, Armored.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Eirik_WindSword" offset="00" relocatable="true" max_length="0">
+			<original>Wind Sword</original>
+			<edited>Wind Sword</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Eirik_WindSword" offset="00" relocatable="true" max_length="0">
+			<original>Magical sword wielded by Emblem
+Eirika. Can strike close or at range.
+Effective: Flying.</original>
+			<edited>Magical sword wielded by Emblem
+Eirika. Can strike close or at range.
+Effective: Flying.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Eirik_Sieglinde" offset="00" relocatable="true" max_length="0">
+			<original>Sieglinde</original>
+			<edited>Sieglinde</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Eirik_Sieglinde" offset="00" relocatable="true" max_length="0">
+			<original>Paired sword wielded by Emblem
+Eirika. Effective: Corrupted.</original>
+			<edited>Paired sword wielded by Emblem
+Eirika. Effective: Corrupted.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Eirik_Siegmund" offset="00" relocatable="true" max_length="0">
+			<original>Siegmund</original>
+			<edited>Siegmund</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Eirik_Siegmund" offset="00" relocatable="true" max_length="0">
+			<original>Paired lance wielded by Emblem
+Ephraim. Effective: Corrupted.</original>
+			<edited>Paired lance wielded by Emblem
+Ephraim. Effective: Corrupted.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lueur_Oligoludia" offset="00" relocatable="true" max_length="0">
+			<original>Oligoludia</original>
+			<edited>Oligoludia</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lueur_Oligoludia" offset="00" relocatable="true" max_length="0">
+			<original>Sword wielded by Emblem
+&#xE;&#x6;&#x3;&#x0;. Effective: Corrupted.</original>
+			<edited>Sword wielded by Emblem
+&#xE;&#x6;&#x3;&#x0;. Effective: Corrupted.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lueur_DragonFist" offset="00" relocatable="true" max_length="0">
+			<original>Dragon's Fist</original>
+			<edited>Dragon's Fist</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lueur_DragonFist" offset="00" relocatable="true" max_length="0">
+			<original>Magical attack wielded by Emblem
+&#xE;&#x6;&#x3;&#x0;. If user initiates
+combat, attacks twice. (Uses Mag.)</original>
+			<edited>Magical attack wielded by Emblem
+&#xE;&#x6;&#x3;&#x0;. If user initiates
+combat, attacks twice. (Uses Mag.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Lueur_Lyration" offset="00" relocatable="true" max_length="0">
+			<original>Lyrátion</original>
+			<edited>Lyrátion</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Lueur_Lyration" offset="00" relocatable="true" max_length="0">
+			<original>Sword of Emblem &#xE;&#x6;&#x3;&#x0;. If
+user defeats foe in player phase, fills
+adjacent allies' engage meters by 1.</original>
+			<edited>Sword of Emblem &#xE;&#x6;&#x3;&#x0;. If
+user defeats foe in player phase, fills
+adjacent allies' engage meters by 1.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Folkvangr" offset="00" relocatable="true" max_length="0">
+			<original>Fólkvangr</original>
+			<edited>Fólkvangr</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Folkvangr" offset="00" relocatable="true" max_length="0">
+			<original>Sword of Alfonse, prince of Askr.
+Grants Atk+3 for 1 turn if user has
+50% HP or less at start of turn.</original>
+			<edited>Sword of Alfonse, prince of Askr.
+Grants Atk+3 for 1 turn if user has
+50% HP or less at start of turn.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Fensalir" offset="00" relocatable="true" max_length="0">
+			<original>Fensalir</original>
+			<edited>Fensalir</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Fensalir" offset="00" relocatable="true" max_length="0">
+			<original>Lance of Sharena, princess of Askr.
+Inflicts Atk-2 for 1 turn on adjacent
+foes at the start of player phase.</original>
+			<edited>Lance of Sharena, princess of Askr.
+Inflicts Atk-2 for 1 turn on adjacent
+foes at the start of player phase.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_Noatun" offset="00" relocatable="true" max_length="0">
+			<original>Nóatún</original>
+			<edited>Nóatún</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_Noatun" offset="00" relocatable="true" max_length="0">
+			<original>Axe of Anna, a commander in Askr.
+Grants Mov+1 for 1 turn when user
+has 40% HP or less at start of turn.</original>
+			<edited>Axe of Anna, a commander in Askr.
+Grants Mov+1 for 1 turn when user
+has 40% HP or less at start of turn.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SPBook1" offset="00" relocatable="true" max_length="0">
+			<original>Novice Book</original>
+			<edited>Novice Book</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SPBook1" offset="00" relocatable="true" max_length="0">
+			<original>Book that teaches basic skills.
+Grants 100 SP.</original>
+			<edited>Book that teaches basic skills.
+Grants 100 SP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SPBook2" offset="00" relocatable="true" max_length="0">
+			<original>Adept Book</original>
+			<edited>Adept Book</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SPBook2" offset="00" relocatable="true" max_length="0">
+			<original>Book that teaches advanced skills.
+Grants 500 SP.</original>
+			<edited>Book that teaches advanced skills.
+Grants 500 SP.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_SPBook3" offset="00" relocatable="true" max_length="0">
+			<original>Expert Book</original>
+			<edited>Expert Book</edited>
+			<subEntries />
+		</entry>
+		<entry name="MIID_H_SPBook3" offset="00" relocatable="true" max_length="0">
+			<original>Book that unlocks the true secrets of
+skills. Grants 1,000 SP.</original>
+			<edited>Book that unlocks the true secrets of
+skills. Grants 1,000 SP.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,1843 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MAID_LueurWearM" offset="00" relocatable="true" max_length="0">
+			<original>Divine Attire</original>
+			<edited>Divine Attire</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_LueurWearM" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit reserved specially for the Divine Dragon's child.
+Specially tailored to fit perfectly.</original>
+			<edited>Everyday outfit reserved specially for the Divine Dragon's child.
+Specially tailored to fit perfectly.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_LueurWearF" offset="00" relocatable="true" max_length="0">
+			<original>Divine Attire</original>
+			<edited>Divine Attire</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_LueurWearF" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit reserved specially for the Divine Dragon's child.
+Specially tailored to fit perfectly.</original>
+			<edited>Everyday outfit reserved specially for the Divine Dragon's child.
+Specially tailored to fit perfectly.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_VandrWear" offset="00" relocatable="true" max_length="0">
+			<original>Formal Attire</original>
+			<edited>Formal Attire</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_VandrWear" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit worn by Vander, 32nd Steward of the Dragon.
+He's rumored to have several identical uniforms just like it.</original>
+			<edited>Everyday outfit worn by Vander, 32nd Steward of the Dragon.
+He's rumored to have several identical uniforms just like it.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FramWear" offset="00" relocatable="true" max_length="0">
+			<original>Crimson Garb</original>
+			<edited>Crimson Garb</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FramWear" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit of Framme, 33rd Steward of the Dragon. Has a special
+pocket in the outer layer to hide emergency snacks.</original>
+			<edited>Everyday outfit of Framme, 33rd Steward of the Dragon. Has a special
+pocket in the outer layer to hide emergency snacks.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_ClanWear" offset="00" relocatable="true" max_length="0">
+			<original>Celadon Garb</original>
+			<edited>Celadon Garb</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_ClanWear" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit of Clanne, 33rd Steward of the Dragon. Has a special
+pocket in the outer layer to hide emergency snacks.</original>
+			<edited>Everyday outfit of Clanne, 33rd Steward of the Dragon. Has a special
+pocket in the outer layer to hide emergency snacks.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_AlfredWear" offset="00" relocatable="true" max_length="0">
+			<original>Floral Regalia</original>
+			<edited>Floral Regalia</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_AlfredWear" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit of Alfred, crown prince of Firene. Made for ease of
+movement, and includes a fresh flower from Firene pinned to the breast.</original>
+			<edited>Everyday outfit of Alfred, crown prince of Firene. Made for ease of
+movement, and includes a fresh flower from Firene pinned to the breast.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BoucheronWear" offset="00" relocatable="true" max_length="0">
+			<original>Durable Shirt</original>
+			<edited>Durable Shirt</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BoucheronWear" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit of Boucheron, Prince Alfred's retainer. The buttons seem
+to be on the verge of snapping off, but they've held out this long.</original>
+			<edited>Everyday outfit of Boucheron, Prince Alfred's retainer. The buttons seem
+to be on the verge of snapping off, but they've held out this long.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_EtieWear" offset="00" relocatable="true" max_length="0">
+			<original>Frilly Blouse</original>
+			<edited>Frilly Blouse</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_EtieWear" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit of Etie, Prince Alfred's retainer. Marked by the frills on
+the sleeves and skirt. The design on the hem matches her battle outfit.</original>
+			<edited>Everyday outfit of Etie, Prince Alfred's retainer. Marked by the frills on
+the sleeves and skirt. The design on the hem matches her battle outfit.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_CelineWear" offset="00" relocatable="true" max_length="0">
+			<original>Teatime Garb</original>
+			<edited>Teatime Garb</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_CelineWear" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit of Céline, princess of Firene. The ribbons provide the
+perfect touch of elegance for teatime, and the jewel is the color of honey.</original>
+			<edited>Everyday outfit of Céline, princess of Firene. The ribbons provide the
+perfect touch of elegance for teatime, and the jewel is the color of honey.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_LouisWear" offset="00" relocatable="true" max_length="0">
+			<original>Knight's Vest</original>
+			<edited>Knight's Vest</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_LouisWear" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit of Louis, Princess Céline's retainer. The sleeves are made
+to be rolled up, allowing him to offer perfect service at a moment's notice.</original>
+			<edited>Everyday outfit of Louis, Princess Céline's retainer. The sleeves are made
+to be rolled up, allowing him to offer perfect service at a moment's notice.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_ChloeWear" offset="00" relocatable="true" max_length="0">
+			<original>Pegasus Dress</original>
+			<edited>Pegasus Dress</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_ChloeWear" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit of Chloé, Princess Céline's retainer. Though she often
+wears it to visit food stalls, she takes care not to dirty it when she eats.</original>
+			<edited>Everyday outfit of Chloé, Princess Céline's retainer. Though she often
+wears it to visit food stalls, she takes care not to dirty it when she eats.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_DiamandWear" offset="00" relocatable="true" max_length="0">
+			<original>Ember Outfit</original>
+			<edited>Ember Outfit</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_DiamandWear" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit of Diamant, crown prince of Brodia. It is made from
+material that can withstand virtually anything in case of emergencies.</original>
+			<edited>Everyday outfit of Diamant, crown prince of Brodia. It is made from
+material that can withstand virtually anything in case of emergencies.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_UmberWear" offset="00" relocatable="true" max_length="0">
+			<original>Alpaca Jacket</original>
+			<edited>Alpaca Jacket</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_UmberWear" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit of Amber, Prince Diamant's retainer. The embroidery on
+the back and breast is modeled after the alpacas of his hometown.</original>
+			<edited>Everyday outfit of Amber, Prince Diamant's retainer. The embroidery on
+the back and breast is modeled after the alpacas of his hometown.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_JadeWear" offset="00" relocatable="true" max_length="0">
+			<original>Author's Garb</original>
+			<edited>Author's Garb</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_JadeWear" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit of Jade, Prince Diamant's retainer. The outfit is easy to
+move around in and supported by a sturdy leather belt for posture.</original>
+			<edited>Everyday outfit of Jade, Prince Diamant's retainer. The outfit is easy to
+move around in and supported by a sturdy leather belt for posture.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_StalukeWear" offset="00" relocatable="true" max_length="0">
+			<original>Ashen Outfit</original>
+			<edited>Ashen Outfit</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_StalukeWear" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit of Alcryst, prince of Brodia. While he sees only the
+differences with Diamant's outfit, the truth is they're quite similar.</original>
+			<edited>Everyday outfit of Alcryst, prince of Brodia. While he sees only the
+differences with Diamant's outfit, the truth is they're quite similar.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_LapisWear" offset="00" relocatable="true" max_length="0">
+			<original>Homely Apron</original>
+			<edited>Homely Apron</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_LapisWear" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit of Lapis, Prince Alcryst's retainer. She's treasured this
+apron, with its floral designs and shoulder straps, for a very long time.</original>
+			<edited>Everyday outfit of Lapis, Prince Alcryst's retainer. She's treasured this
+apron, with its floral designs and shoulder straps, for a very long time.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_CitrinicaWear" offset="00" relocatable="true" max_length="0">
+			<original>Noble Jacket</original>
+			<edited>Noble Jacket</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_CitrinicaWear" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit of Citrinne, Prince Alcryst's retainer. The jacket is made
+with quality faux fur, and the charms of a noble house adorn the belt.</original>
+			<edited>Everyday outfit of Citrinne, Prince Alcryst's retainer. The jacket is made
+with quality faux fur, and the charms of a noble house adorn the belt.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IvyWear" offset="00" relocatable="true" max_length="0">
+			<original>Mystic Dress</original>
+			<edited>Mystic Dress</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_IvyWear" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit of Ivy, crown princess of Elusia. She developed it through
+painstaking trial and error to be comfortable enough to wear in the cold.</original>
+			<edited>Everyday outfit of Ivy, crown princess of Elusia. She developed it through
+painstaking trial and error to be comfortable enough to wear in the cold.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_ZelkovaWear" offset="00" relocatable="true" max_length="0">
+			<original>Belted Vest</original>
+			<edited>Belted Vest</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_ZelkovaWear" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit of Zelkov, Princess Ivy's retainer. The purpose of the
+multiple belts is unclear, but the key is known to be purely decorative.</original>
+			<edited>Everyday outfit of Zelkov, Princess Ivy's retainer. The purpose of the
+multiple belts is unclear, but the key is known to be purely decorative.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_KagetsuWear" offset="00" relocatable="true" max_length="0">
+			<original>Onigiri Wear</original>
+			<edited>Onigiri Wear</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_KagetsuWear" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit of Kagetsu, Princess Ivy's retainer. The rice-ball design on
+the pants features cod roe, salmon, pickled plum, and bonito flakes.</original>
+			<edited>Everyday outfit of Kagetsu, Princess Ivy's retainer. The rice-ball design on
+the pants features cod roe, salmon, pickled plum, and bonito flakes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_HortensiaWear" offset="00" relocatable="true" max_length="0">
+			<original>Flashy Dress</original>
+			<edited>Flashy Dress</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_HortensiaWear" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit of Hortensia, princess of Elusia. Partly inspired by Ivy's
+clothes, this outfit is optimized for maximum cuteness in every inch.</original>
+			<edited>Everyday outfit of Hortensia, princess of Elusia. Partly inspired by Ivy's
+clothes, this outfit is optimized for maximum cuteness in every inch.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_RosadoWear" offset="00" relocatable="true" max_length="0">
+			<original>Wrap Skirt</original>
+			<edited>Wrap Skirt</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_RosadoWear" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit of Rosado, Princess Hortensia's retainer. He personally
+altered this heirloom from his father to make it especially cute.</original>
+			<edited>Everyday outfit of Rosado, Princess Hortensia's retainer. He personally
+altered this heirloom from his father to make it especially cute.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_GoldmaryWear" offset="00" relocatable="true" max_length="0">
+			<original>Pristine Dress</original>
+			<edited>Pristine Dress</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_GoldmaryWear" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit of Goldmary, Princess Hortensia's retainer. She apologizes
+every chance she gets for its overly pristine condition.</original>
+			<edited>Everyday outfit of Goldmary, Princess Hortensia's retainer. She apologizes
+every chance she gets for its overly pristine condition.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_MisutiraWear" offset="00" relocatable="true" max_length="0">
+			<original>Kicky Clothes</original>
+			<edited>Kicky Clothes</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_MisutiraWear" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit of Timerra, crown princess of Solm. Its breathable fabric
+is surprisingly flameproof, making it perfect for sitting around a campfire.</original>
+			<edited>Everyday outfit of Timerra, crown princess of Solm. Its breathable fabric
+is surprisingly flameproof, making it perfect for sitting around a campfire.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_MerinWear" offset="00" relocatable="true" max_length="0">
+			<original>Wolfish Outfit</original>
+			<edited>Wolfish Outfit</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_MerinWear" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit of Merrin, Princess Timerra's retainer. Though the wolf's
+tail isn't real, she has it somehow rigged to wag when she's happy.</original>
+			<edited>Everyday outfit of Merrin, Princess Timerra's retainer. Though the wolf's
+tail isn't real, she has it somehow rigged to wag when she's happy.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_PanetoneWear" offset="00" relocatable="true" max_length="0">
+			<original>Gothic Dress</original>
+			<edited>Gothic Dress</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_PanetoneWear" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit of Panette, Princess Timerra's retainer. She tore it while
+on a rampage and mended it herself with some colorful threads.</original>
+			<edited>Everyday outfit of Panette, Princess Timerra's retainer. She tore it while
+on a rampage and mended it herself with some colorful threads.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FogatoWear" offset="00" relocatable="true" max_length="0">
+			<original>Princely Garb</original>
+			<edited>Princely Garb</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FogatoWear" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit of Fogado, prince of Solm. He often uses the scarf to
+mask his face when his identity is on the verge of being discovered.</original>
+			<edited>Everyday outfit of Fogado, prince of Solm. He often uses the scarf to
+mask his face when his identity is on the verge of being discovered.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_PandoroWear" offset="00" relocatable="true" max_length="0">
+			<original>Party Jacket</original>
+			<edited>Party Jacket</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_PandoroWear" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit of Pandreo, Prince Fogado's retainer. He often wears it
+to parties, along with a simple stole for religious purposes.</original>
+			<edited>Everyday outfit of Pandreo, Prince Fogado's retainer. He often wears it
+to parties, along with a simple stole for religious purposes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BonetWear" offset="00" relocatable="true" max_length="0">
+			<original>Chef's Apron</original>
+			<edited>Chef's Apron</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BonetWear" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit of Bunet, Prince Fogado's retainer. He's worn it daily
+since his time in the canteen, so it must be washed frequently.</original>
+			<edited>Everyday outfit of Bunet, Prince Fogado's retainer. He's worn it daily
+since his time in the canteen, so it must be washed frequently.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_AnnaWear" offset="00" relocatable="true" max_length="0">
+			<original>Knit Sweater</original>
+			<edited>Knit Sweater</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_AnnaWear" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit of Anna, merchant extraordinaire. This chunky knit dress
+and scarf ward off the cold of even the snowiest of days.</original>
+			<edited>Everyday outfit of Anna, merchant extraordinaire. This chunky knit dress
+and scarf ward off the cold of even the snowiest of days.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_JeanWear" offset="00" relocatable="true" max_length="0">
+			<original>Pupil's Jacket</original>
+			<edited>Pupil's Jacket</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_JeanWear" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit of Jean, doctor in training. The left pocket contains
+medicinal herbs, while the right one is where he keeps his notes for study.</original>
+			<edited>Everyday outfit of Jean, doctor in training. The left pocket contains
+medicinal herbs, while the right one is where he keeps his notes for study.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_YunakaWear" offset="00" relocatable="true" max_length="0">
+			<original>Chic Cardigan</original>
+			<edited>Chic Cardigan</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_YunakaWear" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit of Yunaka, eccentric thief. She fashioned this chic outfit
+from ordinary garments bought around town.</original>
+			<edited>Everyday outfit of Yunaka, eccentric thief. She fashioned this chic outfit
+from ordinary garments bought around town.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SeadasWear" offset="00" relocatable="true" max_length="0">
+			<original>Dancer's Shift</original>
+			<edited>Dancer's Shift</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SeadasWear" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit of Seadall, dancer and fortune-teller. It's meant to
+enhance his reputation as a soothsayer, but it leaves his stomach cold.</original>
+			<edited>Everyday outfit of Seadall, dancer and fortune-teller. It's meant to
+enhance his reputation as a soothsayer, but it leaves his stomach cold.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_LindenWear" offset="00" relocatable="true" max_length="0">
+			<original>Savant's Robe</original>
+			<edited>Savant's Robe</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_LindenWear" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit of Lindon, elderly sage of Elusia. He never removes the
+silver pendant around his neck, ensuring that it's always close at hand.</original>
+			<edited>Everyday outfit of Lindon, elderly sage of Elusia. He never removes the
+silver pendant around his neck, ensuring that it's always close at hand.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SaphirWear" offset="00" relocatable="true" max_length="0">
+			<original>Fishing Garb</original>
+			<edited>Fishing Garb</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SaphirWear" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit of Saphir, royal knight of Brodia. The skirt is water-
+repellent, and she always removes the gloves before cleaning fish.</original>
+			<edited>Everyday outfit of Saphir, royal knight of Brodia. The skirt is water-
+repellent, and she always removes the gloves before cleaning fish.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_VeyreWear" offset="00" relocatable="true" max_length="0">
+			<original>Lacy Dress</original>
+			<edited>Lacy Dress</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_VeyreWear" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit for Veyle, daughter of the Fell Dragon. She pays little
+attention to her attire, so her fashion-conscious friends chose this outfit.</original>
+			<edited>Everyday outfit for Veyle, daughter of the Fell Dragon. She pays little
+attention to her attire, so her fashion-conscious friends chose this outfit.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_MauveWear" offset="00" relocatable="true" max_length="0">
+			<original>Pious Finery</original>
+			<edited>Pious Finery</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_MauveWear" offset="00" relocatable="true" max_length="0">
+			<original>Everyday outfit of Mauvier, former member of the Four Hounds. Woven
+originally in Firene, he cares for it so meticulously that it appears new.</original>
+			<edited>Everyday outfit of Mauvier, former member of the Four Hounds. Woven
+originally in Firene, he cares for it so meticulously that it appears new.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneFormal1" offset="00" relocatable="true" max_length="0">
+			<original>Blue-Sky Set</original>
+			<edited>Blue-Sky Set</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FileneFormal1" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Firenese nobles. The bright blue color is the result of
+heavy dyes and represents an abundant harvest. (Two versions.)</original>
+			<edited>Clothing worn by Firenese nobles. The bright blue color is the result of
+heavy dyes and represents an abundant harvest. (Two versions.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneFormal1M" offset="00" relocatable="true" max_length="0">
+			<original>Blue-Sky Vest</original>
+			<edited>Blue-Sky Vest</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FileneFormal1M" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Firenese nobles. Composed of a vest with heavy blue
+dyes representing the skies that bless the harvest.</original>
+			<edited>Clothing worn by Firenese nobles. Composed of a vest with heavy blue
+dyes representing the skies that bless the harvest.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneFormal1F" offset="00" relocatable="true" max_length="0">
+			<original>Blue-Sky Dress</original>
+			<edited>Blue-Sky Dress</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FileneFormal1F" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Firenese nobles. Composed of a light skirt of sturdy
+fabric, dyed blue to represent the skies that bless the harvest.</original>
+			<edited>Clothing worn by Firenese nobles. Composed of a light skirt of sturdy
+fabric, dyed blue to represent the skies that bless the harvest.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneFormal2" offset="00" relocatable="true" max_length="0">
+			<original>Sundew Set</original>
+			<edited>Sundew Set</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FileneFormal2" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Firenese nobles. Marked by a gradient attained through
+traditional Firenese hand-dyeing techniques. (Two versions.)</original>
+			<edited>Clothing worn by Firenese nobles. Marked by a gradient attained through
+traditional Firenese hand-dyeing techniques. (Two versions.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneFormal2M" offset="00" relocatable="true" max_length="0">
+			<original>Sundew Vest</original>
+			<edited>Sundew Vest</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FileneFormal2M" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Firenese nobles. Features a gradient achieved through
+traditional Firenese dyeing techniques, accented with a fresh flower.</original>
+			<edited>Clothing worn by Firenese nobles. Features a gradient achieved through
+traditional Firenese dyeing techniques, accented with a fresh flower.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneFormal2F" offset="00" relocatable="true" max_length="0">
+			<original>Sundew Dress</original>
+			<edited>Sundew Dress</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FileneFormal2F" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Firenese nobles. Features a gradient achieved through
+traditional Firenese dyeing techniques. Often worn on festive occasions.</original>
+			<edited>Clothing worn by Firenese nobles. Features a gradient achieved through
+traditional Firenese dyeing techniques. Often worn on festive occasions.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneFormal3" offset="00" relocatable="true" max_length="0">
+			<original>Oceanic Set</original>
+			<edited>Oceanic Set</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneFormal3M" offset="00" relocatable="true" max_length="0">
+			<original>Oceanic Vest</original>
+			<edited>Oceanic Vest</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FileneFormal3M" offset="00" relocatable="true" max_length="0">
+			<original>Traditional Firenese clothing sent as a symbol of friendship. The intricate 
+design signifies a prayer for peace. Often worn when entertaining guests.</original>
+			<edited>Traditional Firenese clothing sent as a symbol of friendship. The intricate 
+design signifies a prayer for peace. Often worn when entertaining guests.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneFormal3F" offset="00" relocatable="true" max_length="0">
+			<original>Oceanic Dress</original>
+			<edited>Oceanic Dress</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FileneFormal3F" offset="00" relocatable="true" max_length="0">
+			<original>Traditional Firenese clothing sent as a symbol of friendship. The pattern 
+signifies a hope for peace and the sash represents unbreakable bonds.</original>
+			<edited>Traditional Firenese clothing sent as a symbol of friendship. The pattern 
+signifies a hope for peace and the sash represents unbreakable bonds.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneCasual1" offset="00" relocatable="true" max_length="0">
+			<original>Sunlit Set</original>
+			<edited>Sunlit Set</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FileneCasual1" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Firenese commoners. Often the first garment made by
+Firenese children when they learn to sew. (Two versions.)</original>
+			<edited>Clothing worn by Firenese commoners. Often the first garment made by
+Firenese children when they learn to sew. (Two versions.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneCasual1M" offset="00" relocatable="true" max_length="0">
+			<original>Sunlit Vest</original>
+			<edited>Sunlit Vest</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FileneCasual1M" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Firenese commoners. Often the first garment made by
+novice Firenese tailors. They say making the vest is the trickiest part.</original>
+			<edited>Clothing worn by Firenese commoners. Often the first garment made by
+novice Firenese tailors. They say making the vest is the trickiest part.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneCasual1F" offset="00" relocatable="true" max_length="0">
+			<original>Sunlit Apron</original>
+			<edited>Sunlit Apron</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FileneCasual1F" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Firenese commoners. Often the first garment made by 
+novice Firenese tailors. Children enjoy crafting the floral bows.</original>
+			<edited>Clothing worn by Firenese commoners. Often the first garment made by 
+novice Firenese tailors. Children enjoy crafting the floral bows.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneCasual2" offset="00" relocatable="true" max_length="0">
+			<original>Plaid Set</original>
+			<edited>Plaid Set</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FileneCasual2" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Firenese commoners. This casual attire is decorated in a
+popular pattern said to show off one's personality. (Two versions.)</original>
+			<edited>Clothing worn by Firenese commoners. This casual attire is decorated in a
+popular pattern said to show off one's personality. (Two versions.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneCasual2M" offset="00" relocatable="true" max_length="0">
+			<original>Plaid Vest</original>
+			<edited>Plaid Vest</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FileneCasual2M" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Firenese commoners. The vest is accented with
+a pattern popular in Firene said to show off one's personality.</original>
+			<edited>Clothing worn by Firenese commoners. The vest is accented with
+a pattern popular in Firene said to show off one's personality.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneCasual2F" offset="00" relocatable="true" max_length="0">
+			<original>Plaid Apron</original>
+			<edited>Plaid Apron</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FileneCasual2F" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Firenese commoners. A pattern popular in Firene
+decorates an apron that doubles as a handkerchief. </original>
+			<edited>Clothing worn by Firenese commoners. A pattern popular in Firene
+decorates an apron that doubles as a handkerchief. </edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneCasual3" offset="00" relocatable="true" max_length="0">
+			<original>Floral Set</original>
+			<edited>Floral Set</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneCasual3M" offset="00" relocatable="true" max_length="0">
+			<original>Floral Vest</original>
+			<edited>Floral Vest</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FileneCasual3M" offset="00" relocatable="true" max_length="0">
+			<original>Firenese clothing sent as a token of friendship. The traditional floral 
+embroidery represents affection for loved ones.</original>
+			<edited>Firenese clothing sent as a token of friendship. The traditional floral 
+embroidery represents affection for loved ones.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneCasual3F" offset="00" relocatable="true" max_length="0">
+			<original>Floral Apron</original>
+			<edited>Floral Apron</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FileneCasual3F" offset="00" relocatable="true" max_length="0">
+			<original>Firenese clothing sent as a token of friendship. The traditional floral 
+embroidery represents affection for loved ones.</original>
+			<edited>Firenese clothing sent as a token of friendship. The traditional floral 
+embroidery represents affection for loved ones.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaFormal1" offset="00" relocatable="true" max_length="0">
+			<original>Crimson Set</original>
+			<edited>Crimson Set</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BrodiaFormal1" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Brodian nobles. The outfit is embroidered with thread
+from Brodia's productive gold mines. (Two versions.)</original>
+			<edited>Clothing worn by Brodian nobles. The outfit is embroidered with thread
+from Brodia's productive gold mines. (Two versions.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaFormal1M" offset="00" relocatable="true" max_length="0">
+			<original>Crimson Jacket</original>
+			<edited>Crimson Jacket</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BrodiaFormal1M" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Brodian nobles. Trimmed with faux fur and embroidered
+with gold thread, the jacket's shorter length enables ease of movement.</original>
+			<edited>Clothing worn by Brodian nobles. Trimmed with faux fur and embroidered
+with gold thread, the jacket's shorter length enables ease of movement.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaFormal1F" offset="00" relocatable="true" max_length="0">
+			<original>Crimson Gown</original>
+			<edited>Crimson Gown</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BrodiaFormal1F" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Brodian nobles. Trimmed with faux fur and embroidered
+with gold thread, with a black hem made of stain-resistant material.</original>
+			<edited>Clothing worn by Brodian nobles. Trimmed with faux fur and embroidered
+with gold thread, with a black hem made of stain-resistant material.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaFormal2" offset="00" relocatable="true" max_length="0">
+			<original>Ebon Set</original>
+			<edited>Ebon Set</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BrodiaFormal2" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Brodian nobles, usually at festive events, this design
+features a Brodian flower symbolizing fortitude. (Two versions.)</original>
+			<edited>Clothing worn by Brodian nobles, usually at festive events, this design
+features a Brodian flower symbolizing fortitude. (Two versions.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaFormal2M" offset="00" relocatable="true" max_length="0">
+			<original>Ebon Jacket</original>
+			<edited>Ebon Jacket</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BrodiaFormal2M" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Brodian nobles. Made with very thick and warm fabric,
+the design features a Brodian flower symbolizing fortitude.</original>
+			<edited>Clothing worn by Brodian nobles. Made with very thick and warm fabric,
+the design features a Brodian flower symbolizing fortitude.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaFormal2F" offset="00" relocatable="true" max_length="0">
+			<original>Ebon Gown</original>
+			<edited>Ebon Gown</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BrodiaFormal2F" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Brodian nobles, usually at festive events. This design
+features a Brodian flower symbolizing fortitude. The skirt is quite heavy.</original>
+			<edited>Clothing worn by Brodian nobles, usually at festive events. This design
+features a Brodian flower symbolizing fortitude. The skirt is quite heavy.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaFormal3" offset="00" relocatable="true" max_length="0">
+			<original>Mica Set</original>
+			<edited>Mica Set</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaFormal3M" offset="00" relocatable="true" max_length="0">
+			<original>Mica Jacket</original>
+			<edited>Mica Jacket</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BrodiaFormal3M" offset="00" relocatable="true" max_length="0">
+			<original>Brodian clothing sent as a token of friendship. White faux leather
+symbolizes hope. The decorative pattern is actually the craftsman's crest.</original>
+			<edited>Brodian clothing sent as a token of friendship. White faux leather
+symbolizes hope. The decorative pattern is actually the craftsman's crest.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaFormal3F" offset="00" relocatable="true" max_length="0">
+			<original>Mica Gown</original>
+			<edited>Mica Gown</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BrodiaFormal3F" offset="00" relocatable="true" max_length="0">
+			<original>Brodian clothes sent as a token of friendship. White faux leather
+symbolizes hope. Some people order wedding attire made from it.</original>
+			<edited>Brodian clothes sent as a token of friendship. White faux leather
+symbolizes hope. Some people order wedding attire made from it.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaCasual1" offset="00" relocatable="true" max_length="0">
+			<original>Cavern Set</original>
+			<edited>Cavern Set</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BrodiaCasual1" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Brodian commoners. Made for practicality, the fabric is 
+easily washable and the colors don't show stains. (Two versions.)</original>
+			<edited>Clothing worn by Brodian commoners. Made for practicality, the fabric is 
+easily washable and the colors don't show stains. (Two versions.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaCasual1M" offset="00" relocatable="true" max_length="0">
+			<original>Cavern Tippet</original>
+			<edited>Cavern Tippet</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BrodiaCasual1M" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Brodian commoners. Made for practicality, the fabric is
+washable and the colors don't show stains. The fluffy trim is removable.</original>
+			<edited>Clothing worn by Brodian commoners. Made for practicality, the fabric is
+washable and the colors don't show stains. The fluffy trim is removable.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaCasual1F" offset="00" relocatable="true" max_length="0">
+			<original>Cavern Skirt</original>
+			<edited>Cavern Skirt</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BrodiaCasual1F" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Brodian commoners. Made for practicality, the fabric is
+washable and the colors don't show stains. The clasp is faux horn.</original>
+			<edited>Clothing worn by Brodian commoners. Made for practicality, the fabric is
+washable and the colors don't show stains. The clasp is faux horn.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaCasual2" offset="00" relocatable="true" max_length="0">
+			<original>Wild Set</original>
+			<edited>Wild Set</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BrodiaCasual2" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Brodian commoners. The traditional design is trimmed
+with alpaca wool and is extremely warm. (Two versions.)</original>
+			<edited>Clothing worn by Brodian commoners. The traditional design is trimmed
+with alpaca wool and is extremely warm. (Two versions.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaCasual2M" offset="00" relocatable="true" max_length="0">
+			<original>Wild Tippet</original>
+			<edited>Wild Tippet</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BrodiaCasual2M" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Brodian commoners. The traditional design is trimmed 
+with alpaca wool for warmth. Often worn by nomadic people of Brodia.</original>
+			<edited>Clothing worn by Brodian commoners. The traditional design is trimmed 
+with alpaca wool for warmth. Often worn by nomadic people of Brodia.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaCasual2F" offset="00" relocatable="true" max_length="0">
+			<original>Wild Skirt</original>
+			<edited>Wild Skirt</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BrodiaCasual2F" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Brodian commoners. The traditional design is trimmed
+with alpaca wool for warmth. The shoes resist slipping on cliffs.</original>
+			<edited>Clothing worn by Brodian commoners. The traditional design is trimmed
+with alpaca wool for warmth. The shoes resist slipping on cliffs.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaCasual3" offset="00" relocatable="true" max_length="0">
+			<original>Cliff Set</original>
+			<edited>Cliff Set</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaCasual3M" offset="00" relocatable="true" max_length="0">
+			<original>Cliff Tippet</original>
+			<edited>Cliff Tippet</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BrodiaCasual3M" offset="00" relocatable="true" max_length="0">
+			<original>Brodian clothing sent as a token of friendship. Made with sturdy materials
+and imitation bear fur, this outfit prioritizes comfort and design.</original>
+			<edited>Brodian clothing sent as a token of friendship. Made with sturdy materials
+and imitation bear fur, this outfit prioritizes comfort and design.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaCasual3F" offset="00" relocatable="true" max_length="0">
+			<original>Cliff Skirt</original>
+			<edited>Cliff Skirt</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BrodiaCasual3F" offset="00" relocatable="true" max_length="0">
+			<original>Brodian clothing sent as a token of friendship. Made with sturdy materials,
+this outfit prioritizes comfort and design. Pattern is said to ward off evil.</original>
+			<edited>Brodian clothing sent as a token of friendship. Made with sturdy materials,
+this outfit prioritizes comfort and design. Pattern is said to ward off evil.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumFormal1" offset="00" relocatable="true" max_length="0">
+			<original>Noon Set</original>
+			<edited>Noon Set</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SolumFormal1" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Solmic nobles. Thin, breathable fabric ensures comfort
+even in Solm's hot climate. (Two versions.)</original>
+			<edited>Clothing worn by Solmic nobles. Thin, breathable fabric ensures comfort
+even in Solm's hot climate. (Two versions.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumFormal1M" offset="00" relocatable="true" max_length="0">
+			<original>Noon Coat</original>
+			<edited>Noon Coat</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SolumFormal1M" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Solmic nobles. Thin breathable fabric ensures comfort
+even in Solm's hot climate. Cut to a length suitable for walking on sand.</original>
+			<edited>Clothing worn by Solmic nobles. Thin breathable fabric ensures comfort
+even in Solm's hot climate. Cut to a length suitable for walking on sand.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumFormal1F" offset="00" relocatable="true" max_length="0">
+			<original>Noon Skirt</original>
+			<edited>Noon Skirt</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SolumFormal1F" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Solmic nobles. Thin, breathable fabric ensures comfort
+even in Solm's hot climate. Comes with a robe to block out the sun.</original>
+			<edited>Clothing worn by Solmic nobles. Thin, breathable fabric ensures comfort
+even in Solm's hot climate. Comes with a robe to block out the sun.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumFormal2" offset="00" relocatable="true" max_length="0">
+			<original>Daybreak Set</original>
+			<edited>Daybreak Set</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SolumFormal2" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Solmic nobles. Often worn at parties. It is said that
+flashy clothes help one find "the road to paradise." (Two versions.)</original>
+			<edited>Clothing worn by Solmic nobles. Often worn at parties. It is said that
+flashy clothes help one find "the road to paradise." (Two versions.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumFormal2M" offset="00" relocatable="true" max_length="0">
+			<original>Daybreak Coat</original>
+			<edited>Daybreak Coat</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SolumFormal2M" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Solmic nobles. It is said that flashy clothes help one find
+"the road to paradise." Popular for parties and sunrise walks in the desert.</original>
+			<edited>Clothing worn by Solmic nobles. It is said that flashy clothes help one find
+"the road to paradise." Popular for parties and sunrise walks in the desert.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumFormal2F" offset="00" relocatable="true" max_length="0">
+			<original>Daybreak Skirt</original>
+			<edited>Daybreak Skirt</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SolumFormal2F" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Solmic nobles. It is said that flashy clothes help one find
+"the road to paradise." Designed to look good while dancing at parties.</original>
+			<edited>Clothing worn by Solmic nobles. It is said that flashy clothes help one find
+"the road to paradise." Designed to look good while dancing at parties.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumFormal3" offset="00" relocatable="true" max_length="0">
+			<original>Dusk Set</original>
+			<edited>Dusk Set</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumFormal3M" offset="00" relocatable="true" max_length="0">
+			<original>Dusk Coat</original>
+			<edited>Dusk Coat</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SolumFormal3M" offset="00" relocatable="true" max_length="0">
+			<original>Solmic clothing sent as a token of friendship. Inspired by a famous legend,
+it is said the wearer will gain eternal wealth. It even sells well abroad.</original>
+			<edited>Solmic clothing sent as a token of friendship. Inspired by a famous legend,
+it is said the wearer will gain eternal wealth. It even sells well abroad.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumFormal3F" offset="00" relocatable="true" max_length="0">
+			<original>Dusk Skirt</original>
+			<edited>Dusk Skirt</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SolumFormal3F" offset="00" relocatable="true" max_length="0">
+			<original>Solmic clothing sent as a token of friendship. An imitation of the dress
+worn by a princess of legend, it is said the wearer will gain eternal wealth.</original>
+			<edited>Solmic clothing sent as a token of friendship. An imitation of the dress
+worn by a princess of legend, it is said the wearer will gain eternal wealth.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumCasual1" offset="00" relocatable="true" max_length="0">
+			<original>Evening Set</original>
+			<edited>Evening Set</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SolumCasual1" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Solmic commoners. A large piece of fabric is used to
+create the traditional wraps in this outfit. (Two versions.)</original>
+			<edited>Clothing worn by Solmic commoners. A large piece of fabric is used to
+create the traditional wraps in this outfit. (Two versions.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumCasual1M" offset="00" relocatable="true" max_length="0">
+			<original>Evening Stole</original>
+			<edited>Evening Stole</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SolumCasual1M" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Solmic commoners. It's a pastime in Solm to take
+friends out shopping for just the right fabric at a good price.</original>
+			<edited>Clothing worn by Solmic commoners. It's a pastime in Solm to take
+friends out shopping for just the right fabric at a good price.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumCasual1F" offset="00" relocatable="true" max_length="0">
+			<original>Evening Sash</original>
+			<edited>Evening Sash</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SolumCasual1F" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Solmic commoners. A large piece of fabric is used to
+create the stylistic wraps. Some save their favorite colors for special days.</original>
+			<edited>Clothing worn by Solmic commoners. A large piece of fabric is used to
+create the stylistic wraps. Some save their favorite colors for special days.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumCasual2" offset="00" relocatable="true" max_length="0">
+			<original>Sandy Set</original>
+			<edited>Sandy Set</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SolumCasual2" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Solmic commoners. Fabric patterned with Solmic motifs
+complements high-quality shoes that keep the feet cool. (Two versions.)</original>
+			<edited>Clothing worn by Solmic commoners. Fabric patterned with Solmic motifs
+complements high-quality shoes that keep the feet cool. (Two versions.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumCasual2M" offset="00" relocatable="true" max_length="0">
+			<original>Sandy Stole</original>
+			<edited>Sandy Stole</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SolumCasual2M" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Solmic commoners. Fabric patterned with Solmic motifs
+complements high-quality shoes that keep the feet cool on sand.</original>
+			<edited>Clothing worn by Solmic commoners. Fabric patterned with Solmic motifs
+complements high-quality shoes that keep the feet cool on sand.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumCasual2F" offset="00" relocatable="true" max_length="0">
+			<original>Sandy Sash</original>
+			<edited>Sandy Sash</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SolumCasual2F" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Solmic commoners. Fabric patterned with Solmic motifs
+complements high-quality shoes that are ideal for long desert walks.</original>
+			<edited>Clothing worn by Solmic commoners. Fabric patterned with Solmic motifs
+complements high-quality shoes that are ideal for long desert walks.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumCasual3" offset="00" relocatable="true" max_length="0">
+			<original>Dune Set</original>
+			<edited>Dune Set</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumCasual3M" offset="00" relocatable="true" max_length="0">
+			<original>Dune Stole</original>
+			<edited>Dune Stole</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SolumCasual3M" offset="00" relocatable="true" max_length="0">
+			<original>Solmic clothing sent as a token of friendship. The dunes symbolize
+eternity and the dark weave represents connection. Good party outfit.</original>
+			<edited>Solmic clothing sent as a token of friendship. The dunes symbolize
+eternity and the dark weave represents connection. Good party outfit.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumCasual3F" offset="00" relocatable="true" max_length="0">
+			<original>Dune Sash</original>
+			<edited>Dune Sash</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SolumCasual3F" offset="00" relocatable="true" max_length="0">
+			<original>Solmic clothing sent as a token of affection to close friends. The dunes
+symbolize eternity and the dark weave represents connection.</original>
+			<edited>Solmic clothing sent as a token of affection to close friends. The dunes
+symbolize eternity and the dark weave represents connection.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionFormal1" offset="00" relocatable="true" max_length="0">
+			<original>Emerald Set</original>
+			<edited>Emerald Set</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_IrcionFormal1" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Elusian nobles. Fine garments lined with thick fleece
+to keep out wind and snow. (Two versions.)</original>
+			<edited>Clothing worn by Elusian nobles. Fine garments lined with thick fleece
+to keep out wind and snow. (Two versions.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionFormal1M" offset="00" relocatable="true" max_length="0">
+			<original>Emerald Coat</original>
+			<edited>Emerald Coat</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_IrcionFormal1M" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Elusian nobles. Fine garments lined with thick fleece
+to keep out cold. The coat is warm enough to allow light inner layers.</original>
+			<edited>Clothing worn by Elusian nobles. Fine garments lined with thick fleece
+to keep out cold. The coat is warm enough to allow light inner layers.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionFormal1F" offset="00" relocatable="true" max_length="0">
+			<original>Emerald Robe</original>
+			<edited>Emerald Robe</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_IrcionFormal1F" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Elusian nobles. Fine garments lined with thick fleece
+to keep out wind and snow. The decorative lace is often made by hand.</original>
+			<edited>Clothing worn by Elusian nobles. Fine garments lined with thick fleece
+to keep out wind and snow. The decorative lace is often made by hand.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionFormal2" offset="00" relocatable="true" max_length="0">
+			<original>Woolen Set</original>
+			<edited>Woolen Set</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_IrcionFormal2" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Elusian nobles. The traditional technique of knitting
+multiple layers for each coat takes several months. (Two versions.)</original>
+			<edited>Clothing worn by Elusian nobles. The traditional technique of knitting
+multiple layers for each coat takes several months. (Two versions.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionFormal2M" offset="00" relocatable="true" max_length="0">
+			<original>Woolen Coat</original>
+			<edited>Woolen Coat</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_IrcionFormal2M" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Elusian nobles. The coat is knit in multiple layers, and
+the resulting fabric is so dense that it protects against rain and snow.</original>
+			<edited>Clothing worn by Elusian nobles. The coat is knit in multiple layers, and
+the resulting fabric is so dense that it protects against rain and snow.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionFormal2F" offset="00" relocatable="true" max_length="0">
+			<original>Woolen Robe</original>
+			<edited>Woolen Robe</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_IrcionFormal2F" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Elusian nobles. The laborious process of knitting many
+layers per coat sometimes leads to a waiting period lasting several years.</original>
+			<edited>Clothing worn by Elusian nobles. The laborious process of knitting many
+layers per coat sometimes leads to a waiting period lasting several years.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionFormal3" offset="00" relocatable="true" max_length="0">
+			<original>Starry Set</original>
+			<edited>Starry Set</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionFormal3M" offset="00" relocatable="true" max_length="0">
+			<original>Starry Coat</original>
+			<edited>Starry Coat</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_IrcionFormal3M" offset="00" relocatable="true" max_length="0">
+			<original>Elusian clothing sent as a token of friendship. Gold thread and faux fur
+represent starry skies. The quality matches what is seen in museums.</original>
+			<edited>Elusian clothing sent as a token of friendship. Gold thread and faux fur
+represent starry skies. The quality matches what is seen in museums.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionFormal3F" offset="00" relocatable="true" max_length="0">
+			<original>Starry Robe</original>
+			<edited>Starry Robe</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_IrcionFormal3F" offset="00" relocatable="true" max_length="0">
+			<original>Elusian clothing sent as a token of friendship. Gold thread and faux fur
+represent starry skies. The quality is beyond anything available at market.</original>
+			<edited>Elusian clothing sent as a token of friendship. Gold thread and faux fur
+represent starry skies. The quality is beyond anything available at market.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionCasual1" offset="00" relocatable="true" max_length="0">
+			<original>Spruce Set</original>
+			<edited>Spruce Set</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_IrcionCasual1" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Elusian commoners. Deep-green fabrics can camouflage
+the wearer in the depths of the woods. (Two versions.)</original>
+			<edited>Clothing worn by Elusian commoners. Deep-green fabrics can camouflage
+the wearer in the depths of the woods. (Two versions.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionCasual1M" offset="00" relocatable="true" max_length="0">
+			<original>Spruce Coat</original>
+			<edited>Spruce Coat</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_IrcionCasual1M" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Elusian commoners. Deep-green fabrics can camouflage
+the wearer in the depths of the woods. Frequently worn by lumberjacks.</original>
+			<edited>Clothing worn by Elusian commoners. Deep-green fabrics can camouflage
+the wearer in the depths of the woods. Frequently worn by lumberjacks.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionCasual1F" offset="00" relocatable="true" max_length="0">
+			<original>Spruce Scarf</original>
+			<edited>Spruce Scarf</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_IrcionCasual1F" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Elusian commoners. Deep-green fabrics can camouflage
+the wearer in the woods. The scarf features Elusia's oldest design.</original>
+			<edited>Clothing worn by Elusian commoners. Deep-green fabrics can camouflage
+the wearer in the woods. The scarf features Elusia's oldest design.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionCasual2" offset="00" relocatable="true" max_length="0">
+			<original>Fern Set</original>
+			<edited>Fern Set</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_IrcionCasual2" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Elusian commoners. Four colors of fabric are woven
+into a pattern thought to bring good luck. (Two versions.)</original>
+			<edited>Clothing worn by Elusian commoners. Four colors of fabric are woven
+into a pattern thought to bring good luck. (Two versions.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionCasual2M" offset="00" relocatable="true" max_length="0">
+			<original>Fern Coat</original>
+			<edited>Fern Coat</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_IrcionCasual2M" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Elusian commoners. Four colors of fabric are woven
+into a pattern thought to bring good luck. Quite popular in springtime.</original>
+			<edited>Clothing worn by Elusian commoners. Four colors of fabric are woven
+into a pattern thought to bring good luck. Quite popular in springtime.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionCasual2F" offset="00" relocatable="true" max_length="0">
+			<original>Fern Scarf</original>
+			<edited>Fern Scarf</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_IrcionCasual2F" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Elusian commoners. Four colors of fabric are woven
+into a pattern thought to bring good luck. The scarf is unexpectedly long.</original>
+			<edited>Clothing worn by Elusian commoners. Four colors of fabric are woven
+into a pattern thought to bring good luck. The scarf is unexpectedly long.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionCasual3" offset="00" relocatable="true" max_length="0">
+			<original>Snowy Set</original>
+			<edited>Snowy Set</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionCasual3M" offset="00" relocatable="true" max_length="0">
+			<original>Snowy Coat</original>
+			<edited>Snowy Coat</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_IrcionCasual3M" offset="00" relocatable="true" max_length="0">
+			<original>Elusian clothing sent as a token of friendship. The design features ancient
+symbols that represent the magical power and beauty of Elusia.</original>
+			<edited>Elusian clothing sent as a token of friendship. The design features ancient
+symbols that represent the magical power and beauty of Elusia.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionCasual3F" offset="00" relocatable="true" max_length="0">
+			<original>Snowy Scarf</original>
+			<edited>Snowy Scarf</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_IrcionCasual3F" offset="00" relocatable="true" max_length="0">
+			<original>Elusian clothing sent as a token of friendship. The vivid turquoise color
+is achieved with enchanted dye made from the bark of coniferous trees.</original>
+			<edited>Elusian clothing sent as a token of friendship. The vivid turquoise color
+is achieved with enchanted dye made from the bark of coniferous trees.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_LithosFormal1" offset="00" relocatable="true" max_length="0">
+			<original>Stark Set</original>
+			<edited>Stark Set</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_LithosFormal1" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Lythian clerics, daily and to church. The fine patterning
+pays homage to the Divine Dragon. (Two versions.)</original>
+			<edited>Clothing worn by Lythian clerics, daily and to church. The fine patterning
+pays homage to the Divine Dragon. (Two versions.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_LithosFormal1M" offset="00" relocatable="true" max_length="0">
+			<original>Stark Cassock</original>
+			<edited>Stark Cassock</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_LithosFormal1M" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Lythian clerics, daily and to church. The fine patterning
+and gold embroidery pay homage to the Divine Dragon.</original>
+			<edited>Clothing worn by Lythian clerics, daily and to church. The fine patterning
+and gold embroidery pay homage to the Divine Dragon.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_LithosFormal1F" offset="00" relocatable="true" max_length="0">
+			<original>Stark Dress</original>
+			<edited>Stark Dress</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_LithosFormal1F" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Lythian clerics, daily and to church. The fine patterning,
+paying homage to the Divine Dragon, is sewn only by the pure of heart.</original>
+			<edited>Clothing worn by Lythian clerics, daily and to church. The fine patterning,
+paying homage to the Divine Dragon, is sewn only by the pure of heart.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_LithosFormal2" offset="00" relocatable="true" max_length="0">
+			<original>Frost Set</original>
+			<edited>Frost Set</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_LithosFormal2" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Lythian clerics. The technique for making fabric reflect 
+light and shine is found only on Lythos. (Two versions.)</original>
+			<edited>Clothing worn by Lythian clerics. The technique for making fabric reflect 
+light and shine is found only on Lythos. (Two versions.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_LithosFormal2M" offset="00" relocatable="true" max_length="0">
+			<original>Frost Cassock</original>
+			<edited>Frost Cassock</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_LithosFormal2M" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Lythian clerics. The technique to make reflective fabric
+is known only on Lythos. Despite appearances, the fabric is soft.</original>
+			<edited>Clothing worn by Lythian clerics. The technique to make reflective fabric
+is known only on Lythos. Despite appearances, the fabric is soft.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_LithosFormal2F" offset="00" relocatable="true" max_length="0">
+			<original>Frost Dress</original>
+			<edited>Frost Dress</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_LithosFormal2F" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Lythian clerics. The technique to make reflective fabric
+is known only on Lythos. Suitable for special events, not manual labor.</original>
+			<edited>Clothing worn by Lythian clerics. The technique to make reflective fabric
+is known only on Lythos. Suitable for special events, not manual labor.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_LithosFormal3" offset="00" relocatable="true" max_length="0">
+			<original>Lake Set</original>
+			<edited>Lake Set</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_LithosFormal3" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Lythian clerics. The fabric is said to embody the power
+of the Divine Dragon. The pattern symbolizes harmony. (Two versions.)</original>
+			<edited>Clothing worn by Lythian clerics. The fabric is said to embody the power
+of the Divine Dragon. The pattern symbolizes harmony. (Two versions.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_LithosFormal3M" offset="00" relocatable="true" max_length="0">
+			<original>Lake Cassock</original>
+			<edited>Lake Cassock</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_LithosFormal3M" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Lythian clerics. The fabric is said to embody the power
+of the Divine Dragon. The pattern symbolizes respect for the Emblems.</original>
+			<edited>Clothing worn by Lythian clerics. The fabric is said to embody the power
+of the Divine Dragon. The pattern symbolizes respect for the Emblems.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_LithosFormal3F" offset="00" relocatable="true" max_length="0">
+			<original>Lake Dress</original>
+			<edited>Lake Dress</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_LithosFormal3F" offset="00" relocatable="true" max_length="0">
+			<original>Clothing worn by Lythian clerics. The fabric is said to embody the power
+of the Divine Dragon. The pattern is meant to honor casualties of war.</original>
+			<edited>Clothing worn by Lythian clerics. The fabric is said to embody the power
+of the Divine Dragon. The pattern is meant to honor casualties of war.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Swimwear1" offset="00" relocatable="true" max_length="0">
+			<original>Simple Set</original>
+			<edited>Simple Set</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Swimwear1" offset="00" relocatable="true" max_length="0">
+			<original>Simple swimwear. Designed for swimming, training, and tanning, this is
+an outfit for working out and looking good doing it. (Two versions.)</original>
+			<edited>Simple swimwear. Designed for swimming, training, and tanning, this is
+an outfit for working out and looking good doing it. (Two versions.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Swimwear1M" offset="00" relocatable="true" max_length="0">
+			<original>Swim Trunks</original>
+			<edited>Swim Trunks</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Swimwear1M" offset="00" relocatable="true" max_length="0">
+			<original>Basic swimwear. Designed for swimming, training, and tanning.
+This outfit includes a necklace to help the wearer shine.</original>
+			<edited>Basic swimwear. Designed for swimming, training, and tanning.
+This outfit includes a necklace to help the wearer shine.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Swimwear1F" offset="00" relocatable="true" max_length="0">
+			<original>Pareo Swimsuit</original>
+			<edited>Pareo Swimsuit</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Swimwear1F" offset="00" relocatable="true" max_length="0">
+			<original>Basic swimwear. Designed to provide a confidence boost while swimming,
+training, and tanning. The waist wrap comes in all kinds of colors.</original>
+			<edited>Basic swimwear. Designed to provide a confidence boost while swimming,
+training, and tanning. The waist wrap comes in all kinds of colors.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Swimwear2" offset="00" relocatable="true" max_length="0">
+			<original>Modest Set</original>
+			<edited>Modest Set</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Swimwear2" offset="00" relocatable="true" max_length="0">
+			<original>Swimwear that exposes relatively little skin. Meant for people who care
+most about function and comfort for activities. (Two versions.)</original>
+			<edited>Swimwear that exposes relatively little skin. Meant for people who care
+most about function and comfort for activities. (Two versions.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Swimwear2M" offset="00" relocatable="true" max_length="0">
+			<original>Shirt &amp; Trunks</original>
+			<edited>Shirt &amp; Trunks</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Swimwear2M" offset="00" relocatable="true" max_length="0">
+			<original>Basic swimwear. Suitable for swimming, training, or sunbathing.
+The matching shirt is comfortable and designed to dry quickly.</original>
+			<edited>Basic swimwear. Suitable for swimming, training, or sunbathing.
+The matching shirt is comfortable and designed to dry quickly.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Swimwear2F" offset="00" relocatable="true" max_length="0">
+			<original>One-Piece</original>
+			<edited>One-Piece</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Swimwear2F" offset="00" relocatable="true" max_length="0">
+			<original>Basic swimwear. Comfortable and functional for activities, but prone to
+leaving distinctive tan lines when sunbathing.</original>
+			<edited>Basic swimwear. Comfortable and functional for activities, but prone to
+leaving distinctive tan lines when sunbathing.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Swimwear3" offset="00" relocatable="true" max_length="0">
+			<original>Youth Set</original>
+			<edited>Youth Set</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Swimwear3" offset="00" relocatable="true" max_length="0">
+			<original>Colorful swimwear for expressive youths. A design likely to leave an
+impression. (Two versions.)</original>
+			<edited>Colorful swimwear for expressive youths. A design likely to leave an
+impression. (Two versions.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Swimwear3M" offset="00" relocatable="true" max_length="0">
+			<original>Floral Shorts</original>
+			<edited>Floral Shorts</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Swimwear3M" offset="00" relocatable="true" max_length="0">
+			<original>Highly ornamented swimwear for youths. Fresh tropical flowers that never
+seem to wilt adorn the garland.</original>
+			<edited>Highly ornamented swimwear for youths. Fresh tropical flowers that never
+seem to wilt adorn the garland.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Swimwear3F" offset="00" relocatable="true" max_length="0">
+			<original>Ribbon Skirt</original>
+			<edited>Ribbon Skirt</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Swimwear3F" offset="00" relocatable="true" max_length="0">
+			<original>Highly ornamented swimwear for youths. The delightful ribbon on the
+front is surprisingly well-secured.</original>
+			<edited>Highly ornamented swimwear for youths. The delightful ribbon on the
+front is surprisingly well-secured.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Exercisewear" offset="00" relocatable="true" max_length="0">
+			<original>Training Wear</original>
+			<edited>Training Wear</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Exercisewear" offset="00" relocatable="true" max_length="0">
+			<original>Clothes designed at the boutique specially for training, made in a unique
+style. The material is durable and naturally wicks away moisture.</original>
+			<edited>Clothes designed at the boutique specially for training, made in a unique
+style. The material is durable and naturally wicks away moisture.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_NormalGlasses" offset="00" relocatable="true" max_length="0">
+			<original>Normal Specs</original>
+			<edited>Normal Specs</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_NormalGlasses" offset="00" relocatable="true" max_length="0">
+			<original>Glasses are an adaptive device developed by the talented glaziers of
+Elusia. The lenses are polished to be as clear as ice.</original>
+			<edited>Glasses are an adaptive device developed by the talented glaziers of
+Elusia. The lenses are polished to be as clear as ice.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_LowerEdgeGlasses" offset="00" relocatable="true" max_length="0">
+			<original>Square Specs</original>
+			<edited>Square Specs</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_LowerEdgeGlasses" offset="00" relocatable="true" max_length="0">
+			<original>These frames were crafted to stay out of the way when looking up.
+They're popular with people who want to show off their eyes.</original>
+			<edited>These frames were crafted to stay out of the way when looking up.
+They're popular with people who want to show off their eyes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BigSunglasses" offset="00" relocatable="true" max_length="0">
+			<original>Large Shades</original>
+			<edited>Large Shades</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BigSunglasses" offset="00" relocatable="true" max_length="0">
+			<original>Glasses that safely block the sun's glare. The large design covers both
+eyes, and the tinted lenses can be useful when going incognito.</original>
+			<edited>Glasses that safely block the sun's glare. The large design covers both
+eyes, and the tinted lenses can be useful when going incognito.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BlackTabbyGlasses" offset="00" relocatable="true" max_length="0">
+			<original>Thick Specs</original>
+			<edited>Thick Specs</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BlackTabbyGlasses" offset="00" relocatable="true" max_length="0">
+			<original>The heavy, thick frames can be painful on the ears if worn for a long time,
+but some say the striking effect on their image is worth it.</original>
+			<edited>The heavy, thick frames can be painful on the ears if worn for a long time,
+but some say the striking effect on their image is worth it.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_ColoredSunglasses" offset="00" relocatable="true" max_length="0">
+			<original>Tinted Shades</original>
+			<edited>Tinted Shades</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_ColoredSunglasses" offset="00" relocatable="true" max_length="0">
+			<original>Sweet sunglasses with gradient brown lenses. They're popular with
+fashion-conscious folks who also want some protection from the sun.</original>
+			<edited>Sweet sunglasses with gradient brown lenses. They're popular with
+fashion-conscious folks who also want some protection from the sun.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SkullMask" offset="00" relocatable="true" max_length="0">
+			<original>Skull Mask</original>
+			<edited>Skull Mask</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SkullMask" offset="00" relocatable="true" max_length="0">
+			<original>A unique mask painted with a skull motif. Used in a Solmic festival in
+which the participants all decorate these masks with their own designs.</original>
+			<edited>A unique mask painted with a skull motif. Used in a Solmic festival in
+which the participants all decorate these masks with their own designs.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FancyDressMask" offset="00" relocatable="true" max_length="0">
+			<original>Elegant Mask</original>
+			<edited>Elegant Mask</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FancyDressMask" offset="00" relocatable="true" max_length="0">
+			<original>A mask chiefly worn to Firenese masquerades, where people from all
+walks of life can mingle together anonymously.</original>
+			<edited>A mask chiefly worn to Firenese masquerades, where people from all
+walks of life can mingle together anonymously.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Eyepatch" offset="00" relocatable="true" max_length="0">
+			<original>Eye Patch</original>
+			<edited>Eye Patch</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Eyepatch" offset="00" relocatable="true" max_length="0">
+			<original>Used to hide a single eye, this accessory is said to have originated in
+Brodia when soldiers sought to mask their injuries on the battlefield.</original>
+			<edited>Used to hide a single eye, this accessory is said to have originated in
+Brodia when soldiers sought to mask their injuries on the battlefield.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Mascot_SilkHat" offset="00" relocatable="true" max_length="0">
+			<original>Chic Chapeau</original>
+			<edited>Chic Chapeau</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Mascot_SilkHat" offset="00" relocatable="true" max_length="0">
+			<original>For the discerning guardian spirit, this dashing hat has a dignified flair.
+With this distinguished accessory, even posture seems to improve.</original>
+			<edited>For the discerning guardian spirit, this dashing hat has a dignified flair.
+With this distinguished accessory, even posture seems to improve.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Mascot_Sunglasses" offset="00" relocatable="true" max_length="0">
+			<original>Sharp Shades</original>
+			<edited>Sharp Shades</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Mascot_Sunglasses" offset="00" relocatable="true" max_length="0">
+			<original>A must-have vacation item for looking chill in the summer heat. For the
+guardian spirit who wants to go from cute to cool with one accessory.</original>
+			<edited>A must-have vacation item for looking chill in the summer heat. For the
+guardian spirit who wants to go from cute to cool with one accessory.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Mascot_Flower" offset="00" relocatable="true" max_length="0">
+			<original>Floral Frill</original>
+			<edited>Floral Frill</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Mascot_Flower" offset="00" relocatable="true" max_length="0">
+			<original>A crown woven with flowers from the meadow where &#xE;&#x6;&#x5;&#x0; likes
+to nap. The answer to the question, "What does tranquility smell like?"</original>
+			<edited>A crown woven with flowers from the meadow where &#xE;&#x6;&#x5;&#x0; likes
+to nap. The answer to the question, "What does tranquility smell like?"</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Mascot_Wig" offset="00" relocatable="true" max_length="0">
+			<original>Matching Mane</original>
+			<edited>Matching Mane</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Mascot_Wig" offset="00" relocatable="true" max_length="0">
+			<original>A wig styled to match &#xE;&#x6;&#x3;&#x0;. Setting aside whether it actually
+looks good, &#xE;&#x6;&#x5;&#x0; appears utterly delighted.</original>
+			<edited>A wig styled to match &#xE;&#x6;&#x3;&#x0;. Setting aside whether it actually
+looks good, &#xE;&#x6;&#x5;&#x0; appears utterly delighted.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Mascot_Eyebrows" offset="00" relocatable="true" max_length="0">
+			<original>Bold Brows</original>
+			<edited>Bold Brows</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Mascot_Eyebrows" offset="00" relocatable="true" max_length="0">
+			<original>Dramatic eyebrows that bring facial communication to the next level.
+With these, you'll always know if &#xE;&#x6;&#x5;&#x0; is surprised.</original>
+			<edited>Dramatic eyebrows that bring facial communication to the next level.
+With these, you'll always know if &#xE;&#x6;&#x5;&#x0; is surprised.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Mascot_Butterfly" offset="00" relocatable="true" max_length="0">
+			<original>Flutter Friend</original>
+			<edited>Flutter Friend</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Mascot_Butterfly" offset="00" relocatable="true" max_length="0">
+			<original>A butterfly landed on &#xE;&#x6;&#x5;&#x0;'s tail and refused to budge. It's
+stayed still for so long that no one can tell if it's even a real butterfly.</original>
+			<edited>A butterfly landed on &#xE;&#x6;&#x5;&#x0;'s tail and refused to budge. It's
+stayed still for so long that no one can tell if it's even a real butterfly.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Mascot_Ribbon" offset="00" relocatable="true" max_length="0">
+			<original>Rump Ribbon</original>
+			<edited>Rump Ribbon</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Mascot_Ribbon" offset="00" relocatable="true" max_length="0">
+			<original>This ribbon is so light that &#xE;&#x6;&#x5;&#x0; will forget it's there. To see the
+guardian spirit jump in surprise whenever it sees it is pure joy.</original>
+			<edited>This ribbon is so light that &#xE;&#x6;&#x5;&#x0; will forget it's there. To see the
+guardian spirit jump in surprise whenever it sees it is pure joy.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Mascot_Bell" offset="00" relocatable="true" max_length="0">
+			<original>Cheerful Charm</original>
+			<edited>Cheerful Charm</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Mascot_Bell" offset="00" relocatable="true" max_length="0">
+			<original>This bell on a red and white cord feels like a lucky charm. 
+It jingles merrily, making it fun to walk or run.</original>
+			<edited>This bell on a red and white cord feels like a lucky charm. 
+It jingles merrily, making it fun to walk or run.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Mascot_Feather" offset="00" relocatable="true" max_length="0">
+			<original>Woolly Wings</original>
+			<edited>Woolly Wings</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Mascot_Feather" offset="00" relocatable="true" max_length="0">
+			<original>A pair of fluffy, artificial wings that seem to float in the breeze. But watch
+out! The wearer may start to believe they can fly, so stay away from cliffs.</original>
+			<edited>A pair of fluffy, artificial wings that seem to float in the breeze. But watch
+out! The wearer may start to believe they can fly, so stay away from cliffs.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Mascot_BackAcce" offset="00" relocatable="true" max_length="0">
+			<original>Grand Garb</original>
+			<edited>Grand Garb</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Mascot_BackAcce" offset="00" relocatable="true" max_length="0">
+			<original>Formal attire in the style of the Divine Dragon tailored especially for the
+guardian spirit, who wears this with pride and a hint of nostalgia.</original>
+			<edited>Formal attire in the style of the Divine Dragon tailored especially for the
+guardian spirit, who wears this with pride and a hint of nostalgia.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Costume_Marth" offset="00" relocatable="true" max_length="0">
+			<original>Marth Style</original>
+			<edited>Marth Style</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Costume_Marth" offset="00" relocatable="true" max_length="0">
+			<original>Based on Marth, the Emblem of Beginnings. A hero among heroes.</original>
+			<edited>Based on Marth, the Emblem of Beginnings. A hero among heroes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Costume_Siglud" offset="00" relocatable="true" max_length="0">
+			<original>Sigurd Style</original>
+			<edited>Sigurd Style</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Costume_Siglud" offset="00" relocatable="true" max_length="0">
+			<original>Based on Sigurd, the Emblem of the Holy War. A noble knight with a
+mighty lineage.</original>
+			<edited>Based on Sigurd, the Emblem of the Holy War. A noble knight with a
+mighty lineage.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Costume_Celica" offset="00" relocatable="true" max_length="0">
+			<original>Celica Style</original>
+			<edited>Celica Style</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Costume_Celica" offset="00" relocatable="true" max_length="0">
+			<original>Based on Celica, the Emblem of Echoes. The princess of a
+vibrant country.</original>
+			<edited>Based on Celica, the Emblem of Echoes. The princess of a
+vibrant country.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Costume_Micaiah" offset="00" relocatable="true" max_length="0">
+			<original>Micaiah Style</original>
+			<edited>Micaiah Style</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Costume_Micaiah" offset="00" relocatable="true" max_length="0">
+			<original>Based on Micaiah, the Emblem of Dawn. A priestess with
+mysterious powers.</original>
+			<edited>Based on Micaiah, the Emblem of Dawn. A priestess with
+mysterious powers.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Costume_Roy" offset="00" relocatable="true" max_length="0">
+			<original>Roy Style</original>
+			<edited>Roy Style</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Costume_Roy" offset="00" relocatable="true" max_length="0">
+			<original>Based on Roy, the Emblem of Binding. A brave and intelligent noble.</original>
+			<edited>Based on Roy, the Emblem of Binding. A brave and intelligent noble.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Costume_Lin" offset="00" relocatable="true" max_length="0">
+			<original>Lyn Style</original>
+			<edited>Lyn Style</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Costume_Lin" offset="00" relocatable="true" max_length="0">
+			<original>Based on Lyn, the Emblem of Blazing. A virtuoso swordswoman from a
+nomadic tribe that lived in nature.</original>
+			<edited>Based on Lyn, the Emblem of Blazing. A virtuoso swordswoman from a
+nomadic tribe that lived in nature.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Costume_Ike" offset="00" relocatable="true" max_length="0">
+			<original>Ike Style</original>
+			<edited>Ike Style</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Costume_Ike" offset="00" relocatable="true" max_length="0">
+			<original>Based on Ike, the Emblem of Radiance. A famous mercenary leader
+with unparalleled skill in battle.</original>
+			<edited>Based on Ike, the Emblem of Radiance. A famous mercenary leader
+with unparalleled skill in battle.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Costume_Lucina" offset="00" relocatable="true" max_length="0">
+			<original>Lucina Style</original>
+			<edited>Lucina Style</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Costume_Lucina" offset="00" relocatable="true" max_length="0">
+			<original>Based on Lucina, the Emblem of Awakening. A royal heir who knows
+anything can change and will not yield to despair.</original>
+			<edited>Based on Lucina, the Emblem of Awakening. A royal heir who knows
+anything can change and will not yield to despair.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Costume_Leaf" offset="00" relocatable="true" max_length="0">
+			<original>Leif Style</original>
+			<edited>Leif Style</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Costume_Leaf" offset="00" relocatable="true" max_length="0">
+			<original>Based on Leif, the Emblem of Genealogy. A brave prince in whose veins
+runs the blood of two crusaders.</original>
+			<edited>Based on Leif, the Emblem of Genealogy. A brave prince in whose veins
+runs the blood of two crusaders.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Costume_Kamui" offset="00" relocatable="true" max_length="0">
+			<original>Corrin Style</original>
+			<edited>Corrin Style</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Costume_Kamui" offset="00" relocatable="true" max_length="0">
+			<original>Based on Corrin, the Emblem of Fates. A royal whose blood is that
+of the First Dragons.</original>
+			<edited>Based on Corrin, the Emblem of Fates. A royal whose blood is that
+of the First Dragons.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Costume_Eirik" offset="00" relocatable="true" max_length="0">
+			<original>Eirika Style</original>
+			<edited>Eirika Style</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Costume_Eirik" offset="00" relocatable="true" max_length="0">
+			<original>Based on Eirika, the Emblem of the Sacred. A princess who takes up her
+sword for the sake of peace.</original>
+			<edited>Based on Eirika, the Emblem of the Sacred. A princess who takes up her
+sword for the sake of peace.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Costume_Byleth" offset="00" relocatable="true" max_length="0">
+			<original>Byleth Style</original>
+			<edited>Byleth Style</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Costume_Byleth" offset="00" relocatable="true" max_length="0">
+			<original>Based on Byleth, the Emblem of the Academy. A mercenary who became
+a teacher.</original>
+			<edited>Based on Byleth, the Emblem of the Academy. A mercenary who became
+a teacher.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,1651 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_SYS_Difficulty_Normal" offset="00" relocatable="true" max_length="0">
+			<original>ノーマル</original>
+			<edited>ノーマル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Difficulty_Normal" offset="00" relocatable="true" max_length="0">
+			<original>初心者、中級者の方に</original>
+			<edited>初心者、中級者の方に</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Difficulty_Hard" offset="00" relocatable="true" max_length="0">
+			<original>ハード</original>
+			<edited>ハード</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Difficulty_Hard" offset="00" relocatable="true" max_length="0">
+			<original>上級者の方に</original>
+			<edited>上級者の方に</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Difficulty_Lunatic" offset="00" relocatable="true" max_length="0">
+			<original>ルナティック</original>
+			<edited>ルナティック</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Difficulty_Lunatic" offset="00" relocatable="true" max_length="0">
+			<original>最難関を求める方に</original>
+			<edited>最難関を求める方に</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Mode_Select" offset="00" relocatable="true" max_length="0">
+			<original>モードを選択してください</original>
+			<edited>モードを選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Mode_Casual" offset="00" relocatable="true" max_length="0">
+			<original>カジュアル</original>
+			<edited>カジュアル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Mode_Casual" offset="00" relocatable="true" max_length="0">
+			<original>倒れた仲間は次の章で復帰する、お手軽なモード</original>
+			<edited>倒れた仲間は次の章で復帰する、お手軽なモード</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Mode_Classic" offset="00" relocatable="true" max_length="0">
+			<original>クラシック</original>
+			<edited>クラシック</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Mode_Classic" offset="00" relocatable="true" max_length="0">
+			<original>倒れた仲間は戻らない、じっくり考えるモード</original>
+			<edited>倒れた仲間は戻らない、じっくり考えるモード</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Grow_Random" offset="00" relocatable="true" max_length="0">
+			<original>ランダム</original>
+			<edited>ランダム</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Grow_Random" offset="00" relocatable="true" max_length="0">
+			<original>レベルアップ時の能力上昇が
+ユニットや兵種の特性に基づいてランダムで決定されます</original>
+			<edited>レベルアップ時の能力上昇が
+ユニットや兵種の特性に基づいてランダムで決定されます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Grow_Fixed" offset="00" relocatable="true" max_length="0">
+			<original>固定</original>
+			<edited>固定</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Grow_Fixed" offset="00" relocatable="true" max_length="0">
+			<original>レベルアップ時の能力上昇が
+ユニットや兵種の特性のみで決定されます</original>
+			<edited>レベルアップ時の能力上昇が
+ユニットや兵種の特性のみで決定されます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Decision" offset="00" relocatable="true" max_length="0">
+			<original>決定</original>
+			<edited>決定</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ToNext" offset="00" relocatable="true" max_length="0">
+			<original>次へ</original>
+			<edited>次へ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_BattleRecord" offset="00" relocatable="true" max_length="0">
+			<original>戦績</original>
+			<edited>戦績</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Time" offset="00" relocatable="true" max_length="0">
+			<original>タイム</original>
+			<edited>タイム</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_None" offset="00" relocatable="true" max_length="0">
+			<original>なし</original>
+			<edited>なし</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Battle_Count" offset="00" relocatable="true" max_length="0">
+			<original>戦</original>
+			<edited>戦</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Win_Count" offset="00" relocatable="true" max_length="0">
+			<original>勝</original>
+			<edited>勝</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_FoughtTogetherGod" offset="00" relocatable="true" max_length="0">
+			<original>最も一緒に戦った紋章士</original>
+			<edited>最も一緒に戦った紋章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_TypeSection" offset="00" relocatable="true" max_length="0">
+			<original>兵種区分</original>
+			<edited>兵種区分</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_SeniorPosition" offset="00" relocatable="true" max_length="0">
+			<original>上級</original>
+			<edited>上級</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_BasicPosition" offset="00" relocatable="true" max_length="0">
+			<original>基本</original>
+			<edited>基本</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_SpecialPosition" offset="00" relocatable="true" max_length="0">
+			<original>特殊</original>
+			<edited>特殊</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Position" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;兵種</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;兵種</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_UseWeapon" offset="00" relocatable="true" max_length="0">
+			<original>使用武器</original>
+			<edited>使用武器</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_TypeOfWepon_1" offset="00" relocatable="true" max_length="0">
+			<original>うち1種</original>
+			<edited>うち1種</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_TypeOfWepon_2" offset="00" relocatable="true" max_length="0">
+			<original>うち2種</original>
+			<edited>うち2種</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Status" offset="00" relocatable="true" max_length="0">
+			<original>戦闘能力</original>
+			<edited>戦闘能力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Capability" offset="00" relocatable="true" max_length="0">
+			<original>基本能力</original>
+			<edited>基本能力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_EquipedStatus" offset="00" relocatable="true" max_length="0">
+			<original>使用時能力</original>
+			<edited>使用時能力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Spec" offset="00" relocatable="true" max_length="0">
+			<original>性能</original>
+			<edited>性能</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Detail" offset="00" relocatable="true" max_length="0">
+			<original>詳細</original>
+			<edited>詳細</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_EngageWeapon" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ武器</original>
+			<edited>エンゲージ武器</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Class" offset="00" relocatable="true" max_length="0">
+			<original>兵種</original>
+			<edited>兵種</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Item" offset="00" relocatable="true" max_length="0">
+			<original>持ち物</original>
+			<edited>持ち物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Skill" offset="00" relocatable="true" max_length="0">
+			<original>スキル</original>
+			<edited>スキル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_SP" offset="00" relocatable="true" max_length="0">
+			<original>SP</original>
+			<edited>SP</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_SP" offset="00" relocatable="true" max_length="0">
+			<original>スキルポイント
+紋章士からスキルを継承する際に消費する</original>
+			<edited>スキルポイント
+紋章士からスキルを継承する際に消費する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Rating" offset="00" relocatable="true" max_length="0">
+			<original>総合力</original>
+			<edited>総合力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Rating" offset="00" relocatable="true" max_length="0">
+			<original>ユニットの総合的な強さの目安</original>
+			<edited>ユニットの総合的な強さの目安</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_LV" offset="00" relocatable="true" max_length="0">
+			<original>Lv.</original>
+			<edited>Lv.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_LV" offset="00" relocatable="true" max_length="0">
+			<original>どれだけ強くなったかの目安
+経験を積むと上昇する
+次のレベルまであと &#xE;&#x1;&#x0;&#x0; EXP</original>
+			<edited>どれだけ強くなったかの目安
+経験を積むと上昇する
+次のレベルまであと &#xE;&#x1;&#x0;&#x0; EXP</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_LV_MAX" offset="00" relocatable="true" max_length="0">
+			<original>どれだけ強くなったかの目安
+経験を積むと上昇する
+（最大レベル）</original>
+			<edited>どれだけ強くなったかの目安
+経験を積むと上昇する
+（最大レベル）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_LV_ENEMY" offset="00" relocatable="true" max_length="0">
+			<original>どれだけ強くなったかの目安
+経験を積むと上昇する</original>
+			<edited>どれだけ強くなったかの目安
+経験を積むと上昇する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_BOND_LV" offset="00" relocatable="true" max_length="0">
+			<original>紋章士との絆の強さ
+高いほど紋章士の能力が引き出される</original>
+			<edited>紋章士との絆の強さ
+高いほど紋章士の能力が引き出される</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Exp" offset="00" relocatable="true" max_length="0">
+			<original>EXP</original>
+			<edited>EXP</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_HP_MAX_UP" offset="00" relocatable="true" max_length="0">
+			<original>最大HP</original>
+			<edited>最大HP</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_HP" offset="00" relocatable="true" max_length="0">
+			<original>HP</original>
+			<edited>HP</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_HP" offset="00" relocatable="true" max_length="0">
+			<original>ユニットの生命力
+0になると戦闘不能になる</original>
+			<edited>ユニットの生命力
+0になると戦闘不能になる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_COMBAT_INFO_HP" offset="00" relocatable="true" max_length="0">
+			<original>この戦闘で発生するHP増減の予測</original>
+			<edited>この戦闘で発生するHP増減の予測</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Str" offset="00" relocatable="true" max_length="0">
+			<original>力</original>
+			<edited>力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Str" offset="00" relocatable="true" max_length="0">
+			<original>力の強さ。高いほど物理攻撃の
+ダメージが大きくなる</original>
+			<edited>力の強さ。高いほど物理攻撃の
+ダメージが大きくなる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Mag" offset="00" relocatable="true" max_length="0">
+			<original>魔力</original>
+			<edited>魔力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Mag" offset="00" relocatable="true" max_length="0">
+			<original>魔力の強さ。高いほど魔法攻撃のダメージや
+杖の回復量が大きくなる</original>
+			<edited>魔力の強さ。高いほど魔法攻撃のダメージや
+杖の回復量が大きくなる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Tec" offset="00" relocatable="true" max_length="0">
+			<original>技</original>
+			<edited>技</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Tec" offset="00" relocatable="true" max_length="0">
+			<original>器用さ。高いほど命中や必殺が
+上昇する</original>
+			<edited>器用さ。高いほど命中や必殺が
+上昇する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Spd" offset="00" relocatable="true" max_length="0">
+			<original>速さ</original>
+			<edited>速さ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Spd" offset="00" relocatable="true" max_length="0">
+			<original>素早さ。高いほど回避が上昇する
+（敵より5以上高いと追撃が発生する）</original>
+			<edited>素早さ。高いほど回避が上昇する
+（敵より5以上高いと追撃が発生する）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Lck" offset="00" relocatable="true" max_length="0">
+			<original>幸運</original>
+			<edited>幸運</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Lck" offset="00" relocatable="true" max_length="0">
+			<original>運の良さ。様々な行動に影響する
+（高いほど必殺の一撃を受けにくくなる）</original>
+			<edited>運の良さ。様々な行動に影響する
+（高いほど必殺の一撃を受けにくくなる）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Def" offset="00" relocatable="true" max_length="0">
+			<original>守備</original>
+			<edited>守備</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Def" offset="00" relocatable="true" max_length="0">
+			<original>守備力。高いほど敵の物理攻撃の
+ダメージを小さくする</original>
+			<edited>守備力。高いほど敵の物理攻撃の
+ダメージを小さくする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Res" offset="00" relocatable="true" max_length="0">
+			<original>魔防</original>
+			<edited>魔防</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Res" offset="00" relocatable="true" max_length="0">
+			<original>魔法防御力。高いほど敵の
+魔法攻撃のダメージを小さくする</original>
+			<edited>魔法防御力。高いほど敵の
+魔法攻撃のダメージを小さくする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Mov" offset="00" relocatable="true" max_length="0">
+			<original>移動</original>
+			<edited>移動</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Mov" offset="00" relocatable="true" max_length="0">
+			<original>移動力。高いほど、多くのマスを
+移動できる</original>
+			<edited>移動力。高いほど、多くのマスを
+移動できる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Phy" offset="00" relocatable="true" max_length="0">
+			<original>体格</original>
+			<edited>体格</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Phy" offset="00" relocatable="true" max_length="0">
+			<original>体格の良さ。高いほど重い武器を
+装備しても速さが下がらなくなる</original>
+			<edited>体格の良さ。高いほど重い武器を
+装備しても速さが下がらなくなる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Vis" offset="00" relocatable="true" max_length="0">
+			<original>視界</original>
+			<edited>視界</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Vis" offset="00" relocatable="true" max_length="0">
+			<original>視界の広さ。高いほど暗い場所でも
+遠くの距離を見通せる</original>
+			<edited>視界の広さ。高いほど暗い場所でも
+遠くの距離を見通せる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Atk" offset="00" relocatable="true" max_length="0">
+			<original>攻撃</original>
+			<edited>攻撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Dmg" offset="00" relocatable="true" max_length="0">
+			<original>攻撃</original>
+			<edited>攻撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Atk" offset="00" relocatable="true" max_length="0">
+			<original>武器や魔法での攻撃力</original>
+			<edited>武器や魔法での攻撃力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_COMBAT_INFO_Dmg" offset="00" relocatable="true" max_length="0">
+			<original>命中時、相手に与えるダメージの量</original>
+			<edited>命中時、相手に与えるダメージの量</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Weapon_Attack" offset="00" relocatable="true" max_length="0">
+			<original>物攻</original>
+			<edited>物攻</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_Weapon_Attack" offset="00" relocatable="true" max_length="0">
+			<original>物理攻撃力。剣などの武器を
+装備した時の攻撃力</original>
+			<edited>物理攻撃力。剣などの武器を
+装備した時の攻撃力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Magic_Attack" offset="00" relocatable="true" max_length="0">
+			<original>魔攻</original>
+			<edited>魔攻</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_Magic_Attack" offset="00" relocatable="true" max_length="0">
+			<original>魔法攻撃力。魔道書や魔法武器を
+装備した時の攻撃力</original>
+			<edited>魔法攻撃力。魔道書や魔法武器を
+装備した時の攻撃力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Special_Attack" offset="00" relocatable="true" max_length="0">
+			<original>特殊</original>
+			<edited>特殊</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_Special_Attack" offset="00" relocatable="true" max_length="0">
+			<original>特殊な攻撃の攻撃力
+（敵の守備と魔防の影響を受けない）</original>
+			<edited>特殊な攻撃の攻撃力
+（敵の守備と魔防の影響を受けない）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Hit" offset="00" relocatable="true" max_length="0">
+			<original>命中</original>
+			<edited>命中</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Hit" offset="00" relocatable="true" max_length="0">
+			<original>攻撃を命中させる能力。高いほど
+攻撃が当たりやすくなる</original>
+			<edited>攻撃を命中させる能力。高いほど
+攻撃が当たりやすくなる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_COMBAT_INFO_Hit" offset="00" relocatable="true" max_length="0">
+			<original>「攻撃」や「回復」の命中率</original>
+			<edited>「攻撃」や「回復」の命中率</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Avo" offset="00" relocatable="true" max_length="0">
+			<original>回避</original>
+			<edited>回避</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Avo" offset="00" relocatable="true" max_length="0">
+			<original>攻撃を回避する能力。高いほど
+敵の攻撃が当たりにくくなる</original>
+			<edited>攻撃を回避する能力。高いほど
+敵の攻撃が当たりにくくなる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Crit" offset="00" relocatable="true" max_length="0">
+			<original>必殺</original>
+			<edited>必殺</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Crit" offset="00" relocatable="true" max_length="0">
+			<original>必殺の一撃（ダメージ3倍）の出やすさ
+高いほど必殺の一撃が発生しやすくなる</original>
+			<edited>必殺の一撃（ダメージ3倍）の出やすさ
+高いほど必殺の一撃が発生しやすくなる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_COMBAT_INFO_Crit" offset="00" relocatable="true" max_length="0">
+			<original>「必殺の一撃」が発生する確率</original>
+			<edited>「必殺の一撃」が発生する確率</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Secure" offset="00" relocatable="true" max_length="0">
+			<original>必避</original>
+			<edited>必避</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Secure" offset="00" relocatable="true" max_length="0">
+			<original>必殺の一撃を回避する能力。高いほど
+敵から必殺の一撃を受けにくくなる</original>
+			<edited>必殺の一撃を回避する能力。高いほど
+敵から必殺の一撃を受けにくくなる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_COMBAT_INFO_Recovery" offset="00" relocatable="true" max_length="0">
+			<original>回復</original>
+			<edited>回復</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_COMBAT_INFO_Recovery" offset="00" relocatable="true" max_length="0">
+			<original>相手が回復するHPの量</original>
+			<edited>相手が回復するHPの量</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_WLV" offset="00" relocatable="true" max_length="0">
+			<original>使用できる&#xE;&#x1;&#x0;&#x0;のレベル</original>
+			<edited>使用できる&#xE;&#x1;&#x0;&#x0;のレベル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_WLV_Special" offset="00" relocatable="true" max_length="0">
+			<original>特殊攻撃</original>
+			<edited>特殊攻撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_WLV_Sword" offset="00" relocatable="true" max_length="0">
+			<original>剣</original>
+			<edited>剣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_WLV_Lance" offset="00" relocatable="true" max_length="0">
+			<original>槍</original>
+			<edited>槍</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_WLV_Magic" offset="00" relocatable="true" max_length="0">
+			<original>魔道書</original>
+			<edited>魔道書</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_WLV_Dagger" offset="00" relocatable="true" max_length="0">
+			<original>短剣</original>
+			<edited>短剣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_WLV_Axe" offset="00" relocatable="true" max_length="0">
+			<original>斧</original>
+			<edited>斧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_WLV_Bow" offset="00" relocatable="true" max_length="0">
+			<original>弓</original>
+			<edited>弓</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_WLV_Rod" offset="00" relocatable="true" max_length="0">
+			<original>杖</original>
+			<edited>杖</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_WLV_Fist" offset="00" relocatable="true" max_length="0">
+			<original>体術</original>
+			<edited>体術</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_BondCombi" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;と&#xE;&#x1;&#x1;&#x0;の絆</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;と&#xE;&#x1;&#x1;&#x0;の絆</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_BOND_LV" offset="00" relocatable="true" max_length="0">
+			<original>絆Lv.</original>
+			<edited>絆Lv.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_MAX" offset="00" relocatable="true" max_length="0">
+			<original>MAX</original>
+			<edited>MAX</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Infinity" offset="00" relocatable="true" max_length="0">
+			<original>∞</original>
+			<edited>∞</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_STYLE_BONUS" offset="00" relocatable="true" max_length="0">
+			<original>Style Bonus!</original>
+			<edited>Style Bonus!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_QUALITY_Sword" offset="00" relocatable="true" max_length="0">
+			<original>剣の素質</original>
+			<edited>剣の素質</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_QUALITY_Sword" offset="00" relocatable="true" max_length="0">
+			<original>剣の素質
+特定の兵種に
+クラスチェンジできるようになる</original>
+			<edited>剣の素質
+特定の兵種に
+クラスチェンジできるようになる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_QUALITY_Lance" offset="00" relocatable="true" max_length="0">
+			<original>槍の素質</original>
+			<edited>槍の素質</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_QUALITY_Lance" offset="00" relocatable="true" max_length="0">
+			<original>槍の素質
+特定の兵種に
+クラスチェンジできるようになる</original>
+			<edited>槍の素質
+特定の兵種に
+クラスチェンジできるようになる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_QUALITY_Magic" offset="00" relocatable="true" max_length="0">
+			<original>魔法の素質</original>
+			<edited>魔法の素質</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_QUALITY_Magic" offset="00" relocatable="true" max_length="0">
+			<original>魔法の素質
+特定の兵種に
+クラスチェンジできるようになる</original>
+			<edited>魔法の素質
+特定の兵種に
+クラスチェンジできるようになる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_QUALITY_Knife" offset="00" relocatable="true" max_length="0">
+			<original>短剣の素質</original>
+			<edited>短剣の素質</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_QUALITY_Knife" offset="00" relocatable="true" max_length="0">
+			<original>短剣の素質
+特定の兵種に
+クラスチェンジできるようになる</original>
+			<edited>短剣の素質
+特定の兵種に
+クラスチェンジできるようになる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_QUALITY_Axe" offset="00" relocatable="true" max_length="0">
+			<original>斧の素質</original>
+			<edited>斧の素質</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_QUALITY_Axe" offset="00" relocatable="true" max_length="0">
+			<original>斧の素質
+特定の兵種に
+クラスチェンジできるようになる</original>
+			<edited>斧の素質
+特定の兵種に
+クラスチェンジできるようになる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_QUALITY_Bow" offset="00" relocatable="true" max_length="0">
+			<original>弓の素質</original>
+			<edited>弓の素質</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_QUALITY_Bow" offset="00" relocatable="true" max_length="0">
+			<original>弓の素質
+特定の兵種に
+クラスチェンジできるようになる</original>
+			<edited>弓の素質
+特定の兵種に
+クラスチェンジできるようになる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_QUALITY_Rod" offset="00" relocatable="true" max_length="0">
+			<original>杖の素質</original>
+			<edited>杖の素質</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_QUALITY_Rod" offset="00" relocatable="true" max_length="0">
+			<original>杖の素質
+特定の兵種に
+クラスチェンジできるようになる</original>
+			<edited>杖の素質
+特定の兵種に
+クラスチェンジできるようになる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_QUALITY_Fist" offset="00" relocatable="true" max_length="0">
+			<original>体術の素質</original>
+			<edited>体術の素質</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_QUALITY_Fist" offset="00" relocatable="true" max_length="0">
+			<original>体術の素質
+特定の兵種に
+クラスチェンジできるようになる</original>
+			<edited>体術の素質
+特定の兵種に
+クラスチェンジできるようになる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_H_HPStock" offset="00" relocatable="true" max_length="0">
+			<original>復活の石
+HPが0になったとき
+砕け散ってHPを全回復させる</original>
+			<edited>復活の石
+HPが0になったとき
+砕け散ってHPを全回復させる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_ValueEmpty" offset="00" relocatable="true" max_length="0">
+			<original>--</original>
+			<edited>--</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Mt" offset="00" relocatable="true" max_length="0">
+			<original>威力</original>
+			<edited>威力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Rec" offset="00" relocatable="true" max_length="0">
+			<original>癒力</original>
+			<edited>癒力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Eff" offset="00" relocatable="true" max_length="0">
+			<original>特効</original>
+			<edited>特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Weight" offset="00" relocatable="true" max_length="0">
+			<original>重さ</original>
+			<edited>重さ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Rng" offset="00" relocatable="true" max_length="0">
+			<original>射程</original>
+			<edited>射程</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_WLV_Short" offset="00" relocatable="true" max_length="0">
+			<original>Lv.</original>
+			<edited>Lv.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_SYS_Equip" offset="00" relocatable="true" max_length="0">
+			<original>E</original>
+			<edited>E</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Target" offset="00" relocatable="true" max_length="0">
+			<original>対象</original>
+			<edited>対象</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_Me" offset="00" relocatable="true" max_length="0">
+			<original>自分</original>
+			<edited>自分</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_DISABLE_ENGAGE" offset="00" relocatable="true" max_length="0">
+			<original>使用不可：エンゲージアイテム</original>
+			<edited>使用不可：エンゲージアイテム</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_DISABLE_WEAPONLEVEL" offset="00" relocatable="true" max_length="0">
+			<original>使用不可：兵種制限</original>
+			<edited>使用不可：兵種制限</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_GodWeapon_LV" offset="00" relocatable="true" max_length="0">
+			<original>Lv.</original>
+			<edited>Lv.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_ExpNext" offset="00" relocatable="true" max_length="0">
+			<original>あと</original>
+			<edited>あと</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_GOLD_COUNT" offset="00" relocatable="true" max_length="0">
+			<original>所持金</original>
+			<edited>所持金</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SYS_ABRIDGEMENT" offset="00" relocatable="true" max_length="0">
+			<original>...</original>
+			<edited>...</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Param_Base" offset="00" relocatable="true" max_length="0">
+			<original>基本値</original>
+			<edited>基本値</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Param_Correction_Weight" offset="00" relocatable="true" max_length="0">
+			<original>武器の重さ</original>
+			<edited>武器の重さ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Param_Correction_God" offset="00" relocatable="true" max_length="0">
+			<original>紋章士</original>
+			<edited>紋章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Param_Correction_Support" offset="00" relocatable="true" max_length="0">
+			<original>支援</original>
+			<edited>支援</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Param_Correction_Terrain" offset="00" relocatable="true" max_length="0">
+			<original>地形</original>
+			<edited>地形</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Param_Correction_Effect" offset="00" relocatable="true" max_length="0">
+			<original>効果</original>
+			<edited>効果</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_INFO_Param_Correction_Hub" offset="00" relocatable="true" max_length="0">
+			<original>拠点行動</original>
+			<edited>拠点行動</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Material_Iron" offset="00" relocatable="true" max_length="0">
+			<original>てつの晶石</original>
+			<edited>てつの晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Material_Steel" offset="00" relocatable="true" max_length="0">
+			<original>はがねの晶石</original>
+			<edited>はがねの晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Material_Silver" offset="00" relocatable="true" max_length="0">
+			<original>ぎんの晶石</original>
+			<edited>ぎんの晶石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_PieceOfBonds" offset="00" relocatable="true" max_length="0">
+			<original>絆のかけら</original>
+			<edited>絆のかけら</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_B_INFO_DAMAGE" offset="00" relocatable="true" max_length="0">
+			<original>予測ダメージ</original>
+			<edited>予測ダメージ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GET" offset="00" relocatable="true" max_length="0">
+			<original>獲得</original>
+			<edited>獲得</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_COST" offset="00" relocatable="true" max_length="0">
+			<original>消費</original>
+			<edited>消費</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_JOIN_UNIT" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;が仲間になった</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;が仲間になった</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_JOIN_UNIT2" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;と&#xE;&#x1;&#x1;&#x0;が仲間になった</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;と&#xE;&#x1;&#x1;&#x0;が仲間になった</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_JOIN_UNIT3" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;と&#xE;&#x1;&#x1;&#x0;と&#xE;&#x1;&#x2;&#x0;が仲間になった</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;と&#xE;&#x1;&#x1;&#x0;と&#xE;&#x1;&#x2;&#x0;が仲間になった</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GET_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;を手に入れた</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;を手に入れた</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GET_ALREADY" offset="00" relocatable="true" max_length="0">
+			<original>読み込み可能回数が回復するまで
+このamiiboは読み込めません</original>
+			<edited>読み込み可能回数が回復するまで
+このamiiboは読み込めません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GET_ITEM_PLURAL" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;×&#xE;&#x1;&#x2;&#x0;を手に入れた</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;×&#xE;&#x1;&#x2;&#x0;を手に入れた</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GET_GOLD" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;Gを獲得した</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;Gを獲得した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GET_PIECE" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;絆のかけらを&#xE;&#x1;&#x1;&#x0;個手に入れた</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;絆のかけらを&#xE;&#x1;&#x1;&#x0;個手に入れた</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_BREAK_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;が壊れてしまった</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;が壊れてしまった</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_DEPRIVED_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;が奪われた</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;が奪われた</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_LEARN_SKILL" offset="00" relocatable="true" max_length="0">
+			<original>兵種スキル&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;を習得した</original>
+			<edited>兵種スキル&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;を習得した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_SUPPORT_LEVEL_UP" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;と&#xE;&#x1;&#x1;&#x0;の
+支援レベルが&#xE;&#x1;&#x2;&#x0;に上がった</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;と&#xE;&#x1;&#x1;&#x0;の
+支援レベルが&#xE;&#x1;&#x2;&#x0;に上がった</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_POPUP_RELIANCE_EXP_UP" offset="00" relocatable="true" max_length="0">
+			<original>支援値UP！</original>
+			<edited>支援値UP！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_POPUP_RELIANCE_ADDITION" offset="00" relocatable="true" max_length="0">
+			<original>支援会話発生！</original>
+			<edited>支援会話発生！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_TUTORIAL_NEW" offset="00" relocatable="true" max_length="0">
+			<original>指南「&#xE;&#x1;&#x0;&#x0;」が追加されました</original>
+			<edited>指南「&#xE;&#x1;&#x0;&#x0;」が追加されました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_BOND_LV_CAP" offset="00" relocatable="true" max_length="0">
+			<original>まだ見ていない絆会話があります</original>
+			<edited>まだ見ていない絆会話があります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_FRIENDLIST_NEWPAGE" offset="00" relocatable="true" max_length="0">
+			<original>仲間手帖に&#xE;&#x1;&#x0;&#x0;のページが追加されました</original>
+			<edited>仲間手帖に&#xE;&#x1;&#x0;&#x0;のページが追加されました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_BONDRING_NEWPAGE" offset="00" relocatable="true" max_length="0">
+			<original>指輪&#xE;&#x1;&#x8;&#x0;図鑑に情報が追加されました</original>
+			<edited>指輪&#xE;&#x1;&#x8;&#x0;図鑑に情報が追加されました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_BOND_LV_CAP_Talk_Attention" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;と&#xE;&#x1;&#x1;&#x0;の
+絆経験値がいっぱいになりました
+（拠点やワールドマップで「絆会話」を見ると
+さらに高いレベルまで絆レベルを上げることができます）</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;と&#xE;&#x1;&#x1;&#x0;の
+絆経験値がいっぱいになりました
+（拠点やワールドマップで「絆会話」を見ると
+さらに高いレベルまで絆レベルを上げることができます）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_BOND_LV_CAP_RELEASE" offset="00" relocatable="true" max_length="0">
+			<original>絆レベル限界突破！</original>
+			<edited>絆レベル限界突破！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_BOND_LV_MAX_amiiboItem" offset="00" relocatable="true" max_length="0">
+			<original>多くの仲間たちが、紋章士&#xE;&#x1;&#x0;&#x0;と
+絆レベルの最大に達したので、特別な報酬
+&#xE;&#x1;&#x1;&#x0;「&#xE;&#x1;&#x2;&#x0;」を手に入れました</original>
+			<edited>多くの仲間たちが、紋章士&#xE;&#x1;&#x0;&#x0;と
+絆レベルの最大に達したので、特別な報酬
+&#xE;&#x1;&#x1;&#x0;「&#xE;&#x1;&#x2;&#x0;」を手に入れました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_POPUP_BOND_EXP_UP" offset="00" relocatable="true" max_length="0">
+			<original>絆経験値UP！</original>
+			<edited>絆経験値UP！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GAMEOVER_TIMECRYSTAL_ATTENTION" offset="00" relocatable="true" max_length="0">
+			<original>「竜の時水晶」を使わないと
+敗北しゲームオーバーとなります
+よろしいですか？</original>
+			<edited>「竜の時水晶」を使わないと
+敗北しゲームオーバーとなります
+よろしいですか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GAMEOVER_TIMECRYSTAL_ATTENTION_NETWORK" offset="00" relocatable="true" max_length="0">
+			<original>「竜の時水晶」を使わないと
+敗北し試練は終了となります
+よろしいですか？</original>
+			<edited>「竜の時水晶」を使わないと
+敗北し試練は終了となります
+よろしいですか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GAMEOVER_TIMECRYSTAL_ATTENTION_YES" offset="00" relocatable="true" max_length="0">
+			<original>はい（ゲームオーバー）</original>
+			<edited>はい（ゲームオーバー）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GAMEOVER_TIMECRYSTAL_ATTENTION_YES_NETWORK" offset="00" relocatable="true" max_length="0">
+			<original>はい（敗北する）</original>
+			<edited>はい（敗北する）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GAMEOVER_TIMECRYSTAL_ATTENTION_NO" offset="00" relocatable="true" max_length="0">
+			<original>いいえ（竜の時水晶を使う）</original>
+			<edited>いいえ（竜の時水晶を使う）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GAMEOVER_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>マップの始めからやりなおしますか？
+（戦闘で獲得した経験値などを保持したまま
+　マップをやりなおすことも可能です）</original>
+			<edited>マップの始めからやりなおしますか？
+（戦闘で獲得した経験値などを保持したまま
+　マップをやりなおすことも可能です）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GAMEOVER_YES_EXP_ON" offset="00" relocatable="true" max_length="0">
+			<original>経験値を保持してやりなおす</original>
+			<edited>経験値を保持してやりなおす</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GAMEOVER_YES_EXP_OFF" offset="00" relocatable="true" max_length="0">
+			<original>経験値を破棄してやりなおす</original>
+			<edited>経験値を破棄してやりなおす</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GAMEOVER_NO" offset="00" relocatable="true" max_length="0">
+			<original>タイトルへ戻る</original>
+			<edited>タイトルへ戻る</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_BGM_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>環境設定に「BGM設定」の項目が追加されました
+ストーリーマップ以外の自軍フェイズおよび
+敵軍フェイズのBGMをそれぞれ変更できます</original>
+			<edited>環境設定に「BGM設定」の項目が追加されました
+ストーリーマップ以外の自軍フェイズおよび
+敵軍フェイズのBGMをそれぞれ変更できます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_ENGAGE_PLUS_ATTENTION" offset="00" relocatable="true" max_length="0">
+			<original>紋章士&#xE;&#x6;&#x3;&#x0;の「エンゲージ＋」は
+「繋戦の試練」「異界の試練」では使用できません
+</original>
+			<edited>紋章士&#xE;&#x6;&#x3;&#x0;の「エンゲージ＋」は
+「繋戦の試練」「異界の試練」では使用できません
+</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_STORY_COMPLETE_REWARD" offset="00" relocatable="true" max_length="0">
+			<original>ストーリークリア報酬</original>
+			<edited>ストーリークリア報酬</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_PLAYER_PHASE" offset="00" relocatable="true" max_length="0">
+			<original>PLAYER PHASE</original>
+			<edited>PLAYER PHASE</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_ENEMY_PHASE" offset="00" relocatable="true" max_length="0">
+			<original>ENEMY PHASE</original>
+			<edited>ENEMY PHASE</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_ALLY_PHASE" offset="00" relocatable="true" max_length="0">
+			<original>ALLY PHASE</original>
+			<edited>ALLY PHASE</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_OFFENSE_PHASE" offset="00" relocatable="true" max_length="0">
+			<original>OFFENSE PHASE</original>
+			<edited>OFFENSE PHASE</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_DEFENSE_PHASE" offset="00" relocatable="true" max_length="0">
+			<original>DEFENSE PHASE</original>
+			<edited>DEFENSE PHASE</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_PHASE_TURN" offset="00" relocatable="true" max_length="0">
+			<original>あと&#xE;&#x1;&#x0;&#x0;ターン</original>
+			<edited>あと&#xE;&#x1;&#x0;&#x0;ターン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_AUTO_TROPE" offset="00" relocatable="true" max_length="0">
+			<original>おまかせ中…</original>
+			<edited>おまかせ中…</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_SKIP_TROPE" offset="00" relocatable="true" max_length="0">
+			<original>スキップ中…</original>
+			<edited>スキップ中…</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_LEVEL_UP" offset="00" relocatable="true" max_length="0">
+			<original>LEVEL UP!</original>
+			<edited>LEVEL UP!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_CLASS_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>CLASS CHANGE!</original>
+			<edited>CLASS CHANGE!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_STAGE_CLEAR" offset="00" relocatable="true" max_length="0">
+			<original>STAGE CLEAR!</original>
+			<edited>STAGE CLEAR!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GAME_OVER" offset="00" relocatable="true" max_length="0">
+			<original>GAME OVER</original>
+			<edited>GAME OVER</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_POPUP_CRITICAL" offset="00" relocatable="true" max_length="0">
+			<original>Critical!</original>
+			<edited>Critical!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_POPUP_BREAK" offset="00" relocatable="true" max_length="0">
+			<original>Break!</original>
+			<edited>Break!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_POPUP_MISS" offset="00" relocatable="true" max_length="0">
+			<original>Miss!</original>
+			<edited>Miss!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_POPUP_NO_DAMAGE" offset="00" relocatable="true" max_length="0">
+			<original>No Damage!</original>
+			<edited>No Damage!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_POPUP_SMASH" offset="00" relocatable="true" max_length="0">
+			<original>Smash!</original>
+			<edited>Smash!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_POPUP_CHAINATTACK" offset="00" relocatable="true" max_length="0">
+			<original>Chain Attack!</original>
+			<edited>Chain Attack!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_POPUP_CHAINGUARD" offset="00" relocatable="true" max_length="0">
+			<original>Chain Guard!</original>
+			<edited>Chain Guard!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_POPUP_DUALGUARD" offset="00" relocatable="true" max_length="0">
+			<original>Dual Guard!</original>
+			<edited>Dual Guard!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MYFACE_SELECT" offset="00" relocatable="true" max_length="0">
+			<original>姿切替</original>
+			<edited>姿切替</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_BIRTHDAY_SELECT" offset="00" relocatable="true" max_length="0">
+			<original>月日切替</original>
+			<edited>月日切替</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MAP_HELP" offset="00" relocatable="true" max_length="0">
+			<original>詳細情報</original>
+			<edited>詳細情報</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MINIGAME_OPERATION_HELP" offset="00" relocatable="true" max_length="0">
+			<original>操作説明</original>
+			<edited>操作説明</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MAP_NOT_ACTION" offset="00" relocatable="true" max_length="0">
+			<original>ユニット切替</original>
+			<edited>ユニット切替</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MAP_UNIT_VIEWER" offset="00" relocatable="true" max_length="0">
+			<original>ユニット詳細</original>
+			<edited>ユニット詳細</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MAP_CANCEL_ORDERS" offset="00" relocatable="true" max_length="0">
+			<original>おまかせ解除</original>
+			<edited>おまかせ解除</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MAP_SKIP" offset="00" relocatable="true" max_length="0">
+			<original>スキップ</original>
+			<edited>スキップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_GMAP_LOOK_OVER" offset="00" relocatable="true" max_length="0">
+			<original>地図</original>
+			<edited>地図</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_GMAP_MOVE_NEWEST" offset="00" relocatable="true" max_length="0">
+			<original>最新章へ</original>
+			<edited>最新章へ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_GMAP_FREE_CAMERA" offset="00" relocatable="true" max_length="0">
+			<original>フリーカメラ</original>
+			<edited>フリーカメラ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MAP_ACTION" offset="00" relocatable="true" max_length="0">
+			<original>マップ切替</original>
+			<edited>マップ切替</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_DASH" offset="00" relocatable="true" max_length="0">
+			<original>ダッシュ</original>
+			<edited>ダッシュ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU" offset="00" relocatable="true" max_length="0">
+			<original>メニュー</original>
+			<edited>メニュー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_ACTION" offset="00" relocatable="true" max_length="0">
+			<original>メニュー切替</original>
+			<edited>メニュー切替</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_CATEGORY_ACTION" offset="00" relocatable="true" max_length="0">
+			<original>カテゴリ切替</original>
+			<edited>カテゴリ切替</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_TALK_AUTOPLAY" offset="00" relocatable="true" max_length="0">
+			<original>自動再生</original>
+			<edited>自動再生</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_TALK_AUTOPLAY_CANCEL" offset="00" relocatable="true" max_length="0">
+			<original>自動再生終了</original>
+			<edited>自動再生終了</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_TALK_LOG" offset="00" relocatable="true" max_length="0">
+			<original>ログ</original>
+			<edited>ログ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_TALK_LOG_VOICE" offset="00" relocatable="true" max_length="0">
+			<original>ボイス再生</original>
+			<edited>ボイス再生</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_DECIDE" offset="00" relocatable="true" max_length="0">
+			<original>決定</original>
+			<edited>決定</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_SELECT" offset="00" relocatable="true" max_length="0">
+			<original>選択</original>
+			<edited>選択</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_RETURN" offset="00" relocatable="true" max_length="0">
+			<original>戻る</original>
+			<edited>戻る</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_AUTO" offset="00" relocatable="true" max_length="0">
+			<original>一括整理</original>
+			<edited>一括整理</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_TROOPLIST_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>部隊表切替</original>
+			<edited>部隊表切替</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_HELP" offset="00" relocatable="true" max_length="0">
+			<original>詳細情報</original>
+			<edited>詳細情報</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_ASSISTINFO_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>補助情報</original>
+			<edited>補助情報</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_WEAPON_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>武器切替</original>
+			<edited>武器切替</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_UNIT_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>ユニット切替</original>
+			<edited>ユニット切替</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_CHARACTER_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>仲間切替</original>
+			<edited>仲間切替</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_GOD_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>紋章士切替</original>
+			<edited>紋章士切替</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_HELP_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>情報表示切替</original>
+			<edited>情報表示切替</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_ABILITY" offset="00" relocatable="true" max_length="0">
+			<original>能力一覧</original>
+			<edited>能力一覧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_BATTLE_START" offset="00" relocatable="true" max_length="0">
+			<original>戦闘開始</original>
+			<edited>戦闘開始</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_TUTORIAL" offset="00" relocatable="true" max_length="0">
+			<original>指南</original>
+			<edited>指南</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_COUNTRY_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>国切替</original>
+			<edited>国切替</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_ZOOM_PICTURE" offset="00" relocatable="true" max_length="0">
+			<original>拡大</original>
+			<edited>拡大</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_UNIT_SELECT" offset="00" relocatable="true" max_length="0">
+			<original>リスト</original>
+			<edited>リスト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_LOOK_UNIT" offset="00" relocatable="true" max_length="0">
+			<original>眺める</original>
+			<edited>眺める</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_CAMERA_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>カメラ切替</original>
+			<edited>カメラ切替</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_CAMERA_IN_OUT" offset="00" relocatable="true" max_length="0">
+			<original>カメラ上下</original>
+			<edited>カメラ上下</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_CAMERA_OPERATION" offset="00" relocatable="true" max_length="0">
+			<original>カメラ操作</original>
+			<edited>カメラ操作</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_BACK_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>背景切替</original>
+			<edited>背景切替</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_UI_HIDE" offset="00" relocatable="true" max_length="0">
+			<original>表示物ON/OFF</original>
+			<edited>表示物ON/OFF</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_EYES" offset="00" relocatable="true" max_length="0">
+			<original>視線ON/OFF</original>
+			<edited>視線ON/OFF</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_RESET" offset="00" relocatable="true" max_length="0">
+			<original>設定初期化</original>
+			<edited>設定初期化</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_SORT" offset="00" relocatable="true" max_length="0">
+			<original>ソート</original>
+			<edited>ソート</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_FISHING_CAST" offset="00" relocatable="true" max_length="0">
+			<original>投げる</original>
+			<edited>投げる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_FISHING_CAST_STOP" offset="00" relocatable="true" max_length="0">
+			<original>キャンセル</original>
+			<edited>キャンセル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_ACHIEVEMENT" offset="00" relocatable="true" max_length="0">
+			<original>達成報酬の取得</original>
+			<edited>達成報酬の取得</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MENU_ACHIEVEMENT_ALL" offset="00" relocatable="true" max_length="0">
+			<original>一括取得</original>
+			<edited>一括取得</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_MOVIE_CAPTION" offset="00" relocatable="true" max_length="0">
+			<original>字幕オン/オフ</original>
+			<edited>字幕オン/オフ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_EDIT_TURN" offset="00" relocatable="true" max_length="0">
+			<original>回転</original>
+			<edited>回転</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_EDIT_PUT" offset="00" relocatable="true" max_length="0">
+			<original>配置</original>
+			<edited>配置</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_EDIT_DELETE" offset="00" relocatable="true" max_length="0">
+			<original>消去</original>
+			<edited>消去</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_EDIT_TACTICS_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>戦術変更</original>
+			<edited>戦術変更</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_EDIT_LIST" offset="00" relocatable="true" max_length="0">
+			<original>地形リスト</original>
+			<edited>地形リスト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_EDIT_OBJCHANGE" offset="00" relocatable="true" max_length="0">
+			<original>地形切替</original>
+			<edited>地形切替</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_EDIT_UNDO" offset="00" relocatable="true" max_length="0">
+			<original>アンドゥ</original>
+			<edited>アンドゥ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_NEXT" offset="00" relocatable="true" max_length="0">
+			<original>次へ</original>
+			<edited>次へ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_ANIMAL_VIEW" offset="00" relocatable="true" max_length="0">
+			<original>見回す</original>
+			<edited>見回す</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_ANIMAL_ACTION" offset="00" relocatable="true" max_length="0">
+			<original>アクション</original>
+			<edited>アクション</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_REWIND_TURN" offset="00" relocatable="true" max_length="0">
+			<original>次ターン</original>
+			<edited>次ターン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_KEYHELP_REWIND_ACTION" offset="00" relocatable="true" max_length="0">
+			<original>選ぶ</original>
+			<edited>選ぶ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WEAPON_NAME_REFINE" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;＋&#xE;&#x1;&#x1;&#x0;</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;＋&#xE;&#x1;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WEAPON_NAME_ENGRAVE" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WEAPON_NAME_ENGRAVE_REFINE" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;＋&#xE;&#x1;&#x1;&#x0;&#xE;&#x1;&#x2;&#x0;</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;＋&#xE;&#x1;&#x1;&#x0;&#xE;&#x1;&#x2;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RING_RANK_S" offset="00" relocatable="true" max_length="0">
+			<original>S</original>
+			<edited>S</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RING_RANK_A" offset="00" relocatable="true" max_length="0">
+			<original>A</original>
+			<edited>A</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RING_RANK_B" offset="00" relocatable="true" max_length="0">
+			<original>B</original>
+			<edited>B</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RING_RANK_C" offset="00" relocatable="true" max_length="0">
+			<original>C</original>
+			<edited>C</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LOCALIZE_COLON" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_LOCALIZE_HYPHEN" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="MID_LOCALIZE_CN_THIRD_M" offset="00" relocatable="true" max_length="0">
+			<original>他</original>
+			<edited>他</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LOCALIZE_CN_THIRD_F" offset="00" relocatable="true" max_length="0">
+			<original>她</original>
+			<edited>她</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LOCALIZE_TW_THIRD_M" offset="00" relocatable="true" max_length="0">
+			<original>他</original>
+			<edited>他</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LOCALIZE_TW_THIRD_F" offset="00" relocatable="true" max_length="0">
+			<original>她</original>
+			<edited>她</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_JP_JAPANESE" offset="00" relocatable="true" max_length="0">
+			<original>日本語</original>
+			<edited>日本語</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_US_ENGLISH" offset="00" relocatable="true" max_length="0">
+			<original>北米英語</original>
+			<edited>北米英語</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_US_FRENCH" offset="00" relocatable="true" max_length="0">
+			<original>北米フランス語</original>
+			<edited>北米フランス語</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_US_SPANISH" offset="00" relocatable="true" max_length="0">
+			<original>北米スペイン語</original>
+			<edited>北米スペイン語</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_EU_ENGLISH" offset="00" relocatable="true" max_length="0">
+			<original>欧州英語</original>
+			<edited>欧州英語</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_EU_FRENCH" offset="00" relocatable="true" max_length="0">
+			<original>欧州フランス語</original>
+			<edited>欧州フランス語</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_EU_SPANISH" offset="00" relocatable="true" max_length="0">
+			<original>欧州スペイン語</original>
+			<edited>欧州スペイン語</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_EU_GERMAN" offset="00" relocatable="true" max_length="0">
+			<original>欧州ドイツ語</original>
+			<edited>欧州ドイツ語</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_EU_ITALIAN" offset="00" relocatable="true" max_length="0">
+			<original>欧州イタリア語</original>
+			<edited>欧州イタリア語</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_CN_TRADITIONAL" offset="00" relocatable="true" max_length="0">
+			<original>中国繁体字</original>
+			<edited>中国繁体字</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_CN_SIMPLIFIED" offset="00" relocatable="true" max_length="0">
+			<original>中国簡体字</original>
+			<edited>中国簡体字</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_KR_KOREAN" offset="00" relocatable="true" max_length="0">
+			<original>韓国語</original>
+			<edited>韓国語</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_VOICE_JAPANESE" offset="00" relocatable="true" max_length="0">
+			<original>日本語</original>
+			<edited>日本語</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_LANGUAGE_VOICE_ENGLISH" offset="00" relocatable="true" max_length="0">
+			<original>英語</original>
+			<edited>英語</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MSG_GET_ITEM_FEH" offset="00" relocatable="true" max_length="0">
+			<original>特典を受け取りました</original>
+			<edited>特典を受け取りました</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

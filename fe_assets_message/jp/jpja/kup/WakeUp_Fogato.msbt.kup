@@ -1,0 +1,552 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_WU_C_1_IN_#001" offset="00" relocatable="true" max_length="0">
+			<original>ボンジョールノ！　神竜様、朝だよ！&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>ボンジョールノ！　神竜様、朝だよ！&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_SOON_#001" offset="00" relocatable="true" max_length="0">
+			<original>起きた？&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>起きた？&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_SOON_#002" offset="00" relocatable="true" max_length="0">
+			<original>朝食はトロピカルフルーツがおススメだよ。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>朝食はトロピカルフルーツがおススメだよ。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_SOON_#003" offset="00" relocatable="true" max_length="0">
+			<original>俺はパインとバナナが好き！&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>俺はパインとバナナが好き！&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_WAKEUP_#001" offset="00" relocatable="true" max_length="0">
+			<original>結構大きな声で呼びかけたけど、神竜様起きないね。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>結構大きな声で呼びかけたけど、神竜様起きないね。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_WAKEUP_#002" offset="00" relocatable="true" max_length="0">
+			<original>面白いなあ、ソルム王家はみんな寝起きがいいから、新鮮！&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>面白いなあ、ソルム王家はみんな寝起きがいいから、新鮮！&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_HELLO_#001" offset="00" relocatable="true" max_length="0">
+			<original>おはよう、神竜様！&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>おはよう、神竜様！&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_HELLO_#002" offset="00" relocatable="true" max_length="0">
+			<original>せっかく俺が起こしに来たんだから、&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>せっかく俺が起こしに来たんだから、&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_HELLO_#003" offset="00" relocatable="true" max_length="0">
+			<original>このまま一緒に朝食でも食べに行く？&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>このまま一緒に朝食でも食べに行く？&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_IN_#001" offset="00" relocatable="true" max_length="0">
+			<original>神竜様、神竜様ー！　…ありゃ、寝てる。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>神竜様、神竜様ー！　…ありゃ、寝てる。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_SOON_#001" offset="00" relocatable="true" max_length="0">
+			<original>もしかしてもう起きるとこだった？&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>もしかしてもう起きるとこだった？&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_SOON_#002" offset="00" relocatable="true" max_length="0">
+			<original>神竜様の眠そうな顔が見られて、&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>神竜様の眠そうな顔が見られて、&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_SOON_#003" offset="00" relocatable="true" max_length="0">
+			<original>ラッキーだなー。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>ラッキーだなー。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_WAKEUP_#001" offset="00" relocatable="true" max_length="0">
+			<original>自警団に書簡を出したいんだけど、&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>自警団に書簡を出したいんだけど、&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_WAKEUP_#002" offset="00" relocatable="true" max_length="0">
+			<original>ソラネルからどうやって出すんだろう…&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>ソラネルからどうやって出すんだろう…&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_WAKEUP_#003" offset="00" relocatable="true" max_length="0">
+			<original>ちなみにソルムではフラミンゴを飛ばすんだよー。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>ちなみにソルムではフラミンゴを飛ばすんだよー。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_HELLO_#001" offset="00" relocatable="true" max_length="0">
+			<original>起きた！&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>起きた！&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_HELLO_#002" offset="00" relocatable="true" max_length="0">
+			<original>ねえ神竜様、&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>ねえ神竜様、&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_HELLO_#003" offset="00" relocatable="true" max_length="0">
+			<original>ソラネルからの書簡の出し方を教えてよ。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>ソラネルからの書簡の出し方を教えてよ。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_HELLO_#004" offset="00" relocatable="true" max_length="0">
+			<original>もちろん、二人っきりだと嬉しいなー。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>もちろん、二人っきりだと嬉しいなー。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_IN_#001" offset="00" relocatable="true" max_length="0">
+			<original>ようやく俺の番が回ってきた…張り切って起こしちゃうよ！&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>ようやく俺の番が回ってきた…張り切って起こしちゃうよ！&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_SOON_#001" offset="00" relocatable="true" max_length="0">
+			<original>もう起きた！？&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>もう起きた！？&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_SOON_#002" offset="00" relocatable="true" max_length="0">
+			<original>ええー。せっかく張り切って来たのにつまらない！&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>ええー。せっかく張り切って来たのにつまらない！&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_SOON_#003" offset="00" relocatable="true" max_length="0">
+			<original>もっかい寝て、&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>もっかい寝て、&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_SOON_#004" offset="00" relocatable="true" max_length="0">
+			<original>ちょっと目をつぶってよ、お願い！&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>ちょっと目をつぶってよ、お願い！&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_WAKEUP_#001" offset="00" relocatable="true" max_length="0">
+			<original>最初はおいしいものの匂い…起きない。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>最初はおいしいものの匂い…起きない。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_WAKEUP_#002" offset="00" relocatable="true" max_length="0">
+			<original>次は耳元で楽器を鳴らす…これもダメ。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>次は耳元で楽器を鳴らす…これもダメ。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_WAKEUP_#003" offset="00" relocatable="true" max_length="0">
+			<original>じゃあこれだ。耳に息を吹きかける！&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>じゃあこれだ。耳に息を吹きかける！&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_WAKEUP_#004" offset="00" relocatable="true" max_length="0">
+			<original>ふー…&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>ふー…&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_HELLO_#001" offset="00" relocatable="true" max_length="0">
+			<original>おはよー！&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>おはよー！&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_HELLO_#002" offset="00" relocatable="true" max_length="0">
+			<original>どうだった、俺の起こし方。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>どうだった、俺の起こし方。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_HELLO_#003" offset="00" relocatable="true" max_length="0">
+			<original>次はまた違う感じで試してみるから、&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>次はまた違う感じで試してみるから、&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_HELLO_#004" offset="00" relocatable="true" max_length="0">
+			<original>一番好きなのを教えて。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>一番好きなのを教えて。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_HELLO_#005" offset="00" relocatable="true" max_length="0">
+			<original>ね、神竜様。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>ね、神竜様。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_IN_#001" offset="00" relocatable="true" max_length="0">
+			<original>チャオ、神竜様…寝てるところごめんね。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>チャオ、神竜様…寝てるところごめんね。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_SOON_#001" offset="00" relocatable="true" max_length="0">
+			<original>あ、起きてた？&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>あ、起きてた？&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_SOON_#002" offset="00" relocatable="true" max_length="0">
+			<original>ううん、ちょっと話がしたかっただけ！&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>ううん、ちょっと話がしたかっただけ！&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_SOON_#003" offset="00" relocatable="true" max_length="0">
+			<original>すぐ起きてくれるなんて、&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>すぐ起きてくれるなんて、&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_SOON_#004" offset="00" relocatable="true" max_length="0">
+			<original>やっさしー！&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>やっさしー！&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_WAKEUP_#001" offset="00" relocatable="true" max_length="0">
+			<original>眠ってるなら好都合かな。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>眠ってるなら好都合かな。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_WAKEUP_#002" offset="00" relocatable="true" max_length="0">
+			<original>この前、俺が頑張ってるとこ見せたくないって話…&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>この前、俺が頑張ってるとこ見せたくないって話…&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_WAKEUP_#003" offset="00" relocatable="true" max_length="0">
+			<original>聞いてくれてありがとう。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>聞いてくれてありがとう。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_WAKEUP_#004" offset="00" relocatable="true" max_length="0">
+			<original>おかげで、俺は…&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>おかげで、俺は…&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_HELLO_#001" offset="00" relocatable="true" max_length="0">
+			<original>おはよ。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>おはよ。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_HELLO_#002" offset="00" relocatable="true" max_length="0">
+			<original>ううん、何でもないんだ。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>ううん、何でもないんだ。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_HELLO_#003" offset="00" relocatable="true" max_length="0">
+			<original>俺は大好きな神竜様のために、&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>俺は大好きな神竜様のために、&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_HELLO_#004" offset="00" relocatable="true" max_length="0">
+			<original>もっと頑張ろうって思った。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>もっと頑張ろうって思った。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_HELLO_#005" offset="00" relocatable="true" max_length="0">
+			<original>それを伝えたかっただけだよ。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>それを伝えたかっただけだよ。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_IN_#001" offset="00" relocatable="true" max_length="0">
+			<original>ここに来るの、だんだん好きになってきちゃったよ。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>ここに来るの、だんだん好きになってきちゃったよ。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_SOON_#001" offset="00" relocatable="true" max_length="0">
+			<original>おはよー、神竜様！&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>おはよー、神竜様！&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_SOON_#002" offset="00" relocatable="true" max_length="0">
+			<original>すぐに目覚めてくれるなんて、&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>すぐに目覚めてくれるなんて、&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_SOON_#003" offset="00" relocatable="true" max_length="0">
+			<original>さては神竜様も、&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>さては神竜様も、&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_SOON_#004" offset="00" relocatable="true" max_length="0">
+			<original>俺に起こされるのが好きになってきたね？&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>俺に起こされるのが好きになってきたね？&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_WAKEUP_#001" offset="00" relocatable="true" max_length="0">
+			<original>ふふふ…&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>ふふふ…&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_WAKEUP_#002" offset="00" relocatable="true" max_length="0">
+			<original>この一声では起きない手強さがいいよね。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>この一声では起きない手強さがいいよね。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_WAKEUP_#003" offset="00" relocatable="true" max_length="0">
+			<original>じゃ、このお香が消えるまでに起きたら俺の勝ちってことで…&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>じゃ、このお香が消えるまでに起きたら俺の勝ちってことで…&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_WAKEUP_#004" offset="00" relocatable="true" max_length="0">
+			<original>いざ、勝負！&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>いざ、勝負！&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_HELLO_#001" offset="00" relocatable="true" max_length="0">
+			<original>ありゃりゃ、思ったよりすぐ起きちゃった。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>ありゃりゃ、思ったよりすぐ起きちゃった。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_HELLO_#002" offset="00" relocatable="true" max_length="0">
+			<original>じゃあ俺の勝ちだね。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>じゃあ俺の勝ちだね。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_HELLO_#003" offset="00" relocatable="true" max_length="0">
+			<original>ご褒美に、今度ちょっとだけ二人で話させてよ。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>ご褒美に、今度ちょっとだけ二人で話させてよ。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_IN_#001" offset="00" relocatable="true" max_length="0">
+			<original>ソルム王国第一王子フォガート、&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>ソルム王国第一王子フォガート、&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_IN_#002" offset="00" relocatable="true" max_length="0">
+			<original>これより神竜様を起こさせていただきます！&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>これより神竜様を起こさせていただきます！&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_SOON_#001" offset="00" relocatable="true" max_length="0">
+			<original>お、あっさり起きた。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>お、あっさり起きた。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_SOON_#002" offset="00" relocatable="true" max_length="0">
+			<original>まだ時間があるから、&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>まだ時間があるから、&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_SOON_#003" offset="00" relocatable="true" max_length="0">
+			<original>神竜様の好きな食べ物の話でも聞こうかな？&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>神竜様の好きな食べ物の話でも聞こうかな？&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_WAKEUP_#001" offset="00" relocatable="true" max_length="0">
+			<original>ねえねえ、神竜様。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>ねえねえ、神竜様。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_WAKEUP_#002" offset="00" relocatable="true" max_length="0">
+			<original>俺が大活躍したら一緒に食事に行くって話、&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>俺が大活躍したら一緒に食事に行くって話、&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_WAKEUP_#003" offset="00" relocatable="true" max_length="0">
+			<original>覚えてくれてる？&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>覚えてくれてる？&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_WAKEUP_#004" offset="00" relocatable="true" max_length="0">
+			<original>俺、本当にずーっと楽しみにしてるからね。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>俺、本当にずーっと楽しみにしてるからね。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_HELLO_#001" offset="00" relocatable="true" max_length="0">
+			<original>起きた起きた。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>起きた起きた。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_HELLO_#002" offset="00" relocatable="true" max_length="0">
+			<original>じゃ、俺はこれで。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>じゃ、俺はこれで。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_HELLO_#003" offset="00" relocatable="true" max_length="0">
+			<original>たくさん鍛錬して、&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>たくさん鍛錬して、&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_HELLO_#004" offset="00" relocatable="true" max_length="0">
+			<original>早く戦場で大活躍できるようにならないと…&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>早く戦場で大活躍できるようにならないと…&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_HELLO_#005" offset="00" relocatable="true" max_length="0">
+			<original>ね、神竜様！&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>ね、神竜様！&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_IN_#001" offset="00" relocatable="true" max_length="0">
+			<original>神竜様ー！　こうして起こしに来られて嬉しいなー！&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>神竜様ー！　こうして起こしに来られて嬉しいなー！&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_SOON_#001" offset="00" relocatable="true" max_length="0">
+			<original>あ、ごめん。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>あ、ごめん。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_SOON_#002" offset="00" relocatable="true" max_length="0">
+			<original>声が大きかったね。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>声が大きかったね。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_SOON_#003" offset="00" relocatable="true" max_length="0">
+			<original>驚かせるつもりはなかったんだ。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>驚かせるつもりはなかったんだ。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_SOON_#004" offset="00" relocatable="true" max_length="0">
+			<original>…今から静かにするから許してよ。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>…今から静かにするから許してよ。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_SOON_#005" offset="00" relocatable="true" max_length="0">
+			<original>ね、おはよう。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>ね、おはよう。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_WAKEUP_#001" offset="00" relocatable="true" max_length="0">
+			<original>俺、パートナーになれてからずっと幸せだよ。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>俺、パートナーになれてからずっと幸せだよ。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_WAKEUP_#002" offset="00" relocatable="true" max_length="0">
+			<original>ありがとう。あ、でも…&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>ありがとう。あ、でも…&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_WAKEUP_#003" offset="00" relocatable="true" max_length="0">
+			<original>なかなか二人きりになれないのだけは不満かな。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>なかなか二人きりになれないのだけは不満かな。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_WAKEUP_#004" offset="00" relocatable="true" max_length="0">
+			<original>まあ、神竜様は軍の将だから仕方ないんだけど…&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>まあ、神竜様は軍の将だから仕方ないんだけど…&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_WAKEUP_#005" offset="00" relocatable="true" max_length="0">
+			<original>たまには、こんな風に二人だけで、ゆっくり過ごしたいな。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>たまには、こんな風に二人だけで、ゆっくり過ごしたいな。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_HELLO_#001" offset="00" relocatable="true" max_length="0">
+			<original>おはよう。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>おはよう。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_HELLO_#002" offset="00" relocatable="true" max_length="0">
+			<original>ああ、俺って欲張りだなあ。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>ああ、俺って欲張りだなあ。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_HELLO_#003" offset="00" relocatable="true" max_length="0">
+			<original>指輪を貰えただけで嬉しいのに…&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>指輪を貰えただけで嬉しいのに…&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_HELLO_#004" offset="00" relocatable="true" max_length="0">
+			<original>今度は、たくさんの君の時間を、&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>今度は、たくさんの君の時間を、&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_HELLO_#005" offset="00" relocatable="true" max_length="0">
+			<original>欲しいと思っちゃうんだ。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>欲しいと思っちゃうんだ。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_IN_#001" offset="00" relocatable="true" max_length="0">
+			<original>パートナーを起こしに来る時ほど幸せなことはないよね。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>パートナーを起こしに来る時ほど幸せなことはないよね。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_SOON_#001" offset="00" relocatable="true" max_length="0">
+			<original>おはよ。すぐ起きたってことは、&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>おはよ。すぐ起きたってことは、&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_SOON_#002" offset="00" relocatable="true" max_length="0">
+			<original>俺を待ってくれてた？&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>俺を待ってくれてた？&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_SOON_#003" offset="00" relocatable="true" max_length="0">
+			<original>…ありがとう。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>…ありがとう。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_SOON_#004" offset="00" relocatable="true" max_length="0">
+			<original>そういうところも、他の全部も、&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>そういうところも、他の全部も、&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_SOON_#005" offset="00" relocatable="true" max_length="0">
+			<original>だーい好きだよ…！&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>だーい好きだよ…！&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_WAKEUP_#001" offset="00" relocatable="true" max_length="0">
+			<original>神竜様…&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>神竜様…&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_WAKEUP_#002" offset="00" relocatable="true" max_length="0">
+			<original>また思い出の店で食事をしようね。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>また思い出の店で食事をしようね。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_WAKEUP_#003" offset="00" relocatable="true" max_length="0">
+			<original>俺はみんなのことが好きだし、&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>俺はみんなのことが好きだし、&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_WAKEUP_#004" offset="00" relocatable="true" max_length="0">
+			<original>誰にでも好きって言っちゃうけど、あの時…&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>誰にでも好きって言っちゃうけど、あの時…&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_WAKEUP_#005" offset="00" relocatable="true" max_length="0">
+			<original>本気で誘ったのは君が初めてだった。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>本気で誘ったのは君が初めてだった。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_WAKEUP_#006" offset="00" relocatable="true" max_length="0">
+			<original>…これまでも、これからもずっと、&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>…これまでも、これからもずっと、&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_WAKEUP_#007" offset="00" relocatable="true" max_length="0">
+			<original>一番愛してるのは、君だけ。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>一番愛してるのは、君だけ。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_WAKEUP_#008" offset="00" relocatable="true" max_length="0">
+			<original>大好きだよ。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>大好きだよ。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_HELLO_#001" offset="00" relocatable="true" max_length="0">
+			<original>今の聞いてた？&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>今の聞いてた？&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_HELLO_#002" offset="00" relocatable="true" max_length="0">
+			<original>いつ死ぬかわからないから、&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>いつ死ぬかわからないから、&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_HELLO_#003" offset="00" relocatable="true" max_length="0">
+			<original>気持ちはすぐに伝えないとね。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>気持ちはすぐに伝えないとね。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_HELLO_#004" offset="00" relocatable="true" max_length="0">
+			<original>…これからも毎日、&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>…これからも毎日、&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_HELLO_#005" offset="00" relocatable="true" max_length="0">
+			<original>君に好きだよって言わせて。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>君に好きだよって言わせて。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,4996 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_TUT_CATEGORY_TITLE_Battle" offset="00" relocatable="true" max_length="0">
+			<original>戦闘</original>
+			<edited>戦闘</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_CATEGORY_TITLE_God" offset="00" relocatable="true" max_length="0">
+			<original>紋章士</original>
+			<edited>紋章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_CATEGORY_TITLE_Hub" offset="00" relocatable="true" max_length="0">
+			<original>拠点</original>
+			<edited>拠点</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_CATEGORY_TITLE_Kizuna" offset="00" relocatable="true" max_length="0">
+			<original>散策・ワールドマップ</original>
+			<edited>散策・ワールドマップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_CATEGORY_TITLE_Challenge" offset="00" relocatable="true" max_length="0">
+			<original>試練</original>
+			<edited>試練</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_CATEGORY_TITLE_Local" offset="00" relocatable="true" max_length="0">
+			<original>ピックアップ</original>
+			<edited>ピックアップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_MOVE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>移動</original>
+			<edited>移動</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_MOVE_0" offset="00" relocatable="true" max_length="0">
+			<original>味方ユニットにカーソルを合わせて&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;A&#x0;を押すと
+&#xE;&#x8;&#x2;&#xE;&#xC;&#x0;S&#x0;t&#x0;i&#x0;c&#x0;k&#x0;L&#x0;でそのユニットを移動させることができます</original>
+			<edited>味方ユニットにカーソルを合わせて&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;A&#x0;を押すと
+&#xE;&#x8;&#x2;&#xE;&#xC;&#x0;S&#x0;t&#x0;i&#x0;c&#x0;k&#x0;L&#x0;でそのユニットを移動させることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_MOVE_1" offset="00" relocatable="true" max_length="0">
+			<original>表示される「青いマス」が移動できる範囲です</original>
+			<edited>表示される「青いマス」が移動できる範囲です</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_MOVE_2" offset="00" relocatable="true" max_length="0">
+			<original>もう一度、&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;A&#x0;を押せば移動が完了します</original>
+			<edited>もう一度、&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;A&#x0;を押せば移動が完了します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_COMMAND_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>ユニットコマンド</original>
+			<edited>ユニットコマンド</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_COMMAND_0" offset="00" relocatable="true" max_length="0">
+			<original>移動が完了すると、「ユニットコマンド」が表示され
+その場所で可能な行動を選ぶことができます</original>
+			<edited>移動が完了すると、「ユニットコマンド」が表示され
+その場所で可能な行動を選ぶことができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_COMMAND_1" offset="00" relocatable="true" max_length="0">
+			<original>何もしない時はその場で「待機」を選びます</original>
+			<edited>何もしない時はその場で「待機」を選びます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_CHANGE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>フェイズチェンジ</original>
+			<edited>フェイズチェンジ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_CHANGE_0" offset="00" relocatable="true" max_length="0">
+			<original>全ての味方の行動が終わると
+敵軍フェイズにチェンジし
+敵ユニットが行動を始めます</original>
+			<edited>全ての味方の行動が終わると
+敵軍フェイズにチェンジし
+敵ユニットが行動を始めます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_CHANGE_1" offset="00" relocatable="true" max_length="0">
+			<original>全ての軍のフェイズが終わるまでを
+「ターン」と呼び「ターン」が終わると
+再び自軍フェイズになります</original>
+			<edited>全ての軍のフェイズが終わるまでを
+「ターン」と呼び「ターン」が終わると
+再び自軍フェイズになります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_ATTACK_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>攻撃</original>
+			<edited>攻撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_ATTACK_0" offset="00" relocatable="true" max_length="0">
+			<original>味方を敵の近くまで移動させて&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;A&#x0;を押し
+ユニットコマンドから「攻撃」を選びます</original>
+			<edited>味方を敵の近くまで移動させて&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;A&#x0;を押し
+ユニットコマンドから「攻撃」を選びます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_ATTACK_1" offset="00" relocatable="true" max_length="0">
+			<original>敵にカーソルを合わせ「&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;A&#x0;攻撃」と出たら
+&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;A&#x0;で、攻撃が開始されます</original>
+			<edited>敵にカーソルを合わせ「&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;A&#x0;攻撃」と出たら
+&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;A&#x0;で、攻撃が開始されます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_ENGAGE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ</original>
+			<edited>エンゲージ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_ENGAGE_0" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージカウントが最大まで溜まると
+「ユニットコマンド」から「エンゲージ」を
+選択できるようになります</original>
+			<edited>エンゲージカウントが最大まで溜まると
+「ユニットコマンド」から「エンゲージ」を
+選択できるようになります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_ENGAGE_1" offset="00" relocatable="true" max_length="0">
+			<original>「エンゲージ」を選ぶと、紋章士と
+一心同体の状態となり、「エンゲージ武器」という
+特別な武器が使えるようになります</original>
+			<edited>「エンゲージ」を選ぶと、紋章士と
+一心同体の状態となり、「エンゲージ武器」という
+特別な武器が使えるようになります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_ENGAGE_2" offset="00" relocatable="true" max_length="0">
+			<original>さらに「エンゲージスキル」が解放され
+味方の能力が強化されます</original>
+			<edited>さらに「エンゲージスキル」が解放され
+味方の能力が強化されます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_ENGAGE_3" offset="00" relocatable="true" max_length="0">
+			<original>「エンゲージ」状態は3ターン続きます</original>
+			<edited>「エンゲージ」状態は3ターン続きます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_ENGAGE_ATTACK_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ技</original>
+			<edited>エンゲージ技</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_ENGAGE_ATTACK_0" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ状態になると「エンゲージ技」という
+特別な技を使うことができるようになります</original>
+			<edited>エンゲージ状態になると「エンゲージ技」という
+特別な技を使うことができるようになります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_ENGAGE_ATTACK_1" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ中に一度しか
+使うことができませんが、代わりに
+非常に強い能力を持っています</original>
+			<edited>エンゲージ中に一度しか
+使うことができませんが、代わりに
+非常に強い能力を持っています</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_ENGAGE_ATTACK_2" offset="00" relocatable="true" max_length="0">
+			<original>例えばエンゲージ技「スターラッシュ」は
+敵に大ダメージを与えられます
+「スターラッシュ」と「武器」を選ぶと使用できます</original>
+			<edited>例えばエンゲージ技「スターラッシュ」は
+敵に大ダメージを与えられます
+「スターラッシュ」と「武器」を選ぶと使用できます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_TERRAIN_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>地形効果</original>
+			<edited>地形効果</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_TERRAIN_0" offset="00" relocatable="true" max_length="0">
+			<original>地形は様々な「地形効果」を持っています
+例えば「茂み」は敵の攻撃が当たりにくくなります</original>
+			<edited>地形は様々な「地形効果」を持っています
+例えば「茂み」は敵の攻撃が当たりにくくなります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_TERRAIN_1" offset="00" relocatable="true" max_length="0">
+			<original>ただし、「茂み」に進入するには通常よりも多く
+移動力を必要とするので注意しましょう</original>
+			<edited>ただし、「茂み」に進入するには通常よりも多く
+移動力を必要とするので注意しましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_TERRAIN_2" offset="00" relocatable="true" max_length="0">
+			<original>「地形効果」は画面左上の
+「地形情報」で確認できます
+上手く利用して戦いましょう</original>
+			<edited>「地形効果」は画面左上の
+「地形情報」で確認できます
+上手く利用して戦いましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_RECOVERY_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>回復</original>
+			<edited>回復</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_RECOVERY_0" offset="00" relocatable="true" max_length="0">
+			<original>HPが0になると戦闘不能になってしまいます
+そうなる前に傷薬などを使って
+「回復」を行いましょう</original>
+			<edited>HPが0になると戦闘不能になってしまいます
+そうなる前に傷薬などを使って
+「回復」を行いましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_RECOVERY_1" offset="00" relocatable="true" max_length="0">
+			<original>ユニットコマンドの「持ち物」から
+「傷薬」「使う」を選ぶと
+使用することができます</original>
+			<edited>ユニットコマンドの「持ち物」から
+「傷薬」「使う」を選ぶと
+使用することができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_SYNCHRO_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>シンクロ</original>
+			<edited>シンクロ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_SYNCHRO_0" offset="00" relocatable="true" max_length="0">
+			<original>ユニットが紋章士と共に戦場に立ち
+共闘している状態を「シンクロ」と呼びます</original>
+			<edited>ユニットが紋章士と共に戦場に立ち
+共闘している状態を「シンクロ」と呼びます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_SYNCHRO_1" offset="00" relocatable="true" max_length="0">
+			<original>「シンクロ」中は能力が上昇し
+特殊なスキルが解放されます</original>
+			<edited>「シンクロ」中は能力が上昇し
+特殊なスキルが解放されます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_KIZUNA_LV_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>絆レベル</original>
+			<edited>絆レベル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_KIZUNA_LV_0" offset="00" relocatable="true" max_length="0">
+			<original>味方が紋章士と一緒に戦っていると
+二人の間で「絆経験値」が溜まり
+「絆レベル」が上がります</original>
+			<edited>味方が紋章士と一緒に戦っていると
+二人の間で「絆経験値」が溜まり
+「絆レベル」が上がります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_KIZUNA_LV_1" offset="00" relocatable="true" max_length="0">
+			<original>「絆レベル」が上がると
+新たなスキルを習得したり
+各種能力が上昇したりします</original>
+			<edited>「絆レベル」が上がると
+新たなスキルを習得したり
+各種能力が上昇したりします</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_RANGE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>射程</original>
+			<edited>射程</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_RANGE_0" offset="00" relocatable="true" max_length="0">
+			<original>武器にはそれぞれ「射程」があります
+例えば弓は「射程2」で
+2マス先の敵を攻撃できます</original>
+			<edited>武器にはそれぞれ「射程」があります
+例えば弓は「射程2」で
+2マス先の敵を攻撃できます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_RANGE_1" offset="00" relocatable="true" max_length="0">
+			<original>射程1の武器を持つ敵からは
+反撃を受けませんが
+隣接する敵へは攻撃も反撃もできません</original>
+			<edited>射程1の武器を持つ敵からは
+反撃を受けませんが
+隣接する敵へは攻撃も反撃もできません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_BREAK_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>ブレイク</original>
+			<edited>ブレイク</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_BREAK_0" offset="00" relocatable="true" max_length="0">
+			<original>「相性が有利な武器」を装備して
+自分から敵に攻撃し、それが命中すれば
+「ブレイク」させることができます</original>
+			<edited>「相性が有利な武器」を装備して
+自分から敵に攻撃し、それが命中すれば
+「ブレイク」させることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_BREAK_1" offset="00" relocatable="true" max_length="0">
+			<original>「ブレイク」状態になった敵は
+その次の戦闘まで反撃できないので
+戦いを有利に進めることができます</original>
+			<edited>「ブレイク」状態になった敵は
+その次の戦闘まで反撃できないので
+戦いを有利に進めることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_BREAK_2" offset="00" relocatable="true" max_length="0">
+			<original>武器の相性は以下の通りです
+・剣は斧に、斧は槍に、槍は剣に強い
+・体術は、弓と魔道書と短剣に強い</original>
+			<edited>武器の相性は以下の通りです
+・剣は斧に、斧は槍に、槍は剣に強い
+・体術は、弓と魔道書と短剣に強い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_WAND_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>杖</original>
+			<edited>杖</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_WAND_0" offset="00" relocatable="true" max_length="0">
+			<original>モンクなどが使える「杖」は
+仲間をサポートする様々な
+効果を持ったアイテムです</original>
+			<edited>モンクなどが使える「杖」は
+仲間をサポートする様々な
+効果を持ったアイテムです</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_WAND_1" offset="00" relocatable="true" max_length="0">
+			<original>例えば「ライブ」は味方の
+HPを回復することができます</original>
+			<edited>例えば「ライブ」は味方の
+HPを回復することができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_WAND_2" offset="00" relocatable="true" max_length="0">
+			<original>便利ですが、使える回数に
+限りがあるので注意しましょう</original>
+			<edited>便利ですが、使える回数に
+限りがあるので注意しましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_STYLE_PRANA_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>戦闘スタイル【気功】</original>
+			<edited>戦闘スタイル【気功】</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_STYLE_PRANA_0" offset="00" relocatable="true" max_length="0">
+			<original>戦闘スタイル【気功】のユニットは
+隣接する味方を敵の攻撃から庇う
+「チェインガード」を使用できます</original>
+			<edited>戦闘スタイル【気功】のユニットは
+隣接する味方を敵の攻撃から庇う
+「チェインガード」を使用できます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_STYLE_PRANA_1" offset="00" relocatable="true" max_length="0">
+			<original>発動すると、最大HP20％分のダメージを
+受ける代わりに、味方のダメージを0にします</original>
+			<edited>発動すると、最大HP20％分のダメージを
+受ける代わりに、味方のダメージを0にします</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_STYLE_PRANA_2" offset="00" relocatable="true" max_length="0">
+			<original>「チェインガード」は自分のHPが
+最大の時にだけ使用できます
+（少しでも減っていると使えません）</original>
+			<edited>「チェインガード」は自分のHPが
+最大の時にだけ使用できます
+（少しでも減っていると使えません）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_MAGIC_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>魔法</original>
+			<edited>魔法</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_MAGIC_0" offset="00" relocatable="true" max_length="0">
+			<original>「魔法」は射程が長く
+隣接した敵にも攻撃することができます</original>
+			<edited>「魔法」は射程が長く
+隣接した敵にも攻撃することができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_MAGIC_1" offset="00" relocatable="true" max_length="0">
+			<original>また、剣や斧などの物理攻撃では
+ダメージを与えにくい敵に
+非常に有効です</original>
+			<edited>また、剣や斧などの物理攻撃では
+ダメージを与えにくい敵に
+非常に有効です</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_STYLE_MAGIC_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>戦闘スタイル【魔道】</original>
+			<edited>戦闘スタイル【魔道】</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_STYLE_MAGIC_0" offset="00" relocatable="true" max_length="0">
+			<original>戦闘スタイル【魔道】のユニットは
+魔法で攻撃した場合に、地形効果による
+敵の回避の＋補正を無効にします</original>
+			<edited>戦闘スタイル【魔道】のユニットは
+魔法で攻撃した場合に、地形効果による
+敵の回避の＋補正を無効にします</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_STYLE_MAGIC_1" offset="00" relocatable="true" max_length="0">
+			<original>通常なら攻撃を命中させにくい状況でも
+気にせず、遠距離から攻撃を
+加えることができます</original>
+			<edited>通常なら攻撃を命中させにくい状況でも
+気にせず、遠距離から攻撃を
+加えることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_GOD_ENERGY_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>紋章氣</original>
+			<edited>紋章氣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_GOD_ENERGY_0" offset="00" relocatable="true" max_length="0">
+			<original>マップ上に、「紋章氣」と呼ばれる
+エネルギーが滞留していることがあります</original>
+			<edited>マップ上に、「紋章氣」と呼ばれる
+エネルギーが滞留していることがあります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_GOD_ENERGY_1" offset="00" relocatable="true" max_length="0">
+			<original>シンクロ中の味方が「紋章氣」の上で
+行動終了したり、待機を行ったりすると
+エンゲージカウントが最大になります</original>
+			<edited>シンクロ中の味方が「紋章氣」の上で
+行動終了したり、待機を行ったりすると
+エンゲージカウントが最大になります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_OVERALLINFORMATION_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>危険範囲</original>
+			<edited>危険範囲</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_OVERALLINFORMATION_0" offset="00" relocatable="true" max_length="0">
+			<original>敵にカーソルを合わせると、その敵の攻撃範囲である
+「危険範囲」が表示されます。&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;A&#x0;ボタンを押すと、
+選択した敵の「危険範囲」を表示したままにできます。</original>
+			<edited>敵にカーソルを合わせると、その敵の攻撃範囲である
+「危険範囲」が表示されます。&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;A&#x0;ボタンを押すと、
+選択した敵の「危険範囲」を表示したままにできます。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_OVERALLINFORMATION_1" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x8;&#x2;&#x6;&#x4;&#x0;Z&#x0;L&#x0;ボタンでは、全ての敵の「危険範囲」を
+まとめて表示できます。</original>
+			<edited>&#xE;&#x8;&#x2;&#x6;&#x4;&#x0;Z&#x0;L&#x0;ボタンでは、全ての敵の「危険範囲」を
+まとめて表示できます。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_SPECIALATTACK_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>特効</original>
+			<edited>特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_SPECIALATTACK_0" offset="00" relocatable="true" max_length="0">
+			<original>武器の詳細情報にある「特効アイコン」は
+特定の敵に対して「特効」を
+持つことを表しています</original>
+			<edited>武器の詳細情報にある「特効アイコン」は
+特定の敵に対して「特効」を
+持つことを表しています</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_SPECIALATTACK_1" offset="00" relocatable="true" max_length="0">
+			<original>武器と同じアイコンを持つ敵を攻撃すると
+「特効」が発生し、通常よりとても大きな
+ダメージを与えることができます</original>
+			<edited>武器と同じアイコンを持つ敵を攻撃すると
+「特効」が発生し、通常よりとても大きな
+ダメージを与えることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_STYLE_COOP_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>戦闘スタイル【連携】</original>
+			<edited>戦闘スタイル【連携】</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_STYLE_COOP_0" offset="00" relocatable="true" max_length="0">
+			<original>戦闘スタイル【連携】のユニットは
+他の味方の攻撃時に、援護攻撃
+「チェインアタック」を行ってくれます</original>
+			<edited>戦闘スタイル【連携】のユニットは
+他の味方の攻撃時に、援護攻撃
+「チェインアタック」を行ってくれます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_STYLE_COOP_1" offset="00" relocatable="true" max_length="0">
+			<original>敵を攻撃した時に、【連携】スタイルの
+味方ユニットも同じ敵を攻撃可能であれば
+一緒に戦闘に参加してくれます</original>
+			<edited>敵を攻撃した時に、【連携】スタイルの
+味方ユニットも同じ敵を攻撃可能であれば
+一緒に戦闘に参加してくれます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_STYLE_HORSE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>戦闘スタイル【騎馬】</original>
+			<edited>戦闘スタイル【騎馬】</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_STYLE_HORSE_0" offset="00" relocatable="true" max_length="0">
+			<original>戦闘スタイル【騎馬】のユニットは
+他のスタイルのユニットよりも
+高い移動力を持っています</original>
+			<edited>戦闘スタイル【騎馬】のユニットは
+他のスタイルのユニットよりも
+高い移動力を持っています</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_STYLE_HORSE_1" offset="00" relocatable="true" max_length="0">
+			<original>敵陣に切り込んで先手を取ったり
+仲間の危機に遠くから駆けつけたりと
+機動力を活かした戦い方が得意です</original>
+			<edited>敵陣に切り込んで先手を取ったり
+仲間の危機に遠くから駆けつけたりと
+機動力を活かした戦い方が得意です</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_STYLE_COVERT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>戦闘スタイル【隠密】</original>
+			<edited>戦闘スタイル【隠密】</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_STYLE_COVERT_0" offset="00" relocatable="true" max_length="0">
+			<original>戦闘スタイル【隠密】のユニットは
+地形効果によって得られる＋補正が倍になります</original>
+			<edited>戦闘スタイル【隠密】のユニットは
+地形効果によって得られる＋補正が倍になります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_STYLE_COVERT_1" offset="00" relocatable="true" max_length="0">
+			<original>「茂み」などの地形が多い場所では
+それらをより活用でき、戦いを有利に進められます</original>
+			<edited>「茂み」などの地形が多い場所では
+それらをより活用でき、戦いを有利に進められます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_STYLE_HEAVY_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>戦闘スタイル【重装】</original>
+			<edited>戦闘スタイル【重装】</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_STYLE_HEAVY_0" offset="00" relocatable="true" max_length="0">
+			<original>戦闘スタイル【重装】のユニットは
+「相性が不利な武器」で攻撃を受けても
+ブレイクされません</original>
+			<edited>戦闘スタイル【重装】のユニットは
+「相性が不利な武器」で攻撃を受けても
+ブレイクされません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_STYLE_HEAVY_1" offset="00" relocatable="true" max_length="0">
+			<original>また、HPが多く、守備が高いため
+前線での壁役として非常に頼りになります
+ただし「魔防」は低いので魔法攻撃には注意です</original>
+			<edited>また、HPが多く、守備が高いため
+前線での壁役として非常に頼りになります
+ただし「魔防」は低いので魔法攻撃には注意です</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_STYLE_FLY_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>戦闘スタイル【飛行】</original>
+			<edited>戦闘スタイル【飛行】</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_STYLE_FLY_0" offset="00" relocatable="true" max_length="0">
+			<original>戦闘スタイル【飛行】のユニットは
+地形効果や、地形の移動への影響をうけません
+また、「歩行不可」の地形を通ることができます</original>
+			<edited>戦闘スタイル【飛行】のユニットは
+地形効果や、地形の移動への影響をうけません
+また、「歩行不可」の地形を通ることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_STYLE_FLY_1" offset="00" relocatable="true" max_length="0">
+			<original>高い移動能力を持っていますが
+弓などの「飛行特効」を持つ武器に弱いので
+注意しましょう</original>
+			<edited>高い移動能力を持っていますが
+弓などの「飛行特効」を持つ武器に弱いので
+注意しましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_STYLE_DRAGON_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>戦闘スタイル【竜族】</original>
+			<edited>戦闘スタイル【竜族】</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_STYLE_DRAGON_0" offset="00" relocatable="true" max_length="0">
+			<original>戦闘スタイル【竜族】のユニットは
+エンゲージスキルかエンゲージ技に
+追加の効果が必ず付与されます</original>
+			<edited>戦闘スタイル【竜族】のユニットは
+エンゲージスキルかエンゲージ技に
+追加の効果が必ず付与されます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_STYLE_DRAGON_1" offset="00" relocatable="true" max_length="0">
+			<original>紋章士の能力を活かした戦いができるので
+色々な紋章士と絆を高めておくと
+戦略の幅が格段に広がります</original>
+			<edited>紋章士の能力を活かした戦いができるので
+色々な紋章士と絆を高めておくと
+戦略の幅が格段に広がります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_STYLE_BATTLE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>戦闘スタイル</original>
+			<edited>戦闘スタイル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_STYLE_BATTLE_0" offset="00" relocatable="true" max_length="0">
+			<original>ユニットは【騎馬】【気功】【魔道】といった
+それぞれに特長の異なる
+様々な「戦闘スタイル」を持っています</original>
+			<edited>ユニットは【騎馬】【気功】【魔道】といった
+それぞれに特長の異なる
+様々な「戦闘スタイル」を持っています</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_STYLE_BATTLE_1" offset="00" relocatable="true" max_length="0">
+			<original>どのユニットが、どの「戦闘スタイル」なのかは
+ステータスで確認することができます</original>
+			<edited>どのユニットが、どの「戦闘スタイル」なのかは
+ステータスで確認することができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_ITEMDROP_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>アイテムドロップ</original>
+			<edited>アイテムドロップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_ITEMDROP_0" offset="00" relocatable="true" max_length="0">
+			<original>「ドロップアイコン」が表示されている敵を倒すと
+持っていたアイテムを手に入れることができます</original>
+			<edited>「ドロップアイコン」が表示されている敵を倒すと
+持っていたアイテムを手に入れることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_ITEMDROP_1" offset="00" relocatable="true" max_length="0">
+			<original>手に入れられるアイテムは、その敵の
+ステータスに「緑色」で表示されています</original>
+			<edited>手に入れられるアイテムは、その敵の
+ステータスに「緑色」で表示されています</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_XHELP_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>詳細情報</original>
+			<edited>詳細情報</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_XHELP_0" offset="00" relocatable="true" max_length="0">
+			<original>ユニットにカーソルを合わせて&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;X&#x0;を押すと
+そのユニットの「詳細情報」を見ることができます</original>
+			<edited>ユニットにカーソルを合わせて&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;X&#x0;を押すと
+そのユニットの「詳細情報」を見ることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_XHELP_1" offset="00" relocatable="true" max_length="0">
+			<original>カーソルを動かすことで「武器」や「スキル」などの
+見たい項目の「詳細情報」を確認できます</original>
+			<edited>カーソルを動かすことで「武器」や「スキル」などの
+見たい項目の「詳細情報」を確認できます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_XHELP_2" offset="00" relocatable="true" max_length="0">
+			<original>もう一度&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;X&#x0;を押すか
+&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;B&#x0;を押すと元の状態に戻ります</original>
+			<edited>もう一度&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;X&#x0;を押すか
+&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;B&#x0;を押すと元の状態に戻ります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_BONDSSUPPORTTALK_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>絆会話</original>
+			<edited>絆会話</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_BONDSSUPPORTTALK_0" offset="00" relocatable="true" max_length="0">
+			<original>味方と紋章士の絆レベルが上がると
+「絆会話」という会話イベントが
+見られるようになります</original>
+			<edited>味方と紋章士の絆レベルが上がると
+「絆会話」という会話イベントが
+見られるようになります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_BONDSSUPPORTTALK_1" offset="00" relocatable="true" max_length="0">
+			<original>「絆会話」は、ワールドマップや
+拠点ソラネルにいる時に見ることができます</original>
+			<edited>「絆会話」は、ワールドマップや
+拠点ソラネルにいる時に見ることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_BONDSSUPPORTTALK_2" offset="00" relocatable="true" max_length="0">
+			<original>「絆会話」を見ると、絆レベルを
+更に高いレベルまで上げられるようになります</original>
+			<edited>「絆会話」を見ると、絆レベルを
+更に高いレベルまで上げられるようになります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_SUPPORT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>支援効果</original>
+			<edited>支援効果</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_SUPPORT_0" offset="00" relocatable="true" max_length="0">
+			<original>味方同士が隣接して戦闘をしたり
+回復を行ったりすると支援値がアップし
+「支援会話」が見られるようになります</original>
+			<edited>味方同士が隣接して戦闘をしたり
+回復を行ったりすると支援値がアップし
+「支援会話」が見られるようになります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_SUPPORT_1" offset="00" relocatable="true" max_length="0">
+			<original>「支援会話」はワールドマップや
+拠点ソラネルで見ることができ
+見終わると、「支援レベル」が上昇します</original>
+			<edited>「支援会話」はワールドマップや
+拠点ソラネルで見ることができ
+見終わると、「支援レベル」が上昇します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_SUPPORT_2" offset="00" relocatable="true" max_length="0">
+			<original>「支援レベル」が高くなるほど
+高い「支援効果」を受けることができ
+隣接していると能力が上昇します</original>
+			<edited>「支援レベル」が高くなるほど
+高い「支援効果」を受けることができ
+隣接していると能力が上昇します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_VISIT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>訪問</original>
+			<edited>訪問</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_VISIT_0" offset="00" relocatable="true" max_length="0">
+			<original>民家へ「訪問」して危険を知らせると
+報酬としてアイテムやゴールドなどがもらえます</original>
+			<edited>民家へ「訪問」して危険を知らせると
+報酬としてアイテムやゴールドなどがもらえます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_VISIT_1" offset="00" relocatable="true" max_length="0">
+			<original>民家の前の光るマスまで味方を移動させると
+「訪問」を選ぶことができます</original>
+			<edited>民家の前の光るマスまで味方を移動させると
+「訪問」を選ぶことができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_VISIT_2" offset="00" relocatable="true" max_length="0">
+			<original>民家に敵が到達すると
+破壊されてしまうので注意しましょう</original>
+			<edited>民家に敵が到達すると
+破壊されてしまうので注意しましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_TIMECRYSTAL_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>竜の時水晶</original>
+			<edited>竜の時水晶</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_TIMECRYSTAL_0" offset="00" relocatable="true" max_length="0">
+			<original>「竜の時水晶」を使うと、出撃中の行動を
+以前の時点まで戻し、やり直すことができます</original>
+			<edited>「竜の時水晶」を使うと、出撃中の行動を
+以前の時点まで戻し、やり直すことができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_TIMECRYSTAL_1" offset="00" relocatable="true" max_length="0">
+			<original>メニューの「竜の時水晶」で使用できます
+&#xE;&#x8;&#x2;&#x6;&#x4;&#x0;U&#x0;p&#x0;&#xE;&#x8;&#x2;
+&#x8;&#x0;D&#x0;o&#x0;w&#x0;n&#x0;で戻りたい場所を選び
+&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;A&#x0;で決定します</original>
+			<edited>メニューの「竜の時水晶」で使用できます
+&#xE;&#x8;&#x2;&#x6;&#x4;&#x0;U&#x0;p&#x0;&#xE;&#x8;&#x2;
+&#x8;&#x0;D&#x0;o&#x0;w&#x0;n&#x0;で戻りたい場所を選び
+&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;A&#x0;で決定します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_REINFORCEMENT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>増援</original>
+			<edited>増援</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_REINFORCEMENT_0" offset="00" relocatable="true" max_length="0">
+			<original>出撃中に敵の「増援」が
+出現することがあります</original>
+			<edited>出撃中に敵の「増援」が
+出現することがあります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_REINFORCEMENT_1" offset="00" relocatable="true" max_length="0">
+			<original>「増援」は「砦」や「マップ端」から
+出現することがあるので
+念のため、気をつけておくとよいでしょう</original>
+			<edited>「増援」は「砦」や「マップ端」から
+出現することがあるので
+念のため、気をつけておくとよいでしょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_TRANSPORTER_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>輸送隊</original>
+			<edited>輸送隊</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_TRANSPORTER_0" offset="00" relocatable="true" max_length="0">
+			<original>「輸送隊」を使用すると
+持ちきれない武器やアイテムを預けたり
+必要な時に受け取ったりすることができます</original>
+			<edited>「輸送隊」を使用すると
+持ちきれない武器やアイテムを預けたり
+必要な時に受け取ったりすることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_TRANSPORTER_1" offset="00" relocatable="true" max_length="0">
+			<original>出撃中は&#xE;&#x6;&#x3;&#x0;と
+&#xE;&#x6;&#x3;&#x0;に隣接している味方が
+使用することができます</original>
+			<edited>出撃中は&#xE;&#x6;&#x3;&#x0;と
+&#xE;&#x6;&#x3;&#x0;に隣接している味方が
+使用することができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_DEADSOUL_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>戦死者の魂</original>
+			<edited>戦死者の魂</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_DEADSOUL_0" offset="00" relocatable="true" max_length="0">
+			<original>ネットワークに接続していると、そのマップをプレイした
+世界中のプレイヤーの戦歴を元に
+「戦死者の魂」が出現することがあります</original>
+			<edited>ネットワークに接続していると、そのマップをプレイした
+世界中のプレイヤーの戦歴を元に
+「戦死者の魂」が出現することがあります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_DEADSOUL_1" offset="00" relocatable="true" max_length="0">
+			<original>「黄色い魂」は様々なプレイヤーのマップで
+味方ユニットが多く撃破されたマスに出現し
+待機すると、経験値や絆経験値が入手できます</original>
+			<edited>「黄色い魂」は様々なプレイヤーのマップで
+味方ユニットが多く撃破されたマスに出現し
+待機すると、経験値や絆経験値が入手できます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_DEADSOUL_2" offset="00" relocatable="true" max_length="0">
+			<original>「紫色の魂」は様々なプレイヤーのマップで
+敵ユニットが多く撃破された場所に出現し
+待機すると、アイテムを入手できます</original>
+			<edited>「紫色の魂」は様々なプレイヤーのマップで
+敵ユニットが多く撃破された場所に出現し
+待機すると、アイテムを入手できます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_DOOR_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>扉</original>
+			<edited>扉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_DOOR_0" offset="00" relocatable="true" max_length="0">
+			<original>「扉」は攻撃して破壊すれば
+通ることができるようになります</original>
+			<edited>「扉」は攻撃して破壊すれば
+通ることができるようになります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_DOOR_1" offset="00" relocatable="true" max_length="0">
+			<original>味方に「シーフ」がいれば
+「扉の鍵」コマンドが使用でき
+破壊せずに開けることもできます</original>
+			<edited>味方に「シーフ」がいれば
+「扉の鍵」コマンドが使用でき
+破壊せずに開けることもできます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_TREASUREBOX_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>宝箱</original>
+			<edited>宝箱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_TREASUREBOX_0" offset="00" relocatable="true" max_length="0">
+			<original>「宝箱」は中にアイテムが入っており
+隣接して「宝箱」コマンドを使えば
+入手することができます</original>
+			<edited>「宝箱」は中にアイテムが入っており
+隣接して「宝箱」コマンドを使えば
+入手することができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_TREASUREBOX_1" offset="00" relocatable="true" max_length="0">
+			<original>敵に中身を奪われても、逃げられる前に
+その敵を撃破すれば取り返すことができます</original>
+			<edited>敵に中身を奪われても、逃げられる前に
+その敵を撃破すれば取り返すことができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_BREAKINGWALL_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>地形破壊</original>
+			<edited>地形破壊</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_BREAKINGWALL_0" offset="00" relocatable="true" max_length="0">
+			<original>地形情報に「破壊可能」と表示されている地形は
+攻撃して破壊することができます</original>
+			<edited>地形情報に「破壊可能」と表示されている地形は
+攻撃して破壊することができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_BREAKINGWALL_1" offset="00" relocatable="true" max_length="0">
+			<original>破壊したあとは、その場所を
+通ることができるようになります</original>
+			<edited>破壊したあとは、その場所を
+通ることができるようになります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_HPSTOCK_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>復活の石</original>
+			<edited>復活の石</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_HPSTOCK_0" offset="00" relocatable="true" max_length="0">
+			<original>一部の強力な敵は
+「復活の石」を身につけています</original>
+			<edited>一部の強力な敵は
+「復活の石」を身につけています</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_HPSTOCK_1" offset="00" relocatable="true" max_length="0">
+			<original>HPが0になっても、それを使い
+復活・回復してしまいます</original>
+			<edited>HPが0になっても、それを使い
+復活・回復してしまいます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_HPSTOCK_2" offset="00" relocatable="true" max_length="0">
+			<original>「復活の石」が残っている状態では
+倒すことができないので
+使い切るまで攻撃を続けましょう</original>
+			<edited>「復活の石」が残っている状態では
+倒すことができないので
+使い切るまで攻撃を続けましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_INTERFERINGCANE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>妨害杖</original>
+			<edited>妨害杖</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_INTERFERINGCANE_0" offset="00" relocatable="true" max_length="0">
+			<original>杖の中には、障害物を設置するなどして
+敵の動きを妨害できるものがあります</original>
+			<edited>杖の中には、障害物を設置するなどして
+敵の動きを妨害できるものがあります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_SEARCH_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>暗闇</original>
+			<edited>暗闇</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_SEARCH_0" offset="00" relocatable="true" max_length="0">
+			<original>「暗闇」マップでは、味方の周辺や
+「篝火」「たいまつ」の光が届く範囲でしか
+マップを見ることができません</original>
+			<edited>「暗闇」マップでは、味方の周辺や
+「篝火」「たいまつ」の光が届く範囲でしか
+マップを見ることができません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_SEARCH_1" offset="00" relocatable="true" max_length="0">
+			<original>敵が潜んでいても、
+居場所を知ることができないので
+注意しながら進みましょう</original>
+			<edited>敵が潜んでいても、
+居場所を知ることができないので
+注意しながら進みましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_POISON_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>状態異常「毒」</original>
+			<edited>状態異常「毒」</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_POISON_0" offset="00" relocatable="true" max_length="0">
+			<original>シーフが得意とする「短剣」の攻撃で
+敵にダメージを与えると
+「毒」状態にすることができます</original>
+			<edited>シーフが得意とする「短剣」の攻撃で
+敵にダメージを与えると
+「毒」状態にすることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_POISON_1" offset="00" relocatable="true" max_length="0">
+			<original>「毒」状態の敵を攻撃すると
+いつもよりたくさんのダメージを
+与えることができます</original>
+			<edited>「毒」状態の敵を攻撃すると
+いつもよりたくさんのダメージを
+与えることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_POISON_2" offset="00" relocatable="true" max_length="0">
+			<original>また、「毒」状態になった敵に
+さらに短剣を命中させると
+毒の強さが増していきます</original>
+			<edited>また、「毒」状態になった敵に
+さらに短剣を命中させると
+毒の強さが増していきます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_POISON_3" offset="00" relocatable="true" max_length="0">
+			<original>「毒」は、「毒消し薬」や杖の「レスト」を
+使用しないかぎり、マップ終了まで効果が続きます</original>
+			<edited>「毒」は、「毒消し薬」や杖の「レスト」を
+使用しないかぎり、マップ終了まで効果が続きます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_TORCH_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>篝火</original>
+			<edited>篝火</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_TORCH_0" offset="00" relocatable="true" max_length="0">
+			<original>火の消えた「篝火」は隣まで移動して
+「篝火」コマンドを使う事で
+火をつけることができます</original>
+			<edited>火の消えた「篝火」は隣まで移動して
+「篝火」コマンドを使う事で
+火をつけることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_TORCH_1" offset="00" relocatable="true" max_length="0">
+			<original>篝火をつければ
+周囲の暗闇を照らすことができ
+潜んでいる敵を発見しやすくなります</original>
+			<edited>篝火をつければ
+周囲の暗闇を照らすことができ
+潜んでいる敵を発見しやすくなります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_SMASH_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>スマッシュ</original>
+			<edited>スマッシュ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_SMASH_0" offset="00" relocatable="true" max_length="0">
+			<original>「てつの大剣」や「てつの大槍」などの大振りな武器は
+こちらから攻撃をした時、必ず後攻になる代わりに
+「スマッシュ」が発生し、敵を1マス後退させられます</original>
+			<edited>「てつの大剣」や「てつの大槍」などの大振りな武器は
+こちらから攻撃をした時、必ず後攻になる代わりに
+「スマッシュ」が発生し、敵を1マス後退させられます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_SMASH_1" offset="00" relocatable="true" max_length="0">
+			<original>後退した先に他のユニットが居たり
+壁などの障害物があったりした場合は
+ブレイクさせることができます</original>
+			<edited>後退した先に他のユニットが居たり
+壁などの障害物があったりした場合は
+ブレイクさせることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_SMASH_2" offset="00" relocatable="true" max_length="0">
+			<original>威力も高く便利ですが、これらの武器は重く
+追撃を行うことができないので注意しましょう</original>
+			<edited>威力も高く便利ですが、これらの武器は重く
+追撃を行うことができないので注意しましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_DARKSYNCHRO_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>闇シンクロ</original>
+			<edited>闇シンクロ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_DARKSYNCHRO_0" offset="00" relocatable="true" max_length="0">
+			<original>敵の中には紋章士と「闇シンクロ」して
+戦うユニットがいます</original>
+			<edited>敵の中には紋章士と「闇シンクロ」して
+戦うユニットがいます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_DARKSYNCHRO_1" offset="00" relocatable="true" max_length="0">
+			<original>闇の力でシンクロしているため
+エンゲージすることはありませんが
+エンゲージ技は使用することができます</original>
+			<edited>闇の力でシンクロしているため
+エンゲージすることはありませんが
+エンゲージ技は使用することができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_DARKSYNCHRO_2" offset="00" relocatable="true" max_length="0">
+			<original>敵がエンゲージ技を使える状態になると
+この箇所が光るので注意しましょう</original>
+			<edited>敵がエンゲージ技を使える状態になると
+この箇所が光るので注意しましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_BOWTURRET_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>弓砲台</original>
+			<edited>弓砲台</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_BOWTURRET_0" offset="00" relocatable="true" max_length="0">
+			<original>攻撃可能な弓を所持しているユニットが
+「弓砲台」のある場所に移動すると
+「砲撃」コマンドを使用できます</original>
+			<edited>攻撃可能な弓を所持しているユニットが
+「弓砲台」のある場所に移動すると
+「砲撃」コマンドを使用できます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_BOWTURRET_1" offset="00" relocatable="true" max_length="0">
+			<original>「砲撃」は威力が高く
+射程も非常に長いので
+遠くの敵に大ダメージを与えられます</original>
+			<edited>「砲撃」は威力が高く
+射程も非常に長いので
+遠くの敵に大ダメージを与えられます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_BOWTURRET_2" offset="00" relocatable="true" max_length="0">
+			<original>ただし、撃てる回数には限りがあるので
+注意して使用しましょう</original>
+			<edited>ただし、撃てる回数には限りがあるので
+注意して使用しましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_CONVERSATION_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>会話</original>
+			<edited>会話</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_CONVERSATION_0" offset="00" relocatable="true" max_length="0">
+			<original>「会話アイコン」が表示されているユニットは
+隣接して「会話」コマンドを使うことで
+話しをすることができます</original>
+			<edited>「会話アイコン」が表示されているユニットは
+隣接して「会話」コマンドを使うことで
+話しをすることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_CONVERSATION_1" offset="00" relocatable="true" max_length="0">
+			<original>話すことで味方になるユニットもいるので
+積極的に「会話」をすると良いでしょう</original>
+			<edited>話すことで味方になるユニットもいるので
+積極的に「会話」をすると良いでしょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_CONVERSATION_2" offset="00" relocatable="true" max_length="0">
+			<original>特定の味方でしか、話しかけることが
+できないユニットもいます</original>
+			<edited>特定の味方でしか、話しかけることが
+できないユニットもいます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_MAGICTURRET_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>魔砲台</original>
+			<edited>魔砲台</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_MAGICTURRET_0" offset="00" relocatable="true" max_length="0">
+			<original>使用可能な魔道書を所持しているユニットが
+「魔砲台」のある場所に移動すると
+「砲撃」コマンドを使用できます</original>
+			<edited>使用可能な魔道書を所持しているユニットが
+「魔砲台」のある場所に移動すると
+「砲撃」コマンドを使用できます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_MAGICTURRET_1" offset="00" relocatable="true" max_length="0">
+			<original>「砲撃」は威力が高く
+射程も非常に長いので
+遠くの敵に大ダメージを与えられます</original>
+			<edited>「砲撃」は威力が高く
+射程も非常に長いので
+遠くの敵に大ダメージを与えられます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_MAGICTURRET_2" offset="00" relocatable="true" max_length="0">
+			<original>弓砲台同様、撃てる回数には限りがあるので
+注意して使用しましょう</original>
+			<edited>弓砲台同様、撃てる回数には限りがあるので
+注意して使用しましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_QUICKSAND_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>流砂</original>
+			<edited>流砂</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_QUICKSAND_0" offset="00" relocatable="true" max_length="0">
+			<original>「流砂」はそこから出る時にのみ
+移動力を多く必要とする
+特殊な地形です</original>
+			<edited>「流砂」はそこから出る時にのみ
+移動力を多く必要とする
+特殊な地形です</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_QUICKSAND_1" offset="00" relocatable="true" max_length="0">
+			<original>うかつに進入すると身動きが
+とりづらくなってしまうので
+不利な状況にならないよう気をつけましょう</original>
+			<edited>うかつに進入すると身動きが
+とりづらくなってしまうので
+不利な状況にならないよう気をつけましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_RECKLESS_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>暴走</original>
+			<edited>暴走</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_RECKLESS_0" offset="00" relocatable="true" max_length="0">
+			<original>「闇シンクロ」している敵は
+「復活の石」を使って復活する際に
+「暴走」状態になることがあります</original>
+			<edited>「闇シンクロ」している敵は
+「復活の石」を使って復活する際に
+「暴走」状態になることがあります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_RECKLESS_1" offset="00" relocatable="true" max_length="0">
+			<original>紋章士の力を暴走させ
+性能が強化されるので注意しましょう</original>
+			<edited>紋章士の力を暴走させ
+性能が強化されるので注意しましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_DANCE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>踊る</original>
+			<edited>踊る</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_DANCE_0" offset="00" relocatable="true" max_length="0">
+			<original>ダンサーは行動済みの味方に隣接すると
+「踊る」コマンドを使用することができます</original>
+			<edited>ダンサーは行動済みの味方に隣接すると
+「踊る」コマンドを使用することができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_DANCE_1" offset="00" relocatable="true" max_length="0">
+			<original>「踊る」コマンドを使用すると
+味方が未行動状態に戻り
+もう一度行動することができます</original>
+			<edited>「踊る」コマンドを使用すると
+味方が未行動状態に戻り
+もう一度行動することができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_FLAMETURRET_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>火炎砲台</original>
+			<edited>火炎砲台</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_FLAMETURRET_0" offset="00" relocatable="true" max_length="0">
+			<original>ユニットが「火炎砲台」の場所に移動すると
+「砲撃」コマンドを使用できます</original>
+			<edited>ユニットが「火炎砲台」の場所に移動すると
+「砲撃」コマンドを使用できます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_FLAMETURRET_1" offset="00" relocatable="true" max_length="0">
+			<original>火炎砲台の「砲撃」は着弾地点周辺を
+広範囲に攻撃し、更に地形に
+「炎」を付与します</original>
+			<edited>火炎砲台の「砲撃」は着弾地点周辺を
+広範囲に攻撃し、更に地形に
+「炎」を付与します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_FLAMETURRET_2" offset="00" relocatable="true" max_length="0">
+			<original>とても便利な攻撃ですが
+味方も巻き込んでしまうことと
+HPを0にできないことに注意しましょう</original>
+			<edited>とても便利な攻撃ですが
+味方も巻き込んでしまうことと
+HPを0にできないことに注意しましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_PICKUPARING_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>指輪収集</original>
+			<edited>指輪収集</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_PICKUPARING_0" offset="00" relocatable="true" max_length="0">
+			<original>落ちている指輪の近くに
+&#xE;&#x6;&#x3;&#x0;を待機させると
+紋章士を顕現することができます</original>
+			<edited>落ちている指輪の近くに
+&#xE;&#x6;&#x3;&#x0;を待機させると
+紋章士を顕現することができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_LINKINGUP_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>出撃中のシンクロ</original>
+			<edited>出撃中のシンクロ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_LINKINGUP_0" offset="00" relocatable="true" max_length="0">
+			<original>顕現した紋章士に指輪&#xE;&#x1;&#x8;&#x0;を持たない味方で
+隣接し「会話」をすると
+その場でシンクロ状態になることができます</original>
+			<edited>顕現した紋章士に指輪&#xE;&#x1;&#x8;&#x0;を持たない味方で
+隣接し「会話」をすると
+その場でシンクロ状態になることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_DRAGONCREST_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>邪竜紋</original>
+			<edited>邪竜紋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_DRAGONCREST_0" offset="00" relocatable="true" max_length="0">
+			<original>「邪竜紋」を破壊するためには
+邪竜紋の眷属である敵将
+「セピア」と「グリ」を撃破する必要があります</original>
+			<edited>「邪竜紋」を破壊するためには
+邪竜紋の眷属である敵将
+「セピア」と「グリ」を撃破する必要があります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_DRAGONCREST_1" offset="00" relocatable="true" max_length="0">
+			<original>二人は邪竜紋の力を使って
+「火山弾」を降らせてきます</original>
+			<edited>二人は邪竜紋の力を使って
+「火山弾」を降らせてきます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_VOLCANICBOMB_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>火山弾</original>
+			<edited>火山弾</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_VOLCANICBOMB_0" offset="00" relocatable="true" max_length="0">
+			<original>「火山弾」は数ターン毎に着弾します</original>
+			<edited>「火山弾」は数ターン毎に着弾します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_VOLCANICBOMB_1" offset="00" relocatable="true" max_length="0">
+			<original>当たると味方は大ダメージを受け
+着弾地点にある障害物（大岩）は破壊されます</original>
+			<edited>当たると味方は大ダメージを受け
+着弾地点にある障害物（大岩）は破壊されます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_VOLCANICBOMB_2" offset="00" relocatable="true" max_length="0">
+			<original>着弾地点は、あらかじめ表示されるので
+巻き込まれないよう注意しましょう</original>
+			<edited>着弾地点は、あらかじめ表示されるので
+巻き込まれないよう注意しましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_AVALANCHE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>雪崩</original>
+			<edited>雪崩</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_AVALANCHE_0" offset="00" relocatable="true" max_length="0">
+			<original>敵の&#xE;&#x6;&#x3;&#x0;は
+邪竜紋の力を使って「雪崩」を起こし
+味方を押し流します</original>
+			<edited>敵の&#xE;&#x6;&#x3;&#x0;は
+邪竜紋の力を使って「雪崩」を起こし
+味方を押し流します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_AVALANCHE_1" offset="00" relocatable="true" max_length="0">
+			<original>「雪崩」が起きる場所はあらかじめ表示されます
+なるべく注意して行動しましょう</original>
+			<edited>「雪崩」が起きる場所はあらかじめ表示されます
+なるべく注意して行動しましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_AVALANCHE_2" offset="00" relocatable="true" max_length="0">
+			<original>途中に岩があったり、敵が居たりした場合は
+それ以上流されることはありません</original>
+			<edited>途中に岩があったり、敵が居たりした場合は
+それ以上流されることはありません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_TURNLIMIT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>ターン制限</original>
+			<edited>ターン制限</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_TURNLIMIT_0" offset="00" relocatable="true" max_length="0">
+			<original>一部の戦闘マップでは、クリアまでの
+ターン数に制限がかかっていることがあります</original>
+			<edited>一部の戦闘マップでは、クリアまでの
+ターン数に制限がかかっていることがあります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_TURNLIMIT_1" offset="00" relocatable="true" max_length="0">
+			<original>決められたターン数を超えると敗北となるため
+その前に勝利条件を達成しましょう</original>
+			<edited>決められたターン数を超えると敗北となるため
+その前に勝利条件を達成しましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_DRAGONBEAM_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>邪竜紋砲</original>
+			<edited>邪竜紋砲</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_DRAGONBEAM_0" offset="00" relocatable="true" max_length="0">
+			<original>異形のルミエルは邪竜紋の力を使って
+広範囲攻撃「邪竜紋砲」を放ってきます</original>
+			<edited>異形のルミエルは邪竜紋の力を使って
+広範囲攻撃「邪竜紋砲」を放ってきます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_DRAGONBEAM_1" offset="00" relocatable="true" max_length="0">
+			<original>「邪竜紋砲」が命中する範囲は
+あらかじめ表示されます
+当たらないよう注意しましょう</original>
+			<edited>「邪竜紋砲」が命中する範囲は
+あらかじめ表示されます
+当たらないよう注意しましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_DARKHERALDIC_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>闇の紋章士</original>
+			<edited>闇の紋章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_DARKHERALDIC_0" offset="00" relocatable="true" max_length="0">
+			<original>「闇の紋章士」は強力な敵ですが、彼らと同じ異界に
+出自を持つ紋章士とシンクロ・エンゲージしている
+味方の攻撃なら、大きなダメージを与えられます</original>
+			<edited>「闇の紋章士」は強力な敵ですが、彼らと同じ異界に
+出自を持つ紋章士とシンクロ・エンゲージしている
+味方の攻撃なら、大きなダメージを与えられます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_BARRIER_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>闇の結界</original>
+			<edited>闇の結界</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_BARRIER_0" offset="00" relocatable="true" max_length="0">
+			<original>大邪竜ソンブルは闇の紋章士たちの
+作る「闇の結界」によって護られ
+ダメージを減少させられてしまいます</original>
+			<edited>大邪竜ソンブルは闇の紋章士たちの
+作る「闇の結界」によって護られ
+ダメージを減少させられてしまいます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_BARRIER_1" offset="00" relocatable="true" max_length="0">
+			<original>「闇の結界」は「闇の紋章士」を倒すことで
+効果を弱くすることができます</original>
+			<edited>「闇の結界」は「闇の紋章士」を倒すことで
+効果を弱くすることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_ENGAGERING_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>約束の指輪</original>
+			<edited>約束の指輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_ENGAGERING_0" offset="00" relocatable="true" max_length="0">
+			<original>「約束の指輪」は支援Aになった仲間に
+渡すことができ、その相手と強い絆を
+結ぶことができるアイテムです</original>
+			<edited>「約束の指輪」は支援Aになった仲間に
+渡すことができ、その相手と強い絆を
+結ぶことができるアイテムです</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_ENGAGERING_1" offset="00" relocatable="true" max_length="0">
+			<original>「マイルーム」の「マイチェスト」に
+保管されているので、必要な時に取り出し
+選んだ相手に渡しましょう</original>
+			<edited>「マイルーム」の「マイチェスト」に
+保管されているので、必要な時に取り出し
+選んだ相手に渡しましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_ENGAGERING_2" offset="00" relocatable="true" max_length="0">
+			<original>渡したい相手とソラネルで出会えない時は
+マイベッドで休憩をすることで
+会えるようになるかもしれません</original>
+			<edited>渡したい相手とソラネルで出会えない時は
+マイベッドで休憩をすることで
+会えるようになるかもしれません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_MARTH_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>紋章士マルス</original>
+			<edited>紋章士マルス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_MARTH_0" offset="00" relocatable="true" max_length="0">
+			<original>「紋章士マルス」は華麗な連続攻撃と
+敵を翻弄する軽快な動きを得意としています</original>
+			<edited>「紋章士マルス」は華麗な連続攻撃と
+敵を翻弄する軽快な動きを得意としています</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_MARTH_1" offset="00" relocatable="true" max_length="0">
+			<original>シンクロスキル「見切り」は、攻撃時
+敵の反撃が当たりにくくなります</original>
+			<edited>シンクロスキル「見切り」は、攻撃時
+敵の反撃が当たりにくくなります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_MARTH_2" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ武器「レイピア」は
+騎馬の敵や重装兵に大ダメージを与えられます</original>
+			<edited>エンゲージ武器「レイピア」は
+騎馬の敵や重装兵に大ダメージを与えられます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_MARTH_3" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージスキル「神速」は
+攻撃回数を常に＋1します</original>
+			<edited>エンゲージスキル「神速」は
+攻撃回数を常に＋1します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_MARTH_4" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ技「スターラッシュ」は
+目にも止まらぬ連続攻撃を繰り出し
+敵に大ダメージを与えられます</original>
+			<edited>エンゲージ技「スターラッシュ」は
+目にも止まらぬ連続攻撃を繰り出し
+敵に大ダメージを与えられます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_SIGLUD_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>紋章士シグルド</original>
+			<edited>紋章士シグルド</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_SIGLUD_0" offset="00" relocatable="true" max_length="0">
+			<original>「紋章士シグルド」は高い機動力を持ち
+戦場を縦横無尽に駆け回ることができます</original>
+			<edited>「紋章士シグルド」は高い機動力を持ち
+戦場を縦横無尽に駆け回ることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_SIGLUD_1" offset="00" relocatable="true" max_length="0">
+			<original>シンクロスキル「再移動」は
+攻撃した後に、もう一度移動が行えます</original>
+			<edited>シンクロスキル「再移動」は
+攻撃した後に、もう一度移動が行えます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_SIGLUD_2" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ武器「ナイトキラー」は
+騎馬の敵に大ダメージを与えられます</original>
+			<edited>エンゲージ武器「ナイトキラー」は
+騎馬の敵に大ダメージを与えられます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_SIGLUD_3" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージスキル「迅走」は
+移動が常に＋5されます</original>
+			<edited>エンゲージスキル「迅走」は
+移動が常に＋5されます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_SIGLUD_4" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ技「オーバードライヴ」は
+直線に並んだ敵を攻撃しながら
+反対側まで駆け抜ける技です</original>
+			<edited>エンゲージ技「オーバードライヴ」は
+直線に並んだ敵を攻撃しながら
+反対側まで駆け抜ける技です</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_CELICA_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>紋章士セリカ</original>
+			<edited>紋章士セリカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_CELICA_0" offset="00" relocatable="true" max_length="0">
+			<original>「紋章士セリカ」は魔法攻撃を得意としており
+「異形兵」などの異形の敵に強い効果を発揮します</original>
+			<edited>「紋章士セリカ」は魔法攻撃を得意としており
+「異形兵」などの異形の敵に強い効果を発揮します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_CELICA_1" offset="00" relocatable="true" max_length="0">
+			<original>シンクロスキル「異形リベンジ」は
+異形の敵から受けたダメージを
+一部、相手に返します</original>
+			<edited>シンクロスキル「異形リベンジ」は
+異形の敵から受けたダメージを
+一部、相手に返します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_CELICA_2" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ武器「エンジェル」は
+異形の敵に大ダメージを与えられます</original>
+			<edited>エンゲージ武器「エンジェル」は
+異形の敵に大ダメージを与えられます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_CELICA_3" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージスキル「重唱」は
+ダメージ50％の魔法攻撃による戦闘を
+2回行うことができます</original>
+			<edited>エンゲージスキル「重唱」は
+ダメージ50％の魔法攻撃による戦闘を
+2回行うことができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_CELICA_4" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ技「ワープライナ」は
+離れた敵のところへとワープ移動し
+強力な魔法攻撃をすることができます</original>
+			<edited>エンゲージ技「ワープライナ」は
+離れた敵のところへとワープ移動し
+強力な魔法攻撃をすることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_MICAIAH_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ミカヤ</original>
+			<edited>紋章士ミカヤ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_MICAIAH_0" offset="00" relocatable="true" max_length="0">
+			<original>「紋章士ミカヤ」は高い魔力と癒しの力を持ち
+味方を回復することを得意としています</original>
+			<edited>「紋章士ミカヤ」は高い魔力と癒しの力を持ち
+味方を回復することを得意としています</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_MICAIAH_1" offset="00" relocatable="true" max_length="0">
+			<original>シンクロスキル「杖使い」は
+シンクロ中の味方を
+兵種に関係なく杖が使えるようにします</original>
+			<edited>シンクロスキル「杖使い」は
+シンクロ中の味方を
+兵種に関係なく杖が使えるようにします</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_MICAIAH_2" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ武器「シャイン」は
+光魔法で攻撃を行い、その後
+周囲を明るく照らすことができます</original>
+			<edited>エンゲージ武器「シャイン」は
+光魔法で攻撃を行い、その後
+周囲を明るく照らすことができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_MICAIAH_3" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージスキル「増幅」は
+杖の射程や効果範囲を増加させます</original>
+			<edited>エンゲージスキル「増幅」は
+杖の射程や効果範囲を増加させます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_MICAIAH_4" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ技「大いなる癒しの手」は
+使用者のHPと引き換えに
+味方全員のHPを全回復することができます</original>
+			<edited>エンゲージ技「大いなる癒しの手」は
+使用者のHPと引き換えに
+味方全員のHPを全回復することができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_ROY_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ロイ</original>
+			<edited>紋章士ロイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_ROY_0" offset="00" relocatable="true" max_length="0">
+			<original>「紋章士ロイ」は攻守のバランスに優れ
+最前線で活躍することを得意としています</original>
+			<edited>「紋章士ロイ」は攻守のバランスに優れ
+最前線で活躍することを得意としています</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_ROY_1" offset="00" relocatable="true" max_length="0">
+			<original>シンクロスキル「踏ん張り」は、ある程度なら
+一度に戦闘不能になるダメージを受けても
+HPを1残して耐えることができます</original>
+			<edited>シンクロスキル「踏ん張り」は、ある程度なら
+一度に戦闘不能になるダメージを受けても
+HPを1残して耐えることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_ROY_2" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ武器「ランスバスター」は
+武器の相性が逆転し、槍の敵をブレイクできます
+（斧の敵からブレイクされます）</original>
+			<edited>エンゲージ武器「ランスバスター」は
+武器の相性が逆転し、槍の敵をブレイクできます
+（斧の敵からブレイクされます）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_ROY_3" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージスキル「超越」は
+一時的にレベルアップし
+能力を大幅に強化できます</original>
+			<edited>エンゲージスキル「超越」は
+一時的にレベルアップし
+能力を大幅に強化できます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_ROY_4" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ技「獅子紅蓮焔舞」は
+前方にいる複数の敵にダメージを与え
+移動を阻む「炎」を発生させます</original>
+			<edited>エンゲージ技「獅子紅蓮焔舞」は
+前方にいる複数の敵にダメージを与え
+移動を阻む「炎」を発生させます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_LEAF_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>紋章士リーフ</original>
+			<edited>紋章士リーフ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_LEAF_0" offset="00" relocatable="true" max_length="0">
+			<original>「紋章士リーフ」はあらゆる武器を多彩に操り
+臨機応変に戦うことができます</original>
+			<edited>「紋章士リーフ」はあらゆる武器を多彩に操り
+臨機応変に戦うことができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_LEAF_1" offset="00" relocatable="true" max_length="0">
+			<original>シンクロスキル「急所ずらし」は
+武器相性が有利な時に、受けるダメージが
+減少します</original>
+			<edited>シンクロスキル「急所ずらし」は
+武器相性が有利な時に、受けるダメージが
+減少します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_LEAF_2" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ武器「キラーアクス」は
+必殺の一撃が出やすい斧です</original>
+			<edited>エンゲージ武器「キラーアクス」は
+必殺の一撃が出やすい斧です</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_LEAF_3" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージスキル「即応」は
+敵から攻撃された時に、自動的に
+より有効な武器に持ち替えて反撃します</original>
+			<edited>エンゲージスキル「即応」は
+敵から攻撃された時に、自動的に
+より有効な武器に持ち替えて反撃します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_LEAF_4" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ技「テトラトリック」は
+剣、槍、斧、弓で連続攻撃を行い
+高確率で敵をブレイクさせることができます</original>
+			<edited>エンゲージ技「テトラトリック」は
+剣、槍、斧、弓で連続攻撃を行い
+高確率で敵をブレイクさせることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_LIN_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>紋章士リン</original>
+			<edited>紋章士リン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_LIN_0" offset="00" relocatable="true" max_length="0">
+			<original>「紋章士リン」は、猛攻で相手に反撃の機会を与えず
+勝利する戦法を得意としています</original>
+			<edited>「紋章士リン」は、猛攻で相手に反撃の機会を与えず
+勝利する戦法を得意としています</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_LIN_1" offset="00" relocatable="true" max_length="0">
+			<original>シンクロスキル「攻め立て」は
+攻撃相手よりも速さが大きく上回っている時に
+相手の反撃より先に追撃を行います</original>
+			<edited>シンクロスキル「攻め立て」は
+攻撃相手よりも速さが大きく上回っている時に
+相手の反撃より先に追撃を行います</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_LIN_2" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ武器「キラーボウ」は
+必殺の一撃が出やすい弓です</original>
+			<edited>エンゲージ武器「キラーボウ」は
+必殺の一撃が出やすい弓です</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_LIN_3" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージスキル「残像」は
+自分の周囲に残像を生み出し
+「チェインアタック」や「囮」に利用できます</original>
+			<edited>エンゲージスキル「残像」は
+自分の周囲に残像を生み出し
+「チェインアタック」や「囮」に利用できます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_LIN_4" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ技「流星群」は
+弓による超遠距離からの5連続攻撃で
+一方的に敵を攻撃することができます</original>
+			<edited>エンゲージ技「流星群」は
+弓による超遠距離からの5連続攻撃で
+一方的に敵を攻撃することができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_LUCINA_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ルキナ</original>
+			<edited>紋章士ルキナ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_LUCINA_0" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ルキナは、仲間との共闘を得意とし
+味方の近くで戦う時に大きな力を発揮します</original>
+			<edited>紋章士ルキナは、仲間との共闘を得意とし
+味方の近くで戦う時に大きな力を発揮します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_LUCINA_1" offset="00" relocatable="true" max_length="0">
+			<original>シンクロスキル「デュアルアタック」は
+シンクロ中の味方を、戦闘スタイルに関係なく
+「チェインアタック」ができるようにします</original>
+			<edited>シンクロスキル「デュアルアタック」は
+シンクロ中の味方を、戦闘スタイルに関係なく
+「チェインアタック」ができるようにします</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_LUCINA_2" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ武器「ノーブルレイピア」は
+騎馬の敵や重装兵に大ダメージを与えられます</original>
+			<edited>エンゲージ武器「ノーブルレイピア」は
+騎馬の敵や重装兵に大ダメージを与えられます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_LUCINA_3" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージスキル「絆盾」は
+隣接する全ての味方が受ける攻撃を
+高確率で無効化します</original>
+			<edited>エンゲージスキル「絆盾」は
+隣接する全ての味方が受ける攻撃を
+高確率で無効化します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_LUCINA_4" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ技「オールフォーワン」は
+周囲2マスにいる味方が、スタイルに関係なく
+「チェインアタック」に参加してくれます</original>
+			<edited>エンゲージ技「オールフォーワン」は
+周囲2マスにいる味方が、スタイルに関係なく
+「チェインアタック」に参加してくれます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_IKE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>紋章士アイク</original>
+			<edited>紋章士アイク</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_IKE_0" offset="00" relocatable="true" max_length="0">
+			<original>「紋章士アイク」は、攻撃力・耐久力に優れ
+ダメージを受けるほど、大きな力を発揮します</original>
+			<edited>「紋章士アイク」は、攻撃力・耐久力に優れ
+ダメージを受けるほど、大きな力を発揮します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_IKE_1" offset="00" relocatable="true" max_length="0">
+			<original>シンクロスキル「勇将」は
+HP減少時に守備や魔防が上昇します</original>
+			<edited>シンクロスキル「勇将」は
+HP減少時に守備や魔防が上昇します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_IKE_2" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ武器「ハンマー」は
+敵をスマッシュすることができ
+重装兵に大ダメージを与えられます</original>
+			<edited>エンゲージ武器「ハンマー」は
+敵をスマッシュすることができ
+重装兵に大ダメージを与えられます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_IKE_3" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージスキル「不動」は
+回避を0にする代わりに
+受けるダメージを半減します</original>
+			<edited>エンゲージスキル「不動」は
+回避を0にする代わりに
+受けるダメージを半減します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_IKE_4" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ技「覇克・天空」は
+1ターン守りを固めて敵の攻撃に耐え、
+次のターンに範囲攻撃し、HPを回復します</original>
+			<edited>エンゲージ技「覇克・天空」は
+1ターン守りを固めて敵の攻撃に耐え、
+次のターンに範囲攻撃し、HPを回復します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_KAMUI_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>紋章士カムイ</original>
+			<edited>紋章士カムイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_KAMUI_0" offset="00" relocatable="true" max_length="0">
+			<original>「紋章士カムイ」は、敵の行動や地形効果を制御し
+戦いを有利にコントロールすることができます</original>
+			<edited>「紋章士カムイ」は、敵の行動や地形効果を制御し
+戦いを有利にコントロールすることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_KAMUI_1" offset="00" relocatable="true" max_length="0">
+			<original>シンクロスキル「竜脈」は、シンクロ中の味方の
+スタイルに応じた、様々な特殊効果を地形に付与し
+その地形の「炎」「瘴気」などの効果を打ち消します</original>
+			<edited>シンクロスキル「竜脈」は、シンクロ中の味方の
+スタイルに応じた、様々な特殊効果を地形に付与し
+その地形の「炎」「瘴気」などの効果を打ち消します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_KAMUI_2" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ武器「逆刀」は
+武器の相性が逆転し、槍の敵をブレイクできます
+（斧の敵からブレイクされます）</original>
+			<edited>エンゲージ武器「逆刀」は
+武器の相性が逆転し、槍の敵をブレイクできます
+（斧の敵からブレイクされます）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_KAMUI_3" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージスキル「呪縛」は
+自分から攻撃した時に、相手と
+その周囲1マスの敵を1ターン移動できなくします</original>
+			<edited>エンゲージスキル「呪縛」は
+自分から攻撃した時に、相手と
+その周囲1マスの敵を1ターン移動できなくします</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_KAMUI_4" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ技「竜穿砲」は、前方に並んだ敵を
+一度に攻撃し、地形に「水たまり」を付与します
+（竜脈同様、「炎」などの効果を打ち消します）</original>
+			<edited>エンゲージ技「竜穿砲」は、前方に並んだ敵を
+一度に攻撃し、地形に「水たまり」を付与します
+（竜脈同様、「炎」などの効果を打ち消します）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_BYLETH_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ベレト</original>
+			<edited>紋章士ベレト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_BYLETH_0" offset="00" relocatable="true" max_length="0">
+			<original>「紋章士ベレト」は、複数の味方の能力を上昇させ
+勝利へと導くことができます</original>
+			<edited>「紋章士ベレト」は、複数の味方の能力を上昇させ
+勝利へと導くことができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_BYLETH_1" offset="00" relocatable="true" max_length="0">
+			<original>シンクロスキル「天刻の拍動」は
+外れてしまったはずの攻撃が
+一定の確率で命中するようになります</original>
+			<edited>シンクロスキル「天刻の拍動」は
+外れてしまったはずの攻撃が
+一定の確率で命中するようになります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_BYLETH_2" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ武器「英雄の遺産」は
+エンゲージ中の味方の戦闘スタイルに応じた
+特殊な武具を使用できます</original>
+			<edited>エンゲージ武器「英雄の遺産」は
+エンゲージ中の味方の戦闘スタイルに応じた
+特殊な武具を使用できます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_BYLETH_3" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージスキル「指導」は
+周囲の味方の基本能力を上昇させます</original>
+			<edited>エンゲージスキル「指導」は
+周囲の味方の基本能力を上昇させます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_BYLETH_4" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ技「計略：女神の舞」は
+隣接する味方全員を再行動させ
+基本能力を上昇させます</original>
+			<edited>エンゲージ技「計略：女神の舞」は
+隣接する味方全員を再行動させ
+基本能力を上昇させます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_EIRIK_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>紋章士エイリーク</original>
+			<edited>紋章士エイリーク</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_EIRIK_0" offset="00" relocatable="true" max_length="0">
+			<original>「紋章士エイリーク」は、双子の兄のエフラムと交代し
+状況に応じて能力を切り替えながら戦うことができます</original>
+			<edited>「紋章士エイリーク」は、双子の兄のエフラムと交代し
+状況に応じて能力を切り替えながら戦うことができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_EIRIK_1" offset="00" relocatable="true" max_length="0">
+			<original>シンクロスキル「月の腕輪」は
+攻撃する敵の守備が高いほど
+与えるダメージが上昇します</original>
+			<edited>シンクロスキル「月の腕輪」は
+攻撃する敵の守備が高いほど
+与えるダメージが上昇します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_EIRIK_2" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ武器「レイピア」は
+騎馬の敵や重装兵に大ダメージを与えられます</original>
+			<edited>エンゲージ武器「レイピア」は
+騎馬の敵や重装兵に大ダメージを与えられます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_EIRIK_3" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージスキル「双聖」は
+エイリークのスキルとエフラムのスキルを
+同時に発動することができます</original>
+			<edited>エンゲージスキル「双聖」は
+エイリークのスキルとエフラムのスキルを
+同時に発動することができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_EIRIK_4" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ技「ツインストライク」は
+剣と槍による攻撃でブレイクを取りやすく
+異形の敵に大ダメージを与えられます</original>
+			<edited>エンゲージ技「ツインストライク」は
+剣と槍による攻撃でブレイクを取りやすく
+異形の敵に大ダメージを与えられます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_LUEUR_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>紋章士&#xE;&#x6;&#x3;&#x0;</original>
+			<edited>紋章士&#xE;&#x6;&#x3;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_LUEUR_0" offset="00" relocatable="true" max_length="0">
+			<original>「紋章士&#xE;&#x6;&#x3;&#x0;」はシンクロする必要が無く
+出撃中に「エンゲージ＋」を使うことで
+その場で誰とでもエンゲージができます</original>
+			<edited>「紋章士&#xE;&#x6;&#x3;&#x0;」はシンクロする必要が無く
+出撃中に「エンゲージ＋」を使うことで
+その場で誰とでもエンゲージができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_LUEUR_1" offset="00" relocatable="true" max_length="0">
+			<original>シンクロスキル「絆を繋和ぐもの」は、自分と
+近くにいるシンクロ・エンゲージしている味方の
+命中と回避を上昇させます</original>
+			<edited>シンクロスキル「絆を繋和ぐもの」は、自分と
+近くにいるシンクロ・エンゲージしている味方の
+命中と回避を上昇させます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_LUEUR_2" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ武器「ライラシオン」は
+自分から攻撃して敵を撃破した際、隣接している
+シンクロ中の全味方のエンゲージカウントが増えます</original>
+			<edited>エンゲージ武器「ライラシオン」は
+自分から攻撃して敵を撃破した際、隣接している
+シンクロ中の全味方のエンゲージカウントが増えます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_LUEUR_3" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージスキル「以心」は
+自分から攻撃して敵を撃破した時
+エンゲージ相手の基本能力を大幅に上昇させます</original>
+			<edited>エンゲージスキル「以心」は
+自分から攻撃して敵を撃破した時
+エンゲージ相手の基本能力を大幅に上昇させます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_LUEUR_4" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ技「神竜破」は
+剣とビーム（魔法）の連続攻撃を放ち
+敵の守備や魔防が高くても大ダメージを与えられます</original>
+			<edited>エンゲージ技「神竜破」は
+剣とビーム（魔法）の連続攻撃を放ち
+敵の守備や魔防が高くても大ダメージを与えられます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_LUEUR_KL_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>紋章士&#xE;&#x6;&#x3;&#x0;の絆レベル</original>
+			<edited>紋章士&#xE;&#x6;&#x3;&#x0;の絆レベル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_LUEUR_KL_0" offset="00" relocatable="true" max_length="0">
+			<original>紋章士&#xE;&#x6;&#x3;&#x0;の「絆レベル」は
+他の紋章士と異なり、絆経験値ではなく
+仲間との支援レベルが上がることで上昇します</original>
+			<edited>紋章士&#xE;&#x6;&#x3;&#x0;の「絆レベル」は
+他の紋章士と異なり、絆経験値ではなく
+仲間との支援レベルが上がることで上昇します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GOD_LUEUR_KL_1" offset="00" relocatable="true" max_length="0">
+			<original>仲間との支援レベルがC未満なら「絆レベル1」
+Cなら「絆レベル5」、Bなら「絆レベル10」
+Aなら「絆レベル20」になります</original>
+			<edited>仲間との支援レベルがC未満なら「絆レベル1」
+Cなら「絆レベル5」、Bなら「絆レベル10」
+Aなら「絆レベル20」になります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_ENGAGE_PLUS_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ＋</original>
+			<edited>エンゲージ＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_ENGAGE_PLUS_0" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x3;&#x0;のエンゲージカウントが溜まった状態で
+エンゲージしたい味方に隣接すれば
+「エンゲージ＋」が選択できるようになります</original>
+			<edited>&#xE;&#x6;&#x3;&#x0;のエンゲージカウントが溜まった状態で
+エンゲージしたい味方に隣接すれば
+「エンゲージ＋」が選択できるようになります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_ENGAGE_PLUS_1" offset="00" relocatable="true" max_length="0">
+			<original>選択した相手が紋章士&#xE;&#x6;&#x3;&#x0;との
+エンゲージ状態になると同時に
+&#xE;&#x6;&#x3;&#x0;自身もエンゲージ状態になります</original>
+			<edited>選択した相手が紋章士&#xE;&#x6;&#x3;&#x0;との
+エンゲージ状態になると同時に
+&#xE;&#x6;&#x3;&#x0;自身もエンゲージ状態になります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_ENGAGE_PLUS_2" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ相手と隣接した状態では
+エンゲージ技が「絆・神竜破」に変化し
+強力な攻撃を放つことができます</original>
+			<edited>エンゲージ相手と隣接した状態では
+エンゲージ技が「絆・神竜破」に変化し
+強力な攻撃を放つことができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_SORTIE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>出撃準備</original>
+			<edited>出撃準備</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_SORTIE_0" offset="00" relocatable="true" max_length="0">
+			<original>戦闘を開始する前に、出撃する味方を選んだり
+紋章士の指輪&#xE;&#x1;&#x8;&#x0;や、持ち物を選んだりといった
+「出撃準備」を行うことができます</original>
+			<edited>戦闘を開始する前に、出撃する味方を選んだり
+紋章士の指輪&#xE;&#x1;&#x8;&#x0;や、持ち物を選んだりといった
+「出撃準備」を行うことができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_SORTIE_1" offset="00" relocatable="true" max_length="0">
+			<original>準備ができたら「戦闘開始」を選べば
+戦場に出撃します</original>
+			<edited>準備ができたら「戦闘開始」を選べば
+戦場に出撃します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_UNIT_SELECT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>ユニット編成</original>
+			<edited>ユニット編成</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_UNIT_SELECT_0" offset="00" relocatable="true" max_length="0">
+			<original>「ユニット編成」では、マップに出撃させる
+メンバーを選ぶことができます
+&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;A&#x0;で&#xE;&#x8;&#x2;&#x16;&#x14;&#x0;I&#x0;c&#x0;o&#x0;n&#x0;S&#x0;o&#x0;r&#x0;t&#x0;i&#x0;e&#x0;をオン/オフすることで選びます</original>
+			<edited>「ユニット編成」では、マップに出撃させる
+メンバーを選ぶことができます
+&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;A&#x0;で&#xE;&#x8;&#x2;&#x16;&#x14;&#x0;I&#x0;c&#x0;o&#x0;n&#x0;S&#x0;o&#x0;r&#x0;t&#x0;i&#x0;e&#x0;をオン/オフすることで選びます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_UNIT_SELECT_1" offset="00" relocatable="true" max_length="0">
+			<original>「緑色の枠」がついている味方は
+そのマップに出撃することが決まっており
+変更することはできません</original>
+			<edited>「緑色の枠」がついている味方は
+そのマップに出撃することが決まっており
+変更することはできません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_UNIT_SELECT_2" offset="00" relocatable="true" max_length="0">
+			<original>出撃可能な味方の数は
+戦闘マップごとに決められています</original>
+			<edited>出撃可能な味方の数は
+戦闘マップごとに決められています</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_MAPVERIFICATION_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>配置変更</original>
+			<edited>配置変更</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_MAPVERIFICATION_0" offset="00" relocatable="true" max_length="0">
+			<original>「配置変更」では、出撃時の味方の位置を
+入れ替えて変更することができます</original>
+			<edited>「配置変更」では、出撃時の味方の位置を
+入れ替えて変更することができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_MAPVERIFICATION_1" offset="00" relocatable="true" max_length="0">
+			<original>まず、場所を変更したい味方を&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;A&#x0;で選びます</original>
+			<edited>まず、場所を変更したい味方を&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;A&#x0;で選びます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_MAPVERIFICATION_2" offset="00" relocatable="true" max_length="0">
+			<original>次に、別の味方を&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;A&#x0;で選ぶと
+二人の位置を入れ替えることができます
+（位置を動かせない味方もいます）</original>
+			<edited>次に、別の味方を&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;A&#x0;で選ぶと
+二人の位置を入れ替えることができます
+（位置を動かせない味方もいます）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_MAPVERIFICATION_3" offset="00" relocatable="true" max_length="0">
+			<original>この時、カーソルを動かすことで
+地形情報や、敵の能力も確認することができます</original>
+			<edited>この時、カーソルを動かすことで
+地形情報や、敵の能力も確認することができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_HERALDICCHOICE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>紋章士の指輪&#xE;&#x1;&#x8;&#x0;</original>
+			<edited>紋章士の指輪&#xE;&#x1;&#x8;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_HERALDICCHOICE_0" offset="00" relocatable="true" max_length="0">
+			<original>「紋章士の指輪&#xE;&#x1;&#x8;&#x0;」では、
+味方とシンクロする紋章士を決めたり
+変更したりすることができます</original>
+			<edited>「紋章士の指輪&#xE;&#x1;&#x8;&#x0;」では、
+味方とシンクロする紋章士を決めたり
+変更したりすることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_HERALDICCHOICE_1" offset="00" relocatable="true" max_length="0">
+			<original>「味方ユニット」→「指輪&#xE;&#x1;&#x8;&#x0;」の順番で
+選択して、組み合わせを決定します</original>
+			<edited>「味方ユニット」→「指輪&#xE;&#x1;&#x8;&#x0;」の順番で
+選択して、組み合わせを決定します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_GETTINGDRESSED_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>身支度</original>
+			<edited>身支度</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_GETTINGDRESSED_0" offset="00" relocatable="true" max_length="0">
+			<original>「身支度」では、出撃中に使用する武器や
+アイテムを整理することができます</original>
+			<edited>「身支度」では、出撃中に使用する武器や
+アイテムを整理することができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_GETTINGDRESSED_1" offset="00" relocatable="true" max_length="0">
+			<original>「持ち物整理」「持ち物交換」では、味方が持つ
+武器や道具を整理したり、輸送隊や他の味方と
+交換したりすることができます</original>
+			<edited>「持ち物整理」「持ち物交換」では、味方が持つ
+武器や道具を整理したり、輸送隊や他の味方と
+交換したりすることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_GETTINGDRESSED_2" offset="00" relocatable="true" max_length="0">
+			<original>「おまかせ装備」を選ぶと
+所持しているアイテムの中から
+自動で適した物を選びます</original>
+			<edited>「おまかせ装備」を選ぶと
+所持しているアイテムの中から
+自動で適した物を選びます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_GETTINGDRESSED_3" offset="00" relocatable="true" max_length="0">
+			<original>「すべて預ける」を選ぶと
+持っているアイテムを全て輸送隊に預けます</original>
+			<edited>「すべて預ける」を選ぶと
+持っているアイテムを全て輸送隊に預けます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_EQUIP_SKILL_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>スキル着脱</original>
+			<edited>スキル着脱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_EQUIP_SKILL_0" offset="00" relocatable="true" max_length="0">
+			<original>「身支度」の「スキル着脱」から
+現在習得している「スキル」が確認でき
+「継承スキル」を付け替えることができます</original>
+			<edited>「身支度」の「スキル着脱」から
+現在習得している「スキル」が確認でき
+「継承スキル」を付け替えることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_EQUIP_SKILL_1" offset="00" relocatable="true" max_length="0">
+			<original>「継承スキル」はソラネルの「紋章士の間」で
+紋章士から継承することができます</original>
+			<edited>「継承スキル」はソラネルの「紋章士の間」で
+紋章士から継承することができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_CLASSCHANGE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>クラスチェンジ</original>
+			<edited>クラスチェンジ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_CLASSCHANGE_0" offset="00" relocatable="true" max_length="0">
+			<original>「マスタープルフ」を持っていると
+レベルが10以上になった味方を
+上級兵種に「クラスチェンジ」できます</original>
+			<edited>「マスタープルフ」を持っていると
+レベルが10以上になった味方を
+上級兵種に「クラスチェンジ」できます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_CLASSCHANGE_1" offset="00" relocatable="true" max_length="0">
+			<original>上級兵種になると能力が上がったり
+使用可能な武器が増えたりと
+ユニットが強化されます</original>
+			<edited>上級兵種になると能力が上がったり
+使用可能な武器が増えたりと
+ユニットが強化されます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_CLASSCHANGE_2" offset="00" relocatable="true" max_length="0">
+			<original>「チェンジプルフ」を持っていると
+同じ職位の、別系統の兵種に
+「クラスチェンジ」することができます</original>
+			<edited>「チェンジプルフ」を持っていると
+同じ職位の、別系統の兵種に
+「クラスチェンジ」することができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_CLASSCHANGE_3" offset="00" relocatable="true" max_length="0">
+			<original>「クラスチェンジ」は「身支度」から
+行うことができます</original>
+			<edited>「クラスチェンジ」は「身支度」から
+行うことができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_APTITUDE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>素質</original>
+			<edited>素質</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_APTITUDE_0" offset="00" relocatable="true" max_length="0">
+			<original>別の兵種にクラスチェンジするためには
+特定の「素質」が必要になります</original>
+			<edited>別の兵種にクラスチェンジするためには
+特定の「素質」が必要になります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_APTITUDE_1" offset="00" relocatable="true" max_length="0">
+			<original>最初から持っている素質を「天性素質」といい
+これを活かせる兵種にクラスチェンジすると
+高い才能が発揮できます</original>
+			<edited>最初から持っている素質を「天性素質」といい
+これを活かせる兵種にクラスチェンジすると
+高い才能が発揮できます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_BMAP_APTITUDE_2" offset="00" relocatable="true" max_length="0">
+			<original>持っていない「素質」は紋章士から
+継承して手に入れることができ
+好きな兵種を目指すことができます</original>
+			<edited>持っていない「素質」は紋章士から
+継承して手に入れることができ
+好きな兵種を目指すことができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GMAP_BASIC_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>ワールドマップ</original>
+			<edited>ワールドマップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GMAP_BASIC_0" offset="00" relocatable="true" max_length="0">
+			<original>次の章や、目的地への移動は
+「ワールドマップ」で行います</original>
+			<edited>次の章や、目的地への移動は
+「ワールドマップ」で行います</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GMAP_BASIC_1" offset="00" relocatable="true" max_length="0">
+			<original>行きたい場所へ&#xE;&#x6;&#x3;&#x0;を移動させ
+&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;A&#x0;を押すとメニューが開き
+ストーリーを進めることができます</original>
+			<edited>行きたい場所へ&#xE;&#x6;&#x3;&#x0;を移動させ
+&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;A&#x0;を押すとメニューが開き
+ストーリーを進めることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GMAP_BASIC_2" offset="00" relocatable="true" max_length="0">
+			<original>メニューからは身支度を行ったり
+ソラネルへ戻ったりすることなどができます</original>
+			<edited>メニューからは身支度を行ったり
+ソラネルへ戻ったりすることなどができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GMAP_SIDE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>外伝</original>
+			<edited>外伝</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GMAP_SIDE_0" offset="00" relocatable="true" max_length="0">
+			<original>ゲームをプレイしていると、ワールドマップ上に
+「外伝マップ」が出現することがあります</original>
+			<edited>ゲームをプレイしていると、ワールドマップ上に
+「外伝マップ」が出現することがあります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GMAP_SIDE_1" offset="00" relocatable="true" max_length="0">
+			<original>立ち寄るかどうかは自由ですが
+新たな仲間が加わるなど、良いこともあるので
+訪れてみると良いでしょう</original>
+			<edited>立ち寄るかどうかは自由ですが
+新たな仲間が加わるなど、良いこともあるので
+訪れてみると良いでしょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GMAP_ENCOUNT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>遭遇戦</original>
+			<edited>遭遇戦</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GMAP_ENCOUNT_0" offset="00" relocatable="true" max_length="0">
+			<original>これまで通ったワールドマップ上の場所に
+異形兵や、その国の兵士たちが
+出現することがあります</original>
+			<edited>これまで通ったワールドマップ上の場所に
+異形兵や、その国の兵士たちが
+出現することがあります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GMAP_ENCOUNT_1" offset="00" relocatable="true" max_length="0">
+			<original>その場所へ移動すると「遭遇戦」や
+「訓練」を行うことができます</original>
+			<edited>その場所へ移動すると「遭遇戦」や
+「訓練」を行うことができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GMAP_ENCOUNT_2" offset="00" relocatable="true" max_length="0">
+			<original>通常の戦闘と同じように経験値が得られ
+ゴールドやアイテムが手に入ることもあるので
+上手く活用すると良いでしょう</original>
+			<edited>通常の戦闘と同じように経験値が得られ
+ゴールドやアイテムが手に入ることもあるので
+上手く活用すると良いでしょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GMAP_RANKING_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>出撃ランキング</original>
+			<edited>出撃ランキング</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GMAP_RANKING_0" offset="00" relocatable="true" max_length="0">
+			<original>ネットワークに接続していると、世界中のプレイヤーが
+このマップで、どのユニットと紋章士を出撃させたかを
+ランキング形式で見ることができます</original>
+			<edited>ネットワークに接続していると、世界中のプレイヤーが
+このマップで、どのユニットと紋章士を出撃させたかを
+ランキング形式で見ることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_GMAP_RANKING_1" offset="00" relocatable="true" max_length="0">
+			<original>ユニット編成で出撃する味方を選ぶ際の
+参考にすると良いでしょう</original>
+			<edited>ユニット編成で出撃する味方を選ぶ際の
+参考にすると良いでしょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_KR_KIZUNARESULT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>散策</original>
+			<edited>散策</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_KR_KIZUNARESULT_0" offset="00" relocatable="true" max_length="0">
+			<original>戦闘が終了すると「散策」がはじまり
+周囲を歩いて、仲間と会話をすることができます</original>
+			<edited>戦闘が終了すると「散策」がはじまり
+周囲を歩いて、仲間と会話をすることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_KR_KIZUNARESULT_1" offset="00" relocatable="true" max_length="0">
+			<original>時にはアイテムが落ちていることもあります
+探してみると良いでしょう</original>
+			<edited>時にはアイテムが落ちていることもあります
+探してみると良いでしょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_KR_KIZUNARESULT_2" offset="00" relocatable="true" max_length="0">
+			<original>散策を終了したい時は出口にアクセスするか
+&#xE;&#x8;&#x2;
+&#x8;&#x0;P&#x0;l&#x0;u&#x0;s&#x0;でメニューを開き、「次へ進む」を選択します</original>
+			<edited>散策を終了したい時は出口にアクセスするか
+&#xE;&#x8;&#x2;
+&#x8;&#x0;P&#x0;l&#x0;u&#x0;s&#x0;でメニューを開き、「次へ進む」を選択します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_KR_KIZUNAPIECE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>絆のかけら</original>
+			<edited>絆のかけら</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_KR_KIZUNAPIECE_0" offset="00" relocatable="true" max_length="0">
+			<original>「散策」で仲間と会話をすると
+「絆のかけら」を貰えることがあります</original>
+			<edited>「散策」で仲間と会話をすると
+「絆のかけら」を貰えることがあります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_KR_KIZUNAPIECE_1" offset="00" relocatable="true" max_length="0">
+			<original>「絆のかけら」はソラネルで
+紋章士と鍛錬をする時や
+絆の指輪を精製する時などに使用します</original>
+			<edited>「絆のかけら」はソラネルで
+紋章士と鍛錬をする時や
+絆の指輪を精製する時などに使用します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_KR_KIZUNAPIECE_2" offset="00" relocatable="true" max_length="0">
+			<original>「散策」を終える時に、まだ「絆のかけら」を
+くれる仲間が残っていた場合は
+自動でその分の「絆のかけら」も入手できます</original>
+			<edited>「散策」を終える時に、まだ「絆のかけら」を
+くれる仲間が残っていた場合は
+自動でその分の「絆のかけら」も入手できます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_BASIC_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>拠点</original>
+			<edited>拠点</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_BASIC_0" offset="00" relocatable="true" max_length="0">
+			<original>拠点「ソラネル」では、次の戦いへの準備や
+仲間たちと交流をすることなどができます</original>
+			<edited>拠点「ソラネル」では、次の戦いへの準備や
+仲間たちと交流をすることなどができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_BASIC_1" offset="00" relocatable="true" max_length="0">
+			<original>最初は出来ることが少ないですが
+ストーリーが進むにつれて
+利用できる施設が増えていきます</original>
+			<edited>最初は出来ることが少ないですが
+ストーリーが進むにつれて
+利用できる施設が増えていきます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_BASIC_2" offset="00" relocatable="true" max_length="0">
+			<original>準備を終えて次の章へ進みたい時は
+エントランスにある出口か、メニューから
+「次へ進む」を選んでください</original>
+			<edited>準備を終えて次の章へ進みたい時は
+エントランスにある出口か、メニューから
+「次へ進む」を選んでください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_CENTRALLOBBY_OPEN" offset="00" relocatable="true" max_length="0">
+			<original>「カフェテラス」が利用できるようになりました</original>
+			<edited>「カフェテラス」が利用できるようになりました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_CENTRALLOBBY_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>カフェテラス</original>
+			<edited>カフェテラス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_CENTRALLOBBY_0" offset="00" relocatable="true" max_length="0">
+			<original>「カフェテラス」は
+仲間たちが集う憩いの場で
+様々な設備が集まっています</original>
+			<edited>「カフェテラス」は
+仲間たちが集う憩いの場で
+様々な設備が集まっています</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_CENTRALLOBBY_1" offset="00" relocatable="true" max_length="0">
+			<original>「サウンドボックス」では
+ソラネルに流れている音楽を
+好きなものに変更することができます</original>
+			<edited>「サウンドボックス」では
+ソラネルに流れている音楽を
+好きなものに変更することができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_CENTRALLOBBY_2" offset="00" relocatable="true" max_length="0">
+			<original>「掲示板」では、「拠点情報」が見られます
+また、各国へ「投資」を行ったり
+これまでの「実績」を確認したりできます</original>
+			<edited>「掲示板」では、「拠点情報」が見られます
+また、各国へ「投資」を行ったり
+これまでの「実績」を確認したりできます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_INVESTMENT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>国への投資</original>
+			<edited>国への投資</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_INVESTMENT_0" offset="00" relocatable="true" max_length="0">
+			<original>「国への投資」では各国にゴールドを投資できます
+一定額を超えるとレベルが上がり
+レベルに応じた感謝の品を貰えます</original>
+			<edited>「国への投資」では各国にゴールドを投資できます
+一定額を超えるとレベルが上がり
+レベルに応じた感謝の品を貰えます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_INVESTMENT_1" offset="00" relocatable="true" max_length="0">
+			<original>また、レベルを上げた国では遭遇戦で
+レアな敵が出現しやすくなり
+ゴールドや経験値を得やすくなります</original>
+			<edited>また、レベルを上げた国では遭遇戦で
+レアな敵が出現しやすくなり
+ゴールドや経験値を得やすくなります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_INVESTMENT_2" offset="00" relocatable="true" max_length="0">
+			<original>さらに、その国での散策時に見つかる素材が
+増えたりと、良いことが色々と発生するので
+余裕があれば、投資を行ってみましょう</original>
+			<edited>さらに、その国での散策時に見つかる素材が
+増えたりと、良いことが色々と発生するので
+余裕があれば、投資を行ってみましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_INFORMATION_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>拠点情報</original>
+			<edited>拠点情報</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_INFORMATION_0" offset="00" relocatable="true" max_length="0">
+			<original>「拠点情報」では
+ソラネル内に居る仲間の場所や
+施設の状況といった、情報を確認できます</original>
+			<edited>「拠点情報」では
+ソラネル内に居る仲間の場所や
+施設の状況といった、情報を確認できます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_INFORMATION_1" offset="00" relocatable="true" max_length="0">
+			<original>エリアを選択することで
+その場所に瞬時に移動することもできます</original>
+			<edited>エリアを選択することで
+その場所に瞬時に移動することもできます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ACHIEVEMENT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>実績</original>
+			<edited>実績</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ACHIEVEMENT_0" offset="00" relocatable="true" max_length="0">
+			<original>「実績」では、ゲーム内で達成した
+様々な行為に対し、その報酬として
+「絆のかけら」を受け取ることができます</original>
+			<edited>「実績」では、ゲーム内で達成した
+様々な行為に対し、その報酬として
+「絆のかけら」を受け取ることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ACHIEVEMENT_1" offset="00" relocatable="true" max_length="0">
+			<original>実績を達成すると通知が届きます
+忘れずに受け取りましょう</original>
+			<edited>実績を達成すると通知が届きます
+忘れずに受け取りましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_MYROOM_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>マイルーム</original>
+			<edited>マイルーム</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_MYROOM_0" offset="00" relocatable="true" max_length="0">
+			<original>「マイルーム」は&#xE;&#x6;&#x3;&#x0;が眠っていた場所で
+「マイベッド」が置いてあります</original>
+			<edited>「マイルーム」は&#xE;&#x6;&#x3;&#x0;が眠っていた場所で
+「マイベッド」が置いてあります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_MYROOM_1" offset="00" relocatable="true" max_length="0">
+			<original>「休憩」を選ぶと、ベッドで体を休め
+ソラネルの時間を少し進めることができます</original>
+			<edited>「休憩」を選ぶと、ベッドで体を休め
+ソラネルの時間を少し進めることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_MYROOM_2" offset="00" relocatable="true" max_length="0">
+			<original>「休憩」をしていると
+何か特別なことが起こるかも…？
+（ヘッドホンの使用をお勧めします）</original>
+			<edited>「休憩」をしていると
+何か特別なことが起こるかも…？
+（ヘッドホンの使用をお勧めします）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_MYROOM_3" offset="00" relocatable="true" max_length="0">
+			<original>「思い出」を選ぶと
+これまでに見た支援会話やムービーを
+もう一度見ることができます</original>
+			<edited>「思い出」を選ぶと
+これまでに見た支援会話やムービーを
+もう一度見ることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_MYROOM_4" offset="00" relocatable="true" max_length="0">
+			<original>「難易度変更」を選ぶと、ゲームの難易度を
+変更することができます
+（ノーマルの場合は変更することができません）</original>
+			<edited>「難易度変更」を選ぶと、ゲームの難易度を
+変更することができます
+（ノーマルの場合は変更することができません）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_WEAPONSHOP_OPEN" offset="00" relocatable="true" max_length="0">
+			<original>「武器屋」と「道具屋」がオープンしました</original>
+			<edited>「武器屋」と「道具屋」がオープンしました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_WEAPONSHOP_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>武器屋</original>
+			<edited>武器屋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_WEAPONSHOP_0" offset="00" relocatable="true" max_length="0">
+			<original>「武器屋」では、戦闘で使用する武器の
+購入や売却が行えます</original>
+			<edited>「武器屋」では、戦闘で使用する武器の
+購入や売却が行えます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_WEAPONSHOP_1" offset="00" relocatable="true" max_length="0">
+			<original>最初は商品が少ないですが
+ストーリーが進むにつれて
+新商品が入荷し、増えていきます</original>
+			<edited>最初は商品が少ないですが
+ストーリーが進むにつれて
+新商品が入荷し、増えていきます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ITEMSHOP_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>道具屋</original>
+			<edited>道具屋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ITEMSHOP_0" offset="00" relocatable="true" max_length="0">
+			<original>「道具屋」では「傷薬」や「杖」といった
+戦闘で使用するアイテムの
+購入や売却が行えます</original>
+			<edited>「道具屋」では「傷薬」や「杖」といった
+戦闘で使用するアイテムの
+購入や売却が行えます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ITEMSHOP_1" offset="00" relocatable="true" max_length="0">
+			<original>最初は少しの商品しかありませんが
+ストーリーが進むにつれて、
+種類が増えていきます</original>
+			<edited>最初は少しの商品しかありませんが
+ストーリーが進むにつれて、
+種類が増えていきます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_HERALDICSPACE_OPEN" offset="00" relocatable="true" max_length="0">
+			<original>「紋章士の間」に入れるようになりました</original>
+			<edited>「紋章士の間」に入れるようになりました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_HERALDICSPACE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>紋章士の間</original>
+			<edited>紋章士の間</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_HERALDICSPACE_0" offset="00" relocatable="true" max_length="0">
+			<original>「紋章士の間」では紋章士関連の様々なことが行えます
+「スキル継承」では
+紋章士が持つスキルを継承することができます</original>
+			<edited>「紋章士の間」では紋章士関連の様々なことが行えます
+「スキル継承」では
+紋章士が持つスキルを継承することができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_HERALDICSPACE_1" offset="00" relocatable="true" max_length="0">
+			<original>「絆の指輪精製」「絆の指輪合成」では
+絆のかけらを使って「絆の指輪」を精製したり
+合成して強化したりすることができます</original>
+			<edited>「絆の指輪精製」「絆の指輪合成」では
+絆のかけらを使って「絆の指輪」を精製したり
+合成して強化したりすることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_HERALDICSPACE_2" offset="00" relocatable="true" max_length="0">
+			<original>「指輪&#xE;&#x1;&#x8;&#x0;磨き」では
+戦闘で汚れてしまった「紋章士の指輪&#xE;&#x1;&#x8;&#x0;」を
+磨いて、紋章士との絆を高めることができます</original>
+			<edited>「指輪&#xE;&#x1;&#x8;&#x0;磨き」では
+戦闘で汚れてしまった「紋章士の指輪&#xE;&#x1;&#x8;&#x0;」を
+磨いて、紋章士との絆を高めることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_INHERITSKILL_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>スキル継承</original>
+			<edited>スキル継承</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_INHERITSKILL_0" offset="00" relocatable="true" max_length="0">
+			<original>「スキル継承」では
+味方のユニットに紋章士の様々なスキルを
+継承させることができます</original>
+			<edited>「スキル継承」では
+味方のユニットに紋章士の様々なスキルを
+継承させることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_INHERITSKILL_1" offset="00" relocatable="true" max_length="0">
+			<original>「スキル継承」をするためには、紋章士とシンクロしたり
+「絆の指輪」を装備したりして戦うと溜まる「SP」と
+相手との一定以上の「絆レベル」が必要です</original>
+			<edited>「スキル継承」をするためには、紋章士とシンクロしたり
+「絆の指輪」を装備したりして戦うと溜まる「SP」と
+相手との一定以上の「絆レベル」が必要です</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_INHERITSKILL_2" offset="00" relocatable="true" max_length="0">
+			<original>継承したスキルは「身支度」の「スキル着脱」で
+装備することで効果を発揮します</original>
+			<edited>継承したスキルは「身支度」の「スキル着脱」で
+装備することで効果を発揮します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_INHERITSKILL_3" offset="00" relocatable="true" max_length="0">
+			<original>シンクロ中の紋章士の「シンクロスキル」と
+同じスキルは、装備しても効果が発動しないので
+重複しないように装備すると効果的です</original>
+			<edited>シンクロ中の紋章士の「シンクロスキル」と
+同じスキルは、装備しても効果が発動しないので
+重複しないように装備すると効果的です</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_CREATE_RING_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>絆の指輪精製</original>
+			<edited>絆の指輪精製</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_CREATE_RING_0" offset="00" relocatable="true" max_length="0">
+			<original>絆のかけらを使うことによって
+「絆の指輪」を精製することができます</original>
+			<edited>絆のかけらを使うことによって
+「絆の指輪」を精製することができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_CREATE_RING_1" offset="00" relocatable="true" max_length="0">
+			<original>指輪として装備することで能力が上昇し
+「紋章士の指輪&#xE;&#x1;&#x8;&#x0;」程ではありませんが
+戦闘でＳＰを溜めることができます</original>
+			<edited>指輪として装備することで能力が上昇し
+「紋章士の指輪&#xE;&#x1;&#x8;&#x0;」程ではありませんが
+戦闘でＳＰを溜めることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ENGWEAPON_REFINE_OPEN" offset="00" relocatable="true" max_length="0">
+			<original>「紋章士の間」で「エンゲージ武器強化」ができるようになりました</original>
+			<edited>「紋章士の間」で「エンゲージ武器強化」ができるようになりました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ENGWEAPON_REFINE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ武器強化</original>
+			<edited>エンゲージ武器強化</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ENGWEAPON_REFINE_0" offset="00" relocatable="true" max_length="0">
+			<original>紋章士の「エンゲージ武器」は以下の強化を行えます
+・紋晶石を使った、各種能力アップ
+・特効の書を使った、各種特効の付与</original>
+			<edited>紋章士の「エンゲージ武器」は以下の強化を行えます
+・紋晶石を使った、各種能力アップ
+・特効の書を使った、各種特効の付与</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ENGWEAPON_REFINE_1" offset="00" relocatable="true" max_length="0">
+			<original>強化に必要な素材は、「試練の離れ」の
+「連戦の試練」や「繋戦の試練」に挑戦することで
+入手することができます</original>
+			<edited>強化に必要な素材は、「試練の離れ」の
+「連戦の試練」や「繋戦の試練」に挑戦することで
+入手することができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ENGWEAPON_REFINE_2" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ武器にはそれぞれ
+「強化限界値」があり
+その値を超える強化はできません</original>
+			<edited>エンゲージ武器にはそれぞれ
+「強化限界値」があり
+その値を超える強化はできません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ENGWEAPON_REFINE_3" offset="00" relocatable="true" max_length="0">
+			<original>強化はリセットして、何度でもやり直すことができます
+また、紋章士が多くの仲間と絆レベルを上げると
+「強化限界値」が上昇し、更なる強化が可能になります</original>
+			<edited>強化はリセットして、何度でもやり直すことができます
+また、紋章士が多くの仲間と絆レベルを上げると
+「強化限界値」が上昇し、更なる強化が可能になります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_MASCOT_OPEN" offset="00" relocatable="true" max_length="0">
+			<original>鍾乳洞に不思議な気配が漂っています</original>
+			<edited>鍾乳洞に不思議な気配が漂っています</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_MASCOT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x5;&#x0;</original>
+			<edited>&#xE;&#x6;&#x5;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_MASCOT_0" offset="00" relocatable="true" max_length="0">
+			<original>「&#xE;&#x6;&#x5;&#x0;」は大昔からこの地を見守る
+ちょっと不思議な生き物です</original>
+			<edited>「&#xE;&#x6;&#x5;&#x0;」は大昔からこの地を見守る
+ちょっと不思議な生き物です</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_MASCOT_1" offset="00" relocatable="true" max_length="0">
+			<original>大切にお世話をしてあげると
+何か良いことがあるかもしれません</original>
+			<edited>大切にお世話をしてあげると
+何か良いことがあるかもしれません</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_MUSCLEEXERCISES_OPEN" offset="00" relocatable="true" max_length="0">
+			<original>「筋肉体操」が遊べるようになった！</original>
+			<edited>「筋肉体操」が遊べるようになった！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_MUSCLEEXERCISES_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>筋肉体操</original>
+			<edited>筋肉体操</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_MUSCLEEXERCISES_0" offset="00" relocatable="true" max_length="0">
+			<original>「筋肉体操」は3種類の運動に挑戦して
+&#xE;&#x6;&#x3;&#x0;の基本能力を一時的に
+上げることができるアクティビティです</original>
+			<edited>「筋肉体操」は3種類の運動に挑戦して
+&#xE;&#x6;&#x3;&#x0;の基本能力を一時的に
+上げることができるアクティビティです</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_MUSCLEEXERCISES_1" offset="00" relocatable="true" max_length="0">
+			<original>体操の種類によって、操作方法や
+上昇する能力が異なります
+全ての体操で最高評価を狙いましょう！</original>
+			<edited>体操の種類によって、操作方法や
+上昇する能力が異なります
+全ての体操で最高評価を狙いましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_MUSCLEEXERCISES_2" offset="00" relocatable="true" max_length="0">
+			<original>ストーリーを進めると高い難易度が
+解放されるかも？</original>
+			<edited>ストーリーを進めると高い難易度が
+解放されるかも？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ME_PUSHUPS_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>腕立て伏せ</original>
+			<edited>腕立て伏せ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ME_PUSHUPS_0" offset="00" relocatable="true" max_length="0">
+			<original>「腕立て伏せ」は、タイミング勝負！
+加速するバーをベストな位置で止めましょう
+3回失敗してしまうと終了です</original>
+			<edited>「腕立て伏せ」は、タイミング勝負！
+加速するバーをベストな位置で止めましょう
+3回失敗してしまうと終了です</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ME_PUSHUPS_1" offset="00" relocatable="true" max_length="0">
+			<original>バーのスピードはどんどん速くなるので
+集中力を途切れさせないようにしましょう</original>
+			<edited>バーのスピードはどんどん速くなるので
+集中力を途切れさせないようにしましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ME_PUSHUPS_2" offset="00" relocatable="true" max_length="0">
+			<original>目指せPerfect Body！</original>
+			<edited>目指せPerfect Body！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ME_SITUP_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>腹筋</original>
+			<edited>腹筋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ME_SITUP_0" offset="00" relocatable="true" max_length="0">
+			<original>「腹筋」は、ボタン連打の体力勝負！
+素早い連打で、バーを一番上まで押し上げましょう
+一番下までバーが下がると終了です</original>
+			<edited>「腹筋」は、ボタン連打の体力勝負！
+素早い連打で、バーを一番上まで押し上げましょう
+一番下までバーが下がると終了です</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ME_SITUP_1" offset="00" relocatable="true" max_length="0">
+			<original>ゲージを素早く溜めるほど高評価が貰えますが
+徐々に難しくなっていきます</original>
+			<edited>ゲージを素早く溜めるほど高評価が貰えますが
+徐々に難しくなっていきます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ME_SITUP_2" offset="00" relocatable="true" max_length="0">
+			<original>目指せPerfect Body！</original>
+			<edited>目指せPerfect Body！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ME_SQUAT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>スクワット</original>
+			<edited>スクワット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ME_SQUAT_0" offset="00" relocatable="true" max_length="0">
+			<original>「スクワット」は、リズム感勝負！
+流れてくる指示に合わせて、&#xE;&#x8;&#x2;&#xE;&#xC;&#x0;S&#x0;t&#x0;i&#x0;c&#x0;k&#x0;L&#x0;&#xE;&#x8;&#x2;&#xE;&#xC;&#x0;S&#x0;t&#x0;i&#x0;c&#x0;k&#x0;R&#x0;を操作しよう
+3回失敗してしまうと終了です</original>
+			<edited>「スクワット」は、リズム感勝負！
+流れてくる指示に合わせて、&#xE;&#x8;&#x2;&#xE;&#xC;&#x0;S&#x0;t&#x0;i&#x0;c&#x0;k&#x0;L&#x0;&#xE;&#x8;&#x2;&#xE;&#xC;&#x0;S&#x0;t&#x0;i&#x0;c&#x0;k&#x0;R&#x0;を操作しよう
+3回失敗してしまうと終了です</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ME_SQUAT_1" offset="00" relocatable="true" max_length="0">
+			<original>「&#xE;&#x8;&#x2;&#xE;&#xC;&#x0;S&#x0;t&#x0;i&#x0;c&#x0;k&#x0;L&#x0;&#xE;&#x8;&#x2;&#xE;&#xC;&#x0;S&#x0;t&#x0;i&#x0;c&#x0;k&#x0;R&#x0;を倒す」
+「&#xE;&#x8;&#x2;&#xE;&#xC;&#x0;S&#x0;t&#x0;i&#x0;c&#x0;k&#x0;L&#x0;&#xE;&#x8;&#x2;&#xE;&#xC;&#x0;S&#x0;t&#x0;i&#x0;c&#x0;k&#x0;R&#x0;を一回転させる」
+このふたつの操作をマスターしましょう</original>
+			<edited>「&#xE;&#x8;&#x2;&#xE;&#xC;&#x0;S&#x0;t&#x0;i&#x0;c&#x0;k&#x0;L&#x0;&#xE;&#x8;&#x2;&#xE;&#xC;&#x0;S&#x0;t&#x0;i&#x0;c&#x0;k&#x0;R&#x0;を倒す」
+「&#xE;&#x8;&#x2;&#xE;&#xC;&#x0;S&#x0;t&#x0;i&#x0;c&#x0;k&#x0;L&#x0;&#xE;&#x8;&#x2;&#xE;&#xC;&#x0;S&#x0;t&#x0;i&#x0;c&#x0;k&#x0;R&#x0;を一回転させる」
+このふたつの操作をマスターしましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ME_SQUAT_2" offset="00" relocatable="true" max_length="0">
+			<original>目指せPerfect Body！</original>
+			<edited>目指せPerfect Body！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ARENA_OPEN" offset="00" relocatable="true" max_length="0">
+			<original>「鍛錬の間」が利用できるようになりました</original>
+			<edited>「鍛錬の間」が利用できるようになりました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ARENA_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>鍛錬の間</original>
+			<edited>鍛錬の間</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ARENA_0" offset="00" relocatable="true" max_length="0">
+			<original>「鍛錬の間」では、仲間を選んで
+模擬戦を行うことで「経験値」や
+「絆経験値」を得ることができます</original>
+			<edited>「鍛錬の間」では、仲間を選んで
+模擬戦を行うことで「経験値」や
+「絆経験値」を得ることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ARENA_1" offset="00" relocatable="true" max_length="0">
+			<original>「通常鍛錬」は、仲間と行う模擬戦です
+無償ですが回数制限があり、
+相手はランダムで決まります</original>
+			<edited>「通常鍛錬」は、仲間と行う模擬戦です
+無償ですが回数制限があり、
+相手はランダムで決まります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ARENA_2" offset="00" relocatable="true" max_length="0">
+			<original>「特別指名鍛錬」は紋章士と行う模擬戦です
+「絆のかけら」を消費しますが、回数無制限で
+指命した相手と、必ず絆レベルが上げられます</original>
+			<edited>「特別指名鍛錬」は紋章士と行う模擬戦です
+「絆のかけら」を消費しますが、回数無制限で
+指命した相手と、必ず絆レベルが上げられます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ANIMAL_OPEN" offset="00" relocatable="true" max_length="0">
+			<original>「動物の保護」が行えるようになりました</original>
+			<edited>「動物の保護」が行えるようになりました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ANIMAL_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>動物</original>
+			<edited>動物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ANIMAL_0" offset="00" relocatable="true" max_length="0">
+			<original>散策中に出会った「動物」は、大切に保護して
+ソラネルへ連れて帰ることができます</original>
+			<edited>散策中に出会った「動物」は、大切に保護して
+ソラネルへ連れて帰ることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ANIMAL_1" offset="00" relocatable="true" max_length="0">
+			<original>保護した動物は「動物小屋」で「放牧」を選ぶと
+牧場で触れ合うことができ
+食材などを落とすことがあります</original>
+			<edited>保護した動物は「動物小屋」で「放牧」を選ぶと
+牧場で触れ合うことができ
+食材などを落とすことがあります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ANIMAL_2" offset="00" relocatable="true" max_length="0">
+			<original>カフェテラスの掲示板から
+各国へ投資して飼育方法を教われば
+保護できる動物が増えていきます</original>
+			<edited>カフェテラスの掲示板から
+各国へ投資して飼育方法を教われば
+保護できる動物が増えていきます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_AMIIBO_OPEN" offset="00" relocatable="true" max_length="0">
+			<original>「amiiboスポット」が解放されました</original>
+			<edited>「amiiboスポット」が解放されました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_AMIIBO_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>amiiboスポット</original>
+			<edited>amiiboスポット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_AMIIBO_0" offset="00" relocatable="true" max_length="0">
+			<original>「amiiboスポット」に
+amiiboを読み込ませることで
+アイテムなどの特典が貰えます</original>
+			<edited>「amiiboスポット」に
+amiiboを読み込ませることで
+アイテムなどの特典が貰えます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_AMIIBO_1" offset="00" relocatable="true" max_length="0">
+			<original>ファイアーエムブレム関連のamiiboを読み込ませた場合
+スペシャルな特典を貰えることがあります</original>
+			<edited>ファイアーエムブレム関連のamiiboを読み込ませた場合
+スペシャルな特典を貰えることがあります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_DRILLINGSHOP_OPEN" offset="00" relocatable="true" max_length="0">
+			<original>「錬成屋」と「アクセサリー屋」がオープンしました</original>
+			<edited>「錬成屋」と「アクセサリー屋」がオープンしました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_DRILLINGSHOP_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>錬成屋</original>
+			<edited>錬成屋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_DRILLINGSHOP_0" offset="00" relocatable="true" max_length="0">
+			<original>「錬成屋」では素材やゴールドと引き換えに
+武器を強化してもらうことができます</original>
+			<edited>「錬成屋」では素材やゴールドと引き換えに
+武器を強化してもらうことができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_DRILLINGSHOP_1" offset="00" relocatable="true" max_length="0">
+			<original>「錬成・進化」は武器の性能を向上させたり
+より強い、別の武器を作ったりする事ができます</original>
+			<edited>「錬成・進化」は武器の性能を向上させたり
+より強い、別の武器を作ったりする事ができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_DRILLINGSHOP_2" offset="00" relocatable="true" max_length="0">
+			<original>「紋章刻印」では武器に紋章士の力を付与できます
+紋章士一人につき一回、好きな武器に刻印ができ
+別の武器に付け替えることも可能です</original>
+			<edited>「紋章刻印」では武器に紋章士の力を付与できます
+紋章士一人につき一回、好きな武器に刻印ができ
+別の武器に付け替えることも可能です</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_DRILLINGSHOP_3" offset="00" relocatable="true" max_length="0">
+			<original>「素材交換」では錬成用の素材を
+別の種類の素材に交換できます</original>
+			<edited>「素材交換」では錬成用の素材を
+別の種類の素材に交換できます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ACCESSORYSHOP_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>アクセサリー屋</original>
+			<edited>アクセサリー屋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ACCESSORYSHOP_0" offset="00" relocatable="true" max_length="0">
+			<original>「アクセサリー屋」ではソラネルで身につけられる
+「服」や「装飾品」を素材やゴールドと引き換えに
+仕立ててもらうことができます</original>
+			<edited>「アクセサリー屋」ではソラネルで身につけられる
+「服」や「装飾品」を素材やゴールドと引き換えに
+仕立ててもらうことができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ACCESSORYSHOP_1" offset="00" relocatable="true" max_length="0">
+			<original>一度、仕立ててもらったアクセサリーは
+一部の特別な物を除いて
+誰でも身に着けることができるようになります</original>
+			<edited>一度、仕立ててもらったアクセサリーは
+一部の特別な物を除いて
+誰でも身に着けることができるようになります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_ACCESSORYSHOP_2" offset="00" relocatable="true" max_length="0">
+			<original>ストーリーを進めていくと
+仕立ててもらうことができる品が
+増えていきます</original>
+			<edited>ストーリーを進めていくと
+仕立ててもらうことができる品が
+増えていきます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_COOK_OPEN" offset="00" relocatable="true" max_length="0">
+			<original>「カフェテラス」で「料理」が可能になりました</original>
+			<edited>「カフェテラス」で「料理」が可能になりました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_COOK_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>料理</original>
+			<edited>料理</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_COOK_0" offset="00" relocatable="true" max_length="0">
+			<original>料理当番に「料理」をつくってもらい
+仲間と一緒に食事をすることができます</original>
+			<edited>料理当番に「料理」をつくってもらい
+仲間と一緒に食事をすることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_COOK_1" offset="00" relocatable="true" max_length="0">
+			<original>料理が良い出来だった場合
+次の出撃中、仲間全員の能力が強化されます</original>
+			<edited>料理が良い出来だった場合
+次の出撃中、仲間全員の能力が強化されます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_COOK_2" offset="00" relocatable="true" max_length="0">
+			<original>また、誘った仲間同士の
+支援値がアップします</original>
+			<edited>また、誘った仲間同士の
+支援値がアップします</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_COOK_3" offset="00" relocatable="true" max_length="0">
+			<original>更に食事後にアイテム「お弁当」が貰えることがあります
+（出撃中に使うと、HPを回復できます）</original>
+			<edited>更に食事後にアイテム「お弁当」が貰えることがあります
+（出撃中に使うと、HPを回復できます）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_CAPERIDGE_OPEN" offset="00" relocatable="true" max_length="0">
+			<original>「試練の離れ」が解放されました</original>
+			<edited>「試練の離れ」が解放されました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_CAPERIDGE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>試練の離れ</original>
+			<edited>試練の離れ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_CAPERIDGE_0" offset="00" relocatable="true" max_length="0">
+			<original>「試練の離れ」では
+様々な「試練」に挑戦することができ
+勝利することで報酬を得られます</original>
+			<edited>「試練の離れ」では
+様々な「試練」に挑戦することができ
+勝利することで報酬を得られます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_CAPERIDGE_1" offset="00" relocatable="true" max_length="0">
+			<original>「連戦の試練」は連続で
+マップをクリアする試練です
+挑戦時に難易度を選ぶことができます</original>
+			<edited>「連戦の試練」は連続で
+マップをクリアする試練です
+挑戦時に難易度を選ぶことができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_CAPERIDGE_2" offset="00" relocatable="true" max_length="0">
+			<original>「繋戦の試練」はネットワークを使い
+他のプレイヤーと協力して、1つのマップを
+リレーのようにプレイし、勝利を目指します</original>
+			<edited>「繋戦の試練」はネットワークを使い
+他のプレイヤーと協力して、1つのマップを
+リレーのようにプレイし、勝利を目指します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_CAPERIDGE_3" offset="00" relocatable="true" max_length="0">
+			<original>「異界の試練」は自分がエディットしたマップで
+他のプレイヤーの軍とネットワークを使った
+対戦プレイを行います</original>
+			<edited>「異界の試練」は自分がエディットしたマップで
+他のプレイヤーの軍とネットワークを使った
+対戦プレイを行います</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_FISHING_OPEN" offset="00" relocatable="true" max_length="0">
+			<original>「釣り」が遊べるようになった！</original>
+			<edited>「釣り」が遊べるようになった！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_FISHING_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>釣り</original>
+			<edited>釣り</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_FISHING_0" offset="00" relocatable="true" max_length="0">
+			<original>「釣り」のアクティビティが楽しめます
+&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;A&#x0;で好きな場所に糸を垂らしましょう
+（大きな波紋の下には大物がいるかもしれません）</original>
+			<edited>「釣り」のアクティビティが楽しめます
+&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;A&#x0;で好きな場所に糸を垂らしましょう
+（大きな波紋の下には大物がいるかもしれません）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_FISHING_1" offset="00" relocatable="true" max_length="0">
+			<original>ウキが完全に沈んだタイミングで
+&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;A&#x0;を押せば魚がヒットします</original>
+			<edited>ウキが完全に沈んだタイミングで
+&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;A&#x0;を押せば魚がヒットします</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_FISHING_2" offset="00" relocatable="true" max_length="0">
+			<original>魚が暴れたら、逆方向に&#xE;&#x8;&#x2;&#xE;&#xC;&#x0;S&#x0;t&#x0;i&#x0;c&#x0;k&#x0;L&#x0;を倒しましょう
+うまく引き寄せないと、魚に逃げられてしまいます</original>
+			<edited>魚が暴れたら、逆方向に&#xE;&#x8;&#x2;&#xE;&#xC;&#x0;S&#x0;t&#x0;i&#x0;c&#x0;k&#x0;L&#x0;を倒しましょう
+うまく引き寄せないと、魚に逃げられてしまいます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_FISHING_3" offset="00" relocatable="true" max_length="0">
+			<original>手前まで引き寄せられたら、チャンスです
+&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;A&#x0;連打で魚の体力を減らします</original>
+			<edited>手前まで引き寄せられたら、チャンスです
+&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;A&#x0;連打で魚の体力を減らします</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_FISHING_4" offset="00" relocatable="true" max_length="0">
+			<original>魚の体力を0にすると、釣り上げ成功です！
+新しい釣り竿を入手すれば、より大物が釣れるかも？</original>
+			<edited>魚の体力を0にすると、釣り上げ成功です！
+新しい釣り竿を入手すれば、より大物が釣れるかも？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_DRAGONRIDE_OPEN" offset="00" relocatable="true" max_length="0">
+			<original>「ドラゴンシューター」が遊べるようになった！</original>
+			<edited>「ドラゴンシューター」が遊べるようになった！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_DRAGONRIDE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>ドラゴンシューター</original>
+			<edited>ドラゴンシューター</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_DRAGONRIDE_0" offset="00" relocatable="true" max_length="0">
+			<original>「ドラゴンシューター」は
+ドラゴンに乗り、浮かぶ的を破壊して
+高得点を狙うアクティビティです</original>
+			<edited>「ドラゴンシューター」は
+ドラゴンに乗り、浮かぶ的を破壊して
+高得点を狙うアクティビティです</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_DRAGONRIDE_1" offset="00" relocatable="true" max_length="0">
+			<original>特別な的を利用して、ベストスコアを目指しましょう！
+（ストーリーが進むと、新たな難易度が解放されます）</original>
+			<edited>特別な的を利用して、ベストスコアを目指しましょう！
+（ストーリーが進むと、新たな難易度が解放されます）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_FLEAMARKET_OPEN" offset="00" relocatable="true" max_length="0">
+			<original>「蚤の市」がオープンしました</original>
+			<edited>「蚤の市」がオープンしました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_FLEAMARKET_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>蚤の市</original>
+			<edited>蚤の市</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_FLEAMARKET_0" offset="00" relocatable="true" max_length="0">
+			<original>「蚤の市」では普通のお店では売っていない
+珍しい商品を購入することができます</original>
+			<edited>「蚤の市」では普通のお店では売っていない
+珍しい商品を購入することができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_FLEAMARKET_1" offset="00" relocatable="true" max_length="0">
+			<original>品揃えが変わることもあるので
+時々覗いてみると良いでしょう</original>
+			<edited>品揃えが変わることもあるので
+時々覗いてみると良いでしょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_FORTUNE_OPEN" offset="00" relocatable="true" max_length="0">
+			<original>「占い小屋」がオープンしました</original>
+			<edited>「占い小屋」がオープンしました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_FORTUNE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>占い小屋</original>
+			<edited>占い小屋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_FORTUNE_0" offset="00" relocatable="true" max_length="0">
+			<original>「占い小屋」ではセアダスが
+カードを使って運勢を占ってくれます</original>
+			<edited>「占い小屋」ではセアダスが
+カードを使って運勢を占ってくれます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_FORTUNE_1" offset="00" relocatable="true" max_length="0">
+			<original>夜の間だけ利用することができます
+利用したい時は日が沈んでから訪れましょう</original>
+			<edited>夜の間だけ利用することができます
+利用したい時は日が沈んでから訪れましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_PROFILE_OPEN" offset="00" relocatable="true" max_length="0">
+			<original>「活動記録の館」を利用可能になりました</original>
+			<edited>「活動記録の館」を利用可能になりました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_CAPERIDGE_DETAIL_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>試練中の出撃</original>
+			<edited>試練中の出撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_CAPERIDGE_DETAIL_0" offset="00" relocatable="true" max_length="0">
+			<original>それぞれの「試練」で味方が出撃している間に
+起きた「状態の変化」や「消費したアイテム」
+「倒れた仲間」などはプレイ後にすべて元に戻ります</original>
+			<edited>それぞれの「試練」で味方が出撃している間に
+起きた「状態の変化」や「消費したアイテム」
+「倒れた仲間」などはプレイ後にすべて元に戻ります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_CAPERIDGE_DETAIL_1" offset="00" relocatable="true" max_length="0">
+			<original>プレイ後に、報酬として貰ったアイテムや
+経験値は受け取ることができます</original>
+			<edited>プレイ後に、報酬として貰ったアイテムや
+経験値は受け取ることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_CAPERIDGE_DETAIL_2" offset="00" relocatable="true" max_length="0">
+			<original>アイテムの使用を惜しんだりせず
+クリアをして、報酬を貰う事を目指して
+プレイを楽しんでください</original>
+			<edited>アイテムの使用を惜しんだりせず
+クリアをして、報酬を貰う事を目指して
+プレイを楽しんでください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_CHALLENGE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>連戦の試練</original>
+			<edited>連戦の試練</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_CHALLENGE_0" offset="00" relocatable="true" max_length="0">
+			<original>「連戦の試練」は、連続でマップをプレイして
+クリアを目指す試練です</original>
+			<edited>「連戦の試練」は、連続でマップをプレイして
+クリアを目指す試練です</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_CHALLENGE_1" offset="00" relocatable="true" max_length="0">
+			<original>決められた数のマップを全てクリアすると
+報酬として素材が貰え
+出撃した味方に経験値が与えられます</original>
+			<edited>決められた数のマップを全てクリアすると
+報酬として素材が貰え
+出撃した味方に経験値が与えられます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_CHALLENGE_2" offset="00" relocatable="true" max_length="0">
+			<original>連戦マップを選ぶ時に難易度を設定することができ
+高い難易度にすると、クリア後に
+貰える報酬が、より良い物になります</original>
+			<edited>連戦マップを選ぶ時に難易度を設定することができ
+高い難易度にすると、クリア後に
+貰える報酬が、より良い物になります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_RELAY_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>繋戦の試練</original>
+			<edited>繋戦の試練</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_RELAY_0" offset="00" relocatable="true" max_length="0">
+			<original>「繋戦の試練」は、一つのマップを一定のターンで
+他のプレイヤーとリレーのように交替しながら
+クリアを目指す試練です</original>
+			<edited>「繋戦の試練」は、一つのマップを一定のターンで
+他のプレイヤーとリレーのように交替しながら
+クリアを目指す試練です</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_RELAY_1" offset="00" relocatable="true" max_length="0">
+			<original>「新しく始める」を選ぶと、チケットを支払って
+「繋戦の試練」を開始します</original>
+			<edited>「新しく始める」を選ぶと、チケットを支払って
+「繋戦の試練」を開始します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_RELAY_2" offset="00" relocatable="true" max_length="0">
+			<original>「引き継ぐ」を選ぶと
+誰かのプレイを引き継いでプレイします</original>
+			<edited>「引き継ぐ」を選ぶと
+誰かのプレイを引き継いでプレイします</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_RELAY_3" offset="00" relocatable="true" max_length="0">
+			<original>「結果確認」を選ぶと
+自分が参加したデータのリプレイを見ることができ
+戦いが完了していた場合は、報酬を受け取れます</original>
+			<edited>「結果確認」を選ぶと
+自分が参加したデータのリプレイを見ることができ
+戦いが完了していた場合は、報酬を受け取れます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_RELAY_ENTRY_PANEL_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>エントリーパネル</original>
+			<edited>エントリーパネル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_RELAY_ENTRY_PANEL_0" offset="00" relocatable="true" max_length="0">
+			<original>味方は「エントリーパネル」の上と
+その周囲の4つのマスに
+最大5人まで出撃させることができます</original>
+			<edited>味方は「エントリーパネル」の上と
+その周囲の4つのマスに
+最大5人まで出撃させることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_RELAY_ENTRY_PANEL_1" offset="00" relocatable="true" max_length="0">
+			<original>マップの中には、起動していない
+エントリーパネルが、いくつもあり
+その上に味方を待機させると起動できます</original>
+			<edited>マップの中には、起動していない
+エントリーパネルが、いくつもあり
+その上に味方を待機させると起動できます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_RELAY_ENTRY_PANEL_2" offset="00" relocatable="true" max_length="0">
+			<original>起動すると、後を引き継いだプレイヤーが
+そこから味方を出撃させられるようになるので
+できるだけ起動させておくと良いでしょう</original>
+			<edited>起動すると、後を引き継いだプレイヤーが
+そこから味方を出撃させられるようになるので
+できるだけ起動させておくと良いでしょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_RELAY_DATA_TAKEOVER_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>データの引き継ぎ</original>
+			<edited>データの引き継ぎ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_RELAY_DATA_TAKEOVER_0" offset="00" relocatable="true" max_length="0">
+			<original>決められたターン数をプレイしたら
+続きを他のプレイヤーに託して
+引き継ぎ方法を設定します</original>
+			<edited>決められたターン数をプレイしたら
+続きを他のプレイヤーに託して
+引き継ぎ方法を設定します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_RELAY_DATA_TAKEOVER_1" offset="00" relocatable="true" max_length="0">
+			<original>引き継ぎ方法には以下の2種類があります
+「公開」誰でも引き継ぐことができる
+「非公開」IDを取得し、それを入力して引き継ぐ</original>
+			<edited>引き継ぎ方法には以下の2種類があります
+「公開」誰でも引き継ぐことができる
+「非公開」IDを取得し、それを入力して引き継ぐ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_RELAY_DATA_TAKEOVER_2" offset="00" relocatable="true" max_length="0">
+			<original>引き継いだ後、どんな戦いが行われたのか
+勝ったのか、負けたのかといった結果は
+「結果確認」で見ることができます</original>
+			<edited>引き継いだ後、どんな戦いが行われたのか
+勝ったのか、負けたのかといった結果は
+「結果確認」で見ることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_RELAY_NEWDATA_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>新しく始める</original>
+			<edited>新しく始める</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_RELAY_NEWDATA_0" offset="00" relocatable="true" max_length="0">
+			<original>新しくデータを作り
+マップの始めから試練を開始します</original>
+			<edited>新しくデータを作り
+マップの始めから試練を開始します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_RELAY_NEWDATA_1" offset="00" relocatable="true" max_length="0">
+			<original>「マップ情報」を見ながら
+始めたいマップを選んでください</original>
+			<edited>「マップ情報」を見ながら
+始めたいマップを選んでください</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_RELAY_NEWDATA_2" offset="00" relocatable="true" max_length="0">
+			<original>マップを選ぶと出撃準備となり
+そこで「戦闘開始」を選ぶと
+チケットを支払い、試練が始まります</original>
+			<edited>マップを選ぶと出撃準備となり
+そこで「戦闘開始」を選ぶと
+チケットを支払い、試練が始まります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_RELAY_TAKEOVER_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>引き継ぐ</original>
+			<edited>引き継ぐ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_RELAY_TAKEOVER_0" offset="00" relocatable="true" max_length="0">
+			<original>誰かのデータを引き継いで
+マップの途中から試練をプレイします
+引き継ぎ方は「ランダム」と「ID入力」があります</original>
+			<edited>誰かのデータを引き継いで
+マップの途中から試練をプレイします
+引き継ぎ方は「ランダム」と「ID入力」があります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_RELAY_TAKEOVER_1" offset="00" relocatable="true" max_length="0">
+			<original>「ランダム」では、他のプレイヤーのデータが
+自動で選ばれ、それを引き継いでプレイします</original>
+			<edited>「ランダム」では、他のプレイヤーのデータが
+自動で選ばれ、それを引き継いでプレイします</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_RELAY_TAKEOVER_2" offset="00" relocatable="true" max_length="0">
+			<original>「ID入力」では、IDを入力して
+特定のプレイヤーのデータを
+引き継いでプレイをすることができます</original>
+			<edited>「ID入力」では、IDを入力して
+特定のプレイヤーのデータを
+引き継いでプレイをすることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_RELAY_TAKEOVER_3" offset="00" relocatable="true" max_length="0">
+			<original>「戦闘開始」を選ぶと試練が始まります</original>
+			<edited>「戦闘開始」を選ぶと試練が始まります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_RELAY_FINISH_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>結果確認</original>
+			<edited>結果確認</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_RELAY_FINISH_0" offset="00" relocatable="true" max_length="0">
+			<original>自分が参加した「繋戦の試練」のデータを見て
+プレイ状況を確認することができます
+完了していた場合は報酬を得ることができます</original>
+			<edited>自分が参加した「繋戦の試練」のデータを見て
+プレイ状況を確認することができます
+完了していた場合は報酬を得ることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_RELAY_FINISH_1" offset="00" relocatable="true" max_length="0">
+			<original>自分や他のプレイヤーの
+リプレイを見ることも可能です
+（未完了の場合は、途中まで見られます）</original>
+			<edited>自分や他のプレイヤーの
+リプレイを見ることも可能です
+（未完了の場合は、途中まで見られます）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_RELAY_FINISH_2" offset="00" relocatable="true" max_length="0">
+			<original>報酬は、敗北しても獲得できますが
+勝つことでより良いものが手に入ります</original>
+			<edited>報酬は、敗北しても獲得できますが
+勝つことでより良いものが手に入ります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>異界の試練</original>
+			<edited>異界の試練</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_0" offset="00" relocatable="true" max_length="0">
+			<original>選んだマップや、エディットしたマップで
+他のプレイヤーの部隊と対戦できる試練です</original>
+			<edited>選んだマップや、エディットしたマップで
+他のプレイヤーの部隊と対戦できる試練です</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_1" offset="00" relocatable="true" max_length="0">
+			<original>「お手軽対戦」は、好きなマップを選んで
+そこで対戦を行います</original>
+			<edited>「お手軽対戦」は、好きなマップを選んで
+そこで対戦を行います</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_2" offset="00" relocatable="true" max_length="0">
+			<original>「本格対戦」は、自分でマップをエディットして
+それを公開したり、自分のマップを誰かが公開した
+マップと繋いで対戦を行ったりします</original>
+			<edited>「本格対戦」は、自分でマップをエディットして
+それを公開したり、自分のマップを誰かが公開した
+マップと繋いで対戦を行ったりします</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_3" offset="00" relocatable="true" max_length="0">
+			<original>どちらの場合でも、対戦後に報酬を
+貰うことができます</original>
+			<edited>どちらの場合でも、対戦後に報酬を
+貰うことができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_EASY_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>お手軽対戦</original>
+			<edited>お手軽対戦</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_EASY_0" offset="00" relocatable="true" max_length="0">
+			<original>好きなマップを選んで、攻撃部隊を出撃させ
+他のプレイヤーの部隊と対戦を行います
+相手は「ランダム」「フレンド」「ID入力」から選べます</original>
+			<edited>好きなマップを選んで、攻撃部隊を出撃させ
+他のプレイヤーの部隊と対戦を行います
+相手は「ランダム」「フレンド」「ID入力」から選べます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_EASY_1" offset="00" relocatable="true" max_length="0">
+			<original>「ランダム」では、対戦を行う部隊が
+自動で選ばれます</original>
+			<edited>「ランダム」では、対戦を行う部隊が
+自動で選ばれます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_EASY_2" offset="00" relocatable="true" max_length="0">
+			<original>「フレンド」では
+フレンド登録したプレイヤーの部隊が表示され
+その中から対戦する部隊を選ぶことができます</original>
+			<edited>「フレンド」では
+フレンド登録したプレイヤーの部隊が表示され
+その中から対戦する部隊を選ぶことができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_EASY_3" offset="00" relocatable="true" max_length="0">
+			<original>「ID入力」では
+IDを入力して、特定のプレイヤーの部隊と
+対戦することができます</original>
+			<edited>「ID入力」では
+IDを入力して、特定のプレイヤーの部隊と
+対戦することができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_SERIOUS_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>本格対戦</original>
+			<edited>本格対戦</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_SERIOUS_0" offset="00" relocatable="true" max_length="0">
+			<original>マップをエディットして公開したり
+自分のマップを他のプレイヤーが公開したマップと繋いで
+対戦を行ったりします</original>
+			<edited>マップをエディットして公開したり
+自分のマップを他のプレイヤーが公開したマップと繋いで
+対戦を行ったりします</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_SERIOUS_1" offset="00" relocatable="true" max_length="0">
+			<original>まずは「マップエディット」で
+自分のマップを作成しましょう</original>
+			<edited>まずは「マップエディット」で
+自分のマップを作成しましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_EDIT_ATTACK_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>エディットしたマップで対戦</original>
+			<edited>エディットしたマップで対戦</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_EDIT_ATTACK_0" offset="00" relocatable="true" max_length="0">
+			<original>マップをエディットしたら、それを使って
+対戦を行うことができます</original>
+			<edited>マップをエディットしたら、それを使って
+対戦を行うことができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_EDIT_ATTACK_1" offset="00" relocatable="true" max_length="0">
+			<original>「対戦開始」を選ぶと、自分がエディットしたマップと
+他のプレイヤーが公開したマップを繋いで
+そこに攻撃部隊を出撃させ、対戦が始まります</original>
+			<edited>「対戦開始」を選ぶと、自分がエディットしたマップと
+他のプレイヤーが公開したマップを繋いで
+そこに攻撃部隊を出撃させ、対戦が始まります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_EDIT_ATTACK_2" offset="00" relocatable="true" max_length="0">
+			<original>防衛戦が行われていた場合は
+「結果の確認」でその結果を確認し
+リプレイを見ることができます</original>
+			<edited>防衛戦が行われていた場合は
+「結果の確認」でその結果を確認し
+リプレイを見ることができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_EDIT_ATTACK_3" offset="00" relocatable="true" max_length="0">
+			<original>「模擬戦」を選ぶと
+自分のエディットしたマップを相手に
+テストプレイを行い、出来映えを確認することができます</original>
+			<edited>「模擬戦」を選ぶと
+自分のエディットしたマップを相手に
+テストプレイを行い、出来映えを確認することができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_ATTACK_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>対戦開始</original>
+			<edited>対戦開始</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_ATTACK_0" offset="00" relocatable="true" max_length="0">
+			<original>他のプレイヤーが公開したマップに自分のマップを繋ぎ
+攻撃部隊を送り込んで対戦を行うことができます</original>
+			<edited>他のプレイヤーが公開したマップに自分のマップを繋ぎ
+攻撃部隊を送り込んで対戦を行うことができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_ATTACK_1" offset="00" relocatable="true" max_length="0">
+			<original>「ランダム」では、他のプレイヤーの
+マップが自動で選ばれ、対戦を行います</original>
+			<edited>「ランダム」では、他のプレイヤーの
+マップが自動で選ばれ、対戦を行います</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_ATTACK_2" offset="00" relocatable="true" max_length="0">
+			<original>「フレンド」では
+フレンド登録したプレイヤーのマップが表示され
+その中から対戦したいマップを選ぶことができます</original>
+			<edited>「フレンド」では
+フレンド登録したプレイヤーのマップが表示され
+その中から対戦したいマップを選ぶことができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_ATTACK_3" offset="00" relocatable="true" max_length="0">
+			<original>「ID入力」では
+IDを入力して、特定のプレイヤーのマップで
+対戦することができます</original>
+			<edited>「ID入力」では
+IDを入力して、特定のプレイヤーのマップで
+対戦することができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_EDIT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>マップエディット</original>
+			<edited>マップエディット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_EDIT_0" offset="00" relocatable="true" max_length="0">
+			<original>対戦に使うマップを作成します
+戦い方を考えて、マップに様々な
+地形を配置しましょう</original>
+			<edited>対戦に使うマップを作成します
+戦い方を考えて、マップに様々な
+地形を配置しましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_EDIT_1" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;X&#x0;で地形リストを開き
+&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;A&#x0;で配置することができます
+（&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;L&#x0;&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;R&#x0;で直接選ぶこともできます）</original>
+			<edited>&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;X&#x0;で地形リストを開き
+&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;A&#x0;で配置することができます
+（&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;L&#x0;&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;R&#x0;で直接選ぶこともできます）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_EDIT_2" offset="00" relocatable="true" max_length="0">
+			<original>作成したマップを保存すると敵が攻めてきて
+「防衛戦」が発生することがあります
+防衛時のことも考慮して作成を行いましょう</original>
+			<edited>作成したマップを保存すると敵が攻めてきて
+「防衛戦」が発生することがあります
+防衛時のことも考慮して作成を行いましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_EDIT_3" offset="00" relocatable="true" max_length="0">
+			<original>防衛戦用の「防衛部隊」の設定と
+作成したマップの保存を行うには
+&#xE;&#x8;&#x2;
+&#x8;&#x0;P&#x0;l&#x0;u&#x0;s&#x0;でメニューを開きます</original>
+			<edited>防衛戦用の「防衛部隊」の設定と
+作成したマップの保存を行うには
+&#xE;&#x8;&#x2;
+&#x8;&#x0;P&#x0;l&#x0;u&#x0;s&#x0;でメニューを開きます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_EDIT_SAVE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>防衛部隊の設定とマップ保存</original>
+			<edited>防衛部隊の設定とマップ保存</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_EDIT_SAVE_0" offset="00" relocatable="true" max_length="0">
+			<original>防衛戦の発生時に自動で戦う「防衛部隊」は
+メニューからユニットを編成し
+装備や配置を変更して、設定します</original>
+			<edited>防衛戦の発生時に自動で戦う「防衛部隊」は
+メニューからユニットを編成し
+装備や配置を変更して、設定します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_EDIT_SAVE_1" offset="00" relocatable="true" max_length="0">
+			<original>味方にカーソルを合わせて&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;A&#x0;を押すと
+行動タイプも変更できます</original>
+			<edited>味方にカーソルを合わせて&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;A&#x0;を押すと
+行動タイプも変更できます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_EDIT_SAVE_2" offset="00" relocatable="true" max_length="0">
+			<original>「防衛部隊」に設定したユニットは
+「攻撃部隊」に加えることができなくなるので
+注意しましょう</original>
+			<edited>「防衛部隊」に設定したユニットは
+「攻撃部隊」に加えることができなくなるので
+注意しましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_EDIT_SAVE_3" offset="00" relocatable="true" max_length="0">
+			<original>地形も防衛部隊も配置を完了したら
+「マップ保存」を選んで
+作成したマップを保存しましょう</original>
+			<edited>地形も防衛部隊も配置を完了したら
+「マップ保存」を選んで
+作成したマップを保存しましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_EDIT_SAVE_4" offset="00" relocatable="true" max_length="0">
+			<original>「エディット終了」を選べば
+マップエディットを完了します</original>
+			<edited>「エディット終了」を選べば
+マップエディットを完了します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_REPLAY_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>結果の確認（リプレイ）</original>
+			<edited>結果の確認（リプレイ）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_REPLAY_0" offset="00" relocatable="true" max_length="0">
+			<original>エディットしたマップを公開しておくと
+そこへ他のプレイヤーが攻撃をしかけてきて
+「防衛戦」が発生することがあります</original>
+			<edited>エディットしたマップを公開しておくと
+そこへ他のプレイヤーが攻撃をしかけてきて
+「防衛戦」が発生することがあります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_REPLAY_1" offset="00" relocatable="true" max_length="0">
+			<original>「防衛戦」が発生していた場合は
+その勝敗を確認することができます</original>
+			<edited>「防衛戦」が発生していた場合は
+その勝敗を確認することができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_REPLAY_2" offset="00" relocatable="true" max_length="0">
+			<original>どんな戦いが行われていたのか
+リプレイを見ることもできます</original>
+			<edited>どんな戦いが行われていたのか
+リプレイを見ることもできます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_REPLAY_3" offset="00" relocatable="true" max_length="0">
+			<original>報酬は、敗北しても獲得できますが
+勝つことで、より良いものが手に入ります</original>
+			<edited>報酬は、敗北しても獲得できますが
+勝つことで、より良いものが手に入ります</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_MOCKCOMBAT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>模擬戦</original>
+			<edited>模擬戦</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_MOCKCOMBAT_0" offset="00" relocatable="true" max_length="0">
+			<original>自分のエディットしたマップをテストプレイし
+出来映えを確認することができます</original>
+			<edited>自分のエディットしたマップをテストプレイし
+出来映えを確認することができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_MOCKCOMBAT_1" offset="00" relocatable="true" max_length="0">
+			<original>自分のマップに攻撃部隊を送り込み
+防衛部隊と対戦を行います</original>
+			<edited>自分のマップに攻撃部隊を送り込み
+防衛部隊と対戦を行います</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_MATCH_MOCKCOMBAT_2" offset="00" relocatable="true" max_length="0">
+			<original>改善すべき点が見つかったら
+「マップエディット」でマップを調整しましょう</original>
+			<edited>改善すべき点が見つかったら
+「マップエディット」でマップを調整しましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_TIPS_Marth" offset="00" relocatable="true" max_length="0">
+			<original>紋章士マルス</original>
+			<edited>紋章士マルス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_TIPS_Siglud" offset="00" relocatable="true" max_length="0">
+			<original>紋章士シグルド</original>
+			<edited>紋章士シグルド</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_TIPS_Celica" offset="00" relocatable="true" max_length="0">
+			<original>紋章士セリカ</original>
+			<edited>紋章士セリカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_TIPS_Micaiah" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ミカヤ</original>
+			<edited>紋章士ミカヤ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_TIPS_Roy" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ロイ</original>
+			<edited>紋章士ロイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_TIPS_Lin" offset="00" relocatable="true" max_length="0">
+			<original>紋章士リン</original>
+			<edited>紋章士リン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_TIPS_Ike" offset="00" relocatable="true" max_length="0">
+			<original>紋章士アイク</original>
+			<edited>紋章士アイク</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_TIPS_Lucina" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ルキナ</original>
+			<edited>紋章士ルキナ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_TIPS_Leaf" offset="00" relocatable="true" max_length="0">
+			<original>紋章士リーフ</original>
+			<edited>紋章士リーフ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_TIPS_Kamui" offset="00" relocatable="true" max_length="0">
+			<original>紋章士カムイ</original>
+			<edited>紋章士カムイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_TIPS_Eirik" offset="00" relocatable="true" max_length="0">
+			<original>紋章士エイリーク</original>
+			<edited>紋章士エイリーク</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_TIPS_Ephraim" offset="00" relocatable="true" max_length="0">
+			<original>紋章士エフラム</original>
+			<edited>紋章士エフラム</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_TIPS_Byleth" offset="00" relocatable="true" max_length="0">
+			<original>紋章士ベレト</original>
+			<edited>紋章士ベレト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_TIPS_TUTORIAL" offset="00" relocatable="true" max_length="0">
+			<original>基礎知識</original>
+			<edited>基礎知識</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_TIPS_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>消費アイテム</original>
+			<edited>消費アイテム</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_TIPS_WEAPON" offset="00" relocatable="true" max_length="0">
+			<original>武器</original>
+			<edited>武器</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_TIPS_KIZUNA" offset="00" relocatable="true" max_length="0">
+			<original>散策</original>
+			<edited>散策</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_TIPS_HUB" offset="00" relocatable="true" max_length="0">
+			<original>ソラネル</original>
+			<edited>ソラネル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_TIPS_GMAP" offset="00" relocatable="true" max_length="0">
+			<original>ワールドマップ</original>
+			<edited>ワールドマップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_TIPS_ENCOUNTER" offset="00" relocatable="true" max_length="0">
+			<original>遭遇戦</original>
+			<edited>遭遇戦</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_TIPS_UNIT_SKILL" offset="00" relocatable="true" max_length="0">
+			<original>（&#xE;&#x1;&#x0;&#x0;の個人スキル）</original>
+			<edited>（&#xE;&#x1;&#x0;&#x0;の個人スキル）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_TIPS_GOD_SKILL" offset="00" relocatable="true" max_length="0">
+			<original>（&#xE;&#x1;&#x0;&#x0;の紋章士スキル）</original>
+			<edited>（&#xE;&#x1;&#x0;&#x0;の紋章士スキル）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_TIPS_UNIT_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>（&#xE;&#x1;&#x0;&#x0;の専用武器）</original>
+			<edited>（&#xE;&#x1;&#x0;&#x0;の専用武器）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_TIPS_GOD_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>（&#xE;&#x1;&#x0;&#x0;のエンゲージ武器）</original>
+			<edited>（&#xE;&#x1;&#x0;&#x0;のエンゲージ武器）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_1" offset="00" relocatable="true" max_length="0">
+			<original>一度見た指南は「システム」の「指南」でいつでも確認することができる</original>
+			<edited>一度見た指南は「システム」の「指南」でいつでも確認することができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_2" offset="00" relocatable="true" max_length="0">
+			<original>戦闘アニメのオン・オフは「システム」の「環境設定」で切り替えられる</original>
+			<edited>戦闘アニメのオン・オフは「システム」の「環境設定」で切り替えられる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_3" offset="00" relocatable="true" max_length="0">
+			<original>戦闘マップで&#xE;&#x8;&#x2;&#x6;&#x4;&#x0;Z&#x0;L&#x0;を押すと敵全員の攻撃範囲を表示できる</original>
+			<edited>戦闘マップで&#xE;&#x8;&#x2;&#x6;&#x4;&#x0;Z&#x0;L&#x0;を押すと敵全員の攻撃範囲を表示できる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_4" offset="00" relocatable="true" max_length="0">
+			<original>敵にカーソルを合わせて&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;A&#x0;を押すと危険範囲が表示される</original>
+			<edited>敵にカーソルを合わせて&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;A&#x0;を押すと危険範囲が表示される</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_5" offset="00" relocatable="true" max_length="0">
+			<original>未行動の味方が残っていても、メニューの「終了」で、自軍フェイズを終了できる</original>
+			<edited>未行動の味方が残っていても、メニューの「終了」で、自軍フェイズを終了できる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_6" offset="00" relocatable="true" max_length="0">
+			<original>会話は&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;Y&#x0;を押し続けると早送りができる</original>
+			<edited>会話は&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;Y&#x0;を押し続けると早送りができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_7" offset="00" relocatable="true" max_length="0">
+			<original>経験値が100になるとレベルが上がり、味方の能力が上昇する</original>
+			<edited>経験値が100になるとレベルが上がり、味方の能力が上昇する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_8" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;X&#x0;を押すと、アイテムやスキルの詳細な情報が見られる</original>
+			<edited>&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;X&#x0;を押すと、アイテムやスキルの詳細な情報が見られる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_9" offset="00" relocatable="true" max_length="0">
+			<original>ユニットにカーソルを合わせて&#xE;&#x8;&#x2;&#xC;
+&#x0;M&#x0;i&#x0;n&#x0;u&#x0;s&#x0;を押すと、詳細な能力が確認できる</original>
+			<edited>ユニットにカーソルを合わせて&#xE;&#x8;&#x2;&#xC;
+&#x0;M&#x0;i&#x0;n&#x0;u&#x0;s&#x0;を押すと、詳細な能力が確認できる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_10" offset="00" relocatable="true" max_length="0">
+			<original>戦闘マップで&#xE;&#x8;&#x2;&#x6;&#x4;&#x0;Z&#x0;R&#x0;を長押しすると、ユニット情報の種類やマップ表示を切り替えられる</original>
+			<edited>戦闘マップで&#xE;&#x8;&#x2;&#x6;&#x4;&#x0;Z&#x0;R&#x0;を長押しすると、ユニット情報の種類やマップ表示を切り替えられる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_50" offset="00" relocatable="true" max_length="0">
+			<original>戦闘マップで&#xE;&#x8;&#x2;&#x6;&#x4;&#x0;Z&#x0;R&#x0;を押すと、ユニットの補助情報が表示される</original>
+			<edited>戦闘マップで&#xE;&#x8;&#x2;&#x6;&#x4;&#x0;Z&#x0;R&#x0;を押すと、ユニットの補助情報が表示される</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_11" offset="00" relocatable="true" max_length="0">
+			<original>武器の「重さ」がユニットの「体格」より大きいと、その分「速さ」が下がる</original>
+			<edited>武器の「重さ」がユニットの「体格」より大きいと、その分「速さ」が下がる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_12" offset="00" relocatable="true" max_length="0">
+			<original>「幸運」が高いほど、敵から必殺の一撃を受けにくくなる</original>
+			<edited>「幸運」が高いほど、敵から必殺の一撃を受けにくくなる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_13" offset="00" relocatable="true" max_length="0">
+			<original>「茂み」や「林」などの地形で戦えば、敵の攻撃が当たりにくくなる</original>
+			<edited>「茂み」や「林」などの地形で戦えば、敵の攻撃が当たりにくくなる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_ITEM_0" offset="00" relocatable="true" max_length="0">
+			<original>HPは「傷薬」や「ライブ」で回復することができる</original>
+			<edited>HPは「傷薬」や「ライブ」で回復することができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_ITEM_1" offset="00" relocatable="true" max_length="0">
+			<original>「傷薬」や「杖」などのアイテムは、使用できる回数が0になるとなくなってしまう</original>
+			<edited>「傷薬」や「杖」などのアイテムは、使用できる回数が0になるとなくなってしまう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_14" offset="00" relocatable="true" max_length="0">
+			<original>「おまかせ」を選ぶと、戦闘方針に合わせて味方が自動的に行動する</original>
+			<edited>「おまかせ」を選ぶと、戦闘方針に合わせて味方が自動的に行動する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_15" offset="00" relocatable="true" max_length="0">
+			<original>剣の敵には「槍」、槍の敵には「斧」、斧の敵には「剣」で攻撃するとブレイクできる</original>
+			<edited>剣の敵には「槍」、槍の敵には「斧」、斧の敵には「剣」で攻撃するとブレイクできる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_51" offset="00" relocatable="true" max_length="0">
+			<original>弓・魔道書・短剣を装備している敵は「体術」で攻撃するとブレイクできる</original>
+			<edited>弓・魔道書・短剣を装備している敵は「体術」で攻撃するとブレイクできる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_16" offset="00" relocatable="true" max_length="0">
+			<original>ブレイクさせた敵は、一度戦闘をするか、次のターンになるまで反撃ができない</original>
+			<edited>ブレイクさせた敵は、一度戦闘をするか、次のターンになるまで反撃ができない</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_17" offset="00" relocatable="true" max_length="0">
+			<original>「エンゲージ技」は、チェインガードで防ぐことができない</original>
+			<edited>「エンゲージ技」は、チェインガードで防ぐことができない</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_SKILL_0" offset="00" relocatable="true" max_length="0">
+			<original>「絆レベル」が上がると、シンクロ・エンゲージ中の能力が強化され、使用できるスキルが増える</original>
+			<edited>「絆レベル」が上がると、シンクロ・エンゲージ中の能力が強化され、使用できるスキルが増える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_SKILL_1" offset="00" relocatable="true" max_length="0">
+			<original>「エンゲージカウント」は戦闘を行うことで溜まる</original>
+			<edited>「エンゲージカウント」は戦闘を行うことで溜まる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_SKILL_28" offset="00" relocatable="true" max_length="0">
+			<original>「紋章氣マス」で待機すると、エンゲージカウントが最大になる</original>
+			<edited>「紋章氣マス」で待機すると、エンゲージカウントが最大になる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_SKILL_2" offset="00" relocatable="true" max_length="0">
+			<original>マルスのエンゲージ技「スターラッシュ」は、戦闘スタイルが【竜族】だと攻撃回数が増える</original>
+			<edited>マルスのエンゲージ技「スターラッシュ」は、戦闘スタイルが【竜族】だと攻撃回数が増える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_ITEM_2" offset="00" relocatable="true" max_length="0">
+			<original>体術装備時の攻撃力は「力」と「魔力」の2つの基本能力の影響を受ける</original>
+			<edited>体術装備時の攻撃力は「力」と「魔力」の2つの基本能力の影響を受ける</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_18" offset="00" relocatable="true" max_length="0">
+			<original>味方はそれぞれ役立つ固有のスキルを持っている。詳細は&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;X&#x0;で見ることができる</original>
+			<edited>味方はそれぞれ役立つ固有のスキルを持っている。詳細は&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;X&#x0;で見ることができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_19" offset="00" relocatable="true" max_length="0">
+			<original>「部隊表」を見れば、味方の兵種やレベルを一覧で確認することができる</original>
+			<edited>「部隊表」を見れば、味方の兵種やレベルを一覧で確認することができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_20" offset="00" relocatable="true" max_length="0">
+			<original>味方同士が隣接している状態で戦闘を行うと、お互いの支援値がアップする</original>
+			<edited>味方同士が隣接している状態で戦闘を行うと、お互いの支援値がアップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_21" offset="00" relocatable="true" max_length="0">
+			<original>味方を選択中に&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;L&#x0;&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;R&#x0;を押すと、装備する武器を切り替えることができる</original>
+			<edited>味方を選択中に&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;L&#x0;&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;R&#x0;を押すと、装備する武器を切り替えることができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_22" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x8;&#x2;&#x12;&#x10;&#x0;D&#x0;r&#x0;o&#x0;p&#x0;I&#x0;t&#x0;e&#x0;m&#x0;のついた敵を倒すと、持っていたアイテムが手に入る</original>
+			<edited>&#xE;&#x8;&#x2;&#x12;&#x10;&#x0;D&#x0;r&#x0;o&#x0;p&#x0;I&#x0;t&#x0;e&#x0;m&#x0;のついた敵を倒すと、持っていたアイテムが手に入る</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_ITEM_3" offset="00" relocatable="true" max_length="0">
+			<original>弓は「飛行特効」を持ち、飛行する敵に大きなダメージを与える</original>
+			<edited>弓は「飛行特効」を持ち、飛行する敵に大きなダメージを与える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_ITEM_4" offset="00" relocatable="true" max_length="0">
+			<original>重装兵は「守備」が高く、魔法で攻撃した方がダメージを与えやすい</original>
+			<edited>重装兵は「守備」が高く、魔法で攻撃した方がダメージを与えやすい</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_OTHER_33" offset="00" relocatable="true" max_length="0">
+			<original>ゲームの難易度は「マイベッド」の「難易度変更」で変更することができる</original>
+			<edited>ゲームの難易度は「マイベッド」の「難易度変更」で変更することができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_24" offset="00" relocatable="true" max_length="0">
+			<original>敵が到達する前に民家を「訪問」すると報酬がもらえる</original>
+			<edited>敵が到達する前に民家を「訪問」すると報酬がもらえる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_25" offset="00" relocatable="true" max_length="0">
+			<original>「砦」や「防衛床」に待機しているユニットは、ターン毎にHPが回復し、武器相性でブレイクされない</original>
+			<edited>「砦」や「防衛床」に待機しているユニットは、ターン毎にHPが回復し、武器相性でブレイクされない</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_27" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x3;&#x0;が使用できる「輸送隊」は、隣接している味方も使用できる</original>
+			<edited>&#xE;&#x6;&#x3;&#x0;が使用できる「輸送隊」は、隣接している味方も使用できる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_28" offset="00" relocatable="true" max_length="0">
+			<original>絆レベルを上げていくと「絆会話」が発生し、見ると更に絆レベルが上昇する</original>
+			<edited>絆レベルを上げていくと「絆会話」が発生し、見ると更に絆レベルが上昇する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_29" offset="00" relocatable="true" max_length="0">
+			<original>味方同士の支援値が上がると「支援会話」が発生し、見ると「支援レベル」が上昇する</original>
+			<edited>味方同士の支援値が上がると「支援会話」が発生し、見ると「支援レベル」が上昇する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_30" offset="00" relocatable="true" max_length="0">
+			<original>味方同士の「支援レベル」が上昇すると、近くで戦う時に能力がアップする</original>
+			<edited>味方同士の「支援レベル」が上昇すると、近くで戦う時に能力がアップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_32" offset="00" relocatable="true" max_length="0">
+			<original>敵をブレイクできる時は、敵の武器アイコンに&#xE;&#x8;&#x2;&#x18;&#x16;&#x0;E&#x0;q&#x0;u&#x0;i&#x0;p&#x0;C&#x0;a&#x0;n&#x0;c&#x0;e&#x0;l&#x0;の印がつく</original>
+			<edited>敵をブレイクできる時は、敵の武器アイコンに&#xE;&#x8;&#x2;&#x18;&#x16;&#x0;E&#x0;q&#x0;u&#x0;i&#x0;p&#x0;C&#x0;a&#x0;n&#x0;c&#x0;e&#x0;l&#x0;の印がつく</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_33" offset="00" relocatable="true" max_length="0">
+			<original>ユニットに&#xE;&#x8;&#x2; &#x1E;&#x0;B&#x0;a&#x0;l&#x0;l&#x0;o&#x0;o&#x0;n&#x0;C&#x0;r&#x0;i&#x0;t&#x0;i&#x0;c&#x0;a&#x0;l&#x0;が表示されている時は、必殺の一撃が出やすい</original>
+			<edited>ユニットに&#xE;&#x8;&#x2; &#x1E;&#x0;B&#x0;a&#x0;l&#x0;l&#x0;o&#x0;o&#x0;n&#x0;C&#x0;r&#x0;i&#x0;t&#x0;i&#x0;c&#x0;a&#x0;l&#x0;が表示されている時は、必殺の一撃が出やすい</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_34" offset="00" relocatable="true" max_length="0">
+			<original>「竜の時水晶」を使うと、行動を以前の時点まで戻し、やり直すことができる</original>
+			<edited>「竜の時水晶」を使うと、行動を以前の時点まで戻し、やり直すことができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_ITEM_5" offset="00" relocatable="true" max_length="0">
+			<original>弓や魔法以外にも「手槍」や「手斧」といった、離れた敵に攻撃できる武器がある</original>
+			<edited>弓や魔法以外にも「手槍」や「手斧」といった、離れた敵に攻撃できる武器がある</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_ITEM_6" offset="00" relocatable="true" max_length="0">
+			<original>魔道書「サージ」は隣接した敵しか攻撃できないが、必ず命中する</original>
+			<edited>魔道書「サージ」は隣接した敵しか攻撃できないが、必ず命中する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_OTHER_0" offset="00" relocatable="true" max_length="0">
+			<original>戦闘で活躍した仲間と会話をすると「絆のかけら」をもらうことができる</original>
+			<edited>戦闘で活躍した仲間と会話をすると「絆のかけら」をもらうことができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_OTHER_1" offset="00" relocatable="true" max_length="0">
+			<original>手に入れた晶石や食材は、「錬成」や「料理」に使用できる</original>
+			<edited>手に入れた晶石や食材は、「錬成」や「料理」に使用できる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_OTHER_2" offset="00" relocatable="true" max_length="0">
+			<original>「紋章士の間」では、「絆のかけら」を使って絆の指輪を精製することができる</original>
+			<edited>「紋章士の間」では、「絆のかけら」を使って絆の指輪を精製することができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_OTHER_3" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;X&#x0;を押すと、すぐにファストトラベルが使用でき、好きな場所へ移動できる</original>
+			<edited>&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;X&#x0;を押すと、すぐにファストトラベルが使用でき、好きな場所へ移動できる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_OTHER_4" offset="00" relocatable="true" max_length="0">
+			<original>「贈り物」をする時に、相手の好きな物を選ぶと支援値がよりアップする</original>
+			<edited>「贈り物」をする時に、相手の好きな物を選ぶと支援値がよりアップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_OTHER_6" offset="00" relocatable="true" max_length="0">
+			<original>「サウンドボックス」を使うと、流れている音楽を好きなものに変更できる</original>
+			<edited>「サウンドボックス」を使うと、流れている音楽を好きなものに変更できる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_OTHER_7" offset="00" relocatable="true" max_length="0">
+			<original>「マイルーム」では、支援会話を見たり、ムービーや音楽を鑑賞したりすることができる</original>
+			<edited>「マイルーム」では、支援会話を見たり、ムービーや音楽を鑑賞したりすることができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_OTHER_8" offset="00" relocatable="true" max_length="0">
+			<original>「マイベッド」で休憩すると、仲間の誰かが起こしに来てくれることがある</original>
+			<edited>「マイベッド」で休憩すると、仲間の誰かが起こしに来てくれることがある</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_OTHER_9" offset="00" relocatable="true" max_length="0">
+			<original>「紋章士の間」では、「SP」や「絆のかけら」を使って「スキル継承」や「絆の指輪精製」が行える</original>
+			<edited>「紋章士の間」では、「SP」や「絆のかけら」を使って「スキル継承」や「絆の指輪精製」が行える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_OTHER_10" offset="00" relocatable="true" max_length="0">
+			<original>ソラネルに古くから棲む守り神は、おしりから「絆のかけら」を生み出すという噂がある</original>
+			<edited>ソラネルに古くから棲む守り神は、おしりから「絆のかけら」を生み出すという噂がある</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_OTHER_11" offset="00" relocatable="true" max_length="0">
+			<original>「ドラゴンシューター」で高いスコアを出すと、たくさんの「絆のかけら」がもらえる</original>
+			<edited>「ドラゴンシューター」で高いスコアを出すと、たくさんの「絆のかけら」がもらえる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_OTHER_12" offset="00" relocatable="true" max_length="0">
+			<original>「筋肉体操」をすると、次の出撃中、&#xE;&#x6;&#x3;&#x0;の能力が少し強化される</original>
+			<edited>「筋肉体操」をすると、次の出撃中、&#xE;&#x6;&#x3;&#x0;の能力が少し強化される</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_OTHER_32" offset="00" relocatable="true" max_length="0">
+			<original>売却する物は、&#xE;&#x8;&#x2;&#x6;&#x4;&#x0;Z&#x0;R&#x0;で複数選ぶことができ、まとめて売ることができる</original>
+			<edited>売却する物は、&#xE;&#x8;&#x2;&#x6;&#x4;&#x0;Z&#x0;R&#x0;で複数選ぶことができ、まとめて売ることができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_35" offset="00" relocatable="true" max_length="0">
+			<original>敵に宝箱の中身を奪われても、逃げる前に撃破すれば取り返すことができる</original>
+			<edited>敵に宝箱の中身を奪われても、逃げる前に撃破すれば取り返すことができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_36" offset="00" relocatable="true" max_length="0">
+			<original>扉は破壊するか、シーフの「扉の鍵」コマンドを使うと通れるようになる</original>
+			<edited>扉は破壊するか、シーフの「扉の鍵」コマンドを使うと通れるようになる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_ITEM_8" offset="00" relocatable="true" max_length="0">
+			<original>「ＨＰの薬」などの強化アイテムは、出撃している間、味方の能力を上昇させる</original>
+			<edited>「ＨＰの薬」などの強化アイテムは、出撃している間、味方の能力を上昇させる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_ITEM_9" offset="00" relocatable="true" max_length="0">
+			<original>「ナイトキラー」などの「騎馬特効」を持つ武器は、騎馬系の敵に大きなダメージを与える</original>
+			<edited>「ナイトキラー」などの「騎馬特効」を持つ武器は、騎馬系の敵に大きなダメージを与える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_OTHER_13" offset="00" relocatable="true" max_length="0">
+			<original>ソラネルに連れ帰った動物は、「牧場」で放牧すると食材を落とすことがある</original>
+			<edited>ソラネルに連れ帰った動物は、「牧場」で放牧すると食材を落とすことがある</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_OTHER_15" offset="00" relocatable="true" max_length="0">
+			<original>ワールドマップでは「遭遇戦」や「訓練」が発生し、経験値やゴールドを得ることができる</original>
+			<edited>ワールドマップでは「遭遇戦」や「訓練」が発生し、経験値やゴールドを得ることができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_OTHER_16" offset="00" relocatable="true" max_length="0">
+			<original>「鍛錬の間」では味方や紋章士と戦闘ができ、経験値の獲得や、絆を深めることができる</original>
+			<edited>「鍛錬の間」では味方や紋章士と戦闘ができ、経験値の獲得や、絆を深めることができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_OTHER_17" offset="00" relocatable="true" max_length="0">
+			<original>「訓練」に出撃した味方は、クリア後にさらに経験値を得られる</original>
+			<edited>「訓練」に出撃した味方は、クリア後にさらに経験値を得られる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_39" offset="00" relocatable="true" max_length="0">
+			<original>戦闘スタイル【竜族】のユニットは、エンゲージ時に多彩な付加効果を得られる</original>
+			<edited>戦闘スタイル【竜族】のユニットは、エンゲージ時に多彩な付加効果を得られる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_40" offset="00" relocatable="true" max_length="0">
+			<original>戦闘スタイル【連携】のユニットは、味方を援護する「チェインアタック」が使える</original>
+			<edited>戦闘スタイル【連携】のユニットは、味方を援護する「チェインアタック」が使える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_41" offset="00" relocatable="true" max_length="0">
+			<original>戦闘スタイル【騎馬】のユニットは、移動できる距離が長い</original>
+			<edited>戦闘スタイル【騎馬】のユニットは、移動できる距離が長い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_42" offset="00" relocatable="true" max_length="0">
+			<original>戦闘スタイル【魔道】のユニットは、魔法攻撃時に、敵の地形効果による回避の＋補正を無効にする</original>
+			<edited>戦闘スタイル【魔道】のユニットは、魔法攻撃時に、敵の地形効果による回避の＋補正を無効にする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_43" offset="00" relocatable="true" max_length="0">
+			<original>戦闘スタイル【気功】のユニットは、味方を護る「チェインガード」が使える</original>
+			<edited>戦闘スタイル【気功】のユニットは、味方を護る「チェインガード」が使える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_44" offset="00" relocatable="true" max_length="0">
+			<original>戦闘スタイル【隠密】のユニットは、地形効果によって得られる回避の＋補正が2倍になる</original>
+			<edited>戦闘スタイル【隠密】のユニットは、地形効果によって得られる回避の＋補正が2倍になる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_45" offset="00" relocatable="true" max_length="0">
+			<original>戦闘スタイル【飛行】のユニットは、地形の影響を受けずに移動できる</original>
+			<edited>戦闘スタイル【飛行】のユニットは、地形の影響を受けずに移動できる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_46" offset="00" relocatable="true" max_length="0">
+			<original>戦闘スタイル【重装】のユニットは、武器相性によってブレイクされない</original>
+			<edited>戦闘スタイル【重装】のユニットは、武器相性によってブレイクされない</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_47" offset="00" relocatable="true" max_length="0">
+			<original>クラスチェンジに必要な素質は、「絆レベル」を上げることで紋章士から受け継ぐことができる</original>
+			<edited>クラスチェンジに必要な素質は、「絆レベル」を上げることで紋章士から受け継ぐことができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_ITEM_10" offset="00" relocatable="true" max_length="0">
+			<original>近接武器を装備した敵に、射程の長い武器で攻撃すれば反撃を受けない</original>
+			<edited>近接武器を装備した敵に、射程の長い武器で攻撃すれば反撃を受けない</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_ITEM_11" offset="00" relocatable="true" max_length="0">
+			<original>短剣の攻撃でダメージを与えると、敵を「毒」状態にすることができる</original>
+			<edited>短剣の攻撃でダメージを与えると、敵を「毒」状態にすることができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_ITEM_12" offset="00" relocatable="true" max_length="0">
+			<original>「アーマーキラー」などの「重装特効」を持つ武器は、重装兵に大きなダメージを与える</original>
+			<edited>「アーマーキラー」などの「重装特効」を持つ武器は、重装兵に大きなダメージを与える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_OTHER_14" offset="00" relocatable="true" max_length="0">
+			<original>「料理」を行うと稀にお弁当をもらう事ができ、使うとHPを回復することができる</original>
+			<edited>「料理」を行うと稀にお弁当をもらう事ができ、使うとHPを回復することができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_OTHER_19" offset="00" relocatable="true" max_length="0">
+			<original>「料理」を依頼する時に、食材を追加すると成功率が上昇する</original>
+			<edited>「料理」を依頼する時に、食材を追加すると成功率が上昇する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_OTHER_20" offset="00" relocatable="true" max_length="0">
+			<original>「果樹園」では、料理に使用する食材を手に入れることができる</original>
+			<edited>「果樹園」では、料理に使用する食材を手に入れることができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_OTHER_21" offset="00" relocatable="true" max_length="0">
+			<original>「掲示板」の「実績」で、これまでの行動に応じた「絆のかけら」をもらうことができる</original>
+			<edited>「掲示板」の「実績」で、これまでの行動に応じた「絆のかけら」をもらうことができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_OTHER_22" offset="00" relocatable="true" max_length="0">
+			<original>「掲示板」の「国への投資」で多額の投資をするとレベルが上がり、お礼の品をもらえる</original>
+			<edited>「掲示板」の「国への投資」で多額の投資をするとレベルが上がり、お礼の品をもらえる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_OTHER_30" offset="00" relocatable="true" max_length="0">
+			<original>「国への投資」でレベルが上がると、その国の遭遇戦でレアな敵の出現率が上がる</original>
+			<edited>「国への投資」でレベルが上がると、その国の遭遇戦でレアな敵の出現率が上がる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_OTHER_31" offset="00" relocatable="true" max_length="0">
+			<original>「国への投資」でレベルが上がると、その国の散策時に得られる素材が増える</original>
+			<edited>「国への投資」でレベルが上がると、その国の散策時に得られる素材が増える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_OTHER_23" offset="00" relocatable="true" max_length="0">
+			<original>「暗闇」のある遭遇戦は、多くの経験値やゴールドを持った敵が潜む可能性が高い</original>
+			<edited>「暗闇」のある遭遇戦は、多くの経験値やゴールドを持った敵が潜む可能性が高い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_SKILL_38" offset="00" relocatable="true" max_length="0">
+			<original>杖の命中は「信仰」スキルでのみ上げることができる</original>
+			<edited>杖の命中は「信仰」スキルでのみ上げることができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_OTHER_34" offset="00" relocatable="true" max_length="0">
+			<original>「神竜戦歴カード」は試練の離れで異界のフレンドたちと交流するのに役立つ</original>
+			<edited>「神竜戦歴カード」は試練の離れで異界のフレンドたちと交流するのに役立つ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_48" offset="00" relocatable="true" max_length="0">
+			<original>闇シンクロ中の敵のエンゲージカウントが点滅している時は、エンゲージ技を使用できる</original>
+			<edited>闇シンクロ中の敵のエンゲージカウントが点滅している時は、エンゲージ技を使用できる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_52" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ中の味方は、敵のエンゲージ技を受けた時、ダメージが軽減される</original>
+			<edited>エンゲージ中の味方は、敵のエンゲージ技を受けた時、ダメージが軽減される</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_TUTORIAL_49" offset="00" relocatable="true" max_length="0">
+			<original>レベルが最大になっても「チェンジプルフ」を使えばレベルを1に戻し、さらに成長させられる</original>
+			<edited>レベルが最大になっても「チェンジプルフ」を使えばレベルを1に戻し、さらに成長させられる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_ITEM_13" offset="00" relocatable="true" max_length="0">
+			<original>「毒」は出撃している間、効果が続く（毒消し薬や杖で治療できる）</original>
+			<edited>「毒」は出撃している間、効果が続く（毒消し薬や杖で治療できる）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_ITEM_14" offset="00" relocatable="true" max_length="0">
+			<original>レベルが10になった味方は「マスタープルフ」を使って上級兵種にクラスチェンジできる</original>
+			<edited>レベルが10になった味方は「マスタープルフ」を使って上級兵種にクラスチェンジできる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_ITEM_15" offset="00" relocatable="true" max_length="0">
+			<original>「スマッシュ」効果を持つ武器で攻撃すると、必ず後攻になる</original>
+			<edited>「スマッシュ」効果を持つ武器で攻撃すると、必ず後攻になる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_OTHER_24" offset="00" relocatable="true" max_length="0">
+			<original>「湧水の池」で魚を釣ると、料理に使用する食材にできる</original>
+			<edited>「湧水の池」で魚を釣ると、料理に使用する食材にできる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_ITEM_16" offset="00" relocatable="true" max_length="0">
+			<original>「チェンジプルフ」を使うと、別系統の兵種にクラスチェンジできる</original>
+			<edited>「チェンジプルフ」を使うと、別系統の兵種にクラスチェンジできる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_ITEM_17" offset="00" relocatable="true" max_length="0">
+			<original>「キルソード」や「キラーランス」といったキラー系の武器は、必殺の一撃を出しやすい</original>
+			<edited>「キルソード」や「キラーランス」といったキラー系の武器は、必殺の一撃を出しやすい</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_OTHER_37" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x3;&#x0;が兵種「神竜ノ王」になったことがあれば、裏庭で「ドラゴンシューター」が遊べる</original>
+			<edited>&#xE;&#x6;&#x3;&#x0;が兵種「神竜ノ王」になったことがあれば、裏庭で「ドラゴンシューター」が遊べる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_OTHER_26" offset="00" relocatable="true" max_length="0">
+			<original>「蚤の市」では、普通のお店では売っていない珍しい品物を購入できる</original>
+			<edited>「蚤の市」では、普通のお店では売っていない珍しい品物を購入できる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_OTHER_27" offset="00" relocatable="true" max_length="0">
+			<original>大陸の各地には、紋章士と更なる絆を深めることができる、試練の地が存在するらしい</original>
+			<edited>大陸の各地には、紋章士と更なる絆を深めることができる、試練の地が存在するらしい</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_SKILL_29" offset="00" relocatable="true" max_length="0">
+			<original>アイクのエンゲージ技「覇克・天空」は、攻撃したマスの「炎」「瘴気」などを打ち消すことができる</original>
+			<edited>アイクのエンゲージ技「覇克・天空」は、攻撃したマスの「炎」「瘴気」などを打ち消すことができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_SKILL_22" offset="00" relocatable="true" max_length="0">
+			<original>ベレトのエンゲージ武器は、エンゲージする味方の戦闘スタイルによって変化する</original>
+			<edited>ベレトのエンゲージ武器は、エンゲージする味方の戦闘スタイルによって変化する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_SKILL_25" offset="00" relocatable="true" max_length="0">
+			<original>カムイの「竜脈」は地形に特殊な効果を与え、既存の効果を上書きすることができる</original>
+			<edited>カムイの「竜脈」は地形に特殊な効果を与え、既存の効果を上書きすることができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_OTHER_28" offset="00" relocatable="true" max_length="0">
+			<original>「占い小屋」は夜の間だけ利用することができる</original>
+			<edited>「占い小屋」は夜の間だけ利用することができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_OTHER_29" offset="00" relocatable="true" max_length="0">
+			<original>「試練の離れ」で試練に挑戦すると特別な強化素材が手に入り、エンゲージ武器を強化することができる</original>
+			<edited>「試練の離れ」で試練に挑戦すると特別な強化素材が手に入り、エンゲージ武器を強化することができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_ITEM_18" offset="00" relocatable="true" max_length="0">
+			<original>「勇者の剣」「勇者の槍」といった勇者系の武器は、自分から攻撃すると2連続攻撃になる</original>
+			<edited>「勇者の剣」「勇者の槍」といった勇者系の武器は、自分から攻撃すると2連続攻撃になる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_ITEM_19" offset="00" relocatable="true" max_length="0">
+			<original>大切な人に「約束の指輪」を渡したい時は、マイルームのマイチェストから取り出して直接渡しに行こう</original>
+			<edited>大切な人に「約束の指輪」を渡したい時は、マイルームのマイチェストから取り出して直接渡しに行こう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_GOD_0" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸アカネイアのアリティア王国の王子。英雄アンリの血を引く</original>
+			<edited>異界の大陸アカネイアのアリティア王国の王子。英雄アンリの血を引く</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_GOD_1" offset="00" relocatable="true" max_length="0">
+			<original>仲間たちと力をあわせて暗黒竜を倒し、「英雄王」と呼ばれた人物</original>
+			<edited>仲間たちと力をあわせて暗黒竜を倒し、「英雄王」と呼ばれた人物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_GOD_2" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸ユグドラルの、グランベル王国シアルフィ公爵家の公子</original>
+			<edited>異界の大陸ユグドラルの、グランベル王国シアルフィ公爵家の公子</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_GOD_3" offset="00" relocatable="true" max_length="0">
+			<original>聖戦士バルドの血を引き、伝説の聖剣を受け継ぐ高潔なる騎士</original>
+			<edited>聖戦士バルドの血を引き、伝説の聖剣を受け継ぐ高潔なる騎士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_GOD_4" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸バレンシアにある豊穣の国ソフィアの王女</original>
+			<edited>異界の大陸バレンシアにある豊穣の国ソフィアの王女</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_GOD_5" offset="00" relocatable="true" max_length="0">
+			<original>慈愛の心を持つ女性で、勇者アルムと共に平和を脅かす邪神と戦った</original>
+			<edited>慈愛の心を持つ女性で、勇者アルムと共に平和を脅かす邪神と戦った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_GOD_6" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸テリウスで義賊集団の一員として活躍した女性</original>
+			<edited>異界の大陸テリウスで義賊集団の一員として活躍した女性</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_GOD_7" offset="00" relocatable="true" max_length="0">
+			<original>神秘の力を持つ乙女で、世界を裁かんとする女神と戦った</original>
+			<edited>神秘の力を持つ乙女で、世界を裁かんとする女神と戦った</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_GOD_8" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸エレブのフェレ侯爵家の公子。封印の剣の使い手</original>
+			<edited>異界の大陸エレブのフェレ侯爵家の公子。封印の剣の使い手</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_GOD_9" offset="00" relocatable="true" max_length="0">
+			<original>病床の父に代わり、軍を率いて敵国に立ち向かった聡明な少年</original>
+			<edited>病床の父に代わり、軍を率いて敵国に立ち向かった聡明な少年</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_GOD_10" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸エレブの草原地帯、サカ地方出身の女性剣士</original>
+			<edited>異界の大陸エレブの草原地帯、サカ地方出身の女性剣士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_GOD_11" offset="00" relocatable="true" max_length="0">
+			<original>侯爵家の血を引くが、その事実を知らず遊牧民として育った少女</original>
+			<edited>侯爵家の血を引くが、その事実を知らず遊牧民として育った少女</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_GOD_12" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸テリウスで、グレイル傭兵団の団長を務めた青年</original>
+			<edited>異界の大陸テリウスで、グレイル傭兵団の団長を務めた青年</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_GOD_13" offset="00" relocatable="true" max_length="0">
+			<original>優れた剣の腕と真っ直ぐな心を持ち、一介の傭兵から英雄となった人物</original>
+			<edited>優れた剣の腕と真っ直ぐな心を持ち、一介の傭兵から英雄となった人物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_GOD_14" offset="00" relocatable="true" max_length="0">
+			<original>異界の国イーリス聖王国の王女で、左目に聖痕を持つ</original>
+			<edited>異界の国イーリス聖王国の王女で、左目に聖痕を持つ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_GOD_15" offset="00" relocatable="true" max_length="0">
+			<original>絶望の未来を変えるため、時を遡って戦った正義感溢れる少女</original>
+			<edited>絶望の未来を変えるため、時を遡って戦った正義感溢れる少女</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_GOD_16" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸ユグドラルの、トラキア地方レンスター王国の後継者</original>
+			<edited>異界の大陸ユグドラルの、トラキア地方レンスター王国の後継者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_GOD_17" offset="00" relocatable="true" max_length="0">
+			<original>トラキア地方を帝国の支配から解放すべく奮戦した勇敢な王子</original>
+			<edited>トラキア地方を帝国の支配から解放すべく奮戦した勇敢な王子</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_GOD_18" offset="00" relocatable="true" max_length="0">
+			<original>異界の国、白夜王国に生まれ、暗夜王国で育った王族</original>
+			<edited>異界の国、白夜王国に生まれ、暗夜王国で育った王族</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_GOD_19" offset="00" relocatable="true" max_length="0">
+			<original>神祖竜の力を宿す者。相争う二つの祖国の間で、自らの道を選んだ</original>
+			<edited>神祖竜の力を宿す者。相争う二つの祖国の間で、自らの道を選んだ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_GOD_20" offset="00" relocatable="true" max_length="0">
+			<original>異界の大陸マギ・ヴァルの、聖石を受け継ぐ国ルネスの王女</original>
+			<edited>異界の大陸マギ・ヴァルの、聖石を受け継ぐ国ルネスの王女</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_GOD_21" offset="00" relocatable="true" max_length="0">
+			<original>妹エイリークと共に、魔王と戦ったルネス王国の勇ましき王子</original>
+			<edited>妹エイリークと共に、魔王と戦ったルネス王国の勇ましき王子</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_GOD_22" offset="00" relocatable="true" max_length="0">
+			<original>異界の地フォドラにあるガルグ＝マク大修道院で、教師を務めた青年</original>
+			<edited>異界の地フォドラにあるガルグ＝マク大修道院で、教師を務めた青年</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TIPS_GOD_23" offset="00" relocatable="true" max_length="0">
+			<original>元傭兵の教師で、教え子たちを導きながら、戦乱の時代を生きた人物</original>
+			<edited>元傭兵の教師で、教え子たちを導きながら、戦乱の時代を生きた人物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_NAVI_M004_TIMECRYSTAL" offset="00" relocatable="true" max_length="0">
+			<original>「竜の時水晶」が使えるようになりました</original>
+			<edited>「竜の時水晶」が使えるようになりました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_NAVI_M005_FUNDS" offset="00" relocatable="true" max_length="0">
+			<original>フィレネから軍資金として
+&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;Gを受け取りました</original>
+			<edited>フィレネから軍資金として
+&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;Gを受け取りました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_NAVI_VANDRE_FUNDS" offset="00" relocatable="true" max_length="0">
+			<original>ヴァンドレから軍資金として
+&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;Gを受け取りました</original>
+			<edited>ヴァンドレから軍資金として
+&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;Gを受け取りました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_NAVI_M008_FUNDS" offset="00" relocatable="true" max_length="0">
+			<original>ブロディアから軍資金として
+&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;Gを受け取りました</original>
+			<edited>ブロディアから軍資金として
+&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;Gを受け取りました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_NAVI_M012_RESCUE" offset="00" relocatable="true" max_length="0">
+			<original>異形兵に襲われている人を助けましょう</original>
+			<edited>異形兵に襲われている人を助けましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_NAVI_M014_FUNDS" offset="00" relocatable="true" max_length="0">
+			<original>ソルムから軍資金として
+&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;Gを受け取りました</original>
+			<edited>ソルムから軍資金として
+&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;Gを受け取りました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_NAVI_M015_ESCAPE" offset="00" relocatable="true" max_length="0">
+			<original>セアダスを護って、マップから離脱させましょう</original>
+			<edited>セアダスを護って、マップから離脱させましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_NAVI_M020_FUNDS" offset="00" relocatable="true" max_length="0">
+			<original>イルシオンから軍資金として
+&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;Gを受け取りました</original>
+			<edited>イルシオンから軍資金として
+&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;Gを受け取りました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_NAVI_M022_GET_Siglud" offset="00" relocatable="true" max_length="0">
+			<original>『聖騎士の指輪』を入手しました</original>
+			<edited>『聖騎士の指輪』を入手しました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_NAVI_M022_GET_Celica" offset="00" relocatable="true" max_length="0">
+			<original>『慈愛の王女の指輪』を入手しました</original>
+			<edited>『慈愛の王女の指輪』を入手しました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_NAVI_M022_GET_Micaiah" offset="00" relocatable="true" max_length="0">
+			<original>『暁の巫女の指輪』を入手しました</original>
+			<edited>『暁の巫女の指輪』を入手しました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_NAVI_M022_GET_Roy" offset="00" relocatable="true" max_length="0">
+			<original>『若き獅子の指輪』を入手しました</original>
+			<edited>『若き獅子の指輪』を入手しました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_NAVI_M022_GET_Lin" offset="00" relocatable="true" max_length="0">
+			<original>『草原の公女の指輪』を入手しました</original>
+			<edited>『草原の公女の指輪』を入手しました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_NAVI_M022_GET_Ike" offset="00" relocatable="true" max_length="0">
+			<original>『蒼炎の勇者の指輪』を入手しました</original>
+			<edited>『蒼炎の勇者の指輪』を入手しました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_NAVI_M022_GET_Lucina" offset="00" relocatable="true" max_length="0">
+			<original>『聖王女の指輪』を入手しました</original>
+			<edited>『聖王女の指輪』を入手しました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_NAVI_M022_GET_Leaf" offset="00" relocatable="true" max_length="0">
+			<original>『賢王の指輪』を入手しました</original>
+			<edited>『賢王の指輪』を入手しました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_NAVI_M022_GET_Kamui" offset="00" relocatable="true" max_length="0">
+			<original>『未来を選びし者の指輪』を入手しました</original>
+			<edited>『未来を選びし者の指輪』を入手しました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_NAVI_M022_GET_Eirik" offset="00" relocatable="true" max_length="0">
+			<original>『碧き風空の指輪』を入手しました</original>
+			<edited>『碧き風空の指輪』を入手しました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_NAVI_M022_GET_Byleth" offset="00" relocatable="true" max_length="0">
+			<original>『導き手の指輪』を入手しました</original>
+			<edited>『導き手の指輪』を入手しました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_NAVI_M024_WARNING1" offset="00" relocatable="true" max_length="0">
+			<original>2ターン後に下の山道で雪崩が発生します</original>
+			<edited>2ターン後に下の山道で雪崩が発生します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_NAVI_M024_WARNING2" offset="00" relocatable="true" max_length="0">
+			<original>2ターン後に中央の山道で雪崩が発生します</original>
+			<edited>2ターン後に中央の山道で雪崩が発生します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_NAVI_M024_WARNING3" offset="00" relocatable="true" max_length="0">
+			<original>2ターン後に上の山道で雪崩が発生します</original>
+			<edited>2ターン後に上の山道で雪崩が発生します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_NAVI_M026_ENGAGEBREAKE" offset="00" relocatable="true" max_length="0">
+			<original>次のターンに大邪竜ソンブルの全体攻撃が発生します
+マップ内のユニットのエンゲージ状態を強制解除します</original>
+			<edited>次のターンに大邪竜ソンブルの全体攻撃が発生します
+マップ内のユニットのエンゲージ状態を強制解除します</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_NAVI_M026_BEAM_WARNING" offset="00" relocatable="true" max_length="0">
+			<original>次のターンに大邪竜ソンブルが邪竜吼号砲を放ちます
+強力な技なので、できるだけ範囲外に退避しましょう</original>
+			<edited>次のターンに大邪竜ソンブルが邪竜吼号砲を放ちます
+強力な技なので、できるだけ範囲外に退避しましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_NAVI_S006_RULE" offset="00" relocatable="true" max_length="0">
+			<original>ベレトたちがマップ上の水晶を破壊します
+それを阻止し、できるだけ多くの水晶を守りましょう
+（守った水晶の数に応じて報酬を獲得できます）</original>
+			<edited>ベレトたちがマップ上の水晶を破壊します
+それを阻止し、できるだけ多くの水晶を守りましょう
+（守った水晶の数に応じて報酬を獲得できます）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_NAVI_S006_BREAK" offset="00" relocatable="true" max_length="0">
+			<original>水晶が破壊されました</original>
+			<edited>水晶が破壊されました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_NAVI_S006_REWARD1" offset="00" relocatable="true" max_length="0">
+			<original>水晶を多く守ったので
+報酬としてベレトから&#xE;&#x1;&#x0;&#x0;と&#xE;&#x1;&#x1;&#x0;を
+受け取りました</original>
+			<edited>水晶を多く守ったので
+報酬としてベレトから&#xE;&#x1;&#x0;&#x0;と&#xE;&#x1;&#x1;&#x0;を
+受け取りました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_NAVI_S006_REWARD2" offset="00" relocatable="true" max_length="0">
+			<original>水晶を守ったので
+報酬としてベレトから&#xE;&#x1;&#x0;&#x0;を
+受け取りました</original>
+			<edited>水晶を守ったので
+報酬としてベレトから&#xE;&#x1;&#x0;&#x0;を
+受け取りました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_NAVI_S006_REWARD3" offset="00" relocatable="true" max_length="0">
+			<original>水晶をあまり守ることができなかったので
+報酬はありませんでした</original>
+			<edited>水晶をあまり守ることができなかったので
+報酬はありませんでした</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_NAVI_S015_GET" offset="00" relocatable="true" max_length="0">
+			<original>指輪を取り戻しました</original>
+			<edited>指輪を取り戻しました</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_NAVI_S015_ENGAGERING" offset="00" relocatable="true" max_length="0">
+			<original>「約束の指輪」は一人の仲間にしか渡せません
+相手は慎重に選びましょう</original>
+			<edited>「約束の指輪」は一人の仲間にしか渡せません
+相手は慎重に選びましょう</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

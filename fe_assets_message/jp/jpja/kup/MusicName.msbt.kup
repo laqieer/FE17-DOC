@@ -1,0 +1,942 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_BGM_Evt_Amb_Lithos_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>光の庭園</original>
+			<edited>光の庭園</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Amb_Lithos_Black_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>闇の回廊</original>
+			<edited>闇の回廊</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Amb_Lithos2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>聖地リトス</original>
+			<edited>聖地リトス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Amb_Lithos2_Black_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>焦地グラドロン</original>
+			<edited>焦地グラドロン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Ring_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>十二の光</original>
+			<edited>十二の光</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Tutorial_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>親子としての時間</original>
+			<edited>親子としての時間</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Sigurd_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>継承えよ、聖戦の紋章士</original>
+			<edited>継承えよ、聖戦の紋章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Lumiere_Die_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>ゆびきり</original>
+			<edited>ゆびきり</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Amb_Filene_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>豊穣のフィレネ</original>
+			<edited>豊穣のフィレネ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Danger1_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>危機</original>
+			<edited>危機</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Danger2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>急襲</original>
+			<edited>急襲</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Cellica_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>守護れ、響きの紋章士</original>
+			<edited>守護れ、響きの紋章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Brave_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>目覚めし光芒</original>
+			<edited>目覚めし光芒</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Veyre_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>白銀の心</original>
+			<edited>白銀の心</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Determination_Filene_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>平和のために剣を</original>
+			<edited>平和のために剣を</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Disturb1_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>暗影</original>
+			<edited>暗影</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Disturb2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>謀略</original>
+			<edited>謀略</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Funny_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>よろぴっぴ！</original>
+			<edited>よろぴっぴ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Micaiah_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>癒救せ、暁の紋章士</original>
+			<edited>癒救せ、暁の紋章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Tension1_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>対峙</original>
+			<edited>対峙</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Tension2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>交戦の予兆</original>
+			<edited>交戦の予兆</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Amb_Brodia_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>武力のブロディア</original>
+			<edited>武力のブロディア</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Collide_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>激突</original>
+			<edited>激突</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Appear_Diamand_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>武力の王子</original>
+			<edited>武力の王子</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Roy_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>焔向え、封印の紋章士</original>
+			<edited>焔向え、封印の紋章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Appear_Ivy_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>叡智の王女</original>
+			<edited>叡智の王女</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Leif_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>解放て、系譜の紋章士</original>
+			<edited>解放て、系譜の紋章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Determination_Brodia_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>誇りのために兵を</original>
+			<edited>誇りのために兵を</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Amb_Ircion_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>叡智のイルシオン</original>
+			<edited>叡智のイルシオン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Danger_Church_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>惨劇</original>
+			<edited>惨劇</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Veyre_Exposed_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>蹂躙せし黒銀</original>
+			<edited>蹂躙せし黒銀</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Lucina_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>燃起がれ、覚醒の紋章士</original>
+			<edited>燃起がれ、覚醒の紋章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Amb_Solum_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>自由のソルム</original>
+			<edited>自由のソルム</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Mov_Vigilante_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>砂漠のバラ</original>
+			<edited>砂漠のバラ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Vigilante_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>自警団</original>
+			<edited>自警団</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_4ku_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>邪竜の狗たち</original>
+			<edited>邪竜の狗たち</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_4ku_Sad_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>ずっと家族が欲しかった</original>
+			<edited>ずっと家族が欲しかった</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Misutira_Song_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>自由の王女</original>
+			<edited>自由の王女</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Ike_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>勇闘え、蒼炎の紋章士</original>
+			<edited>勇闘え、蒼炎の紋章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Determination_Solum_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>自由のために力を</original>
+			<edited>自由のために力を</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Determination_Ircion_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>信祈のために契を</original>
+			<edited>信祈のために契を</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Eirika_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>晴碧れ、聖魔の紋章士</original>
+			<edited>晴碧れ、聖魔の紋章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Veyre_Truth_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>堕ちる翼</original>
+			<edited>堕ちる翼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Veyre_Sad_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>鈍色の想い</original>
+			<edited>鈍色の想い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Determination_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>軍事国家</original>
+			<edited>軍事国家</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Past_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>邂逅ふたつ</original>
+			<edited>邂逅ふたつ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_BlackLumiere_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>千年の孤独</original>
+			<edited>千年の孤独</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_BlackLumiere_Die_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>ありがとう…かあさん</original>
+			<edited>ありがとう…かあさん</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Determination_Last_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>もしも生まれ変われるのなら</original>
+			<edited>もしも生まれ変われるのなら</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_26OP_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>消えた光</original>
+			<edited>消えた光</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_26ED_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>彼の旅路</original>
+			<edited>彼の旅路</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Lyn_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>吹翠れ、烈火の紋章士</original>
+			<edited>吹翠れ、烈火の紋章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Byleth_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>教導えよ、風花の紋章士</original>
+			<edited>教導えよ、風花の紋章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Corrin_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>竜穿ろ、選択の紋章士</original>
+			<edited>竜穿ろ、選択の紋章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Restart_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>世界を救う竜に</original>
+			<edited>世界を救う竜に</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Daily1_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>談笑</original>
+			<edited>談笑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Daily2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>日常</original>
+			<edited>日常</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Daily3_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>平穏</original>
+			<edited>平穏</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Warm_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>情念</original>
+			<edited>情念</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Engage_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ</original>
+			<edited>エンゲージ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Consultation_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>合議</original>
+			<edited>合議</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Kindness_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>慈愛</original>
+			<edited>慈愛</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_P05_OP_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>冷たい雨</original>
+			<edited>冷たい雨</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_NewEmblem_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>紋章の奇跡</original>
+			<edited>紋章の奇跡</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Marth_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>星炎け、始まりの紋章士</original>
+			<edited>星炎け、始まりの紋章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Veyre_Truth_CS19_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>弔鐘鳴りて</original>
+			<edited>弔鐘鳴りて</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_26ED2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>あたたかな別れ</original>
+			<edited>あたたかな別れ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Mov_GOP_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Emblem Engage!</original>
+			<edited>Emblem Engage!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Mov_S02_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>竜の見た夢</original>
+			<edited>竜の見た夢</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Mov_Eleos_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>エレオス大陸史</original>
+			<edited>エレオス大陸史</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Mov_Red_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>あかいきおく</original>
+			<edited>あかいきおく</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Mov_Appear_Alfred_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>豊穣の王子</original>
+			<edited>豊穣の王子</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Mov_Appear_Sombre_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>邪竜ソンブル</original>
+			<edited>邪竜ソンブル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Mov_Lueur_Die_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>神竜死す</original>
+			<edited>神竜死す</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Mov_S18_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>六番目の大陸</original>
+			<edited>六番目の大陸</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P00_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>微睡の決戦</original>
+			<edited>微睡の決戦</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P00_Heavy_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>微睡の決戦～昏</original>
+			<edited>微睡の決戦～昏</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P01_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>遥かなる聖地</original>
+			<edited>遥かなる聖地</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P01_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>遥かなる聖地～閃</original>
+			<edited>遥かなる聖地～閃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P01_Heavy_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>遥か悠久なる聖地</original>
+			<edited>遥か悠久なる聖地</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P01_Heavy_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>遥か悠久なる聖地～閃</original>
+			<edited>遥か悠久なる聖地～閃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P02_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>風咲く旅路</original>
+			<edited>風咲く旅路</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P02_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>風咲く旅路～華</original>
+			<edited>風咲く旅路～華</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P02_Heavy_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>風咲き誇る旅路</original>
+			<edited>風咲き誇る旅路</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P02_Heavy_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>風咲き誇る旅路～華</original>
+			<edited>風咲き誇る旅路～華</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P03_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>王家の矜持</original>
+			<edited>王家の矜持</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P03_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>王家の矜持～剛</original>
+			<edited>王家の矜持～剛</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P03_Heavy_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>王家連綿たる矜持</original>
+			<edited>王家連綿たる矜持</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P03_Heavy_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>王家連綿たる矜持～剛</original>
+			<edited>王家連綿たる矜持～剛</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P04_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>涙痕～凍</original>
+			<edited>涙痕～凍</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P05_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>解かれた絆</original>
+			<edited>解かれた絆</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P06_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>砂塵と爛漫</original>
+			<edited>砂塵と爛漫</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P06_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>砂塵と爛漫～熱</original>
+			<edited>砂塵と爛漫～熱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P06_Heavy_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>砂塵舞い踊る爛漫</original>
+			<edited>砂塵舞い踊る爛漫</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P06_Heavy_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>砂塵舞い踊る爛漫～熱</original>
+			<edited>砂塵舞い踊る爛漫～熱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P08_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>手向けの花は凛と散りゆく</original>
+			<edited>手向けの花は凛と散りゆく</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P09_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>誓いの地へ</original>
+			<edited>誓いの地へ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P09_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>誓いの地へ～閃</original>
+			<edited>誓いの地へ～閃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P12_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>ラストエンゲージ～祈りの呪文</original>
+			<edited>ラストエンゲージ～祈りの呪文</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P13_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>放つ剣戟</original>
+			<edited>放つ剣戟</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P13_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>放つ剣戟～闘</original>
+			<edited>放つ剣戟～闘</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_E01_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>異形兵</original>
+			<edited>異形兵</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_E02_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>神、造られしもの</original>
+			<edited>神、造られしもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_E03_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>蠢く垂氷</original>
+			<edited>蠢く垂氷</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_E04_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>躙る闇音</original>
+			<edited>躙る闇音</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_E05_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>歪な光閃</original>
+			<edited>歪な光閃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S03_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>覚醒の試練</original>
+			<edited>覚醒の試練</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S03_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>覚醒の試練～燃起</original>
+			<edited>覚醒の試練～燃起</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S04_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>烈火の試練</original>
+			<edited>烈火の試練</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S04_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>烈火の試練～吹翠</original>
+			<edited>烈火の試練～吹翠</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S05_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>蒼炎の試練</original>
+			<edited>蒼炎の試練</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S05_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>蒼炎の試練～勇闘</original>
+			<edited>蒼炎の試練～勇闘</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S06_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>風花の試練</original>
+			<edited>風花の試練</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S06_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>風花の試練～教導</original>
+			<edited>風花の試練～教導</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S07_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>選択の試練</original>
+			<edited>選択の試練</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S07_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>選択の試練～竜穿</original>
+			<edited>選択の試練～竜穿</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S08_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>聖魔の試練</original>
+			<edited>聖魔の試練</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S08_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>聖魔の試練～晴碧</original>
+			<edited>聖魔の試練～晴碧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S09_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>聖戦の試練</original>
+			<edited>聖戦の試練</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S09_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>聖戦の試練～継承</original>
+			<edited>聖戦の試練～継承</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S10_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>系譜の試練</original>
+			<edited>系譜の試練</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S10_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>系譜の試練～解放</original>
+			<edited>系譜の試練～解放</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S11_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>暁の試練</original>
+			<edited>暁の試練</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S11_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>暁の試練～癒救</original>
+			<edited>暁の試練～癒救</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S12_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>封印の試練</original>
+			<edited>封印の試練</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S12_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>封印の試練～焔向</original>
+			<edited>封印の試練～焔向</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S13_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>響きの試練</original>
+			<edited>響きの試練</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S13_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>響きの試練～守護</original>
+			<edited>響きの試練～守護</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S14_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>紋章の試練</original>
+			<edited>紋章の試練</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S14_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>紋章の試練～星炎</original>
+			<edited>紋章の試練～星炎</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S15_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>約束の試練</original>
+			<edited>約束の試練</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S15_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>約束の試練～繋和</original>
+			<edited>約束の試練～繋和</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_01_Pre_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>秩序乱す者</original>
+			<edited>秩序乱す者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_01_Start_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>秩序乱す者～烈</original>
+			<edited>秩序乱す者～烈</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_02_Pre_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>叡智の暴虐者</original>
+			<edited>叡智の暴虐者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_02_Start_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>叡智の暴虐者～烈</original>
+			<edited>叡智の暴虐者～烈</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_03_Pre_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>逸話持つ者</original>
+			<edited>逸話持つ者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_03_Start_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>逸話持つ者～烈</original>
+			<edited>逸話持つ者～烈</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_04_Pre_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>四狗</original>
+			<edited>四狗</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_04_Start_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>四狗～烈</original>
+			<edited>四狗～烈</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_05_Pre_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>欠陥品</original>
+			<edited>欠陥品</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_05_Start_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>欠陥品～烈</original>
+			<edited>欠陥品～烈</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_06_Pre_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>光亡き神</original>
+			<edited>光亡き神</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_06_Start_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>光亡き神～烈</original>
+			<edited>光亡き神～烈</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Title_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>私とエンゲージを</original>
+			<edited>私とエンゲージを</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Gmap_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>君の旅路</original>
+			<edited>君の旅路</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Prepare1_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>臨戦</original>
+			<edited>臨戦</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Prepare2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>更なる臨戦</original>
+			<edited>更なる臨戦</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Base1_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>おはようございます、神竜様</original>
+			<edited>おはようございます、神竜様</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Base2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>お昼の見回りですか、神竜様</original>
+			<edited>お昼の見回りですか、神竜様</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Base3_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>夕暮れが綺麗ですね、神竜様</original>
+			<edited>夕暮れが綺麗ですね、神竜様</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Base4_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>いい夜ですね、神竜様</original>
+			<edited>いい夜ですね、神竜様</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Mini1_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>ドラゴンシューターに挑戦するのね…？</original>
+			<edited>ドラゴンシューターに挑戦するのね…？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Mini2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>今日も鍛錬に励もうか！</original>
+			<edited>今日も鍛錬に励もうか！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Mini3_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>ブロディアは漁業が盛んでな</original>
+			<edited>ブロディアは漁業が盛んでな</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Base_Jukebox1_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>フィレネの茶会</original>
+			<edited>フィレネの茶会</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Base_Jukebox2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>ブロディアの団欒</original>
+			<edited>ブロディアの団欒</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Base_Jukebox3_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>イルシオンの晩餐</original>
+			<edited>イルシオンの晩餐</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Base_Jukebox4_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>ソルムの野営</original>
+			<edited>ソルムの野営</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Base_Jukebox5_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>食卓に紋章を</original>
+			<edited>食卓に紋章を</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_ED1_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>絆炎</original>
+			<edited>絆炎</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_ED2_Result_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>ファイアーエムブレムのテーマ～絆炎の紋章士</original>
+			<edited>ファイアーエムブレムのテーマ～絆炎の紋章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_ED2_Sequel_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>その旅はやがて</original>
+			<edited>その旅はやがて</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Introduction_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>ファイアーエムブレムのテーマ</original>
+			<edited>ファイアーエムブレムのテーマ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_ClassChange_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>燐光</original>
+			<edited>燐光</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Die_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>永訣</original>
+			<edited>永訣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FF_GameOver_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>覚めぬ眠り</original>
+			<edited>覚めぬ眠り</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FF_StageClear_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>勝利</original>
+			<edited>勝利</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FF_LevelUp_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>成長</original>
+			<edited>成長</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FF_Bad_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>残念1</original>
+			<edited>残念1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FF_Sorry_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>残念2</original>
+			<edited>残念2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FF_Good1_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>喜び1</original>
+			<edited>喜び1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FF_Good2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>喜び2</original>
+			<edited>喜び2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FF_ItemGet1_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>取得1</original>
+			<edited>取得1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FF_ItemGet2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>取得2</original>
+			<edited>取得2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_03_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>宿命～炎</original>
+			<edited>宿命～炎</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_04_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>草原の風</original>
+			<edited>草原の風</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_05_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>忠義尽くさん</original>
+			<edited>忠義尽くさん</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_06_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>フォドラの暁風</original>
+			<edited>フォドラの暁風</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_07_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>すべての路の果てに～煉</original>
+			<edited>すべての路の果てに～煉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_08_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>最後の戦い</original>
+			<edited>最後の戦い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_09_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>終章（最後の聖戦）</original>
+			<edited>終章（最後の聖戦）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_10_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>章終り ゆけゆけリーフ</original>
+			<edited>章終り ゆけゆけリーフ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_11_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>暁鐘の響鳴りて</original>
+			<edited>暁鐘の響鳴りて</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_12_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>新たなる光の下へ～ロイの勇気</original>
+			<edited>新たなる光の下へ～ロイの勇気</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_13_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>戦闘マップ3 戦闘MAP2_1(セリカ1)</original>
+			<edited>戦闘マップ3 戦闘MAP2_1(セリカ1)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_14_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>ストーリー2 各マップの始まり</original>
+			<edited>ストーリー2 各マップの始まり</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

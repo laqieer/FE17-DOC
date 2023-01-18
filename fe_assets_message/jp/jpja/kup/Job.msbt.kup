@@ -1,0 +1,761 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MJID_DragonLord" offset="00" relocatable="true" max_length="0">
+			<original>神竜ノ子</original>
+			<edited>神竜ノ子</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_DragonLord" offset="00" relocatable="true" max_length="0">
+			<original>古の時代より生きる竜の一族の末裔。
+神竜剣術を使うことができる。</original>
+			<edited>古の時代より生きる竜の一族の末裔。
+神竜剣術を使うことができる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_DragonKing" offset="00" relocatable="true" max_length="0">
+			<original>神竜ノ王</original>
+			<edited>神竜ノ王</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_DragonKing" offset="00" relocatable="true" max_length="0">
+			<original>世界を統べる大いなる竜の力を持つ者。
+神竜剣術と、神竜気功術を操る。</original>
+			<edited>世界を統べる大いなる竜の力を持つ者。
+神竜剣術と、神竜気功術を操る。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_ShadowLord" offset="00" relocatable="true" max_length="0">
+			<original>邪竜ノ子</original>
+			<edited>邪竜ノ子</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_ShadowLord" offset="00" relocatable="true" max_length="0">
+			<original>意思を持たぬ邪竜の手先。
+強力な邪竜剣術を使う。</original>
+			<edited>意思を持たぬ邪竜の手先。
+強力な邪竜剣術を使う。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_ShadowPrincess" offset="00" relocatable="true" max_length="0">
+			<original>邪竜ノ娘</original>
+			<edited>邪竜ノ娘</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_ShadowPrincess" offset="00" relocatable="true" max_length="0">
+			<original>邪竜の血を受け継ぎし者。
+邪術に長け、強力な闇魔法を操る。</original>
+			<edited>邪竜の血を受け継ぎし者。
+邪術に長け、強力な闇魔法を操る。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_ShadowKing" offset="00" relocatable="true" max_length="0">
+			<original>邪竜ノ王</original>
+			<edited>邪竜ノ王</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_ShadowKing" offset="00" relocatable="true" max_length="0">
+			<original>邪悪な力で世を支配せんとする者。
+闇の魔術を操り、破壊の限りを尽くす。</original>
+			<edited>邪悪な力で世を支配せんとする者。
+闇の魔術を操り、破壊の限りを尽くす。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_ShadowDragon" offset="00" relocatable="true" max_length="0">
+			<original>大邪竜</original>
+			<edited>大邪竜</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_ShadowDragon" offset="00" relocatable="true" max_length="0">
+			<original>紋章士の指輪の力を得た邪竜。
+異界の扉を開くほど強大な魔力を持つ。</original>
+			<edited>紋章士の指輪の力を得た邪竜。
+異界の扉を開くほど強大な魔力を持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_AvenirLC" offset="00" relocatable="true" max_length="0">
+			<original>ノーブル</original>
+			<edited>ノーブル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_AvenirLC" offset="00" relocatable="true" max_length="0">
+			<original>高貴なる王家の血を引く者。
+馬を操り、槍を使いこなす。</original>
+			<edited>高貴なる王家の血を引く者。
+馬を操り、槍を使いこなす。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Avenir" offset="00" relocatable="true" max_length="0">
+			<original>アヴニール</original>
+			<edited>アヴニール</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Avenir" offset="00" relocatable="true" max_length="0">
+			<original>颯爽と戦場を駆ける白馬の王子。
+槍に加え、剣も使いこなす。</original>
+			<edited>颯爽と戦場を駆ける白馬の王子。
+槍に加え、剣も使いこなす。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_FleurageLC" offset="00" relocatable="true" max_length="0">
+			<original>ノーブル</original>
+			<edited>ノーブル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_FleurageLC" offset="00" relocatable="true" max_length="0">
+			<original>高貴なる王家の血を引く者。
+魔道に長け、剣も扱うことができる。</original>
+			<edited>高貴なる王家の血を引く者。
+魔道に長け、剣も扱うことができる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Fleurage" offset="00" relocatable="true" max_length="0">
+			<original>フロラージュ</original>
+			<edited>フロラージュ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Fleurage" offset="00" relocatable="true" max_length="0">
+			<original>魔術を操り敵を斬る魔法剣士。
+杖を扱う事もできる。</original>
+			<edited>魔術を操り敵を斬る魔法剣士。
+杖を扱う事もできる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_SuccesseurLC" offset="00" relocatable="true" max_length="0">
+			<original>ロード</original>
+			<edited>ロード</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_SuccesseurLC" offset="00" relocatable="true" max_length="0">
+			<original>人々を導く君主の血を引く者。
+剣を使いこなす。</original>
+			<edited>人々を導く君主の血を引く者。
+剣を使いこなす。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Successeur" offset="00" relocatable="true" max_length="0">
+			<original>スュクセサール</original>
+			<edited>スュクセサール</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Successeur" offset="00" relocatable="true" max_length="0">
+			<original>国を統べる強き力と意志を持つ者。
+剣技に長け、斧も使いこなす。</original>
+			<edited>国を統べる強き力と意志を持つ者。
+剣技に長け、斧も使いこなす。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_TirailleurLC" offset="00" relocatable="true" max_length="0">
+			<original>ロード</original>
+			<edited>ロード</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_TirailleurLC" offset="00" relocatable="true" max_length="0">
+			<original>人々を導く君主の血を引く者。
+弓を使いこなす。</original>
+			<edited>人々を導く君主の血を引く者。
+弓を使いこなす。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Tirailleur" offset="00" relocatable="true" max_length="0">
+			<original>ティラユール</original>
+			<edited>ティラユール</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Tirailleur" offset="00" relocatable="true" max_length="0">
+			<original>天性の素質をもつ神射手。
+一撃必中の弓で敵を狙い射つ。</original>
+			<edited>天性の素質をもつ神射手。
+一撃必中の弓で敵を狙い射つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_LindwurmLC" offset="00" relocatable="true" max_length="0">
+			<original>テイマー</original>
+			<edited>テイマー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_LindwurmLC" offset="00" relocatable="true" max_length="0">
+			<original>獣と心通わせ、使役する騎士。
+竜を駆り、魔法と杖を使いこなす。</original>
+			<edited>獣と心通わせ、使役する騎士。
+竜を駆り、魔法と杖を使いこなす。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Lindwurm" offset="00" relocatable="true" max_length="0">
+			<original>リンドブルム</original>
+			<edited>リンドブルム</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Lindwurm" offset="00" relocatable="true" max_length="0">
+			<original>天から敵を殲滅する魔竜騎士。
+強力な魔法と、杖を使いこなす。</original>
+			<edited>天から敵を殲滅する魔竜騎士。
+強力な魔法と、杖を使いこなす。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_SleipnirLC" offset="00" relocatable="true" max_length="0">
+			<original>テイマー</original>
+			<edited>テイマー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_SleipnirLC" offset="00" relocatable="true" max_length="0">
+			<original>獣と心通わせ、使役する騎士。
+ペガサスを駆り、魔法と杖を使いこなす。</original>
+			<edited>獣と心通わせ、使役する騎士。
+ペガサスを駆り、魔法と杖を使いこなす。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Sleipnir" offset="00" relocatable="true" max_length="0">
+			<original>スレイプニル</original>
+			<edited>スレイプニル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Sleipnir" offset="00" relocatable="true" max_length="0">
+			<original>可憐な天馬スレイプニルを駆る騎士。
+高位の杖と、魔法を使いこなす。</original>
+			<edited>可憐な天馬スレイプニルを駆る騎士。
+高位の杖と、魔法を使いこなす。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_PitchforkLC" offset="00" relocatable="true" max_length="0">
+			<original>ヴィジランテ</original>
+			<edited>ヴィジランテ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_PitchforkLC" offset="00" relocatable="true" max_length="0">
+			<original>武器を手に、国を護る自警団。
+槍を使いこなす。</original>
+			<edited>武器を手に、国を護る自警団。
+槍を使いこなす。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Pitchfork" offset="00" relocatable="true" max_length="0">
+			<original>ピッチフォーク</original>
+			<edited>ピッチフォーク</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Pitchfork" offset="00" relocatable="true" max_length="0">
+			<original>天衣無縫な技で戦場を貫く槍闘士。
+陽気なステップから必殺の一撃を繰り出す。</original>
+			<edited>天衣無縫な技で戦場を貫く槍闘士。
+陽気なステップから必殺の一撃を繰り出す。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_CupidoLC" offset="00" relocatable="true" max_length="0">
+			<original>ヴィジランテ</original>
+			<edited>ヴィジランテ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_CupidoLC" offset="00" relocatable="true" max_length="0">
+			<original>武器を手に、国を護る自警団。
+馬を操り、弓を使いこなす。</original>
+			<edited>武器を手に、国を護る自警団。
+馬を操り、弓を使いこなす。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Cupido" offset="00" relocatable="true" max_length="0">
+			<original>クピードー</original>
+			<edited>クピードー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Cupido" offset="00" relocatable="true" max_length="0">
+			<original>軽やかに技を繰り出す魅惑の弓騎士。
+剣と弓を巧みに操り、敵を翻弄する。</original>
+			<edited>軽やかに技を繰り出す魅惑の弓騎士。
+剣と弓を巧みに操り、敵を翻弄する。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_SwordFighter" offset="00" relocatable="true" max_length="0">
+			<original>ソードファイター</original>
+			<edited>ソードファイター</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_SwordFighter" offset="00" relocatable="true" max_length="0">
+			<original>剣で戦うことを得意とする兵士。
+素早い動きで敵の攻撃をかわす。</original>
+			<edited>剣で戦うことを得意とする兵士。
+素早い動きで敵の攻撃をかわす。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_SwordMaster" offset="00" relocatable="true" max_length="0">
+			<original>ソードマスター</original>
+			<edited>ソードマスター</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_SwordMaster" offset="00" relocatable="true" max_length="0">
+			<original>剣の道を極めし達人。
+紙一重で攻撃を避け、強力な技を放つ。</original>
+			<edited>剣の道を極めし達人。
+紙一重で攻撃を避け、強力な技を放つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_BraveHero" offset="00" relocatable="true" max_length="0">
+			<original>ブレイブヒーロー</original>
+			<edited>ブレイブヒーロー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_BraveHero" offset="00" relocatable="true" max_length="0">
+			<original>高い実力を持つ戦場の英雄。
+様々な武器を駆使して、前線へと切り込む。</original>
+			<edited>高い実力を持つ戦場の英雄。
+様々な武器を駆使して、前線へと切り込む。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_LanceFighter" offset="00" relocatable="true" max_length="0">
+			<original>ランスファイター</original>
+			<edited>ランスファイター</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_LanceFighter" offset="00" relocatable="true" max_length="0">
+			<original>槍を手に戦う兵士。
+攻守のバランスに優れている。</original>
+			<edited>槍を手に戦う兵士。
+攻守のバランスに優れている。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Halberdier" offset="00" relocatable="true" max_length="0">
+			<original>ハルバーディア</original>
+			<edited>ハルバーディア</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Halberdier" offset="00" relocatable="true" max_length="0">
+			<original>多くの経験を積んだ槍兵士。
+槍の扱いにおいて、右に出る者はいない。</original>
+			<edited>多くの経験を積んだ槍兵士。
+槍の扱いにおいて、右に出る者はいない。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_RoyalKnight" offset="00" relocatable="true" max_length="0">
+			<original>ロイヤルナイト</original>
+			<edited>ロイヤルナイト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_RoyalKnight" offset="00" relocatable="true" max_length="0">
+			<original>馬に乗り、戦場をかける高位の騎士。
+仲間を鼓舞し、杖も使いこなす。</original>
+			<edited>馬に乗り、戦場をかける高位の騎士。
+仲間を鼓舞し、杖も使いこなす。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_AxFighter" offset="00" relocatable="true" max_length="0">
+			<original>アクスファイター</original>
+			<edited>アクスファイター</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_AxFighter" offset="00" relocatable="true" max_length="0">
+			<original>斧を振るう力自慢の戦士。
+腕っぷしは強いが、守備は弱い。</original>
+			<edited>斧を振るう力自慢の戦士。
+腕っぷしは強いが、守備は弱い。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Berserker" offset="00" relocatable="true" max_length="0">
+			<original>ベルセルク</original>
+			<edited>ベルセルク</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Berserker" offset="00" relocatable="true" max_length="0">
+			<original>比類無き力を持った剛腕の闘士。
+巨大な斧で、敵を粉砕する。</original>
+			<edited>比類無き力を持った剛腕の闘士。
+巨大な斧で、敵を粉砕する。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Warrior" offset="00" relocatable="true" max_length="0">
+			<original>ウォーリアー</original>
+			<edited>ウォーリアー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Warrior" offset="00" relocatable="true" max_length="0">
+			<original>敵を倒す術に長けた戦いのエキスパート。
+斧に加え、弓も扱うことができる。</original>
+			<edited>敵を倒す術に長けた戦いのエキスパート。
+斧に加え、弓も扱うことができる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Archer" offset="00" relocatable="true" max_length="0">
+			<original>アーチャー</original>
+			<edited>アーチャー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Archer" offset="00" relocatable="true" max_length="0">
+			<original>弓で戦う軽装の兵士。
+少し離れた敵を攻撃できる。</original>
+			<edited>弓で戦う軽装の兵士。
+少し離れた敵を攻撃できる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Sniper" offset="00" relocatable="true" max_length="0">
+			<original>スナイパー</original>
+			<edited>スナイパー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Sniper" offset="00" relocatable="true" max_length="0">
+			<original>弓の扱いを極めた狙撃手。
+強力な一撃で、相手の急所を射抜く。</original>
+			<edited>弓の扱いを極めた狙撃手。
+強力な一撃で、相手の急所を射抜く。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_BowKnight" offset="00" relocatable="true" max_length="0">
+			<original>ボウナイト</original>
+			<edited>ボウナイト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_BowKnight" offset="00" relocatable="true" max_length="0">
+			<original>馬上から矢を放つ弓騎士。
+高い移動力と弓術で敵を追い詰める。</original>
+			<edited>馬上から矢を放つ弓騎士。
+高い移動力と弓術で敵を追い詰める。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_SwordArmor" offset="00" relocatable="true" max_length="0">
+			<original>ソードアーマー</original>
+			<edited>ソードアーマー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_SwordArmor" offset="00" relocatable="true" max_length="0">
+			<original>堅い鎧に守られた重装の剣歩兵。
+守備は高いが、魔法に弱い。</original>
+			<edited>堅い鎧に守られた重装の剣歩兵。
+守備は高いが、魔法に弱い。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_LanceArmor" offset="00" relocatable="true" max_length="0">
+			<original>ランスアーマー</original>
+			<edited>ランスアーマー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_LanceArmor" offset="00" relocatable="true" max_length="0">
+			<original>堅い鎧に守られた重装の槍歩兵。
+守備は高いが、魔法に弱い。</original>
+			<edited>堅い鎧に守られた重装の槍歩兵。
+守備は高いが、魔法に弱い。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_AxArmor" offset="00" relocatable="true" max_length="0">
+			<original>アクスアーマー</original>
+			<edited>アクスアーマー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_AxArmor" offset="00" relocatable="true" max_length="0">
+			<original>堅い鎧に守られた重装の斧歩兵。
+守備は高いが、魔法に弱い。</original>
+			<edited>堅い鎧に守られた重装の斧歩兵。
+守備は高いが、魔法に弱い。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_General" offset="00" relocatable="true" max_length="0">
+			<original>ジェネラル</original>
+			<edited>ジェネラル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_General" offset="00" relocatable="true" max_length="0">
+			<original>鉄壁の守りを誇る重装歩兵。
+極めて高い、攻撃力と守備力を持つ。</original>
+			<edited>鉄壁の守りを誇る重装歩兵。
+極めて高い、攻撃力と守備力を持つ。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_GreatKnight" offset="00" relocatable="true" max_length="0">
+			<original>グレートナイト</original>
+			<edited>グレートナイト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_GreatKnight" offset="00" relocatable="true" max_length="0">
+			<original>厚い鎧で身を固めた重装の騎士。
+多彩な武器を使いこなし、味方を守る。</original>
+			<edited>厚い鎧で身を固めた重装の騎士。
+多彩な武器を使いこなし、味方を守る。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_SwordKnight" offset="00" relocatable="true" max_length="0">
+			<original>ソードナイト</original>
+			<edited>ソードナイト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_SwordKnight" offset="00" relocatable="true" max_length="0">
+			<original>馬を自在に操り、移動力に優れる剣騎士。
+能力のバランスが良い。</original>
+			<edited>馬を自在に操り、移動力に優れる剣騎士。
+能力のバランスが良い。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_LanceKnight" offset="00" relocatable="true" max_length="0">
+			<original>ランスナイト</original>
+			<edited>ランスナイト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_LanceKnight" offset="00" relocatable="true" max_length="0">
+			<original>馬を自在に操り、移動力に優れる槍騎士。
+能力のバランスが良い。</original>
+			<edited>馬を自在に操り、移動力に優れる槍騎士。
+能力のバランスが良い。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_AxKnight" offset="00" relocatable="true" max_length="0">
+			<original>アクスナイト</original>
+			<edited>アクスナイト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_AxKnight" offset="00" relocatable="true" max_length="0">
+			<original>馬を自在に操り、移動力に優れる斧騎士。
+能力のバランスが良い。</original>
+			<edited>馬を自在に操り、移動力に優れる斧騎士。
+能力のバランスが良い。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Paladin" offset="00" relocatable="true" max_length="0">
+			<original>パラディン</original>
+			<edited>パラディン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Paladin" offset="00" relocatable="true" max_length="0">
+			<original>経験を積んだ高位の騎士。
+高い移動力を誇り、魔法も寄せ付けない。</original>
+			<edited>経験を積んだ高位の騎士。
+高い移動力を誇り、魔法も寄せ付けない。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_WolfKnight" offset="00" relocatable="true" max_length="0">
+			<original>ウルフナイト</original>
+			<edited>ウルフナイト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_WolfKnight" offset="00" relocatable="true" max_length="0">
+			<original>戦場を疾駆する狼を操る騎士。
+短剣を扱い、敵陣をかく乱させる。</original>
+			<edited>戦場を疾駆する狼を操る騎士。
+短剣を扱い、敵陣をかく乱させる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_SwordPegasus" offset="00" relocatable="true" max_length="0">
+			<original>ソードペガサス</original>
+			<edited>ソードペガサス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_SwordPegasus" offset="00" relocatable="true" max_length="0">
+			<original>ペガサスを駆る、天翔ける剣騎士。
+魔法に強いが、弓には弱い。</original>
+			<edited>ペガサスを駆る、天翔ける剣騎士。
+魔法に強いが、弓には弱い。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_LancePegasus" offset="00" relocatable="true" max_length="0">
+			<original>ランスペガサス</original>
+			<edited>ランスペガサス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_LancePegasus" offset="00" relocatable="true" max_length="0">
+			<original>ペガサスを駆る、天翔ける槍騎士。
+魔法に強いが、弓には弱い。</original>
+			<edited>ペガサスを駆る、天翔ける槍騎士。
+魔法に強いが、弓には弱い。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_AxPegasus" offset="00" relocatable="true" max_length="0">
+			<original>アクスペガサス</original>
+			<edited>アクスペガサス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_AxPegasus" offset="00" relocatable="true" max_length="0">
+			<original>ペガサスを駆る、天翔ける斧騎士。
+魔法に強いが、弓には弱い。</original>
+			<edited>ペガサスを駆る、天翔ける斧騎士。
+魔法に強いが、弓には弱い。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_GriffonKnight" offset="00" relocatable="true" max_length="0">
+			<original>グリフォンナイト</original>
+			<edited>グリフォンナイト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_GriffonKnight" offset="00" relocatable="true" max_length="0">
+			<original>グリフォンを操り、空を飛ぶ上級の騎士。
+能力のバランスに優れ、杖も扱える。</original>
+			<edited>グリフォンを操り、空を飛ぶ上級の騎士。
+能力のバランスに優れ、杖も扱える。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_DragonKnight" offset="00" relocatable="true" max_length="0">
+			<original>ドラゴンナイト</original>
+			<edited>ドラゴンナイト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_DragonKnight" offset="00" relocatable="true" max_length="0">
+			<original>ドラゴンを操り、空を飛ぶ上級の騎士。
+高い能力を持つが、弓と魔法に弱い。</original>
+			<edited>ドラゴンを操り、空を飛ぶ上級の騎士。
+高い能力を持つが、弓と魔法に弱い。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Mage" offset="00" relocatable="true" max_length="0">
+			<original>マージ</original>
+			<edited>マージ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Mage" offset="00" relocatable="true" max_length="0">
+			<original>魔道書を用いて魔法を放つ魔道士。
+魔法は守備の高い敵に有効。</original>
+			<edited>魔道書を用いて魔法を放つ魔道士。
+魔法は守備の高い敵に有効。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Sage" offset="00" relocatable="true" max_length="0">
+			<original>セイジ</original>
+			<edited>セイジ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Sage" offset="00" relocatable="true" max_length="0">
+			<original>強大な魔力を持つ高位の魔道士。
+魔道書に加え、杖も使いこなす。</original>
+			<edited>強大な魔力を持つ高位の魔道士。
+魔道書に加え、杖も使いこなす。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_MageKnight" offset="00" relocatable="true" max_length="0">
+			<original>マージナイト</original>
+			<edited>マージナイト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_MageKnight" offset="00" relocatable="true" max_length="0">
+			<original>馬上から魔法を放つ魔法騎士。
+武器を携え、白兵戦でも活躍する。</original>
+			<edited>馬上から魔法を放つ魔法騎士。
+武器を携え、白兵戦でも活躍する。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Monk" offset="00" relocatable="true" max_length="0">
+			<original>モンク</original>
+			<edited>モンク</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Monk" offset="00" relocatable="true" max_length="0">
+			<original>杖で傷ついた仲間を癒やす僧兵。
+気功による護身術も体得している。</original>
+			<edited>杖で傷ついた仲間を癒やす僧兵。
+気功による護身術も体得している。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_MasterMonk" offset="00" relocatable="true" max_length="0">
+			<original>マスターモンク</original>
+			<edited>マスターモンク</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_MasterMonk" offset="00" relocatable="true" max_length="0">
+			<original>気功の道を極めた高位の僧。
+癒しの術に加え、体術に優れる。</original>
+			<edited>気功の道を極めた高位の僧。
+癒しの術に加え、体術に優れる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_HighPriest" offset="00" relocatable="true" max_length="0">
+			<original>ハイプリースト</original>
+			<edited>ハイプリースト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_HighPriest" offset="00" relocatable="true" max_length="0">
+			<original>経験を積み、杖を極めた司祭。
+大いなる癒しの力で、味方の命を救う。</original>
+			<edited>経験を積み、杖を極めた司祭。
+大いなる癒しの力で、味方の命を救う。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Thief" offset="00" relocatable="true" max_length="0">
+			<original>シーフ</original>
+			<edited>シーフ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Thief" offset="00" relocatable="true" max_length="0">
+			<original>鍵開けを得意とする盗賊。
+動きが素早く、短剣の扱いに長ける。</original>
+			<edited>鍵開けを得意とする盗賊。
+動きが素早く、短剣の扱いに長ける。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Dancer" offset="00" relocatable="true" max_length="0">
+			<original>ダンサー</original>
+			<edited>ダンサー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Dancer" offset="00" relocatable="true" max_length="0">
+			<original>魅惑のダンスを披露する舞踏家。
+仲間を元気づけ、再行動させることができる。</original>
+			<edited>魅惑のダンスを披露する舞踏家。
+仲間を元気づけ、再行動させることができる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Villager" offset="00" relocatable="true" max_length="0">
+			<original>村人</original>
+			<edited>村人</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Villager" offset="00" relocatable="true" max_length="0">
+			<original>村の住人。戦う力を持たない。</original>
+			<edited>村の住人。戦う力を持たない。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Melusine" offset="00" relocatable="true" max_length="0">
+			<original>メリュジーヌ</original>
+			<edited>メリュジーヌ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Melusine" offset="00" relocatable="true" max_length="0">
+			<original>魔竜を従える妖艶な魔道騎士。
+強力な魔法と剣技で、戦場を支配する。</original>
+			<edited>魔竜を従える妖艶な魔道騎士。
+強力な魔法と剣技で、戦場を支配する。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Barbarian" offset="00" relocatable="true" max_length="0">
+			<original>蛮族</original>
+			<edited>蛮族</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Barbarian" offset="00" relocatable="true" max_length="0">
+			<original>たくましい体躯を持つ荒くれもの。
+力と速さに優れるが、守備は弱い。</original>
+			<edited>たくましい体躯を持つ荒くれもの。
+力と速さに優れるが、守備は弱い。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_MorphDragon" offset="00" relocatable="true" max_length="0">
+			<original>異形竜</original>
+			<edited>異形竜</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_MorphDragon" offset="00" relocatable="true" max_length="0">
+			<original>世界を破滅へと導く、邪竜の僕。
+闇のブレスで全てを破壊しつくす。</original>
+			<edited>世界を破滅へと導く、邪竜の僕。
+闇のブレスで全てを破壊しつくす。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_PhantomDragon" offset="00" relocatable="true" max_length="0">
+			<original>幻影竜</original>
+			<edited>幻影竜</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_PhantomDragon" offset="00" relocatable="true" max_length="0">
+			<original>巨躯を誇る竜の眷属。
+鈍重だが、ブレスで遠くの敵も攻撃できる。</original>
+			<edited>巨躯を誇る竜の眷属。
+鈍重だが、ブレスで遠くの敵も攻撃できる。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_Emblem" offset="00" relocatable="true" max_length="0">
+			<original>紋章士</original>
+			<edited>紋章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MJID_H_Emblem" offset="00" relocatable="true" max_length="0">
+			<original>指輪に宿った異界の英雄。
+人智を超えた力を持つ。</original>
+			<edited>指輪に宿った異界の英雄。
+人智を超えた力を持つ。</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

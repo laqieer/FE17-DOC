@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_SAVEDATA_CONFIRM_CLEARDATA" offset="00" relocatable="true" max_length="0">
+			<original>是否保存通关数据？
+（我军的状态维持在第26章战斗开始前，
+仅保存通关成就。）</original>
+			<edited>是否保存通关数据？
+（我军的状态维持在第26章战斗开始前，
+仅保存通关成就。）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_CONFIRM_WRITING" offset="00" relocatable="true" max_length="0">
+			<original>是否保存当前进度？</original>
+			<edited>是否保存当前进度？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_CONFIRM_SKIP_WRITING" offset="00" relocatable="true" max_length="0">
+			<original>是否确定不保存当前进度
+直接进入下一章节？</original>
+			<edited>是否确定不保存当前进度
+直接进入下一章节？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_CONFIRM_SKIP_YES" offset="00" relocatable="true" max_length="0">
+			<original>进入</original>
+			<edited>进入</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_CONFIRM_SUSPEND" offset="00" relocatable="true" max_length="0">
+			<original>确定要保存当前进度，
+并回到游戏开始画面吗？</original>
+			<edited>确定要保存当前进度，
+并回到游戏开始画面吗？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_CONFIRM_SUSPEND_LOAD" offset="00" relocatable="true" max_length="0">
+			<original>如在读取中断数据后退出游戏，
+进度将会回到出击前的状态。
+想保留进度时请再次“中断”游戏。</original>
+			<edited>如在读取中断数据后退出游戏，
+进度将会回到出击前的状态。
+想保留进度时请再次“中断”游戏。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_CONFIRM_SUSPEND_COPY" offset="00" relocatable="true" max_length="0">
+			<original>无法复制中断数据。</original>
+			<edited>无法复制中断数据。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_CONFIRM_COPY" offset="00" relocatable="true" max_length="0">
+			<original>是否复制保存数据？</original>
+			<edited>是否复制保存数据？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_CONFIRM_COPY_YES" offset="00" relocatable="true" max_length="0">
+			<original>复制</original>
+			<edited>复制</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_CONFIRM_DELETE" offset="00" relocatable="true" max_length="0">
+			<original>是否删除保存数据？</original>
+			<edited>是否删除保存数据？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_CONFIRM_DELETE_YES" offset="00" relocatable="true" max_length="0">
+			<original>删除</original>
+			<edited>删除</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_READING" offset="00" relocatable="true" max_length="0">
+			<original>正在读取保存数据。
+请勿关闭电源。</original>
+			<edited>正在读取保存数据。
+请勿关闭电源。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_WRITING" offset="00" relocatable="true" max_length="0">
+			<original>正在保存当前进度。
+请勿关闭电源。</original>
+			<edited>正在保存当前进度。
+请勿关闭电源。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_COPYING" offset="00" relocatable="true" max_length="0">
+			<original>正在复制保存数据。
+请勿关闭电源。</original>
+			<edited>正在复制保存数据。
+请勿关闭电源。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_DELETING" offset="00" relocatable="true" max_length="0">
+			<original>正在删除保存数据。
+请勿关闭电源。</original>
+			<edited>正在删除保存数据。
+请勿关闭电源。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_LOAD_FAILED" offset="00" relocatable="true" max_length="0">
+			<original>保存数据读取失败。</original>
+			<edited>保存数据读取失败。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_VERSION_ERROR" offset="00" relocatable="true" max_length="0">
+			<original>由于保存数据的版本不同
+导致读取失败。
+请将游戏更新至最新版本。</original>
+			<edited>由于保存数据的版本不同
+导致读取失败。
+请将游戏更新至最新版本。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SAVE_FAILED" offset="00" relocatable="true" max_length="0">
+			<original>当前进度保存失败。</original>
+			<edited>当前进度保存失败。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_COPY_FAILED" offset="00" relocatable="true" max_length="0">
+			<original>复制保存数据失败。</original>
+			<edited>复制保存数据失败。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_DELETE_FAILED" offset="00" relocatable="true" max_length="0">
+			<original>删除保存数据失败。</original>
+			<edited>删除保存数据失败。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_OLD_VERSION" offset="00" relocatable="true" max_length="0">
+			<original>软件版本过旧，
+无法读取此保存数据。
+请至Nintendo eShop等处更新软件。</original>
+			<edited>软件版本过旧，
+无法读取此保存数据。
+请至Nintendo eShop等处更新软件。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_NO_DATA" offset="00" relocatable="true" max_length="0">
+			<original>无保存数据。</original>
+			<edited>无保存数据。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_TYPE_AUTO" offset="00" relocatable="true" max_length="0">
+			<original>自动保存</original>
+			<edited>自动保存</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_TYPE_MANUAL" offset="00" relocatable="true" max_length="0">
+			<original>存档位&#xE;&#x1;&#x0;&#x0;</original>
+			<edited>存档位&#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_SORTIE" offset="00" relocatable="true" max_length="0">
+			<original>出击前</original>
+			<edited>出击前</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_BMAP" offset="00" relocatable="true" max_length="0">
+			<original>出击中</original>
+			<edited>出击中</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_BMAP_AFTER" offset="00" relocatable="true" max_length="0">
+			<original>通关后</original>
+			<edited>通关后</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_SORTIE_ENCOUNT" offset="00" relocatable="true" max_length="0">
+			<original>遭遇战前</original>
+			<edited>遭遇战前</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_BMAP_ENCOUNT" offset="00" relocatable="true" max_length="0">
+			<original>遭遇战中</original>
+			<edited>遭遇战中</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_ENCOUNT_AFTER" offset="00" relocatable="true" max_length="0">
+			<original>遭遇战后</original>
+			<edited>遭遇战后</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_SORTIE_TRAINING" offset="00" relocatable="true" max_length="0">
+			<original>训练前</original>
+			<edited>训练前</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_BMAP_TRAINING" offset="00" relocatable="true" max_length="0">
+			<original>训练中</original>
+			<edited>训练中</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_TRAINING_AFTER" offset="00" relocatable="true" max_length="0">
+			<original>训练后</original>
+			<edited>训练后</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_KIZUNA" offset="00" relocatable="true" max_length="0">
+			<original>散步中</original>
+			<edited>散步中</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_HUB" offset="00" relocatable="true" max_length="0">
+			<original>据点索拉涅尔</original>
+			<edited>据点索拉涅尔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SEQ_GMAP" offset="00" relocatable="true" max_length="0">
+			<original>世界地图</original>
+			<edited>世界地图</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_LOAD_YES" offset="00" relocatable="true" max_length="0">
+			<original>读取</original>
+			<edited>读取</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_LOAD_HELP" offset="00" relocatable="true" max_length="0">
+			<original>请选择存档。</original>
+			<edited>请选择存档。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SAVE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>保存</original>
+			<edited>保存</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SAVE_HELP" offset="00" relocatable="true" max_length="0">
+			<original>请选择存档。</original>
+			<edited>请选择存档。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SAVE_YES" offset="00" relocatable="true" max_length="0">
+			<original>保存</original>
+			<edited>保存</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SUSPEND_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>中断</original>
+			<edited>中断</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SUSPEND_HELP" offset="00" relocatable="true" max_length="0">
+			<original>请选择保存位置。</original>
+			<edited>请选择保存位置。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_SUSPEND_YES" offset="00" relocatable="true" max_length="0">
+			<original>中断</original>
+			<edited>中断</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_COPY_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>复制数据</original>
+			<edited>复制数据</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_COPY_SRC_HELP" offset="00" relocatable="true" max_length="0">
+			<original>请选择要复制的存档。</original>
+			<edited>请选择要复制的存档。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_COPY_DST_HELP" offset="00" relocatable="true" max_length="0">
+			<original>请选择复制存档的保存位置。</original>
+			<edited>请选择复制存档的保存位置。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_DELETE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>删除数据</original>
+			<edited>删除数据</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SAVEDATA_DELETE_HELP" offset="00" relocatable="true" max_length="0">
+			<original>请选择存档。</original>
+			<edited>请选择存档。</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

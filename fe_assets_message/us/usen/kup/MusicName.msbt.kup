@@ -1,0 +1,942 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_BGM_Evt_Amb_Lithos_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Garden of Light</original>
+			<edited>Garden of Light</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Amb_Lithos_Black_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Hallway of Darkness</original>
+			<edited>Hallway of Darkness</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Amb_Lithos2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Holy Land of Lythos</original>
+			<edited>Holy Land of Lythos</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Amb_Lithos2_Black_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Burned Earth of Gradlon</original>
+			<edited>Burned Earth of Gradlon</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Ring_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>The Twelve Stars</original>
+			<edited>The Twelve Stars</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Tutorial_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Mother and Child Reunited</original>
+			<edited>Mother and Child Reunited</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Sigurd_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Provide for Us, Emblem of the Holy War</original>
+			<edited>Provide for Us, Emblem of the Holy War</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Lumiere_Die_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Pinky Promise</original>
+			<edited>Pinky Promise</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Amb_Filene_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Firene, Kingdom of Abundance</original>
+			<edited>Firene, Kingdom of Abundance</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Danger1_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Crisis</original>
+			<edited>Crisis</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Danger2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Surprise Attack</original>
+			<edited>Surprise Attack</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Cellica_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Care for Us, Emblem of Echoes</original>
+			<edited>Care for Us, Emblem of Echoes</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Brave_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>A Beacon of Light Awakens</original>
+			<edited>A Beacon of Light Awakens</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Veyre_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Silver-White Heart</original>
+			<edited>Silver-White Heart</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Determination_Filene_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>A Fight for Peace</original>
+			<edited>A Fight for Peace</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Disturb1_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Dark Shadows</original>
+			<edited>Dark Shadows</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Disturb2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Scheming</original>
+			<edited>Scheming</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Funny_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Hiya Papaya!</original>
+			<edited>Hiya Papaya!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Micaiah_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Heal Us, Emblem of Dawn</original>
+			<edited>Heal Us, Emblem of Dawn</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Tension1_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Standoff</original>
+			<edited>Standoff</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Tension2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Looming Battle</original>
+			<edited>Looming Battle</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Amb_Brodia_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Brodia, Kingdom of Might</original>
+			<edited>Brodia, Kingdom of Might</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Collide_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Clash</original>
+			<edited>Clash</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Appear_Diamand_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>The Warrior Prince</original>
+			<edited>The Warrior Prince</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Roy_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Rise Up, Emblem of Binding</original>
+			<edited>Rise Up, Emblem of Binding</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Appear_Ivy_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>A Contemplative Princess</original>
+			<edited>A Contemplative Princess</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Leif_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Free Us, Emblem of Genealogy</original>
+			<edited>Free Us, Emblem of Genealogy</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Determination_Brodia_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>A Warrior's Pride</original>
+			<edited>A Warrior's Pride</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Amb_Ircion_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Elusia, Kingdom of Knowledge</original>
+			<edited>Elusia, Kingdom of Knowledge</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Danger_Church_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Tragedy</original>
+			<edited>Tragedy</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Veyre_Exposed_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Black-Silver Devastation</original>
+			<edited>Black-Silver Devastation</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Lucina_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Reignite Us, Emblem of Awakening</original>
+			<edited>Reignite Us, Emblem of Awakening</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Amb_Solum_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Solm, Queendom of Freedom</original>
+			<edited>Solm, Queendom of Freedom</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Mov_Vigilante_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Desert Rose</original>
+			<edited>Desert Rose</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Vigilante_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>The Sentinels</original>
+			<edited>The Sentinels</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_4ku_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>The Fell Dragon's Hounds</original>
+			<edited>The Fell Dragon's Hounds</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_4ku_Sad_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Dreaming of Family</original>
+			<edited>Dreaming of Family</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Misutira_Song_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>The Free Princess</original>
+			<edited>The Free Princess</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Ike_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Fight On, Emblem of Radiance</original>
+			<edited>Fight On, Emblem of Radiance</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Determination_Solum_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Tenacity of Freedom</original>
+			<edited>Tenacity of Freedom</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Determination_Ircion_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>A Pact for Piety</original>
+			<edited>A Pact for Piety</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Eirika_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Restore Calm, Emblem of the Sacred</original>
+			<edited>Restore Calm, Emblem of the Sacred</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Veyre_Truth_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Falling Wings</original>
+			<edited>Falling Wings</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Veyre_Sad_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Dark Gray Feelings</original>
+			<edited>Dark Gray Feelings</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Determination_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Mighty Governance</original>
+			<edited>Mighty Governance</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Past_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Two Encounters</original>
+			<edited>Two Encounters</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_BlackLumiere_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>A Thousand Years Alone</original>
+			<edited>A Thousand Years Alone</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_BlackLumiere_Die_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Thank You...Mother</original>
+			<edited>Thank You...Mother</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Determination_Last_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>When Life Returns</original>
+			<edited>When Life Returns</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_26OP_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Extinguished Light</original>
+			<edited>Extinguished Light</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_26ED_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Their Journeys</original>
+			<edited>Their Journeys</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Lyn_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Sweep Across, Emblem of Blazing</original>
+			<edited>Sweep Across, Emblem of Blazing</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Byleth_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Teach Us, Emblem of the Academy</original>
+			<edited>Teach Us, Emblem of the Academy</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Corrin_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Bare Your Fangs, Emblem of Fates</original>
+			<edited>Bare Your Fangs, Emblem of Fates</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Restart_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>A Dragon Who Saves the World</original>
+			<edited>A Dragon Who Saves the World</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Daily1_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Friendly Chat</original>
+			<edited>Friendly Chat</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Daily2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>An Everyday Sort of Day</original>
+			<edited>An Everyday Sort of Day</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Daily3_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Tranquility</original>
+			<edited>Tranquility</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Warm_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Sentimental Moment</original>
+			<edited>Sentimental Moment</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Engage_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Engage</original>
+			<edited>Engage</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Consultation_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Conferring</original>
+			<edited>Conferring</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Kindness_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Caring</original>
+			<edited>Caring</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_P05_OP_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Chilling Rain</original>
+			<edited>Chilling Rain</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_NewEmblem_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>The Emblems' Miracle</original>
+			<edited>The Emblems' Miracle</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Marth_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Shine On, Emblem of Beginnings</original>
+			<edited>Shine On, Emblem of Beginnings</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Veyre_Truth_CS19_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>The Bell Tolls</original>
+			<edited>The Bell Tolls</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_26ED2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Heartfelt Farewell</original>
+			<edited>Heartfelt Farewell</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Mov_GOP_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Emblem Engage!</original>
+			<edited>Emblem Engage!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Mov_S02_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>The Dragon's Dream</original>
+			<edited>The Dragon's Dream</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Mov_Eleos_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>History of Elyos</original>
+			<edited>History of Elyos</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Mov_Red_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Memories from Red Days</original>
+			<edited>Memories from Red Days</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Mov_Appear_Alfred_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>The Bountiful Prince</original>
+			<edited>The Bountiful Prince</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Mov_Appear_Sombre_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Fell Dragon Sombron</original>
+			<edited>Fell Dragon Sombron</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Mov_Lueur_Die_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Death of the Divine Dragon</original>
+			<edited>Death of the Divine Dragon</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Mov_S18_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>The Sixth Land</original>
+			<edited>The Sixth Land</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P00_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Weary Confrontation</original>
+			<edited>Weary Confrontation</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P00_Heavy_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Weary Confrontation (Gloom)</original>
+			<edited>Weary Confrontation (Gloom)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P01_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Faraway Holy Land</original>
+			<edited>Faraway Holy Land</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P01_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Faraway Holy Land (Flare)</original>
+			<edited>Faraway Holy Land (Flare)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P01_Heavy_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Faraway, Eternal Holy Land</original>
+			<edited>Faraway, Eternal Holy Land</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P01_Heavy_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Faraway, Eternal Holy Land (Flare)</original>
+			<edited>Faraway, Eternal Holy Land (Flare)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P02_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Bloom in the Breeze</original>
+			<edited>Bloom in the Breeze</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P02_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Bloom in the Breeze (Blossom)</original>
+			<edited>Bloom in the Breeze (Blossom)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P02_Heavy_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Full Bloom in the Breeze</original>
+			<edited>Full Bloom in the Breeze</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P02_Heavy_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Full Bloom in the Breeze (Blossom)</original>
+			<edited>Full Bloom in the Breeze (Blossom)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P03_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Royal Confidence</original>
+			<edited>Royal Confidence</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P03_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Royal Confidence (Might)</original>
+			<edited>Royal Confidence (Might)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P03_Heavy_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Unshaken Royal Confidence</original>
+			<edited>Unshaken Royal Confidence</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P03_Heavy_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Unshaken Royal Confidence (Might)</original>
+			<edited>Unshaken Royal Confidence (Might)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P04_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Tear Streaked (Ice)</original>
+			<edited>Tear Streaked (Ice)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P05_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Broken Bonds</original>
+			<edited>Broken Bonds</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P06_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Bright Sandstorm</original>
+			<edited>Bright Sandstorm</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P06_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Bright Sandstorm (Fiery)</original>
+			<edited>Bright Sandstorm (Fiery)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P06_Heavy_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Bright, Bold Sandstorm</original>
+			<edited>Bright, Bold Sandstorm</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P06_Heavy_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Bright, Bold Sandstorm (Fiery)</original>
+			<edited>Bright, Bold Sandstorm (Fiery)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P08_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Falling Petals</original>
+			<edited>Falling Petals</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P09_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Determined Journey</original>
+			<edited>Determined Journey</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P09_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Determined Journey (Flare)</original>
+			<edited>Determined Journey (Flare)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P12_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Last Engage (Prayer-Incantation)</original>
+			<edited>Last Engage (Prayer-Incantation)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P13_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Weapons Unleashed</original>
+			<edited>Weapons Unleashed</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P13_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Weapons Unleashed (Struggle)</original>
+			<edited>Weapons Unleashed (Struggle)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_E01_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Corrupted</original>
+			<edited>Corrupted</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_E02_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>A Goddess and Her Puppets</original>
+			<edited>A Goddess and Her Puppets</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_E03_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Slithering Cold</original>
+			<edited>Slithering Cold</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_E04_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Advancing Sounds of Despair</original>
+			<edited>Advancing Sounds of Despair</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_E05_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Distorted Flash of Light</original>
+			<edited>Distorted Flash of Light</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S03_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Trial of Awakening</original>
+			<edited>Trial of Awakening</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S03_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Trial of Awakening (Reignite Us)</original>
+			<edited>Trial of Awakening (Reignite Us)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S04_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Trial of Blazing</original>
+			<edited>Trial of Blazing</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S04_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Trial of Blazing (Sweep Across)</original>
+			<edited>Trial of Blazing (Sweep Across)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S05_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Trial of Radiance</original>
+			<edited>Trial of Radiance</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S05_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Trial of Radiance (Fight On)</original>
+			<edited>Trial of Radiance (Fight On)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S06_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Trial of the Academy</original>
+			<edited>Trial of the Academy</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S06_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Trial of the Academy (Teach Us)</original>
+			<edited>Trial of the Academy (Teach Us)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S07_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Trial of Fates</original>
+			<edited>Trial of Fates</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S07_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Trial of Fates (Bare Your Fangs)</original>
+			<edited>Trial of Fates (Bare Your Fangs)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S08_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Trial of the Sacred</original>
+			<edited>Trial of the Sacred</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S08_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Trial of the Sacred (Restore Calm)</original>
+			<edited>Trial of the Sacred (Restore Calm)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S09_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Trial of the Holy War</original>
+			<edited>Trial of the Holy War</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S09_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Trial of the Holy War (Provide for Us)</original>
+			<edited>Trial of the Holy War (Provide for Us)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S10_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Trial of Genealogy</original>
+			<edited>Trial of Genealogy</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S10_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Trial of Genealogy (Free Us)</original>
+			<edited>Trial of Genealogy (Free Us)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S11_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Trial of Dawn</original>
+			<edited>Trial of Dawn</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S11_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Trial of Dawn (Heal Us)</original>
+			<edited>Trial of Dawn (Heal Us)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S12_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Trial of Binding</original>
+			<edited>Trial of Binding</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S12_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Trial of Binding (Rise Up)</original>
+			<edited>Trial of Binding (Rise Up)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S13_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Trial of Echoes</original>
+			<edited>Trial of Echoes</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S13_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Trial of Echoes (Care for Us)</original>
+			<edited>Trial of Echoes (Care for Us)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S14_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Trial of Emblems</original>
+			<edited>Trial of Emblems</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S14_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Trial of Emblems (Shine On)</original>
+			<edited>Trial of Emblems (Shine On)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S15_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Trial of the Pact</original>
+			<edited>Trial of the Pact</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S15_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Trial of the Pact (Connect Us)</original>
+			<edited>Trial of the Pact (Connect Us)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_01_Pre_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Spreader of Chaos</original>
+			<edited>Spreader of Chaos</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_01_Start_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Spreader of Chaos (Frenzy)</original>
+			<edited>Spreader of Chaos (Frenzy)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_02_Pre_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Enforcer of Knowledge</original>
+			<edited>Enforcer of Knowledge</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_02_Start_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Enforcer of Knowledge (Frenzy)</original>
+			<edited>Enforcer of Knowledge (Frenzy)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_03_Pre_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Keeper of History</original>
+			<edited>Keeper of History</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_03_Start_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Keeper of History (Frenzy)</original>
+			<edited>Keeper of History (Frenzy)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_04_Pre_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>The Four Hounds</original>
+			<edited>The Four Hounds</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_04_Start_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>The Four Hounds (Frenzy)</original>
+			<edited>The Four Hounds (Frenzy)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_05_Pre_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Defective</original>
+			<edited>Defective</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_05_Start_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Defective (Frenzy)</original>
+			<edited>Defective (Frenzy)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_06_Pre_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Goddess in Shadow</original>
+			<edited>Goddess in Shadow</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_06_Start_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Goddess in Shadow (Frenzy)</original>
+			<edited>Goddess in Shadow (Frenzy)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Title_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Engage...</original>
+			<edited>Engage...</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Gmap_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Your Journey</original>
+			<edited>Your Journey</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Prepare1_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Preparations</original>
+			<edited>Preparations</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Prepare2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Stalwart Preparations</original>
+			<edited>Stalwart Preparations</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Base1_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Good Morning, Divine One</original>
+			<edited>Good Morning, Divine One</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Base2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>On Day Patrol, Divine One?</original>
+			<edited>On Day Patrol, Divine One?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Base3_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Enjoy the Evening, Divine One</original>
+			<edited>Enjoy the Evening, Divine One</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Base4_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Late-Night Stroll, Divine One?</original>
+			<edited>Late-Night Stroll, Divine One?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Mini1_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Try Your Hand at Wyvern Riding?</original>
+			<edited>Try Your Hand at Wyvern Riding?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Mini2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Another Day of Training?</original>
+			<edited>Another Day of Training?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Mini3_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Brodians Are Robust Fishers!</original>
+			<edited>Brodians Are Robust Fishers!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Base_Jukebox1_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>A Tea Party in Firene</original>
+			<edited>A Tea Party in Firene</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Base_Jukebox2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Good Company in Brodia</original>
+			<edited>Good Company in Brodia</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Base_Jukebox3_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Dinner in Elusia</original>
+			<edited>Dinner in Elusia</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Base_Jukebox4_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Camping in Solm</original>
+			<edited>Camping in Solm</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Base_Jukebox5_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Emblems at the Dinner Table</original>
+			<edited>Emblems at the Dinner Table</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_ED1_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Fiery Bonds</original>
+			<edited>Fiery Bonds</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_ED2_Result_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Fire Emblem Theme (The Fire Emblem)</original>
+			<edited>Fire Emblem Theme (The Fire Emblem)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_ED2_Sequel_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>The Journey Is Finally...</original>
+			<edited>The Journey Is Finally...</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Introduction_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Fire Emblem Theme</original>
+			<edited>Fire Emblem Theme</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_ClassChange_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Illumination</original>
+			<edited>Illumination</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Die_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Final Farewell</original>
+			<edited>Final Farewell</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FF_GameOver_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Eternal Rest</original>
+			<edited>Eternal Rest</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FF_StageClear_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Triumph</original>
+			<edited>Triumph</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FF_LevelUp_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Growth</original>
+			<edited>Growth</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FF_Bad_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>A Shame 1</original>
+			<edited>A Shame 1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FF_Sorry_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>A Shame 2</original>
+			<edited>A Shame 2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FF_Good1_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Joy 1</original>
+			<edited>Joy 1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FF_Good2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Joy 2</original>
+			<edited>Joy 2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FF_ItemGet1_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Acquire 1</original>
+			<edited>Acquire 1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FF_ItemGet2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Acquire 2</original>
+			<edited>Acquire 2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_03_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Destiny (Ablaze)</original>
+			<edited>Destiny (Ablaze)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_04_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Wind across the Plains</original>
+			<edited>Wind across the Plains</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_05_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>The Devoted</original>
+			<edited>The Devoted</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_06_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Fódlan Winds</original>
+			<edited>Fódlan Winds</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_07_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>End of All (Below)</original>
+			<edited>End of All (Below)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_08_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>The Final Battle</original>
+			<edited>The Final Battle</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_09_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>End of the Holy War</original>
+			<edited>End of the Holy War</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_10_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Let's Go, Leif!</original>
+			<edited>Let's Go, Leif!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_11_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Echoes of Daybreak</original>
+			<edited>Echoes of Daybreak</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_12_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Beneath a New Light (Roy)</original>
+			<edited>Beneath a New Light (Roy)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_13_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>With Mila's Divine Protection</original>
+			<edited>With Mila's Divine Protection</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_14_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Trouble! (Marth)</original>
+			<edited>Trouble! (Marth)</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,1775 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_FOOD_RESULT" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Superb" offset="00" relocatable="true" max_length="0">
+			<original>極上の</original>
+			<edited>極上の</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Delicious" offset="00" relocatable="true" max_length="0">
+			<original>おいしい</original>
+			<edited>おいしい</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Growling" offset="00" relocatable="true" max_length="0">
+			<original>通も唸る</original>
+			<edited>通も唸る</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Melt" offset="00" relocatable="true" max_length="0">
+			<original>とろける</original>
+			<edited>とろける</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_HighKing" offset="00" relocatable="true" max_length="0">
+			<original>覇王の</original>
+			<edited>覇王の</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_HolyMother" offset="00" relocatable="true" max_length="0">
+			<original>聖母の</original>
+			<edited>聖母の</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Courage" offset="00" relocatable="true" max_length="0">
+			<original>勇気の</original>
+			<edited>勇気の</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Wisdom" offset="00" relocatable="true" max_length="0">
+			<original>叡智の</original>
+			<edited>叡智の</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Chalk" offset="00" relocatable="true" max_length="0">
+			<original>白亜の</original>
+			<edited>白亜の</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Mens" offset="00" relocatable="true" max_length="0">
+			<original>無骨な</original>
+			<edited>無骨な</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_ForBoys" offset="00" relocatable="true" max_length="0">
+			<original>やみつきになる</original>
+			<edited>やみつきになる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Woman" offset="00" relocatable="true" max_length="0">
+			<original>大胆な</original>
+			<edited>大胆な</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_ForGirls" offset="00" relocatable="true" max_length="0">
+			<original>繊細な</original>
+			<edited>繊細な</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Adult" offset="00" relocatable="true" max_length="0">
+			<original>大人の</original>
+			<edited>大人の</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Child" offset="00" relocatable="true" max_length="0">
+			<original>お子様</original>
+			<edited>お子様</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Your" offset="00" relocatable="true" max_length="0">
+			<original>あなたの</original>
+			<edited>あなたの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Discerning" offset="00" relocatable="true" max_length="0">
+			<original>こだわり</original>
+			<edited>こだわり</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Whimsical" offset="00" relocatable="true" max_length="0">
+			<original>気まぐれ</original>
+			<edited>気まぐれ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Rich" offset="00" relocatable="true" max_length="0">
+			<original>濃厚な</original>
+			<edited>濃厚な</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Refreshing" offset="00" relocatable="true" max_length="0">
+			<original>さっぱりした</original>
+			<edited>さっぱりした</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Sharp" offset="00" relocatable="true" max_length="0">
+			<original>メリハリのある</original>
+			<edited>メリハリのある</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Friendly" offset="00" relocatable="true" max_length="0">
+			<original>やさしい</original>
+			<edited>やさしい</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_BrodiaStyle" offset="00" relocatable="true" max_length="0">
+			<original>ブロディア風</original>
+			<edited>ブロディア風</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_FileneStyle" offset="00" relocatable="true" max_length="0">
+			<original>フィレネ風</original>
+			<edited>フィレネ風</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_SolumStyle" offset="00" relocatable="true" max_length="0">
+			<original>ソルム風</original>
+			<edited>ソルム風</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_IrcionStyle" offset="00" relocatable="true" max_length="0">
+			<original>イルシオン風</original>
+			<edited>イルシオン風</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_LithosStyle" offset="00" relocatable="true" max_length="0">
+			<original>リトス風</original>
+			<edited>リトス風</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Wild" offset="00" relocatable="true" max_length="0">
+			<original>野趣あふれた</original>
+			<edited>野趣あふれた</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Exciting" offset="00" relocatable="true" max_length="0">
+			<original>豪快な</original>
+			<edited>豪快な</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_CarefullySelected" offset="00" relocatable="true" max_length="0">
+			<original>厳選した</original>
+			<edited>厳選した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Fresh" offset="00" relocatable="true" max_length="0">
+			<original>新鮮な</original>
+			<edited>新鮮な</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Spicy" offset="00" relocatable="true" max_length="0">
+			<original>激辛</original>
+			<edited>激辛</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Hot" offset="00" relocatable="true" max_length="0">
+			<original>辛い</original>
+			<edited>辛い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Bitter" offset="00" relocatable="true" max_length="0">
+			<original>苦い</original>
+			<edited>苦い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Bittersweet" offset="00" relocatable="true" max_length="0">
+			<original>ほろ苦い</original>
+			<edited>ほろ苦い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_SuperSweet" offset="00" relocatable="true" max_length="0">
+			<original>大甘</original>
+			<edited>大甘</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Sweet" offset="00" relocatable="true" max_length="0">
+			<original>甘い</original>
+			<edited>甘い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Chewy" offset="00" relocatable="true" max_length="0">
+			<original>歯ごたえのある</original>
+			<edited>歯ごたえのある</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Hard" offset="00" relocatable="true" max_length="0">
+			<original>硬めの</original>
+			<edited>硬めの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Habit" offset="00" relocatable="true" max_length="0">
+			<original>癖になる</original>
+			<edited>癖になる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Smart" offset="00" relocatable="true" max_length="0">
+			<original>乙な</original>
+			<edited>乙な</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Normal" offset="00" relocatable="true" max_length="0">
+			<original>普通の</original>
+			<edited>普通の</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Mistake" offset="00" relocatable="true" max_length="0">
+			<original>何かを間違えた</original>
+			<edited>何かを間違えた</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Shortage" offset="00" relocatable="true" max_length="0">
+			<original>色々足りない</original>
+			<edited>色々足りない</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_DifferentStar" offset="00" relocatable="true" max_length="0">
+			<original>違う星の</original>
+			<edited>違う星の</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_DefinitelySuffer" offset="00" relocatable="true" max_length="0">
+			<original>悶絶必至の</original>
+			<edited>悶絶必至の</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Carbonization" offset="00" relocatable="true" max_length="0">
+			<original>炭化した</original>
+			<edited>炭化した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_OnionSoup" offset="00" relocatable="true" max_length="0">
+			<original>タマネギスープ</original>
+			<edited>タマネギスープ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_OnionSoup" offset="00" relocatable="true" max_length="0">
+			<original>材料はタマネギ、水、調味料のみの
+簡単なスープ</original>
+			<edited>材料はタマネギ、水、調味料のみの
+簡単なスープ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_ConsommeSoup" offset="00" relocatable="true" max_length="0">
+			<original>豆と野菜のコンソメスープ</original>
+			<edited>豆と野菜のコンソメスープ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_ConsommeSoup" offset="00" relocatable="true" max_length="0">
+			<original>厚めのベーコンと野菜と豆を入れて
+よく煮込んだもの
+スープのベースは人それぞれ異なる</original>
+			<edited>厚めのベーコンと野菜と豆を入れて
+よく煮込んだもの
+スープのベースは人それぞれ異なる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_DumplingsOfMeat" offset="00" relocatable="true" max_length="0">
+			<original>ひき肉のダンプリング</original>
+			<edited>ひき肉のダンプリング</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_DumplingsOfMeat" offset="00" relocatable="true" max_length="0">
+			<original>パスタ生地の中に
+ひき肉や野菜、パン粉を詰め
+ハーブを加えて茹でたもの</original>
+			<edited>パスタ生地の中に
+ひき肉や野菜、パン粉を詰め
+ハーブを加えて茹でたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_PotatoSoup" offset="00" relocatable="true" max_length="0">
+			<original>芋のスープ</original>
+			<edited>芋のスープ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_PotatoSoup" offset="00" relocatable="true" max_length="0">
+			<original>すり潰した芋を使ったとろみのあるスープ</original>
+			<edited>すり潰した芋を使ったとろみのあるスープ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_WhiteSausage" offset="00" relocatable="true" max_length="0">
+			<original>白いソーセージ</original>
+			<edited>白いソーセージ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_WhiteSausage" offset="00" relocatable="true" max_length="0">
+			<original>羊肉と、新鮮な豚肉のベーコンに
+風味づけのハーブを加えて作ったソーセージ</original>
+			<edited>羊肉と、新鮮な豚肉のベーコンに
+風味づけのハーブを加えて作ったソーセージ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_StewedSaltedMeat" offset="00" relocatable="true" max_length="0">
+			<original>塩漬けの肉の煮込み</original>
+			<edited>塩漬けの肉の煮込み</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_StewedSaltedMeat" offset="00" relocatable="true" max_length="0">
+			<original>塩漬けの豚すね肉を、野菜やハーブと共に
+数時間煮込んだもの</original>
+			<edited>塩漬けの豚すね肉を、野菜やハーブと共に
+数時間煮込んだもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_CreamCroquette" offset="00" relocatable="true" max_length="0">
+			<original>クリームコロッケ</original>
+			<edited>クリームコロッケ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_CreamCroquette" offset="00" relocatable="true" max_length="0">
+			<original>ホワイトソースの入ったコロッケ</original>
+			<edited>ホワイトソースの入ったコロッケ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_SmokedEel" offset="00" relocatable="true" max_length="0">
+			<original>ウナギの燻製</original>
+			<edited>ウナギの燻製</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_SmokedEel" offset="00" relocatable="true" max_length="0">
+			<original>内臓を取ったウナギを燻製にしたもの
+柔らかくて皮まで食べられる</original>
+			<edited>内臓を取ったウナギを燻製にしたもの
+柔らかくて皮まで食べられる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_PickledPicklesHerringRoll" offset="00" relocatable="true" max_length="0">
+			<original>ピクルスの酢漬けニシン巻き</original>
+			<edited>ピクルスの酢漬けニシン巻き</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_PickledPicklesHerringRoll" offset="00" relocatable="true" max_length="0">
+			<original>酢漬けにしたニシンでタマネギなどの
+ピクルスを巻いたもの</original>
+			<edited>酢漬けにしたニシンでタマネギなどの
+ピクルスを巻いたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_FriedCarp" offset="00" relocatable="true" max_length="0">
+			<original>コイのから揚げ</original>
+			<edited>コイのから揚げ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_FriedCarp" offset="00" relocatable="true" max_length="0">
+			<original>内臓などを綺麗に処理したコイを
+そのまま高温で姿揚げにしたもの</original>
+			<edited>内臓などを綺麗に処理したコイを
+そのまま高温で姿揚げにしたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_ApplePie" offset="00" relocatable="true" max_length="0">
+			<original>アップルパイ</original>
+			<edited>アップルパイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_ApplePie" offset="00" relocatable="true" max_length="0">
+			<original>薄切りのリンゴをぎっしり入れて焼いたパイ</original>
+			<edited>薄切りのリンゴをぎっしり入れて焼いたパイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_StewedCabbage" offset="00" relocatable="true" max_length="0">
+			<original>キャベツの漬物</original>
+			<edited>キャベツの漬物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_StewedCabbage" offset="00" relocatable="true" max_length="0">
+			<original>切ったキャベツを瓶や漬物樽に入れ
+塩と香辛料を入れてよく混ぜ漬け込んだもの</original>
+			<edited>切ったキャベツを瓶や漬物樽に入れ
+塩と香辛料を入れてよく混ぜ漬け込んだもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_PotatoPancakes" offset="00" relocatable="true" max_length="0">
+			<original>ポテトパンケーキ</original>
+			<edited>ポテトパンケーキ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_PotatoPancakes" offset="00" relocatable="true" max_length="0">
+			<original>芋をすりおろして作った生地を
+フライパンで焼いた料理</original>
+			<edited>芋をすりおろして作った生地を
+フライパンで焼いた料理</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_SteamedDumpling" offset="00" relocatable="true" max_length="0">
+			<original>蒸し団子</original>
+			<edited>蒸し団子</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_SteamedDumpling" offset="00" relocatable="true" max_length="0">
+			<original>バターとミルクを鍋で温め
+丸めたパン生地を並べ入れて蓋をし
+煮込むように蒸したもの</original>
+			<edited>バターとミルクを鍋で温め
+丸めたパン生地を並べ入れて蓋をし
+煮込むように蒸したもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_OnionQuiche" offset="00" relocatable="true" max_length="0">
+			<original>タマネギのキッシュ</original>
+			<edited>タマネギのキッシュ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_OnionQuiche" offset="00" relocatable="true" max_length="0">
+			<original>大量のタマネギをベーコンとじっくり炒め
+キッシュ生地に入れてオーブンで焼いたもの</original>
+			<edited>大量のタマネギをベーコンとじっくり炒め
+キッシュ生地に入れてオーブンで焼いたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_FruitHamToast" offset="00" relocatable="true" max_length="0">
+			<original>アップルチーズトースト</original>
+			<edited>アップルチーズトースト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_FruitHamToast" offset="00" relocatable="true" max_length="0">
+			<original>トーストに薄く切ったリンゴと
+チーズをのせたもの</original>
+			<edited>トーストに薄く切ったリンゴと
+チーズをのせたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_PeachCake" offset="00" relocatable="true" max_length="0">
+			<original>ピーチケーキ</original>
+			<edited>ピーチケーキ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_PeachCake" offset="00" relocatable="true" max_length="0">
+			<original>バター生地にモモを入れて焼き
+食べる直前に粉砂糖をふったもの</original>
+			<edited>バター生地にモモを入れて焼き
+食べる直前に粉砂糖をふったもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_NutsAndHoneyCake" offset="00" relocatable="true" max_length="0">
+			<original>木の実とキャラメルのケーキ</original>
+			<edited>木の実とキャラメルのケーキ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_NutsAndHoneyCake" offset="00" relocatable="true" max_length="0">
+			<original>キャラメリゼした木の実スライスを
+生地にのせて焼き
+カスタードクリームを挟んだもの</original>
+			<edited>キャラメリゼした木の実スライスを
+生地にのせて焼き
+カスタードクリームを挟んだもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BoiledRedWineInBerry" offset="00" relocatable="true" max_length="0">
+			<original>ベリーのシロップ煮</original>
+			<edited>ベリーのシロップ煮</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BoiledRedWineInBerry" offset="00" relocatable="true" max_length="0">
+			<original>ベリーと赤いシロップを
+とろみがつくまで煮込み、冷やした後に
+冷たいアイスと共に盛りつけたもの</original>
+			<edited>ベリーと赤いシロップを
+とろみがつくまで煮込み、冷やした後に
+冷たいアイスと共に盛りつけたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_FriedBreadOfDonutStyle" offset="00" relocatable="true" max_length="0">
+			<original>ドーナツ風の揚げパン</original>
+			<edited>ドーナツ風の揚げパン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_FriedBreadOfDonutStyle" offset="00" relocatable="true" max_length="0">
+			<original>ジャムやクリームを詰めて揚げたパン</original>
+			<edited>ジャムやクリームを詰めて揚げたパン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_TearingPancakes" offset="00" relocatable="true" max_length="0">
+			<original>引き裂きパンケーキ</original>
+			<edited>引き裂きパンケーキ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_TearingPancakes" offset="00" relocatable="true" max_length="0">
+			<original>甘いパンケーキ生地を薄く焼いたあと
+一口サイズに崩してバターを絡め
+最後に粉砂糖をふりかけたもの</original>
+			<edited>甘いパンケーキ生地を薄く焼いたあと
+一口サイズに崩してバターを絡め
+最後に粉砂糖をふりかけたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_Omlet" offset="00" relocatable="true" max_length="0">
+			<original>オムレット</original>
+			<edited>オムレット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_Omlet" offset="00" relocatable="true" max_length="0">
+			<original>オムレツにトマトやチーズなど
+たくさんの具材を入れたもの</original>
+			<edited>オムレツにトマトやチーズなど
+たくさんの具材を入れたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_ThickGrilledCrepePizza" offset="00" relocatable="true" max_length="0">
+			<original>厚焼きクレープピザ</original>
+			<edited>厚焼きクレープピザ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_ThickGrilledCrepePizza" offset="00" relocatable="true" max_length="0">
+			<original>厚焼きのクレープ生地で作る
+もっちりとしたピザ</original>
+			<edited>厚焼きのクレープ生地で作る
+もっちりとしたピザ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_ThickSlicedPotatoFries" offset="00" relocatable="true" max_length="0">
+			<original>厚切りのポテトフライ</original>
+			<edited>厚切りのポテトフライ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_ThickSlicedPotatoFries" offset="00" relocatable="true" max_length="0">
+			<original>厚めに切った芋を高温の油で揚げて
+たっぷりと塩を絡めたもの</original>
+			<edited>厚めに切った芋を高温の油で揚げて
+たっぷりと塩を絡めたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_LambAndCabbageStew" offset="00" relocatable="true" max_length="0">
+			<original>羊肉とキャベツのシチュー</original>
+			<edited>羊肉とキャベツのシチュー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_LambAndCabbageStew" offset="00" relocatable="true" max_length="0">
+			<original>羊肉とキャベツを一緒に
+キャベツがトロトロになるまで煮込んだもの</original>
+			<edited>羊肉とキャベツを一緒に
+キャベツがトロトロになるまで煮込んだもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_RoastWithSkinOfPorkBelly" offset="00" relocatable="true" max_length="0">
+			<original>豚バラ肉の皮付きロースト</original>
+			<edited>豚バラ肉の皮付きロースト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_RoastWithSkinOfPorkBelly" offset="00" relocatable="true" max_length="0">
+			<original>豚バラ肉を皮付きのまま
+あぶったり蒸し焼きにしたりしたもの</original>
+			<edited>豚バラ肉を皮付きのまま
+あぶったり蒸し焼きにしたりしたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_SteamedThighMeatOfSaltedSheep" offset="00" relocatable="true" max_length="0">
+			<original>塩漬けの羊の腿肉蒸し</original>
+			<edited>塩漬けの羊の腿肉蒸し</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_SteamedThighMeatOfSaltedSheep" offset="00" relocatable="true" max_length="0">
+			<original>塩を擦り込み乾燥させた羊の腿肉を
+蒸しあげたもの</original>
+			<edited>塩を擦り込み乾燥させた羊の腿肉を
+蒸しあげたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_FruitPie" offset="00" relocatable="true" max_length="0">
+			<original>フルーツパイ</original>
+			<edited>フルーツパイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_FruitPie" offset="00" relocatable="true" max_length="0">
+			<original>乾燥させた果物を
+パイに包んで焼き上げたもの</original>
+			<edited>乾燥させた果物を
+パイに包んで焼き上げたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BoiledBeefInWine" offset="00" relocatable="true" max_length="0">
+			<original>牛肉のブドウソース煮</original>
+			<edited>牛肉のブドウソース煮</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BoiledBeefInWine" offset="00" relocatable="true" max_length="0">
+			<original>一口サイズにカットした牛肉を
+タマネギと一緒にソテーした後
+ブドウソースで煮込み、バターを入れたもの</original>
+			<edited>一口サイズにカットした牛肉を
+タマネギと一緒にソテーした後
+ブドウソースで煮込み、バターを入れたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BraisedCod" offset="00" relocatable="true" max_length="0">
+			<original>タラの煮込み</original>
+			<edited>タラの煮込み</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BraisedCod" offset="00" relocatable="true" max_length="0">
+			<original>干したタラを水に浸したあと
+アクを加えて戻し、煮込んだもの</original>
+			<edited>干したタラを水に浸したあと
+アクを加えて戻し、煮込んだもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_FishCreamSoup" offset="00" relocatable="true" max_length="0">
+			<original>魚のクリームスープ</original>
+			<edited>魚のクリームスープ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_FishCreamSoup" offset="00" relocatable="true" max_length="0">
+			<original>生クリームをたっぷり使った魚のスープ</original>
+			<edited>生クリームをたっぷり使った魚のスープ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_MeatDumplingWithCreamSauce" offset="00" relocatable="true" max_length="0">
+			<original>肉団子のクリームソースがけ</original>
+			<edited>肉団子のクリームソースがけ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_MeatDumplingWithCreamSauce" offset="00" relocatable="true" max_length="0">
+			<original>肉団子に濃厚なクリームソースをかけたもの
+ソースに入っているジャムの甘味が肉に合う</original>
+			<edited>肉団子に濃厚なクリームソースをかけたもの
+ソースに入っているジャムの甘味が肉に合う</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_MarinatedSalmon" offset="00" relocatable="true" max_length="0">
+			<original>サケのマリネ</original>
+			<edited>サケのマリネ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_MarinatedSalmon" offset="00" relocatable="true" max_length="0">
+			<original>サケを塩、砂糖、ハーブに漬け込んだもの
+独特の臭みがある</original>
+			<edited>サケを塩、砂糖、ハーブに漬け込んだもの
+独特の臭みがある</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_CrispBread" offset="00" relocatable="true" max_length="0">
+			<original>クリスプ・ブレッド</original>
+			<edited>クリスプ・ブレッド</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_CrispBread" offset="00" relocatable="true" max_length="0">
+			<original>小麦粉、塩、水のみで作られた
+クラッカーのような極めて薄いパン</original>
+			<edited>小麦粉、塩、水のみで作られた
+クラッカーのような極めて薄いパン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_PorridgeOfSourCream" offset="00" relocatable="true" max_length="0">
+			<original>サワークリーム粥</original>
+			<edited>サワークリーム粥</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_PorridgeOfSourCream" offset="00" relocatable="true" max_length="0">
+			<original>サワークリームと
+小麦粉、ミルクを煮込んだもの
+砂糖と溶かしバターをのせて食べる</original>
+			<edited>サワークリームと
+小麦粉、ミルクを煮込んだもの
+砂糖と溶かしバターをのせて食べる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_CrepePancake" offset="00" relocatable="true" max_length="0">
+			<original>クレープパンケーキ</original>
+			<edited>クレープパンケーキ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_CrepePancake" offset="00" relocatable="true" max_length="0">
+			<original>クレープのように薄く焼いたパンケーキに
+ジャムを塗って巻いたもの</original>
+			<edited>クレープのように薄く焼いたパンケーキに
+ジャムを塗って巻いたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_JamCake" offset="00" relocatable="true" max_length="0">
+			<original>ジャムケーキ</original>
+			<edited>ジャムケーキ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_JamCake" offset="00" relocatable="true" max_length="0">
+			<original>ジャムを塗ったスポンジケーキ</original>
+			<edited>ジャムを塗ったスポンジケーキ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_TreeCake" offset="00" relocatable="true" max_length="0">
+			<original>ツリーケーキ</original>
+			<edited>ツリーケーキ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_TreeCake" offset="00" relocatable="true" max_length="0">
+			<original>メレンゲなどを混ぜた生地をリング状の型で
+大小さまざまなサイズに焼き上げ
+円錐形に積み上げたもの</original>
+			<edited>メレンゲなどを混ぜた生地をリング状の型で
+大小さまざまなサイズに焼き上げ
+円錐形に積み上げたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_FishDumpling" offset="00" relocatable="true" max_length="0">
+			<original>魚肉団子</original>
+			<edited>魚肉団子</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_FishDumpling" offset="00" relocatable="true" max_length="0">
+			<original>白身魚をベースとした生地を
+バターで焼いて煮込んだもの</original>
+			<edited>白身魚をベースとした生地を
+バターで焼いて煮込んだもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_GoatCheese" offset="00" relocatable="true" max_length="0">
+			<original>山羊のチーズ</original>
+			<edited>山羊のチーズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_GoatCheese" offset="00" relocatable="true" max_length="0">
+			<original>山羊の乳100％の茶色いチーズ</original>
+			<edited>山羊の乳100％の茶色いチーズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_Oatmeal" offset="00" relocatable="true" max_length="0">
+			<original>オートミール</original>
+			<edited>オートミール</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_Oatmeal" offset="00" relocatable="true" max_length="0">
+			<original>麦にミルクを入れ、温めたもの</original>
+			<edited>麦にミルクを入れ、温めたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BakedPotatoes" offset="00" relocatable="true" max_length="0">
+			<original>ベイクドポテト</original>
+			<edited>ベイクドポテト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BakedPotatoes" offset="00" relocatable="true" max_length="0">
+			<original>丸ごと焼いた芋を切り開いて
+チーズや豆などをトッピングしたもの</original>
+			<edited>丸ごと焼いた芋を切り開いて
+チーズや豆などをトッピングしたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_NutsCompote" offset="00" relocatable="true" max_length="0">
+			<original>木の実のコンポート</original>
+			<edited>木の実のコンポート</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_NutsCompote" offset="00" relocatable="true" max_length="0">
+			<original>いろいろな木の実を砂糖水で煮詰めたもの</original>
+			<edited>いろいろな木の実を砂糖水で煮詰めたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BoiledEggGroundMeatRolls" offset="00" relocatable="true" max_length="0">
+			<original>ゆで卵のひき肉包み</original>
+			<edited>ゆで卵のひき肉包み</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BoiledEggGroundMeatRolls" offset="00" relocatable="true" max_length="0">
+			<original>茹でた卵を牛ひき肉で包み
+パン粉を付けて揚げたもの</original>
+			<edited>茹でた卵を牛ひき肉で包み
+パン粉を付けて揚げたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_CurryOfChickenAndTomato" offset="00" relocatable="true" max_length="0">
+			<original>鶏肉とトマトのカレー</original>
+			<edited>鶏肉とトマトのカレー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_CurryOfChickenAndTomato" offset="00" relocatable="true" max_length="0">
+			<original>焼いた鶏肉をトマトとクリームがベースの
+カレーソースで煮込んだもの</original>
+			<edited>焼いた鶏肉をトマトとクリームがベースの
+カレーソースで煮込んだもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_StewedSheep" offset="00" relocatable="true" max_length="0">
+			<original>羊の袋詰め煮込み</original>
+			<edited>羊の袋詰め煮込み</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_StewedSheep" offset="00" relocatable="true" max_length="0">
+			<original>羊の内臓とタマネギやハーブなどを
+羊の胃袋に詰め、それを煮たもの</original>
+			<edited>羊の内臓とタマネギやハーブなどを
+羊の胃袋に詰め、それを煮たもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_CrumbleCake" offset="00" relocatable="true" max_length="0">
+			<original>クランブルケーキ</original>
+			<edited>クランブルケーキ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_CrumbleCake" offset="00" relocatable="true" max_length="0">
+			<original>小麦粉、バター、砂糖でできた生地を
+煮た果物に上から被せて焼いたもの</original>
+			<edited>小麦粉、バター、砂糖でできた生地を
+煮た果物に上から被せて焼いたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_MarinatedOnionAndHerring" offset="00" relocatable="true" max_length="0">
+			<original>ニシンとタマネギのマリネ</original>
+			<edited>ニシンとタマネギのマリネ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_MarinatedOnionAndHerring" offset="00" relocatable="true" max_length="0">
+			<original>ニシンをタマネギと共に
+酢と砂糖に漬け浸したもの</original>
+			<edited>ニシンをタマネギと共に
+酢と砂糖に漬け浸したもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BakedPie" offset="00" relocatable="true" max_length="0">
+			<original>包み焼きパイ</original>
+			<edited>包み焼きパイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BakedPie" offset="00" relocatable="true" max_length="0">
+			<original>ひき肉、タマネギ、芋などを
+パイに包んで焼き上げたもの</original>
+			<edited>ひき肉、タマネギ、芋などを
+パイに包んで焼き上げたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_NutsMilkPie" offset="00" relocatable="true" max_length="0">
+			<original>木の実のミルクパイ</original>
+			<edited>木の実のミルクパイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_NutsMilkPie" offset="00" relocatable="true" max_length="0">
+			<original>薄く揚げた生地に揚げた木の実と
+そのままの木の実を砕いて作った
+シロップソースを挟んで層状にしたもの</original>
+			<edited>薄く揚げた生地に揚げた木の実と
+そのままの木の実を砕いて作った
+シロップソースを挟んで層状にしたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_NutsRicePudding" offset="00" relocatable="true" max_length="0">
+			<original>木の実のライスプディング</original>
+			<edited>木の実のライスプディング</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_NutsRicePudding" offset="00" relocatable="true" max_length="0">
+			<original>木の実を砕いて作ったシロップとミルクで
+米を煮込んだもの</original>
+			<edited>木の実を砕いて作ったシロップとミルクで
+米を煮込んだもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_DomeBread" offset="00" relocatable="true" max_length="0">
+			<original>ドームパン</original>
+			<edited>ドームパン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_DomeBread" offset="00" relocatable="true" max_length="0">
+			<original>乾燥させて刻んだ果物を
+生地の中に複数混ぜ込んで焼き上げた
+ドーム型の菓子パン</original>
+			<edited>乾燥させて刻んだ果物を
+生地の中に複数混ぜ込んで焼き上げた
+ドーム型の菓子パン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_ColdVegetableSoup" offset="00" relocatable="true" max_length="0">
+			<original>野菜の冷製スープ</original>
+			<edited>野菜の冷製スープ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_ColdVegetableSoup" offset="00" relocatable="true" max_length="0">
+			<original>いろいろな野菜と水、リンゴなどを
+まとめて細かくして混ぜたもの</original>
+			<edited>いろいろな野菜と水、リンゴなどを
+まとめて細かくして混ぜたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_RawHam" offset="00" relocatable="true" max_length="0">
+			<original>生ハム</original>
+			<edited>生ハム</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_RawHam" offset="00" relocatable="true" max_length="0">
+			<original>高級な豚肉を使った生ハム</original>
+			<edited>高級な豚肉を使った生ハム</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_SkeweredMeat" offset="00" relocatable="true" max_length="0">
+			<original>肉の串焼き</original>
+			<edited>肉の串焼き</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_SkeweredMeat" offset="00" relocatable="true" max_length="0">
+			<original>スパイスや油に漬け込んだいろいろな肉を
+串焼きにしたもの</original>
+			<edited>スパイスや油に漬け込んだいろいろな肉を
+串焼きにしたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_Paella" offset="00" relocatable="true" max_length="0">
+			<original>パエリア</original>
+			<edited>パエリア</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_Paella" offset="00" relocatable="true" max_length="0">
+			<original>野菜と魚介類などから出たスープと共に
+米を炊き込んだもの</original>
+			<edited>野菜と魚介類などから出たスープと共に
+米を炊き込んだもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_StewedBaconAndBeans" offset="00" relocatable="true" max_length="0">
+			<original>肉団子と豆の煮込み</original>
+			<edited>肉団子と豆の煮込み</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_StewedBaconAndBeans" offset="00" relocatable="true" max_length="0">
+			<original>肉団子と豆を
+タマネギなどと共に煮込んだもの</original>
+			<edited>肉団子と豆を
+タマネギなどと共に煮込んだもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_Tiramisu" offset="00" relocatable="true" max_length="0">
+			<original>ティラミス</original>
+			<edited>ティラミス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_Tiramisu" offset="00" relocatable="true" max_length="0">
+			<original>エスプレッソを染み込ませたビスケットを
+敷き詰め、特製クリームを流し込むのを
+何層か繰り返して冷やし固めたもの</original>
+			<edited>エスプレッソを染み込ませたビスケットを
+敷き詰め、特製クリームを流し込むのを
+何層か繰り返して冷やし固めたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BerrySaucePannaCotta" offset="00" relocatable="true" max_length="0">
+			<original>ベリーソースパンナコッタ</original>
+			<edited>ベリーソースパンナコッタ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BerrySaucePannaCotta" offset="00" relocatable="true" max_length="0">
+			<original>柔らかくしたゼラチンと砂糖やバニラなどを
+加えた温かいクリームを型に流し込んで固め
+ベリーソースをかけたもの</original>
+			<edited>柔らかくしたゼラチンと砂糖やバニラなどを
+加えた温かいクリームを型に流し込んで固め
+ベリーソースをかけたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_SeafoodAjillo" offset="00" relocatable="true" max_length="0">
+			<original>魚介のアヒージョ</original>
+			<edited>魚介のアヒージョ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_SeafoodAjillo" offset="00" relocatable="true" max_length="0">
+			<original>いろいろな海の幸を
+オリーブオイルとニンニクで煮込んだもの</original>
+			<edited>いろいろな海の幸を
+オリーブオイルとニンニクで煮込んだもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_FriedSardines" offset="00" relocatable="true" max_length="0">
+			<original>イワシのから揚げ</original>
+			<edited>イワシのから揚げ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_FriedSardines" offset="00" relocatable="true" max_length="0">
+			<original>小さいイワシを
+オリーブオイルで丸ごと揚げたもの</original>
+			<edited>小さいイワシを
+オリーブオイルで丸ごと揚げたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_FriedVegetables" offset="00" relocatable="true" max_length="0">
+			<original>野菜炒め</original>
+			<edited>野菜炒め</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_FriedVegetables" offset="00" relocatable="true" max_length="0">
+			<original>ニンニクと共に野菜を炒めたもの</original>
+			<edited>ニンニクと共に野菜を炒めたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BoiledTomatoesInVinegar" offset="00" relocatable="true" max_length="0">
+			<original>トマトの甘酢煮</original>
+			<edited>トマトの甘酢煮</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BoiledTomatoesInVinegar" offset="00" relocatable="true" max_length="0">
+			<original>トマトをタマネギやスパイスなどと共に
+甘酢で煮込んだもの</original>
+			<edited>トマトをタマネギやスパイスなどと共に
+甘酢で煮込んだもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_CremeBrulee" offset="00" relocatable="true" max_length="0">
+			<original>クレームブリュレ</original>
+			<edited>クレームブリュレ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_CremeBrulee" offset="00" relocatable="true" max_length="0">
+			<original>冷やしたカスタードの上に砂糖をまぶし
+火で炙って、カラメルの層を作ったもの</original>
+			<edited>冷やしたカスタードの上に砂糖をまぶし
+火で炙って、カラメルの層を作ったもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_Churro" offset="00" relocatable="true" max_length="0">
+			<original>チュロス</original>
+			<edited>チュロス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_Churro" offset="00" relocatable="true" max_length="0">
+			<original>生地を星型の搾り器から搾り出して油で揚げ
+砂糖や蜂蜜などをまとわせたもの</original>
+			<edited>生地を星型の搾り器から搾り出して油で揚げ
+砂糖や蜂蜜などをまとわせたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_SoftCandy" offset="00" relocatable="true" max_length="0">
+			<original>ソフトキャンディ</original>
+			<edited>ソフトキャンディ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_SoftCandy" offset="00" relocatable="true" max_length="0">
+			<original>木の実などと砂糖やメレンゲを混ぜ合わせ
+型に入れて冷やし固めたもの</original>
+			<edited>木の実などと砂糖やメレンゲを混ぜ合わせ
+型に入れて冷やし固めたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_AuthenticPizza" offset="00" relocatable="true" max_length="0">
+			<original>本場のピッツァ</original>
+			<edited>本場のピッツァ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_AuthenticPizza" offset="00" relocatable="true" max_length="0">
+			<original>平たく伸ばした生地にトマトソースと
+チーズとバジルの葉をのせたもの</original>
+			<edited>平たく伸ばした生地にトマトソースと
+チーズとバジルの葉をのせたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_Risotto" offset="00" relocatable="true" max_length="0">
+			<original>リゾット</original>
+			<edited>リゾット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_Risotto" offset="00" relocatable="true" max_length="0">
+			<original>バターで炒めた米にスープと
+スパイスを加えて炊いたもの</original>
+			<edited>バターで炒めた米にスープと
+スパイスを加えて炊いたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_RiceCroquette" offset="00" relocatable="true" max_length="0">
+			<original>ライスコロッケ</original>
+			<edited>ライスコロッケ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_RiceCroquette" offset="00" relocatable="true" max_length="0">
+			<original>湯炊きした米に溶き卵と
+チーズ、塩、コショウを混ぜ
+パン粉をまぶして揚げたもの</original>
+			<edited>湯炊きした米に溶き卵と
+チーズ、塩、コショウを混ぜ
+パン粉をまぶして揚げたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_RosettaBread" offset="00" relocatable="true" max_length="0">
+			<original>ロゼッタパン</original>
+			<edited>ロゼッタパン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_RosettaBread" offset="00" relocatable="true" max_length="0">
+			<original>バラのような形をしたパン
+中が空洞で外皮がカリカリして香ばしい</original>
+			<edited>バラのような形をしたパン
+中が空洞で外皮がカリカリして香ばしい</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_AcquaPazza" offset="00" relocatable="true" max_length="0">
+			<original>アクアパッツァ</original>
+			<edited>アクアパッツァ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_AcquaPazza" offset="00" relocatable="true" max_length="0">
+			<original>魚介類をトマトやオリーブオイルなどと
+共に煮込んだもの</original>
+			<edited>魚介類をトマトやオリーブオイルなどと
+共に煮込んだもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_VealRoll" offset="00" relocatable="true" max_length="0">
+			<original>仔牛肉巻き</original>
+			<edited>仔牛肉巻き</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_VealRoll" offset="00" relocatable="true" max_length="0">
+			<original>薄く切った生の牛ヒレ肉で
+チーズやソースなどを巻いて焼いたもの</original>
+			<edited>薄く切った生の牛ヒレ肉で
+チーズやソースなどを巻いて焼いたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_SaltedPorkNeck" offset="00" relocatable="true" max_length="0">
+			<original>豚トロの塩漬け</original>
+			<edited>豚トロの塩漬け</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_SaltedPorkNeck" offset="00" relocatable="true" max_length="0">
+			<original>塩漬けにした豚トロをハーブと共に焼き
+薄く切って盛り付けたもの</original>
+			<edited>塩漬けにした豚トロをハーブと共に焼き
+薄く切って盛り付けたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BloodBoiledSausage" offset="00" relocatable="true" max_length="0">
+			<original>血のボイルソーセージ</original>
+			<edited>血のボイルソーセージ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BloodBoiledSausage" offset="00" relocatable="true" max_length="0">
+			<original>血液を加えて作ったソーセージを茹でたもの</original>
+			<edited>血液を加えて作ったソーセージを茹でたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_PotatoMeatBun" offset="00" relocatable="true" max_length="0">
+			<original>ポテト肉まん</original>
+			<edited>ポテト肉まん</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_PotatoMeatBun" offset="00" relocatable="true" max_length="0">
+			<original>豚肉とタマネギを
+芋で作った生地で包んだもの</original>
+			<edited>豚肉とタマネギを
+芋で作った生地で包んだもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_Cocotte" offset="00" relocatable="true" max_length="0">
+			<original>ココット</original>
+			<edited>ココット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_Cocotte" offset="00" relocatable="true" max_length="0">
+			<original>芋や魚とクリームをココット皿に入れて
+オーブンで焼いたもの</original>
+			<edited>芋や魚とクリームをココット皿に入れて
+オーブンで焼いたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_GreenPeasMash" offset="00" relocatable="true" max_length="0">
+			<original>グリーンピースマッシュ</original>
+			<edited>グリーンピースマッシュ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_GreenPeasMash" offset="00" relocatable="true" max_length="0">
+			<original>グリーンピースに
+ミルクやバターなどを加えて潰したもの</original>
+			<edited>グリーンピースに
+ミルクやバターなどを加えて潰したもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_SandwichCake" offset="00" relocatable="true" max_length="0">
+			<original>サンドイッチケーキ</original>
+			<edited>サンドイッチケーキ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_SandwichCake" offset="00" relocatable="true" max_length="0">
+			<original>魚の切り身を丸めて花に見立て
+ケーキのようにデコレーションされた
+サンドイッチ</original>
+			<edited>魚の切り身を丸めて花に見立て
+ケーキのようにデコレーションされた
+サンドイッチ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_RoastedSalmon" offset="00" relocatable="true" max_length="0">
+			<original>ローストサーモン</original>
+			<edited>ローストサーモン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_RoastedSalmon" offset="00" relocatable="true" max_length="0">
+			<original>サケに下味をつけて、オーブンで焼いたもの</original>
+			<edited>サケに下味をつけて、オーブンで焼いたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_StewedMashedPotatoesAndKale" offset="00" relocatable="true" max_length="0">
+			<original>マッシュポテトとハーブの煮込み</original>
+			<edited>マッシュポテトとハーブの煮込み</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_StewedMashedPotatoesAndKale" offset="00" relocatable="true" max_length="0">
+			<original>潰した芋に
+ハーブとミルクを加えて煮込んだもの</original>
+			<edited>潰した芋に
+ハーブとミルクを加えて煮込んだもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_SalmonAndPotatoGratin" offset="00" relocatable="true" max_length="0">
+			<original>サケと芋のグラタン</original>
+			<edited>サケと芋のグラタン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_SalmonAndPotatoGratin" offset="00" relocatable="true" max_length="0">
+			<original>塩漬けのサケと芋を重ね
+混ぜた卵とミルクをかけて
+オーブンで焼いたもの</original>
+			<edited>塩漬けのサケと芋を重ね
+混ぜた卵とミルクをかけて
+オーブンで焼いたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_ShamrockSalad" offset="00" relocatable="true" max_length="0">
+			<original>シャムロックサラダ</original>
+			<edited>シャムロックサラダ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_ShamrockSalad" offset="00" relocatable="true" max_length="0">
+			<original>盛りつけたシャムロックに
+オリーブオイルや酢をかけたもの</original>
+			<edited>盛りつけたシャムロックに
+オリーブオイルや酢をかけたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BaconAndFishWrappedBread" offset="00" relocatable="true" max_length="0">
+			<original>ベーコンと魚の包みパン</original>
+			<edited>ベーコンと魚の包みパン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BaconAndFishWrappedBread" offset="00" relocatable="true" max_length="0">
+			<original>ベーコンと魚の塩漬けを幾層にも重ね
+ライ麦粉で練り上げた生地で包み
+オーブンで焼き上げたもの</original>
+			<edited>ベーコンと魚の塩漬けを幾層にも重ね
+ライ麦粉で練り上げた生地で包み
+オーブンで焼き上げたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_JamCookies" offset="00" relocatable="true" max_length="0">
+			<original>ジャムクッキー</original>
+			<edited>ジャムクッキー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_JamCookies" offset="00" relocatable="true" max_length="0">
+			<original>クッキーの中央にくぼみを作り
+ジャムを入れてオーブンで焼いたもの</original>
+			<edited>クッキーの中央にくぼみを作り
+ジャムを入れてオーブンで焼いたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_CinnamonRoll" offset="00" relocatable="true" max_length="0">
+			<original>シナモンロール</original>
+			<edited>シナモンロール</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_CinnamonRoll" offset="00" relocatable="true" max_length="0">
+			<original>伸ばした生地にバターを塗り
+シナモンと砂糖を振りかけて巻きこみ
+オーブンで焼き上げたもの</original>
+			<edited>伸ばした生地にバターを塗り
+シナモンと砂糖を振りかけて巻きこみ
+オーブンで焼き上げたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_CabbageAndNutSalad" offset="00" relocatable="true" max_length="0">
+			<original>キャベツと木の実のサラダ</original>
+			<edited>キャベツと木の実のサラダ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_CabbageAndNutSalad" offset="00" relocatable="true" max_length="0">
+			<original>キャベツと木の実に
+ドレッシングをあらかじめ加えたもの</original>
+			<edited>キャベツと木の実に
+ドレッシングをあらかじめ加えたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_OpenSandwich" offset="00" relocatable="true" max_length="0">
+			<original>オープンサンド</original>
+			<edited>オープンサンド</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_OpenSandwich" offset="00" relocatable="true" max_length="0">
+			<original>薄く切ったライ麦パンにバターを塗り
+チーズやスモークサーモンなどを
+パンが見えないほど盛りつけたもの</original>
+			<edited>薄く切ったライ麦パンにバターを塗り
+チーズやスモークサーモンなどを
+パンが見えないほど盛りつけたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_AppleCharlotte" offset="00" relocatable="true" max_length="0">
+			<original>リンゴのシャルロット</original>
+			<edited>リンゴのシャルロット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_AppleCharlotte" offset="00" relocatable="true" max_length="0">
+			<original>ビスケットで作った器にクリームを入れ
+煮込んだリンゴのスライスを冷やして
+クリームの上に綺麗に並べたもの</original>
+			<edited>ビスケットで作った器にクリームを入れ
+煮込んだリンゴのスライスを冷やして
+クリームの上に綺麗に並べたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_MochiPancake" offset="00" relocatable="true" max_length="0">
+			<original>もっちりパンケーキ</original>
+			<edited>もっちりパンケーキ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_MochiPancake" offset="00" relocatable="true" max_length="0">
+			<original>卵、小麦粉、ミルクなどの生地を
+天板に流し込んでじっくり焼き上げたもの</original>
+			<edited>卵、小麦粉、ミルクなどの生地を
+天板に流し込んでじっくり焼き上げたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_SauteedBaconAndApples" offset="00" relocatable="true" max_length="0">
+			<original>ベーコンとリンゴのソテー</original>
+			<edited>ベーコンとリンゴのソテー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_SauteedBaconAndApples" offset="00" relocatable="true" max_length="0">
+			<original>細かく切った豚バラ肉を焼いて
+フライパンに少量の油をひき
+高温で焼いたリンゴと合わせたもの</original>
+			<edited>細かく切った豚バラ肉を焼いて
+フライパンに少量の油をひき
+高温で焼いたリンゴと合わせたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BerryJelly" offset="00" relocatable="true" max_length="0">
+			<original>ベリーのゼリー</original>
+			<edited>ベリーのゼリー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BerryJelly" offset="00" relocatable="true" max_length="0">
+			<original>ベリージュースに
+片栗粉でとろみをつけて冷まし
+生クリームをトッピングしたもの</original>
+			<edited>ベリージュースに
+片栗粉でとろみをつけて冷まし
+生クリームをトッピングしたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BakingSodaBread" offset="00" relocatable="true" max_length="0">
+			<original>重曹パン</original>
+			<edited>重曹パン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BakingSodaBread" offset="00" relocatable="true" max_length="0">
+			<original>イースト菌の代わりに
+重曹を用いて作ったパン</original>
+			<edited>イースト菌の代わりに
+重曹を用いて作ったパン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_SashimiPlatter" offset="00" relocatable="true" max_length="0">
+			<original>刺身の盛り合わせ</original>
+			<edited>刺身の盛り合わせ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_SashimiPlatter" offset="00" relocatable="true" max_length="0">
+			<original>生魚を短冊状に切って盛り付けたもの</original>
+			<edited>生魚を短冊状に切って盛り付けたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_MisoSoup" offset="00" relocatable="true" max_length="0">
+			<original>味噌汁</original>
+			<edited>味噌汁</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_MisoSoup" offset="00" relocatable="true" max_length="0">
+			<original>大豆や麦などに塩と麹を加えて
+発酵させたものをお湯で溶かし
+豆腐や海藻などを入れたもの</original>
+			<edited>大豆や麦などに塩と麹を加えて
+発酵させたものをお湯で溶かし
+豆腐や海藻などを入れたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_Uiro" offset="00" relocatable="true" max_length="0">
+			<original>ういろう</original>
+			<edited>ういろう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_Uiro" offset="00" relocatable="true" max_length="0">
+			<original>小麦粉や薄力粉などに砂糖を加えて
+それを蒸して固めたもの</original>
+			<edited>小麦粉や薄力粉などに砂糖を加えて
+それを蒸して固めたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_Anmitsu" offset="00" relocatable="true" max_length="0">
+			<original>あんみつ</original>
+			<edited>あんみつ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_Anmitsu" offset="00" relocatable="true" max_length="0">
+			<original>小豆や四角く切った寒天
+モモやオレンジなどを盛りつけ
+黒蜜をかけたもの</original>
+			<edited>小豆や四角く切った寒天
+モモやオレンジなどを盛りつけ
+黒蜜をかけたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_EggOverRice" offset="00" relocatable="true" max_length="0">
+			<original>卵かけご飯</original>
+			<edited>卵かけご飯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_EggOverRice" offset="00" relocatable="true" max_length="0">
+			<original>炊いた米に生卵と醤油をかけたもの</original>
+			<edited>炊いた米に生卵と醤油をかけたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_CountrysideBread" offset="00" relocatable="true" max_length="0">
+			<original>田舎パン</original>
+			<edited>田舎パン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_CountrysideBread" offset="00" relocatable="true" max_length="0">
+			<original>ライ麦粉と塩、水のみを使って作る
+大きい楕円形のパン</original>
+			<edited>ライ麦粉と塩、水のみを使って作る
+大きい楕円形のパン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_Croissant" offset="00" relocatable="true" max_length="0">
+			<original>クロワッサン</original>
+			<edited>クロワッサン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_Croissant" offset="00" relocatable="true" max_length="0">
+			<original>バターを生地に挟んで折りたたむことを
+繰り返した生地を巻いて、三日月形に成形し
+焼き上げた特徴的な形のパン</original>
+			<edited>バターを生地に挟んで折りたたむことを
+繰り返した生地を巻いて、三日月形に成形し
+焼き上げた特徴的な形のパン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_StewedLambMeat" offset="00" relocatable="true" max_length="0">
+			<original>羊肉の煮込み</original>
+			<edited>羊肉の煮込み</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_StewedLambMeat" offset="00" relocatable="true" max_length="0">
+			<original>羊肉を炒め、芋やタマネギと煮込んだもの</original>
+			<edited>羊肉を炒め、芋やタマネギと煮込んだもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_StewedVegetables" offset="00" relocatable="true" max_length="0">
+			<original>野菜たっぷり煮込み</original>
+			<edited>野菜たっぷり煮込み</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_StewedVegetables" offset="00" relocatable="true" max_length="0">
+			<original>いろいろな野菜を
+たっぷり入れて煮込んだスープ</original>
+			<edited>いろいろな野菜を
+たっぷり入れて煮込んだスープ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_CodDip" offset="00" relocatable="true" max_length="0">
+			<original>タラのディップ</original>
+			<edited>タラのディップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_CodDip" offset="00" relocatable="true" max_length="0">
+			<original>タラに、ミルクと一緒に煮た芋を加え
+ペースト状にすり潰したもの
+薄味のクラッカーなどにつけて食べる</original>
+			<edited>タラに、ミルクと一緒に煮た芋を加え
+ペースト状にすり潰したもの
+薄味のクラッカーなどにつけて食べる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_HotCrepe" offset="00" relocatable="true" max_length="0">
+			<original>ホットクレープ</original>
+			<edited>ホットクレープ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_HotCrepe" offset="00" relocatable="true" max_length="0">
+			<original>果物のジュースを使って
+クレープを香りづけしたもの</original>
+			<edited>果物のジュースを使って
+クレープを香りづけしたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BerryAndCustardTartCake" offset="00" relocatable="true" max_length="0">
+			<original>ベリーとカスタードのタルトケーキ</original>
+			<edited>ベリーとカスタードのタルトケーキ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BerryAndCustardTartCake" offset="00" relocatable="true" max_length="0">
+			<original>タルト生地にカスタードと
+ダークベリーのジャムをはさんで焼いたもの</original>
+			<edited>タルト生地にカスタードと
+ダークベリーのジャムをはさんで焼いたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_PeachSorbet" offset="00" relocatable="true" max_length="0">
+			<original>モモのシャーベット</original>
+			<edited>モモのシャーベット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_PeachSorbet" offset="00" relocatable="true" max_length="0">
+			<original>すり潰したモモの果汁を凍結させたもの</original>
+			<edited>すり潰したモモの果汁を凍結させたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_AppleBeignet" offset="00" relocatable="true" max_length="0">
+			<original>リンゴのベニエ</original>
+			<edited>リンゴのベニエ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_AppleBeignet" offset="00" relocatable="true" max_length="0">
+			<original>リンゴをシュー生地に入れて油で揚げ
+砂糖をまぶしたもの</original>
+			<edited>リンゴをシュー生地に入れて油で揚げ
+砂糖をまぶしたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_OrangeChocolate" offset="00" relocatable="true" max_length="0">
+			<original>オレンジチョコ</original>
+			<edited>オレンジチョコ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_OrangeChocolate" offset="00" relocatable="true" max_length="0">
+			<original>砂糖に漬けて煮込んだオレンジを
+オーブンで焼き、冷ました後
+チョコレートでコーティングしたもの</original>
+			<edited>砂糖に漬けて煮込んだオレンジを
+オーブンで焼き、冷ました後
+チョコレートでコーティングしたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_FruitCandy" offset="00" relocatable="true" max_length="0">
+			<original>フルーツ飴</original>
+			<edited>フルーツ飴</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_FruitCandy" offset="00" relocatable="true" max_length="0">
+			<original>シロップや飴などで
+果物を丸ごとコーティングし
+手で持つための棒を取り付けたもの</original>
+			<edited>シロップや飴などで
+果物を丸ごとコーティングし
+手で持つための棒を取り付けたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_Smoothie" offset="00" relocatable="true" max_length="0">
+			<original>スムージー</original>
+			<edited>スムージー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_Smoothie" offset="00" relocatable="true" max_length="0">
+			<original>いろいろな果物を
+まとめてすり潰した飲み物</original>
+			<edited>いろいろな果物を
+まとめてすり潰した飲み物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_AppleCanpot" offset="00" relocatable="true" max_length="0">
+			<original>リンゴのカンポット</original>
+			<edited>リンゴのカンポット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_AppleCanpot" offset="00" relocatable="true" max_length="0">
+			<original>リンゴを多量の水と砂糖で煮込み
+出汁だけをコップに移して飲むもの
+冷やして飲むこともある</original>
+			<edited>リンゴを多量の水と砂糖で煮込み
+出汁だけをコップに移して飲むもの
+冷やして飲むこともある</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_OrangeMarmalade" offset="00" relocatable="true" max_length="0">
+			<original>オレンジマーマレード</original>
+			<edited>オレンジマーマレード</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_OrangeMarmalade" offset="00" relocatable="true" max_length="0">
+			<original>オレンジを皮ごと煮込んだもの
+薄味のクラッカーなどにつけて食べる</original>
+			<edited>オレンジを皮ごと煮込んだもの
+薄味のクラッカーなどにつけて食べる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_VegetableStick" offset="00" relocatable="true" max_length="0">
+			<original>野菜スティック</original>
+			<edited>野菜スティック</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_VegetableStick" offset="00" relocatable="true" max_length="0">
+			<original>いろいろな野菜を棒状に切ったもの
+マヨネーズなどのソースにつけて食べる</original>
+			<edited>いろいろな野菜を棒状に切ったもの
+マヨネーズなどのソースにつけて食べる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_ChiliSalad" offset="00" relocatable="true" max_length="0">
+			<original>チリサラダ</original>
+			<edited>チリサラダ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_ChiliSalad" offset="00" relocatable="true" max_length="0">
+			<original>大量のスパイスを使って作った
+チリソースをかけたサラダ
+とても辛い</original>
+			<edited>大量のスパイスを使って作った
+チリソースをかけたサラダ
+とても辛い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_ChiliFruitStick" offset="00" relocatable="true" max_length="0">
+			<original>チリがけフルーツ棒</original>
+			<edited>チリがけフルーツ棒</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_ChiliFruitStick" offset="00" relocatable="true" max_length="0">
+			<original>切った生の果物に棒をさし
+大量のスパイス粉末をまぶしたもの
+とても辛い</original>
+			<edited>切った生の果物に棒をさし
+大量のスパイス粉末をまぶしたもの
+とても辛い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_ChiliIceCream" offset="00" relocatable="true" max_length="0">
+			<original>チリソースがけアイス</original>
+			<edited>チリソースがけアイス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_ChiliIceCream" offset="00" relocatable="true" max_length="0">
+			<original>アイスにチリソースをかけたもの
+初めは甘いが途中からは体が熱くなるほど
+とても辛い</original>
+			<edited>アイスにチリソースをかけたもの
+初めは甘いが途中からは体が熱くなるほど
+とても辛い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_RedPepperPickles" offset="00" relocatable="true" max_length="0">
+			<original>唐辛子ピクルス</original>
+			<edited>唐辛子ピクルス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_RedPepperPickles" offset="00" relocatable="true" max_length="0">
+			<original>唐辛子をそのまま酢漬けにしたもの
+とても辛い</original>
+			<edited>唐辛子をそのまま酢漬けにしたもの
+とても辛い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_TomYumSoupWithChicken" offset="00" relocatable="true" max_length="0">
+			<original>鶏入りトムヤムスープ</original>
+			<edited>鶏入りトムヤムスープ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_TomYumSoupWithChicken" offset="00" relocatable="true" max_length="0">
+			<original>スパイスをチキンスープで煮たもの
+複雑な香りや酸味と辛みが特徴
+とても辛い</original>
+			<edited>スパイスをチキンスープで煮たもの
+複雑な香りや酸味と辛みが特徴
+とても辛い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BoiledChiliWithCheese" offset="00" relocatable="true" max_length="0">
+			<original>唐辛子のチーズ煮込み</original>
+			<edited>唐辛子のチーズ煮込み</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BoiledChiliWithCheese" offset="00" relocatable="true" max_length="0">
+			<original>唐辛子と水、チーズを入れて煮た後に
+トマトやニンニクなどを入れ
+さらに煮たもの とても辛い</original>
+			<edited>唐辛子と水、チーズを入れて煮た後に
+トマトやニンニクなどを入れ
+さらに煮たもの とても辛い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_RedMaboTofu" offset="00" relocatable="true" max_length="0">
+			<original>赤い麻婆豆腐</original>
+			<edited>赤い麻婆豆腐</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_RedMaboTofu" offset="00" relocatable="true" max_length="0">
+			<original>唐辛子などのスパイスと牛ひき肉を
+合わせて炒め豆腐を入れて、盛りつけたもの
+とても辛い</original>
+			<edited>唐辛子などのスパイスと牛ひき肉を
+合わせて炒め豆腐を入れて、盛りつけたもの
+とても辛い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_FriedPorkKimchi" offset="00" relocatable="true" max_length="0">
+			<original>豚キムチ炒め</original>
+			<edited>豚キムチ炒め</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_FriedPorkKimchi" offset="00" relocatable="true" max_length="0">
+			<original>唐辛子などのスパイスを合わせたタレに数日
+漬け込んだ野菜と豚肉を一緒に炒めたもの
+とても辛い</original>
+			<edited>唐辛子などのスパイスを合わせたタレに数日
+漬け込んだ野菜と豚肉を一緒に炒めたもの
+とても辛い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_COND_ComeFromBrodia" offset="00" relocatable="true" max_length="0">
+			<original>ブロディア出身</original>
+			<edited>ブロディア出身</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_COND_ComeFromFilene" offset="00" relocatable="true" max_length="0">
+			<original>フィレネ出身</original>
+			<edited>フィレネ出身</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_COND_ComeFromSolum" offset="00" relocatable="true" max_length="0">
+			<original>ソルム出身</original>
+			<edited>ソルム出身</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_COND_ComeFromIrcion" offset="00" relocatable="true" max_length="0">
+			<original>イルシオン出身</original>
+			<edited>イルシオン出身</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_COND_ComeFromLithos" offset="00" relocatable="true" max_length="0">
+			<original>リトス出身</original>
+			<edited>リトス出身</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_COND_IsMale" offset="00" relocatable="true" max_length="0">
+			<original>男性</original>
+			<edited>男性</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_COND_IsFemale" offset="00" relocatable="true" max_length="0">
+			<original>女性</original>
+			<edited>女性</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_COND_IsAdult" offset="00" relocatable="true" max_length="0">
+			<original>大人</original>
+			<edited>大人</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_COND_IsChild" offset="00" relocatable="true" max_length="0">
+			<original>子供</original>
+			<edited>子供</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_COND_IsLueur" offset="00" relocatable="true" max_length="0">
+			<original>主人公</original>
+			<edited>主人公</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

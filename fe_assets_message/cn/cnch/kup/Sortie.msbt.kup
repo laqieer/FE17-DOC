@@ -1,0 +1,667 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_SORTIE_START" offset="00" relocatable="true" max_length="0">
+			<original>开始战斗</original>
+			<edited>开始战斗</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_START_HELP" offset="00" relocatable="true" max_length="0">
+			<original>准备完毕后出击。</original>
+			<edited>准备完毕后出击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_START_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>是否开始战斗？</original>
+			<edited>是否开始战斗？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_START_CONFIRM_YES" offset="00" relocatable="true" max_length="0">
+			<original>开始</original>
+			<edited>开始</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_BACK" offset="00" relocatable="true" max_length="0">
+			<original>返回</original>
+			<edited>返回</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SELECT_UNIT" offset="00" relocatable="true" max_length="0">
+			<original>编组单位</original>
+			<edited>编组单位</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SELECT_UNIT_SELECT" offset="00" relocatable="true" max_length="0">
+			<original>请选择单位。</original>
+			<edited>请选择单位。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SELECT_UNIT_HELP" offset="00" relocatable="true" max_length="0">
+			<original>选择要出击的我方单位。</original>
+			<edited>选择要出击的我方单位。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_EQUIP_GOD" offset="00" relocatable="true" max_length="0">
+			<original>纹章士戒指&#xE;&#x1;&#x8;&#x0;</original>
+			<edited>纹章士戒指&#xE;&#x1;&#x8;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_EQUIP_GOD_HELP" offset="00" relocatable="true" max_length="0">
+			<original>更换纹章士戒指&#xE;&#x1;&#x8;&#x0;。</original>
+			<edited>更换纹章士戒指&#xE;&#x1;&#x8;&#x0;。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_INVENTORY" offset="00" relocatable="true" max_length="0">
+			<original>整备</original>
+			<edited>整备</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_INVENTORY_HELP" offset="00" relocatable="true" max_length="0">
+			<original>整理持有物品或装备特技。</original>
+			<edited>整理持有物品或装备特技。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CHANGE_POSITION" offset="00" relocatable="true" max_length="0">
+			<original>更改配置</original>
+			<edited>更改配置</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CHANGE_POSITION_HELP" offset="00" relocatable="true" max_length="0">
+			<original>更改我方单位配置及确认战况。</original>
+			<edited>更改我方单位配置及确认战况。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SHOP" offset="00" relocatable="true" max_length="0">
+			<original>商店</original>
+			<edited>商店</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SHOP_HELP" offset="00" relocatable="true" max_length="0">
+			<original>购买武器及道具。</original>
+			<edited>购买武器及道具。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_WEAPON_SHOP" offset="00" relocatable="true" max_length="0">
+			<original>武器店</original>
+			<edited>武器店</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_H_WEAPON_SHOP" offset="00" relocatable="true" max_length="0">
+			<original>购买武器。</original>
+			<edited>购买武器。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ITEM_SHOP" offset="00" relocatable="true" max_length="0">
+			<original>道具店</original>
+			<edited>道具店</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_H_ITEM_SHOP" offset="00" relocatable="true" max_length="0">
+			<original>购买道具。</original>
+			<edited>购买道具。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_RELIANCE" offset="00" relocatable="true" max_length="0">
+			<original>支援对话</original>
+			<edited>支援对话</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_RELIANCE_UNIT_SELECT" offset="00" relocatable="true" max_length="0">
+			<original>请选择对象。</original>
+			<edited>请选择对象。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_RELIANCE_NONE" offset="00" relocatable="true" max_length="0">
+			<original>无支援对象。</original>
+			<edited>无支援对象。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_BONDS_RELIANCE" offset="00" relocatable="true" max_length="0">
+			<original>牵绊对话</original>
+			<edited>牵绊对话</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_BONDS_RELIANCE_NONE" offset="00" relocatable="true" max_length="0">
+			<original>无纹章士。</original>
+			<edited>无纹章士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_RELIANCE_ATTENTION" offset="00" relocatable="true" max_length="0">
+			<original>可在据点或世界地图进行牵绊对话及支援对话。</original>
+			<edited>可在据点或世界地图进行牵绊对话及支援对话。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SAVE" offset="00" relocatable="true" max_length="0">
+			<original>保存</original>
+			<edited>保存</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SAVE_HELP" offset="00" relocatable="true" max_length="0">
+			<original>保存当前进度。</original>
+			<edited>保存当前进度。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_BACK_CONFIRM_HELP" offset="00" relocatable="true" max_length="0">
+			<original>回到世界地图。</original>
+			<edited>回到世界地图。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_BACK_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>是否返回世界地图？</original>
+			<edited>是否返回世界地图？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_BACK_CONFIRM_HELP_M026" offset="00" relocatable="true" max_length="0">
+			<original>返回据点索拉涅尔。</original>
+			<edited>返回据点索拉涅尔。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_BACK_CONFIRM_M026" offset="00" relocatable="true" max_length="0">
+			<original>是否返回据点索拉涅尔？</original>
+			<edited>是否返回据点索拉涅尔？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CONTINUEBATTLE_NOSELECT" offset="00" relocatable="true" max_length="0">
+			<original>连战中无法选择。</original>
+			<edited>连战中无法选择。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_COMMON_TRADE" offset="00" relocatable="true" max_length="0">
+			<original>交换</original>
+			<edited>交换</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>整理持有物品</original>
+			<edited>整理持有物品</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_ITEM_LIST" offset="00" relocatable="true" max_length="0">
+			<original>持有物品一览</original>
+			<edited>持有物品一览</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_TRADE" offset="00" relocatable="true" max_length="0">
+			<original>交换持有物品</original>
+			<edited>交换持有物品</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_ENTRUST" offset="00" relocatable="true" max_length="0">
+			<original>自动装备</original>
+			<edited>自动装备</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_ENTRUST_WARNING1" offset="00" relocatable="true" max_length="0">
+			<original>运输队的持有物品不足，
+无法交予持有物品。</original>
+			<edited>运输队的持有物品不足，
+无法交予持有物品。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_ENTRUST_WARNING2" offset="00" relocatable="true" max_length="0">
+			<original>运输队没有空间整理
+此单位的持有物品，
+故无法使用“自动装备”。</original>
+			<edited>运输队没有空间整理
+此单位的持有物品，
+故无法使用“自动装备”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_STORE" offset="00" relocatable="true" max_length="0">
+			<original>寄放</original>
+			<edited>寄放</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_STORE_ALL" offset="00" relocatable="true" max_length="0">
+			<original>寄放所有物品</original>
+			<edited>寄放所有物品</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_STORE_ALL_WARNING" offset="00" relocatable="true" max_length="0">
+			<original>运输队已无空间，
+或是有无法寄放的物品。</original>
+			<edited>运输队已无空间，
+或是有无法寄放的物品。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_SKILL_OPEN" offset="00" relocatable="true" max_length="0">
+			<original>可以使用“特技装备”了。</original>
+			<edited>可以使用“特技装备”了。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_SKILL" offset="00" relocatable="true" max_length="0">
+			<original>特技装备</original>
+			<edited>特技装备</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_CLASSCHANGE" offset="00" relocatable="true" max_length="0">
+			<original>转职</original>
+			<edited>转职</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_ENTRUST" offset="00" relocatable="true" max_length="0">
+			<original>统一自动装备</original>
+			<edited>统一自动装备</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_ENTRUST_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>是否自动整理
+出击单位的持有物品？
+（未出击单位的持有物品
+将全部交给运输队。）</original>
+			<edited>是否自动整理
+出击单位的持有物品？
+（未出击单位的持有物品
+将全部交给运输队。）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_ENTRUST_ERROR" offset="00" relocatable="true" max_length="0">
+			<original>需在出击准备中先选择好出击单位，
+才能使用“统一自动装备”。</original>
+			<edited>需在出击准备中先选择好出击单位，
+才能使用“统一自动装备”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_ENTRUST_Yes" offset="00" relocatable="true" max_length="0">
+			<original>整理</original>
+			<edited>整理</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_ENTRUST_WARNING1" offset="00" relocatable="true" max_length="0">
+			<original>运输队的持有物品不足，
+无法交予所有出击单位
+足够的持有物品。</original>
+			<edited>运输队的持有物品不足，
+无法交予所有出击单位
+足够的持有物品。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_ENTRUST_WARNING2" offset="00" relocatable="true" max_length="0">
+			<original>运输队已无空间，
+无法整理持有物品。</original>
+			<edited>运输队已无空间，
+无法整理持有物品。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_STORE_ALL" offset="00" relocatable="true" max_length="0">
+			<original>统一全部保管</original>
+			<edited>统一全部保管</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_STORE_ALL_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>是否将所有单位的持有物品
+全部交由运输队保管？</original>
+			<edited>是否将所有单位的持有物品
+全部交由运输队保管？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_STORE_ALL_WARNING" offset="00" relocatable="true" max_length="0">
+			<original>运输队已无空间，
+无法将所有单位的持有物品
+全部交由运输队保管。</original>
+			<edited>运输队已无空间，
+无法将所有单位的持有物品
+全部交由运输队保管。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_ENTRUST_GOD" offset="00" relocatable="true" max_length="0">
+			<original>统一自动装备</original>
+			<edited>统一自动装备</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_ENTRUST_GOD_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>是否将出击单位的戒指&#xE;&#x1;&#x8;&#x0;
+设置为自动装备？</original>
+			<edited>是否将出击单位的戒指&#xE;&#x1;&#x8;&#x0;
+设置为自动装备？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_ENTRUST_GOD_Yes" offset="00" relocatable="true" max_length="0">
+			<original>装备</original>
+			<edited>装备</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_ENTRUST_GOD_No" offset="00" relocatable="true" max_length="0">
+			<original>取消</original>
+			<edited>取消</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_STORE_ALL_GOD" offset="00" relocatable="true" max_length="0">
+			<original>统一解除装备</original>
+			<edited>统一解除装备</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_STORE_ALL_GOD_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>是否要摘下所有单位的戒指&#xE;&#x1;&#x8;&#x0;？</original>
+			<edited>是否要摘下所有单位的戒指&#xE;&#x1;&#x8;&#x0;？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_STORE_ALL_GOD_Yes" offset="00" relocatable="true" max_length="0">
+			<original>摘下</original>
+			<edited>摘下</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_ALL_UNITS_STORE_ALL_GOD_No" offset="00" relocatable="true" max_length="0">
+			<original>取消</original>
+			<edited>取消</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_UNIT_NONE" offset="00" relocatable="true" max_length="0">
+			<original>没有单位。</original>
+			<edited>没有单位。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TROOPLIST_PAGETITLE_BASIC" offset="00" relocatable="true" max_length="0">
+			<original>状态</original>
+			<edited>状态</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TROOPLIST_PAGETITLE_STATUS" offset="00" relocatable="true" max_length="0">
+			<original>基本能力</original>
+			<edited>基本能力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TROOPLIST_PAGETITLE_BATTLE" offset="00" relocatable="true" max_length="0">
+			<original>战斗能力</original>
+			<edited>战斗能力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_INVENTORY_STORE" offset="00" relocatable="true" max_length="0">
+			<original>保管</original>
+			<edited>保管</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_INVENTORY_RECEIVE" offset="00" relocatable="true" max_length="0">
+			<original>收下</original>
+			<edited>收下</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_INVENTORY_EQUIP" offset="00" relocatable="true" max_length="0">
+			<original>装备</original>
+			<edited>装备</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_INVENTORY_REMOVE" offset="00" relocatable="true" max_length="0">
+			<original>卸除</original>
+			<edited>卸除</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_INVENTORY_ARRANGE" offset="00" relocatable="true" max_length="0">
+			<original>更改排序</original>
+			<edited>更改排序</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_INVENTORY_USE" offset="00" relocatable="true" max_length="0">
+			<original>使用</original>
+			<edited>使用</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_INVENTORY_DISCARD" offset="00" relocatable="true" max_length="0">
+			<original>舍弃</original>
+			<edited>舍弃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_INVENTORY_EMPTY" offset="00" relocatable="true" max_length="0">
+			<original>未持有任何物品。</original>
+			<edited>未持有任何物品。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SKILL_CATEGORY_PERSON" offset="00" relocatable="true" max_length="0">
+			<original>个人</original>
+			<edited>个人</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SKILL_CATEGORY_JOB" offset="00" relocatable="true" max_length="0">
+			<original>兵种</original>
+			<edited>兵种</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SKILL_CATEGORY_INHERITANCE" offset="00" relocatable="true" max_length="0">
+			<original>继承</original>
+			<edited>继承</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SKILL_CATEGORY_GOD" offset="00" relocatable="true" max_length="0">
+			<original>同步</original>
+			<edited>同步</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SKILL_CATEGORY_ENGAGE" offset="00" relocatable="true" max_length="0">
+			<original>结合</original>
+			<edited>结合</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SKILL_CATEGORY_BONDS" offset="00" relocatable="true" max_length="0">
+			<original>牵绊</original>
+			<edited>牵绊</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SKILL_CATEGORY_EQUIPED" offset="00" relocatable="true" max_length="0">
+			<original>装备中</original>
+			<edited>装备中</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SKILL_OVERLAPPING" offset="00" relocatable="true" max_length="0">
+			<original>重复</original>
+			<edited>重复</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SKILL_SUPPLEMENT_HELP" offset="00" relocatable="true" max_length="0">
+			<original>与装备中的特技有所重复。</original>
+			<edited>与装备中的特技有所重复。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SKILL_POOL_NONE" offset="00" relocatable="true" max_length="0">
+			<original>未继承任何特技。</original>
+			<edited>未继承任何特技。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_SKILL_POOL_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>已继承特技</original>
+			<edited>已继承特技</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_NEED_LV" offset="00" relocatable="true" max_length="0">
+			<original>必要等级</original>
+			<edited>必要等级</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_NEED_APTITUDE" offset="00" relocatable="true" max_length="0">
+			<original>必要资质</original>
+			<edited>必要资质</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_HAVE_APTITUDE" offset="00" relocatable="true" max_length="0">
+			<original>持有的资质</original>
+			<edited>持有的资质</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_NEED_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>必要道具</original>
+			<edited>必要道具</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_SKILL_LEVEL" offset="00" relocatable="true" max_length="0">
+			<original>于Lv.&#xE;&#x1;&#x0;&#x0;学成</original>
+			<edited>于Lv.&#xE;&#x1;&#x0;&#x0;学成</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_NONE" offset="00" relocatable="true" max_length="0">
+			<original>没有能转职的兵种。</original>
+			<edited>没有能转职的兵种。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_CONFIRM_DIALOG" offset="00" relocatable="true" max_length="0">
+			<original>是否转职为“&#xE;&#x1;&#x0;&#x0;”？</original>
+			<edited>是否转职为“&#xE;&#x1;&#x0;&#x0;”？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_CONFIRM_DIALOG_YES" offset="00" relocatable="true" max_length="0">
+			<original>确定转职</original>
+			<edited>确定转职</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_NEED_JOB" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;Lv.&#xE;&#x1;&#x1;&#x0;</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;Lv.&#xE;&#x1;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_BASIC_ARMOR" offset="00" relocatable="true" max_length="0">
+			<original>刀剑/枪/重斧兵</original>
+			<edited>刀剑/枪/重斧兵</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_BASIC_KNIGHT" offset="00" relocatable="true" max_length="0">
+			<original>刀剑/枪/斧骑士</original>
+			<edited>刀剑/枪/斧骑士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_CLASSCHANGE_BASIC_PEGASUS" offset="00" relocatable="true" max_length="0">
+			<original>刀剑/枪/斧飞马骑士</original>
+			<edited>刀剑/枪/斧飞马骑士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_TITLE_GOD" offset="00" relocatable="true" max_length="0">
+			<original>纹章士戒指&#xE;&#x1;&#x8;&#x0;</original>
+			<edited>纹章士戒指&#xE;&#x1;&#x8;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_REMOVE" offset="00" relocatable="true" max_length="0">
+			<original>是否摘下“&#xE;&#x1;&#x0;&#x0;”？</original>
+			<edited>是否摘下“&#xE;&#x1;&#x0;&#x0;”？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_CHANGE" offset="00" relocatable="true" max_length="0">
+			<original>是否摘下“&#xE;&#x1;&#x0;&#x0;”，
+换上“&#xE;&#x1;&#x1;&#x0;”？</original>
+			<edited>是否摘下“&#xE;&#x1;&#x0;&#x0;”，
+换上“&#xE;&#x1;&#x1;&#x0;”？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_CHANGE_REMOVE" offset="00" relocatable="true" max_length="0">
+			<original>是否摘下&#xE;&#x1;&#x0;&#x0;，
+换上&#xE;&#x1;&#x1;&#x0;？
+（目前装备中的单位：&#xE;&#x1;&#x2;&#x0;）</original>
+			<edited>是否摘下&#xE;&#x1;&#x0;&#x0;，
+换上&#xE;&#x1;&#x1;&#x0;？
+（目前装备中的单位：&#xE;&#x1;&#x2;&#x0;）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_SET" offset="00" relocatable="true" max_length="0">
+			<original>是否装备“&#xE;&#x1;&#x0;&#x0;”？</original>
+			<edited>是否装备“&#xE;&#x1;&#x0;&#x0;”？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_SET_REMOVE" offset="00" relocatable="true" max_length="0">
+			<original>是否装备“&#xE;&#x1;&#x0;&#x0;”？
+（目前装备中的单位：&#xE;&#x1;&#x1;&#x0;）</original>
+			<edited>是否装备“&#xE;&#x1;&#x0;&#x0;”？
+（目前装备中的单位：&#xE;&#x1;&#x1;&#x0;）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_REMOVE_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>卸除</original>
+			<edited>卸除</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_SET_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>装备</original>
+			<edited>装备</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_GOD_CHANGE_YES" offset="00" relocatable="true" max_length="0">
+			<original>更改</original>
+			<edited>更改</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_GOD_EMPTY" offset="00" relocatable="true" max_length="0">
+			<original>无纹章士戒指&#xE;&#x1;&#x8;&#x0;。</original>
+			<edited>无纹章士戒指&#xE;&#x1;&#x8;&#x0;。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_COMMON_EMPTY" offset="00" relocatable="true" max_length="0">
+			<original>没有牵绊戒指。</original>
+			<edited>没有牵绊戒指。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SELECTRING_LUEUR_NOTES" offset="00" relocatable="true" max_length="0">
+			<original>纹章士&#xE;&#x6;&#x3;&#x0;
+可在出击期间通过“结合+”进行结合。</original>
+			<edited>纹章士&#xE;&#x6;&#x3;&#x0;
+可在出击期间通过“结合+”进行结合。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLE_UNIT_SELECT" offset="00" relocatable="true" max_length="0">
+			<original>编组出击单位</original>
+			<edited>编组出击单位</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLE_UNIT_SELECT_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>整备</original>
+			<edited>整备</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLE_RING_SELECT" offset="00" relocatable="true" max_length="0">
+			<original>纹章士戒指&#xE;&#x1;&#x8;&#x0;</original>
+			<edited>纹章士戒指&#xE;&#x1;&#x8;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLE_INVENTORY" offset="00" relocatable="true" max_length="0">
+			<original>整理持有物品</original>
+			<edited>整理持有物品</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLE_TRADE" offset="00" relocatable="true" max_length="0">
+			<original>交换持有物品</original>
+			<edited>交换持有物品</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLE_SKILL" offset="00" relocatable="true" max_length="0">
+			<original>特技装备</original>
+			<edited>特技装备</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLE_CLASSCHANGE" offset="00" relocatable="true" max_length="0">
+			<original>转职</original>
+			<edited>转职</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLEHELP_UNIT_SELECT" offset="00" relocatable="true" max_length="0">
+			<original>请选择要出击的我方单位。</original>
+			<edited>请选择要出击的我方单位。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLEHELP_UNIT_SELECT_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>请选择单位。</original>
+			<edited>请选择单位。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLEHELP_RING_SELECT" offset="00" relocatable="true" max_length="0">
+			<original>请选择要更换的戒指&#xE;&#x1;&#x8;&#x0;。</original>
+			<edited>请选择要更换的戒指&#xE;&#x1;&#x8;&#x0;。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLEHELP_INVENTORY" offset="00" relocatable="true" max_length="0">
+			<original>请选择道具。</original>
+			<edited>请选择道具。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLEHELP_TRADE" offset="00" relocatable="true" max_length="0">
+			<original>请选择要交换的持有物品。</original>
+			<edited>请选择要交换的持有物品。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLEHELP_SKILL" offset="00" relocatable="true" max_length="0">
+			<original>请选择要装备的特技。</original>
+			<edited>请选择要装备的特技。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_SORTIE_TITLEHELP_CLASSCHANGE" offset="00" relocatable="true" max_length="0">
+			<original>请选择兵种。</original>
+			<edited>请选择兵种。</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

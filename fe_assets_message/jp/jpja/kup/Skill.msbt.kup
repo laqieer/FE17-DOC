@@ -1,0 +1,5615 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MSID_Hp_5" offset="00" relocatable="true" max_length="0">
+			<original>HP＋5</original>
+			<edited>HP＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Hp_5" offset="00" relocatable="true" max_length="0">
+			<original>常にHPが5アップする</original>
+			<edited>常にHPが5アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Hp_7" offset="00" relocatable="true" max_length="0">
+			<original>HP＋7</original>
+			<edited>HP＋7</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Hp_7" offset="00" relocatable="true" max_length="0">
+			<original>常にHPが7アップする</original>
+			<edited>常にHPが7アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Hp_10" offset="00" relocatable="true" max_length="0">
+			<original>HP＋10</original>
+			<edited>HP＋10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Hp_10" offset="00" relocatable="true" max_length="0">
+			<original>常にHPが10アップする</original>
+			<edited>常にHPが10アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Hp_12" offset="00" relocatable="true" max_length="0">
+			<original>HP＋12</original>
+			<edited>HP＋12</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Hp_12" offset="00" relocatable="true" max_length="0">
+			<original>常にHPが12アップする</original>
+			<edited>常にHPが12アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Hp_15" offset="00" relocatable="true" max_length="0">
+			<original>HP＋15</original>
+			<edited>HP＋15</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Hp_15" offset="00" relocatable="true" max_length="0">
+			<original>常にHPが15アップする</original>
+			<edited>常にHPが15アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Str_1" offset="00" relocatable="true" max_length="0">
+			<original>力＋1</original>
+			<edited>力＋1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Str_1" offset="00" relocatable="true" max_length="0">
+			<original>常に力が1アップする</original>
+			<edited>常に力が1アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Str_2" offset="00" relocatable="true" max_length="0">
+			<original>力＋2</original>
+			<edited>力＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Str_2" offset="00" relocatable="true" max_length="0">
+			<original>常に力が2アップする</original>
+			<edited>常に力が2アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Str_3" offset="00" relocatable="true" max_length="0">
+			<original>力＋3</original>
+			<edited>力＋3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Str_3" offset="00" relocatable="true" max_length="0">
+			<original>常に力が3アップする</original>
+			<edited>常に力が3アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Str_4" offset="00" relocatable="true" max_length="0">
+			<original>力＋4</original>
+			<edited>力＋4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Str_4" offset="00" relocatable="true" max_length="0">
+			<original>常に力が4アップする</original>
+			<edited>常に力が4アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Str_5" offset="00" relocatable="true" max_length="0">
+			<original>力＋5</original>
+			<edited>力＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Str_5" offset="00" relocatable="true" max_length="0">
+			<original>常に力が5アップする</original>
+			<edited>常に力が5アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Str_6" offset="00" relocatable="true" max_length="0">
+			<original>力＋6</original>
+			<edited>力＋6</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Str_6" offset="00" relocatable="true" max_length="0">
+			<original>常に力が6アップする</original>
+			<edited>常に力が6アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Tec_1" offset="00" relocatable="true" max_length="0">
+			<original>技＋1</original>
+			<edited>技＋1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Tec_1" offset="00" relocatable="true" max_length="0">
+			<original>常に技が1アップする</original>
+			<edited>常に技が1アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Tec_2" offset="00" relocatable="true" max_length="0">
+			<original>技＋2</original>
+			<edited>技＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Tec_2" offset="00" relocatable="true" max_length="0">
+			<original>常に技が2アップする</original>
+			<edited>常に技が2アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Tec_3" offset="00" relocatable="true" max_length="0">
+			<original>技＋3</original>
+			<edited>技＋3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Tec_3" offset="00" relocatable="true" max_length="0">
+			<original>常に技が3アップする</original>
+			<edited>常に技が3アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Tec_4" offset="00" relocatable="true" max_length="0">
+			<original>技＋4</original>
+			<edited>技＋4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Tec_4" offset="00" relocatable="true" max_length="0">
+			<original>常に技が4アップする</original>
+			<edited>常に技が4アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Tec_5" offset="00" relocatable="true" max_length="0">
+			<original>技＋5</original>
+			<edited>技＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Tec_5" offset="00" relocatable="true" max_length="0">
+			<original>常に技が5アップする</original>
+			<edited>常に技が5アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Spd_1" offset="00" relocatable="true" max_length="0">
+			<original>速さ＋1</original>
+			<edited>速さ＋1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Spd_1" offset="00" relocatable="true" max_length="0">
+			<original>常に速さが1アップする</original>
+			<edited>常に速さが1アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Spd_2" offset="00" relocatable="true" max_length="0">
+			<original>速さ＋2</original>
+			<edited>速さ＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Spd_2" offset="00" relocatable="true" max_length="0">
+			<original>常に速さが2アップする</original>
+			<edited>常に速さが2アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Spd_3" offset="00" relocatable="true" max_length="0">
+			<original>速さ＋3</original>
+			<edited>速さ＋3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Spd_3" offset="00" relocatable="true" max_length="0">
+			<original>常に速さが3アップする</original>
+			<edited>常に速さが3アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Spd_4" offset="00" relocatable="true" max_length="0">
+			<original>速さ＋4</original>
+			<edited>速さ＋4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Spd_4" offset="00" relocatable="true" max_length="0">
+			<original>常に速さが4アップする</original>
+			<edited>常に速さが4アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Spd_5" offset="00" relocatable="true" max_length="0">
+			<original>速さ＋5</original>
+			<edited>速さ＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Spd_5" offset="00" relocatable="true" max_length="0">
+			<original>常に速さが5アップする</original>
+			<edited>常に速さが5アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Lck_2" offset="00" relocatable="true" max_length="0">
+			<original>幸運＋2</original>
+			<edited>幸運＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Lck_2" offset="00" relocatable="true" max_length="0">
+			<original>常に幸運が2アップする</original>
+			<edited>常に幸運が2アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Lck_4" offset="00" relocatable="true" max_length="0">
+			<original>幸運＋4</original>
+			<edited>幸運＋4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Lck_4" offset="00" relocatable="true" max_length="0">
+			<original>常に幸運が4アップする</original>
+			<edited>常に幸運が4アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Lck_6" offset="00" relocatable="true" max_length="0">
+			<original>幸運＋6</original>
+			<edited>幸運＋6</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Lck_6" offset="00" relocatable="true" max_length="0">
+			<original>常に幸運が6アップする</original>
+			<edited>常に幸運が6アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Lck_8" offset="00" relocatable="true" max_length="0">
+			<original>幸運＋8</original>
+			<edited>幸運＋8</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Lck_8" offset="00" relocatable="true" max_length="0">
+			<original>常に幸運が8アップする</original>
+			<edited>常に幸運が8アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Lck_10" offset="00" relocatable="true" max_length="0">
+			<original>幸運＋10</original>
+			<edited>幸運＋10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Lck_10" offset="00" relocatable="true" max_length="0">
+			<original>常に幸運が10アップする</original>
+			<edited>常に幸運が10アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Lck_12" offset="00" relocatable="true" max_length="0">
+			<original>幸運＋12</original>
+			<edited>幸運＋12</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Lck_12" offset="00" relocatable="true" max_length="0">
+			<original>常に幸運が12アップする</original>
+			<edited>常に幸運が12アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Def_1" offset="00" relocatable="true" max_length="0">
+			<original>守備＋1</original>
+			<edited>守備＋1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Def_1" offset="00" relocatable="true" max_length="0">
+			<original>常に守備が1アップする</original>
+			<edited>常に守備が1アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Def_2" offset="00" relocatable="true" max_length="0">
+			<original>守備＋2</original>
+			<edited>守備＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Def_2" offset="00" relocatable="true" max_length="0">
+			<original>常に守備が2アップする</original>
+			<edited>常に守備が2アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Def_3" offset="00" relocatable="true" max_length="0">
+			<original>守備＋3</original>
+			<edited>守備＋3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Def_3" offset="00" relocatable="true" max_length="0">
+			<original>常に守備が3アップする</original>
+			<edited>常に守備が3アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Def_4" offset="00" relocatable="true" max_length="0">
+			<original>守備＋4</original>
+			<edited>守備＋4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Def_4" offset="00" relocatable="true" max_length="0">
+			<original>常に守備が4アップする</original>
+			<edited>常に守備が4アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Def_5" offset="00" relocatable="true" max_length="0">
+			<original>守備＋5</original>
+			<edited>守備＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Def_5" offset="00" relocatable="true" max_length="0">
+			<original>常に守備が5アップする</original>
+			<edited>常に守備が5アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Mag_2" offset="00" relocatable="true" max_length="0">
+			<original>魔力＋2</original>
+			<edited>魔力＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Mag_2" offset="00" relocatable="true" max_length="0">
+			<original>常に魔力が2アップする</original>
+			<edited>常に魔力が2アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Mag_3" offset="00" relocatable="true" max_length="0">
+			<original>魔力＋3</original>
+			<edited>魔力＋3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Mag_3" offset="00" relocatable="true" max_length="0">
+			<original>常に魔力が3アップする</original>
+			<edited>常に魔力が3アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Mag_4" offset="00" relocatable="true" max_length="0">
+			<original>魔力＋4</original>
+			<edited>魔力＋4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Mag_4" offset="00" relocatable="true" max_length="0">
+			<original>常に魔力が4アップする</original>
+			<edited>常に魔力が4アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Mag_5" offset="00" relocatable="true" max_length="0">
+			<original>魔力＋5</original>
+			<edited>魔力＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Mag_5" offset="00" relocatable="true" max_length="0">
+			<original>常に魔力が5アップする</original>
+			<edited>常に魔力が5アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Res_2" offset="00" relocatable="true" max_length="0">
+			<original>魔防＋2</original>
+			<edited>魔防＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Res_2" offset="00" relocatable="true" max_length="0">
+			<original>常に魔防が2アップする</original>
+			<edited>常に魔防が2アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Res_3" offset="00" relocatable="true" max_length="0">
+			<original>魔防＋3</original>
+			<edited>魔防＋3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Res_3" offset="00" relocatable="true" max_length="0">
+			<original>常に魔防が3アップする</original>
+			<edited>常に魔防が3アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Res_4" offset="00" relocatable="true" max_length="0">
+			<original>魔防＋4</original>
+			<edited>魔防＋4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Res_4" offset="00" relocatable="true" max_length="0">
+			<original>常に魔防が4アップする</original>
+			<edited>常に魔防が4アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Res_5" offset="00" relocatable="true" max_length="0">
+			<original>魔防＋5</original>
+			<edited>魔防＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Res_5" offset="00" relocatable="true" max_length="0">
+			<original>常に魔防が5アップする</original>
+			<edited>常に魔防が5アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Phy_3" offset="00" relocatable="true" max_length="0">
+			<original>体格＋3</original>
+			<edited>体格＋3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Phy_3" offset="00" relocatable="true" max_length="0">
+			<original>常に体格が3アップする</original>
+			<edited>常に体格が3アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Phy_4" offset="00" relocatable="true" max_length="0">
+			<original>体格＋4</original>
+			<edited>体格＋4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Phy_4" offset="00" relocatable="true" max_length="0">
+			<original>常に体格が4アップする</original>
+			<edited>常に体格が4アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Phy_5" offset="00" relocatable="true" max_length="0">
+			<original>体格＋5</original>
+			<edited>体格＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Phy_5" offset="00" relocatable="true" max_length="0">
+			<original>常に体格が5アップする</original>
+			<edited>常に体格が5アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Mov_1" offset="00" relocatable="true" max_length="0">
+			<original>移動＋1</original>
+			<edited>移動＋1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Mov_1" offset="00" relocatable="true" max_length="0">
+			<original>常に移動が1アップする</original>
+			<edited>常に移動が1アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Avo_10" offset="00" relocatable="true" max_length="0">
+			<original>回避＋10</original>
+			<edited>回避＋10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Avo_10" offset="00" relocatable="true" max_length="0">
+			<original>常に回避が10アップする</original>
+			<edited>常に回避が10アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Avo_15" offset="00" relocatable="true" max_length="0">
+			<original>回避＋15</original>
+			<edited>回避＋15</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Avo_15" offset="00" relocatable="true" max_length="0">
+			<original>常に回避が15アップする</original>
+			<edited>常に回避が15アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Avo_20" offset="00" relocatable="true" max_length="0">
+			<original>回避＋20</original>
+			<edited>回避＋20</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Avo_20" offset="00" relocatable="true" max_length="0">
+			<original>常に回避が20アップする</original>
+			<edited>常に回避が20アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Avo_25" offset="00" relocatable="true" max_length="0">
+			<original>回避＋25</original>
+			<edited>回避＋25</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Avo_25" offset="00" relocatable="true" max_length="0">
+			<original>常に回避が25アップする</original>
+			<edited>常に回避が25アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Avo_30" offset="00" relocatable="true" max_length="0">
+			<original>回避＋30</original>
+			<edited>回避＋30</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Avo_30" offset="00" relocatable="true" max_length="0">
+			<original>常に回避が30アップする</original>
+			<edited>常に回避が30アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Hit_10" offset="00" relocatable="true" max_length="0">
+			<original>命中＋10</original>
+			<edited>命中＋10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Hit_10" offset="00" relocatable="true" max_length="0">
+			<original>常に命中が10アップする</original>
+			<edited>常に命中が10アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Hit_15" offset="00" relocatable="true" max_length="0">
+			<original>命中＋15</original>
+			<edited>命中＋15</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Hit_15" offset="00" relocatable="true" max_length="0">
+			<original>常に命中が15アップする</original>
+			<edited>常に命中が15アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Hit_20" offset="00" relocatable="true" max_length="0">
+			<original>命中＋20</original>
+			<edited>命中＋20</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Hit_20" offset="00" relocatable="true" max_length="0">
+			<original>常に命中が20アップする</original>
+			<edited>常に命中が20アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Hit_25" offset="00" relocatable="true" max_length="0">
+			<original>命中＋25</original>
+			<edited>命中＋25</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Hit_25" offset="00" relocatable="true" max_length="0">
+			<original>常に命中が25アップする</original>
+			<edited>常に命中が25アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Hit_30" offset="00" relocatable="true" max_length="0">
+			<original>命中＋30</original>
+			<edited>命中＋30</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Hit_30" offset="00" relocatable="true" max_length="0">
+			<original>常に命中が30アップする</original>
+			<edited>常に命中が30アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_CriAvo_10" offset="00" relocatable="true" max_length="0">
+			<original>必避＋10</original>
+			<edited>必避＋10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CriAvo_10" offset="00" relocatable="true" max_length="0">
+			<original>常に必避が10アップする</original>
+			<edited>常に必避が10アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_CriAvo_15" offset="00" relocatable="true" max_length="0">
+			<original>必避＋15</original>
+			<edited>必避＋15</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CriAvo_15" offset="00" relocatable="true" max_length="0">
+			<original>常に必避が15アップする</original>
+			<edited>常に必避が15アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_CriAvo_20" offset="00" relocatable="true" max_length="0">
+			<original>必避＋20</original>
+			<edited>必避＋20</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CriAvo_20" offset="00" relocatable="true" max_length="0">
+			<original>常に必避が20アップする</original>
+			<edited>常に必避が20アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_CriAvo_25" offset="00" relocatable="true" max_length="0">
+			<original>必避＋25</original>
+			<edited>必避＋25</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CriAvo_25" offset="00" relocatable="true" max_length="0">
+			<original>常に必避が25アップする</original>
+			<edited>常に必避が25アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_CriAvo_30" offset="00" relocatable="true" max_length="0">
+			<original>必避＋30</original>
+			<edited>必避＋30</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CriAvo_30" offset="00" relocatable="true" max_length="0">
+			<original>常に必避が30アップする</original>
+			<edited>常に必避が30アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwordArts_Soft_1" offset="00" relocatable="true" max_length="0">
+			<original>剣術・柔Lv.1</original>
+			<edited>剣術・柔Lv.1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwordArts_Soft_1" offset="00" relocatable="true" max_length="0">
+			<original>剣装備時、回避＋10、必殺－10</original>
+			<edited>剣装備時、回避＋10、必殺－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwordArts_Soft_2" offset="00" relocatable="true" max_length="0">
+			<original>剣術・柔Lv.2</original>
+			<edited>剣術・柔Lv.2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwordArts_Soft_2" offset="00" relocatable="true" max_length="0">
+			<original>剣装備時、回避＋15、必殺－10</original>
+			<edited>剣装備時、回避＋15、必殺－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwordArts_Soft_3" offset="00" relocatable="true" max_length="0">
+			<original>剣術・柔Lv.3</original>
+			<edited>剣術・柔Lv.3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwordArts_Soft_3" offset="00" relocatable="true" max_length="0">
+			<original>剣装備時、回避＋20、必殺－10</original>
+			<edited>剣装備時、回避＋20、必殺－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwordArts_Soft_4" offset="00" relocatable="true" max_length="0">
+			<original>剣術・柔Lv.4</original>
+			<edited>剣術・柔Lv.4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwordArts_Soft_4" offset="00" relocatable="true" max_length="0">
+			<original>剣装備時、回避＋25、必殺－10</original>
+			<edited>剣装備時、回避＋25、必殺－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwordArts_Soft_5" offset="00" relocatable="true" max_length="0">
+			<original>剣術・柔Lv.5</original>
+			<edited>剣術・柔Lv.5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwordArts_Soft_5" offset="00" relocatable="true" max_length="0">
+			<original>剣装備時、回避＋30、必殺－10</original>
+			<edited>剣装備時、回避＋30、必殺－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwordArts_Hard_1" offset="00" relocatable="true" max_length="0">
+			<original>剣術・剛Lv.1</original>
+			<edited>剣術・剛Lv.1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwordArts_Hard_1" offset="00" relocatable="true" max_length="0">
+			<original>剣装備時、攻撃力＋2、回避－10</original>
+			<edited>剣装備時、攻撃力＋2、回避－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwordArts_Hard_2" offset="00" relocatable="true" max_length="0">
+			<original>剣術・剛Lv.2</original>
+			<edited>剣術・剛Lv.2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwordArts_Hard_2" offset="00" relocatable="true" max_length="0">
+			<original>剣装備時、攻撃力＋4、回避－10</original>
+			<edited>剣装備時、攻撃力＋4、回避－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwordArts_Hard_3" offset="00" relocatable="true" max_length="0">
+			<original>剣術・剛Lv.3</original>
+			<edited>剣術・剛Lv.3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwordArts_Hard_3" offset="00" relocatable="true" max_length="0">
+			<original>剣装備時、攻撃力＋6、回避－10</original>
+			<edited>剣装備時、攻撃力＋6、回避－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwordArts_Hard_4" offset="00" relocatable="true" max_length="0">
+			<original>剣術・剛Lv.4</original>
+			<edited>剣術・剛Lv.4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwordArts_Hard_4" offset="00" relocatable="true" max_length="0">
+			<original>剣装備時、攻撃力＋8、回避－10</original>
+			<edited>剣装備時、攻撃力＋8、回避－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwordArts_Hard_5" offset="00" relocatable="true" max_length="0">
+			<original>剣術・剛Lv.5</original>
+			<edited>剣術・剛Lv.5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwordArts_Hard_5" offset="00" relocatable="true" max_length="0">
+			<original>剣装備時、攻撃力＋10、回避－10</original>
+			<edited>剣装備時、攻撃力＋10、回避－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwordArts_Mind_1" offset="00" relocatable="true" max_length="0">
+			<original>剣術・心Lv.1</original>
+			<edited>剣術・心Lv.1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwordArts_Mind_1" offset="00" relocatable="true" max_length="0">
+			<original>剣装備時、命中＋10、必避－10</original>
+			<edited>剣装備時、命中＋10、必避－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwordArts_Mind_2" offset="00" relocatable="true" max_length="0">
+			<original>剣術・心Lv.2</original>
+			<edited>剣術・心Lv.2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwordArts_Mind_2" offset="00" relocatable="true" max_length="0">
+			<original>剣装備時、命中＋15、必避－10</original>
+			<edited>剣装備時、命中＋15、必避－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwordArts_Mind_3" offset="00" relocatable="true" max_length="0">
+			<original>剣術・心Lv.3</original>
+			<edited>剣術・心Lv.3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwordArts_Mind_3" offset="00" relocatable="true" max_length="0">
+			<original>剣装備時、命中＋20、必避－10</original>
+			<edited>剣装備時、命中＋20、必避－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwordArts_Mind_4" offset="00" relocatable="true" max_length="0">
+			<original>剣術・心Lv.4</original>
+			<edited>剣術・心Lv.4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwordArts_Mind_4" offset="00" relocatable="true" max_length="0">
+			<original>剣装備時、命中＋25、必避－10</original>
+			<edited>剣装備時、命中＋25、必避－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwordArts_Mind_5" offset="00" relocatable="true" max_length="0">
+			<original>剣術・心Lv.5</original>
+			<edited>剣術・心Lv.5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwordArts_Mind_5" offset="00" relocatable="true" max_length="0">
+			<original>剣装備時、命中＋30、必避－10</original>
+			<edited>剣装備時、命中＋30、必避－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LanceArts_Soft_1" offset="00" relocatable="true" max_length="0">
+			<original>槍術・柔Lv.1</original>
+			<edited>槍術・柔Lv.1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LanceArts_Soft_1" offset="00" relocatable="true" max_length="0">
+			<original>槍装備時、回避＋10、必殺－10</original>
+			<edited>槍装備時、回避＋10、必殺－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LanceArts_Soft_2" offset="00" relocatable="true" max_length="0">
+			<original>槍術・柔Lv.2</original>
+			<edited>槍術・柔Lv.2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LanceArts_Soft_2" offset="00" relocatable="true" max_length="0">
+			<original>槍装備時、回避＋15、必殺－10</original>
+			<edited>槍装備時、回避＋15、必殺－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LanceArts_Soft_3" offset="00" relocatable="true" max_length="0">
+			<original>槍術・柔Lv.3</original>
+			<edited>槍術・柔Lv.3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LanceArts_Soft_3" offset="00" relocatable="true" max_length="0">
+			<original>槍装備時、回避＋20、必殺－10</original>
+			<edited>槍装備時、回避＋20、必殺－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LanceArts_Soft_4" offset="00" relocatable="true" max_length="0">
+			<original>槍術・柔Lv.4</original>
+			<edited>槍術・柔Lv.4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LanceArts_Soft_4" offset="00" relocatable="true" max_length="0">
+			<original>槍装備時、回避＋25、必殺－10</original>
+			<edited>槍装備時、回避＋25、必殺－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LanceArts_Soft_5" offset="00" relocatable="true" max_length="0">
+			<original>槍術・柔Lv.5</original>
+			<edited>槍術・柔Lv.5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LanceArts_Soft_5" offset="00" relocatable="true" max_length="0">
+			<original>槍装備時、回避＋30、必殺－10</original>
+			<edited>槍装備時、回避＋30、必殺－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LanceArts_Hard_1" offset="00" relocatable="true" max_length="0">
+			<original>槍術・剛Lv.1</original>
+			<edited>槍術・剛Lv.1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LanceArts_Hard_1" offset="00" relocatable="true" max_length="0">
+			<original>槍装備時、攻撃力＋2、回避－10</original>
+			<edited>槍装備時、攻撃力＋2、回避－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LanceArts_Hard_2" offset="00" relocatable="true" max_length="0">
+			<original>槍術・剛Lv.2</original>
+			<edited>槍術・剛Lv.2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LanceArts_Hard_2" offset="00" relocatable="true" max_length="0">
+			<original>槍装備時、攻撃力＋4、回避－10</original>
+			<edited>槍装備時、攻撃力＋4、回避－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LanceArts_Hard_3" offset="00" relocatable="true" max_length="0">
+			<original>槍術・剛Lv.3</original>
+			<edited>槍術・剛Lv.3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LanceArts_Hard_3" offset="00" relocatable="true" max_length="0">
+			<original>槍装備時、攻撃力＋6、回避－10</original>
+			<edited>槍装備時、攻撃力＋6、回避－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LanceArts_Hard_4" offset="00" relocatable="true" max_length="0">
+			<original>槍術・剛Lv.4</original>
+			<edited>槍術・剛Lv.4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LanceArts_Hard_4" offset="00" relocatable="true" max_length="0">
+			<original>槍装備時、攻撃力＋8、回避－10</original>
+			<edited>槍装備時、攻撃力＋8、回避－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LanceArts_Hard_5" offset="00" relocatable="true" max_length="0">
+			<original>槍術・剛Lv.5</original>
+			<edited>槍術・剛Lv.5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LanceArts_Hard_5" offset="00" relocatable="true" max_length="0">
+			<original>槍装備時、攻撃力＋10、回避－10</original>
+			<edited>槍装備時、攻撃力＋10、回避－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_AxeArts_Hard_1" offset="00" relocatable="true" max_length="0">
+			<original>斧術・剛Lv.1</original>
+			<edited>斧術・剛Lv.1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_AxeArts_Hard_1" offset="00" relocatable="true" max_length="0">
+			<original>斧装備時、攻撃力＋2、回避－10</original>
+			<edited>斧装備時、攻撃力＋2、回避－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_AxeArts_Hard_2" offset="00" relocatable="true" max_length="0">
+			<original>斧術・剛Lv.2</original>
+			<edited>斧術・剛Lv.2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_AxeArts_Hard_2" offset="00" relocatable="true" max_length="0">
+			<original>斧装備時、攻撃力＋4、回避－10</original>
+			<edited>斧装備時、攻撃力＋4、回避－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_AxeArts_Hard_3" offset="00" relocatable="true" max_length="0">
+			<original>斧術・剛Lv.3</original>
+			<edited>斧術・剛Lv.3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_AxeArts_Hard_3" offset="00" relocatable="true" max_length="0">
+			<original>斧装備時、攻撃力＋6、回避－10</original>
+			<edited>斧装備時、攻撃力＋6、回避－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_AxeArts_Hard_4" offset="00" relocatable="true" max_length="0">
+			<original>斧術・剛Lv.4</original>
+			<edited>斧術・剛Lv.4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_AxeArts_Hard_4" offset="00" relocatable="true" max_length="0">
+			<original>斧装備時、攻撃力＋8、回避－10</original>
+			<edited>斧装備時、攻撃力＋8、回避－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_AxeArts_Hard_5" offset="00" relocatable="true" max_length="0">
+			<original>斧術・剛Lv.5</original>
+			<edited>斧術・剛Lv.5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_AxeArts_Hard_5" offset="00" relocatable="true" max_length="0">
+			<original>斧装備時、攻撃力＋10、回避－10</original>
+			<edited>斧装備時、攻撃力＋10、回避－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BowArts_Soft_1" offset="00" relocatable="true" max_length="0">
+			<original>弓術・柔Lv.1</original>
+			<edited>弓術・柔Lv.1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BowArts_Soft_1" offset="00" relocatable="true" max_length="0">
+			<original>弓装備時、回避＋10、必殺－10</original>
+			<edited>弓装備時、回避＋10、必殺－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BowArts_Soft_2" offset="00" relocatable="true" max_length="0">
+			<original>弓術・柔Lv.2</original>
+			<edited>弓術・柔Lv.2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BowArts_Soft_2" offset="00" relocatable="true" max_length="0">
+			<original>弓装備時、回避＋15、必殺－10</original>
+			<edited>弓装備時、回避＋15、必殺－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BowArts_Soft_3" offset="00" relocatable="true" max_length="0">
+			<original>弓術・柔Lv.3</original>
+			<edited>弓術・柔Lv.3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BowArts_Soft_3" offset="00" relocatable="true" max_length="0">
+			<original>弓装備時、回避＋20、必殺－10</original>
+			<edited>弓装備時、回避＋20、必殺－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BowArts_Soft_4" offset="00" relocatable="true" max_length="0">
+			<original>弓術・柔Lv.4</original>
+			<edited>弓術・柔Lv.4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BowArts_Soft_4" offset="00" relocatable="true" max_length="0">
+			<original>弓装備時、回避＋25、必殺－10</original>
+			<edited>弓装備時、回避＋25、必殺－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BowArts_Soft_5" offset="00" relocatable="true" max_length="0">
+			<original>弓術・柔Lv.5</original>
+			<edited>弓術・柔Lv.5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BowArts_Soft_5" offset="00" relocatable="true" max_length="0">
+			<original>弓装備時、回避＋30、必殺－10</original>
+			<edited>弓装備時、回避＋30、必殺－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BowArts_Mind_1" offset="00" relocatable="true" max_length="0">
+			<original>弓術・心Lv.1</original>
+			<edited>弓術・心Lv.1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BowArts_Mind_1" offset="00" relocatable="true" max_length="0">
+			<original>弓装備時、命中＋10、必避－10</original>
+			<edited>弓装備時、命中＋10、必避－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BowArts_Mind_2" offset="00" relocatable="true" max_length="0">
+			<original>弓術・心Lv.2</original>
+			<edited>弓術・心Lv.2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BowArts_Mind_2" offset="00" relocatable="true" max_length="0">
+			<original>弓装備時、命中＋15、必避－10</original>
+			<edited>弓装備時、命中＋15、必避－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BowArts_Mind_3" offset="00" relocatable="true" max_length="0">
+			<original>弓術・心Lv.3</original>
+			<edited>弓術・心Lv.3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BowArts_Mind_3" offset="00" relocatable="true" max_length="0">
+			<original>弓装備時、命中＋20、必避－10</original>
+			<edited>弓装備時、命中＋20、必避－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BowArts_Mind_4" offset="00" relocatable="true" max_length="0">
+			<original>弓術・心Lv.4</original>
+			<edited>弓術・心Lv.4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BowArts_Mind_4" offset="00" relocatable="true" max_length="0">
+			<original>弓装備時、命中＋25、必避－10</original>
+			<edited>弓装備時、命中＋25、必避－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BowArts_Mind_5" offset="00" relocatable="true" max_length="0">
+			<original>弓術・心Lv.5</original>
+			<edited>弓術・心Lv.5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BowArts_Mind_5" offset="00" relocatable="true" max_length="0">
+			<original>弓装備時、命中＋30、必避－10</original>
+			<edited>弓装備時、命中＋30、必避－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MartialArts_Mind_1" offset="00" relocatable="true" max_length="0">
+			<original>体術・心Lv.1</original>
+			<edited>体術・心Lv.1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MartialArts_Mind_1" offset="00" relocatable="true" max_length="0">
+			<original>体術装備時、命中＋10、必避－10</original>
+			<edited>体術装備時、命中＋10、必避－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MartialArts_Mind_2" offset="00" relocatable="true" max_length="0">
+			<original>体術・心Lv.2</original>
+			<edited>体術・心Lv.2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MartialArts_Mind_2" offset="00" relocatable="true" max_length="0">
+			<original>体術装備時、命中＋15、必避－10</original>
+			<edited>体術装備時、命中＋15、必避－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MartialArts_Mind_3" offset="00" relocatable="true" max_length="0">
+			<original>体術・心Lv.3</original>
+			<edited>体術・心Lv.3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MartialArts_Mind_3" offset="00" relocatable="true" max_length="0">
+			<original>体術装備時、命中＋20、必避－10</original>
+			<edited>体術装備時、命中＋20、必避－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MartialArts_Mind_4" offset="00" relocatable="true" max_length="0">
+			<original>体術・心Lv.4</original>
+			<edited>体術・心Lv.4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MartialArts_Mind_4" offset="00" relocatable="true" max_length="0">
+			<original>体術装備時、命中＋25、必避－10</original>
+			<edited>体術装備時、命中＋25、必避－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MartialArts_Mind_5" offset="00" relocatable="true" max_length="0">
+			<original>体術・心Lv.5</original>
+			<edited>体術・心Lv.5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MartialArts_Mind_5" offset="00" relocatable="true" max_length="0">
+			<original>体術装備時、命中＋30、必避－10</original>
+			<edited>体術装備時、命中＋30、必避－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_KnifeArts_1" offset="00" relocatable="true" max_length="0">
+			<original>短剣術Lv.1</original>
+			<edited>短剣術Lv.1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_KnifeArts_1" offset="00" relocatable="true" max_length="0">
+			<original>短剣装備時、命中＋3、回避＋3</original>
+			<edited>短剣装備時、命中＋3、回避＋3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_KnifeArts_2" offset="00" relocatable="true" max_length="0">
+			<original>短剣術Lv.2</original>
+			<edited>短剣術Lv.2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_KnifeArts_2" offset="00" relocatable="true" max_length="0">
+			<original>短剣装備時、命中＋5、回避＋5</original>
+			<edited>短剣装備時、命中＋5、回避＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_KnifeArts_3" offset="00" relocatable="true" max_length="0">
+			<original>短剣術Lv.3</original>
+			<edited>短剣術Lv.3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_KnifeArts_3" offset="00" relocatable="true" max_length="0">
+			<original>短剣装備時、命中＋7、回避＋7</original>
+			<edited>短剣装備時、命中＋7、回避＋7</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_KnifeArts_4" offset="00" relocatable="true" max_length="0">
+			<original>短剣術Lv.4</original>
+			<edited>短剣術Lv.4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_KnifeArts_4" offset="00" relocatable="true" max_length="0">
+			<original>短剣装備時、命中＋10、回避＋10</original>
+			<edited>短剣装備時、命中＋10、回避＋10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_KnifeArts_5" offset="00" relocatable="true" max_length="0">
+			<original>短剣術Lv.5</original>
+			<edited>短剣術Lv.5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_KnifeArts_5" offset="00" relocatable="true" max_length="0">
+			<original>短剣装備時、命中＋15、回避＋15</original>
+			<edited>短剣装備時、命中＋15、回避＋15</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MagicArts_1" offset="00" relocatable="true" max_length="0">
+			<original>魔道Lv.1</original>
+			<edited>魔道Lv.1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MagicArts_1" offset="00" relocatable="true" max_length="0">
+			<original>魔道書装備時、命中＋3、回避＋3</original>
+			<edited>魔道書装備時、命中＋3、回避＋3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MagicArts_2" offset="00" relocatable="true" max_length="0">
+			<original>魔道Lv.2</original>
+			<edited>魔道Lv.2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MagicArts_2" offset="00" relocatable="true" max_length="0">
+			<original>魔道書装備時、命中＋5、回避＋5</original>
+			<edited>魔道書装備時、命中＋5、回避＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MagicArts_3" offset="00" relocatable="true" max_length="0">
+			<original>魔道Lv.3</original>
+			<edited>魔道Lv.3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MagicArts_3" offset="00" relocatable="true" max_length="0">
+			<original>魔道書装備時、命中＋7、回避＋7</original>
+			<edited>魔道書装備時、命中＋7、回避＋7</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MagicArts_4" offset="00" relocatable="true" max_length="0">
+			<original>魔道Lv.4</original>
+			<edited>魔道Lv.4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MagicArts_4" offset="00" relocatable="true" max_length="0">
+			<original>魔道書装備時、命中＋10、回避＋10</original>
+			<edited>魔道書装備時、命中＋10、回避＋10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MagicArts_5" offset="00" relocatable="true" max_length="0">
+			<original>魔道Lv.5</original>
+			<edited>魔道Lv.5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MagicArts_5" offset="00" relocatable="true" max_length="0">
+			<original>魔道書装備時、命中＋15、回避＋15</original>
+			<edited>魔道書装備時、命中＋15、回避＋15</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_RodArts_1" offset="00" relocatable="true" max_length="0">
+			<original>信仰Lv.1</original>
+			<edited>信仰Lv.1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_RodArts_1" offset="00" relocatable="true" max_length="0">
+			<original>HP回復量＋3、杖の命中＋10</original>
+			<edited>HP回復量＋3、杖の命中＋10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_RodArts_2" offset="00" relocatable="true" max_length="0">
+			<original>信仰Lv.2</original>
+			<edited>信仰Lv.2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_RodArts_2" offset="00" relocatable="true" max_length="0">
+			<original>HP回復量＋5、杖の命中＋15</original>
+			<edited>HP回復量＋5、杖の命中＋15</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_RodArts_3" offset="00" relocatable="true" max_length="0">
+			<original>信仰Lv.3</original>
+			<edited>信仰Lv.3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_RodArts_3" offset="00" relocatable="true" max_length="0">
+			<original>HP回復量＋7、杖の命中＋20</original>
+			<edited>HP回復量＋7、杖の命中＋20</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_RodArts_4" offset="00" relocatable="true" max_length="0">
+			<original>信仰Lv.4</original>
+			<edited>信仰Lv.4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_RodArts_4" offset="00" relocatable="true" max_length="0">
+			<original>HP回復量＋10、杖の命中＋25</original>
+			<edited>HP回復量＋10、杖の命中＋25</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_RodArts_5" offset="00" relocatable="true" max_length="0">
+			<original>信仰Lv.5</original>
+			<edited>信仰Lv.5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_RodArts_5" offset="00" relocatable="true" max_length="0">
+			<original>HP回復量＋15、杖の命中＋30</original>
+			<edited>HP回復量＋15、杖の命中＋30</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Outclass_1" offset="00" relocatable="true" max_length="0">
+			<original>見切り</original>
+			<edited>見切り</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Outclass_1" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃した時、回避＋15
+速さが高いと、さらに回避がアップする</original>
+			<edited>自分から攻撃した時、回避＋15
+速さが高いと、さらに回避がアップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Outclass_2" offset="00" relocatable="true" max_length="0">
+			<original>見切り＋</original>
+			<edited>見切り＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Outclass_2" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃した時、回避＋30
+速さが高いと、さらに回避がアップする</original>
+			<edited>自分から攻撃した時、回避＋30
+速さが高いと、さらに回避がアップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Fortitude_1" offset="00" relocatable="true" max_length="0">
+			<original>不屈</original>
+			<edited>不屈</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Fortitude_1" offset="00" relocatable="true" max_length="0">
+			<original>自軍フェイズ開始時に
+HPが20％以下だった場合
+HPを最大値の20％回復する</original>
+			<edited>自軍フェイズ開始時に
+HPが20％以下だった場合
+HPを最大値の20％回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Fortitude_2" offset="00" relocatable="true" max_length="0">
+			<original>不屈＋</original>
+			<edited>不屈＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Fortitude_2" offset="00" relocatable="true" max_length="0">
+			<original>自軍フェイズ開始時に
+HPが30％以下だった場合
+HPを最大値の30％回復する</original>
+			<edited>自軍フェイズ開始時に
+HPが30％以下だった場合
+HPを最大値の30％回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Fortitude_3" offset="00" relocatable="true" max_length="0">
+			<original>不屈＋＋</original>
+			<edited>不屈＋＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Fortitude_3" offset="00" relocatable="true" max_length="0">
+			<original>自軍フェイズ開始時に
+HPが40％以下だった場合
+HPを最大値の40％回復する</original>
+			<edited>自軍フェイズ開始時に
+HPが40％以下だった場合
+HPを最大値の40％回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MarthEngage" offset="00" relocatable="true" max_length="0">
+			<original>神速</original>
+			<edited>神速</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MarthEngage" offset="00" relocatable="true" max_length="0">
+			<original>攻撃時にダメージ50％の追撃が発生する
+（他の追撃を発生させるスキルと
+同時に発動可能）</original>
+			<edited>攻撃時にダメージ50％の追撃が発生する
+（他の追撃を発生させるスキルと
+同時に発動可能）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MarthEngage_Covert" offset="00" relocatable="true" max_length="0">
+			<original>攻撃時にダメージ50％の追撃が発生する
+（他の追撃を発生させるスキルと
+同時に発動可能）
+【隠密】このスキルで発生した追撃が
+命中した時、相手に毒を与える</original>
+			<edited>攻撃時にダメージ50％の追撃が発生する
+（他の追撃を発生させるスキルと
+同時に発動可能）
+【隠密】このスキルで発生した追撃が
+命中した時、相手に毒を与える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MarthEngage_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>攻撃時にダメージ50％の追撃が発生する
+（他の追撃を発生させるスキルと
+同時に発動可能）
+【竜族】このスキルで発生した追撃で与えた
+ダメージの分だけ、自分のHPを回復する</original>
+			<edited>攻撃時にダメージ50％の追撃が発生する
+（他の追撃を発生させるスキルと
+同時に発動可能）
+【竜族】このスキルで発生した追撃で与えた
+ダメージの分だけ、自分のHPを回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BreakPursuit" offset="00" relocatable="true" max_length="0">
+			<original>たたみかけ</original>
+			<edited>たたみかけ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BreakPursuit" offset="00" relocatable="true" max_length="0">
+			<original>相手をブレイクさせた時
+ダメージ50％の追撃が発生する</original>
+			<edited>相手をブレイクさせた時
+ダメージ50％の追撃が発生する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MarthEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>スターラッシュ</original>
+			<edited>スターラッシュ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MarthEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>ダメージ30％の7連続攻撃
+剣・隣接時限定</original>
+			<edited>ダメージ30％の7連続攻撃
+剣・隣接時限定</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MarthEngageAtk_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>ダメージ30％の7連続攻撃
+剣・隣接時限定
+【竜族】攻撃回数＋2</original>
+			<edited>ダメージ30％の7連続攻撃
+剣・隣接時限定
+【竜族】攻撃回数＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MarthEngageAtk_Coop" offset="00" relocatable="true" max_length="0">
+			<original>ダメージ30％の7連続攻撃
+剣・隣接時限定
+【連携】攻撃回数＋1</original>
+			<edited>ダメージ30％の7連続攻撃
+剣・隣接時限定
+【連携】攻撃回数＋1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MarthEngageAtk_Magic" offset="00" relocatable="true" max_length="0">
+			<original>ダメージ30％の7連続攻撃
+剣・隣接時限定
+【魔道】ダメージ計算に魔力を参照する</original>
+			<edited>ダメージ30％の7連続攻撃
+剣・隣接時限定
+【魔道】ダメージ計算に魔力を参照する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MarthEngageAtk_CMD" offset="00" relocatable="true" max_length="0">
+			<original>強力な連続攻撃を放つ</original>
+			<edited>強力な連続攻撃を放つ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Remove_1" offset="00" relocatable="true" max_length="0">
+			<original>再移動</original>
+			<edited>再移動</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Remove_1" offset="00" relocatable="true" max_length="0">
+			<original>行動後、2マス移動できる</original>
+			<edited>行動後、2マス移動できる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Remove_2" offset="00" relocatable="true" max_length="0">
+			<original>再移動＋</original>
+			<edited>再移動＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Remove_2" offset="00" relocatable="true" max_length="0">
+			<original>行動後、3マス移動できる</original>
+			<edited>行動後、3マス移動できる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Approach_1" offset="00" relocatable="true" max_length="0">
+			<original>助走</original>
+			<edited>助走</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Approach_1" offset="00" relocatable="true" max_length="0">
+			<original>移動後に攻撃した時
+移動した距離1マスごとに
+攻撃力が1アップする（最大＋10）</original>
+			<edited>移動後に攻撃した時
+移動した距離1マスごとに
+攻撃力が1アップする（最大＋10）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Approach_2" offset="00" relocatable="true" max_length="0">
+			<original>助走＋</original>
+			<edited>助走＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Approach_2" offset="00" relocatable="true" max_length="0">
+			<original>移動後に攻撃した時
+移動した距離1マスごとに
+攻撃力が1アップする</original>
+			<edited>移動後に攻撃した時
+移動した距離1マスごとに
+攻撃力が1アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Rush" offset="00" relocatable="true" max_length="0">
+			<original>猛進</original>
+			<edited>猛進</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Rush" offset="00" relocatable="true" max_length="0">
+			<original>フリーズ状態にならなくなる</original>
+			<edited>フリーズ状態にならなくなる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SigludEngage" offset="00" relocatable="true" max_length="0">
+			<original>迅走</original>
+			<edited>迅走</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SigludEngage" offset="00" relocatable="true" max_length="0">
+			<original>移動が5アップする</original>
+			<edited>移動が5アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SigludEngage_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>移動が5アップする
+【竜族】さらに移動が1アップ</original>
+			<edited>移動が5アップする
+【竜族】さらに移動が1アップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SigludEngage_Horse" offset="00" relocatable="true" max_length="0">
+			<original>移動が5アップする
+【騎馬】さらに移動が2アップ</original>
+			<edited>移動が5アップする
+【騎馬】さらに移動が2アップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SigludEngage_Covert" offset="00" relocatable="true" max_length="0">
+			<original>移動が5アップする
+【隠密】全ての地形の移動コストを
+1として扱う</original>
+			<edited>移動が5アップする
+【隠密】全ての地形の移動コストを
+1として扱う</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SigludEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>オーバードライヴ</original>
+			<edited>オーバードライヴ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SigludEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>敵を攻撃しながら、その先のマスに移動する
+剣・槍・隣接時限定</original>
+			<edited>敵を攻撃しながら、その先のマスに移動する
+剣・槍・隣接時限定</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SigludEngageAtk_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>敵を攻撃しながら、その先のマスに移動する
+剣・槍・隣接時限定
+【竜族】ダメージ120％</original>
+			<edited>敵を攻撃しながら、その先のマスに移動する
+剣・槍・隣接時限定
+【竜族】ダメージ120％</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SigludEngageAtk_Heavy" offset="00" relocatable="true" max_length="0">
+			<original>敵を攻撃しながら、その先のマスに移動する
+剣・槍・隣接時限定
+【重装】10％の確率でブレイクさせる</original>
+			<edited>敵を攻撃しながら、その先のマスに移動する
+剣・槍・隣接時限定
+【重装】10％の確率でブレイクさせる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SigludEngageAtk_Magic" offset="00" relocatable="true" max_length="0">
+			<original>敵を攻撃しながら、その先のマスに移動する
+剣・槍・隣接時限定
+【魔道】ダメージに魔力の25％を加算</original>
+			<edited>敵を攻撃しながら、その先のマスに移動する
+剣・槍・隣接時限定
+【魔道】ダメージに魔力の25％を加算</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SigludEngageAtk_Prana" offset="00" relocatable="true" max_length="0">
+			<original>敵を攻撃しながら、その先のマスに移動する
+剣・槍・隣接時限定
+【気功】20％の確率でブレイクさせる</original>
+			<edited>敵を攻撃しながら、その先のマスに移動する
+剣・槍・隣接時限定
+【気功】20％の確率でブレイクさせる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SigludEngageAtk_CMD" offset="00" relocatable="true" max_length="0">
+			<original>敵を攻撃しながら、移動する</original>
+			<edited>敵を攻撃しながら、移動する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_M011_SigludEngage_DarkSide" offset="00" relocatable="true" max_length="0">
+			<original>迅走（闇）</original>
+			<edited>迅走（闇）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_M011_SigludEngage_DarkSide" offset="00" relocatable="true" max_length="0">
+			<original>移動が3アップする</original>
+			<edited>移動が3アップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_EvilCounter_1" offset="00" relocatable="true" max_length="0">
+			<original>異形リベンジ</original>
+			<edited>異形リベンジ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EvilCounter_1" offset="00" relocatable="true" max_length="0">
+			<original>異形兵から攻撃を受けた時
+受けたダメージの10％を相手に与える</original>
+			<edited>異形兵から攻撃を受けた時
+受けたダメージの10％を相手に与える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_EvilCounter_2" offset="00" relocatable="true" max_length="0">
+			<original>異形リベンジ＋</original>
+			<edited>異形リベンジ＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EvilCounter_2" offset="00" relocatable="true" max_length="0">
+			<original>異形兵から攻撃を受けた時
+受けたダメージの30％を相手に与える</original>
+			<edited>異形兵から攻撃を受けた時
+受けたダメージの30％を相手に与える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_EvilCounter_3" offset="00" relocatable="true" max_length="0">
+			<original>異形リベンジ＋＋</original>
+			<edited>異形リベンジ＋＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EvilCounter_3" offset="00" relocatable="true" max_length="0">
+			<original>異形兵から攻撃を受けた時
+受けたダメージの50％を相手に与える</original>
+			<edited>異形兵から攻撃を受けた時
+受けたダメージの50％を相手に与える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BlackMagic_1" offset="00" relocatable="true" max_length="0">
+			<original>共鳴の黒魔法</original>
+			<edited>共鳴の黒魔法</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BlackMagic_1" offset="00" relocatable="true" max_length="0">
+			<original>魔道書で攻撃をした時
+自分のHPが2以上なら
+HPを1消費してダメージ＋2</original>
+			<edited>魔道書で攻撃をした時
+自分のHPが2以上なら
+HPを1消費してダメージ＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BlackMagic_2" offset="00" relocatable="true" max_length="0">
+			<original>共鳴の黒魔法＋</original>
+			<edited>共鳴の黒魔法＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BlackMagic_2" offset="00" relocatable="true" max_length="0">
+			<original>魔道書で攻撃をした時
+自分のHPが2以上なら
+HPを1消費してダメージ＋3</original>
+			<edited>魔道書で攻撃をした時
+自分のHPが2以上なら
+HPを1消費してダメージ＋3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_FavoriteFood" offset="00" relocatable="true" max_length="0">
+			<original>大好物</original>
+			<edited>大好物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_FavoriteFood" offset="00" relocatable="true" max_length="0">
+			<original>シンクロ中にお弁当を食べると
+エンゲージカウントが最大値になる</original>
+			<edited>シンクロ中にお弁当を食べると
+エンゲージカウントが最大値になる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_CelicaEngage" offset="00" relocatable="true" max_length="0">
+			<original>重唱</original>
+			<edited>重唱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CelicaEngage" offset="00" relocatable="true" max_length="0">
+			<original>ダメージ50％の魔法攻撃による戦闘を
+2回行える「重唱」コマンドが使用できる</original>
+			<edited>ダメージ50％の魔法攻撃による戦闘を
+2回行える「重唱」コマンドが使用できる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CelicaEngage_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>ダメージ50％の魔法攻撃による戦闘を
+2回行える「重唱」コマンドが使用できる
+【竜族】射程＋1</original>
+			<edited>ダメージ50％の魔法攻撃による戦闘を
+2回行える「重唱」コマンドが使用できる
+【竜族】射程＋1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CelicaEngage_Magic" offset="00" relocatable="true" max_length="0">
+			<original>ダメージ50％の魔法攻撃による戦闘を
+2回行える「重唱」コマンドが使用できる
+【魔道】ダメージ＋10％</original>
+			<edited>ダメージ50％の魔法攻撃による戦闘を
+2回行える「重唱」コマンドが使用できる
+【魔道】ダメージ＋10％</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CelicaEngage_CMD" offset="00" relocatable="true" max_length="0">
+			<original>ダメージ50％の魔法戦闘2回可能</original>
+			<edited>ダメージ50％の魔法戦闘2回可能</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_CelicaEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>ワープライナ</original>
+			<edited>ワープライナ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CelicaEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>10マス以内の
+敵を攻撃可能な位置にワープし
+強力な魔法で攻撃する</original>
+			<edited>10マス以内の
+敵を攻撃可能な位置にワープし
+強力な魔法で攻撃する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CelicaEngageAtk_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>10マス以内の
+敵を攻撃可能な位置にワープし
+強力な魔法で攻撃する
+【竜族】射程＋1</original>
+			<edited>10マス以内の
+敵を攻撃可能な位置にワープし
+強力な魔法で攻撃する
+【竜族】射程＋1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CelicaEngageAtk_Horse" offset="00" relocatable="true" max_length="0">
+			<original>10マス以内の
+敵を攻撃可能な位置にワープし
+強力な魔法で攻撃する
+【騎馬】ワープできる距離＋2</original>
+			<edited>10マス以内の
+敵を攻撃可能な位置にワープし
+強力な魔法で攻撃する
+【騎馬】ワープできる距離＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CelicaEngageAtk_Fly" offset="00" relocatable="true" max_length="0">
+			<original>10マス以内の
+敵を攻撃可能な位置にワープし
+強力な魔法で攻撃する
+【飛行】ワープできる距離＋5</original>
+			<edited>10マス以内の
+敵を攻撃可能な位置にワープし
+強力な魔法で攻撃する
+【飛行】ワープできる距離＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CelicaEngageAtk_Magic" offset="00" relocatable="true" max_length="0">
+			<original>10マス以内の
+敵を攻撃可能な位置にワープし
+強力な魔法で攻撃する
+【魔道】ダメージ120％</original>
+			<edited>10マス以内の
+敵を攻撃可能な位置にワープし
+強力な魔法で攻撃する
+【魔道】ダメージ120％</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CelicaEngageAtk_CMD" offset="00" relocatable="true" max_length="0">
+			<original>攻撃可能な位置にワープし魔法攻撃</original>
+			<edited>攻撃可能な位置にワープし魔法攻撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_M011_CelicaEngageAtk_DarkSide" offset="00" relocatable="true" max_length="0">
+			<original>ワープライナ（闇）</original>
+			<edited>ワープライナ（闇）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_CelicaEngageAtk_DarkSide" offset="00" relocatable="true" max_length="0">
+			<original>ライナワープ</original>
+			<edited>ライナワープ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CelicaEngageAtk_DarkSide" offset="00" relocatable="true" max_length="0">
+			<original>強力な魔法攻撃をした後ワープする</original>
+			<edited>強力な魔法攻撃をした後ワープする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CelicaEngageAtk_DarkSide_CMD" offset="00" relocatable="true" max_length="0">
+			<original>強力な魔法攻撃をした後ワープする</original>
+			<edited>強力な魔法攻撃をした後ワープする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_M011_CelicaEngageAtk_DarkSide" offset="00" relocatable="true" max_length="0">
+			<original>5マス以内の、敵を攻撃可能な位置に
+ワープし、強力な魔法で攻撃する</original>
+			<edited>5マス以内の、敵を攻撃可能な位置に
+ワープし、強力な魔法で攻撃する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_EvilCounter_3_DarkSide" offset="00" relocatable="true" max_length="0">
+			<original>リベンジ</original>
+			<edited>リベンジ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EvilCounter_3_DarkSide" offset="00" relocatable="true" max_length="0">
+			<original>異形兵以外から攻撃を受けた時
+受けたダメージの50％を相手に与える</original>
+			<edited>異形兵以外から攻撃を受けた時
+受けたダメージの50％を相手に与える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_EquipRod_1" offset="00" relocatable="true" max_length="0">
+			<original>杖使い</original>
+			<edited>杖使い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EquipRod_1" offset="00" relocatable="true" max_length="0">
+			<original>レベルCまでの杖を使用可能になる</original>
+			<edited>レベルCまでの杖を使用可能になる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_EquipRod_2" offset="00" relocatable="true" max_length="0">
+			<original>杖使い＋</original>
+			<edited>杖使い＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EquipRod_2" offset="00" relocatable="true" max_length="0">
+			<original>レベルBまでの杖を使用可能になる</original>
+			<edited>レベルBまでの杖を使用可能になる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_EquipRod_3" offset="00" relocatable="true" max_length="0">
+			<original>杖使い＋＋</original>
+			<edited>杖使い＋＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EquipRod_3" offset="00" relocatable="true" max_length="0">
+			<original>レベルAまでの杖を使用可能になる</original>
+			<edited>レベルAまでの杖を使用可能になる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Silenceproof" offset="00" relocatable="true" max_length="0">
+			<original>サイレスガード</original>
+			<edited>サイレスガード</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Silenceproof" offset="00" relocatable="true" max_length="0">
+			<original>サイレス状態を無効化する</original>
+			<edited>サイレス状態を無効化する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_HealingResonance" offset="00" relocatable="true" max_length="0">
+			<original>癒しの響き</original>
+			<edited>癒しの響き</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_HealingResonance" offset="00" relocatable="true" max_length="0">
+			<original>杖で味方を回復させた時
+回復量の50％だけ自分のHPも回復する</original>
+			<edited>杖で味方を回復させた時
+回復量の50％だけ自分のHPも回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MicaiahEngage" offset="00" relocatable="true" max_length="0">
+			<original>増幅</original>
+			<edited>増幅</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MicaiahEngage" offset="00" relocatable="true" max_length="0">
+			<original>杖の射程、または転移などの距離＋5
+杖の効果範囲＋1</original>
+			<edited>杖の射程、または転移などの距離＋5
+杖の効果範囲＋1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MicaiahEngage_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>杖の射程、または転移などの距離＋5
+杖の効果範囲＋1
+【竜族】さらに杖の射程（距離）＋1</original>
+			<edited>杖の射程、または転移などの距離＋5
+杖の効果範囲＋1
+【竜族】さらに杖の射程（距離）＋1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MicaiahEngage_Prana" offset="00" relocatable="true" max_length="0">
+			<original>杖の射程、または転移などの距離＋5
+杖の効果範囲＋1
+【気功】HP回復杖の場合、回復量120％</original>
+			<edited>杖の射程、または転移などの距離＋5
+杖の効果範囲＋1
+【気功】HP回復杖の場合、回復量120％</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MicaiahEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>大いなる癒しの手</original>
+			<edited>大いなる癒しの手</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MicaiahEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>自軍・友軍の味方全員のHPを全回復
+使用後、自分のHPが1になる</original>
+			<edited>自軍・友軍の味方全員のHPを全回復
+使用後、自分のHPが1になる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MicaiahEngageAtk_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>自軍・友軍の味方全員のHPを全回復
+使用後、自分のHPが1になる
+【竜族】使用後、HPが30％になる</original>
+			<edited>自軍・友軍の味方全員のHPを全回復
+使用後、自分のHPが1になる
+【竜族】使用後、HPが30％になる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MicaiahEngageAtk_Heavy" offset="00" relocatable="true" max_length="0">
+			<original>自軍・友軍の味方全員のHPを全回復
+使用後、自分のHPが1になる
+【重装】味方全員の次戦闘の守備＋1</original>
+			<edited>自軍・友軍の味方全員のHPを全回復
+使用後、自分のHPが1になる
+【重装】味方全員の次戦闘の守備＋1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MicaiahEngageAtk_Prana" offset="00" relocatable="true" max_length="0">
+			<original>自軍・友軍の味方全員のHPを全回復
+使用後、自分のHPが1になる
+【気功】状態異常を回復する</original>
+			<edited>自軍・友軍の味方全員のHPを全回復
+使用後、自分のHPが1になる
+【気功】状態異常を回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MicaiahEngageAtk_CMD" offset="00" relocatable="true" max_length="0">
+			<original>HPを消費し味方全員のHP全回復</original>
+			<edited>HPを消費し味方全員のHP全回復</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_M011_MicaiahEngage_DarkSide" offset="00" relocatable="true" max_length="0">
+			<original>増幅（闇）</original>
+			<edited>増幅（闇）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_M011_MicaiahEngage_DarkSide" offset="00" relocatable="true" max_length="0">
+			<original>杖の射程、または転移などの距離＋3
+杖の効果範囲＋1</original>
+			<edited>杖の射程、または転移などの距離＋3
+杖の効果範囲＋1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_HoldOut_1" offset="00" relocatable="true" max_length="0">
+			<original>踏ん張り</original>
+			<edited>踏ん張り</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_HoldOut_1" offset="00" relocatable="true" max_length="0">
+			<original>戦闘開始時にHPが30％以上だった場合
+その戦闘でどれだけダメージを受けても
+HPが1残る</original>
+			<edited>戦闘開始時にHPが30％以上だった場合
+その戦闘でどれだけダメージを受けても
+HPが1残る</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_HoldOut_2" offset="00" relocatable="true" max_length="0">
+			<original>踏ん張り＋</original>
+			<edited>踏ん張り＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_HoldOut_2" offset="00" relocatable="true" max_length="0">
+			<original>戦闘開始時にHPが20％以上だった場合
+その戦闘でどれだけダメージを受けても
+HPが1残る</original>
+			<edited>戦闘開始時にHPが20％以上だった場合
+その戦闘でどれだけダメージを受けても
+HPが1残る</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_HoldOut_3" offset="00" relocatable="true" max_length="0">
+			<original>踏ん張り＋＋</original>
+			<edited>踏ん張り＋＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_HoldOut_3" offset="00" relocatable="true" max_length="0">
+			<original>戦闘開始時にHPが10％以上だった場合
+その戦闘でどれだけダメージを受けても
+HPが1残る</original>
+			<edited>戦闘開始時にHPが10％以上だった場合
+その戦闘でどれだけダメージを受けても
+HPが1残る</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_HoldOut_4" offset="00" relocatable="true" max_length="0">
+			<original>踏ん張り＋＋＋</original>
+			<edited>踏ん張り＋＋＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_HoldOut_4" offset="00" relocatable="true" max_length="0">
+			<original>戦闘開始時にHPが2以上だった場合
+その戦闘でどれだけダメージを受けても
+HPが1残る</original>
+			<edited>戦闘開始時にHPが2以上だった場合
+その戦闘でどれだけダメージを受けても
+HPが1残る</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_ClosingAttack" offset="00" relocatable="true" max_length="0">
+			<original>踏み込み</original>
+			<edited>踏み込み</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_ClosingAttack" offset="00" relocatable="true" max_length="0">
+			<original>2マス先の敵に1マス近づいて攻撃する
+「踏み込み」コマンドが使用できる</original>
+			<edited>2マス先の敵に1マス近づいて攻撃する
+「踏み込み」コマンドが使用できる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_ClosingAttack_CMD" offset="00" relocatable="true" max_length="0">
+			<original>2マス先の敵に近づいて攻撃</original>
+			<edited>2マス先の敵に近づいて攻撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_RoyEngage" offset="00" relocatable="true" max_length="0">
+			<original>超越</original>
+			<edited>超越</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_RoyEngage" offset="00" relocatable="true" max_length="0">
+			<original>ユニットのレベル＋5</original>
+			<edited>ユニットのレベル＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_RoyEngage_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>ユニットのレベル＋5
+【竜族】さらにレベル＋1</original>
+			<edited>ユニットのレベル＋5
+【竜族】さらにレベル＋1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_RoyEngage_Horse" offset="00" relocatable="true" max_length="0">
+			<original>ユニットのレベル＋5
+【騎馬】移動＋1</original>
+			<edited>ユニットのレベル＋5
+【騎馬】移動＋1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_RoyEngage_Heavy" offset="00" relocatable="true" max_length="0">
+			<original>ユニットのレベル＋5
+【重装】最大HP＋5</original>
+			<edited>ユニットのレベル＋5
+【重装】最大HP＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_RoyEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>獅子紅蓮焔舞</original>
+			<edited>獅子紅蓮焔舞</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_RoyEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>炎の剣で前方横3マスを攻撃
+攻撃マスから2マス先まで炎上状態にする
+剣・隣接時限定</original>
+			<edited>炎の剣で前方横3マスを攻撃
+攻撃マスから2マス先まで炎上状態にする
+剣・隣接時限定</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_RoyEngageAtk_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>炎の剣で前方横3マスを攻撃
+攻撃マスから2マス先まで炎上状態にする
+剣・隣接時限定/【竜族】攻撃範囲が拡大</original>
+			<edited>炎の剣で前方横3マスを攻撃
+攻撃マスから2マス先まで炎上状態にする
+剣・隣接時限定/【竜族】攻撃範囲が拡大</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_RoyEngageAtk_Magic" offset="00" relocatable="true" max_length="0">
+			<original>炎の剣で前方横3マスを攻撃
+攻撃マスから2マス先まで炎上状態にする
+剣・隣接時限定/【魔道】炎上範囲が拡大</original>
+			<edited>炎の剣で前方横3マスを攻撃
+攻撃マスから2マス先まで炎上状態にする
+剣・隣接時限定/【魔道】炎上範囲が拡大</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_RoyEngageAtk_CMD" offset="00" relocatable="true" max_length="0">
+			<original>前方複数マスを攻撃し、周囲を炎上</original>
+			<edited>前方複数マスを攻撃し、周囲を炎上</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_M011_RoyEngage_DarkSide" offset="00" relocatable="true" max_length="0">
+			<original>超越（闇）</original>
+			<edited>超越（闇）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_M011_RoyEngage_DarkSide" offset="00" relocatable="true" max_length="0">
+			<original>ユニットのレベル＋3</original>
+			<edited>ユニットのレベル＋3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_AugmentDamage_1" offset="00" relocatable="true" max_length="0">
+			<original>急所ずらし</original>
+			<edited>急所ずらし</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_AugmentDamage_1" offset="00" relocatable="true" max_length="0">
+			<original>武器相性が有利な場合、受けるダメージ－3</original>
+			<edited>武器相性が有利な場合、受けるダメージ－3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_AugmentDamage_2" offset="00" relocatable="true" max_length="0">
+			<original>急所ずらし＋</original>
+			<edited>急所ずらし＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_AugmentDamage_2" offset="00" relocatable="true" max_length="0">
+			<original>武器相性が有利な場合、受けるダメージ－5</original>
+			<edited>武器相性が有利な場合、受けるダメージ－5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_AugmentDamage_3" offset="00" relocatable="true" max_length="0">
+			<original>急所ずらし＋＋</original>
+			<edited>急所ずらし＋＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_AugmentDamage_3" offset="00" relocatable="true" max_length="0">
+			<original>武器相性が有利な場合、受けるダメージ－7</original>
+			<edited>武器相性が有利な場合、受けるダメージ－7</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Ambush_1" offset="00" relocatable="true" max_length="0">
+			<original>待ち伏せ</original>
+			<edited>待ち伏せ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Ambush_1" offset="00" relocatable="true" max_length="0">
+			<original>敵から攻撃された時
+自分のHPが25％以下なら先制攻撃する</original>
+			<edited>敵から攻撃された時
+自分のHPが25％以下なら先制攻撃する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Ambush_2" offset="00" relocatable="true" max_length="0">
+			<original>待ち伏せ＋</original>
+			<edited>待ち伏せ＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Ambush_2" offset="00" relocatable="true" max_length="0">
+			<original>敵から攻撃された時
+自分のHPが50％以下なら先制攻撃する</original>
+			<edited>敵から攻撃された時
+自分のHPが50％以下なら先制攻撃する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Ambush_3" offset="00" relocatable="true" max_length="0">
+			<original>待ち伏せ＋＋</original>
+			<edited>待ち伏せ＋＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Ambush_3" offset="00" relocatable="true" max_length="0">
+			<original>敵から攻撃された時
+自分のHPが75％以下なら先制攻撃する</original>
+			<edited>敵から攻撃された時
+自分のHPが75％以下なら先制攻撃する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LeafEngage" offset="00" relocatable="true" max_length="0">
+			<original>即応</original>
+			<edited>即応</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LeafEngage" offset="00" relocatable="true" max_length="0">
+			<original>敵から攻撃された時
+射程、相性、特効の有無など、より有効な
+武器を所持していた場合、持ち替える</original>
+			<edited>敵から攻撃された時
+射程、相性、特効の有無など、より有効な
+武器を所持していた場合、持ち替える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LeafEngage_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>敵から攻撃された時、より有効な
+武器を所持していた場合、持ち替える
+【竜族】その戦闘中、命中＋30</original>
+			<edited>敵から攻撃された時、より有効な
+武器を所持していた場合、持ち替える
+【竜族】その戦闘中、命中＋30</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LeafEngage_Coop" offset="00" relocatable="true" max_length="0">
+			<original>敵から攻撃された時、より有効な
+武器を所持していた場合、持ち替える
+【連携】その戦闘中、必殺＋10</original>
+			<edited>敵から攻撃された時、より有効な
+武器を所持していた場合、持ち替える
+【連携】その戦闘中、必殺＋10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LeafEngage_Covert" offset="00" relocatable="true" max_length="0">
+			<original>敵から攻撃された時、より有効な
+武器を所持していた場合、持ち替える
+【隠密】その戦闘中、回避＋20</original>
+			<edited>敵から攻撃された時、より有効な
+武器を所持していた場合、持ち替える
+【隠密】その戦闘中、回避＋20</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LeafEngage_Heavy" offset="00" relocatable="true" max_length="0">
+			<original>敵から攻撃された時、より有効な
+武器を所持していた場合、持ち替える
+【重装】その戦闘中、守備＋5</original>
+			<edited>敵から攻撃された時、より有効な
+武器を所持していた場合、持ち替える
+【重装】その戦闘中、守備＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LeafEngage_Fly" offset="00" relocatable="true" max_length="0">
+			<original>敵から攻撃された時、より有効な
+武器を所持していた場合、持ち替える
+【飛行】その戦闘中、魔防＋5</original>
+			<edited>敵から攻撃された時、より有効な
+武器を所持していた場合、持ち替える
+【飛行】その戦闘中、魔防＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LeafEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>テトラトリック</original>
+			<edited>テトラトリック</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LeafEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>剣、槍、斧、弓で連続攻撃</original>
+			<edited>剣、槍、斧、弓で連続攻撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LeafEngageAtk_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>剣、槍、斧、弓で連続攻撃
+【竜族】ダメージ120％</original>
+			<edited>剣、槍、斧、弓で連続攻撃
+【竜族】ダメージ120％</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LeafEngageAtk_Covert" offset="00" relocatable="true" max_length="0">
+			<original>剣、槍、斧、弓で連続攻撃
+【隠密】敵撃破時、幸運％で1000Gを入手</original>
+			<edited>剣、槍、斧、弓で連続攻撃
+【隠密】敵撃破時、幸運％で1000Gを入手</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LeafEngageAtk_Prana" offset="00" relocatable="true" max_length="0">
+			<original>剣、槍、斧、弓で連続攻撃
+【気功】ブレイク確定</original>
+			<edited>剣、槍、斧、弓で連続攻撃
+【気功】ブレイク確定</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LeafEngageAtk_CMD" offset="00" relocatable="true" max_length="0">
+			<original>剣、槍、斧、弓で連続攻撃</original>
+			<edited>剣、槍、斧、弓で連続攻撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BondPower" offset="00" relocatable="true" max_length="0">
+			<original>デュアルアタック</original>
+			<edited>デュアルアタック</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BondPower" offset="00" relocatable="true" max_length="0">
+			<original>自身の戦闘スタイルが「連携」でなくとも
+チェインアタックに参加可能になる</original>
+			<edited>自身の戦闘スタイルが「連携」でなくとも
+チェインアタックに参加可能になる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_DualAssist_1" offset="00" relocatable="true" max_length="0">
+			<original>デュアルアシスト</original>
+			<edited>デュアルアシスト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DualAssist_1" offset="00" relocatable="true" max_length="0">
+			<original>自分が攻撃可能な範囲（移動距離＋射程）
+にいる敵に味方が攻撃した時
+自分が戦闘スタイル「連携」か
+スキル「デュアルアタック」を使えるなら
+35％の確率でチェインアタックに参加する</original>
+			<edited>自分が攻撃可能な範囲（移動距離＋射程）
+にいる敵に味方が攻撃した時
+自分が戦闘スタイル「連携」か
+スキル「デュアルアタック」を使えるなら
+35％の確率でチェインアタックに参加する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_DualAssist_2" offset="00" relocatable="true" max_length="0">
+			<original>デュアルアシスト＋</original>
+			<edited>デュアルアシスト＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DualAssist_2" offset="00" relocatable="true" max_length="0">
+			<original>自分が攻撃可能な範囲（移動距離＋射程）
+にいる敵に味方が攻撃した時
+自分が戦闘スタイル「連携」か
+スキル「デュアルアタック」を使えるなら
+70％の確率でチェインアタックに参加する</original>
+			<edited>自分が攻撃可能な範囲（移動距離＋射程）
+にいる敵に味方が攻撃した時
+自分が戦闘スタイル「連携」か
+スキル「デュアルアタック」を使えるなら
+70％の確率でチェインアタックに参加する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_DualSupport" offset="00" relocatable="true" max_length="0">
+			<original>デュアルサポート</original>
+			<edited>デュアルサポート</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DualSupport" offset="00" relocatable="true" max_length="0">
+			<original>隣接する味方との支援レベルが高いほど
+回避がアップする（最大＋90）</original>
+			<edited>隣接する味方との支援レベルが高いほど
+回避がアップする（最大＋90）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LucinaEngage" offset="00" relocatable="true" max_length="0">
+			<original>絆盾</original>
+			<edited>絆盾</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LucinaEngage_CMD" offset="00" relocatable="true" max_length="0">
+			<original>隣接する味方が受ける攻撃を80％で無効化</original>
+			<edited>隣接する味方が受ける攻撃を80％で無効化</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LucinaEngage_CMD_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>隣接する味方が受ける攻撃を90％で無効化</original>
+			<edited>隣接する味方が受ける攻撃を90％で無効化</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LucinaEngage_CMD_Prana" offset="00" relocatable="true" max_length="0">
+			<original>隣接する味方が受ける攻撃を1回無効化</original>
+			<edited>隣接する味方が受ける攻撃を1回無効化</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LucinaEngage" offset="00" relocatable="true" max_length="0">
+			<original>隣接する味方への敵の初撃を80％の確率で
+無効化する「絆盾」コマンドが使用できる</original>
+			<edited>隣接する味方への敵の初撃を80％の確率で
+無効化する「絆盾」コマンドが使用できる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LucinaEngage_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>隣接する味方への敵の初撃を80％の確率で
+無効化する「絆盾」コマンドが使用できる
+【竜族】発動確率＋10％</original>
+			<edited>隣接する味方への敵の初撃を80％の確率で
+無効化する「絆盾」コマンドが使用できる
+【竜族】発動確率＋10％</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LucinaEngage_Horse" offset="00" relocatable="true" max_length="0">
+			<original>隣接する味方への敵の初撃を80％の確率で
+無効化する「絆盾」コマンドが使用できる
+【騎馬】味方が騎馬スタイルなら確定発動</original>
+			<edited>隣接する味方への敵の初撃を80％の確率で
+無効化する「絆盾」コマンドが使用できる
+【騎馬】味方が騎馬スタイルなら確定発動</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LucinaEngage_Heavy" offset="00" relocatable="true" max_length="0">
+			<original>隣接する味方への敵の初撃を80％の確率で
+無効化する「絆盾」コマンドが使用できる
+【重装】味方が重装スタイルなら確定発動</original>
+			<edited>隣接する味方への敵の初撃を80％の確率で
+無効化する「絆盾」コマンドが使用できる
+【重装】味方が重装スタイルなら確定発動</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LucinaEngage_Fly" offset="00" relocatable="true" max_length="0">
+			<original>隣接する味方への敵の初撃を80％の確率で
+無効化する「絆盾」コマンドが使用できる
+【飛行】味方が飛行スタイルなら確定発動</original>
+			<edited>隣接する味方への敵の初撃を80％の確率で
+無効化する「絆盾」コマンドが使用できる
+【飛行】味方が飛行スタイルなら確定発動</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LucinaEngage_Prana" offset="00" relocatable="true" max_length="0">
+			<original>隣接する味方への敵の初撃を80％の確率で
+無効化する「絆盾」コマンドが使用できる
+【気功】発動確率が100％になる</original>
+			<edited>隣接する味方への敵の初撃を80％の確率で
+無効化する「絆盾」コマンドが使用できる
+【気功】発動確率が100％になる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LucinaEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>オールフォーワン</original>
+			<edited>オールフォーワン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LucinaEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>自分の周囲2マス以内の味方が
+チェインアタックに参加する
+剣・隣接時限定</original>
+			<edited>自分の周囲2マス以内の味方が
+チェインアタックに参加する
+剣・隣接時限定</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LucinaEngageAtk_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>周囲2マス以内の味方がチェインアタックに
+参加する/剣・隣接時限定
+【竜族】チェイン参加者の命中率100％</original>
+			<edited>周囲2マス以内の味方がチェインアタックに
+参加する/剣・隣接時限定
+【竜族】チェイン参加者の命中率100％</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LucinaEngageAtk_Coop" offset="00" relocatable="true" max_length="0">
+			<original>周囲2マス以内の味方がチェインアタックに
+参加する/剣・隣接時限定
+【連携】範囲＋1</original>
+			<edited>周囲2マス以内の味方がチェインアタックに
+参加する/剣・隣接時限定
+【連携】範囲＋1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LucinaEngageAtk_CMD" offset="00" relocatable="true" max_length="0">
+			<original>周囲の味方がチェインアタック参加</original>
+			<edited>周囲の味方がチェインアタック参加</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Pursuit_1" offset="00" relocatable="true" max_length="0">
+			<original>攻め立て</original>
+			<edited>攻め立て</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Pursuit_1" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃した時に、追撃が発生する場合
+かつ、速さが相手より9以上高い場合
+相手の反撃より前に追撃を行う</original>
+			<edited>自分から攻撃した時に、追撃が発生する場合
+かつ、速さが相手より9以上高い場合
+相手の反撃より前に追撃を行う</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Pursuit_2" offset="00" relocatable="true" max_length="0">
+			<original>攻め立て＋</original>
+			<edited>攻め立て＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Pursuit_2" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃した時に、追撃が発生する場合
+かつ、速さが相手より7以上高い場合
+相手の反撃より前に追撃を行う</original>
+			<edited>自分から攻撃した時に、追撃が発生する場合
+かつ、速さが相手より7以上高い場合
+相手の反撃より前に追撃を行う</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Pursuit_3" offset="00" relocatable="true" max_length="0">
+			<original>攻め立て＋＋</original>
+			<edited>攻め立て＋＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Pursuit_3" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃した時に、追撃が発生する場合
+かつ、速さが相手より5以上高い場合
+相手の反撃より前に追撃を行う</original>
+			<edited>自分から攻撃した時に、追撃が発生する場合
+かつ、速さが相手より5以上高い場合
+相手の反撃より前に追撃を行う</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SpeedAbsorption" offset="00" relocatable="true" max_length="0">
+			<original>速さの吸収</original>
+			<edited>速さの吸収</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SpeedAbsorption" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃して敵を倒すごとに、速さ＋2
+（最大＋10、戦闘マップ終了まで）</original>
+			<edited>自分から攻撃して敵を倒すごとに、速さ＋2
+（最大＋10、戦闘マップ終了まで）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LinEngage" offset="00" relocatable="true" max_length="0">
+			<original>残像</original>
+			<edited>残像</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LinEngage" offset="00" relocatable="true" max_length="0">
+			<original>自分のみチェインアタック可能な残像を
+4体生み出す「残像」コマンドが使用できる</original>
+			<edited>自分のみチェインアタック可能な残像を
+4体生み出す「残像」コマンドが使用できる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LinEngage_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>自分のみチェインアタック可能な残像を
+4体生み出す「残像」コマンドが使用できる
+【竜族】残像の数＋1</original>
+			<edited>自分のみチェインアタック可能な残像を
+4体生み出す「残像」コマンドが使用できる
+【竜族】残像の数＋1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LinEngage_Fly" offset="00" relocatable="true" max_length="0">
+			<original>自分のみチェインアタック可能な残像を
+4体生み出す「残像」コマンドが使用できる
+【飛行】残像の回避＋10</original>
+			<edited>自分のみチェインアタック可能な残像を
+4体生み出す「残像」コマンドが使用できる
+【飛行】残像の回避＋10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LinEngage_CMD" offset="00" relocatable="true" max_length="0">
+			<original>チェインアタック可能な残像を生成</original>
+			<edited>チェインアタック可能な残像を生成</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LinEngage_Delete_CMD" offset="00" relocatable="true" max_length="0">
+			<original>残像解除</original>
+			<edited>残像解除</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LinEngage_Delete_CMD" offset="00" relocatable="true" max_length="0">
+			<original>生み出した残像を消し去る</original>
+			<edited>生み出した残像を消し去る</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LinEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>流星群</original>
+			<edited>流星群</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LinEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>射程10、ダメージ30％の5連続攻撃
+弓限定</original>
+			<edited>射程10、ダメージ30％の5連続攻撃
+弓限定</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LinEngageAtk_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>射程10、ダメージ30％の5連続攻撃
+弓限定
+【竜族】射程＋5</original>
+			<edited>射程10、ダメージ30％の5連続攻撃
+弓限定
+【竜族】射程＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LinEngageAtk_Covert" offset="00" relocatable="true" max_length="0">
+			<original>射程10、ダメージ30％の5連続攻撃
+弓限定
+【隠密】射程＋10</original>
+			<edited>射程10、ダメージ30％の5連続攻撃
+弓限定
+【隠密】射程＋10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LinEngageAtk_Prana" offset="00" relocatable="true" max_length="0">
+			<original>射程10、ダメージ30％の5連続攻撃
+弓限定
+【気功】ブレイク確定</original>
+			<edited>射程10、ダメージ30％の5連続攻撃
+弓限定
+【気功】ブレイク確定</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LinEngageAtk_CMD" offset="00" relocatable="true" max_length="0">
+			<original>弓を使用した超遠距離の連続攻撃</original>
+			<edited>弓を使用した超遠距離の連続攻撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LinEngageAtk_Weak" offset="00" relocatable="true" max_length="0">
+			<original>射程10、ダメージ20％の5連続攻撃
+弓限定</original>
+			<edited>射程10、ダメージ20％の5連続攻撃
+弓限定</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LinEngageAtk_DarkSide_Prana" offset="00" relocatable="true" max_length="0">
+			<original>射程10、ダメージ20％の5連続攻撃
+弓限定
+【気功】ブレイク確定</original>
+			<edited>射程10、ダメージ20％の5連続攻撃
+弓限定
+【気功】ブレイク確定</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Ravage" offset="00" relocatable="true" max_length="0">
+			<original>破壊</original>
+			<edited>破壊</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Ravage" offset="00" relocatable="true" max_length="0">
+			<original>「破壊」コマンド使用時に
+対象を一撃で破壊できるようになる</original>
+			<edited>「破壊」コマンド使用時に
+対象を一撃で破壊できるようになる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PullBack" offset="00" relocatable="true" max_length="0">
+			<original>引き戻し</original>
+			<edited>引き戻し</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PullBack" offset="00" relocatable="true" max_length="0">
+			<original>隣接している味方を、自分を挟んで反対側に
+移動させる「引き戻し」コマンドが
+使用できる</original>
+			<edited>隣接している味方を、自分を挟んで反対側に
+移動させる「引き戻し」コマンドが
+使用できる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PullBack_CMD" offset="00" relocatable="true" max_length="0">
+			<original>味方を自分の反対側へ移動させる</original>
+			<edited>味方を自分の反対側へ移動させる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Anger" offset="00" relocatable="true" max_length="0">
+			<original>怒り</original>
+			<edited>怒り</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Anger" offset="00" relocatable="true" max_length="0">
+			<original>HP減少分必殺がアップする
+（最大＋30）</original>
+			<edited>HP減少分必殺がアップする
+（最大＋30）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BraveGeneral_1" offset="00" relocatable="true" max_length="0">
+			<original>勇将</original>
+			<edited>勇将</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BraveGeneral_1" offset="00" relocatable="true" max_length="0">
+			<original>HPが75％以下の時
+守備・魔防＋5</original>
+			<edited>HPが75％以下の時
+守備・魔防＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BraveGeneral_2" offset="00" relocatable="true" max_length="0">
+			<original>勇将＋</original>
+			<edited>勇将＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BraveGeneral_2" offset="00" relocatable="true" max_length="0">
+			<original>HPが75％以下の時
+守備・魔防＋7</original>
+			<edited>HPが75％以下の時
+守備・魔防＋7</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_IkeEngage" offset="00" relocatable="true" max_length="0">
+			<original>不動</original>
+			<edited>不動</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_IkeEngage" offset="00" relocatable="true" max_length="0">
+			<original>回避が0になる代わりに
+受けるダメージ－50％</original>
+			<edited>回避が0になる代わりに
+受けるダメージ－50％</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_IkeEngage_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>回避が0になる代わりに
+受けるダメージ－50％
+【竜族】さらに受けるダメージ－10％</original>
+			<edited>回避が0になる代わりに
+受けるダメージ－50％
+【竜族】さらに受けるダメージ－10％</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_IkeEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>覇克・天空</original>
+			<edited>覇克・天空</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_IkeEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>反撃を捨て守備・魔防＋5/次ターンに周囲
+2マス範囲攻撃/ダメージの30％HP回復
+剣・斧限定</original>
+			<edited>反撃を捨て守備・魔防＋5/次ターンに周囲
+2マス範囲攻撃/ダメージの30％HP回復
+剣・斧限定</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_IkeEngageAtk_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>反撃を捨て守備・魔防＋5/次ターンに周囲
+2マス範囲攻撃/ダメージの30％HP回復
+剣・斧限定【竜族】ダメージ＋1×被攻撃数</original>
+			<edited>反撃を捨て守備・魔防＋5/次ターンに周囲
+2マス範囲攻撃/ダメージの30％HP回復
+剣・斧限定【竜族】ダメージ＋1×被攻撃数</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_IkeEngageAtk_Heavy" offset="00" relocatable="true" max_length="0">
+			<original>反撃を捨て守備・魔防＋5/次ターンに周囲
+2マス範囲攻撃/ダメージの30％HP回復
+剣・斧限定【重装】使用中さらに守備＋5</original>
+			<edited>反撃を捨て守備・魔防＋5/次ターンに周囲
+2マス範囲攻撃/ダメージの30％HP回復
+剣・斧限定【重装】使用中さらに守備＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_IkeEngageAtk_Fly" offset="00" relocatable="true" max_length="0">
+			<original>反撃を捨て守備・魔防＋5/次ターンに周囲
+2マス範囲攻撃/ダメージの30％HP回復
+剣・斧限定【飛行】使用中さらに魔防＋5</original>
+			<edited>反撃を捨て守備・魔防＋5/次ターンに周囲
+2マス範囲攻撃/ダメージの30％HP回復
+剣・斧限定【飛行】使用中さらに魔防＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_IkeEngageAtk_CMD" offset="00" relocatable="true" max_length="0">
+			<original>敵の攻撃に耐え、次ターン範囲攻撃</original>
+			<edited>敵の攻撃に耐え、次ターン範囲攻撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_HeavenBeat_1" offset="00" relocatable="true" max_length="0">
+			<original>天刻の拍動</original>
+			<edited>天刻の拍動</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_HeavenBeat_1" offset="00" relocatable="true" max_length="0">
+			<original>30％の確率で外れた攻撃が命中する
+幸運が高いとさらに確率が上がる</original>
+			<edited>30％の確率で外れた攻撃が命中する
+幸運が高いとさらに確率が上がる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_HeavenBeat_2" offset="00" relocatable="true" max_length="0">
+			<original>天刻の拍動＋</original>
+			<edited>天刻の拍動＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_HeavenBeat_2" offset="00" relocatable="true" max_length="0">
+			<original>50％の確率で外れた攻撃が命中する
+幸運が高いとさらに確率が上がる</original>
+			<edited>50％の確率で外れた攻撃が命中する
+幸運が高いとさらに確率が上がる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_TeacherGuidance" offset="00" relocatable="true" max_length="0">
+			<original>師の導き</original>
+			<edited>師の導き</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_TeacherGuidance" offset="00" relocatable="true" max_length="0">
+			<original>自分と自分に隣接する味方の
+入手経験値120％</original>
+			<edited>自分と自分に隣接する味方の
+入手経験値120％</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PickUp" offset="00" relocatable="true" max_length="0">
+			<original>拾得</original>
+			<edited>拾得</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PickUp" offset="00" relocatable="true" max_length="0">
+			<original>味方ユニットに隣接して行動終了・待機時
+幸運％で落とし物を拾う
+（落とした味方との支援値が上昇する）</original>
+			<edited>味方ユニットに隣接して行動終了・待機時
+幸運％で落とし物を拾う
+（落とした味方との支援値が上昇する）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PickUp_Message" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;の落とし物を拾って、手渡した</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;の落とし物を拾って、手渡した</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BylethEngage" offset="00" relocatable="true" max_length="0">
+			<original>指導</original>
+			<edited>指導</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngage" offset="00" relocatable="true" max_length="0">
+			<original>周囲2マスの味方に、1ターンの間
+スタイルに応じた能力アップを与える
+「指導」コマンドが使用できる</original>
+			<edited>周囲2マスの味方に、1ターンの間
+スタイルに応じた能力アップを与える
+「指導」コマンドが使用できる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngage_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>周囲2マスの味方に、1ターンの間
+スタイルに応じた能力アップを与える
+「指導」コマンドが使用できる
+【竜族】7つの基本能力＋3</original>
+			<edited>周囲2マスの味方に、1ターンの間
+スタイルに応じた能力アップを与える
+「指導」コマンドが使用できる
+【竜族】7つの基本能力＋3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BylethEngage_Dragon_CMD" offset="00" relocatable="true" max_length="0">
+			<original>指導〈全〉</original>
+			<edited>指導〈全〉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngage_Dragon_CMD" offset="00" relocatable="true" max_length="0">
+			<original>周囲2マスの味方の全基本能力＋3</original>
+			<edited>周囲2マスの味方の全基本能力＋3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngage_Coop" offset="00" relocatable="true" max_length="0">
+			<original>周囲2マスの味方に、1ターンの間
+スタイルに応じた能力アップを与える
+「指導」コマンドが使用できる
+【連携】力＋4</original>
+			<edited>周囲2マスの味方に、1ターンの間
+スタイルに応じた能力アップを与える
+「指導」コマンドが使用できる
+【連携】力＋4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BylethEngage_Coop_CMD" offset="00" relocatable="true" max_length="0">
+			<original>指導〈力〉</original>
+			<edited>指導〈力〉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngage_Coop_CMD" offset="00" relocatable="true" max_length="0">
+			<original>周囲2マスの味方の力＋4</original>
+			<edited>周囲2マスの味方の力＋4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngage_Horse" offset="00" relocatable="true" max_length="0">
+			<original>周囲2マスの味方に、1ターンの間
+スタイルに応じた能力アップを与える
+「指導」コマンドが使用できる
+【騎馬】技＋10</original>
+			<edited>周囲2マスの味方に、1ターンの間
+スタイルに応じた能力アップを与える
+「指導」コマンドが使用できる
+【騎馬】技＋10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BylethEngage_Horse_CMD" offset="00" relocatable="true" max_length="0">
+			<original>指導〈技〉</original>
+			<edited>指導〈技〉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngage_Horse_CMD" offset="00" relocatable="true" max_length="0">
+			<original>周囲2マスの味方の技＋10</original>
+			<edited>周囲2マスの味方の技＋10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngage_Covert" offset="00" relocatable="true" max_length="0">
+			<original>周囲2マスの味方に、1ターンの間
+スタイルに応じた能力アップを与える
+「指導」コマンドが使用できる
+【隠密】速さ＋5</original>
+			<edited>周囲2マスの味方に、1ターンの間
+スタイルに応じた能力アップを与える
+「指導」コマンドが使用できる
+【隠密】速さ＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BylethEngage_Covert_CMD" offset="00" relocatable="true" max_length="0">
+			<original>指導〈速さ〉</original>
+			<edited>指導〈速さ〉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngage_Covert_CMD" offset="00" relocatable="true" max_length="0">
+			<original>周囲2マスの味方の速さ＋5</original>
+			<edited>周囲2マスの味方の速さ＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngage_Heavy" offset="00" relocatable="true" max_length="0">
+			<original>周囲2マスの味方に、1ターンの間
+スタイルに応じた能力アップを与える
+「指導」コマンドが使用できる
+【重装】守備＋5</original>
+			<edited>周囲2マスの味方に、1ターンの間
+スタイルに応じた能力アップを与える
+「指導」コマンドが使用できる
+【重装】守備＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BylethEngage_Heavy_CMD" offset="00" relocatable="true" max_length="0">
+			<original>指導〈守備〉</original>
+			<edited>指導〈守備〉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngage_Heavy_CMD" offset="00" relocatable="true" max_length="0">
+			<original>周囲2マスの味方の守備＋5</original>
+			<edited>周囲2マスの味方の守備＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngage_Fly" offset="00" relocatable="true" max_length="0">
+			<original>周囲2マスの味方に、1ターンの間
+スタイルに応じた能力アップを与える
+「指導」コマンドが使用できる
+【飛行】魔防＋5</original>
+			<edited>周囲2マスの味方に、1ターンの間
+スタイルに応じた能力アップを与える
+「指導」コマンドが使用できる
+【飛行】魔防＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BylethEngage_Fly_CMD" offset="00" relocatable="true" max_length="0">
+			<original>指導〈魔防〉</original>
+			<edited>指導〈魔防〉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngage_Fly_CMD" offset="00" relocatable="true" max_length="0">
+			<original>周囲2マスの味方の魔防＋5</original>
+			<edited>周囲2マスの味方の魔防＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngage_Magic" offset="00" relocatable="true" max_length="0">
+			<original>周囲2マスの味方に、1ターンの間
+スタイルに応じた能力アップを与える
+「指導」コマンドが使用できる
+【魔道】魔力＋4</original>
+			<edited>周囲2マスの味方に、1ターンの間
+スタイルに応じた能力アップを与える
+「指導」コマンドが使用できる
+【魔道】魔力＋4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BylethEngage_Magic_CMD" offset="00" relocatable="true" max_length="0">
+			<original>指導〈魔力〉</original>
+			<edited>指導〈魔力〉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngage_Magic_CMD" offset="00" relocatable="true" max_length="0">
+			<original>周囲2マスの味方の魔力＋4</original>
+			<edited>周囲2マスの味方の魔力＋4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngage_Prana" offset="00" relocatable="true" max_length="0">
+			<original>周囲2マスの味方に、1ターンの間
+スタイルに応じた能力アップを与える
+「指導」コマンドが使用できる
+【気功】幸運＋10</original>
+			<edited>周囲2マスの味方に、1ターンの間
+スタイルに応じた能力アップを与える
+「指導」コマンドが使用できる
+【気功】幸運＋10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BylethEngage_Prana_CMD" offset="00" relocatable="true" max_length="0">
+			<original>指導〈幸運〉</original>
+			<edited>指導〈幸運〉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngage_Prana_CMD" offset="00" relocatable="true" max_length="0">
+			<original>周囲2マスの味方の幸運＋10</original>
+			<edited>周囲2マスの味方の幸運＋10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BylethEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>計略：女神の舞</original>
+			<edited>計略：女神の舞</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>隣接4マスの味方を再行動させる</original>
+			<edited>隣接4マスの味方を再行動させる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngageAtk_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>隣接4マスの味方を再行動させる
+【竜族】再行動する味方の
+7つの基本能力を1ターンの間＋3</original>
+			<edited>隣接4マスの味方を再行動させる
+【竜族】再行動する味方の
+7つの基本能力を1ターンの間＋3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngageAtk_Coop" offset="00" relocatable="true" max_length="0">
+			<original>隣接4マスの味方を再行動させる
+【連携】再行動する味方の
+力を1ターンの間＋4</original>
+			<edited>隣接4マスの味方を再行動させる
+【連携】再行動する味方の
+力を1ターンの間＋4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngageAtk_Horse" offset="00" relocatable="true" max_length="0">
+			<original>隣接4マスの味方を再行動させる
+【騎馬】再行動する味方の
+技を1ターンの間＋10</original>
+			<edited>隣接4マスの味方を再行動させる
+【騎馬】再行動する味方の
+技を1ターンの間＋10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngageAtk_Covert" offset="00" relocatable="true" max_length="0">
+			<original>隣接4マスの味方を再行動させる
+【隠密】再行動する味方の
+速さを1ターンの間＋5</original>
+			<edited>隣接4マスの味方を再行動させる
+【隠密】再行動する味方の
+速さを1ターンの間＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngageAtk_Heavy" offset="00" relocatable="true" max_length="0">
+			<original>隣接4マスの味方を再行動させる
+【重装】再行動する味方の
+守備を1ターンの間＋5</original>
+			<edited>隣接4マスの味方を再行動させる
+【重装】再行動する味方の
+守備を1ターンの間＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngageAtk_Fly" offset="00" relocatable="true" max_length="0">
+			<original>隣接4マスの味方を再行動させる
+【飛行】再行動する味方の
+魔防を1ターンの間＋5</original>
+			<edited>隣接4マスの味方を再行動させる
+【飛行】再行動する味方の
+魔防を1ターンの間＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngageAtk_Magic" offset="00" relocatable="true" max_length="0">
+			<original>隣接4マスの味方を再行動させる
+【魔道】再行動する味方の
+魔力を1ターンの間＋4</original>
+			<edited>隣接4マスの味方を再行動させる
+【魔道】再行動する味方の
+魔力を1ターンの間＋4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngageAtk_Prana" offset="00" relocatable="true" max_length="0">
+			<original>隣接4マスの味方を再行動させる
+【気功】再行動する味方の
+幸運を1ターンの間＋10</original>
+			<edited>隣接4マスの味方を再行動させる
+【気功】再行動する味方の
+幸運を1ターンの間＋10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethEngageAtk_CMD" offset="00" relocatable="true" max_length="0">
+			<original>隣接4マスの味方を再行動させる</original>
+			<edited>隣接4マスの味方を再行動させる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_M014_BylethEngageAtk_DarkSide" offset="00" relocatable="true" max_length="0">
+			<original>計略：邪神の舞</original>
+			<edited>計略：邪神の舞</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_M014_BylethEngageAtk_DarkSide" offset="00" relocatable="true" max_length="0">
+			<original>周囲2マスの味方を再行動させる</original>
+			<edited>周囲2マスの味方を再行動させる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_DragonPulse" offset="00" relocatable="true" max_length="0">
+			<original>竜脈</original>
+			<edited>竜脈</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonPulse" offset="00" relocatable="true" max_length="0">
+			<original>マスに対して、特殊効果を付与する
+「竜脈」コマンドが使用できる</original>
+			<edited>マスに対して、特殊効果を付与する
+「竜脈」コマンドが使用できる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonPulse_CMD" offset="00" relocatable="true" max_length="0">
+			<original>マスに対して特殊効果を付与する</original>
+			<edited>マスに対して特殊効果を付与する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonPulse_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>マスに対して、特殊効果を付与する
+「竜脈」コマンドが使用できる
+【竜族】全ての竜脈を使いこなせる</original>
+			<edited>マスに対して、特殊効果を付与する
+「竜脈」コマンドが使用できる
+【竜族】全ての竜脈を使いこなせる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_DragonPulse_DefUp" offset="00" relocatable="true" max_length="0">
+			<original>竜脈〈護〉</original>
+			<edited>竜脈〈護〉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonPulse_DefUp" offset="00" relocatable="true" max_length="0">
+			<original>守備・魔防をアップする土柱を発生させる</original>
+			<edited>守備・魔防をアップする土柱を発生させる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonPulse_Coop" offset="00" relocatable="true" max_length="0">
+			<original>マスに対して特殊効果を付与する
+「竜脈〈護〉」コマンドが使用できる
+【連携】守備・魔防アップ効果のある土柱を
+発生させる</original>
+			<edited>マスに対して特殊効果を付与する
+「竜脈〈護〉」コマンドが使用できる
+【連携】守備・魔防アップ効果のある土柱を
+発生させる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_DragonPulse_AvoDown" offset="00" relocatable="true" max_length="0">
+			<original>竜脈〈水〉</original>
+			<edited>竜脈〈水〉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonPulse_AvoDown" offset="00" relocatable="true" max_length="0">
+			<original>回避ダウン効果のある水場を発生させる</original>
+			<edited>回避ダウン効果のある水場を発生させる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonPulse_Horse" offset="00" relocatable="true" max_length="0">
+			<original>マスに対して特殊効果を付与する
+「竜脈〈水〉」コマンドが使用できる
+【騎馬】回避ダウン効果のある水たまりを
+発生させる</original>
+			<edited>マスに対して特殊効果を付与する
+「竜脈〈水〉」コマンドが使用できる
+【騎馬】回避ダウン効果のある水たまりを
+発生させる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_DragonPulse_AvoUp" offset="00" relocatable="true" max_length="0">
+			<original>竜脈〈霧〉</original>
+			<edited>竜脈〈霧〉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonPulse_AvoUp" offset="00" relocatable="true" max_length="0">
+			<original>回避アップ効果のある霧を発生させる</original>
+			<edited>回避アップ効果のある霧を発生させる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonPulse_Covert" offset="00" relocatable="true" max_length="0">
+			<original>マスに対して特殊効果を付与する
+「竜脈〈霧〉」コマンドが使用できる
+【隠密】回避アップ効果のある霧を
+発生させる</original>
+			<edited>マスに対して特殊効果を付与する
+「竜脈〈霧〉」コマンドが使用できる
+【隠密】回避アップ効果のある霧を
+発生させる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_DragonPulse_NotBreak" offset="00" relocatable="true" max_length="0">
+			<original>竜脈〈緑〉</original>
+			<edited>竜脈〈緑〉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonPulse_NotBreak" offset="00" relocatable="true" max_length="0">
+			<original>ブレイクを無効化するツタを発生させる</original>
+			<edited>ブレイクを無効化するツタを発生させる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonPulse_Heavy" offset="00" relocatable="true" max_length="0">
+			<original>マスに対して特殊効果を付与する
+「竜脈〈緑〉」コマンドが使用できる
+【重装】ブレイクを無効化するツタを
+発生させる</original>
+			<edited>マスに対して特殊効果を付与する
+「竜脈〈緑〉」コマンドが使用できる
+【重装】ブレイクを無効化するツタを
+発生させる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_DragonPulse_Heal" offset="00" relocatable="true" max_length="0">
+			<original>竜脈〈癒〉</original>
+			<edited>竜脈〈癒〉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonPulse_Heal" offset="00" relocatable="true" max_length="0">
+			<original>HP回復効果のある癒しの霧を発生させる</original>
+			<edited>HP回復効果のある癒しの霧を発生させる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonPulse_Fly" offset="00" relocatable="true" max_length="0">
+			<original>マスに対して特殊効果を付与する
+「竜脈〈癒〉」コマンドが使用できる
+【飛行】HP回復効果のある癒しの霧を
+発生させる</original>
+			<edited>マスに対して特殊効果を付与する
+「竜脈〈癒〉」コマンドが使用できる
+【飛行】HP回復効果のある癒しの霧を
+発生させる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_DragonPulse_Damage" offset="00" relocatable="true" max_length="0">
+			<original>竜脈〈炎〉</original>
+			<edited>竜脈〈炎〉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonPulse_Damage" offset="00" relocatable="true" max_length="0">
+			<original>ダメージ効果のある炎を発生させる</original>
+			<edited>ダメージ効果のある炎を発生させる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonPulse_Magic" offset="00" relocatable="true" max_length="0">
+			<original>マスに対して特殊効果を付与する
+「竜脈〈炎〉」コマンドが使用できる
+【魔道】ダメージ効果のある炎を発生させる</original>
+			<edited>マスに対して特殊効果を付与する
+「竜脈〈炎〉」コマンドが使用できる
+【魔道】ダメージ効果のある炎を発生させる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_DragonPulse_Block" offset="00" relocatable="true" max_length="0">
+			<original>竜脈〈氷〉</original>
+			<edited>竜脈〈氷〉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonPulse_Block" offset="00" relocatable="true" max_length="0">
+			<original>進路をふさぐ氷柱を発生させる</original>
+			<edited>進路をふさぐ氷柱を発生させる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonPulse_Prana" offset="00" relocatable="true" max_length="0">
+			<original>マスに対して特殊効果を付与する
+「竜脈〈氷〉」コマンドが使用できる
+【気功】進路をふさぐ氷柱を発生させる</original>
+			<edited>マスに対して特殊効果を付与する
+「竜脈〈氷〉」コマンドが使用できる
+【気功】進路をふさぐ氷柱を発生させる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_DragonCurse" offset="00" relocatable="true" max_length="0">
+			<original>竜呪</original>
+			<edited>竜呪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DragonCurse" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃した時
+戦闘後、相手の全基本能力－4
+（効果は1ターンに1ずつ回復する）</original>
+			<edited>自分から攻撃した時
+戦闘後、相手の全基本能力－4
+（効果は1ターンに1ずつ回復する）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_DefenseStyle" offset="00" relocatable="true" max_length="0">
+			<original>防陣</original>
+			<edited>防陣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DefenseStyle" offset="00" relocatable="true" max_length="0">
+			<original>敵のチェインアタック無効</original>
+			<edited>敵のチェインアタック無効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PhysicalContact_1" offset="00" relocatable="true" max_length="0">
+			<original>スキンシップ</original>
+			<edited>スキンシップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PhysicalContact_1" offset="00" relocatable="true" max_length="0">
+			<original>行動終了・待機時に
+隣接する味方のHPを5回復
+支援値が少し上昇する</original>
+			<edited>行動終了・待機時に
+隣接する味方のHPを5回復
+支援値が少し上昇する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PhysicalContact_2" offset="00" relocatable="true" max_length="0">
+			<original>スキンシップ＋</original>
+			<edited>スキンシップ＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PhysicalContact_2" offset="00" relocatable="true" max_length="0">
+			<original>行動終了・待機時に
+隣接する味方のHPを10回復
+支援値が少し上昇する</original>
+			<edited>行動終了・待機時に
+隣接する味方のHPを10回復
+支援値が少し上昇する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_KamuiEngage" offset="00" relocatable="true" max_length="0">
+			<original>呪縛</original>
+			<edited>呪縛</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_KamuiEngage" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃した時、戦闘後に相手とその
+周囲1マスの敵を1ターン移動できなくする</original>
+			<edited>自分から攻撃した時、戦闘後に相手とその
+周囲1マスの敵を1ターン移動できなくする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_KamuiEngage_Covert" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃した時、戦闘後に相手とその
+周囲1マスの敵を1ターン移動できなくする
+【隠密】さらに、相手の回避－20</original>
+			<edited>自分から攻撃した時、戦闘後に相手とその
+周囲1マスの敵を1ターン移動できなくする
+【隠密】さらに、相手の回避－20</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_KamuiEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>竜穿砲</original>
+			<edited>竜穿砲</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_KamuiEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>水の力で直線3マスを攻撃し
+マスを「水たまり」にする
+隣接時限定</original>
+			<edited>水の力で直線3マスを攻撃し
+マスを「水たまり」にする
+隣接時限定</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_KamuiEngageAtk_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>水の力で直線3マスを攻撃し
+マスを「水たまり」にする/隣接時限定
+【竜族】攻撃範囲を＋1する</original>
+			<edited>水の力で直線3マスを攻撃し
+マスを「水たまり」にする/隣接時限定
+【竜族】攻撃範囲を＋1する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_KamuiEngageAtk_CMD" offset="00" relocatable="true" max_length="0">
+			<original>水の力で直線上の複数のマスを攻撃</original>
+			<edited>水の力で直線上の複数のマスを攻撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_God_Change_CMD" offset="00" relocatable="true" max_length="0">
+			<original>オルタネイト</original>
+			<edited>オルタネイト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_God_Change" offset="00" relocatable="true" max_length="0">
+			<original>紋章士を交代して、味方全員の
+「月の腕輪」「優風」と
+「太陽の腕輪」「勇空」を入れ替える
+「オルタネイト」コマンドが使用できる</original>
+			<edited>紋章士を交代して、味方全員の
+「月の腕輪」「優風」と
+「太陽の腕輪」「勇空」を入れ替える
+「オルタネイト」コマンドが使用できる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_God_Change_CMD" offset="00" relocatable="true" max_length="0">
+			<original>紋章士を入れ替える</original>
+			<edited>紋章士を入れ替える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MoonBracelet_1" offset="00" relocatable="true" max_length="0">
+			<original>月の腕輪</original>
+			<edited>月の腕輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MoonBracelet_1" offset="00" relocatable="true" max_length="0">
+			<original>自分から物理攻撃をした時
+相手の守備の20％をダメージに加算する</original>
+			<edited>自分から物理攻撃をした時
+相手の守備の20％をダメージに加算する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MoonBracelet_2" offset="00" relocatable="true" max_length="0">
+			<original>月の腕輪＋</original>
+			<edited>月の腕輪＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MoonBracelet_2" offset="00" relocatable="true" max_length="0">
+			<original>自分から物理攻撃をした時
+相手の守備の30％をダメージに加算する</original>
+			<edited>自分から物理攻撃をした時
+相手の守備の30％をダメージに加算する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SunBracelet_1" offset="00" relocatable="true" max_length="0">
+			<original>太陽の腕輪</original>
+			<edited>太陽の腕輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SunBracelet_1" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃した時
+与えたダメージの30％
+自分のHPを回復する</original>
+			<edited>自分から攻撃した時
+与えたダメージの30％
+自分のHPを回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SunBracelet_2" offset="00" relocatable="true" max_length="0">
+			<original>太陽の腕輪＋</original>
+			<edited>太陽の腕輪＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SunBracelet_2" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃した時
+与えたダメージの50％
+自分のHPを回復する</original>
+			<edited>自分から攻撃した時
+与えたダメージの50％
+自分のHPを回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SunMoonBracelet_1" offset="00" relocatable="true" max_length="0">
+			<original>日月の腕輪</original>
+			<edited>日月の腕輪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SunMoonBracelet_1" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃した時、与えたダメージの
+30％自分のHPを回復する
+その攻撃が物理攻撃だった場合、与える
+ダメージに相手の守備の20％を加算する</original>
+			<edited>自分から攻撃した時、与えたダメージの
+30％自分のHPを回復する
+その攻撃が物理攻撃だった場合、与える
+ダメージに相手の守備の20％を加算する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SunMoonBracelet_2" offset="00" relocatable="true" max_length="0">
+			<original>日月の腕輪＋</original>
+			<edited>日月の腕輪＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SunMoonBracelet_2" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃した時、与えたダメージの
+50％自分のHPを回復する
+その攻撃が物理攻撃だった場合、与える
+ダメージに相手の守備の30％を加算する</original>
+			<edited>自分から攻撃した時、与えたダメージの
+50％自分のHPを回復する
+その攻撃が物理攻撃だった場合、与える
+ダメージに相手の守備の30％を加算する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_GentleWind_1" offset="00" relocatable="true" max_length="0">
+			<original>優風</original>
+			<edited>優風</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_GentleWind_1" offset="00" relocatable="true" max_length="0">
+			<original>常に受けるダメージを－3</original>
+			<edited>常に受けるダメージを－3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_GentleWind_2" offset="00" relocatable="true" max_length="0">
+			<original>優風＋</original>
+			<edited>優風＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_GentleWind_2" offset="00" relocatable="true" max_length="0">
+			<original>常に受けるダメージを－5</original>
+			<edited>常に受けるダメージを－5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BraveSky_1" offset="00" relocatable="true" max_length="0">
+			<original>勇空</original>
+			<edited>勇空</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BraveSky_1" offset="00" relocatable="true" max_length="0">
+			<original>常に与えるダメージを＋3</original>
+			<edited>常に与えるダメージを＋3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BraveSky_2" offset="00" relocatable="true" max_length="0">
+			<original>勇空＋</original>
+			<edited>勇空＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BraveSky_2" offset="00" relocatable="true" max_length="0">
+			<original>常に与えるダメージを＋5</original>
+			<edited>常に与えるダメージを＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Azure_1" offset="00" relocatable="true" max_length="0">
+			<original>蒼穹</original>
+			<edited>蒼穹</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Azure_1" offset="00" relocatable="true" max_length="0">
+			<original>常に受けるダメージを－3
+与えるダメージを＋3</original>
+			<edited>常に受けるダメージを－3
+与えるダメージを＋3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Azure_2" offset="00" relocatable="true" max_length="0">
+			<original>蒼穹＋</original>
+			<edited>蒼穹＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Azure_2" offset="00" relocatable="true" max_length="0">
+			<original>常に受けるダメージを－5
+与えるダメージを＋5</original>
+			<edited>常に受けるダメージを－5
+与えるダメージを＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_EirikEngage" offset="00" relocatable="true" max_length="0">
+			<original>双聖</original>
+			<edited>双聖</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EirikEngage" offset="00" relocatable="true" max_length="0">
+			<original>エイリークとエンゲージ中、味方全員の
+「月の腕輪」を「日月の腕輪」に
+「優風」を「蒼穹」に変化させる</original>
+			<edited>エイリークとエンゲージ中、味方全員の
+「月の腕輪」を「日月の腕輪」に
+「優風」を「蒼穹」に変化させる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_EirikEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>ツインストライク</original>
+			<edited>ツインストライク</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EirikEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>エフラムと共に連続攻撃
+剣・隣接時限定
+（エフラムは槍攻撃・異形特効を持つ）</original>
+			<edited>エフラムと共に連続攻撃
+剣・隣接時限定
+（エフラムは槍攻撃・異形特効を持つ）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EirikEngageAtk_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>エフラムと共に連続攻撃/剣・隣接時限定
+（エフラムは槍攻撃・異形特効を持つ）
+【竜族】ダメージ120％</original>
+			<edited>エフラムと共に連続攻撃/剣・隣接時限定
+（エフラムは槍攻撃・異形特効を持つ）
+【竜族】ダメージ120％</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EirikEngageAtk_Horse" offset="00" relocatable="true" max_length="0">
+			<original>エフラムと共に連続攻撃/剣・隣接時限定
+（エフラムは槍攻撃・異形特効を持つ）
+【騎馬】エフラムの攻撃ダメージ150％</original>
+			<edited>エフラムと共に連続攻撃/剣・隣接時限定
+（エフラムは槍攻撃・異形特効を持つ）
+【騎馬】エフラムの攻撃ダメージ150％</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EirikEngageAtk_CMD" offset="00" relocatable="true" max_length="0">
+			<original>エフラムと共に連続攻撃</original>
+			<edited>エフラムと共に連続攻撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_EvilDragonSpecialEffect" offset="00" relocatable="true" max_length="0">
+			<original>邪竜有効</original>
+			<edited>邪竜有効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EvilDragonSpecialEffect" offset="00" relocatable="true" max_length="0">
+			<original>自分の攻撃に邪竜有効が付与される
+また、周囲2マス以内の
+味方の竜特効武器にも邪竜有効を付与する</original>
+			<edited>自分の攻撃に邪竜有効が付与される
+また、周囲2マス以内の
+味方の竜特効武器にも邪竜有効を付与する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_GodDragonProtection" offset="00" relocatable="true" max_length="0">
+			<original>神竜の加護</original>
+			<edited>神竜の加護</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_GodDragonProtection" offset="00" relocatable="true" max_length="0">
+			<original>自分に対する特効効果をすべて無効化する</original>
+			<edited>自分に対する特効効果をすべて無効化する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_ConnectPerson_1" offset="00" relocatable="true" max_length="0">
+			<original>絆を繋和ぐもの</original>
+			<edited>絆を繋和ぐもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_ConnectPerson_1" offset="00" relocatable="true" max_length="0">
+			<original>自分と、周囲2マス以内にいる
+シンクロ、エンゲージ中の味方の
+命中・回避＋20</original>
+			<edited>自分と、周囲2マス以内にいる
+シンクロ、エンゲージ中の味方の
+命中・回避＋20</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_ConnectPerson_2" offset="00" relocatable="true" max_length="0">
+			<original>絆を繋和ぐもの＋</original>
+			<edited>絆を繋和ぐもの＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_ConnectPerson_2" offset="00" relocatable="true" max_length="0">
+			<original>自分と、周囲2マス以内にいる
+シンクロ、エンゲージ中の味方の
+命中・回避＋30</original>
+			<edited>自分と、周囲2マス以内にいる
+シンクロ、エンゲージ中の味方の
+命中・回避＋30</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BlessingOfEleos" offset="00" relocatable="true" max_length="0">
+			<original>エレオスの祝福</original>
+			<edited>エレオスの祝福</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BlessingOfEleos" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃した時
+行動済みの味方の数×2
+必殺と必避がアップする</original>
+			<edited>自分から攻撃した時
+行動済みの味方の数×2
+必殺と必避がアップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LueurEngage" offset="00" relocatable="true" max_length="0">
+			<original>以心</original>
+			<edited>以心</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngage" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃し敵を撃破した時、エンゲージ
+終了まで、エンゲージ相手の全基本能力＋4</original>
+			<edited>自分から攻撃し敵を撃破した時、エンゲージ
+終了まで、エンゲージ相手の全基本能力＋4</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngage_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃し敵を撃破した時、エンゲージ
+終了まで、エンゲージ相手の全基本能力＋4
+【竜族】さらに同じ7つの基本能力＋1</original>
+			<edited>自分から攻撃し敵を撃破した時、エンゲージ
+終了まで、エンゲージ相手の全基本能力＋4
+【竜族】さらに同じ7つの基本能力＋1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngage_Coop" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃し敵を撃破した時、エンゲージ
+終了まで、エンゲージ相手の全基本能力＋4
+【連携】さらに力＋2</original>
+			<edited>自分から攻撃し敵を撃破した時、エンゲージ
+終了まで、エンゲージ相手の全基本能力＋4
+【連携】さらに力＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngage_Horse" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃し敵を撃破した時、エンゲージ
+終了まで、エンゲージ相手の全基本能力＋4
+【騎馬】さらに技＋2</original>
+			<edited>自分から攻撃し敵を撃破した時、エンゲージ
+終了まで、エンゲージ相手の全基本能力＋4
+【騎馬】さらに技＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngage_Covert" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃し敵を撃破した時、エンゲージ
+終了まで、エンゲージ相手の全基本能力＋4
+【隠密】さらに速さ＋2</original>
+			<edited>自分から攻撃し敵を撃破した時、エンゲージ
+終了まで、エンゲージ相手の全基本能力＋4
+【隠密】さらに速さ＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngage_Heavy" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃し敵を撃破した時、エンゲージ
+終了まで、エンゲージ相手の全基本能力＋4
+【重装】さらに守備＋2</original>
+			<edited>自分から攻撃し敵を撃破した時、エンゲージ
+終了まで、エンゲージ相手の全基本能力＋4
+【重装】さらに守備＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngage_Fly" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃し敵を撃破した時、エンゲージ
+終了まで、エンゲージ相手の全基本能力＋4
+【飛行】さらに魔防＋2</original>
+			<edited>自分から攻撃し敵を撃破した時、エンゲージ
+終了まで、エンゲージ相手の全基本能力＋4
+【飛行】さらに魔防＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngage_Magic" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃し敵を撃破した時、エンゲージ
+終了まで、エンゲージ相手の全基本能力＋4
+【魔道】さらに魔力＋2</original>
+			<edited>自分から攻撃し敵を撃破した時、エンゲージ
+終了まで、エンゲージ相手の全基本能力＋4
+【魔道】さらに魔力＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngage_Prana" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃し敵を撃破した時、エンゲージ
+終了まで、エンゲージ相手の全基本能力＋4
+【気功】さらに幸運＋2</original>
+			<edited>自分から攻撃し敵を撃破した時、エンゲージ
+終了まで、エンゲージ相手の全基本能力＋4
+【気功】さらに幸運＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LueurEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>神竜破</original>
+			<edited>神竜破</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngageAtk" offset="00" relocatable="true" max_length="0">
+			<original>剣とビーム（魔法）のコンビネーション攻撃
+剣・隣接時限定</original>
+			<edited>剣とビーム（魔法）のコンビネーション攻撃
+剣・隣接時限定</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngageAtk_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>剣とビーム（魔法）のコンビネーション攻撃
+剣・隣接時限定
+【竜族】ダメージ120％</original>
+			<edited>剣とビーム（魔法）のコンビネーション攻撃
+剣・隣接時限定
+【竜族】ダメージ120％</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngageAtk_Coop" offset="00" relocatable="true" max_length="0">
+			<original>剣とビーム（魔法）のコンビネーション攻撃
+剣・隣接時限定
+【連携】剣攻撃時のダメージに
+力の20％を追加</original>
+			<edited>剣とビーム（魔法）のコンビネーション攻撃
+剣・隣接時限定
+【連携】剣攻撃時のダメージに
+力の20％を追加</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngageAtk_Magic" offset="00" relocatable="true" max_length="0">
+			<original>剣とビーム（魔法）のコンビネーション攻撃
+剣・隣接時限定
+【魔道】ビーム攻撃時のダメージに
+魔力の20％を追加</original>
+			<edited>剣とビーム（魔法）のコンビネーション攻撃
+剣・隣接時限定
+【魔道】ビーム攻撃時のダメージに
+魔力の20％を追加</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngageAtk_Prana" offset="00" relocatable="true" max_length="0">
+			<original>剣とビーム（魔法）のコンビネーション攻撃
+剣・隣接時限定
+【気功】ブレイク確定</original>
+			<edited>剣とビーム（魔法）のコンビネーション攻撃
+剣・隣接時限定
+【気功】ブレイク確定</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngageAtk_CMD" offset="00" relocatable="true" max_length="0">
+			<original>剣とビームのコンビネーション攻撃</original>
+			<edited>剣とビームのコンビネーション攻撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LueurEngageAtk_p" offset="00" relocatable="true" max_length="0">
+			<original>絆・神竜破</original>
+			<edited>絆・神竜破</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngageAtk_p" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ相手との、剣とビーム（魔法）の
+3連続連携攻撃
+剣・隣接時限定</original>
+			<edited>エンゲージ相手との、剣とビーム（魔法）の
+3連続連携攻撃
+剣・隣接時限定</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngageAtk_p_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ相手との、剣とビーム（魔法）の
+3連続連携攻撃/剣・隣接時限定
+【竜族】ダメージ120％</original>
+			<edited>エンゲージ相手との、剣とビーム（魔法）の
+3連続連携攻撃/剣・隣接時限定
+【竜族】ダメージ120％</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngageAtk_p_Coop" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ相手との、剣とビーム（魔法）の
+3連続連携攻撃/剣・隣接時限定
+【連携】剣攻撃時のダメージに
+力の20％を追加</original>
+			<edited>エンゲージ相手との、剣とビーム（魔法）の
+3連続連携攻撃/剣・隣接時限定
+【連携】剣攻撃時のダメージに
+力の20％を追加</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngageAtk_p_Magic" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ相手との、剣とビーム（魔法）の
+3連続連携攻撃/剣・隣接時限定
+【魔道】ビーム攻撃時のダメージに
+魔力の20％を追加</original>
+			<edited>エンゲージ相手との、剣とビーム（魔法）の
+3連続連携攻撃/剣・隣接時限定
+【魔道】ビーム攻撃時のダメージに
+魔力の20％を追加</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngageAtk_p_Prana" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ相手との、剣とビーム（魔法）の
+3連続連携攻撃/剣・隣接時限定
+【気功】ブレイク確定</original>
+			<edited>エンゲージ相手との、剣とビーム（魔法）の
+3連続連携攻撃/剣・隣接時限定
+【気功】ブレイク確定</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LueurEngageAtk_p_CMD" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ相手との3連続連携攻撃</original>
+			<edited>エンゲージ相手との3連続連携攻撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Lueur" offset="00" relocatable="true" max_length="0">
+			<original>神竜の結束</original>
+			<edited>神竜の結束</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Lueur" offset="00" relocatable="true" max_length="0">
+			<original>隣接している味方が与えるダメージ＋3
+受けるダメージ－1</original>
+			<edited>隣接している味方が与えるダメージ＋3
+受けるダメージ－1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Vandre" offset="00" relocatable="true" max_length="0">
+			<original>白の忠誠</original>
+			<edited>白の忠誠</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Vandre" offset="00" relocatable="true" max_length="0">
+			<original>主人公と隣接している間
+主人公と自分の必殺＋5</original>
+			<edited>主人公と隣接している間
+主人公と自分の必殺＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Clan" offset="00" relocatable="true" max_length="0">
+			<original>碧の信仰</original>
+			<edited>碧の信仰</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Clan" offset="00" relocatable="true" max_length="0">
+			<original>主人公と隣接している間
+主人公と自分の命中＋10</original>
+			<edited>主人公と隣接している間
+主人公と自分の命中＋10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Fran" offset="00" relocatable="true" max_length="0">
+			<original>緋い声援</original>
+			<edited>緋い声援</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Fran" offset="00" relocatable="true" max_length="0">
+			<original>主人公と隣接している間
+主人公と自分の回避＋10</original>
+			<edited>主人公と隣接している間
+主人公と自分の回避＋10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Alfred" offset="00" relocatable="true" max_length="0">
+			<original>自己研鑽</original>
+			<edited>自己研鑽</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Alfred" offset="00" relocatable="true" max_length="0">
+			<original>戦闘やアイテム使用などを行わずに
+待機した時、1ターンの間、力＋2</original>
+			<edited>戦闘やアイテム使用などを行わずに
+待機した時、1ターンの間、力＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Boucheron" offset="00" relocatable="true" max_length="0">
+			<original>涙腺崩壊</original>
+			<edited>涙腺崩壊</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Boucheron" offset="00" relocatable="true" max_length="0">
+			<original>自分の戦闘に味方が
+チェインアタックで参加した時
+自分が与えるダメージ＋2</original>
+			<edited>自分の戦闘に味方が
+チェインアタックで参加した時
+自分が与えるダメージ＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Atie" offset="00" relocatable="true" max_length="0">
+			<original>筋肉増強剤</original>
+			<edited>筋肉増強剤</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Atie" offset="00" relocatable="true" max_length="0">
+			<original>HP回復アイテムを使用した時
+1ターンの間、力＋2</original>
+			<edited>HP回復アイテムを使用した時
+1ターンの間、力＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Celine" offset="00" relocatable="true" max_length="0">
+			<original>平和の花</original>
+			<edited>平和の花</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Celine" offset="00" relocatable="true" max_length="0">
+			<original>周囲2マスの範囲にいる味方が使用する
+HP回復アイテムの回復量を150％にする</original>
+			<edited>周囲2マスの範囲にいる味方が使用する
+HP回復アイテムの回復量を150％にする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Chloe" offset="00" relocatable="true" max_length="0">
+			<original>絵になる二人</original>
+			<edited>絵になる二人</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Chloe" offset="00" relocatable="true" max_length="0">
+			<original>周囲2マス以内に味方の男女のユニットが
+隣接している場合、与えるダメージ＋2</original>
+			<edited>周囲2マス以内に味方の男女のユニットが
+隣接している場合、与えるダメージ＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Louis" offset="00" relocatable="true" max_length="0">
+			<original>花園の門番</original>
+			<edited>花園の門番</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Louis" offset="00" relocatable="true" max_length="0">
+			<original>周囲2マスの範囲に味方の女性ユニットが
+2人隣接している場合、受けるダメージ－2</original>
+			<edited>周囲2マスの範囲に味方の女性ユニットが
+2人隣接している場合、受けるダメージ－2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Diamand" offset="00" relocatable="true" max_length="0">
+			<original>真っ向勝負</original>
+			<edited>真っ向勝負</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Diamand" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃した時
+相手が反撃できる場合、お互いの命中＋15</original>
+			<edited>自分から攻撃した時
+相手が反撃できる場合、お互いの命中＋15</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Umber" offset="00" relocatable="true" max_length="0">
+			<original>名乗り上げ</original>
+			<edited>名乗り上げ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Umber" offset="00" relocatable="true" max_length="0">
+			<original>自分と敵の周囲1マスに
+他のユニットがいない場合
+命中＋20、回避－10</original>
+			<edited>自分と敵の周囲1マスに
+他のユニットがいない場合
+命中＋20、回避－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Jade" offset="00" relocatable="true" max_length="0">
+			<original>瞑想</original>
+			<edited>瞑想</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Jade" offset="00" relocatable="true" max_length="0">
+			<original>戦闘やアイテム使用などを行わずに
+待機した時、1ターンの間、魔防＋2</original>
+			<edited>戦闘やアイテム使用などを行わずに
+待機した時、1ターンの間、魔防＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Staluke" offset="00" relocatable="true" max_length="0">
+			<original>僕が守ります！</original>
+			<edited>僕が守ります！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Staluke" offset="00" relocatable="true" max_length="0">
+			<original>周囲2マスの味方が攻撃を受けた時
+1ターンの間、力＋3</original>
+			<edited>周囲2マスの味方が攻撃を受けた時
+1ターンの間、力＋3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Lapis" offset="00" relocatable="true" max_length="0">
+			<original>戦果移譲</original>
+			<edited>戦果移譲</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Lapis" offset="00" relocatable="true" max_length="0">
+			<original>周囲1マスに味方がいる場合
+命中・回避＋10、必殺－10</original>
+			<edited>周囲1マスに味方がいる場合
+命中・回避＋10、必殺－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Citrinica" offset="00" relocatable="true" max_length="0">
+			<original>大盤振る舞い</original>
+			<edited>大盤振る舞い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Citrinica" offset="00" relocatable="true" max_length="0">
+			<original>HP回復アイテムを使用した時
+周囲1マスの味方も同じ量HPを回復する</original>
+			<edited>HP回復アイテムを使用した時
+周囲1マスの味方も同じ量HPを回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Ivy" offset="00" relocatable="true" max_length="0">
+			<original>執着</original>
+			<edited>執着</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Ivy" offset="00" relocatable="true" max_length="0">
+			<original>同じ敵と連続してもう一度戦闘した時
+命中＋20</original>
+			<edited>同じ敵と連続してもう一度戦闘した時
+命中＋20</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Zelkova" offset="00" relocatable="true" max_length="0">
+			<original>「次」はない</original>
+			<edited>「次」はない</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Zelkova" offset="00" relocatable="true" max_length="0">
+			<original>敵から攻撃された時
+敵の命中－10</original>
+			<edited>敵から攻撃された時
+敵の命中－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Kagetsu" offset="00" relocatable="true" max_length="0">
+			<original>光彩奪目！</original>
+			<edited>光彩奪目！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Kagetsu" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃した時
+敵の回避－10</original>
+			<edited>自分から攻撃した時
+敵の回避－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Hortensia" offset="00" relocatable="true" max_length="0">
+			<original>煌めく理力</original>
+			<edited>煌めく理力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Hortensia" offset="00" relocatable="true" max_length="0">
+			<original>回復系の杖を使用する時、射程＋1</original>
+			<edited>回復系の杖を使用する時、射程＋1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Rosado" offset="00" relocatable="true" max_length="0">
+			<original>微笑み</original>
+			<edited>微笑み</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Rosado" offset="00" relocatable="true" max_length="0">
+			<original>敵が男性ユニットの時、敵の回避－20</original>
+			<edited>敵が男性ユニットの時、敵の回避－20</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Goldmary" offset="00" relocatable="true" max_length="0">
+			<original>溜め息</original>
+			<edited>溜め息</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Goldmary" offset="00" relocatable="true" max_length="0">
+			<original>敵が男性ユニットの時、敵の命中－20</original>
+			<edited>敵が男性ユニットの時、敵の命中－20</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Misutira" offset="00" relocatable="true" max_length="0">
+			<original>ソルムの騒音</original>
+			<edited>ソルムの騒音</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Misutira" offset="00" relocatable="true" max_length="0">
+			<original>周囲3マスの敵の必殺－5</original>
+			<edited>周囲3マスの敵の必殺－5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Merin" offset="00" relocatable="true" max_length="0">
+			<original>エスコート</original>
+			<edited>エスコート</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Merin" offset="00" relocatable="true" max_length="0">
+			<original>自分の周囲2マスの範囲に
+味方の女性ユニットが2人以上いる場合
+その女性ユニットと自分の命中・回避＋5</original>
+			<edited>自分の周囲2マスの範囲に
+味方の女性ユニットが2人以上いる場合
+その女性ユニットと自分の命中・回避＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Panetone" offset="00" relocatable="true" max_length="0">
+			<original>戦の血</original>
+			<edited>戦の血</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Panetone" offset="00" relocatable="true" max_length="0">
+			<original>HPが最大値ではない場合
+必殺＋10</original>
+			<edited>HPが最大値ではない場合
+必殺＋10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Fogato" offset="00" relocatable="true" max_length="0">
+			<original>人たらし</original>
+			<edited>人たらし</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Fogato" offset="00" relocatable="true" max_length="0">
+			<original>同じ敵と連続してもう一度戦闘した時
+敵の必殺－10</original>
+			<edited>同じ敵と連続してもう一度戦闘した時
+敵の必殺－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Pandoro" offset="00" relocatable="true" max_length="0">
+			<original>大集会</original>
+			<edited>大集会</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Pandoro" offset="00" relocatable="true" max_length="0">
+			<original>周囲2マスの敵と味方の数×3
+命中・回避がアップする</original>
+			<edited>周囲2マスの敵と味方の数×3
+命中・回避がアップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Bonet" offset="00" relocatable="true" max_length="0">
+			<original>料理再現</original>
+			<edited>料理再現</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Bonet" offset="00" relocatable="true" max_length="0">
+			<original>お弁当を食べた時
+幸運％の確率で同じ物を入手する</original>
+			<edited>お弁当を食べた時
+幸運％の確率で同じ物を入手する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Anna" offset="00" relocatable="true" max_length="0">
+			<original>一攫千金</original>
+			<edited>一攫千金</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Anna" offset="00" relocatable="true" max_length="0">
+			<original>幸運％で発動
+敵撃破時、500Gを入手</original>
+			<edited>幸運％で発動
+敵撃破時、500Gを入手</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Jean" offset="00" relocatable="true" max_length="0">
+			<original>努力の才</original>
+			<edited>努力の才</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Jean" offset="00" relocatable="true" max_length="0">
+			<original>レベルアップした時に
+基本能力が上昇しやすい</original>
+			<edited>レベルアップした時に
+基本能力が上昇しやすい</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Yunaka" offset="00" relocatable="true" max_length="0">
+			<original>殺しの技術</original>
+			<edited>殺しの技術</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Yunaka" offset="00" relocatable="true" max_length="0">
+			<original>回避地形から攻撃した時
+必殺＋15</original>
+			<edited>回避地形から攻撃した時
+必殺＋15</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Seadas" offset="00" relocatable="true" max_length="0">
+			<original>神秘の踊り</original>
+			<edited>神秘の踊り</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Seadas" offset="00" relocatable="true" max_length="0">
+			<original>ターン開始時
+自分の周囲2マス以内の味方のHPを
+各ユニットの最大HPの10％回復する</original>
+			<edited>ターン開始時
+自分の周囲2マス以内の味方のHPを
+各ユニットの最大HPの10％回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Linden" offset="00" relocatable="true" max_length="0">
+			<original>歴戦の勘</original>
+			<edited>歴戦の勘</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Linden" offset="00" relocatable="true" max_length="0">
+			<original>自分の装備武器の武器レベルが
+相手より低い時、必殺＋20</original>
+			<edited>自分の装備武器の武器レベルが
+相手より低い時、必殺＋20</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Saphir" offset="00" relocatable="true" max_length="0">
+			<original>勝利への意思</original>
+			<edited>勝利への意思</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Saphir" offset="00" relocatable="true" max_length="0">
+			<original>HPが50％以下の場合
+命中・回避＋20</original>
+			<edited>HPが50％以下の場合
+命中・回避＋20</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Veyre" offset="00" relocatable="true" max_length="0">
+			<original>邪竜の救済</original>
+			<edited>邪竜の救済</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Veyre" offset="00" relocatable="true" max_length="0">
+			<original>隣接している味方が与えるダメージ＋1
+受けるダメージ－3</original>
+			<edited>隣接している味方が与えるダメージ＋1
+受けるダメージ－3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PrivateSkill_Mauve" offset="00" relocatable="true" max_length="0">
+			<original>次への備え</original>
+			<edited>次への備え</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PrivateSkill_Mauve" offset="00" relocatable="true" max_length="0">
+			<original>戦闘やアイテム使用などを行わずに
+待機した時、1ターンの間、守備＋2</original>
+			<edited>戦闘やアイテム使用などを行わずに
+待機した時、1ターンの間、守備＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_SwordMaster" offset="00" relocatable="true" max_length="0">
+			<original>切り抜け</original>
+			<edited>切り抜け</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_SwordMaster" offset="00" relocatable="true" max_length="0">
+			<original>隣接して戦闘した後、敵を挟んだ
+反対側のマスへ移動する
+「切り抜け」コマンドが使用できる</original>
+			<edited>隣接して戦闘した後、敵を挟んだ
+反対側のマスへ移動する
+「切り抜け」コマンドが使用できる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_SwordMaster_CMD" offset="00" relocatable="true" max_length="0">
+			<original>隣接戦闘後、相手の反対側へ移動</original>
+			<edited>隣接戦闘後、相手の反対側へ移動</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_BraveHero" offset="00" relocatable="true" max_length="0">
+			<original>助太刀</original>
+			<edited>助太刀</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_BraveHero" offset="00" relocatable="true" max_length="0">
+			<original>自分のHPが最大値の状態で
+チェインアタックに参加した場合
+2連続攻撃になる</original>
+			<edited>自分のHPが最大値の状態で
+チェインアタックに参加した場合
+2連続攻撃になる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_Halberdier" offset="00" relocatable="true" max_length="0">
+			<original>挟撃</original>
+			<edited>挟撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Halberdier" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃した時
+敵を、自分と味方で挟んでいた場合
+追撃が発生する</original>
+			<edited>自分から攻撃した時
+敵を、自分と味方で挟んでいた場合
+追撃が発生する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_RoyalKnight" offset="00" relocatable="true" max_length="0">
+			<original>手助け</original>
+			<edited>手助け</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_RoyalKnight" offset="00" relocatable="true" max_length="0">
+			<original>味方が戦闘後にブレイク状態だった時
+自分が隣接していてHPが11以上なら
+10消費して味方のブレイクを解除する</original>
+			<edited>味方が戦闘後にブレイク状態だった時
+自分が隣接していてHPが11以上なら
+10消費して味方のブレイクを解除する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_Berserker" offset="00" relocatable="true" max_length="0">
+			<original>スマッシュ＋</original>
+			<edited>スマッシュ＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Berserker" offset="00" relocatable="true" max_length="0">
+			<original>スマッシュ発生時
+相手を2マス移動させる</original>
+			<edited>スマッシュ発生時
+相手を2マス移動させる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_Warrior" offset="00" relocatable="true" max_length="0">
+			<original>無慈悲</original>
+			<edited>無慈悲</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Warrior" offset="00" relocatable="true" max_length="0">
+			<original>ブレイク中の相手に攻撃した時
+ダメージ150％</original>
+			<edited>ブレイク中の相手に攻撃した時
+ダメージ150％</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_Sniper" offset="00" relocatable="true" max_length="0">
+			<original>集中</original>
+			<edited>集中</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Sniper" offset="00" relocatable="true" max_length="0">
+			<original>相手に反撃されない場合
+必殺＋10</original>
+			<edited>相手に反撃されない場合
+必殺＋10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_BowKnight" offset="00" relocatable="true" max_length="0">
+			<original>狙撃</original>
+			<edited>狙撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_BowKnight" offset="00" relocatable="true" max_length="0">
+			<original>移動せずに自分から攻撃した時
+命中＋40</original>
+			<edited>移動せずに自分から攻撃した時
+命中＋40</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_General" offset="00" relocatable="true" max_length="0">
+			<original>入れ替え</original>
+			<edited>入れ替え</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_General" offset="00" relocatable="true" max_length="0">
+			<original>隣接する味方と位置を入れ替える
+「入れ替え」コマンドが使用できる</original>
+			<edited>隣接する味方と位置を入れ替える
+「入れ替え」コマンドが使用できる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_General_CMD" offset="00" relocatable="true" max_length="0">
+			<original>味方と位置を入れ替える</original>
+			<edited>味方と位置を入れ替える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_GrateKnight" offset="00" relocatable="true" max_length="0">
+			<original>護衛</original>
+			<edited>護衛</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_GrateKnight" offset="00" relocatable="true" max_length="0">
+			<original>味方と敵の間に自分がいる場合
+受けるダメージ－3</original>
+			<edited>味方と敵の間に自分がいる場合
+受けるダメージ－3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_Paladin" offset="00" relocatable="true" max_length="0">
+			<original>回り込み</original>
+			<edited>回り込み</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Paladin" offset="00" relocatable="true" max_length="0">
+			<original>隣接する味方の反対側のマスへ移動する
+「回り込み」コマンドが使用できる</original>
+			<edited>隣接する味方の反対側のマスへ移動する
+「回り込み」コマンドが使用できる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Paladin_CMD" offset="00" relocatable="true" max_length="0">
+			<original>味方の反対側へ移動する</original>
+			<edited>味方の反対側へ移動する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_WolfKnight" offset="00" relocatable="true" max_length="0">
+			<original>足狙い</original>
+			<edited>足狙い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_WolfKnight" offset="00" relocatable="true" max_length="0">
+			<original>自分から短剣で攻撃した時
+1ターンの間、相手の移動－2</original>
+			<edited>自分から短剣で攻撃した時
+1ターンの間、相手の移動－2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_GriffinKnight" offset="00" relocatable="true" max_length="0">
+			<original>移動補助</original>
+			<edited>移動補助</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_GriffinKnight" offset="00" relocatable="true" max_length="0">
+			<original>自分のマスを含む周囲1マスの地形の
+移動コストを1にする</original>
+			<edited>自分のマスを含む周囲1マスの地形の
+移動コストを1にする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_DragonKnight" offset="00" relocatable="true" max_length="0">
+			<original>急襲</original>
+			<edited>急襲</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_DragonKnight" offset="00" relocatable="true" max_length="0">
+			<original>相手が進入できない地形から攻撃した時
+速さ＋5</original>
+			<edited>相手が進入できない地形から攻撃した時
+速さ＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_Thief" offset="00" relocatable="true" max_length="0">
+			<original>すり抜け</original>
+			<edited>すり抜け</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Thief" offset="00" relocatable="true" max_length="0">
+			<original>敵をすり抜けて移動できる</original>
+			<edited>敵をすり抜けて移動できる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_Sage" offset="00" relocatable="true" max_length="0">
+			<original>魔力増幅</original>
+			<edited>魔力増幅</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Sage" offset="00" relocatable="true" max_length="0">
+			<original>自分から魔道書で攻撃した時
+周囲1マスの魔道書を装備中の
+味方の数だけ攻撃力をアップする</original>
+			<edited>自分から魔道書で攻撃した時
+周囲1マスの魔道書を装備中の
+味方の数だけ攻撃力をアップする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_MageKnight" offset="00" relocatable="true" max_length="0">
+			<original>背理の法</original>
+			<edited>背理の法</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_MageKnight" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃した時
+敵との攻撃の種類（物理攻撃・魔道書）が
+異なっていた場合、速さ＋3</original>
+			<edited>自分から攻撃した時
+敵との攻撃の種類（物理攻撃・魔道書）が
+異なっていた場合、速さ＋3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_MasterMonk" offset="00" relocatable="true" max_length="0">
+			<original>気の拡散</original>
+			<edited>気の拡散</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_MasterMonk" offset="00" relocatable="true" max_length="0">
+			<original>杖によるHP回復を受けた時
+周囲1マスの味方のHPを回復量の50％回復</original>
+			<edited>杖によるHP回復を受けた時
+周囲1マスの味方のHPを回復量の50％回復</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_HighPriest" offset="00" relocatable="true" max_length="0">
+			<original>自己回復</original>
+			<edited>自己回復</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_HighPriest" offset="00" relocatable="true" max_length="0">
+			<original>回復系の杖を使用する相手に
+自分自身を選べるようになる</original>
+			<edited>回復系の杖を使用する相手に
+自分自身を選べるようになる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_DragonKing" offset="00" relocatable="true" max_length="0">
+			<original>神竜気</original>
+			<edited>神竜気</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_DragonKing" offset="00" relocatable="true" max_length="0">
+			<original>自身のエンゲージカウント最大値－1</original>
+			<edited>自身のエンゲージカウント最大値－1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_ShadowPrincess" offset="00" relocatable="true" max_length="0">
+			<original>邪竜気</original>
+			<edited>邪竜気</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_ShadowPrincess" offset="00" relocatable="true" max_length="0">
+			<original>ターン開始時
+自身のエンゲージカウント＋1</original>
+			<edited>ターン開始時
+自身のエンゲージカウント＋1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_ShadowDragon" offset="00" relocatable="true" max_length="0">
+			<original>邪竜気〈闇〉</original>
+			<edited>邪竜気〈闇〉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_ShadowDragon" offset="00" relocatable="true" max_length="0">
+			<original>ターン開始時
+周囲2マスの敵のエンゲージカウント－1</original>
+			<edited>ターン開始時
+周囲2マスの敵のエンゲージカウント－1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_Avenir" offset="00" relocatable="true" max_length="0">
+			<original>金蓮</original>
+			<edited>金蓮</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Avenir" offset="00" relocatable="true" max_length="0">
+			<original>技％で、物理攻撃のダメージを半減する</original>
+			<edited>技％で、物理攻撃のダメージを半減する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_Fleurage" offset="00" relocatable="true" max_length="0">
+			<original>華炎</original>
+			<edited>華炎</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Fleurage" offset="00" relocatable="true" max_length="0">
+			<original>技％で、魔法攻撃には力の半分を
+その他の攻撃には魔力の半分を
+ダメージに追加する</original>
+			<edited>技％で、魔法攻撃には力の半分を
+その他の攻撃には魔力の半分を
+ダメージに追加する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_Successeur" offset="00" relocatable="true" max_length="0">
+			<original>太陽</original>
+			<edited>太陽</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Successeur" offset="00" relocatable="true" max_length="0">
+			<original>技％で、敵に与えたダメージの半分
+HP回復する</original>
+			<edited>技％で、敵に与えたダメージの半分
+HP回復する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_Tirailleur" offset="00" relocatable="true" max_length="0">
+			<original>月光</original>
+			<edited>月光</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Tirailleur" offset="00" relocatable="true" max_length="0">
+			<original>技％で、敵の守備・魔防半減で攻撃</original>
+			<edited>技％で、敵の守備・魔防半減で攻撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_Lindwurm" offset="00" relocatable="true" max_length="0">
+			<original>虚空</original>
+			<edited>虚空</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Lindwurm" offset="00" relocatable="true" max_length="0">
+			<original>魔道書で攻撃した時
+技％で、敵の魔力の半分を
+ダメージに追加する</original>
+			<edited>魔道書で攻撃した時
+技％で、敵の魔力の半分を
+ダメージに追加する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_Sleipnir" offset="00" relocatable="true" max_length="0">
+			<original>大樹</original>
+			<edited>大樹</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Sleipnir" offset="00" relocatable="true" max_length="0">
+			<original>杖を使用した時
+技％で使用回数を消費しない</original>
+			<edited>杖を使用した時
+技％で使用回数を消費しない</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_Pitchfork" offset="00" relocatable="true" max_length="0">
+			<original>砂陣</original>
+			<edited>砂陣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Pitchfork" offset="00" relocatable="true" max_length="0">
+			<original>物理攻撃をした時
+技％で、守備の150％の値を
+力の代わりに攻撃計算する</original>
+			<edited>物理攻撃をした時
+技％で、守備の150％の値を
+力の代わりに攻撃計算する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_Cupido" offset="00" relocatable="true" max_length="0">
+			<original>水鏡</original>
+			<edited>水鏡</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Cupido" offset="00" relocatable="true" max_length="0">
+			<original>反撃した時
+技％で自分が受けたダメージの半分を
+相手へのダメージに追加する</original>
+			<edited>反撃した時
+技％で自分が受けたダメージの半分を
+相手へのダメージに追加する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_Melusine" offset="00" relocatable="true" max_length="0">
+			<original>魔法剣</original>
+			<edited>魔法剣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Melusine" offset="00" relocatable="true" max_length="0">
+			<original>剣で攻撃した時、与えるダメージを
+相手の「守備と魔防の平均値」で計算する</original>
+			<edited>剣で攻撃した時、与えるダメージを
+相手の「守備と魔防の平均値」で計算する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_JobSkill_Dancer" offset="00" relocatable="true" max_length="0">
+			<original>特別な踊り</original>
+			<edited>特別な踊り</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_JobSkill_Dancer" offset="00" relocatable="true" max_length="0">
+			<original>「踊る」を味方に使用した時
+1ターン、その味方の技・速さ・幸運＋3</original>
+			<edited>「踊る」を味方に使用した時
+1ターン、その味方の技・速さ・幸運＋3</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MarthRing_Sheeda" offset="00" relocatable="true" max_length="0">
+			<original>伝道師</original>
+			<edited>伝道師</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MarthRing_Sheeda" offset="00" relocatable="true" max_length="0">
+			<original>自身のHPが50％以下の場合
+敵から攻撃された時、受けるダメージ－5</original>
+			<edited>自身のHPが50％以下の場合
+敵から攻撃された時、受けるダメージ－5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MarthRing_Nabarl" offset="00" relocatable="true" max_length="0">
+			<original>必殺剣</original>
+			<edited>必殺剣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MarthRing_Nabarl" offset="00" relocatable="true" max_length="0">
+			<original>剣を装備して自分から攻撃した時
+必殺＋10</original>
+			<edited>剣を装備して自分から攻撃した時
+必殺＋10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SigludRing_Celice" offset="00" relocatable="true" max_length="0">
+			<original>百戦錬磨</original>
+			<edited>百戦錬磨</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SigludRing_Celice" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃して敵を倒すごとに、必殺＋1
+（最大＋10、戦闘マップ終了まで）</original>
+			<edited>自分から攻撃して敵を倒すごとに、必殺＋1
+（最大＋10、戦闘マップ終了まで）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SigludRing_Diadora" offset="00" relocatable="true" max_length="0">
+			<original>回復</original>
+			<edited>回復</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SigludRing_Diadora" offset="00" relocatable="true" max_length="0">
+			<original>毎ターンHP5回復</original>
+			<edited>毎ターンHP5回復</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_CelicaRing_Alm" offset="00" relocatable="true" max_length="0">
+			<original>風薙ぎ</original>
+			<edited>風薙ぎ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CelicaRing_Alm" offset="00" relocatable="true" max_length="0">
+			<original>剣で攻撃した時
+幸運％で、相手に反撃されない</original>
+			<edited>剣で攻撃した時
+幸運％で、相手に反撃されない</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_CelicaRing_Mae" offset="00" relocatable="true" max_length="0">
+			<original>轟雷</original>
+			<edited>轟雷</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CelicaRing_Mae" offset="00" relocatable="true" max_length="0">
+			<original>サンダー・エルサンダー・トロン使用時
+ダメージ120％</original>
+			<edited>サンダー・エルサンダー・トロン使用時
+ダメージ120％</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MicaiahRing_Sothe" offset="00" relocatable="true" max_length="0">
+			<original>瞬殺</original>
+			<edited>瞬殺</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MicaiahRing_Sothe" offset="00" relocatable="true" max_length="0">
+			<original>（技÷2）％の確率で相手のHPを1にする
+（一部の強力な敵は対象外）</original>
+			<edited>（技÷2）％の確率で相手のHPを1にする
+（一部の強力な敵は対象外）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MicaiahRing_Erincia" offset="00" relocatable="true" max_length="0">
+			<original>慈悲</original>
+			<edited>慈悲</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MicaiahRing_Erincia" offset="00" relocatable="true" max_length="0">
+			<original>相手を戦闘不能にできるダメージを
+与えた時、HPを1残す</original>
+			<edited>相手を戦闘不能にできるダメージを
+与えた時、HPを1残す</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_RoyRing_Lilina" offset="00" relocatable="true" max_length="0">
+			<original>業火</original>
+			<edited>業火</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_RoyRing_Lilina" offset="00" relocatable="true" max_length="0">
+			<original>ファイアー・エルファイアー・ボルガノン
+使用時、ダメージ120％</original>
+			<edited>ファイアー・エルファイアー・ボルガノン
+使用時、ダメージ120％</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_RoyRing_Dieck" offset="00" relocatable="true" max_length="0">
+			<original>剛腕</original>
+			<edited>剛腕</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_RoyRing_Dieck" offset="00" relocatable="true" max_length="0">
+			<original>スマッシュ武器を使用時、命中＋20</original>
+			<edited>スマッシュ武器を使用時、命中＋20</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LeafRing_Fin" offset="00" relocatable="true" max_length="0">
+			<original>祈り</original>
+			<edited>祈り</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LeafRing_Fin" offset="00" relocatable="true" max_length="0">
+			<original>相手から戦闘不能になる量の
+ダメージを受ける時、幸運％の確率で
+攻撃を回避する（最大50％）</original>
+			<edited>相手から戦闘不能になる量の
+ダメージを受ける時、幸運％の確率で
+攻撃を回避する（最大50％）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LeafRing_Olwen" offset="00" relocatable="true" max_length="0">
+			<original>ダイムサンダ</original>
+			<edited>ダイムサンダ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LeafRing_Olwen" offset="00" relocatable="true" max_length="0">
+			<original>自分からサンダーで攻撃した時
+2連続攻撃になる
+（エルサンダー・トロンは対象外）</original>
+			<edited>自分からサンダーで攻撃した時
+2連続攻撃になる
+（エルサンダー・トロンは対象外）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LucinaRing_Chrom" offset="00" relocatable="true" max_length="0">
+			<original>王の器</original>
+			<edited>王の器</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LucinaRing_Chrom" offset="00" relocatable="true" max_length="0">
+			<original>確率で発動するスキルの発生率を＋5％</original>
+			<edited>確率で発動するスキルの発生率を＋5％</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LucinaRing_Lissa" offset="00" relocatable="true" max_length="0">
+			<original>いやしの心</original>
+			<edited>いやしの心</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LucinaRing_Lissa" offset="00" relocatable="true" max_length="0">
+			<original>杖を使って味方を回復した時
+HP回復量＋5</original>
+			<edited>杖を使って味方を回復した時
+HP回復量＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LinRing_Eliwod" offset="00" relocatable="true" max_length="0">
+			<original>引き寄せ</original>
+			<edited>引き寄せ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LinRing_Eliwod" offset="00" relocatable="true" max_length="0">
+			<original>隣接する味方を自分の位置に移動させ
+自分も1マス移動する
+「引き寄せ」コマンドが使用できる</original>
+			<edited>隣接する味方を自分の位置に移動させ
+自分も1マス移動する
+「引き寄せ」コマンドが使用できる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LinRing_Eliwod_CMD" offset="00" relocatable="true" max_length="0">
+			<original>味方と一緒に1マス手前へ移動する</original>
+			<edited>味方と一緒に1マス手前へ移動する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LinRing_Nino" offset="00" relocatable="true" max_length="0">
+			<original>ギガスカリバー</original>
+			<edited>ギガスカリバー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LinRing_Nino" offset="00" relocatable="true" max_length="0">
+			<original>自分からエクスカリバーで攻撃した時
+ダメージ120％</original>
+			<edited>自分からエクスカリバーで攻撃した時
+ダメージ120％</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_IkeRing_Senerio" offset="00" relocatable="true" max_length="0">
+			<original>旋風</original>
+			<edited>旋風</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_IkeRing_Senerio" offset="00" relocatable="true" max_length="0">
+			<original>ウインド使用時のみ、技％の確率で
+2連続攻撃になる</original>
+			<edited>ウインド使用時のみ、技％の確率で
+2連続攻撃になる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_IkeRing_Wayu" offset="00" relocatable="true" max_length="0">
+			<original>体当たり</original>
+			<edited>体当たり</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_IkeRing_Wayu" offset="00" relocatable="true" max_length="0">
+			<original>隣接する自分より体格が小さい味方を押して
+1マス移動させる「体当たり」コマンドが
+使用できる</original>
+			<edited>隣接する自分より体格が小さい味方を押して
+1マス移動させる「体当たり」コマンドが
+使用できる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_IkeRing_Wayu_CMD" offset="00" relocatable="true" max_length="0">
+			<original>自分より小さい味方を1マス押す</original>
+			<edited>自分より小さい味方を1マス押す</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BylethRing_Edelgard" offset="00" relocatable="true" max_length="0">
+			<original>閃花</original>
+			<edited>閃花</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethRing_Edelgard" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃した時に
+「与えた総ダメージ」％の確率で
+相手をフリーズ状態にする</original>
+			<edited>自分から攻撃した時に
+「与えた総ダメージ」％の確率で
+相手をフリーズ状態にする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BylethRing_Dimitri" offset="00" relocatable="true" max_length="0">
+			<original>幻月</original>
+			<edited>幻月</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethRing_Dimitri" offset="00" relocatable="true" max_length="0">
+			<original>隣接して戦闘した後、敵と反対の方向に
+自分が1マス移動する「幻月」コマンドが
+使用できる</original>
+			<edited>隣接して戦闘した後、敵と反対の方向に
+自分が1マス移動する「幻月」コマンドが
+使用できる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethRing_Dimitri_CMD" offset="00" relocatable="true" max_length="0">
+			<original>戦闘後、敵と反対の方向に移動する</original>
+			<edited>戦闘後、敵と反対の方向に移動する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BylethRing_Claude" offset="00" relocatable="true" max_length="0">
+			<original>風神</original>
+			<edited>風神</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BylethRing_Claude" offset="00" relocatable="true" max_length="0">
+			<original>自分のHPが最大値の時
+弓の射程＋1</original>
+			<edited>自分のHPが最大値の時
+弓の射程＋1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_KamuiRing_Marks" offset="00" relocatable="true" max_length="0">
+			<original>騎士道</original>
+			<edited>騎士道</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_KamuiRing_Marks" offset="00" relocatable="true" max_length="0">
+			<original>相手のHPが最大値の時
+与えるダメージ＋2、受けるダメージ－2</original>
+			<edited>相手のHPが最大値の時
+与えるダメージ＋2、受けるダメージ－2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_KamuiRing_Ryoma" offset="00" relocatable="true" max_length="0">
+			<original>武士道</original>
+			<edited>武士道</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_KamuiRing_Ryoma" offset="00" relocatable="true" max_length="0">
+			<original>相手よりレベルが高い場合、必殺＋10
+与えるダメージ＋2、受けるダメージ－2</original>
+			<edited>相手よりレベルが高い場合、必殺＋10
+与えるダメージ＋2、受けるダメージ－2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_EirikRing_Marica" offset="00" relocatable="true" max_length="0">
+			<original>滅殺</original>
+			<edited>滅殺</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EirikRing_Marica" offset="00" relocatable="true" max_length="0">
+			<original>必殺の一撃が発生した時、30％の確率で
+相手を戦闘不能にする
+（一部の強力な敵は対象外）</original>
+			<edited>必殺の一撃が発生した時、30％の確率で
+相手を戦闘不能にする
+（一部の強力な敵は対象外）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_EirikRing_Heanius" offset="00" relocatable="true" max_length="0">
+			<original>必的</original>
+			<edited>必的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EirikRing_Heanius" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃した時、技％の確率で
+その攻撃が必ず命中するようになる</original>
+			<edited>自分から攻撃した時、技％の確率で
+その攻撃が必ず命中するようになる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SpecialRing_Alfonse" offset="00" relocatable="true" max_length="0">
+			<original>攻撃の紋章</original>
+			<edited>攻撃の紋章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SpecialRing_Alfonse" offset="00" relocatable="true" max_length="0">
+			<original>隣接する味方の攻撃力＋2</original>
+			<edited>隣接する味方の攻撃力＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SpecialRing_Sharena" offset="00" relocatable="true" max_length="0">
+			<original>守備の鼓舞</original>
+			<edited>守備の鼓舞</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SpecialRing_Sharena" offset="00" relocatable="true" max_length="0">
+			<original>自軍フェイズ開始時
+隣接する味方の守備＋2</original>
+			<edited>自軍フェイズ開始時
+隣接する味方の守備＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SpecialRing_Anna" offset="00" relocatable="true" max_length="0">
+			<original>魔防の紋章</original>
+			<edited>魔防の紋章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SpecialRing_Anna" offset="00" relocatable="true" max_length="0">
+			<original>隣接する味方の魔防＋2</original>
+			<edited>隣接する味方の魔防＋2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SombreBarrier1" offset="00" relocatable="true" max_length="0">
+			<original>常闇の結界</original>
+			<edited>常闇の結界</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SombreBarrier1" offset="00" relocatable="true" max_length="0">
+			<original>闇の紋章士が作り出す結界
+邪竜有効を無効にする
+受けるダメージ－50％</original>
+			<edited>闇の紋章士が作り出す結界
+邪竜有効を無効にする
+受けるダメージ－50％</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SombreBarrier2" offset="00" relocatable="true" max_length="0">
+			<original>常闇の結界＋</original>
+			<edited>常闇の結界＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SombreBarrier2" offset="00" relocatable="true" max_length="0">
+			<original>闇の紋章士が作り出す結界
+邪竜有効を無効にする
+受けるダメージ－70％</original>
+			<edited>闇の紋章士が作り出す結界
+邪竜有効を無効にする
+受けるダメージ－70％</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SombreBarrier3" offset="00" relocatable="true" max_length="0">
+			<original>常闇の結界＋＋</original>
+			<edited>常闇の結界＋＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SombreBarrier3" offset="00" relocatable="true" max_length="0">
+			<original>闇の紋章士が作り出す結界
+邪竜有効を無効にする
+受けるダメージ－85％</original>
+			<edited>闇の紋章士が作り出す結界
+邪竜有効を無効にする
+受けるダメージ－85％</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SombreBarrier4" offset="00" relocatable="true" max_length="0">
+			<original>常闇の結界＋＋＋</original>
+			<edited>常闇の結界＋＋＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SombreBarrier4" offset="00" relocatable="true" max_length="0">
+			<original>闇の紋章士が作り出す結界
+邪竜有効を無効にする
+受けるダメージを0にする</original>
+			<edited>闇の紋章士が作り出す結界
+邪竜有効を無効にする
+受けるダメージを0にする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SombreBarrier1_Normal" offset="00" relocatable="true" max_length="0">
+			<original>闇の結界</original>
+			<edited>闇の結界</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SombreBarrier1_Normal" offset="00" relocatable="true" max_length="0">
+			<original>闇の紋章士が作り出す結界
+受けるダメージ－20％</original>
+			<edited>闇の紋章士が作り出す結界
+受けるダメージ－20％</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SombreBarrier2_Normal" offset="00" relocatable="true" max_length="0">
+			<original>闇の結界＋</original>
+			<edited>闇の結界＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SombreBarrier2_Normal" offset="00" relocatable="true" max_length="0">
+			<original>闇の紋章士が作り出す結界
+受けるダメージ－40％</original>
+			<edited>闇の紋章士が作り出す結界
+受けるダメージ－40％</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SombreBarrier3_Normal" offset="00" relocatable="true" max_length="0">
+			<original>闇の結界＋＋</original>
+			<edited>闇の結界＋＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SombreBarrier3_Normal" offset="00" relocatable="true" max_length="0">
+			<original>闇の紋章士が作り出す結界
+受けるダメージ－60％</original>
+			<edited>闇の紋章士が作り出す結界
+受けるダメージ－60％</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SombreBarrier4_Normal" offset="00" relocatable="true" max_length="0">
+			<original>闇の結界＋＋＋</original>
+			<edited>闇の結界＋＋＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SombreBarrier4_Normal" offset="00" relocatable="true" max_length="0">
+			<original>闇の紋章士が作り出す結界
+受けるダメージ－80％</original>
+			<edited>闇の紋章士が作り出す結界
+受けるダメージ－80％</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_ChainAttackDamageWeaken" offset="00" relocatable="true" max_length="0">
+			<original>絆を引き裂くもの</original>
+			<edited>絆を引き裂くもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_ChainAttackDamageWeaken" offset="00" relocatable="true" max_length="0">
+			<original>敵のチェインアタックの命中率を
+必ず30％にし
+受けるダメージを減少させる</original>
+			<edited>敵のチェインアタックの命中率を
+必ず30％にし
+受けるダメージを減少させる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SnakeVenom" offset="00" relocatable="true" max_length="0">
+			<original>蛇毒</original>
+			<edited>蛇毒</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SnakeVenom" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃した時、
+敵に最大HPの20％のダメージを与える</original>
+			<edited>自分から攻撃した時、
+敵に最大HPの20％のダメージを与える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SighOfDeath" offset="00" relocatable="true" max_length="0">
+			<original>死の吐息</original>
+			<edited>死の吐息</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SighOfDeath" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃した時、周囲2マスの敵に
+最大HPの20％のダメージを与える</original>
+			<edited>自分から攻撃した時、周囲2マスの敵に
+最大HPの20％のダメージを与える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwordKilling" offset="00" relocatable="true" max_length="0">
+			<original>剣殺し</original>
+			<edited>剣殺し</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwordKilling" offset="00" relocatable="true" max_length="0">
+			<original>HPが50％以上の時、敵の武器が剣なら
+自分は追撃し、敵は追撃できない</original>
+			<edited>HPが50％以上の時、敵の武器が剣なら
+自分は追撃し、敵は追撃できない</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_LanceKilling" offset="00" relocatable="true" max_length="0">
+			<original>槍殺し</original>
+			<edited>槍殺し</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_LanceKilling" offset="00" relocatable="true" max_length="0">
+			<original>HPが50％以上の時、敵の武器が槍なら
+自分は追撃し、敵は追撃できない</original>
+			<edited>HPが50％以上の時、敵の武器が槍なら
+自分は追撃し、敵は追撃できない</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_AxeKilling" offset="00" relocatable="true" max_length="0">
+			<original>斧殺し</original>
+			<edited>斧殺し</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_AxeKilling" offset="00" relocatable="true" max_length="0">
+			<original>HPが50％以上の時、敵の武器が斧なら
+自分は追撃し、敵は追撃できない</original>
+			<edited>HPが50％以上の時、敵の武器が斧なら
+自分は追撃し、敵は追撃できない</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MagicKilling" offset="00" relocatable="true" max_length="0">
+			<original>魔殺し</original>
+			<edited>魔殺し</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MagicKilling" offset="00" relocatable="true" max_length="0">
+			<original>HPが50％以上の時
+敵の武器が魔道書なら
+自分は追撃し、敵は追撃できない</original>
+			<edited>HPが50％以上の時
+敵の武器が魔道書なら
+自分は追撃し、敵は追撃できない</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BowKilling" offset="00" relocatable="true" max_length="0">
+			<original>弓殺し</original>
+			<edited>弓殺し</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BowKilling" offset="00" relocatable="true" max_length="0">
+			<original>HPが50％以上の時、敵の武器が弓なら
+自分は追撃し、敵は追撃できない</original>
+			<edited>HPが50％以上の時、敵の武器が弓なら
+自分は追撃し、敵は追撃できない</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_KnifeKilling" offset="00" relocatable="true" max_length="0">
+			<original>短剣殺し</original>
+			<edited>短剣殺し</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_KnifeKilling" offset="00" relocatable="true" max_length="0">
+			<original>HPが50％以上の時、敵の武器が短剣なら
+自分は追撃し、敵は追撃できない</original>
+			<edited>HPが50％以上の時、敵の武器が短剣なら
+自分は追撃し、敵は追撃できない</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PranaKilling" offset="00" relocatable="true" max_length="0">
+			<original>体術殺し</original>
+			<edited>体術殺し</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PranaKilling" offset="00" relocatable="true" max_length="0">
+			<original>HPが50％以上の時、敵の武器が体術なら
+自分は追撃し、敵は追撃できない</original>
+			<edited>HPが50％以上の時、敵の武器が体術なら
+自分は追撃し、敵は追撃できない</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_PowerSeal" offset="00" relocatable="true" max_length="0">
+			<original>力封じ</original>
+			<edited>力封じ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_PowerSeal" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃した時
+戦闘後、相手の力－6
+（効果は1ターンに1ずつ回復する）</original>
+			<edited>自分から攻撃した時
+戦闘後、相手の力－6
+（効果は1ターンに1ずつ回復する）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MagicSeal" offset="00" relocatable="true" max_length="0">
+			<original>魔力封じ</original>
+			<edited>魔力封じ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MagicSeal" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃した時
+戦闘後、相手の魔力－6
+（効果は1ターンに1ずつ回復する）</original>
+			<edited>自分から攻撃した時
+戦闘後、相手の魔力－6
+（効果は1ターンに1ずつ回復する）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_DefenseSeal" offset="00" relocatable="true" max_length="0">
+			<original>守備封じ</original>
+			<edited>守備封じ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DefenseSeal" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃した時
+戦闘後、相手の守備－6
+（効果は1ターンに1ずつ回復する）</original>
+			<edited>自分から攻撃した時
+戦闘後、相手の守備－6
+（効果は1ターンに1ずつ回復する）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SpeedSeal" offset="00" relocatable="true" max_length="0">
+			<original>速さ封じ</original>
+			<edited>速さ封じ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SpeedSeal" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃した時
+戦闘後、相手の速さ－6
+（効果は1ターンに1ずつ回復する）</original>
+			<edited>自分から攻撃した時
+戦闘後、相手の速さ－6
+（効果は1ターンに1ずつ回復する）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MagicDefenseSeal" offset="00" relocatable="true" max_length="0">
+			<original>魔防封じ</original>
+			<edited>魔防封じ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MagicDefenseSeal" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃した時
+戦闘後、相手の魔防－6
+（効果は1ターンに1ずつ回復する）</original>
+			<edited>自分から攻撃した時
+戦闘後、相手の魔防－6
+（効果は1ターンに1ずつ回復する）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_DemonStance" offset="00" relocatable="true" max_length="0">
+			<original>鬼神の構え</original>
+			<edited>鬼神の構え</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DemonStance" offset="00" relocatable="true" max_length="0">
+			<original>敵から攻撃された時、力＋6</original>
+			<edited>敵から攻撃された時、力＋6</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_VajraStance" offset="00" relocatable="true" max_length="0">
+			<original>金剛の構え</original>
+			<edited>金剛の構え</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_VajraStance" offset="00" relocatable="true" max_length="0">
+			<original>敵から攻撃された時、守備＋6</original>
+			<edited>敵から攻撃された時、守備＋6</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwallowStance" offset="00" relocatable="true" max_length="0">
+			<original>飛燕の構え</original>
+			<edited>飛燕の構え</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwallowStance" offset="00" relocatable="true" max_length="0">
+			<original>敵から攻撃された時、速さ＋6</original>
+			<edited>敵から攻撃された時、速さ＋6</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MingMirrorStance" offset="00" relocatable="true" max_length="0">
+			<original>明鏡の構え</original>
+			<edited>明鏡の構え</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MingMirrorStance" offset="00" relocatable="true" max_length="0">
+			<original>敵から攻撃された時、魔防＋6</original>
+			<edited>敵から攻撃された時、魔防＋6</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Deadline" offset="00" relocatable="true" max_length="0">
+			<original>死線</original>
+			<edited>死線</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Deadline" offset="00" relocatable="true" max_length="0">
+			<original>与えるダメージ＋10
+受けるダメージ＋10</original>
+			<edited>与えるダメージ＋10
+受けるダメージ＋10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_EnhancedCompatibility" offset="00" relocatable="true" max_length="0">
+			<original>相性激化</original>
+			<edited>相性激化</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EnhancedCompatibility" offset="00" relocatable="true" max_length="0">
+			<original>有利な武器で攻撃した時、追撃する
+不利な武器の時は追撃を受ける</original>
+			<edited>有利な武器で攻撃した時、追撃する
+不利な武器の時は追撃を受ける</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_CatBites" offset="00" relocatable="true" max_length="0">
+			<original>噛猫</original>
+			<edited>噛猫</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CatBites" offset="00" relocatable="true" max_length="0">
+			<original>HP50％以下の場合、必殺＋30</original>
+			<edited>HP50％以下の場合、必殺＋30</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SelfDestruction" offset="00" relocatable="true" max_length="0">
+			<original>自壊</original>
+			<edited>自壊</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SelfDestruction" offset="00" relocatable="true" max_length="0">
+			<original>自軍フェイズ開始時にHPが50％以下の時
+周囲2マスの敵に、自分の最大HPの50％の
+ダメージを与え、消滅する</original>
+			<edited>自軍フェイズ開始時にHPが50％以下の時
+周囲2マスの敵に、自分の最大HPの50％の
+ダメージを与え、消滅する</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BreakInvalid" offset="00" relocatable="true" max_length="0">
+			<original>ブレイク無効</original>
+			<edited>ブレイク無効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BreakInvalid" offset="00" relocatable="true" max_length="0">
+			<original>ブレイク状態にならない</original>
+			<edited>ブレイク状態にならない</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Immovable" offset="00" relocatable="true" max_length="0">
+			<original>移動効果無効</original>
+			<edited>移動効果無効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Immovable" offset="00" relocatable="true" max_length="0">
+			<original>スキルやスマッシュなどの効果で
+移動させることができない</original>
+			<edited>スキルやスマッシュなどの効果で
+移動させることができない</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_CurseOfNihility" offset="00" relocatable="true" max_length="0">
+			<original>虚無の呪い</original>
+			<edited>虚無の呪い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_CurseOfNihility" offset="00" relocatable="true" max_length="0">
+			<original>このユニットと戦った時
+経験値を得ることができない</original>
+			<edited>このユニットと戦った時
+経験値を得ることができない</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_ClearStreamHit" offset="00" relocatable="true" max_length="0">
+			<original>清流の一撃</original>
+			<edited>清流の一撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_ClearStreamHit" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃した時、回避＋30</original>
+			<edited>自分から攻撃した時、回避＋30</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SwallowHit" offset="00" relocatable="true" max_length="0">
+			<original>飛燕の一撃</original>
+			<edited>飛燕の一撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SwallowHit" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃した時、速さ＋5</original>
+			<edited>自分から攻撃した時、速さ＋5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_DemonHit" offset="00" relocatable="true" max_length="0">
+			<original>鬼神の一撃</original>
+			<edited>鬼神の一撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_DemonHit" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃した時、必殺＋20</original>
+			<edited>自分から攻撃した時、必殺＋20</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_BadBirdHit" offset="00" relocatable="true" max_length="0">
+			<original>凶鳥の一撃</original>
+			<edited>凶鳥の一撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_BadBirdHit" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃した時、命中＋40</original>
+			<edited>自分から攻撃した時、命中＋40</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_VajraHit" offset="00" relocatable="true" max_length="0">
+			<original>金剛の一撃</original>
+			<edited>金剛の一撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_VajraHit" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃した時
+物理攻撃で受けるダメージ－10</original>
+			<edited>自分から攻撃した時
+物理攻撃で受けるダメージ－10</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_MingMirrorHit" offset="00" relocatable="true" max_length="0">
+			<original>明鏡の一撃</original>
+			<edited>明鏡の一撃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_MingMirrorHit" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃した時
+魔法攻撃で受けるダメージ－20</original>
+			<edited>自分から攻撃した時
+魔法攻撃で受けるダメージ－20</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_FrenzyHit" offset="00" relocatable="true" max_length="0">
+			<original>減氣</original>
+			<edited>減氣</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_FrenzyHit" offset="00" relocatable="true" max_length="0">
+			<original>自分から攻撃した時
+戦闘後に相手のエンゲージカウント－5</original>
+			<edited>自分から攻撃した時
+戦闘後に相手のエンゲージカウント－5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_EffectResistance" offset="00" relocatable="true" max_length="0">
+			<original>特効耐性</original>
+			<edited>特効耐性</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EffectResistance" offset="00" relocatable="true" max_length="0">
+			<original>特効のダメージを減少させる</original>
+			<edited>特効のダメージを減少させる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_EffectInvalid" offset="00" relocatable="true" max_length="0">
+			<original>特効無効</original>
+			<edited>特効無効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EffectInvalid" offset="00" relocatable="true" max_length="0">
+			<original>あらゆる特効を受けない</original>
+			<edited>あらゆる特効を受けない</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Expert_1" offset="00" relocatable="true" max_length="0">
+			<original>熟練者</original>
+			<edited>熟練者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Expert_1" offset="00" relocatable="true" max_length="0">
+			<original>ブレイク状態にならない
+特効のダメージを減少させる</original>
+			<edited>ブレイク状態にならない
+特効のダメージを減少させる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_Expert_2" offset="00" relocatable="true" max_length="0">
+			<original>熟練者＋</original>
+			<edited>熟練者＋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Expert_2" offset="00" relocatable="true" max_length="0">
+			<original>ブレイク状態にならない
+あらゆる特効を受けない</original>
+			<edited>ブレイク状態にならない
+あらゆる特効を受けない</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_SkillSuccession" offset="00" relocatable="true" max_length="0">
+			<original>スキル継承解放</original>
+			<edited>スキル継承解放</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_SkillSuccession" offset="00" relocatable="true" max_length="0">
+			<original>紋章士の間で紋章士から
+「スキル継承」が行えるようになる</original>
+			<edited>紋章士の間で紋章士から
+「スキル継承」が行えるようになる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_EngageContinueTurn" offset="00" relocatable="true" max_length="0">
+			<original>断ち切れぬ絆</original>
+			<edited>断ち切れぬ絆</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EngageContinueTurn" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージ状態の持続ターン数＋1</original>
+			<edited>エンゲージ状態の持続ターン数＋1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_EngageCount" offset="00" relocatable="true" max_length="0">
+			<original>阿吽の呼吸</original>
+			<edited>阿吽の呼吸</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_EngageCount" offset="00" relocatable="true" max_length="0">
+			<original>エンゲージカウント最大値－1</original>
+			<edited>エンゲージカウント最大値－1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_RefineGodWeapon_Effect_Fly" offset="00" relocatable="true" max_length="0">
+			<original>飛行特効</original>
+			<edited>飛行特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_RefineGodWeapon_Effect_Horse" offset="00" relocatable="true" max_length="0">
+			<original>騎馬特効</original>
+			<edited>騎馬特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_RefineGodWeapon_Effect_Armor" offset="00" relocatable="true" max_length="0">
+			<original>重装特効</original>
+			<edited>重装特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_RefineGodWeapon_Effect_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>竜特効</original>
+			<edited>竜特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_RefineGodWeapon_Effect_Morph" offset="00" relocatable="true" max_length="0">
+			<original>異形特効</original>
+			<edited>異形特効</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_Fly" offset="00" relocatable="true" max_length="0">
+			<original>飛行特効を受ける</original>
+			<edited>飛行特効を受ける</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_Horse" offset="00" relocatable="true" max_length="0">
+			<original>騎馬特効を受ける</original>
+			<edited>騎馬特効を受ける</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_Armor" offset="00" relocatable="true" max_length="0">
+			<original>重装特効を受ける</original>
+			<edited>重装特効を受ける</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>竜特効を受ける</original>
+			<edited>竜特効を受ける</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_Morph" offset="00" relocatable="true" max_length="0">
+			<original>異形特効を受ける</original>
+			<edited>異形特効を受ける</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_EvilDragon" offset="00" relocatable="true" max_length="0">
+			<original>邪竜有効を受ける</original>
+			<edited>邪竜有効を受ける</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_Mediuth" offset="00" relocatable="true" max_length="0">
+			<original>マルスからの攻撃が特効になる</original>
+			<edited>マルスからの攻撃が特効になる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_Duma" offset="00" relocatable="true" max_length="0">
+			<original>セリカからの攻撃が特効になる</original>
+			<edited>セリカからの攻撃が特効になる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_Loptous" offset="00" relocatable="true" max_length="0">
+			<original>シグルドからの攻撃が特効になる</original>
+			<edited>シグルドからの攻撃が特効になる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_Veld" offset="00" relocatable="true" max_length="0">
+			<original>リーフからの攻撃が特効になる</original>
+			<edited>リーフからの攻撃が特効になる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_Idenn" offset="00" relocatable="true" max_length="0">
+			<original>ロイからの攻撃が特効になる</original>
+			<edited>ロイからの攻撃が特効になる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_Nergal" offset="00" relocatable="true" max_length="0">
+			<original>リンからの攻撃が特効になる</original>
+			<edited>リンからの攻撃が特効になる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_Fodeth" offset="00" relocatable="true" max_length="0">
+			<original>エイリーク（エフラム）からの攻撃が
+特効になる</original>
+			<edited>エイリーク（エフラム）からの攻撃が
+特効になる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_Ashnard" offset="00" relocatable="true" max_length="0">
+			<original>アイクからの攻撃が特効になる</original>
+			<edited>アイクからの攻撃が特効になる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_Astarte" offset="00" relocatable="true" max_length="0">
+			<original>ミカヤからの攻撃が特効になる</original>
+			<edited>ミカヤからの攻撃が特効になる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_Gimle" offset="00" relocatable="true" max_length="0">
+			<original>ルキナからの攻撃が特効になる</original>
+			<edited>ルキナからの攻撃が特効になる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_Hydra" offset="00" relocatable="true" max_length="0">
+			<original>カムイからの攻撃が特効になる</original>
+			<edited>カムイからの攻撃が特効になる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSID_H_Effect_Nemesis" offset="00" relocatable="true" max_length="0">
+			<original>ベレトからの攻撃が特効になる</original>
+			<edited>ベレトからの攻撃が特効になる</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

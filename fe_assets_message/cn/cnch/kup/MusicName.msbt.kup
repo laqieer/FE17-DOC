@@ -1,0 +1,942 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_BGM_Evt_Amb_Lithos_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>光之庭园</original>
+			<edited>光之庭园</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Amb_Lithos_Black_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>暗之回廊</original>
+			<edited>暗之回廊</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Amb_Lithos2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>圣地里特司</original>
+			<edited>圣地里特司</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Amb_Lithos2_Black_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>焦土古拉铎隆</original>
+			<edited>焦土古拉铎隆</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Ring_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>十二道光</original>
+			<edited>十二道光</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Tutorial_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>天伦之乐</original>
+			<edited>天伦之乐</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Sigurd_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>继承、圣战纹章士</original>
+			<edited>继承、圣战纹章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Lumiere_Die_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>打勾勾</original>
+			<edited>打勾勾</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Amb_Filene_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>丰饶的费列聂</original>
+			<edited>丰饶的费列聂</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Danger1_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>危机</original>
+			<edited>危机</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Danger2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>急袭</original>
+			<edited>急袭</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Cellica_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>守护、声响纹章士</original>
+			<edited>守护、声响纹章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Brave_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>苏醒的光芒</original>
+			<edited>苏醒的光芒</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Veyre_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>白银之心</original>
+			<edited>白银之心</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Determination_Filene_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>为和平而挥剑</original>
+			<edited>为和平而挥剑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Disturb1_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>暗影</original>
+			<edited>暗影</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Disturb2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>谋略</original>
+			<edited>谋略</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Funny_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>多多呀比！</original>
+			<edited>多多呀比！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Micaiah_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>救愈、拂晓纹章士</original>
+			<edited>救愈、拂晓纹章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Tension1_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>对峙</original>
+			<edited>对峙</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Tension2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>交战的预兆</original>
+			<edited>交战的预兆</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Amb_Brodia_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>尚武的布罗帝亚</original>
+			<edited>尚武的布罗帝亚</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Collide_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>冲突</original>
+			<edited>冲突</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Appear_Diamand_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>尚武的王子</original>
+			<edited>尚武的王子</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Roy_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>焰向、封印纹章士</original>
+			<edited>焰向、封印纹章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Appear_Ivy_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>睿智的公主</original>
+			<edited>睿智的公主</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Leif_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>解放、系谱纹章士</original>
+			<edited>解放、系谱纹章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Determination_Brodia_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>为荣耀而出征</original>
+			<edited>为荣耀而出征</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Amb_Ircion_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>睿智的伊尔席翁</original>
+			<edited>睿智的伊尔席翁</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Danger_Church_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>惨剧</original>
+			<edited>惨剧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Veyre_Exposed_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>蹂躏一切的黑银</original>
+			<edited>蹂躏一切的黑银</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Lucina_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>燃起、觉醒纹章士</original>
+			<edited>燃起、觉醒纹章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Amb_Solum_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>自由的索尔姆</original>
+			<edited>自由的索尔姆</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Mov_Vigilante_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>沙漠玫瑰</original>
+			<edited>沙漠玫瑰</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Vigilante_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>自卫团</original>
+			<edited>自卫团</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_4ku_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>邪龙的走狗</original>
+			<edited>邪龙的走狗</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_4ku_Sad_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>渴望亲情</original>
+			<edited>渴望亲情</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Misutira_Song_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>自由的公主</original>
+			<edited>自由的公主</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Ike_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>勇斗、苍炎纹章士</original>
+			<edited>勇斗、苍炎纹章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Determination_Solum_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>为自由而竭力</original>
+			<edited>为自由而竭力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Determination_Ircion_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>为信仰而誓约</original>
+			<edited>为信仰而誓约</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Eirika_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>晴碧、圣魔纹章士</original>
+			<edited>晴碧、圣魔纹章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Veyre_Truth_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>堕落之翼</original>
+			<edited>堕落之翼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Veyre_Sad_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>深灰色的心意</original>
+			<edited>深灰色的心意</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Determination_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>军事国家</original>
+			<edited>军事国家</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Past_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>两个邂逅</original>
+			<edited>两个邂逅</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_BlackLumiere_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>千年的孤独</original>
+			<edited>千年的孤独</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_BlackLumiere_Die_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>母亲……谢谢你……</original>
+			<edited>母亲……谢谢你……</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Determination_Last_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>若有来世</original>
+			<edited>若有来世</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_26OP_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>消失的光芒</original>
+			<edited>消失的光芒</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_26ED_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>他的旅途</original>
+			<edited>他的旅途</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Lyn_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>吹翠、烈火纹章士</original>
+			<edited>吹翠、烈火纹章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Byleth_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>教导、风花纹章士</original>
+			<edited>教导、风花纹章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Corrin_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>龙穿、选择纹章士</original>
+			<edited>龙穿、选择纹章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Restart_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>救世之龙</original>
+			<edited>救世之龙</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Daily1_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>谈笑</original>
+			<edited>谈笑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Daily2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>日常</original>
+			<edited>日常</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Daily3_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>平稳</original>
+			<edited>平稳</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Warm_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>情绪</original>
+			<edited>情绪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Engage_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>结合</original>
+			<edited>结合</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Consultation_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>商议</original>
+			<edited>商议</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Kindness_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>慈爱</original>
+			<edited>慈爱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_P05_OP_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>冰雨</original>
+			<edited>冰雨</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_NewEmblem_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>纹章奇迹</original>
+			<edited>纹章奇迹</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Advent_Marth_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>星炎、初始纹章士</original>
+			<edited>星炎、初始纹章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_Veyre_Truth_CS19_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>鸣响丧钟</original>
+			<edited>鸣响丧钟</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Evt_26ED2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>温暖的告别</original>
+			<edited>温暖的告别</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Mov_GOP_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>Emblem Engage!</original>
+			<edited>Emblem Engage!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Mov_S02_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>龙之梦境</original>
+			<edited>龙之梦境</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Mov_Eleos_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>艾雷欧斯大陆史</original>
+			<edited>艾雷欧斯大陆史</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Mov_Red_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>红色记忆</original>
+			<edited>红色记忆</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Mov_Appear_Alfred_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>丰饶的王子</original>
+			<edited>丰饶的王子</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Mov_Appear_Sombre_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>邪龙尚卜尔</original>
+			<edited>邪龙尚卜尔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Mov_Lueur_Die_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>神龙之死</original>
+			<edited>神龙之死</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Mov_S18_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>第六片大陆</original>
+			<edited>第六片大陆</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P00_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>假寐的决战</original>
+			<edited>假寐的决战</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P00_Heavy_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>假寐的决战～昏</original>
+			<edited>假寐的决战～昏</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P01_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>遥远圣地</original>
+			<edited>遥远圣地</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P01_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>遥远圣地～闪</original>
+			<edited>遥远圣地～闪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P01_Heavy_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>悠远圣地</original>
+			<edited>悠远圣地</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P01_Heavy_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>悠远圣地～闪</original>
+			<edited>悠远圣地～闪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P02_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>风起的旅途</original>
+			<edited>风起的旅途</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P02_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>风起的旅途～华</original>
+			<edited>风起的旅途～华</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P02_Heavy_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>风起云涌的旅途</original>
+			<edited>风起云涌的旅途</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P02_Heavy_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>风起云涌的旅途～华</original>
+			<edited>风起云涌的旅途～华</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P03_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>王室的骄傲</original>
+			<edited>王室的骄傲</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P03_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>王室的骄傲～刚</original>
+			<edited>王室的骄傲～刚</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P03_Heavy_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>王室永远的骄傲</original>
+			<edited>王室永远的骄傲</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P03_Heavy_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>王室永远的骄傲～刚</original>
+			<edited>王室永远的骄傲～刚</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P04_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>泪痕～冻</original>
+			<edited>泪痕～冻</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P05_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>切断的牵绊</original>
+			<edited>切断的牵绊</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P06_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>沙尘与烂漫</original>
+			<edited>沙尘与烂漫</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P06_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>沙尘与烂漫～热</original>
+			<edited>沙尘与烂漫～热</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P06_Heavy_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>烂漫飞舞的沙尘</original>
+			<edited>烂漫飞舞的沙尘</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P06_Heavy_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>烂漫飞舞的沙尘～热</original>
+			<edited>烂漫飞舞的沙尘～热</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P08_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>凛然飘零的送别之花</original>
+			<edited>凛然飘零的送别之花</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P09_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>前去誓约之地</original>
+			<edited>前去誓约之地</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P09_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>前去誓约之地～闪</original>
+			<edited>前去誓约之地～闪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P12_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>最终结合～祈祷的咒文</original>
+			<edited>最终结合～祈祷的咒文</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P13_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>刀光剑影</original>
+			<edited>刀光剑影</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_P13_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>刀光剑影～斗</original>
+			<edited>刀光剑影～斗</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_E01_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>异形兵</original>
+			<edited>异形兵</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_E02_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>神与造物</original>
+			<edited>神与造物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_E03_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>蠢动的冰锥</original>
+			<edited>蠢动的冰锥</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_E04_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>跪爬的暗音</original>
+			<edited>跪爬的暗音</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_E05_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>歪曲的闪光</original>
+			<edited>歪曲的闪光</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S03_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>觉醒的试炼</original>
+			<edited>觉醒的试炼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S03_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>觉醒的试炼～燃起</original>
+			<edited>觉醒的试炼～燃起</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S04_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>烈火的试炼</original>
+			<edited>烈火的试炼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S04_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>烈火的试炼～吹翠</original>
+			<edited>烈火的试炼～吹翠</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S05_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>苍炎的试炼</original>
+			<edited>苍炎的试炼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S05_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>苍炎的试炼～勇斗</original>
+			<edited>苍炎的试炼～勇斗</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S06_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>风花的试炼</original>
+			<edited>风花的试炼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S06_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>风花的试炼～教导</original>
+			<edited>风花的试炼～教导</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S07_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>选择的试炼</original>
+			<edited>选择的试炼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S07_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>选择的试炼～龙穿</original>
+			<edited>选择的试炼～龙穿</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S08_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>圣魔的试炼</original>
+			<edited>圣魔的试炼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S08_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>圣魔的试炼～晴碧</original>
+			<edited>圣魔的试炼～晴碧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S09_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>圣战的试炼</original>
+			<edited>圣战的试炼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S09_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>圣战的试炼～继承</original>
+			<edited>圣战的试炼～继承</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S10_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>系谱的试炼</original>
+			<edited>系谱的试炼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S10_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>系谱的试炼～解放</original>
+			<edited>系谱的试炼～解放</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S11_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>拂晓的试炼</original>
+			<edited>拂晓的试炼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S11_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>拂晓的试炼～救愈</original>
+			<edited>拂晓的试炼～救愈</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S12_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>封印的试炼</original>
+			<edited>封印的试炼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S12_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>封印的试炼～焰向</original>
+			<edited>封印的试炼～焰向</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S13_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>声响的试炼</original>
+			<edited>声响的试炼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S13_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>声响的试炼～守护</original>
+			<edited>声响的试炼～守护</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S14_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>纹章的试炼</original>
+			<edited>纹章的试炼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S14_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>纹章的试炼～星炎</original>
+			<edited>纹章的试炼～星炎</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S15_Map_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>约定的试炼</original>
+			<edited>约定的试炼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Field_S15_Combat_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>约定的试炼～系承</original>
+			<edited>约定的试炼～系承</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_01_Pre_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>扰乱秩序者</original>
+			<edited>扰乱秩序者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_01_Start_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>扰乱秩序者～烈</original>
+			<edited>扰乱秩序者～烈</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_02_Pre_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>睿智的暴虐者</original>
+			<edited>睿智的暴虐者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_02_Start_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>睿智的暴虐者～烈</original>
+			<edited>睿智的暴虐者～烈</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_03_Pre_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>传奇人物</original>
+			<edited>传奇人物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_03_Start_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>传奇人物～烈</original>
+			<edited>传奇人物～烈</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_04_Pre_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>四狗</original>
+			<edited>四狗</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_04_Start_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>四狗～烈</original>
+			<edited>四狗～烈</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_05_Pre_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>瑕疵品</original>
+			<edited>瑕疵品</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_05_Start_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>瑕疵品～烈</original>
+			<edited>瑕疵品～烈</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_06_Pre_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>无光之神</original>
+			<edited>无光之神</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Boss_06_Start_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>无光之神～烈</original>
+			<edited>无光之神～烈</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Title_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>同我结合</original>
+			<edited>同我结合</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Gmap_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>你的旅途</original>
+			<edited>你的旅途</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Prepare1_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>备战</original>
+			<edited>备战</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Prepare2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>严加备战</original>
+			<edited>严加备战</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Base1_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>神龙大人，早安</original>
+			<edited>神龙大人，早安</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Base2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>神龙大人，您在午间巡逻吗？</original>
+			<edited>神龙大人，您在午间巡逻吗？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Base3_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>神龙大人，黄昏真美啊</original>
+			<edited>神龙大人，黄昏真美啊</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Base4_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>神龙大人，真是个良宵啊</original>
+			<edited>神龙大人，真是个良宵啊</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Mini1_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>你要挑战飞龙射手吗……？</original>
+			<edited>你要挑战飞龙射手吗……？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Mini2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>今天也要努力锻炼喔！</original>
+			<edited>今天也要努力锻炼喔！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Mini3_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>布罗帝亚的渔业可是很兴盛的喔</original>
+			<edited>布罗帝亚的渔业可是很兴盛的喔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Base_Jukebox1_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>费列聂的茶会</original>
+			<edited>费列聂的茶会</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Base_Jukebox2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>布罗帝亚的团聚</original>
+			<edited>布罗帝亚的团聚</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Base_Jukebox3_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>伊尔席翁的晚餐</original>
+			<edited>伊尔席翁的晚餐</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Base_Jukebox4_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>索尔姆的露营</original>
+			<edited>索尔姆的露营</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Base_Jukebox5_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>餐桌上的纹章</original>
+			<edited>餐桌上的纹章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_ED1_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>绊炎</original>
+			<edited>绊炎</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_ED2_Result_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>FIRE EMBLEM主题曲 ～绊炎纹章士</original>
+			<edited>FIRE EMBLEM主题曲 ～绊炎纹章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_ED2_Sequel_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>旅途终将落幕</original>
+			<edited>旅途终将落幕</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Introduction_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>FIRE EMBLEM主题曲</original>
+			<edited>FIRE EMBLEM主题曲</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_ClassChange_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>磷光</original>
+			<edited>磷光</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Sys_Die_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>永诀</original>
+			<edited>永诀</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FF_GameOver_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>长眠不醒</original>
+			<edited>长眠不醒</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FF_StageClear_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>胜利</original>
+			<edited>胜利</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FF_LevelUp_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>成长</original>
+			<edited>成长</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FF_Bad_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>遗憾1</original>
+			<edited>遗憾1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FF_Sorry_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>遗憾2</original>
+			<edited>遗憾2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FF_Good1_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>喜悦1</original>
+			<edited>喜悦1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FF_Good2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>喜悦2</original>
+			<edited>喜悦2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FF_ItemGet1_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>获得1</original>
+			<edited>获得1</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FF_ItemGet2_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>获得2</original>
+			<edited>获得2</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_03_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>宿命～炎</original>
+			<edited>宿命～炎</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_04_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>草原之风</original>
+			<edited>草原之风</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_05_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>尽忠尽义</original>
+			<edited>尽忠尽义</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_06_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>芙朵拉的晓风</original>
+			<edited>芙朵拉的晓风</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_07_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>一切道路的尽头～炼</original>
+			<edited>一切道路的尽头～炼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_08_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>最终之战</original>
+			<edited>最终之战</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_09_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>终章（最后的圣战）</original>
+			<edited>终章（最后的圣战）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_10_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>终章　上啊上啊里弗</original>
+			<edited>终章　上啊上啊里弗</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_11_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>晓钟响彻</original>
+			<edited>晓钟响彻</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_12_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>迈向崭新的光芒照耀之处（罗伊的勇气）</original>
+			<edited>迈向崭新的光芒照耀之处（罗伊的勇气）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_13_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>战斗地图3 战斗地图2_1（赛莉卡1）</original>
+			<edited>战斗地图3 战斗地图2_1（赛莉卡1）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BGM_Amiibo_14_ST_Play" offset="00" relocatable="true" max_length="0">
+			<original>故事2 各地图的开始</original>
+			<edited>故事2 各地图的开始</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

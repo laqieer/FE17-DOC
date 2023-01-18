@@ -1,0 +1,4117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_BONDSRING_H_CommonTytle" offset="00" relocatable="true" max_length="0">
+			<original>“出场作品”</original>
+			<edited>“出场作品”</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_HELP" offset="00" relocatable="true" max_length="0">
+			<original>与纹章士&#xE;&#x1;&#x0;&#x0;密不可分，
+蕴藏英雄之力的戒指。
+能赋予佩戴者力量。</original>
+			<edited>与纹章士&#xE;&#x1;&#x0;&#x0;密不可分，
+蕴藏英雄之力的戒指。
+能赋予佩戴者力量。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_HELP_Special" offset="00" relocatable="true" max_length="0">
+			<original>蕴藏特别英雄之力的戒指。
+能赋予佩戴者力量。</original>
+			<edited>蕴藏特别英雄之力的戒指。
+能赋予佩戴者力量。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Marth00" offset="00" relocatable="true" max_length="0">
+			<original>异界阿卡奈亚陆地中
+阿利提亚王国的王子。</original>
+			<edited>异界阿卡奈亚陆地中
+阿利提亚王国的王子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Marth01" offset="00" relocatable="true" max_length="0">
+			<original>富有领袖魅力，
+合伙伴之力共同对抗暗黑龙梅迪乌斯。</original>
+			<edited>富有领袖魅力，
+合伙伴之力共同对抗暗黑龙梅迪乌斯。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Seeda" offset="00" relocatable="true" max_length="0">
+			<original>希达</original>
+			<edited>希达</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Seeda00" offset="00" relocatable="true" max_length="0">
+			<original>异界阿卡奈亚陆地中
+塔利斯王国的公主。</original>
+			<edited>异界阿卡奈亚陆地中
+塔利斯王国的公主。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Seeda01" offset="00" relocatable="true" max_length="0">
+			<original>驰骋于沙场上，个性活泼的女天马骑士，
+独具魅力，讨人喜爱。</original>
+			<edited>驰骋于沙场上，个性活泼的女天马骑士，
+独具魅力，讨人喜爱。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Seeda02" offset="00" relocatable="true" max_length="0">
+			<original>与逃亡的马尔斯结识后，
+一路扶持他，并成为他的未婚妻。</original>
+			<edited>与逃亡的马尔斯结识后，
+一路扶持他，并成为他的未婚妻。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Seeda03" offset="00" relocatable="true" max_length="0">
+			<original>《暗黒竜と光の剣》《紋章の謎》等</original>
+			<edited>《暗黒竜と光の剣》《紋章の謎》等</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Tiki" offset="00" relocatable="true" max_length="0">
+			<original>琪姬</original>
+			<edited>琪姬</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Tiki00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，神龙族公主。</original>
+			<edited>异界英雄之一，神龙族公主。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Tiki01" offset="00" relocatable="true" max_length="0">
+			<original>将龙之力封入石中后化为人形的
+“龙族”之一。</original>
+			<edited>将龙之力封入石中后化为人形的
+“龙族”之一。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Tiki02" offset="00" relocatable="true" max_length="0">
+			<original>曾遭到魔王加内夫操控，
+被马尔斯救助后成为他可靠的伙伴。</original>
+			<edited>曾遭到魔王加内夫操控，
+被马尔斯救助后成为他可靠的伙伴。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Tiki03" offset="00" relocatable="true" max_length="0">
+			<original>《暗黒竜と光の剣》《紋章の謎》等</original>
+			<edited>《暗黒竜と光の剣》《紋章の謎》等</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Minerba" offset="00" relocatable="true" max_length="0">
+			<original>米奈娃</original>
+			<edited>米奈娃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Minerba00" offset="00" relocatable="true" max_length="0">
+			<original>异界阿卡奈亚陆地中
+马其顿王国的公主。</original>
+			<edited>异界阿卡奈亚陆地中
+马其顿王国的公主。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Minerba01" offset="00" relocatable="true" max_length="0">
+			<original>既高贵又英勇的女性，
+别名“赤色龙骑士”。</original>
+			<edited>既高贵又英勇的女性，
+别名“赤色龙骑士”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Minerba02" offset="00" relocatable="true" max_length="0">
+			<original>无法接受祖国与多鲁亚帝国联手，
+不惜背叛出走，与之对战。</original>
+			<edited>无法接受祖国与多鲁亚帝国联手，
+不惜背叛出走，与之对战。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Minerba03" offset="00" relocatable="true" max_length="0">
+			<original>《暗黒竜と光の剣》《紋章の謎》等</original>
+			<edited>《暗黒竜と光の剣》《紋章の謎》等</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Nabarl" offset="00" relocatable="true" max_length="0">
+			<original>拿巴尔</original>
+			<edited>拿巴尔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nabarl00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，
+人称“赤色剑士”的用剑好手。</original>
+			<edited>异界英雄之一，
+人称“赤色剑士”的用剑好手。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nabarl01" offset="00" relocatable="true" max_length="0">
+			<original>曾经是盗贼的护卫，
+手持“必杀剑”与马尔斯为敌。</original>
+			<edited>曾经是盗贼的护卫，
+手持“必杀剑”与马尔斯为敌。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nabarl02" offset="00" relocatable="true" max_length="0">
+			<original>拿女性没辙，
+曾说过“不砍女人”。</original>
+			<edited>拿女性没辙，
+曾说过“不砍女人”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nabarl03" offset="00" relocatable="true" max_length="0">
+			<original>《暗黒竜と光の剣》《紋章の謎》等</original>
+			<edited>《暗黒竜と光の剣》《紋章の謎》等</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Oguma" offset="00" relocatable="true" max_length="0">
+			<original>奥古马</original>
+			<edited>奥古马</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Oguma00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，
+侍奉塔利斯王室的佣兵队队长。</original>
+			<edited>异界英雄之一，
+侍奉塔利斯王室的佣兵队队长。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Oguma01" offset="00" relocatable="true" max_length="0">
+			<original>骁勇剽悍、身经百战的勇士，
+过去曾是名剑斗士。</original>
+			<edited>骁勇剽悍、身经百战的勇士，
+过去曾是名剑斗士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Oguma02" offset="00" relocatable="true" max_length="0">
+			<original>剑斗士时期曾受希达公主的救命之恩，
+自此对希达尊敬爱慕、忠心不二。</original>
+			<edited>剑斗士时期曾受希达公主的救命之恩，
+自此对希达尊敬爱慕、忠心不二。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Oguma03" offset="00" relocatable="true" max_length="0">
+			<original>《暗黒竜と光の剣》《紋章の謎》等</original>
+			<edited>《暗黒竜と光の剣》《紋章の謎》等</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Katarina" offset="00" relocatable="true" max_length="0">
+			<original>卡达丽娜</original>
+			<edited>卡达丽娜</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Katarina00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，见习军师。</original>
+			<edited>异界英雄之一，见习军师。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Katarina01" offset="00" relocatable="true" max_length="0">
+			<original>为侍奉马尔斯而造访阿利提亚城，
+并与克里斯一起加入第七小队。</original>
+			<edited>为侍奉马尔斯而造访阿利提亚城，
+并与克里斯一起加入第七小队。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Katarina02" offset="00" relocatable="true" max_length="0">
+			<original>个性稳重，为伙伴着想，
+但心中藏着不为人知的秘密。</original>
+			<edited>个性稳重，为伙伴着想，
+但心中藏着不为人知的秘密。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Katarina03" offset="00" relocatable="true" max_length="0">
+			<original>《新・紋章の謎》</original>
+			<edited>《新・紋章の謎》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Marich" offset="00" relocatable="true" max_length="0">
+			<original>马利克</original>
+			<edited>马利克</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Marich00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，
+人称“风之魔道士”的魔道天才。</original>
+			<edited>异界英雄之一，
+人称“风之魔道士”的魔道天才。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Marich01" offset="00" relocatable="true" max_length="0">
+			<original>在魔道都市卡达因留学，
+后来继承高等风魔法“埃克斯卡利伯”。</original>
+			<edited>在魔道都市卡达因留学，
+后来继承高等风魔法“埃克斯卡利伯”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Marich02" offset="00" relocatable="true" max_length="0">
+			<original>出身于阿利提亚王国贵族之家，
+是马尔斯王子的儿时玩伴。</original>
+			<edited>出身于阿利提亚王国贵族之家，
+是马尔斯王子的儿时玩伴。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Marich03" offset="00" relocatable="true" max_length="0">
+			<original>《暗黒竜と光の剣》《紋章の謎》等</original>
+			<edited>《暗黒竜と光の剣》《紋章の謎》等</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Rinda" offset="00" relocatable="true" max_length="0">
+			<original>琳达</original>
+			<edited>琳达</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Rinda00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，拥有过人魔道天赋的少女。</original>
+			<edited>异界英雄之一，拥有过人魔道天赋的少女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Rinda01" offset="00" relocatable="true" max_length="0">
+			<original>阿卡奈亚王国大祭司米罗亚的女儿，
+性格强势。</original>
+			<edited>阿卡奈亚王国大祭司米罗亚的女儿，
+性格强势。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Rinda02" offset="00" relocatable="true" max_length="0">
+			<original>继承亡父的高级光魔法“辉光”后，
+为报仇而讨伐加内夫。</original>
+			<edited>继承亡父的高级光魔法“辉光”后，
+为报仇而讨伐加内夫。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Rinda03" offset="00" relocatable="true" max_length="0">
+			<original>《暗黒竜と光の剣》《紋章の謎》等</original>
+			<edited>《暗黒竜と光の剣》《紋章の謎》等</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Kris" offset="00" relocatable="true" max_length="0">
+			<original>克里斯</original>
+			<edited>克里斯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Kris00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，马尔斯的护卫骑士。</original>
+			<edited>异界英雄之一，马尔斯的护卫骑士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Kris01" offset="00" relocatable="true" max_length="0">
+			<original>来自阿利提亚王国，
+原隶属第七小队，后成为骑士。</original>
+			<edited>来自阿利提亚王国，
+原隶属第七小队，后成为骑士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Kris02" offset="00" relocatable="true" max_length="0">
+			<original>从此保护马尔斯征战各地，
+在幕后护他周全。</original>
+			<edited>从此保护马尔斯征战各地，
+在幕后护他周全。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Kris03" offset="00" relocatable="true" max_length="0">
+			<original>《新・紋章の謎》</original>
+			<edited>《新・紋章の謎》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Roro" offset="00" relocatable="true" max_length="0">
+			<original>罗罗</original>
+			<edited>罗罗</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Roro00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，隶属暗杀集团的狂战士。</original>
+			<edited>异界英雄之一，隶属暗杀集团的狂战士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Roro01" offset="00" relocatable="true" max_length="0">
+			<original>总是戴着古怪的面具，
+战斗时会发出诡异的笑声。</original>
+			<edited>总是戴着古怪的面具，
+战斗时会发出诡异的笑声。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Roro02" offset="00" relocatable="true" max_length="0">
+			<original>有众多外貌一模一样的“兄弟”，
+会齐心协力暗杀目标。</original>
+			<edited>有众多外貌一模一样的“兄弟”，
+会齐心协力暗杀目标。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Roro03" offset="00" relocatable="true" max_length="0">
+			<original>《新・紋章の謎》</original>
+			<edited>《新・紋章の謎》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Siglud00" offset="00" relocatable="true" max_length="0">
+			<original>异界尤格多拉尔陆地中
+格兰贝鲁王国的希亚费公爵家的勋爵。</original>
+			<edited>异界尤格多拉尔陆地中
+格兰贝鲁王国的希亚费公爵家的勋爵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Siglud01" offset="00" relocatable="true" max_length="0">
+			<original>遭信奉暗黑神罗普托乌斯的教团陷害而丧命，
+由其子继承遗志。</original>
+			<edited>遭信奉暗黑神罗普托乌斯的教团陷害而丧命，
+由其子继承遗志。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Ira" offset="00" relocatable="true" max_length="0">
+			<original>艾伊拉</original>
+			<edited>艾伊拉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ira00" offset="00" relocatable="true" max_length="0">
+			<original>异界尤格多拉尔陆地中
+伊扎克王国的公主。</original>
+			<edited>异界尤格多拉尔陆地中
+伊扎克王国的公主。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ira01" offset="00" relocatable="true" max_length="0">
+			<original>剑术高超的女剑士，
+与西格尔特成为伙伴后并肩作战。</original>
+			<edited>剑术高超的女剑士，
+与西格尔特成为伙伴后并肩作战。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ira02" offset="00" relocatable="true" max_length="0">
+			<original>继承了剑圣──圣战士奥德的血脉，
+能炉火纯青地施展必杀奥义“流星剑”。</original>
+			<edited>继承了剑圣──圣战士奥德的血脉，
+能炉火纯青地施展必杀奥义“流星剑”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ira03" offset="00" relocatable="true" max_length="0">
+			<original>《聖戦の系譜》</original>
+			<edited>《聖戦の系譜》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Arden" offset="00" relocatable="true" max_length="0">
+			<original>亚丹</original>
+			<edited>亚丹</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Arden00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，
+侍奉西格尔特的重装骑士。</original>
+			<edited>异界英雄之一，
+侍奉西格尔特的重装骑士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Arden01" offset="00" relocatable="true" max_length="0">
+			<original>隶属希亚费公爵家旗下的
+“翠绿骑士团”。</original>
+			<edited>隶属希亚费公爵家旗下的
+“翠绿骑士团”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Arden02" offset="00" relocatable="true" max_length="0">
+			<original>战力高但机动性欠佳，
+身边的人都调侃他“又硬、又强、又慢”。</original>
+			<edited>战力高但机动性欠佳，
+身边的人都调侃他“又硬、又强、又慢”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Arden03" offset="00" relocatable="true" max_length="0">
+			<original>《聖戦の系譜》</original>
+			<edited>《聖戦の系譜》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Celice" offset="00" relocatable="true" max_length="0">
+			<original>赛列斯</original>
+			<edited>赛列斯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Celice00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，
+人称“光之勋爵”的青年。</original>
+			<edited>异界英雄之一，
+人称“光之勋爵”的青年。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Celice01" offset="00" relocatable="true" max_length="0">
+			<original>西格尔特与迪雅朵拉之子，
+继承了圣战士巴尔德的血脉。</original>
+			<edited>西格尔特与迪雅朵拉之子，
+继承了圣战士巴尔德的血脉。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Celice02" offset="00" relocatable="true" max_length="0">
+			<original>率领叛军反抗格兰贝鲁帝国，
+成为尤格多拉尔陆地的救世主。</original>
+			<edited>率领叛军反抗格兰贝鲁帝国，
+成为尤格多拉尔陆地的救世主。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Celice03" offset="00" relocatable="true" max_length="0">
+			<original>《聖戦の系譜》《トラキア776》</original>
+			<edited>《聖戦の系譜》《トラキア776》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Levn" offset="00" relocatable="true" max_length="0">
+			<original>雷文</original>
+			<edited>雷文</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Levn00" offset="00" relocatable="true" max_length="0">
+			<original>异界尤格多拉尔陆地中
+西里西亚王国的王子。</original>
+			<edited>异界尤格多拉尔陆地中
+西里西亚王国的王子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Levn01" offset="00" relocatable="true" max_length="0">
+			<original>传承风使赛提血脉的圣战士后裔，
+继承了“风魔法弗鲁赛提”。</original>
+			<edited>传承风使赛提血脉的圣战士后裔，
+继承了“风魔法弗鲁赛提”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Levn02" offset="00" relocatable="true" max_length="0">
+			<original>是西格尔特的战友。
+西格尔特丧命后，仍继续守护其子赛列斯。</original>
+			<edited>是西格尔特的战友。
+西格尔特丧命后，仍继续守护其子赛列斯。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Levn03" offset="00" relocatable="true" max_length="0">
+			<original>《聖戦の系譜》《トラキア776》</original>
+			<edited>《聖戦の系譜》《トラキア776》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Rackesis" offset="00" relocatable="true" max_length="0">
+			<original>拉克西丝</original>
+			<edited>拉克西丝</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Rackesis00" offset="00" relocatable="true" max_length="0">
+			<original>异界尤格多拉尔陆地中
+诺狄恩王国的公主。</original>
+			<edited>异界尤格多拉尔陆地中
+诺狄恩王国的公主。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Rackesis01" offset="00" relocatable="true" max_length="0">
+			<original>狮子王艾尔多尚的妹妹，
+美丽动人、品行高尚。</original>
+			<edited>狮子王艾尔多尚的妹妹，
+美丽动人、品行高尚。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Rackesis02" offset="00" relocatable="true" max_length="0">
+			<original>在她心目中，哥哥是最完美的男人。
+兄妹俩手足情深，于民间传为佳话。</original>
+			<edited>在她心目中，哥哥是最完美的男人。
+兄妹俩手足情深，于民间传为佳话。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Rackesis03" offset="00" relocatable="true" max_length="0">
+			<original>《聖戦の系譜》</original>
+			<edited>《聖戦の系譜》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Cuan" offset="00" relocatable="true" max_length="0">
+			<original>乔安</original>
+			<edited>乔安</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Cuan00" offset="00" relocatable="true" max_length="0">
+			<original>异界尤格多拉尔陆地中
+伦斯特王国的王子。</original>
+			<edited>异界尤格多拉尔陆地中
+伦斯特王国的王子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Cuan01" offset="00" relocatable="true" max_length="0">
+			<original>传承枪骑士诺华血脉的圣战士后裔，
+继承了“地枪盖伯尔加”。</original>
+			<edited>传承枪骑士诺华血脉的圣战士后裔，
+继承了“地枪盖伯尔加”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Cuan02" offset="00" relocatable="true" max_length="0">
+			<original>西格尔特就读士官学校时结识的朋友，
+重视友情、富有正义感。</original>
+			<edited>西格尔特就读士官学校时结识的朋友，
+重视友情、富有正义感。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Cuan03" offset="00" relocatable="true" max_length="0">
+			<original>《聖戦の系譜》</original>
+			<edited>《聖戦の系譜》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Diadora" offset="00" relocatable="true" max_length="0">
+			<original>迪雅朵拉</original>
+			<edited>迪雅朵拉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Diadora00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，来自精灵森林的巫女。</original>
+			<edited>异界英雄之一，来自精灵森林的巫女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Diadora01" offset="00" relocatable="true" max_length="0">
+			<original>被禁止与人接触的她
+与西格尔特相识后结为夫妻。</original>
+			<edited>被禁止与人接触的她
+与西格尔特相识后结为夫妻。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Diadora02" offset="00" relocatable="true" max_length="0">
+			<original>育有一子赛列斯，原本过着幸福无忧的生活，
+却遭到暗黑教团迫害，最终以悲剧收场。</original>
+			<edited>育有一子赛列斯，原本过着幸福无忧的生活，
+却遭到暗黑教团迫害，最终以悲剧收场。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Diadora03" offset="00" relocatable="true" max_length="0">
+			<original>《聖戦の系譜》</original>
+			<edited>《聖戦の系譜》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Ethlin" offset="00" relocatable="true" max_length="0">
+			<original>艾丝琳</original>
+			<edited>艾丝琳</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ethlin00" offset="00" relocatable="true" max_length="0">
+			<original>异界尤格多拉尔陆地中
+格兰贝鲁王国希亚费公爵家的女爵。</original>
+			<edited>异界尤格多拉尔陆地中
+格兰贝鲁王国希亚费公爵家的女爵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ethlin01" offset="00" relocatable="true" max_length="0">
+			<original>西格尔特的妹妹，
+稳重可靠且擅长照顾人。</original>
+			<edited>西格尔特的妹妹，
+稳重可靠且擅长照顾人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ethlin02" offset="00" relocatable="true" max_length="0">
+			<original>嫁给其兄挚友乔安王子后，
+生下了阿尔缇娜和里弗。</original>
+			<edited>嫁给其兄挚友乔安王子后，
+生下了阿尔缇娜和里弗。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ethlin03" offset="00" relocatable="true" max_length="0">
+			<original>《聖戦の系譜》</original>
+			<edited>《聖戦の系譜》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Ferry" offset="00" relocatable="true" max_length="0">
+			<original>菲莉</original>
+			<edited>菲莉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ferry00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，
+效命于西里西亚王国的天马骑士。</original>
+			<edited>异界英雄之一，
+效命于西里西亚王国的天马骑士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ferry01" offset="00" relocatable="true" max_length="0">
+			<original>人称“四天马骑士”的精锐士兵之一，
+为了寻找雷文王子奔走四方。</original>
+			<edited>人称“四天马骑士”的精锐士兵之一，
+为了寻找雷文王子奔走四方。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ferry02" offset="00" relocatable="true" max_length="0">
+			<original>拥有过人的身手，
+但为人老实，容易受骗。</original>
+			<edited>拥有过人的身手，
+但为人老实，容易受骗。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ferry03" offset="00" relocatable="true" max_length="0">
+			<original>《聖戦の系譜》</original>
+			<edited>《聖戦の系譜》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Azel" offset="00" relocatable="true" max_length="0">
+			<original>艾泽尔</original>
+			<edited>艾泽尔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Azel00" offset="00" relocatable="true" max_length="0">
+			<original>异界尤格多拉尔陆地中
+格兰贝鲁王国贝尔特玛公爵家的勋爵。</original>
+			<edited>异界尤格多拉尔陆地中
+格兰贝鲁王国贝尔特玛公爵家的勋爵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Azel01" offset="00" relocatable="true" max_length="0">
+			<original>传承魔法战士法拉血脉的圣战士后裔，
+擅长火焰魔法的善良青年。</original>
+			<edited>传承魔法战士法拉血脉的圣战士后裔，
+擅长火焰魔法的善良青年。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Azel02" offset="00" relocatable="true" max_length="0">
+			<original>为了拯救被掳走的心上人爱汀，
+他全力奋战。</original>
+			<edited>为了拯救被掳走的心上人爱汀，
+他全力奋战。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Azel03" offset="00" relocatable="true" max_length="0">
+			<original>《聖戦の系譜》</original>
+			<edited>《聖戦の系譜》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Celica00" offset="00" relocatable="true" max_length="0">
+			<original>异界瓦伦西亚陆地中
+索菲亚王国的王族幸存者。</original>
+			<edited>异界瓦伦西亚陆地中
+索菲亚王国的王族幸存者。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Celica01" offset="00" relocatable="true" max_length="0">
+			<original>为了探究世界异变的原因踏上旅途，
+与阿雷武一同对抗邪神多玛。</original>
+			<edited>为了探究世界异变的原因踏上旅途，
+与阿雷武一同对抗邪神多玛。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Alm" offset="00" relocatable="true" max_length="0">
+			<original>阿雷武</original>
+			<edited>阿雷武</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Alm00" offset="00" relocatable="true" max_length="0">
+			<original>拯救了异界瓦伦西亚陆地的英雄。</original>
+			<edited>拯救了异界瓦伦西亚陆地的英雄。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Alm01" offset="00" relocatable="true" max_length="0">
+			<original>富有正义感的少年，
+左手上有圣痕，是预言中的勇士。</original>
+			<edited>富有正义感的少年，
+左手上有圣痕，是预言中的勇士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Alm02" offset="00" relocatable="true" max_length="0">
+			<original>与赛莉卡是儿时玩伴，
+在旅行途中重逢后合力对抗邪神多玛。</original>
+			<edited>与赛莉卡是儿时玩伴，
+在旅行途中重逢后合力对抗邪神多玛。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Alm03" offset="00" relocatable="true" max_length="0">
+			<original>《外伝》《Echoes》</original>
+			<edited>《外伝》《Echoes》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Deute" offset="00" relocatable="true" max_length="0">
+			<original>迪优特</original>
+			<edited>迪优特</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Deute00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，性格开朗的魔道士。</original>
+			<edited>异界英雄之一，性格开朗的魔道士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Deute01" offset="00" relocatable="true" max_length="0">
+			<original>在阿雷武的帮助下摆脱了敌军妖术师的操控，
+并与阿雷武成为伙伴。</original>
+			<edited>在阿雷武的帮助下摆脱了敌军妖术师的操控，
+并与阿雷武成为伙伴。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Deute02" offset="00" relocatable="true" max_length="0">
+			<original>出身于边境村落，不喜欢乡下，
+梦想是与城里人结下良缘。</original>
+			<edited>出身于边境村落，不喜欢乡下，
+梦想是与城里人结下良缘。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Deute03" offset="00" relocatable="true" max_length="0">
+			<original>《外伝》《Echoes》</original>
+			<edited>《外伝》《Echoes》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Effie" offset="00" relocatable="true" max_length="0">
+			<original>艾菲</original>
+			<edited>艾菲</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Effie00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，爱慕阿雷武的少女。</original>
+			<edited>异界英雄之一，爱慕阿雷武的少女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Effie01" offset="00" relocatable="true" max_length="0">
+			<original>来自阿雷武长大的拉姆村，
+两人是儿时玩伴。</original>
+			<edited>来自阿雷武长大的拉姆村，
+两人是儿时玩伴。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Effie02" offset="00" relocatable="true" max_length="0">
+			<original>从小便倾心于阿雷武，
+梦想是与他共度一生。</original>
+			<edited>从小便倾心于阿雷武，
+梦想是与他共度一生。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Effie03" offset="00" relocatable="true" max_length="0">
+			<original>《Echoes》</original>
+			<edited>《Echoes》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Genny" offset="00" relocatable="true" max_length="0">
+			<original>杰妮</original>
+			<edited>杰妮</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Genny00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，温文尔雅的修女。</original>
+			<edited>异界英雄之一，温文尔雅的修女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Genny01" offset="00" relocatable="true" max_length="0">
+			<original>原本侍奉于诺瓦岛上的修道院，
+后决心与赛莉卡一同踏上旅程。</original>
+			<edited>原本侍奉于诺瓦岛上的修道院，
+后决心与赛莉卡一同踏上旅程。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Genny02" offset="00" relocatable="true" max_length="0">
+			<original>喜欢悠悠哉哉地过日子，
+爱好是在家里看书或撰写故事。</original>
+			<edited>喜欢悠悠哉哉地过日子，
+爱好是在家里看书或撰写故事。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Genny03" offset="00" relocatable="true" max_length="0">
+			<original>《外伝》《Echoes》</original>
+			<edited>《外伝》《Echoes》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Lukas" offset="00" relocatable="true" max_length="0">
+			<original>卢卡</original>
+			<edited>卢卡</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lukas00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，索菲亚解放军的士兵。</original>
+			<edited>异界英雄之一，索菲亚解放军的士兵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lukas01" offset="00" relocatable="true" max_length="0">
+			<original>举止稳重的青年，
+引导阿雷武加入了解放军。</original>
+			<edited>举止稳重的青年，
+引导阿雷武加入了解放军。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lukas02" offset="00" relocatable="true" max_length="0">
+			<original>虽出身贵族，却不拘泥于家世，
+待人一律彬彬有礼。</original>
+			<edited>虽出身贵族，却不拘泥于家世，
+待人一律彬彬有礼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lukas03" offset="00" relocatable="true" max_length="0">
+			<original>《外伝》《Echoes》</original>
+			<edited>《外伝》《Echoes》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Conrad" offset="00" relocatable="true" max_length="0">
+			<original>孔拉特</original>
+			<edited>孔拉特</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Conrad00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，充满谜团的蒙面骑士。</original>
+			<edited>异界英雄之一，充满谜团的蒙面骑士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Conrad01" offset="00" relocatable="true" max_length="0">
+			<original>总是在赛莉卡陷入危机之际，
+挺身相救。</original>
+			<edited>总是在赛莉卡陷入危机之际，
+挺身相救。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Conrad02" offset="00" relocatable="true" max_length="0">
+			<original>将样貌藏于白色面具之下，
+无人知晓其真实身分。</original>
+			<edited>将样貌藏于白色面具之下，
+无人知晓其真实身分。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Conrad03" offset="00" relocatable="true" max_length="0">
+			<original>《Echoes》</original>
+			<edited>《Echoes》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Saber" offset="00" relocatable="true" max_length="0">
+			<original>赛巴</original>
+			<edited>赛巴</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Saber00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，本领高强的佣兵。</original>
+			<edited>异界英雄之一，本领高强的佣兵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Saber01" offset="00" relocatable="true" max_length="0">
+			<original>为了横渡海盗肆虐的海洋，
+赛莉卡所雇佣的保镖。</original>
+			<edited>为了横渡海盗肆虐的海洋，
+赛莉卡所雇佣的保镖。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Saber02" offset="00" relocatable="true" max_length="0">
+			<original>是个看重金钱的无赖，但也有和善的一面，
+在旅途上一路劝导并守护初出茅庐的赛莉卡。</original>
+			<edited>是个看重金钱的无赖，但也有和善的一面，
+在旅途上一路劝导并守护初出茅庐的赛莉卡。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Saber03" offset="00" relocatable="true" max_length="0">
+			<original>《外伝》《Echoes》</original>
+			<edited>《外伝》《Echoes》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Silque" offset="00" relocatable="true" max_length="0">
+			<original>希尔科</original>
+			<edited>希尔科</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Silque00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，
+信奉女神美拉的虔诚修女。</original>
+			<edited>异界英雄之一，
+信奉女神美拉的虔诚修女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Silque01" offset="00" relocatable="true" max_length="0">
+			<original>曾遭盗贼俘虏，在阿雷武的帮助下重获自由，
+并与阿雷武成为伙伴。</original>
+			<edited>曾遭盗贼俘虏，在阿雷武的帮助下重获自由，
+并与阿雷武成为伙伴。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Silque02" offset="00" relocatable="true" max_length="0">
+			<original>坚定地信仰着美拉，
+盼望着美拉的教诲能拯救受苦受难的百姓。</original>
+			<edited>坚定地信仰着美拉，
+盼望着美拉的教诲能拯救受苦受难的百姓。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Silque03" offset="00" relocatable="true" max_length="0">
+			<original>《外伝》《Echoes》</original>
+			<edited>《外伝》《Echoes》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Mae" offset="00" relocatable="true" max_length="0">
+			<original>梅伊</original>
+			<edited>梅伊</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Mae00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，朝气蓬勃的少女魔道士。</original>
+			<edited>异界英雄之一，朝气蓬勃的少女魔道士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Mae01" offset="00" relocatable="true" max_length="0">
+			<original>来自诺瓦岛的修道院，
+与赛莉卡一同踏上旅程，前往美拉神殿。</original>
+			<edited>来自诺瓦岛的修道院，
+与赛莉卡一同踏上旅程，前往美拉神殿。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Mae02" offset="00" relocatable="true" max_length="0">
+			<original>十分敬慕赛莉卡，时而站在仆从的立场上，
+时而站在友人的立场上扶持着她。</original>
+			<edited>十分敬慕赛莉卡，时而站在仆从的立场上，
+时而站在友人的立场上扶持着她。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Mae03" offset="00" relocatable="true" max_length="0">
+			<original>《外伝》《Echoes》</original>
+			<edited>《外伝》《Echoes》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Valbar" offset="00" relocatable="true" max_length="0">
+			<original>巴尔博</original>
+			<edited>巴尔博</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Valbar00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，实力过人的重装战士。</original>
+			<edited>异界英雄之一，实力过人的重装战士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Valbar01" offset="00" relocatable="true" max_length="0">
+			<original>身世悲惨，家人惨死于海盗之手，
+一心为复仇而战。</original>
+			<edited>身世悲惨，家人惨死于海盗之手，
+一心为复仇而战。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Valbar02" offset="00" relocatable="true" max_length="0">
+			<original>性格豪爽，擅长照顾人，
+颇受伙伴仰慕。</original>
+			<edited>性格豪爽，擅长照顾人，
+颇受伙伴仰慕。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Valbar03" offset="00" relocatable="true" max_length="0">
+			<original>《外伝》《Echoes》</original>
+			<edited>《外伝》《Echoes》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Micaiah00" offset="00" relocatable="true" max_length="0">
+			<original>异界堤里乌斯陆地中
+戴因王国的义贼团“晓团”成员。</original>
+			<edited>异界堤里乌斯陆地中
+戴因王国的义贼团“晓团”成员。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Micaiah01" offset="00" relocatable="true" max_length="0">
+			<original>盼望拯救祖国，
+并对抗企图制裁人类的女神亚丝塔尔蒂。</original>
+			<edited>盼望拯救祖国，
+并对抗企图制裁人类的女神亚丝塔尔蒂。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Nephenee" offset="00" relocatable="true" max_length="0">
+			<original>涅菲妮</original>
+			<edited>涅菲妮</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nephenee00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，克里米亚王国的士兵。</original>
+			<edited>异界英雄之一，克里米亚王国的士兵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nephenee01" offset="00" relocatable="true" max_length="0">
+			<original>出身农村，为了拯救祖国，
+成为义勇兵参战。</original>
+			<edited>出身农村，为了拯救祖国，
+成为义勇兵参战。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nephenee02" offset="00" relocatable="true" max_length="0">
+			<original>沉默寡言、谦虚稳重，
+有着强烈的爱国心。</original>
+			<edited>沉默寡言、谦虚稳重，
+有着强烈的爱国心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nephenee03" offset="00" relocatable="true" max_length="0">
+			<original>《蒼炎の軌跡》《暁の女神》</original>
+			<edited>《蒼炎の軌跡》《暁の女神》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_BlackKnight" offset="00" relocatable="true" max_length="0">
+			<original>漆黑骑士</original>
+			<edited>漆黑骑士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_BlackKnight00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，戴因王国最强的大将。</original>
+			<edited>异界英雄之一，戴因王国最强的大将。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_BlackKnight01" offset="00" relocatable="true" max_length="0">
+			<original>人称“四骏”的精锐之一，
+全身包覆漆黑铠甲，所向披靡。</original>
+			<edited>人称“四骏”的精锐之一，
+全身包覆漆黑铠甲，所向披靡。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_BlackKnight02" offset="00" relocatable="true" max_length="0">
+			<original>杀害了佣兵团团长格莱尔，
+与团长之子艾克展开生死激战。</original>
+			<edited>杀害了佣兵团团长格莱尔，
+与团长之子艾克展开生死激战。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_BlackKnight03" offset="00" relocatable="true" max_length="0">
+			<original>《蒼炎の軌跡》《暁の女神》</original>
+			<edited>《蒼炎の軌跡》《暁の女神》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Sothe" offset="00" relocatable="true" max_length="0">
+			<original>萨札</original>
+			<edited>萨札</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sothe00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，米卡雅的义弟。</original>
+			<edited>异界英雄之一，米卡雅的义弟。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sothe01" offset="00" relocatable="true" max_length="0">
+			<original>义贼团“晓团”的成员，
+致力于拯救遭帝国压迫的人民。</original>
+			<edited>义贼团“晓团”的成员，
+致力于拯救遭帝国压迫的人民。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sothe02" offset="00" relocatable="true" max_length="0">
+			<original>以义弟的身分与米卡雅一同长大，
+虽然没有血缘关系，却比谁都重视米卡雅。</original>
+			<edited>以义弟的身分与米卡雅一同长大，
+虽然没有血缘关系，却比谁都重视米卡雅。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sothe03" offset="00" relocatable="true" max_length="0">
+			<original>《蒼炎の軌跡》《暁の女神》</original>
+			<edited>《蒼炎の軌跡》《暁の女神》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Erincia" offset="00" relocatable="true" max_length="0">
+			<original>艾琳西亚</original>
+			<edited>艾琳西亚</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Erincia00" offset="00" relocatable="true" max_length="0">
+			<original>异界堤里乌斯陆地中
+克里米亚王国的女王。</original>
+			<edited>异界堤里乌斯陆地中
+克里米亚王国的女王。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Erincia01" offset="00" relocatable="true" max_length="0">
+			<original>为人清廉，忠贞爱国，
+深受百姓爱戴。</original>
+			<edited>为人清廉，忠贞爱国，
+深受百姓爱戴。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Erincia02" offset="00" relocatable="true" max_length="0">
+			<original>心地善良、厌恶争斗，
+甚至曾在战场上卸下武器，要求停战。</original>
+			<edited>心地善良、厌恶争斗，
+甚至曾在战场上卸下武器，要求停战。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Erincia03" offset="00" relocatable="true" max_length="0">
+			<original>《蒼炎の軌跡》《暁の女神》</original>
+			<edited>《蒼炎の軌跡》《暁の女神》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Tibarn" offset="00" relocatable="true" max_length="0">
+			<original>狄邦</original>
+			<edited>狄邦</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Tibarn00" offset="00" relocatable="true" max_length="0">
+			<original>异界堤里乌斯陆地中
+菲尼奇斯王国的国王。</original>
+			<edited>异界堤里乌斯陆地中
+菲尼奇斯王国的国王。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Tibarn01" offset="00" relocatable="true" max_length="0">
+			<original>可变身战斗的“拉古兹”之一，
+能化身为老鹰的鸟翼族鹰之民首领。</original>
+			<edited>可变身战斗的“拉古兹”之一，
+能化身为老鹰的鸟翼族鹰之民首领。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Tibarn02" offset="00" relocatable="true" max_length="0">
+			<original>凭借实力与声望吸引了许多志同道合的伙伴，
+人称“鹰王”。</original>
+			<edited>凭借实力与声望吸引了许多志同道合的伙伴，
+人称“鹰王”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Tibarn03" offset="00" relocatable="true" max_length="0">
+			<original>《蒼炎の軌跡》《暁の女神》</original>
+			<edited>《蒼炎の軌跡》《暁の女神》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Sanaki" offset="00" relocatable="true" max_length="0">
+			<original>莎娜琪</original>
+			<edited>莎娜琪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sanaki00" offset="00" relocatable="true" max_length="0">
+			<original>异界堤里乌斯陆地中
+贝格尼昂帝国的领导人。</original>
+			<edited>异界堤里乌斯陆地中
+贝格尼昂帝国的领导人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sanaki01" offset="00" relocatable="true" max_length="0">
+			<original>第37代皇帝，
+能听见女神神谕的“神使”。</original>
+			<edited>第37代皇帝，
+能听见女神神谕的“神使”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sanaki02" offset="00" relocatable="true" max_length="0">
+			<original>年纪轻轻便意志坚定、品性高洁，
+将大国治理得井井有条。</original>
+			<edited>年纪轻轻便意志坚定、品性高洁，
+将大国治理得井井有条。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sanaki03" offset="00" relocatable="true" max_length="0">
+			<original>《蒼炎の軌跡》《暁の女神》</original>
+			<edited>《蒼炎の軌跡》《暁の女神》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Nike" offset="00" relocatable="true" max_length="0">
+			<original>妮凯</original>
+			<edited>妮凯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nike00" offset="00" relocatable="true" max_length="0">
+			<original>异界堤里乌斯陆地中
+哈塔莉王国的女王。</original>
+			<edited>异界堤里乌斯陆地中
+哈塔莉王国的女王。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nike01" offset="00" relocatable="true" max_length="0">
+			<original>拉古兹之一，能变身为巨狼，
+拥有能将所视之人变成石头的“邪眼”。</original>
+			<edited>拉古兹之一，能变身为巨狼，
+拥有能将所视之人变成石头的“邪眼”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nike02" offset="00" relocatable="true" max_length="0">
+			<original>与倒在沙漠中的赛利诺斯王国王子
+拉菲鲁相遇后，两人结为连理。</original>
+			<edited>与倒在沙漠中的赛利诺斯王国王子
+拉菲鲁相遇后，两人结为连理。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nike03" offset="00" relocatable="true" max_length="0">
+			<original>《暁の女神》</original>
+			<edited>《暁の女神》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Naesala" offset="00" relocatable="true" max_length="0">
+			<original>涅沙罗</original>
+			<edited>涅沙罗</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Naesala00" offset="00" relocatable="true" max_length="0">
+			<original>异界堤里乌斯陆地中
+奇尔沃斯王国的国王。</original>
+			<edited>异界堤里乌斯陆地中
+奇尔沃斯王国的国王。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Naesala01" offset="00" relocatable="true" max_length="0">
+			<original>可变身战斗的“拉古兹”之一，
+能化身为乌鸦的鸟翼族鸦之民首领。</original>
+			<edited>可变身战斗的“拉古兹”之一，
+能化身为乌鸦的鸟翼族鸦之民首领。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Naesala02" offset="00" relocatable="true" max_length="0">
+			<original>老谋深算，
+总是以自己的国家利益为优先。</original>
+			<edited>老谋深算，
+总是以自己的国家利益为优先。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Naesala03" offset="00" relocatable="true" max_length="0">
+			<original>《蒼炎の軌跡》《暁の女神》</original>
+			<edited>《蒼炎の軌跡》《暁の女神》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Caineghis" offset="00" relocatable="true" max_length="0">
+			<original>凯内基斯</original>
+			<edited>凯内基斯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Caineghis00" offset="00" relocatable="true" max_length="0">
+			<original>异界堤里乌斯陆地中
+加利亚王国的国王。</original>
+			<edited>异界堤里乌斯陆地中
+加利亚王国的国王。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Caineghis01" offset="00" relocatable="true" max_length="0">
+			<original>可变身战斗的“拉古兹”之一，
+能化身为虎、猫的“兽牙族”首领。</original>
+			<edited>可变身战斗的“拉古兹”之一，
+能化身为虎、猫的“兽牙族”首领。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Caineghis02" offset="00" relocatable="true" max_length="0">
+			<original>骁勇善战、深谋远虑，
+致力于让贝欧克与拉古兹建立友谊。</original>
+			<edited>骁勇善战、深谋远虑，
+致力于让贝欧克与拉古兹建立友谊。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Caineghis03" offset="00" relocatable="true" max_length="0">
+			<original>《蒼炎の軌跡》《暁の女神》</original>
+			<edited>《蒼炎の軌跡》《暁の女神》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Learne" offset="00" relocatable="true" max_length="0">
+			<original>莉娅妮</original>
+			<edited>莉娅妮</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Learne00" offset="00" relocatable="true" max_length="0">
+			<original>异界堤里乌斯陆地中
+赛利诺斯王国的公主。</original>
+			<edited>异界堤里乌斯陆地中
+赛利诺斯王国的公主。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Learne01" offset="00" relocatable="true" max_length="0">
+			<original>祖国毁于暴徒之手，
+本人却奇迹似地生还，是唯一的幸存者。</original>
+			<edited>祖国毁于暴徒之手，
+本人却奇迹似地生还，是唯一的幸存者。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Learne02" offset="00" relocatable="true" max_length="0">
+			<original>拥有一颗清澈透明、纯真无瑕的心，
+能以咒歌抚慰疲惫的伙伴。</original>
+			<edited>拥有一颗清澈透明、纯真无瑕的心，
+能以咒歌抚慰疲惫的伙伴。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Learne03" offset="00" relocatable="true" max_length="0">
+			<original>《蒼炎の軌跡》《暁の女神》</original>
+			<edited>《蒼炎の軌跡》《暁の女神》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Roy00" offset="00" relocatable="true" max_length="0">
+			<original>异界埃列布陆地中
+吕基亚地区的费雷侯爵家的勋爵。</original>
+			<edited>异界埃列布陆地中
+吕基亚地区的费雷侯爵家的勋爵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Roy01" offset="00" relocatable="true" max_length="0">
+			<original>挺身对抗侵略他国的伯尔尼王国，
+并力战该国唤醒的魔龙伊敦。</original>
+			<edited>挺身对抗侵略他国的伯尔尼王国，
+并力战该国唤醒的魔龙伊敦。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Lilina" offset="00" relocatable="true" max_length="0">
+			<original>莉莉娜</original>
+			<edited>莉莉娜</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lilina00" offset="00" relocatable="true" max_length="0">
+			<original>异界埃列布陆地中
+吕基亚地区的奥斯提亚侯爵家的女爵。</original>
+			<edited>异界埃列布陆地中
+吕基亚地区的奥斯提亚侯爵家的女爵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lilina01" offset="00" relocatable="true" max_length="0">
+			<original>魔道天赋惊人的天才少女，
+是罗伊的儿时玩伴。</original>
+			<edited>魔道天赋惊人的天才少女，
+是罗伊的儿时玩伴。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lilina02" offset="00" relocatable="true" max_length="0">
+			<original>以勇猛闻名的海克托尔之女，
+外表惹人怜爱，内心无比坚强。</original>
+			<edited>以勇猛闻名的海克托尔之女，
+外表惹人怜爱，内心无比坚强。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lilina03" offset="00" relocatable="true" max_length="0">
+			<original>《封印の剣》《烈火の剣》</original>
+			<edited>《封印の剣》《烈火の剣》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Sofiya" offset="00" relocatable="true" max_length="0">
+			<original>苏菲亚</original>
+			<edited>苏菲亚</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sofiya00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，
+充满神秘气息的萨满巫师。</original>
+			<edited>异界英雄之一，
+充满神秘气息的萨满巫师。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sofiya01" offset="00" relocatable="true" max_length="0">
+			<original>拥有常人无法企及的神奇力量，
+能够预知未来。</original>
+			<edited>拥有常人无法企及的神奇力量，
+能够预知未来。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sofiya02" offset="00" relocatable="true" max_length="0">
+			<original>指引罗伊前往自己的故乡──
+人龙共处的“纳巴塔村落”。</original>
+			<edited>指引罗伊前往自己的故乡──
+人龙共处的“纳巴塔村落”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sofiya03" offset="00" relocatable="true" max_length="0">
+			<original>《封印の剣》《烈火の剣》</original>
+			<edited>《封印の剣》《烈火の剣》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Rutger" offset="00" relocatable="true" max_length="0">
+			<original>路特加</original>
+			<edited>路特加</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Rutger00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，孤傲寡言的剑士。</original>
+			<edited>异界英雄之一，孤傲寡言的剑士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Rutger01" offset="00" relocatable="true" max_length="0">
+			<original>遭伯尔尼王国灭族后，
+为复仇而战。</original>
+			<edited>遭伯尔尼王国灭族后，
+为复仇而战。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Rutger02" offset="00" relocatable="true" max_length="0">
+			<original>起初受人雇佣与罗伊为敌，
+得知罗伊也在对抗伯尔尼后倒戈。</original>
+			<edited>起初受人雇佣与罗伊为敌，
+得知罗伊也在对抗伯尔尼后倒戈。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Rutger03" offset="00" relocatable="true" max_length="0">
+			<original>《封印の剣》</original>
+			<edited>《封印の剣》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Fir" offset="00" relocatable="true" max_length="0">
+			<original>菲尔</original>
+			<edited>菲尔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Fir00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，以剑为生的少女。</original>
+			<edited>异界英雄之一，以剑为生的少女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Fir01" offset="00" relocatable="true" max_length="0">
+			<original>人称“剑姬”的女剑士卡菈之女，
+因崇拜母亲而踏上修行之旅。</original>
+			<edited>人称“剑姬”的女剑士卡菈之女，
+因崇拜母亲而踏上修行之旅。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Fir02" offset="00" relocatable="true" max_length="0">
+			<original>认真勤勉，但因为对人不设防，
+曾一度受骗，当过海盗的爪牙。</original>
+			<edited>认真勤勉，但因为对人不设防，
+曾一度受骗，当过海盗的爪牙。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Fir03" offset="00" relocatable="true" max_length="0">
+			<original>《封印の剣》</original>
+			<edited>《封印の剣》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Fa" offset="00" relocatable="true" max_length="0">
+			<original>法</original>
+			<edited>法</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Fa00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，神龙族的幸存者。</original>
+			<edited>异界英雄之一，神龙族的幸存者。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Fa01" offset="00" relocatable="true" max_length="0">
+			<original>“龙族”之一。为避人耳目，
+隐居于纳巴塔的隐密村落中。</original>
+			<edited>“龙族”之一。为避人耳目，
+隐居于纳巴塔的隐密村落中。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Fa02" offset="00" relocatable="true" max_length="0">
+			<original>外表是天真烂漫的年幼孩童，
+实际上已年过数百岁。</original>
+			<edited>外表是天真烂漫的年幼孩童，
+实际上已年过数百岁。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Fa03" offset="00" relocatable="true" max_length="0">
+			<original>《封印の剣》《烈火の剣》</original>
+			<edited>《封印の剣》《烈火の剣》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Dieck" offset="00" relocatable="true" max_length="0">
+			<original>迪克</original>
+			<edited>迪克</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Dieck00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，费雷侯爵家的佣兵。</original>
+			<edited>异界英雄之一，费雷侯爵家的佣兵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Dieck01" offset="00" relocatable="true" max_length="0">
+			<original>佣兵团团长，
+深受伙伴信赖。</original>
+			<edited>佣兵团团长，
+深受伙伴信赖。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Dieck02" offset="00" relocatable="true" max_length="0">
+			<original>曾为剑斗士，
+名扬斗技场。</original>
+			<edited>曾为剑斗士，
+名扬斗技场。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Dieck03" offset="00" relocatable="true" max_length="0">
+			<original>《封印の剣》</original>
+			<edited>《封印の剣》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Lugh" offset="00" relocatable="true" max_length="0">
+			<original>鲁格</original>
+			<edited>鲁格</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lugh00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，正直的少年。</original>
+			<edited>异界英雄之一，正直的少年。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lugh01" offset="00" relocatable="true" max_length="0">
+			<original>在孤儿院长大的双胞胎哥哥，
+是擅长理魔法的魔道士。</original>
+			<edited>在孤儿院长大的双胞胎哥哥，
+是擅长理魔法的魔道士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lugh02" offset="00" relocatable="true" max_length="0">
+			<original>心地善良，
+为守护重要之人决心挺身而战。</original>
+			<edited>心地善良，
+为守护重要之人决心挺身而战。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lugh03" offset="00" relocatable="true" max_length="0">
+			<original>《封印の剣》</original>
+			<edited>《封印の剣》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Wolt" offset="00" relocatable="true" max_length="0">
+			<original>伍尔特</original>
+			<edited>伍尔特</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Wolt00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，侍奉罗伊的弓箭手。</original>
+			<edited>异界英雄之一，侍奉罗伊的弓箭手。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Wolt01" offset="00" relocatable="true" max_length="0">
+			<original>性格开朗，努力向上，
+为成为配得上罗伊的家臣尽心尽力。</original>
+			<edited>性格开朗，努力向上，
+为成为配得上罗伊的家臣尽心尽力。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Wolt02" offset="00" relocatable="true" max_length="0">
+			<original>母亲是罗伊的乳母，
+因此和罗伊是同乳兄弟。</original>
+			<edited>母亲是罗伊的乳母，
+因此和罗伊是同乳兄弟。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Wolt03" offset="00" relocatable="true" max_length="0">
+			<original>《封印の剣》</original>
+			<edited>《封印の剣》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Lleu" offset="00" relocatable="true" max_length="0">
+			<original>雷伊</original>
+			<edited>雷伊</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lleu00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，早熟的少年。</original>
+			<edited>异界英雄之一，早熟的少年。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lleu01" offset="00" relocatable="true" max_length="0">
+			<original>在孤儿院长大的双胞胎弟弟，
+是擅长暗魔法的萨满巫师。</original>
+			<edited>在孤儿院长大的双胞胎弟弟，
+是擅长暗魔法的萨满巫师。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lleu02" offset="00" relocatable="true" max_length="0">
+			<original>说话毒辣，实际上很为家人着想，
+为了替院长复仇而战。</original>
+			<edited>说话毒辣，实际上很为家人着想，
+为了替院长复仇而战。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lleu03" offset="00" relocatable="true" max_length="0">
+			<original>《封印の剣》</original>
+			<edited>《封印の剣》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Cecilia" offset="00" relocatable="true" max_length="0">
+			<original>瑟西莉亚</original>
+			<edited>瑟西莉亚</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Cecilia00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，伊特鲁里亚王国的将军。</original>
+			<edited>异界英雄之一，伊特鲁里亚王国的将军。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Cecilia01" offset="00" relocatable="true" max_length="0">
+			<original>人称“三军将”的名将之一，
+是统率魔道士的“魔道军将”。</original>
+			<edited>人称“三军将”的名将之一，
+是统率魔道士的“魔道军将”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Cecilia02" offset="00" relocatable="true" max_length="0">
+			<original>冰雪聪明，
+是传授罗伊战斗之法的师父。</original>
+			<edited>冰雪聪明，
+是传授罗伊战斗之法的师父。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Cecilia03" offset="00" relocatable="true" max_length="0">
+			<original>《封印の剣》</original>
+			<edited>《封印の剣》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Leaf00" offset="00" relocatable="true" max_length="0">
+			<original>异界尤格多拉尔陆地中
+位于色雷斯半岛的伦斯特王国王子。</original>
+			<edited>异界尤格多拉尔陆地中
+位于色雷斯半岛的伦斯特王国王子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Leaf01" offset="00" relocatable="true" max_length="0">
+			<original>挺身对抗控制半岛的帝国军，
+并力战幕后黑手暗黑司教贝鲁多。</original>
+			<edited>挺身对抗控制半岛的帝国军，
+并力战幕后黑手暗黑司教贝鲁多。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Fin" offset="00" relocatable="true" max_length="0">
+			<original>芬恩</original>
+			<edited>芬恩</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Fin00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，侍奉里弗的骑士。</original>
+			<edited>异界英雄之一，侍奉里弗的骑士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Fin01" offset="00" relocatable="true" max_length="0">
+			<original>伦斯特王国的忠臣，
+辅佐乔安与里弗两代王子。</original>
+			<edited>伦斯特王国的忠臣，
+辅佐乔安与里弗两代王子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Fin02" offset="00" relocatable="true" max_length="0">
+			<original>带着里弗逃离沦陷的伦斯特王城，
+并将他悉心抚养长大。</original>
+			<edited>带着里弗逃离沦陷的伦斯特王城，
+并将他悉心抚养长大。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Fin03" offset="00" relocatable="true" max_length="0">
+			<original>《聖戦の系譜》《トラキア776》</original>
+			<edited>《聖戦の系譜》《トラキア776》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Olwen" offset="00" relocatable="true" max_length="0">
+			<original>欧尔玟</original>
+			<edited>欧尔玟</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Olwen00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，为人认真的魔法骑士。</original>
+			<edited>异界英雄之一，为人认真的魔法骑士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Olwen01" offset="00" relocatable="true" max_length="0">
+			<original>侍奉弗立吉家的军人，
+兄长是名将莱茵哈特。</original>
+			<edited>侍奉弗立吉家的军人，
+兄长是名将莱茵哈特。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Olwen02" offset="00" relocatable="true" max_length="0">
+			<original>为人率真耿直，
+得知所属军队的残忍行径后，毅然离开。</original>
+			<edited>为人率真耿直，
+得知所属军队的残忍行径后，毅然离开。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Olwen03" offset="00" relocatable="true" max_length="0">
+			<original>《トラキア776》</original>
+			<edited>《トラキア776》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Mareeta" offset="00" relocatable="true" max_length="0">
+			<original>玛丽塔</original>
+			<edited>玛丽塔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Mareeta00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，费亚纳义勇军的剑士。</original>
+			<edited>异界英雄之一，费亚纳义勇军的剑士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Mareeta01" offset="00" relocatable="true" max_length="0">
+			<original>义勇军首领爱薇尔的养女，
+擅长剑术且好胜心强。</original>
+			<edited>义勇军首领爱薇尔的养女，
+擅长剑术且好胜心强。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Mareeta02" offset="00" relocatable="true" max_length="0">
+			<original>继承剑圣奥德的血脉，
+精通必杀奥义“月光剑”与“流星剑”。</original>
+			<edited>继承剑圣奥德的血脉，
+精通必杀奥义“月光剑”与“流星剑”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Mareeta03" offset="00" relocatable="true" max_length="0">
+			<original>《トラキア776》</original>
+			<edited>《トラキア776》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Nanna" offset="00" relocatable="true" max_length="0">
+			<original>南娜</original>
+			<edited>南娜</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nanna00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，拉克西丝女王之女。</original>
+			<edited>异界英雄之一，拉克西丝女王之女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nanna01" offset="00" relocatable="true" max_length="0">
+			<original>和里弗王子一起
+在伦斯特骑士芬恩的养育下长大。</original>
+			<edited>和里弗王子一起
+在伦斯特骑士芬恩的养育下长大。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nanna02" offset="00" relocatable="true" max_length="0">
+			<original>拥有遗传自母亲的美貌与高贵气质，
+与伙伴一起为了解放色雷斯而战。</original>
+			<edited>拥有遗传自母亲的美貌与高贵气质，
+与伙伴一起为了解放色雷斯而战。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nanna03" offset="00" relocatable="true" max_length="0">
+			<original>《聖戦の系譜》《トラキア776》</original>
+			<edited>《聖戦の系譜》《トラキア776》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Sety" offset="00" relocatable="true" max_length="0">
+			<original>赛提</original>
+			<edited>赛提</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sety00" offset="00" relocatable="true" max_length="0">
+			<original>异界尤格多拉尔陆地中
+西里西亚王国的王子。</original>
+			<edited>异界尤格多拉尔陆地中
+西里西亚王国的王子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sety01" offset="00" relocatable="true" max_length="0">
+			<original>雷文之子，继承了圣战士的血脉
+以及“风魔法弗鲁赛提”。</original>
+			<edited>雷文之子，继承了圣战士的血脉
+以及“风魔法弗鲁赛提”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sety02" offset="00" relocatable="true" max_length="0">
+			<original>为了拯救百姓，成立反帝国组织“玛奇团”，
+是人民口中的“勇者”。</original>
+			<edited>为了拯救百姓，成立反帝国组织“玛奇团”，
+是人民口中的“勇者”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sety03" offset="00" relocatable="true" max_length="0">
+			<original>《聖戦の系譜》《トラキア776》</original>
+			<edited>《聖戦の系譜》《トラキア776》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Sara" offset="00" relocatable="true" max_length="0">
+			<original>莎拉</original>
+			<edited>莎拉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sara00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，
+拥有神奇力量的修女。</original>
+			<edited>异界英雄之一，
+拥有神奇力量的修女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sara01" offset="00" relocatable="true" max_length="0">
+			<original>感受到里弗的呼唤，
+与他成为伙伴并鼎力相助。</original>
+			<edited>感受到里弗的呼唤，
+与他成为伙伴并鼎力相助。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sara02" offset="00" relocatable="true" max_length="0">
+			<original>罗普托教团大司教曼福洛伊的孙女，
+但她很讨厌祖父。</original>
+			<edited>罗普托教团大司教曼福洛伊的孙女，
+但她很讨厌祖父。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sara03" offset="00" relocatable="true" max_length="0">
+			<original>《トラキア776》</original>
+			<edited>《トラキア776》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Asvel" offset="00" relocatable="true" max_length="0">
+			<original>亚斯贝尔</original>
+			<edited>亚斯贝尔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Asvel00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，
+擅长风魔法的魔道士。</original>
+			<edited>异界英雄之一，
+擅长风魔法的魔道士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Asvel01" offset="00" relocatable="true" max_length="0">
+			<original>玛奇团团长赛提的弟子，
+在团长身边学习各种知识。</original>
+			<edited>玛奇团团长赛提的弟子，
+在团长身边学习各种知识。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Asvel02" offset="00" relocatable="true" max_length="0">
+			<original>年幼时曾遇见里弗王子，
+并发誓“要夺回色雷斯”。</original>
+			<edited>年幼时曾遇见里弗王子，
+并发誓“要夺回色雷斯”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Asvel03" offset="00" relocatable="true" max_length="0">
+			<original>《トラキア776》</original>
+			<edited>《トラキア776》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Othin" offset="00" relocatable="true" max_length="0">
+			<original>奥辛</original>
+			<edited>奥辛</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Othin00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，费亚纳义勇军的斧战士。</original>
+			<edited>异界英雄之一，费亚纳义勇军的斧战士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Othin01" offset="00" relocatable="true" max_length="0">
+			<original>年轻气盛、充满自信的青年，
+擅长掷斧技“布极”。</original>
+			<edited>年轻气盛、充满自信的青年，
+擅长掷斧技“布极”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Othin02" offset="00" relocatable="true" max_length="0">
+			<original>容易冲动、行事莽撞，
+但性格爽朗，是军中的开心果。</original>
+			<edited>容易冲动、行事莽撞，
+但性格爽朗，是军中的开心果。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Othin03" offset="00" relocatable="true" max_length="0">
+			<original>《トラキア776》</original>
+			<edited>《トラキア776》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Shiva" offset="00" relocatable="true" max_length="0">
+			<original>席巴</original>
+			<edited>席巴</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Shiva00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，流浪剑士。</original>
+			<edited>异界英雄之一，流浪剑士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Shiva01" offset="00" relocatable="true" max_length="0">
+			<original>一身黑衣，
+操控“必杀剑”的剑术高手。</original>
+			<edited>一身黑衣，
+操控“必杀剑”的剑术高手。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Shiva02" offset="00" relocatable="true" max_length="0">
+			<original>冷酷无情，但并非毫无血泪，
+厌恶不珍惜自己性命的人。</original>
+			<edited>冷酷无情，但并非毫无血泪，
+厌恶不珍惜自己性命的人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Shiva03" offset="00" relocatable="true" max_length="0">
+			<original>《トラキア776》</original>
+			<edited>《トラキア776》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Linoan" offset="00" relocatable="true" max_length="0">
+			<original>莉诺安</original>
+			<edited>莉诺安</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Linoan00" offset="00" relocatable="true" max_length="0">
+			<original>异界尤格多拉尔陆地中
+色雷斯半岛的塔拉公爵家的女爵。</original>
+			<edited>异界尤格多拉尔陆地中
+色雷斯半岛的塔拉公爵家的女爵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Linoan01" offset="00" relocatable="true" max_length="0">
+			<original>温柔聪慧，
+代替亡父担任城塞都市塔拉的市长。</original>
+			<edited>温柔聪慧，
+代替亡父担任城塞都市塔拉的市长。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Linoan02" offset="00" relocatable="true" max_length="0">
+			<original>继承了圣战士之一圣者赫姆的血脉，
+为反抗帝国暴政，与里弗并肩作战。</original>
+			<edited>继承了圣战士之一圣者赫姆的血脉，
+为反抗帝国暴政，与里弗并肩作战。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Linoan03" offset="00" relocatable="true" max_length="0">
+			<original>《トラキア776》</original>
+			<edited>《トラキア776》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Lucina00" offset="00" relocatable="true" max_length="0">
+			<original>异界伊里斯圣王国的王子库洛武之女，
+来自未来。</original>
+			<edited>异界伊里斯圣王国的王子库洛武之女，
+来自未来。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Lucina01" offset="00" relocatable="true" max_length="0">
+			<original>因未来世界被邪龙津利毁灭，
+为了改变命运而穿越时空战斗。</original>
+			<edited>因未来世界被邪龙津利毁灭，
+为了改变命运而穿越时空战斗。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Sallya" offset="00" relocatable="true" max_length="0">
+			<original>撒拉</original>
+			<edited>撒拉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sallya00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，佩莱吉亚王国的咒术师。</original>
+			<edited>异界英雄之一，佩莱吉亚王国的咒术师。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sallya01" offset="00" relocatable="true" max_length="0">
+			<original>阴沉、善妒，
+时常独自钻研诡异的咒术。</original>
+			<edited>阴沉、善妒，
+时常独自钻研诡异的咒术。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sallya02" offset="00" relocatable="true" max_length="0">
+			<original>是军中身材最姣好的人，
+爱慕鲁弗莱，认为另一半非他不可。</original>
+			<edited>是军中身材最姣好的人，
+爱慕鲁弗莱，认为另一半非他不可。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sallya03" offset="00" relocatable="true" max_length="0">
+			<original>《覚醒》</original>
+			<edited>《覚醒》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Chrom" offset="00" relocatable="true" max_length="0">
+			<original>库洛武</original>
+			<edited>库洛武</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Chrom00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，伊里斯圣王国的王子。</original>
+			<edited>异界英雄之一，伊里斯圣王国的王子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Chrom01" offset="00" relocatable="true" max_length="0">
+			<original>英雄王的后裔，为了保护国家，
+成立自卫团，为国报效。</original>
+			<edited>英雄王的后裔，为了保护国家，
+成立自卫团，为国报效。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Chrom02" offset="00" relocatable="true" max_length="0">
+			<original>与军师鲁弗莱、女儿露琪娜等人
+一同对抗企图毁灭世界的邪龙津利。</original>
+			<edited>与军师鲁弗莱、女儿露琪娜等人
+一同对抗企图毁灭世界的邪龙津利。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Chrom03" offset="00" relocatable="true" max_length="0">
+			<original>《覚醒》</original>
+			<edited>《覚醒》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Tiamo" offset="00" relocatable="true" max_length="0">
+			<original>蒂亚莫</original>
+			<edited>蒂亚莫</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Tiamo00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，伊里斯圣王国的天马骑士。</original>
+			<edited>异界英雄之一，伊里斯圣王国的天马骑士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Tiamo01" offset="00" relocatable="true" max_length="0">
+			<original>拥有万人称羡的美貌，
+凡事都难不倒她的天才少女。</original>
+			<edited>拥有万人称羡的美貌，
+凡事都难不倒她的天才少女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Tiamo02" offset="00" relocatable="true" max_length="0">
+			<original>明知没有结果，仍对库洛武王子芳心暗许，
+是军中最常叹气的人。</original>
+			<edited>明知没有结果，仍对库洛武王子芳心暗许，
+是军中最常叹气的人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Tiamo03" offset="00" relocatable="true" max_length="0">
+			<original>《覚醒》</original>
+			<edited>《覚醒》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Marc" offset="00" relocatable="true" max_length="0">
+			<original>马可</original>
+			<edited>马可</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Marc00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，鲁弗莱之子。</original>
+			<edited>异界英雄之一，鲁弗莱之子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Marc01" offset="00" relocatable="true" max_length="0">
+			<original>来自未来的少年少女之一，
+梦想是成为像鲁弗莱一样的军师。</original>
+			<edited>来自未来的少年少女之一，
+梦想是成为像鲁弗莱一样的军师。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Marc02" offset="00" relocatable="true" max_length="0">
+			<original>虽失去记忆，但朝气蓬勃，
+是军中最自由奔放的人。</original>
+			<edited>虽失去记忆，但朝气蓬勃，
+是军中最自由奔放的人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Marc03" offset="00" relocatable="true" max_length="0">
+			<original>《覚醒》</original>
+			<edited>《覚醒》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Nono" offset="00" relocatable="true" max_length="0">
+			<original>侬侬</original>
+			<edited>侬侬</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nono00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，天真无邪的幼龙。</original>
+			<edited>异界英雄之一，天真无邪的幼龙。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nono01" offset="00" relocatable="true" max_length="0">
+			<original>幻化成人形的“龙族”之一。
+看上去年幼，实际上已年过千岁。</original>
+			<edited>幻化成人形的“龙族”之一。
+看上去年幼，实际上已年过千岁。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nono02" offset="00" relocatable="true" max_length="0">
+			<original>喜欢与同伴玩耍，
+是军中起床最晚的人。</original>
+			<edited>喜欢与同伴玩耍，
+是军中起床最晚的人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nono03" offset="00" relocatable="true" max_length="0">
+			<original>《覚醒》</original>
+			<edited>《覚醒》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Azul" offset="00" relocatable="true" max_length="0">
+			<original>阿兹尔</original>
+			<edited>阿兹尔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Azul00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，奥利薇之子。</original>
+			<edited>异界英雄之一，奥利薇之子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Azul01" offset="00" relocatable="true" max_length="0">
+			<original>来自未来的少年少女之一，
+亲切友善、开朗活泼。</original>
+			<edited>来自未来的少年少女之一，
+亲切友善、开朗活泼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Azul02" offset="00" relocatable="true" max_length="0">
+			<original>喜欢搭讪女孩子，
+是军中最爱晚上出去溜达的人。</original>
+			<edited>喜欢搭讪女孩子，
+是军中最爱晚上出去溜达的人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Azul03" offset="00" relocatable="true" max_length="0">
+			<original>《覚醒》</original>
+			<edited>《覚醒》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Serena" offset="00" relocatable="true" max_length="0">
+			<original>瑟琳娜</original>
+			<edited>瑟琳娜</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Serena00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，蒂亚莫之女。</original>
+			<edited>异界英雄之一，蒂亚莫之女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Serena01" offset="00" relocatable="true" max_length="0">
+			<original>来自未来的少年少女之一，
+性格好强，态度高傲。</original>
+			<edited>来自未来的少年少女之一，
+性格好强，态度高傲。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Serena02" offset="00" relocatable="true" max_length="0">
+			<original>会装可爱、耍小心机，
+是军中最常乱买东西的人。</original>
+			<edited>会装可爱、耍小心机，
+是军中最常乱买东西的人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Serena03" offset="00" relocatable="true" max_length="0">
+			<original>《覚醒》</original>
+			<edited>《覚醒》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Gaius" offset="00" relocatable="true" max_length="0">
+			<original>盖亚</original>
+			<edited>盖亚</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Gaius00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，伊里斯圣王国的盗贼。</original>
+			<edited>异界英雄之一，伊里斯圣王国的盗贼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Gaius01" offset="00" relocatable="true" max_length="0">
+			<original>沉着冷静，只要能拿到酬劳，
+基本上什么委托都接。</original>
+			<edited>沉着冷静，只要能拿到酬劳，
+基本上什么委托都接。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Gaius02" offset="00" relocatable="true" max_length="0">
+			<original>喜欢甜食，全身上下藏着糖果。
+是军中最常流鼻血的人。</original>
+			<edited>喜欢甜食，全身上下藏着糖果。
+是军中最常流鼻血的人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Gaius03" offset="00" relocatable="true" max_length="0">
+			<original>《覚醒》</original>
+			<edited>《覚醒》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Oud" offset="00" relocatable="true" max_length="0">
+			<original>伍德</original>
+			<edited>伍德</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Oud00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，莉兹之子。</original>
+			<edited>异界英雄之一，莉兹之子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Oud01" offset="00" relocatable="true" max_length="0">
+			<original>来自未来的少年少女之一，
+继承了圣王的血脉，身上有“圣痕”。</original>
+			<edited>来自未来的少年少女之一，
+继承了圣王的血脉，身上有“圣痕”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Oud02" offset="00" relocatable="true" max_length="0">
+			<original>爱耍帅，享受万众瞩目的感觉。
+是军中最容易热血沸腾的人。</original>
+			<edited>爱耍帅，享受万众瞩目的感觉。
+是军中最容易热血沸腾的人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Oud03" offset="00" relocatable="true" max_length="0">
+			<original>《覚醒》</original>
+			<edited>《覚醒》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Lissa" offset="00" relocatable="true" max_length="0">
+			<original>莉兹</original>
+			<edited>莉兹</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lissa00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，伊里斯圣王国的公主。</original>
+			<edited>异界英雄之一，伊里斯圣王国的公主。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lissa01" offset="00" relocatable="true" max_length="0">
+			<original>无论对谁都一视同仁的少女。
+身为库洛武自卫团的一员，贡献良多。</original>
+			<edited>无论对谁都一视同仁的少女。
+身为库洛武自卫团的一员，贡献良多。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lissa02" offset="00" relocatable="true" max_length="0">
+			<original>自卫团中的开心果，
+是军中最爱蹦蹦跳跳的人。</original>
+			<edited>自卫团中的开心果，
+是军中最爱蹦蹦跳跳的人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lissa03" offset="00" relocatable="true" max_length="0">
+			<original>《覚醒》</original>
+			<edited>《覚醒》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Lin00" offset="00" relocatable="true" max_length="0">
+			<original>来自异界埃列布陆地的塞迦地区，
+继承了基亚兰侯爵家血脉的女爵。</original>
+			<edited>来自异界埃列布陆地的塞迦地区，
+继承了基亚兰侯爵家血脉的女爵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Lin01" offset="00" relocatable="true" max_length="0">
+			<original>与朋友艾利乌德、海克托尔等人
+一同讨伐为世界招致灾厄者涅尔加鲁。</original>
+			<edited>与朋友艾利乌德、海克托尔等人
+一同讨伐为世界招致灾厄者涅尔加鲁。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Hector" offset="00" relocatable="true" max_length="0">
+			<original>海克托尔</original>
+			<edited>海克托尔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Hector00" offset="00" relocatable="true" max_length="0">
+			<original>异界埃列布陆地中
+吕基亚地区的奥斯提亚侯爵家的勋爵。</original>
+			<edited>异界埃列布陆地中
+吕基亚地区的奥斯提亚侯爵家的勋爵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Hector01" offset="00" relocatable="true" max_length="0">
+			<original>性格豪爽，擅长用斧，
+以独树一帜的招式战斗，实力非凡。</original>
+			<edited>性格豪爽，擅长用斧，
+以独树一帜的招式战斗，实力非凡。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Hector02" offset="00" relocatable="true" max_length="0">
+			<original>从小认识艾利乌德，
+互相发誓终生为友。</original>
+			<edited>从小认识艾利乌德，
+互相发誓终生为友。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Hector03" offset="00" relocatable="true" max_length="0">
+			<original>《封印の剣》《烈火の剣》</original>
+			<edited>《封印の剣》《烈火の剣》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Dorcas" offset="00" relocatable="true" max_length="0">
+			<original>多尔卡斯</original>
+			<edited>多尔卡斯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Dorcas00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，边境村落的战士。</original>
+			<edited>异界英雄之一，边境村落的战士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Dorcas01" offset="00" relocatable="true" max_length="0">
+			<original>为赚取妻子的医药费，
+而沦为山贼团的爪牙。</original>
+			<edited>为赚取妻子的医药费，
+而沦为山贼团的爪牙。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Dorcas02" offset="00" relocatable="true" max_length="0">
+			<original>受琳救助后成为伙伴。
+性格稳重，爱护家人。</original>
+			<edited>受琳救助后成为伙伴。
+性格稳重，爱护家人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Dorcas03" offset="00" relocatable="true" max_length="0">
+			<original>《烈火の剣》</original>
+			<edited>《烈火の剣》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Eliwod" offset="00" relocatable="true" max_length="0">
+			<original>艾利乌德</original>
+			<edited>艾利乌德</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Eliwod00" offset="00" relocatable="true" max_length="0">
+			<original>异界埃列布陆地中
+吕基亚地区的费雷侯爵家的勋爵。</original>
+			<edited>异界埃列布陆地中
+吕基亚地区的费雷侯爵家的勋爵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Eliwod01" offset="00" relocatable="true" max_length="0">
+			<original>正直坦率的青年，
+为寻找失踪的父亲而踏上旅途。</original>
+			<edited>正直坦率的青年，
+为寻找失踪的父亲而踏上旅途。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Eliwod02" offset="00" relocatable="true" max_length="0">
+			<original>被卷入奸贼的巨大阴谋后，
+与海克托尔、琳一同挺身奋战。</original>
+			<edited>被卷入奸贼的巨大阴谋后，
+与海克托尔、琳一同挺身奋战。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Eliwod03" offset="00" relocatable="true" max_length="0">
+			<original>《封印の剣》《烈火の剣》</original>
+			<edited>《封印の剣》《烈火の剣》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Nino" offset="00" relocatable="true" max_length="0">
+			<original>妮诺</original>
+			<edited>妮诺</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nino00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，
+温柔善良的见习魔道士。</original>
+			<edited>异界英雄之一，
+温柔善良的见习魔道士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nino01" offset="00" relocatable="true" max_length="0">
+			<original>暗杀集团“黑牙”首领之女，
+因被母亲冷落而渴求被爱。</original>
+			<edited>暗杀集团“黑牙”首领之女，
+因被母亲冷落而渴求被爱。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nino02" offset="00" relocatable="true" max_length="0">
+			<original>非常重视团内的伙伴，
+将他们视为家人。</original>
+			<edited>非常重视团内的伙伴，
+将他们视为家人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Nino03" offset="00" relocatable="true" max_length="0">
+			<original>《烈火の剣》</original>
+			<edited>《烈火の剣》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Flolina" offset="00" relocatable="true" max_length="0">
+			<original>芙罗利娜</original>
+			<edited>芙罗利娜</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Flolina00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，伊利亚地区的见习天马骑士。</original>
+			<edited>异界英雄之一，伊利亚地区的见习天马骑士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Flolina01" offset="00" relocatable="true" max_length="0">
+			<original>性格温顺的少女，
+心地善良，热爱动物。</original>
+			<edited>性格温顺的少女，
+心地善良，热爱动物。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Flolina02" offset="00" relocatable="true" max_length="0">
+			<original>胆小内向，不擅长与男性相处，
+却为了挚友琳一同踏上了旅途。</original>
+			<edited>胆小内向，不擅长与男性相处，
+却为了挚友琳一同踏上了旅途。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Flolina03" offset="00" relocatable="true" max_length="0">
+			<original>《烈火の剣》</original>
+			<edited>《烈火の剣》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Jaffar" offset="00" relocatable="true" max_length="0">
+			<original>贾法尔</original>
+			<edited>贾法尔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Jaffar00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，
+暗杀集团“黑牙”的暗杀者。</original>
+			<edited>异界英雄之一，
+暗杀集团“黑牙”的暗杀者。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Jaffar01" offset="00" relocatable="true" max_length="0">
+			<original>人称“四牙”的精锐之一，
+别名“死神”。</original>
+			<edited>人称“四牙”的精锐之一，
+别名“死神”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Jaffar02" offset="00" relocatable="true" max_length="0">
+			<original>情感匮乏的冷酷杀手，
+在与妮诺相处的过程中逐渐理解人心。</original>
+			<edited>情感匮乏的冷酷杀手，
+在与妮诺相处的过程中逐渐理解人心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Jaffar03" offset="00" relocatable="true" max_length="0">
+			<original>《烈火の剣》</original>
+			<edited>《烈火の剣》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Matthew" offset="00" relocatable="true" max_length="0">
+			<original>马修</original>
+			<edited>马修</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Matthew00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，
+侍奉奥斯提亚侯爵家的密探。</original>
+			<edited>异界英雄之一，
+侍奉奥斯提亚侯爵家的密探。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Matthew01" offset="00" relocatable="true" max_length="0">
+			<original>性格爽朗洒脱，
+平易近人。</original>
+			<edited>性格爽朗洒脱，
+平易近人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Matthew02" offset="00" relocatable="true" max_length="0">
+			<original>乍看轻浮，其实是个默默干活的敬业之人，
+总能准确无误地完成任务。</original>
+			<edited>乍看轻浮，其实是个默默干活的敬业之人，
+总能准确无误地完成任务。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Matthew03" offset="00" relocatable="true" max_length="0">
+			<original>《烈火の剣》</original>
+			<edited>《烈火の剣》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Ninian" offset="00" relocatable="true" max_length="0">
+			<original>尼尼安</original>
+			<edited>尼尼安</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ninian00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，旅行中的舞者。</original>
+			<edited>异界英雄之一，旅行中的舞者。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ninian01" offset="00" relocatable="true" max_length="0">
+			<original>遭遇盗贼袭击时被艾利乌德与琳所救，
+之后成为朋友。</original>
+			<edited>遭遇盗贼袭击时被艾利乌德与琳所救，
+之后成为朋友。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ninian02" offset="00" relocatable="true" max_length="0">
+			<original>看似纤弱，身上却隐藏着
+能让世界天翻地覆的巨大秘密。</original>
+			<edited>看似纤弱，身上却隐藏着
+能让世界天翻地覆的巨大秘密。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ninian03" offset="00" relocatable="true" max_length="0">
+			<original>《烈火の剣》</original>
+			<edited>《烈火の剣》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Rebacca" offset="00" relocatable="true" max_length="0">
+			<original>蕾贝卡</original>
+			<edited>蕾贝卡</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Rebacca00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，某村落的村长之女。</original>
+			<edited>异界英雄之一，某村落的村长之女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Rebacca01" offset="00" relocatable="true" max_length="0">
+			<original>为报答艾利乌德救助村落之恩，
+成为伙伴，替他战斗效命。</original>
+			<edited>为报答艾利乌德救助村落之恩，
+成为伙伴，替他战斗效命。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Rebacca02" offset="00" relocatable="true" max_length="0">
+			<original>性格开朗又温柔，
+长年狩猎练就了高超的箭术。</original>
+			<edited>性格开朗又温柔，
+长年狩猎练就了高超的箭术。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Rebacca03" offset="00" relocatable="true" max_length="0">
+			<original>《烈火の剣》</original>
+			<edited>《烈火の剣》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Serra" offset="00" relocatable="true" max_length="0">
+			<original>赛拉</original>
+			<edited>赛拉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Serra00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，
+侍奉奥斯提亚侯爵家的修女。</original>
+			<edited>异界英雄之一，
+侍奉奥斯提亚侯爵家的修女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Serra01" offset="00" relocatable="true" max_length="0">
+			<original>擅长钻营的精明之人，
+为了向权贵卖人情而成为琳的伙伴。</original>
+			<edited>擅长钻营的精明之人，
+为了向权贵卖人情而成为琳的伙伴。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Serra02" offset="00" relocatable="true" max_length="0">
+			<original>我行我素，常把人耍得团团转，
+却令人讨厌不起来的少女。</original>
+			<edited>我行我素，常把人耍得团团转，
+却令人讨厌不起来的少女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Serra03" offset="00" relocatable="true" max_length="0">
+			<original>《烈火の剣》</original>
+			<edited>《烈火の剣》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Ike00" offset="00" relocatable="true" max_length="0">
+			<original>异界堤里乌斯陆地中
+率领克里米亚王国格莱尔佣兵团的青年。</original>
+			<edited>异界堤里乌斯陆地中
+率领克里米亚王国格莱尔佣兵团的青年。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Ike01" offset="00" relocatable="true" max_length="0">
+			<original>挺身对抗在陆地引发战乱、
+企图复活邪神的戴因狂王亚修纳德。</original>
+			<edited>挺身对抗在陆地引发战乱、
+企图复活邪神的戴因狂王亚修纳德。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Senerio" offset="00" relocatable="true" max_length="0">
+			<original>塞涅里欧</original>
+			<edited>塞涅里欧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Senerio00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，格莱尔佣兵团的魔道士。</original>
+			<edited>异界英雄之一，格莱尔佣兵团的魔道士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Senerio01" offset="00" relocatable="true" max_length="0">
+			<original>拥有冷静的判断力，
+擅长收集情报，相当于团中参谋。</original>
+			<edited>拥有冷静的判断力，
+擅长收集情报，相当于团中参谋。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Senerio02" offset="00" relocatable="true" max_length="0">
+			<original>不擅长交际，与他人保持距离，
+但是十分信赖艾克。</original>
+			<edited>不擅长交际，与他人保持距离，
+但是十分信赖艾克。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Senerio03" offset="00" relocatable="true" max_length="0">
+			<original>《蒼炎の軌跡》《暁の女神》</original>
+			<edited>《蒼炎の軌跡》《暁の女神》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Wayu" offset="00" relocatable="true" max_length="0">
+			<original>瓦育</original>
+			<edited>瓦育</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Wayu00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，格莱尔佣兵团的剑士。</original>
+			<edited>异界英雄之一，格莱尔佣兵团的剑士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Wayu01" offset="00" relocatable="true" max_length="0">
+			<original>心思单纯，直来直往，
+坦率不做作的活泼少女。</original>
+			<edited>心思单纯，直来直往，
+坦率不做作的活泼少女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Wayu02" offset="00" relocatable="true" max_length="0">
+			<original>一心想磨炼剑术，
+只要发现高手，就想一较高下。</original>
+			<edited>一心想磨炼剑术，
+只要发现高手，就想一较高下。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Wayu03" offset="00" relocatable="true" max_length="0">
+			<original>《蒼炎の軌跡》《暁の女神》</original>
+			<edited>《蒼炎の軌跡》《暁の女神》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Tiamat" offset="00" relocatable="true" max_length="0">
+			<original>狄亚马特</original>
+			<edited>狄亚马特</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Tiamat00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，格莱尔佣兵团的副团长。</original>
+			<edited>异界英雄之一，格莱尔佣兵团的副团长。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Tiamat01" offset="00" relocatable="true" max_length="0">
+			<original>曾为克里米亚王宫效命，
+是擅长用斧的资深骑士。</original>
+			<edited>曾为克里米亚王宫效命，
+是擅长用斧的资深骑士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Tiamat02" offset="00" relocatable="true" max_length="0">
+			<original>沉静内敛的女子，时而像母亲，
+时而又像姐姐般照顾艾克与团员。</original>
+			<edited>沉静内敛的女子，时而像母亲，
+时而又像姐姐般照顾艾克与团员。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Tiamat03" offset="00" relocatable="true" max_length="0">
+			<original>《蒼炎の軌跡》《暁の女神》</original>
+			<edited>《蒼炎の軌跡》《暁の女神》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Elaice" offset="00" relocatable="true" max_length="0">
+			<original>伊蕾思</original>
+			<edited>伊蕾思</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Elaice00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，擅长雷魔法的魔道士。</original>
+			<edited>异界英雄之一，擅长雷魔法的魔道士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Elaice01" offset="00" relocatable="true" max_length="0">
+			<original>原本与旅行商人同行，
+意外被卷入战斗后加入艾克一伙。</original>
+			<edited>原本与旅行商人同行，
+意外被卷入战斗后加入艾克一伙。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Elaice02" offset="00" relocatable="true" max_length="0">
+			<original>外表娇小纤弱，却是个大胃王，
+总是饿着肚子。</original>
+			<edited>外表娇小纤弱，却是个大胃王，
+总是饿着肚子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Elaice03" offset="00" relocatable="true" max_length="0">
+			<original>《蒼炎の軌跡》《暁の女神》</original>
+			<edited>《蒼炎の軌跡》《暁の女神》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Lethe" offset="00" relocatable="true" max_length="0">
+			<original>蕾媞</original>
+			<edited>蕾媞</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lethe00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，加利亚王国的兽牙战士。</original>
+			<edited>异界英雄之一，加利亚王国的兽牙战士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lethe01" offset="00" relocatable="true" max_length="0">
+			<original>可变身战斗的“拉古兹”之一，
+能化身为巨猫的兽牙族少女。</original>
+			<edited>可变身战斗的“拉古兹”之一，
+能化身为巨猫的兽牙族少女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lethe02" offset="00" relocatable="true" max_length="0">
+			<original>厌恶身为“贝欧克”的艾克等人，
+对其抱持敌意，却依然奉王命与他们合作。</original>
+			<edited>厌恶身为“贝欧克”的艾克等人，
+对其抱持敌意，却依然奉王命与他们合作。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lethe03" offset="00" relocatable="true" max_length="0">
+			<original>《蒼炎の軌跡》《暁の女神》</original>
+			<edited>《蒼炎の軌跡》《暁の女神》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Mist" offset="00" relocatable="true" max_length="0">
+			<original>密丝特</original>
+			<edited>密丝特</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Mist00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，格莱尔佣兵团的操杖士。</original>
+			<edited>异界英雄之一，格莱尔佣兵团的操杖士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Mist01" offset="00" relocatable="true" max_length="0">
+			<original>艾克的妹妹，
+拥有纯洁心灵的善良女孩。</original>
+			<edited>艾克的妹妹，
+拥有纯洁心灵的善良女孩。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Mist02" offset="00" relocatable="true" max_length="0">
+			<original>积极勤快地照顾大家，
+总是为哥哥和团员着想。</original>
+			<edited>积极勤快地照顾大家，
+总是为哥哥和团员着想。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Mist03" offset="00" relocatable="true" max_length="0">
+			<original>《蒼炎の軌跡》《暁の女神》</original>
+			<edited>《蒼炎の軌跡》《暁の女神》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Chinon" offset="00" relocatable="true" max_length="0">
+			<original>席诺</original>
+			<edited>席诺</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Chinon00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，格莱尔佣兵团的弓箭手。</original>
+			<edited>异界英雄之一，格莱尔佣兵团的弓箭手。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Chinon01" offset="00" relocatable="true" max_length="0">
+			<original>佣兵团的资深团员，
+技艺高超，百发百中。</original>
+			<edited>佣兵团的资深团员，
+技艺高超，百发百中。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Chinon02" offset="00" relocatable="true" max_length="0">
+			<original>爱讽刺人，讲话尖酸刻薄，
+但也有会照顾人的一面。</original>
+			<edited>爱讽刺人，讲话尖酸刻薄，
+但也有会照顾人的一面。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Chinon03" offset="00" relocatable="true" max_length="0">
+			<original>《蒼炎の軌跡》《暁の女神》</original>
+			<edited>《蒼炎の軌跡》《暁の女神》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Greil" offset="00" relocatable="true" max_length="0">
+			<original>格莱尔</original>
+			<edited>格莱尔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Greil00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，
+格莱尔佣兵团的第一任团长。</original>
+			<edited>异界英雄之一，
+格莱尔佣兵团的第一任团长。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Greil01" offset="00" relocatable="true" max_length="0">
+			<original>广受信赖的一流佣兵，
+战斗技巧绝佳。</original>
+			<edited>广受信赖的一流佣兵，
+战斗技巧绝佳。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Greil02" offset="00" relocatable="true" max_length="0">
+			<original>身为艾克与密丝特的父亲，
+也将团员视为家人。</original>
+			<edited>身为艾克与密丝特的父亲，
+也将团员视为家人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Greil03" offset="00" relocatable="true" max_length="0">
+			<original>《蒼炎の軌跡》</original>
+			<edited>《蒼炎の軌跡》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Lay" offset="00" relocatable="true" max_length="0">
+			<original>莱伊</original>
+			<edited>莱伊</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lay00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，加利亚王国的兽牙战士。</original>
+			<edited>异界英雄之一，加利亚王国的兽牙战士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lay01" offset="00" relocatable="true" max_length="0">
+			<original>可变身战斗的“拉古兹”之一，
+能化身为巨猫的随和青年。</original>
+			<edited>可变身战斗的“拉古兹”之一，
+能化身为巨猫的随和青年。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lay02" offset="00" relocatable="true" max_length="0">
+			<original>看上去人畜无害，其实身手非凡，
+担任大队长统率兽牙战士。</original>
+			<edited>看上去人畜无害，其实身手非凡，
+担任大队长统率兽牙战士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lay03" offset="00" relocatable="true" max_length="0">
+			<original>《蒼炎の軌跡》《暁の女神》</original>
+			<edited>《蒼炎の軌跡》《暁の女神》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Gatrie" offset="00" relocatable="true" max_length="0">
+			<original>嘉德列</original>
+			<edited>嘉德列</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Gatrie00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，格莱尔佣兵团的重步兵。</original>
+			<edited>异界英雄之一，格莱尔佣兵团的重步兵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Gatrie01" offset="00" relocatable="true" max_length="0">
+			<original>有时会得意忘形，但是个老好人。
+将同为佣兵的席诺视为大哥。</original>
+			<edited>有时会得意忘形，但是个老好人。
+将同为佣兵的席诺视为大哥。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Gatrie02" offset="00" relocatable="true" max_length="0">
+			<original>拿女性没辙，动不动就坠入情网，
+常常失恋却越挫越勇。</original>
+			<edited>拿女性没辙，动不动就坠入情网，
+常常失恋却越挫越勇。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Gatrie03" offset="00" relocatable="true" max_length="0">
+			<original>《蒼炎の軌跡》《暁の女神》</original>
+			<edited>《蒼炎の軌跡》《暁の女神》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Byleth00" offset="00" relocatable="true" max_length="0">
+			<original>在异界芙朵拉中过着佣兵生活，
+因缘际会之下，成为教师。</original>
+			<edited>在异界芙朵拉中过着佣兵生活，
+因缘际会之下，成为教师。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Byleth01" offset="00" relocatable="true" max_length="0">
+			<original>持古代英雄涅梅希斯的武器“天帝之剑”
+带领学生并肩作战。</original>
+			<edited>持古代英雄涅梅希斯的武器“天帝之剑”
+带领学生并肩作战。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Edelgard" offset="00" relocatable="true" max_length="0">
+			<original>艾黛尔贾特</original>
+			<edited>艾黛尔贾特</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Edelgard00" offset="00" relocatable="true" max_length="0">
+			<original>异界之地芙朵拉中
+阿德剌斯忒亚帝国的皇女。</original>
+			<edited>异界之地芙朵拉中
+阿德剌斯忒亚帝国的皇女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Edelgard01" offset="00" relocatable="true" max_length="0">
+			<original>就读于加尔古·玛库大修道院的士官学校，
+担任黑鹫学级的级长。</original>
+			<edited>就读于加尔古·玛库大修道院的士官学校，
+担任黑鹫学级的级长。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Edelgard02" offset="00" relocatable="true" max_length="0">
+			<original>意志坚定的高贵少女，
+期盼能够改革世界。</original>
+			<edited>意志坚定的高贵少女，
+期盼能够改革世界。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Edelgard03" offset="00" relocatable="true" max_length="0">
+			<original>《风花雪月》</original>
+			<edited>《风花雪月》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Dimitri" offset="00" relocatable="true" max_length="0">
+			<original>帝弥托利</original>
+			<edited>帝弥托利</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Dimitri00" offset="00" relocatable="true" max_length="0">
+			<original>异界之地芙朵拉中
+法嘉斯神圣王国的王子。</original>
+			<edited>异界之地芙朵拉中
+法嘉斯神圣王国的王子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Dimitri01" offset="00" relocatable="true" max_length="0">
+			<original>就读于加尔古·玛库大修道院的士官学校，
+担任青狮子学级的级长。</original>
+			<edited>就读于加尔古·玛库大修道院的士官学校，
+担任青狮子学级的级长。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Dimitri02" offset="00" relocatable="true" max_length="0">
+			<original>彬彬有礼的正直青年，
+内心深藏着不为人知的黑暗面。</original>
+			<edited>彬彬有礼的正直青年，
+内心深藏着不为人知的黑暗面。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Dimitri03" offset="00" relocatable="true" max_length="0">
+			<original>《风花雪月》</original>
+			<edited>《风花雪月》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Claude" offset="00" relocatable="true" max_length="0">
+			<original>库罗德</original>
+			<edited>库罗德</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Claude00" offset="00" relocatable="true" max_length="0">
+			<original>异界之地芙朵拉中，
+雷斯塔诸侯同盟盟主里刚公爵家的嫡子。</original>
+			<edited>异界之地芙朵拉中，
+雷斯塔诸侯同盟盟主里刚公爵家的嫡子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Claude01" offset="00" relocatable="true" max_length="0">
+			<original>就读于加尔古·玛库大修道院的士官学校，
+担任金鹿学级的级长。</original>
+			<edited>就读于加尔古·玛库大修道院的士官学校，
+担任金鹿学级的级长。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Claude02" offset="00" relocatable="true" max_length="0">
+			<original>给人的感觉有些难以捉摸，但很好相处。
+也有思虑周详、精明干练的一面。</original>
+			<edited>给人的感觉有些难以捉摸，但很好相处。
+也有思虑周详、精明干练的一面。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Claude03" offset="00" relocatable="true" max_length="0">
+			<original>《风花雪月》</original>
+			<edited>《风花雪月》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Lysithea" offset="00" relocatable="true" max_length="0">
+			<original>莉丝缇亚</original>
+			<edited>莉丝缇亚</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lysithea00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，科迪利亚伯爵家的长女。</original>
+			<edited>异界英雄之一，科迪利亚伯爵家的长女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lysithea01" offset="00" relocatable="true" max_length="0">
+			<original>金鹿学级的学生，
+认真努力，拥有过人的魔道天赋。</original>
+			<edited>金鹿学级的学生，
+认真努力，拥有过人的魔道天赋。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lysithea02" offset="00" relocatable="true" max_length="0">
+			<original>热爱甜食，害怕鬼怪，
+非常讨厌被当成小孩对待。</original>
+			<edited>热爱甜食，害怕鬼怪，
+非常讨厌被当成小孩对待。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lysithea03" offset="00" relocatable="true" max_length="0">
+			<original>《风花雪月》</original>
+			<edited>《风花雪月》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Bernadetta" offset="00" relocatable="true" max_length="0">
+			<original>贝尔娜提塔</original>
+			<edited>贝尔娜提塔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Bernadetta00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，瓦立伯爵家的独生女。</original>
+			<edited>异界英雄之一，瓦立伯爵家的独生女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Bernadetta01" offset="00" relocatable="true" max_length="0">
+			<original>黑鹫学级的学生，
+十分怕生。</original>
+			<edited>黑鹫学级的学生，
+十分怕生。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Bernadetta02" offset="00" relocatable="true" max_length="0">
+			<original>严苛的教育导致她足不出户，
+上课以外的时间几乎都窝在房里。</original>
+			<edited>严苛的教育导致她足不出户，
+上课以外的时间几乎都窝在房里。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Bernadetta03" offset="00" relocatable="true" max_length="0">
+			<original>《风花雪月》</original>
+			<edited>《风花雪月》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Felix" offset="00" relocatable="true" max_length="0">
+			<original>菲力克斯</original>
+			<edited>菲力克斯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Felix00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，伏拉鲁达力乌斯公爵家的嫡子。</original>
+			<edited>异界英雄之一，伏拉鲁达力乌斯公爵家的嫡子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Felix01" offset="00" relocatable="true" max_length="0">
+			<original>青狮子学级的学生，
+是帝弥托利的儿时玩伴。</original>
+			<edited>青狮子学级的学生，
+是帝弥托利的儿时玩伴。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Felix02" offset="00" relocatable="true" max_length="0">
+			<original>一心想磨练自己的剑术，
+遇见强劲的对手就想较量一番。</original>
+			<edited>一心想磨练自己的剑术，
+遇见强劲的对手就想较量一番。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Felix03" offset="00" relocatable="true" max_length="0">
+			<original>《风花雪月》</original>
+			<edited>《风花雪月》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Ferdinand" offset="00" relocatable="true" max_length="0">
+			<original>菲尔迪南特</original>
+			<edited>菲尔迪南特</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ferdinand00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，艾吉尔公爵家的嫡子。</original>
+			<edited>异界英雄之一，艾吉尔公爵家的嫡子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ferdinand01" offset="00" relocatable="true" max_length="0">
+			<original>黑鹫学级的学生，
+以自己的贵族身分为傲。</original>
+			<edited>黑鹫学级的学生，
+以自己的贵族身分为傲。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ferdinand02" offset="00" relocatable="true" max_length="0">
+			<original>好胜心很强，
+将皇女艾黛尔贾特视为劲敌。</original>
+			<edited>好胜心很强，
+将皇女艾黛尔贾特视为劲敌。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ferdinand03" offset="00" relocatable="true" max_length="0">
+			<original>《风花雪月》</original>
+			<edited>《风花雪月》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Ingrid" offset="00" relocatable="true" max_length="0">
+			<original>英谷莉特</original>
+			<edited>英谷莉特</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ingrid00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，贾拉提雅伯爵家的千金。</original>
+			<edited>异界英雄之一，贾拉提雅伯爵家的千金。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ingrid01" offset="00" relocatable="true" max_length="0">
+			<original>青狮子学级的学生，
+性格认真且稳重。</original>
+			<edited>青狮子学级的学生，
+性格认真且稳重。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ingrid02" offset="00" relocatable="true" max_length="0">
+			<original>对骑士精神心怀憧憬，
+梦想有朝一日自己也能成为骑士。</original>
+			<edited>对骑士精神心怀憧憬，
+梦想有朝一日自己也能成为骑士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ingrid03" offset="00" relocatable="true" max_length="0">
+			<original>《风花雪月》</original>
+			<edited>《风花雪月》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Raphael" offset="00" relocatable="true" max_length="0">
+			<original>拉斐尔</original>
+			<edited>拉斐尔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Raphael00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，雷斯塔商人家的儿子。</original>
+			<edited>异界英雄之一，雷斯塔商人家的儿子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Raphael01" offset="00" relocatable="true" max_length="0">
+			<original>金鹿学级的学生，
+是个体魄强健的大胃王。</original>
+			<edited>金鹿学级的学生，
+是个体魄强健的大胃王。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Raphael02" offset="00" relocatable="true" max_length="0">
+			<original>不爱听课，热衷于锻炼体魄，
+为了成为独当一面的骑士而不懈努力。</original>
+			<edited>不爱听课，热衷于锻炼体魄，
+为了成为独当一面的骑士而不懈努力。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Raphael03" offset="00" relocatable="true" max_length="0">
+			<original>《风花雪月》</original>
+			<edited>《风花雪月》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Flayn" offset="00" relocatable="true" max_length="0">
+			<original>芙莲</original>
+			<edited>芙莲</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Flayn00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，
+赛罗司圣教会大司教辅佐西提司的妹妹。</original>
+			<edited>异界英雄之一，
+赛罗司圣教会大司教辅佐西提司的妹妹。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Flayn01" offset="00" relocatable="true" max_length="0">
+			<original>并非士官学校的学生，
+在哥哥的监护下住在大修道院。</original>
+			<edited>并非士官学校的学生，
+在哥哥的监护下住在大修道院。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Flayn02" offset="00" relocatable="true" max_length="0">
+			<original>不知人间烟火，
+对万物充满好奇心。</original>
+			<edited>不知人间烟火，
+对万物充满好奇心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Flayn03" offset="00" relocatable="true" max_length="0">
+			<original>《风花雪月》</original>
+			<edited>《风花雪月》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Kamui00" offset="00" relocatable="true" max_length="0">
+			<original>出生于异界的白夜王国，
+但年幼时遭掳，在暗夜王国长大的王族。</original>
+			<edited>出生于异界的白夜王国，
+但年幼时遭掳，在暗夜王国长大的王族。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Kamui01" offset="00" relocatable="true" max_length="0">
+			<original>为了争取和平、终结两国间的纠纷，
+力抗企图毁灭世界的透魔龙海卓拉。</original>
+			<edited>为了争取和平、终结两国间的纠纷，
+力抗企图毁灭世界的透魔龙海卓拉。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Camilla" offset="00" relocatable="true" max_length="0">
+			<original>卡美拉</original>
+			<edited>卡美拉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Camilla00" offset="00" relocatable="true" max_length="0">
+			<original>异界暗夜王国的第一公主。</original>
+			<edited>异界暗夜王国的第一公主。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Camilla01" offset="00" relocatable="true" max_length="0">
+			<original>驱使魔龙，
+亲临战场的美艳女子。</original>
+			<edited>驱使魔龙，
+亲临战场的美艳女子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Camilla02" offset="00" relocatable="true" max_length="0">
+			<original>溺爱神威，对其用情至深。
+欣赏可爱又坚强的女孩。</original>
+			<edited>溺爱神威，对其用情至深。
+欣赏可爱又坚强的女孩。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Camilla03" offset="00" relocatable="true" max_length="0">
+			<original>《白夜王国》《暗夜王国》等</original>
+			<edited>《白夜王国》《暗夜王国》等</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Aqua" offset="00" relocatable="true" max_length="0">
+			<original>阿库娅</original>
+			<edited>阿库娅</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Aqua00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，暗夜王国的公主，
+被人掳走后在白夜王国长大。</original>
+			<edited>异界英雄之一，暗夜王国的公主，
+被人掳走后在白夜王国长大。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Aqua01" offset="00" relocatable="true" max_length="0">
+			<original>情绪鲜少有起伏，
+散发着一股梦幻缥缈的气质。</original>
+			<edited>情绪鲜少有起伏，
+散发着一股梦幻缥缈的气质。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Aqua02" offset="00" relocatable="true" max_length="0">
+			<original>擅长歌舞的“歌姬”，
+以长枪与舞蹈为武器，活跃于战场。</original>
+			<edited>擅长歌舞的“歌姬”，
+以长枪与舞蹈为武器，活跃于战场。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Aqua03" offset="00" relocatable="true" max_length="0">
+			<original>《白夜王国》《暗夜王国》等</original>
+			<edited>《白夜王国》《暗夜王国》等</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Takumi" offset="00" relocatable="true" max_length="0">
+			<original>拓海</original>
+			<edited>拓海</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Takumi00" offset="00" relocatable="true" max_length="0">
+			<original>异界白夜王国的王子。</original>
+			<edited>异界白夜王国的王子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Takumi01" offset="00" relocatable="true" max_length="0">
+			<original>是位神射手，
+操控王室代代相传的弓神器“风神弓”。</original>
+			<edited>是位神射手，
+操控王室代代相传的弓神器“风神弓”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Takumi02" offset="00" relocatable="true" max_length="0">
+			<original>憎恨威胁祖国的暗夜王国，
+对神威怀抱复杂的情感。</original>
+			<edited>憎恨威胁祖国的暗夜王国，
+对神威怀抱复杂的情感。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Takumi03" offset="00" relocatable="true" max_length="0">
+			<original>《白夜王国》《暗夜王国》等</original>
+			<edited>《白夜王国》《暗夜王国》等</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Leon" offset="00" relocatable="true" max_length="0">
+			<original>里昂</original>
+			<edited>里昂</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Leon00" offset="00" relocatable="true" max_length="0">
+			<original>异界暗夜王国的王子。</original>
+			<edited>异界暗夜王国的王子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Leon01" offset="00" relocatable="true" max_length="0">
+			<original>擅长暗魔法的精英，
+使用魔道书神器“布伦希尔德”。</original>
+			<edited>擅长暗魔法的精英，
+使用魔道书神器“布伦希尔德”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Leon02" offset="00" relocatable="true" max_length="0">
+			<original>天资聪颖，任何事都难不倒他。
+但也有迷糊的一面，比如说把法袍穿反。</original>
+			<edited>天资聪颖，任何事都难不倒他。
+但也有迷糊的一面，比如说把法袍穿反。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Leon03" offset="00" relocatable="true" max_length="0">
+			<original>《白夜王国》《暗夜王国》等</original>
+			<edited>《白夜王国》《暗夜王国》等</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Elise" offset="00" relocatable="true" max_length="0">
+			<original>艾丽泽</original>
+			<edited>艾丽泽</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Elise00" offset="00" relocatable="true" max_length="0">
+			<original>异界暗夜王国的公主。</original>
+			<edited>异界暗夜王国的公主。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Elise01" offset="00" relocatable="true" max_length="0">
+			<original>暗夜王族兄妹的幺女，
+天真烂漫、活泼开朗。</original>
+			<edited>暗夜王族兄妹的幺女，
+天真烂漫、活泼开朗。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Elise02" offset="00" relocatable="true" max_length="0">
+			<original>最喜欢自己的哥哥姐姐们，
+也十分仰慕神威。</original>
+			<edited>最喜欢自己的哥哥姐姐们，
+也十分仰慕神威。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Elise03" offset="00" relocatable="true" max_length="0">
+			<original>《白夜王国》《暗夜王国》等</original>
+			<edited>《白夜王国》《暗夜王国》等</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Sakura" offset="00" relocatable="true" max_length="0">
+			<original>樱</original>
+			<edited>樱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sakura00" offset="00" relocatable="true" max_length="0">
+			<original>异界白夜王国的公主。</original>
+			<edited>异界白夜王国的公主。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sakura01" offset="00" relocatable="true" max_length="0">
+			<original>白夜王族兄妹的幺女，
+心地善良、气质优雅。</original>
+			<edited>白夜王族兄妹的幺女，
+心地善良、气质优雅。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sakura02" offset="00" relocatable="true" max_length="0">
+			<original>对任何人都恭敬有礼，
+但是生性害羞，容易紧张。</original>
+			<edited>对任何人都恭敬有礼，
+但是生性害羞，容易紧张。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sakura03" offset="00" relocatable="true" max_length="0">
+			<original>《白夜王国》《暗夜王国》等</original>
+			<edited>《白夜王国》《暗夜王国》等</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Marks" offset="00" relocatable="true" max_length="0">
+			<original>马克斯</original>
+			<edited>马克斯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Marks00" offset="00" relocatable="true" max_length="0">
+			<original>异界暗夜王国的第一王子。</original>
+			<edited>异界暗夜王国的第一王子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Marks01" offset="00" relocatable="true" max_length="0">
+			<original>下任暗夜国王，
+剑神器“西格弗里德”的继承人。</original>
+			<edited>下任暗夜国王，
+剑神器“西格弗里德”的继承人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Marks02" offset="00" relocatable="true" max_length="0">
+			<original>心怀骑士精神的圣骑士，
+威严与体贴兼备。</original>
+			<edited>心怀骑士精神的圣骑士，
+威严与体贴兼备。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Marks03" offset="00" relocatable="true" max_length="0">
+			<original>《白夜王国》《暗夜王国》等</original>
+			<edited>《白夜王国》《暗夜王国》等</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Joker" offset="00" relocatable="true" max_length="0">
+			<original>乔克</original>
+			<edited>乔克</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Joker00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，侍奉神威的管家。</original>
+			<edited>异界英雄之一，侍奉神威的管家。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Joker01" offset="00" relocatable="true" max_length="0">
+			<original>聪明伶俐、无所不能，
+从照顾起居、保养武器到战斗都能一手包办。</original>
+			<edited>聪明伶俐、无所不能，
+从照顾起居、保养武器到战斗都能一手包办。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Joker02" offset="00" relocatable="true" max_length="0">
+			<original>对主君神威忠心不二，
+待其他人则态度冷漠。</original>
+			<edited>对主君神威忠心不二，
+待其他人则态度冷漠。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Joker03" offset="00" relocatable="true" max_length="0">
+			<original>《白夜王国》《暗夜王国》等</original>
+			<edited>《白夜王国》《暗夜王国》等</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Ryoma" offset="00" relocatable="true" max_length="0">
+			<original>龙马</original>
+			<edited>龙马</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ryoma00" offset="00" relocatable="true" max_length="0">
+			<original>异界白夜王国的第一王子。</original>
+			<edited>异界白夜王国的第一王子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ryoma01" offset="00" relocatable="true" max_length="0">
+			<original>下任白夜国王，
+刀神器“雷神刀”的继承人。</original>
+			<edited>下任白夜国王，
+刀神器“雷神刀”的继承人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ryoma02" offset="00" relocatable="true" max_length="0">
+			<original>推崇武士精神，
+充满斗志、百折不挠的武士。</original>
+			<edited>推崇武士精神，
+充满斗志、百折不挠的武士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ryoma03" offset="00" relocatable="true" max_length="0">
+			<original>《白夜王国》《暗夜王国》等</original>
+			<edited>《白夜王国》《暗夜王国》等</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Hinoka" offset="00" relocatable="true" max_length="0">
+			<original>火乃香</original>
+			<edited>火乃香</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Hinoka00" offset="00" relocatable="true" max_length="0">
+			<original>异界白夜王国的第一公主。</original>
+			<edited>异界白夜王国的第一公主。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Hinoka01" offset="00" relocatable="true" max_length="0">
+			<original>性格有如习武之人一般的公主，
+驱使天马，驰骋沙场。</original>
+			<edited>性格有如习武之人一般的公主，
+驱使天马，驰骋沙场。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Hinoka02" offset="00" relocatable="true" max_length="0">
+			<original>年幼时神威遭掳，
+为了带她回国而成为天马武士。</original>
+			<edited>年幼时神威遭掳，
+为了带她回国而成为天马武士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Hinoka03" offset="00" relocatable="true" max_length="0">
+			<original>《白夜王国》《暗夜王国》等</original>
+			<edited>《白夜王国》《暗夜王国》等</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Eirik00" offset="00" relocatable="true" max_length="0">
+			<original>异界麦格维尔陆地中
+路奈斯王国的公主。</original>
+			<edited>异界麦格维尔陆地中
+路奈斯王国的公主。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Eirik01" offset="00" relocatable="true" max_length="0">
+			<original>与双胞胎哥哥艾夫拉姆一同使用
+人称双圣器的传说武器，讨伐魔王弗德斯。</original>
+			<edited>与双胞胎哥哥艾夫拉姆一同使用
+人称双圣器的传说武器，讨伐魔王弗德斯。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Lute" offset="00" relocatable="true" max_length="0">
+			<original>卢特</original>
+			<edited>卢特</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lute00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，天才魔道士。</original>
+			<edited>异界英雄之一，天才魔道士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lute01" offset="00" relocatable="true" max_length="0">
+			<original>魔道天资出色且学富五车，
+口头禅是“因为我很优秀”。</original>
+			<edited>魔道天资出色且学富五车，
+口头禅是“因为我很优秀”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lute02" offset="00" relocatable="true" max_length="0">
+			<original>措辞独特，
+难以分辨其真心。</original>
+			<edited>措辞独特，
+难以分辨其真心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Lute03" offset="00" relocatable="true" max_length="0">
+			<original>《聖魔の光石》</original>
+			<edited>《聖魔の光石》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Jhosua" offset="00" relocatable="true" max_length="0">
+			<original>约书亚</original>
+			<edited>约书亚</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Jhosua00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，潇洒不羁的剑士。</original>
+			<edited>异界英雄之一，潇洒不羁的剑士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Jhosua01" offset="00" relocatable="true" max_length="0">
+			<original>生性好赌，
+甚至以掷硬币来做重大决定。</original>
+			<edited>生性好赌，
+甚至以掷硬币来做重大决定。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Jhosua02" offset="00" relocatable="true" max_length="0">
+			<original>原为格拉多帝国雇佣的佣兵，
+却因掷硬币的结果背叛了其雇主。</original>
+			<edited>原为格拉多帝国雇佣的佣兵，
+却因掷硬币的结果背叛了其雇主。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Jhosua03" offset="00" relocatable="true" max_length="0">
+			<original>《聖魔の光石》</original>
+			<edited>《聖魔の光石》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Marica" offset="00" relocatable="true" max_length="0">
+			<original>玛莉卡</original>
+			<edited>玛莉卡</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Marica00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，
+隶属吉斯特佣兵团的剑士。</original>
+			<edited>异界英雄之一，
+隶属吉斯特佣兵团的剑士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Marica01" offset="00" relocatable="true" max_length="0">
+			<original>剑术高超，令人闻风丧胆，
+别号“绯闪”。</original>
+			<edited>剑术高超，令人闻风丧胆，
+别号“绯闪”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Marica02" offset="00" relocatable="true" max_length="0">
+			<original>沉默寡言，鲜少表露情绪。
+对队长吉斯特深信不疑。</original>
+			<edited>沉默寡言，鲜少表露情绪。
+对队长吉斯特深信不疑。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Marica03" offset="00" relocatable="true" max_length="0">
+			<original>《聖魔の光石》</original>
+			<edited>《聖魔の光石》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Seth" offset="00" relocatable="true" max_length="0">
+			<original>赛特</original>
+			<edited>赛特</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Seth00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，侍奉路奈斯王室的骑士。</original>
+			<edited>异界英雄之一，侍奉路奈斯王室的骑士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Seth01" offset="00" relocatable="true" max_length="0">
+			<original>统率骑士团的年轻将军，
+别名“纯银的骑士”。</original>
+			<edited>统率骑士团的年轻将军，
+别名“纯银的骑士”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Seth02" offset="00" relocatable="true" max_length="0">
+			<original>格拉多帝国遭到侵略时，
+保护艾莉可，协助她脱逃。</original>
+			<edited>格拉多帝国遭到侵略时，
+保护艾莉可，协助她脱逃。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Seth03" offset="00" relocatable="true" max_length="0">
+			<original>《聖魔の光石》</original>
+			<edited>《聖魔の光石》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Amelia" offset="00" relocatable="true" max_length="0">
+			<original>亚美利雅</original>
+			<edited>亚美利雅</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Amelia00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，格拉多帝国的见习士兵。</original>
+			<edited>异界英雄之一，格拉多帝国的见习士兵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Amelia01" offset="00" relocatable="true" max_length="0">
+			<original>虽然涉世未深，
+但性情率直、努力不懈的少女。</original>
+			<edited>虽然涉世未深，
+但性情率直、努力不懈的少女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Amelia02" offset="00" relocatable="true" max_length="0">
+			<original>误以为艾莉可与艾夫拉姆是穷凶极恶的坏蛋，
+怀着误解参战。</original>
+			<edited>误以为艾莉可与艾夫拉姆是穷凶极恶的坏蛋，
+怀着误解参战。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Amelia03" offset="00" relocatable="true" max_length="0">
+			<original>《聖魔の光石》</original>
+			<edited>《聖魔の光石》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Turner" offset="00" relocatable="true" max_length="0">
+			<original>塔娜</original>
+			<edited>塔娜</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Turner00" offset="00" relocatable="true" max_length="0">
+			<original>异界麦格维尔陆地中
+弗莱利亚王国的公主。</original>
+			<edited>异界麦格维尔陆地中
+弗莱利亚王国的公主。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Turner01" offset="00" relocatable="true" max_length="0">
+			<original>地位虽高却活泼好动，
+于天马之上挥枪奋战。</original>
+			<edited>地位虽高却活泼好动，
+于天马之上挥枪奋战。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Turner02" offset="00" relocatable="true" max_length="0">
+			<original>和艾莉可是好朋友，
+为了帮助她而离开王城，前去支援。</original>
+			<edited>和艾莉可是好朋友，
+为了帮助她而离开王城，前去支援。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Turner03" offset="00" relocatable="true" max_length="0">
+			<original>《聖魔の光石》</original>
+			<edited>《聖魔の光石》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Larchel" offset="00" relocatable="true" max_length="0">
+			<original>拉切尔</original>
+			<edited>拉切尔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Larchel00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，拯救众人的正义少女。</original>
+			<edited>异界英雄之一，拯救众人的正义少女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Larchel01" offset="00" relocatable="true" max_length="0">
+			<original>游遍麦格维尔陆地，
+击败各处现身的魔物。</original>
+			<edited>游遍麦格维尔陆地，
+击败各处现身的魔物。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Larchel02" offset="00" relocatable="true" max_length="0">
+			<original>真实身分是罗斯通圣教国的圣公主，
+带着两位随从一同奋战。</original>
+			<edited>真实身分是罗斯通圣教国的圣公主，
+带着两位随从一同奋战。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Larchel03" offset="00" relocatable="true" max_length="0">
+			<original>《聖魔の光石》</original>
+			<edited>《聖魔の光石》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Ross" offset="00" relocatable="true" max_length="0">
+			<original>罗斯</original>
+			<edited>罗斯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ross00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，战士贾西亚之子。</original>
+			<edited>异界英雄之一，战士贾西亚之子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ross01" offset="00" relocatable="true" max_length="0">
+			<original>资历尚浅的路奈斯王国战士，
+是充满干劲与斗志的活泼少年。</original>
+			<edited>资历尚浅的路奈斯王国战士，
+是充满干劲与斗志的活泼少年。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ross02" offset="00" relocatable="true" max_length="0">
+			<original>十分尊敬父亲，
+总是向他看齐，精进自我。</original>
+			<edited>十分尊敬父亲，
+总是向他看齐，精进自我。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Ross03" offset="00" relocatable="true" max_length="0">
+			<original>《聖魔の光石》</original>
+			<edited>《聖魔の光石》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Heanius" offset="00" relocatable="true" max_length="0">
+			<original>西尼亚斯</original>
+			<edited>西尼亚斯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Heanius00" offset="00" relocatable="true" max_length="0">
+			<original>异界麦格维尔陆地中
+弗莱利亚王国的王子。</original>
+			<edited>异界麦格维尔陆地中
+弗莱利亚王国的王子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Heanius01" offset="00" relocatable="true" max_length="0">
+			<original>自尊心强、聪颖过人，
+以神射手著称。</original>
+			<edited>自尊心强、聪颖过人，
+以神射手著称。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Heanius02" offset="00" relocatable="true" max_length="0">
+			<original>沉着冷静，讲话一针见血，
+看似冷酷无情，实则心地善良。</original>
+			<edited>沉着冷静，讲话一针见血，
+看似冷酷无情，实则心地善良。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Heanius03" offset="00" relocatable="true" max_length="0">
+			<original>《聖魔の光石》</original>
+			<edited>《聖魔の光石》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Xyst" offset="00" relocatable="true" max_length="0">
+			<original>吉斯特</original>
+			<edited>吉斯特</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Xyst00" offset="00" relocatable="true" max_length="0">
+			<original>异界英雄之一，吉斯特佣兵团团长。</original>
+			<edited>异界英雄之一，吉斯特佣兵团团长。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Xyst01" offset="00" relocatable="true" max_length="0">
+			<original>身经百战、声名远播的佣兵，
+人称“沙漠之虎”。</original>
+			<edited>身经百战、声名远播的佣兵，
+人称“沙漠之虎”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Xyst02" offset="00" relocatable="true" max_length="0">
+			<original>重情重义，擅长照顾人，
+深受众人信赖。</original>
+			<edited>重情重义，擅长照顾人，
+深受众人信赖。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Xyst03" offset="00" relocatable="true" max_length="0">
+			<original>《聖魔の光石》</original>
+			<edited>《聖魔の光石》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Alfonse" offset="00" relocatable="true" max_length="0">
+			<original>阿尔冯斯</original>
+			<edited>阿尔冯斯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Alfonse00" offset="00" relocatable="true" max_length="0">
+			<original>异界之国——亚斯克王国的王子。</original>
+			<edited>异界之国——亚斯克王国的王子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Alfonse01" offset="00" relocatable="true" max_length="0">
+			<original>隶属护国特务机关“纯白义勇队”，
+个性温和且老实的青年。</original>
+			<edited>隶属护国特务机关“纯白义勇队”，
+个性温和且老实的青年。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Alfonse02" offset="00" relocatable="true" max_length="0">
+			<original>意志坚定、百折不挠，
+一心寻求胜利。</original>
+			<edited>意志坚定、百折不挠，
+一心寻求胜利。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Alfonse03" offset="00" relocatable="true" max_length="0">
+			<original>《Heroes》</original>
+			<edited>《Heroes》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Sharena" offset="00" relocatable="true" max_length="0">
+			<original>夏蓉</original>
+			<edited>夏蓉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sharena00" offset="00" relocatable="true" max_length="0">
+			<original>异界之国──亚斯克王国的公主。</original>
+			<edited>异界之国──亚斯克王国的公主。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sharena01" offset="00" relocatable="true" max_length="0">
+			<original>隶属护国特务机关“纯白义勇队”，
+活泼开朗的少女。</original>
+			<edited>隶属护国特务机关“纯白义勇队”，
+活泼开朗的少女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sharena02" offset="00" relocatable="true" max_length="0">
+			<original>天真烂漫、平易近人，
+希望能和异界英雄打成一片。</original>
+			<edited>天真烂漫、平易近人，
+希望能和异界英雄打成一片。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Sharena03" offset="00" relocatable="true" max_length="0">
+			<original>《Heroes》</original>
+			<edited>《Heroes》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Anna" offset="00" relocatable="true" max_length="0">
+			<original>安娜</original>
+			<edited>安娜</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Anna00" offset="00" relocatable="true" max_length="0">
+			<original>异界之国──亚斯克王国的战士。</original>
+			<edited>异界之国──亚斯克王国的战士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Anna01" offset="00" relocatable="true" max_length="0">
+			<original>护国特务机关“纯白义勇队”的队长，
+经验老道的女子。</original>
+			<edited>护国特务机关“纯白义勇队”的队长，
+经验老道的女子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Anna02" offset="00" relocatable="true" max_length="0">
+			<original>善于照顾他人的可靠人物。
+但扯上金钱就会失去理智。</original>
+			<edited>善于照顾他人的可靠人物。
+但扯上金钱就会失去理智。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_H_Anna03" offset="00" relocatable="true" max_length="0">
+			<original>《Heroes》</original>
+			<edited>《Heroes》</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Lueur00" offset="00" relocatable="true" max_length="0">
+			<original>于战火中殒命，但借着“纹章奇迹”之力，
+以第十三位纹章士的身分重获新生。</original>
+			<edited>于战火中殒命，但借着“纹章奇迹”之力，
+以第十三位纹章士的身分重获新生。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BONDSRING_Lueur01" offset="00" relocatable="true" max_length="0">
+			<original>运用“身为纹章士却拥有实体”
+这般稀有能力，挺身为和平而战。</original>
+			<edited>运用“身为纹章士却拥有实体”
+这般稀有能力，挺身为和平而战。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ring_Marth" offset="00" relocatable="true" max_length="0">
+			<original>英雄王戒指</original>
+			<edited>英雄王戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Ring_Marth" offset="00" relocatable="true" max_length="0">
+			<original>人称“初始纹章士”的马尔斯所寄宿的戒指。
+为人高尚清廉，极具领袖魅力，是群雄之最。</original>
+			<edited>人称“初始纹章士”的马尔斯所寄宿的戒指。
+为人高尚清廉，极具领袖魅力，是群雄之最。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ring_Siglud" offset="00" relocatable="true" max_length="0">
+			<original>圣战骑士戒指</original>
+			<edited>圣战骑士戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Ring_Siglud" offset="00" relocatable="true" max_length="0">
+			<original>人称“圣战纹章士”的西格尔特所寄宿的戒指。
+是继承圣战士血脉的廉洁骑士。</original>
+			<edited>人称“圣战纹章士”的西格尔特所寄宿的戒指。
+是继承圣战士血脉的廉洁骑士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ring_Celica" offset="00" relocatable="true" max_length="0">
+			<original>慈悲公主戒指</original>
+			<edited>慈悲公主戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Ring_Celica" offset="00" relocatable="true" max_length="0">
+			<original>人称“声响纹章士”的赛莉卡所寄宿的戒指。
+是丰饶之国的公主，也是位神官战士。</original>
+			<edited>人称“声响纹章士”的赛莉卡所寄宿的戒指。
+是丰饶之国的公主，也是位神官战士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ring_Micaiah" offset="00" relocatable="true" max_length="0">
+			<original>拂晓巫女戒指</original>
+			<edited>拂晓巫女戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Ring_Micaiah" offset="00" relocatable="true" max_length="0">
+			<original>人称“拂晓纹章士”的米卡雅所寄宿的戒指。
+拥有治愈、预知等神秘力量。</original>
+			<edited>人称“拂晓纹章士”的米卡雅所寄宿的戒指。
+拥有治愈、预知等神秘力量。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ring_Roy" offset="00" relocatable="true" max_length="0">
+			<original>幼狮戒指</original>
+			<edited>幼狮戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Ring_Roy" offset="00" relocatable="true" max_length="0">
+			<original>人称“封印纹章士”的罗伊所寄宿的戒指。
+勇猛果敢、才智过人，是位有大将风范的勋爵。</original>
+			<edited>人称“封印纹章士”的罗伊所寄宿的戒指。
+勇猛果敢、才智过人，是位有大将风范的勋爵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ring_Lin" offset="00" relocatable="true" max_length="0">
+			<original>草原女爵戒指</original>
+			<edited>草原女爵戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Ring_Lin" offset="00" relocatable="true" max_length="0">
+			<original>人称“烈火纹章士”的琳所寄宿的戒指。
+生于逐水草而居的游牧民族，是位武艺高超的剑士。</original>
+			<edited>人称“烈火纹章士”的琳所寄宿的戒指。
+生于逐水草而居的游牧民族，是位武艺高超的剑士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ring_Ike" offset="00" relocatable="true" max_length="0">
+			<original>苍炎勇者戒指</original>
+			<edited>苍炎勇者戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Ring_Ike" offset="00" relocatable="true" max_length="0">
+			<original>人称“苍炎纹章士”的艾克所寄宿的戒指。
+著名的佣兵团团长，拥有超群的战斗技巧。</original>
+			<edited>人称“苍炎纹章士”的艾克所寄宿的戒指。
+著名的佣兵团团长，拥有超群的战斗技巧。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ring_Lucina" offset="00" relocatable="true" max_length="0">
+			<original>圣公主戒指</original>
+			<edited>圣公主戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Ring_Lucina" offset="00" relocatable="true" max_length="0">
+			<original>人称“觉醒纹章士”的露琪娜所寄宿的戒指。
+是位相信希望，不向绝望屈服的神圣公主。</original>
+			<edited>人称“觉醒纹章士”的露琪娜所寄宿的戒指。
+是位相信希望，不向绝望屈服的神圣公主。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ring_Leaf" offset="00" relocatable="true" max_length="0">
+			<original>贤王戒指</original>
+			<edited>贤王戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Ring_Leaf" offset="00" relocatable="true" max_length="0">
+			<original>人称“系谱纹章士”的里弗所寄宿的戒指。
+继承了两位圣战士血脉，是位英勇的王子。</original>
+			<edited>人称“系谱纹章士”的里弗所寄宿的戒指。
+继承了两位圣战士血脉，是位英勇的王子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ring_Kamui" offset="00" relocatable="true" max_length="0">
+			<original>选择未来之人戒指</original>
+			<edited>选择未来之人戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Ring_Kamui" offset="00" relocatable="true" max_length="0">
+			<original>人称“选择纹章士”的神威所寄宿的戒指。
+继承神祖龙血脉，拥有百折不挠精神的王族。</original>
+			<edited>人称“选择纹章士”的神威所寄宿的戒指。
+继承神祖龙血脉，拥有百折不挠精神的王族。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ring_Eirik" offset="00" relocatable="true" max_length="0">
+			<original>碧绿风空戒指</original>
+			<edited>碧绿风空戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Ring_Eirik" offset="00" relocatable="true" max_length="0">
+			<original>人称“圣魔纹章士”的艾莉可所寄宿的戒指。
+为了和平而持剑奋战，是位心地善良公主。</original>
+			<edited>人称“圣魔纹章士”的艾莉可所寄宿的戒指。
+为了和平而持剑奋战，是位心地善良公主。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ring_Byleth" offset="00" relocatable="true" max_length="0">
+			<original>引领者戒指</original>
+			<edited>引领者戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Ring_Byleth" offset="00" relocatable="true" max_length="0">
+			<original>人称“风花纹章士”的贝雷特所寄宿的戒指。
+前身为佣兵的士官学校教师。</original>
+			<edited>人称“风花纹章士”的贝雷特所寄宿的戒指。
+前身为佣兵的士官学校教师。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ring_Lueur" offset="00" relocatable="true" max_length="0">
+			<original>编织者戒指</original>
+			<edited>编织者戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ring_CharacterName" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;的戒指</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;的戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ring_God_Category" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;的牵绊戒指</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;的牵绊戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ring_Special_Category" offset="00" relocatable="true" max_length="0">
+			<original>特殊牵绊戒指</original>
+			<edited>特殊牵绊戒指</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BondsRing_RankS" offset="00" relocatable="true" max_length="0">
+			<original>阶级S</original>
+			<edited>阶级S</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BondsRing_RankA" offset="00" relocatable="true" max_length="0">
+			<original>阶级A</original>
+			<edited>阶级A</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BondsRing_RankB" offset="00" relocatable="true" max_length="0">
+			<original>阶级B</original>
+			<edited>阶级B</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_BondsRing_RankC" offset="00" relocatable="true" max_length="0">
+			<original>阶级C</original>
+			<edited>阶级C</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_World_Marth" offset="00" relocatable="true" max_length="0">
+			<original>英雄王的世界</original>
+			<edited>英雄王的世界</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_World_Siglud" offset="00" relocatable="true" max_length="0">
+			<original>圣战骑士的世界</original>
+			<edited>圣战骑士的世界</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_World_Celica" offset="00" relocatable="true" max_length="0">
+			<original>慈悲公主的世界</original>
+			<edited>慈悲公主的世界</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_World_Micaiah" offset="00" relocatable="true" max_length="0">
+			<original>拂晓巫女的世界</original>
+			<edited>拂晓巫女的世界</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_World_Roy" offset="00" relocatable="true" max_length="0">
+			<original>幼狮的世界</original>
+			<edited>幼狮的世界</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_World_Lin" offset="00" relocatable="true" max_length="0">
+			<original>草原女爵的世界</original>
+			<edited>草原女爵的世界</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_World_Ike" offset="00" relocatable="true" max_length="0">
+			<original>苍炎勇者的世界</original>
+			<edited>苍炎勇者的世界</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_World_Lucina" offset="00" relocatable="true" max_length="0">
+			<original>圣公主的世界</original>
+			<edited>圣公主的世界</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_World_Leaf" offset="00" relocatable="true" max_length="0">
+			<original>贤王的世界</original>
+			<edited>贤王的世界</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_World_Kamui" offset="00" relocatable="true" max_length="0">
+			<original>选择未来之人的世界</original>
+			<edited>选择未来之人的世界</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_World_Eirik" offset="00" relocatable="true" max_length="0">
+			<original>碧绿风空的世界</original>
+			<edited>碧绿风空的世界</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_World_Byleth" offset="00" relocatable="true" max_length="0">
+			<original>引领者的世界</original>
+			<edited>引领者的世界</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_World_Special" offset="00" relocatable="true" max_length="0">
+			<original>万象的世界</original>
+			<edited>万象的世界</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_World_Lueur" offset="00" relocatable="true" max_length="0">
+			<original>编织者的世界</original>
+			<edited>编织者的世界</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MBSID_None" offset="00" relocatable="true" max_length="0">
+			<original>Civilian</original>
+			<edited>Civilian</edited>
+			<subEntries />
+		</entry>
+		<entry name="MBSID_H_None" offset="00" relocatable="true" max_length="0">
+			<original>Civilian units do not have any
+special advantages in battle.</original>
+			<edited>Civilian units do not have any
+special advantages in battle.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MBSID_Cooperation" offset="00" relocatable="true" max_length="0">
+			<original>Backup</original>
+			<edited>Backup</edited>
+			<subEntries />
+		</entry>
+		<entry name="MBSID_H_Cooperation" offset="00" relocatable="true" max_length="0">
+			<original>Backup units make a chain attack in
+the combat of an ally fighting a foe
+in range.</original>
+			<edited>Backup units make a chain attack in
+the combat of an ally fighting a foe
+in range.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MBSID_Horse" offset="00" relocatable="true" max_length="0">
+			<original>Cavalry</original>
+			<edited>Cavalry</edited>
+			<subEntries />
+		</entry>
+		<entry name="MBSID_H_Horse" offset="00" relocatable="true" max_length="0">
+			<original>Cavalry units have higher movement
+than other units.</original>
+			<edited>Cavalry units have higher movement
+than other units.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MBSID_Covert" offset="00" relocatable="true" max_length="0">
+			<original>Covert</original>
+			<edited>Covert</edited>
+			<subEntries />
+		</entry>
+		<entry name="MBSID_H_Covert" offset="00" relocatable="true" max_length="0">
+			<original>Covert units double their Avo bonus
+from terrain effects.</original>
+			<edited>Covert units double their Avo bonus
+from terrain effects.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MBSID_Heavy" offset="00" relocatable="true" max_length="0">
+			<original>Armored</original>
+			<edited>Armored</edited>
+			<subEntries />
+		</entry>
+		<entry name="MBSID_H_Heavy" offset="00" relocatable="true" max_length="0">
+			<original>Armored units ignore break effects
+from weapon advantage.</original>
+			<edited>Armored units ignore break effects
+from weapon advantage.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MBSID_Fly" offset="00" relocatable="true" max_length="0">
+			<original>Flying</original>
+			<edited>Flying</edited>
+			<subEntries />
+		</entry>
+		<entry name="MBSID_H_Fly" offset="00" relocatable="true" max_length="0">
+			<original>Flying units ignore all terrain effects,
+even passing through squares of
+empty sky.</original>
+			<edited>Flying units ignore all terrain effects,
+even passing through squares of
+empty sky.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MBSID_Magic" offset="00" relocatable="true" max_length="0">
+			<original>Mystical</original>
+			<edited>Mystical</edited>
+			<subEntries />
+		</entry>
+		<entry name="MBSID_H_Magic" offset="00" relocatable="true" max_length="0">
+			<original>Mystical units ignore opponents'
+Avo bonuses from terrain when
+attacking with magic.</original>
+			<edited>Mystical units ignore opponents'
+Avo bonuses from terrain when
+attacking with magic.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MBSID_Prana" offset="00" relocatable="true" max_length="0">
+			<original>Qi Adept</original>
+			<edited>Qi Adept</edited>
+			<subEntries />
+		</entry>
+		<entry name="MBSID_H_Prana" offset="00" relocatable="true" max_length="0">
+			<original>Qi adept units can use the Chain
+Guard command to redirect attacks
+on adjacent allies to themselves.</original>
+			<edited>Qi adept units can use the Chain
+Guard command to redirect attacks
+on adjacent allies to themselves.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MBSID_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>Dragon</original>
+			<edited>Dragon</edited>
+			<subEntries />
+		</entry>
+		<entry name="MBSID_H_Dragon" offset="00" relocatable="true" max_length="0">
+			<original>Dragon units gain additional effects
+when engaged with Emblems.</original>
+			<edited>Dragon units gain additional effects
+when engaged with Emblems.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

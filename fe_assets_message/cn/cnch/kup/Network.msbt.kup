@@ -1,0 +1,2128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_NET_SettingOn" offset="00" relocatable="true" max_length="0">
+			<original>是否使用通信功能？
+（将连接网络）</original>
+			<edited>是否使用通信功能？
+（将连接网络）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_TowerNetwork_On" offset="00" relocatable="true" max_length="0">
+			<original>可与其他玩家一起游玩。
+是否要使用通信功能？
+（将连接网络）</original>
+			<edited>可与其他玩家一起游玩。
+是否要使用通信功能？
+（将连接网络）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_RANKING_On" offset="00" relocatable="true" max_length="0">
+			<original>可查看其他玩家在此地图
+所使用的单位排行榜。
+是否要使用通信功能？
+（将连接网络）</original>
+			<edited>可查看其他玩家在此地图
+所使用的单位排行榜。
+是否要使用通信功能？
+（将连接网络）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_SettingOn_Yes" offset="00" relocatable="true" max_length="0">
+			<original>使用</original>
+			<edited>使用</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_Setting" offset="00" relocatable="true" max_length="0">
+			<original>环境设置中的通信功能尚未开启。</original>
+			<edited>环境设置中的通信功能尚未开启。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_Connecting" offset="00" relocatable="true" max_length="0">
+			<original>通信中</original>
+			<edited>通信中</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_Error_TROPE" offset="00" relocatable="true" max_length="0">
+			<original>通讯失败</original>
+			<edited>通讯失败</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_Connecting_Error" offset="00" relocatable="true" max_length="0">
+			<original>发生错误，
+请稍后重试。</original>
+			<edited>发生错误，
+请稍后重试。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_Title_Help" offset="00" relocatable="true" max_length="0">
+			<original>请选择要挑战的试炼。</original>
+			<edited>请选择要挑战的试炼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_Notes_Terms" offset="00" relocatable="true" max_length="0">
+			<original>“续战的试炼”与“异界的试炼”
+将会公开用户昵称。
+此外，神龙战历卡若设置为“公开”，
+个人卡片将会发送给对方。
+请勿作弊或做出使其他玩家不快的行为。
+共享的内容与游玩时的行为
+均适用《Nintendo Account使用条款》。
+游玩时请遵守规则并尊重其他玩家。</original>
+			<edited>“续战的试炼”与“异界的试炼”
+将会公开用户昵称。
+此外，神龙战历卡若设置为“公开”，
+个人卡片将会发送给对方。
+请勿作弊或做出使其他玩家不快的行为。
+共享的内容与游玩时的行为
+均适用《Nintendo Account使用条款》。
+游玩时请遵守规则并尊重其他玩家。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_Notes_Report" offset="00" relocatable="true" max_length="0">
+			<original>如发现违反《Nintendo Account使用条款》的
+内容与行为，服务器上的资料可能会被删除，
+或是线上游玩的连线会受到限制。
+只有出击前才可通过“系统”的“举报”功能
+举报不正当的内容与行为。</original>
+			<edited>如发现违反《Nintendo Account使用条款》的
+内容与行为，服务器上的资料可能会被删除，
+或是线上游玩的连线会受到限制。
+只有出击前才可通过“系统”的“举报”功能
+举报不正当的内容与行为。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Title" offset="00" relocatable="true" max_length="0">
+			<original>异界的试炼</original>
+			<edited>异界的试炼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Help" offset="00" relocatable="true" max_length="0">
+			<original>使用自己编辑或选择的地图
+与其他玩家的部队展开对战的试炼。
+（需连接至网络）</original>
+			<edited>使用自己编辑或选择的地图
+与其他玩家的部队展开对战的试炼。
+（需连接至网络）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Title_Help" offset="00" relocatable="true" max_length="0">
+			<original>请选择模式。</original>
+			<edited>请选择模式。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Title" offset="00" relocatable="true" max_length="0">
+			<original>续战的试炼</original>
+			<edited>续战的试炼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Help" offset="00" relocatable="true" max_length="0">
+			<original>如接力赛一般，
+与其他玩家合力挑战地图关卡的试炼。
+需要票券方可游玩。
+（需连接至网络）</original>
+			<edited>如接力赛一般，
+与其他玩家合力挑战地图关卡的试炼。
+需要票券方可游玩。
+（需连接至网络）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Title_Help" offset="00" relocatable="true" max_length="0">
+			<original>请选择试炼的开始方式</original>
+			<edited>请选择试炼的开始方式</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_Title" offset="00" relocatable="true" max_length="0">
+			<original>连战的试炼</original>
+			<edited>连战的试炼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_Help" offset="00" relocatable="true" max_length="0">
+			<original>连续挑战不同地图的试炼。
+挑战时可选择难度，
+难度越高，奖励越丰厚。</original>
+			<edited>连续挑战不同地图的试炼。
+挑战时可选择难度，
+难度越高，奖励越丰厚。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_Closed_Dialog" offset="00" relocatable="true" max_length="0">
+			<original>通关第11章后即可游玩“连战的试炼”。</original>
+			<edited>通关第11章后即可游玩“连战的试炼”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NETWORK_Map_Outline" offset="00" relocatable="true" max_length="0">
+			<original>地图信息</original>
+			<edited>地图信息</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NETWORK_Map_Name" offset="00" relocatable="true" max_length="0">
+			<original>地名</original>
+			<edited>地名</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NETWORK_Map_Name_Content" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;（&#xE;&#x1;&#x1;&#x0;）</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;（&#xE;&#x1;&#x1;&#x0;）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NETWORK_LimitTurn_Content" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;×&#xE;&#x1;&#x1;&#x0;人</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;×&#xE;&#x1;&#x1;&#x0;人</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NETWORK_Reward" offset="00" relocatable="true" max_length="0">
+			<original>奖励</original>
+			<edited>奖励</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NETWORK_Degree" offset="00" relocatable="true" max_length="0">
+			<original>称号</original>
+			<edited>称号</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NETWORK_Clear_Reward" offset="00" relocatable="true" max_length="0">
+			<original>过关奖励</original>
+			<edited>过关奖励</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NETWORK_Map_Select" offset="00" relocatable="true" max_length="0">
+			<original>选择地图</original>
+			<edited>选择地图</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NETWORK_BACK_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>是否要返回菜单画面？</original>
+			<edited>是否要返回菜单画面？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NETWORK_BACK_CONFIRM_YES" offset="00" relocatable="true" max_length="0">
+			<original>返回菜单画面</original>
+			<edited>返回菜单画面</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NETWORK_H_BACK_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>返回菜单画面。</original>
+			<edited>返回菜单画面。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_Error" offset="00" relocatable="true" max_length="0">
+			<original>发生错误。</original>
+			<edited>发生错误。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_NET_NFC_Error" offset="00" relocatable="true" max_length="0">
+			<original>已与可读取amiibo的手柄
+中断连接。</original>
+			<edited>已与可读取amiibo的手柄
+中断连接。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Easy" offset="00" relocatable="true" max_length="0">
+			<original>轻松对战</original>
+			<edited>轻松对战</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Easy" offset="00" relocatable="true" max_length="0">
+			<original>选择喜欢的地图，
+与其他玩家的部队展开对战。</original>
+			<edited>选择喜欢的地图，
+与其他玩家的部队展开对战。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Easy_TitleHelp" offset="00" relocatable="true" max_length="0">
+			<original>请选择要使用的地图。</original>
+			<edited>请选择要使用的地图。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_V001" offset="00" relocatable="true" max_length="0">
+			<original>深绿与水</original>
+			<edited>深绿与水</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_V002" offset="00" relocatable="true" max_length="0">
+			<original>水晶与炎</original>
+			<edited>水晶与炎</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_V003" offset="00" relocatable="true" max_length="0">
+			<original>炮台与要塞</original>
+			<edited>炮台与要塞</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_V004" offset="00" relocatable="true" max_length="0">
+			<original>壁垒与金</original>
+			<edited>壁垒与金</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_V005" offset="00" relocatable="true" max_length="0">
+			<original>守护神与柱</original>
+			<edited>守护神与柱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_V006" offset="00" relocatable="true" max_length="0">
+			<original>雪球与冰</original>
+			<edited>雪球与冰</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Search" offset="00" relocatable="true" max_length="0">
+			<original>搜索对手</original>
+			<edited>搜索对手</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Search_Help" offset="00" relocatable="true" max_length="0">
+			<original>请选择决定对战对手的方式。</original>
+			<edited>请选择决定对战对手的方式。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Random" offset="00" relocatable="true" max_length="0">
+			<original>随机</original>
+			<edited>随机</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Random" offset="00" relocatable="true" max_length="0">
+			<original>自动选择其他玩家的部队
+展开对战。</original>
+			<edited>自动选择其他玩家的部队
+展开对战。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Serious_H_Random" offset="00" relocatable="true" max_length="0">
+			<original>自动选择其他玩家的地图
+展开对战。
+（个人成绩依据胜负发生变化）</original>
+			<edited>自动选择其他玩家的地图
+展开对战。
+（个人成绩依据胜负发生变化）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Matching" offset="00" relocatable="true" max_length="0">
+			<original>已找到对战对手&#xE;&#x1;&#x0;&#x0;。</original>
+			<edited>已找到对战对手&#xE;&#x1;&#x0;&#x0;。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Matching_Empty" offset="00" relocatable="true" max_length="0">
+			<original>找不到对战对手。</original>
+			<edited>找不到对战对手。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Matching_Verification" offset="00" relocatable="true" max_length="0">
+			<original>是否要与&#xE;&#x1;&#x0;&#x0;对战？</original>
+			<edited>是否要与&#xE;&#x1;&#x0;&#x0;对战？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_NoData" offset="00" relocatable="true" max_length="0">
+			<original>找不到数据。</original>
+			<edited>找不到数据。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Friend" offset="00" relocatable="true" max_length="0">
+			<original>好友</original>
+			<edited>好友</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Friend" offset="00" relocatable="true" max_length="0">
+			<original>将显示好友的部队，
+可从中选择对战部队。</original>
+			<edited>将显示好友的部队，
+可从中选择对战部队。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Serious_H_Friend" offset="00" relocatable="true" max_length="0">
+			<original>将显示好友的地图，
+可从中选择对战地点。
+（无论胜负，个人成绩均不发生变化）</original>
+			<edited>将显示好友的地图，
+可从中选择对战地点。
+（无论胜负，个人成绩均不发生变化）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Friend_Select_Prompt" offset="00" relocatable="true" max_length="0">
+			<original>请选择好友</original>
+			<edited>请选择好友</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Friend_Select" offset="00" relocatable="true" max_length="0">
+			<original>选择好友</original>
+			<edited>选择好友</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Friend_Corps" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Friend_Code" offset="00" relocatable="true" max_length="0">
+			<original>输入ID</original>
+			<edited>输入ID</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Friend_Code" offset="00" relocatable="true" max_length="0">
+			<original>输入ID后，
+可与指定玩家的部队展开对战。</original>
+			<edited>输入ID后，
+可与指定玩家的部队展开对战。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Serious_H_Friend_Code" offset="00" relocatable="true" max_length="0">
+			<original>输入ID后，
+可用指定玩家的地图展开对战。
+（无论胜负，个人成绩均不发生变化）</original>
+			<edited>输入ID后，
+可用指定玩家的地图展开对战。
+（无论胜负，个人成绩均不发生变化）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Friend_Code_Input_Easy" offset="00" relocatable="true" max_length="0">
+			<original>请输入轻松对战的对手ID。</original>
+			<edited>请输入轻松对战的对手ID。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Friend_ID" offset="00" relocatable="true" max_length="0">
+			<original>确定搜索此ID吗？</original>
+			<edited>确定搜索此ID吗？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Friend_ID_Search" offset="00" relocatable="true" max_length="0">
+			<original>以此ID搜索</original>
+			<edited>以此ID搜索</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_My_ID_Attention" offset="00" relocatable="true" max_length="0">
+			<original>无法输入自己的对战ID。</original>
+			<edited>无法输入自己的对战ID。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Profile" offset="00" relocatable="true" max_length="0">
+			<original>战历卡</original>
+			<edited>战历卡</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Profile" offset="00" relocatable="true" max_length="0">
+			<original>可从目前持有的
+异界战历卡一览中选择。</original>
+			<edited>可从目前持有的
+异界战历卡一览中选择。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Serious_H_Profile" offset="00" relocatable="true" max_length="0">
+			<original>可从目前持有的
+异界战历卡一览中选择。
+（无论胜负，个人成绩均不产生变化）</original>
+			<edited>可从目前持有的
+异界战历卡一览中选择。
+（无论胜负，个人成绩均不产生变化）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Profile_Select_Prompt" offset="00" relocatable="true" max_length="0">
+			<original>请选择玩家</original>
+			<edited>请选择玩家</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Profile_Select" offset="00" relocatable="true" max_length="0">
+			<original>选择玩家</original>
+			<edited>选择玩家</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_ProfileCard_Match_NoProfile" offset="00" relocatable="true" max_length="0">
+			<original>没有可以对战的战历卡。</original>
+			<edited>没有可以对战的战历卡。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_MAP_Error" offset="00" relocatable="true" max_length="0">
+			<original>检测到下载数据发生错误，
+已中断对战。</original>
+			<edited>检测到下载数据发生错误，
+已中断对战。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Serious" offset="00" relocatable="true" max_length="0">
+			<original>正式对战</original>
+			<edited>正式对战</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Serious" offset="00" relocatable="true" max_length="0">
+			<original>可公开自己编辑的地图，
+也可把自己的地图与其他玩家
+公开的地图拼在一起对战。</original>
+			<edited>可公开自己编辑的地图，
+也可把自己的地图与其他玩家
+公开的地图拼在一起对战。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Serious_Attention" offset="00" relocatable="true" max_length="0">
+			<original>需要2个以上的我军单位
+才可游玩正式对战。</original>
+			<edited>需要2个以上的我军单位
+才可游玩正式对战。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Serious_OldMap" offset="00" relocatable="true" max_length="0">
+			<original>目前上传至服务器的地图资料
+比主机的地图资料旧，无法开始对战。
+请在“编辑地图”中
+上传最新的地图资料。</original>
+			<edited>目前上传至服务器的地图资料
+比主机的地图资料旧，无法开始对战。
+请在“编辑地图”中
+上传最新的地图资料。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Serious_Help" offset="00" relocatable="true" max_length="0">
+			<original>请选择要采取的行动。</original>
+			<edited>请选择要采取的行动。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Friend_Code_Input_Serious" offset="00" relocatable="true" max_length="0">
+			<original>请输入正式对战的对手ID。</original>
+			<edited>请输入正式对战的对手ID。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Battle_Start" offset="00" relocatable="true" max_length="0">
+			<original>开始对战</original>
+			<edited>开始对战</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Battle_Start" offset="00" relocatable="true" max_length="0">
+			<original>使用编辑的地图
+与其他玩家展开对战。</original>
+			<edited>使用编辑的地图
+与其他玩家展开对战。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Battle_Win" offset="00" relocatable="true" max_length="0">
+			<original>你获胜了！</original>
+			<edited>你获胜了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Battle_Lose" offset="00" relocatable="true" max_length="0">
+			<original>你败北了……</original>
+			<edited>你败北了……</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_GET_PIECE" offset="00" relocatable="true" max_length="0">
+			<original>获得了&#xE;&#x1;&#x1;&#x0;个&#xE;&#x1;&#x0;&#x0;牵绊碎片。</original>
+			<edited>获得了&#xE;&#x1;&#x1;&#x0;个&#xE;&#x1;&#x0;&#x0;牵绊碎片。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_GET_GOLD" offset="00" relocatable="true" max_length="0">
+			<original>获得了&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;G。</original>
+			<edited>获得了&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;G。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_GET_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>获得了&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;。</original>
+			<edited>获得了&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_GET_ITEM_PLURAL" offset="00" relocatable="true" max_length="0">
+			<original>获得了&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;×&#xE;&#x1;&#x2;&#x0;。</original>
+			<edited>获得了&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;×&#xE;&#x1;&#x2;&#x0;。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_EditName" offset="00" relocatable="true" max_length="0">
+			<original>准备防卫</original>
+			<edited>准备防卫</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit" offset="00" relocatable="true" max_length="0">
+			<original>编辑地图</original>
+			<edited>编辑地图</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Edit" offset="00" relocatable="true" max_length="0">
+			<original>制作对战用的地图
+并设置防卫部队。</original>
+			<edited>制作对战用的地图
+并设置防卫部队。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Reset" offset="00" relocatable="true" max_length="0">
+			<original>重置地图</original>
+			<edited>重置地图</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Reset" offset="00" relocatable="true" max_length="0">
+			<original>重置当前的配置信息。</original>
+			<edited>重置当前的配置信息。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Reset_Confirmation" offset="00" relocatable="true" max_length="0">
+			<original>是否要重置当前的配置信息？</original>
+			<edited>是否要重置当前的配置信息？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Save" offset="00" relocatable="true" max_length="0">
+			<original>保存地图</original>
+			<edited>保存地图</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Save" offset="00" relocatable="true" max_length="0">
+			<original>保存编辑的地图</original>
+			<edited>保存编辑的地图</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit_Finish" offset="00" relocatable="true" max_length="0">
+			<original>结束编辑</original>
+			<edited>结束编辑</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Edit_Finish" offset="00" relocatable="true" max_length="0">
+			<original>结束编辑地图</original>
+			<edited>结束编辑地图</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit_Finish_Confirmation" offset="00" relocatable="true" max_length="0">
+			<original>是否要直接结束编辑？</original>
+			<edited>是否要直接结束编辑？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit_Finish_Confirmation_NoSave" offset="00" relocatable="true" max_length="0">
+			<original>地图尚未保存，确定要结束编辑吗？</original>
+			<edited>地图尚未保存，确定要结束编辑吗？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit_Finish_Confirmation_Yes" offset="00" relocatable="true" max_length="0">
+			<original>结束</original>
+			<edited>结束</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit_Finish_Confirmation_No" offset="00" relocatable="true" max_length="0">
+			<original>继续</original>
+			<edited>继续</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_HealPanel_Duplicated" offset="00" relocatable="true" max_length="0">
+			<original>同一时间只能设置一个
+回复地板或防卫地板。</original>
+			<edited>同一时间只能设置一个
+回复地板或防卫地板。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Cannon_Duplicated" offset="00" relocatable="true" max_length="0">
+			<original>同一时间只能设置一个
+弓弩炮台、魔炮台或火炎炮台。</original>
+			<edited>同一时间只能设置一个
+弓弩炮台、魔炮台或火炎炮台。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Save_Error" offset="00" relocatable="true" max_length="0">
+			<original>无法保存已编辑的地图。
+&#xE;&#x1;&#x0;&#x0;</original>
+			<edited>无法保存已编辑的地图。
+&#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Save_Error_NoUnit" offset="00" relocatable="true" max_length="0">
+			<original>请至少配置1个出击单位。</original>
+			<edited>请至少配置1个出击单位。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Save_Error_AllUnit" offset="00" relocatable="true" max_length="0">
+			<original>所有单位均已配置到防卫战之中，
+没有其余可出击的单位。</original>
+			<edited>所有单位均已配置到防卫战之中，
+没有其余可出击的单位。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Serious_Error_AllUnit" offset="00" relocatable="true" max_length="0">
+			<original>没有可编组至攻击部队的单位。
+请于编辑地图减少防卫部队
+所编组的单位数量。</original>
+			<edited>没有可编组至攻击部队的单位。
+请于编辑地图减少防卫部队
+所编组的单位数量。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Save_Error_BanAreaUnit" offset="00" relocatable="true" max_length="0">
+			<original>有单位被配置在无法抵达的地方。</original>
+			<edited>有单位被配置在无法抵达的地方。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Save_Error_InvalidData" offset="00" relocatable="true" max_length="0">
+			<original>数据涉嫌违规，
+无法保存。</original>
+			<edited>数据涉嫌违规，
+无法保存。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Save_Success" offset="00" relocatable="true" max_length="0">
+			<original>已保存编辑后的地图。</original>
+			<edited>已保存编辑后的地图。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_UpRoad" offset="00" relocatable="true" max_length="0">
+			<original>是否要将此地图公开给其他玩家，
+并作为防卫战地图上传至服务器？
+
+（将会覆盖已上传的地图。）
+（即使拥有多个保存数据，
+一个Nintendo Account依然只能上传一张地图。）</original>
+			<edited>是否要将此地图公开给其他玩家，
+并作为防卫战地图上传至服务器？
+
+（将会覆盖已上传的地图。）
+（即使拥有多个保存数据，
+一个Nintendo Account依然只能上传一张地图。）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_UpRoad_Yes" offset="00" relocatable="true" max_length="0">
+			<original>上传</original>
+			<edited>上传</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_UpRoad_No" offset="00" relocatable="true" max_length="0">
+			<original>取消</original>
+			<edited>取消</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_UpRoad_Success" offset="00" relocatable="true" max_length="0">
+			<original>上传成功。</original>
+			<edited>上传成功。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_UpRoad_Failure" offset="00" relocatable="true" max_length="0">
+			<original>上传失败。</original>
+			<edited>上传失败。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Unit_Duplicate" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;已配置到防卫战之中。</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;已配置到防卫战之中。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit_AI_NotMove" offset="00" relocatable="true" max_length="0">
+			<original>待命战术</original>
+			<edited>待命战术</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Edit_AI_NotMove" offset="00" relocatable="true" max_length="0">
+			<original>停留在初始位置。</original>
+			<edited>停留在初始位置。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit_AI_Defense" offset="00" relocatable="true" max_length="0">
+			<original>防卫战术</original>
+			<edited>防卫战术</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Edit_AI_Defense" offset="00" relocatable="true" max_length="0">
+			<original>迎击攻击范围内的敌人。</original>
+			<edited>迎击攻击范围内的敌人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit_AI_Rush" offset="00" relocatable="true" max_length="0">
+			<original>突击战术</original>
+			<edited>突击战术</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Edit_AI_Rush" offset="00" relocatable="true" max_length="0">
+			<original>从范围内较弱的敌人开始突击。</original>
+			<edited>从范围内较弱的敌人开始突击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit_AI_ResponseA" offset="00" relocatable="true" max_length="0">
+			<original>连携战术A</original>
+			<edited>连携战术A</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Edit_AI_ResponseA" offset="00" relocatable="true" max_length="0">
+			<original>当敌人进入A队的攻击范围
+就展开行动。</original>
+			<edited>当敌人进入A队的攻击范围
+就展开行动。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit_AI_ResponseB" offset="00" relocatable="true" max_length="0">
+			<original>连携战术B</original>
+			<edited>连携战术B</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Edit_AI_ResponseB" offset="00" relocatable="true" max_length="0">
+			<original>当敌人进入B队的攻击范围
+就展开行动。</original>
+			<edited>当敌人进入B队的攻击范围
+就展开行动。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Edit_AI_ResponseC" offset="00" relocatable="true" max_length="0">
+			<original>连携战术C</original>
+			<edited>连携战术C</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Edit_AI_ResponseC" offset="00" relocatable="true" max_length="0">
+			<original>当敌人进入C队的攻击范围
+就展开行动。</original>
+			<edited>当敌人进入C队的攻击范围
+就展开行动。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Map_Replay" offset="00" relocatable="true" max_length="0">
+			<original>查看结果</original>
+			<edited>查看结果</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Map_Replay" offset="00" relocatable="true" max_length="0">
+			<original>可在此查看防卫战的结果
+或观看重播。</original>
+			<edited>可在此查看防卫战的结果
+或观看重播。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_History" offset="00" relocatable="true" max_length="0">
+			<original>你公开的地图遭到攻击，
+展开了防卫战。
+是否要重播防卫战并确认结果？</original>
+			<edited>你公开的地图遭到攻击，
+展开了防卫战。
+是否要重播防卫战并确认结果？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_NoHistory" offset="00" relocatable="true" max_length="0">
+			<original>你公开的地图没有出现防卫战。</original>
+			<edited>你公开的地图没有出现防卫战。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_MockCombat" offset="00" relocatable="true" max_length="0">
+			<original>模拟战</original>
+			<edited>模拟战</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_MockCombat" offset="00" relocatable="true" max_length="0">
+			<original>可测试自己编辑的地图
+并查看内容。</original>
+			<edited>可测试自己编辑的地图
+并查看内容。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Surrender" offset="00" relocatable="true" max_length="0">
+			<original>投降</original>
+			<edited>投降</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_H_Surrender" offset="00" relocatable="true" max_length="0">
+			<original>投降并返回菜单。</original>
+			<edited>投降并返回菜单。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Surrender_Attention" offset="00" relocatable="true" max_length="0">
+			<original>是否要投降？
+（此战将视为败北）</original>
+			<edited>是否要投降？
+（此战将视为败北）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Surrender_Yes" offset="00" relocatable="true" max_length="0">
+			<original>投降</original>
+			<edited>投降</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_MyRate" offset="00" relocatable="true" max_length="0">
+			<original>个人成绩</original>
+			<edited>个人成绩</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_ID" offset="00" relocatable="true" max_length="0">
+			<original>对战ID</original>
+			<edited>对战ID</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Victory" offset="00" relocatable="true" max_length="0">
+			<original>VICTORY!</original>
+			<edited>VICTORY!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MATCH_Defeat" offset="00" relocatable="true" max_length="0">
+			<original>DEFEAT</original>
+			<edited>DEFEAT</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>举报</original>
+			<edited>举报</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_MAP_DELETE" offset="00" relocatable="true" max_length="0">
+			<original>您上传的地图因被举报，
+已被删除。</original>
+			<edited>您上传的地图因被举报，
+已被删除。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_TITLE_HELP" offset="00" relocatable="true" max_length="0">
+			<original>举报含不恰当内容的地图</original>
+			<edited>举报含不恰当内容的地图</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_NOTES" offset="00" relocatable="true" max_length="0">
+			<original>您打算举报含有违反
+《Nintendo Account使用条款》内容的地图。
+
+您的举报内容会发送到任天堂客服中心，
+公开该地图的玩家并不会收到通知。</original>
+			<edited>您打算举报含有违反
+《Nintendo Account使用条款》内容的地图。
+
+您的举报内容会发送到任天堂客服中心，
+公开该地图的玩家并不会收到通知。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT__CONFIRM_DIALOG" offset="00" relocatable="true" max_length="0">
+			<original>要用此内容举报吗？</original>
+			<edited>要用此内容举报吗？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT__CONFIRM_DIALOG_YES" offset="00" relocatable="true" max_length="0">
+			<original>举报</original>
+			<edited>举报</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_CATEGORY_SELECT" offset="00" relocatable="true" max_length="0">
+			<original>请选择举报分类。</original>
+			<edited>请选择举报分类。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_MAP" offset="00" relocatable="true" max_length="0">
+			<original>要举报的地图</original>
+			<edited>要举报的地图</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_CATEGORY" offset="00" relocatable="true" max_length="0">
+			<original>举报分类</original>
+			<edited>举报分类</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_REASON" offset="00" relocatable="true" max_length="0">
+			<original>举报理由</original>
+			<edited>举报理由</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_REASON_INPUT" offset="00" relocatable="true" max_length="0">
+			<original>请填写举报理由。</original>
+			<edited>请填写举报理由。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_CATEGORY_PERSONAL" offset="00" relocatable="true" max_length="0">
+			<original>个人信息、约会目的的内容</original>
+			<edited>个人信息、约会目的的内容</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_CATEGORY_CRIMINAL" offset="00" relocatable="true" max_length="0">
+			<original>含有暴力表现的内容</original>
+			<edited>含有暴力表现的内容</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_CATEGORY_IMMORAL" offset="00" relocatable="true" max_length="0">
+			<original>违反公序良俗的内容</original>
+			<edited>违反公序良俗的内容</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_CATEGORY_HARASSMENT" offset="00" relocatable="true" max_length="0">
+			<original>含有诽谤或歧视性的内容</original>
+			<edited>含有诽谤或歧视性的内容</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_CATEGORY_COMMERCIAL" offset="00" relocatable="true" max_length="0">
+			<original>含有营利及宣传目的的内容</original>
+			<edited>含有营利及宣传目的的内容</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_CATEGORY_SEXUALLY_EXPLICIT" offset="00" relocatable="true" max_length="0">
+			<original>含有猥亵表现的内容</original>
+			<edited>含有猥亵表现的内容</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_CATEGORY_OTHER" offset="00" relocatable="true" max_length="0">
+			<original>其他不恰当内容</original>
+			<edited>其他不恰当内容</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_REPORT_RESULT" offset="00" relocatable="true" max_length="0">
+			<original>已完成举报，
+客服中心将对您发送的信息进行核实。</original>
+			<edited>已完成举报，
+客服中心将对您发送的信息进行核实。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Ticket" offset="00" relocatable="true" max_length="0">
+			<original>得到了&#xE;&#x1;&#x0;&#x0;张“续战开打票券”。</original>
+			<edited>得到了&#xE;&#x1;&#x0;&#x0;张“续战开打票券”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Ticket_Stock" offset="00" relocatable="true" max_length="0">
+			<original>续战开打票券</original>
+			<edited>续战开打票券</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_NewData" offset="00" relocatable="true" max_length="0">
+			<original>开始新的战斗</original>
+			<edited>开始新的战斗</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_H_NewData" offset="00" relocatable="true" max_length="0">
+			<original>消耗票券制作新的数据，
+并从最初的地图展开试炼。</original>
+			<edited>消耗票券制作新的数据，
+并从最初的地图展开试炼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_TakeOver_START_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>是否要开始战斗？
+（同时将确定我方配置）</original>
+			<edited>是否要开始战斗？
+（同时将确定我方配置）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Unit_Select" offset="00" relocatable="true" max_length="0">
+			<original>请将出击单位设为&#xE;&#x1;&#x0;&#x0;人。
+（可在“编组单位”中选择要追加的单位并派其出击。）</original>
+			<edited>请将出击单位设为&#xE;&#x1;&#x0;&#x0;人。
+（可在“编组单位”中选择要追加的单位并派其出击。）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Ticket_Lack" offset="00" relocatable="true" max_length="0">
+			<original>没有足够的票券，无法开始新的战斗。</original>
+			<edited>没有足够的票券，无法开始新的战斗。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Unit_Lack" offset="00" relocatable="true" max_length="0">
+			<original>单位数量不足，无法游玩。</original>
+			<edited>单位数量不足，无法游玩。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_TakeOver" offset="00" relocatable="true" max_length="0">
+			<original>继承</original>
+			<edited>继承</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_H_TakeOver" offset="00" relocatable="true" max_length="0">
+			<original>继承其他玩家的数据，
+并从地图的中途展开试炼。</original>
+			<edited>继承其他玩家的数据，
+并从地图的中途展开试炼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_TakeOver_Outline" offset="00" relocatable="true" max_length="0">
+			<original>继承内容</original>
+			<edited>继承内容</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_TakeOver_Empty" offset="00" relocatable="true" max_length="0">
+			<original>没有可继承的数据</original>
+			<edited>没有可继承的数据</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Joining_players" offset="00" relocatable="true" max_length="0">
+			<original>参与玩家</original>
+			<edited>参与玩家</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_TakeOver_Help" offset="00" relocatable="true" max_length="0">
+			<original>请选择搜索数据的方式。</original>
+			<edited>请选择搜索数据的方式。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_TakeOver_ID" offset="00" relocatable="true" max_length="0">
+			<original>继承ID</original>
+			<edited>继承ID</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Random" offset="00" relocatable="true" max_length="0">
+			<original>随机</original>
+			<edited>随机</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_H_Random" offset="00" relocatable="true" max_length="0">
+			<original>将会自动选择其他玩家的数据，
+并在继承后开始游玩。</original>
+			<edited>将会自动选择其他玩家的数据，
+并在继承后开始游玩。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_ID_Search" offset="00" relocatable="true" max_length="0">
+			<original>输入ID</original>
+			<edited>输入ID</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_H_ID_Search" offset="00" relocatable="true" max_length="0">
+			<original>可输入ID继承指定玩家的数据，
+并开始游玩。</original>
+			<edited>可输入ID继承指定玩家的数据，
+并开始游玩。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_ID_Input" offset="00" relocatable="true" max_length="0">
+			<original>请输入继承ID。</original>
+			<edited>请输入继承ID。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_ID_Search_Attention" offset="00" relocatable="true" max_length="0">
+			<original>是否要以此继承ID搜索？
+“&#xE;&#x1;&#x0;&#x0;”</original>
+			<edited>是否要以此继承ID搜索？
+“&#xE;&#x1;&#x0;&#x0;”</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_ID_Search_OK" offset="00" relocatable="true" max_length="0">
+			<original>搜索</original>
+			<edited>搜索</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Data_Error" offset="00" relocatable="true" max_length="0">
+			<original>未能找到数据。</original>
+			<edited>未能找到数据。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_ID_Search_MyMap_Error" offset="00" relocatable="true" max_length="0">
+			<original>无法继承自己开启的地图。</original>
+			<edited>无法继承自己开启的地图。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_ID_Search_Again_Error" offset="00" relocatable="true" max_length="0">
+			<original>已游玩该地图，无法继承。</original>
+			<edited>已游玩该地图，无法继承。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_ID_Search_Finish_Error" offset="00" relocatable="true" max_length="0">
+			<original>该地图已经结束，无法继承。</original>
+			<edited>该地图已经结束，无法继承。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_ID_Search_Other_Error" offset="00" relocatable="true" max_length="0">
+			<original>其他玩家正在游玩，无法继承。
+（上传游玩结果或经过24小时即可继承）</original>
+			<edited>其他玩家正在游玩，无法继承。
+（上传游玩结果或经过24小时即可继承）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_ID_Search_Error" offset="00" relocatable="true" max_length="0">
+			<original>无法继承该数据。</original>
+			<edited>无法继承该数据。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_ID_Search_NoData" offset="00" relocatable="true" max_length="0">
+			<original>无法取得数据。
+该数据距离最后的更新已经过一段时间，
+有可能已被删除。</original>
+			<edited>无法取得数据。
+该数据距离最后的更新已经过一段时间，
+有可能已被删除。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay" offset="00" relocatable="true" max_length="0">
+			<original>查看结果</original>
+			<edited>查看结果</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_H_Replay" offset="00" relocatable="true" max_length="0">
+			<original>可查看参与数据中的游玩结果并领取奖励，
+也可观看重播记录。
+（战斗结束前重播记录只播到当前进度。）</original>
+			<edited>可查看参与数据中的游玩结果并领取奖励，
+也可观看重播记录。
+（战斗结束前重播记录只播到当前进度。）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Map_Select" offset="00" relocatable="true" max_length="0">
+			<original>请选择要挑战的地图</original>
+			<edited>请选择要挑战的地图</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_Select" offset="00" relocatable="true" max_length="0">
+			<original>参与过的战斗</original>
+			<edited>参与过的战斗</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_Datetime" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;/&#xE;&#x1;&#x1;&#x0;/&#xE;&#x1;&#x2;&#x0; &#xE;&#x1;&#x3;&#x0;:&#xE;&#x1;&#x4;&#x0;</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;/&#xE;&#x1;&#x1;&#x0;/&#xE;&#x1;&#x2;&#x0; &#xE;&#x1;&#x3;&#x0;:&#xE;&#x1;&#x4;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_Select_Prompt" offset="00" relocatable="true" max_length="0">
+			<original>请选择要查看的记录数据</original>
+			<edited>请选择要查看的记录数据</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Reselect" offset="00" relocatable="true" max_length="0">
+			<original>该数据已被其他玩家继承，
+请选择其他数据。</original>
+			<edited>该数据已被其他玩家继承，
+请选择其他数据。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_Empty" offset="00" relocatable="true" max_length="0">
+			<original>没有可观看的回放记录数据。
+（数据在经过一定期间后会被删除）</original>
+			<edited>没有可观看的回放记录数据。
+（数据在经过一定期间后会被删除）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_NotUpdate" offset="00" relocatable="true" max_length="0">
+			<original>已被其他玩家的游玩纪录更新，
+无法进行更新。</original>
+			<edited>已被其他玩家的游玩纪录更新，
+无法进行更新。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_NotSeeYet" offset="00" relocatable="true" max_length="0">
+			<original>没有续战的试炼的参战数据</original>
+			<edited>没有续战的试炼的参战数据</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_Beginning_NoFinish" offset="00" relocatable="true" max_length="0">
+			<original>要观看目前的重播记录吗？
+（由于尚未分出胜负，中途就会结束地图。）</original>
+			<edited>要观看目前的重播记录吗？
+（由于尚未分出胜负，中途就会结束地图。）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_Beginning_NoFinish_Yes" offset="00" relocatable="true" max_length="0">
+			<original>观看</original>
+			<edited>观看</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_Beginning" offset="00" relocatable="true" max_length="0">
+			<original>是否要观看重播记录？</original>
+			<edited>是否要观看重播记录？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_Beginning_Yes" offset="00" relocatable="true" max_length="0">
+			<original>观看</original>
+			<edited>观看</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_Beginning_No" offset="00" relocatable="true" max_length="0">
+			<original>只看结果</original>
+			<edited>只看结果</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Replay_Reward_Received" offset="00" relocatable="true" max_length="0">
+			<original>已领取过此次续战的奖励。</original>
+			<edited>已领取过此次续战的奖励。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_UpdateContents_Attention" offset="00" relocatable="true" max_length="0">
+			<original>请设置是否公开自己已游玩的数据。
+“公开”：任何人都可继承此数据。
+“非公开”：只能通过输入ID继承。</original>
+			<edited>请设置是否公开自己已游玩的数据。
+“公开”：任何人都可继承此数据。
+“非公开”：只能通过输入ID继承。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_UpdateContents_Yes" offset="00" relocatable="true" max_length="0">
+			<original>公开</original>
+			<edited>公开</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_UpdateContents_No" offset="00" relocatable="true" max_length="0">
+			<original>非公开</original>
+			<edited>非公开</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_MyMap_ID" offset="00" relocatable="true" max_length="0">
+			<original>“&#xE;&#x1;&#x0;&#x0;”
+这是此数据的继承ID。
+如果想让特定对象继承此数据，
+请告知对方此ID。</original>
+			<edited>“&#xE;&#x1;&#x0;&#x0;”
+这是此数据的继承ID。
+如果想让特定对象继承此数据，
+请告知对方此ID。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Redo" offset="00" relocatable="true" max_length="0">
+			<original>是否要重新尝试通信？</original>
+			<edited>是否要重新尝试通信？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_PlayUser" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;正在游玩……</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;正在游玩……</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_UserMessage" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;发来的消息</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;发来的消息</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_PlayerChange" offset="00" relocatable="true" max_length="0">
+			<original>PLAYER CHANGE !!</original>
+			<edited>PLAYER CHANGE !!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Win" offset="00" relocatable="true" max_length="0">
+			<original>胜利</original>
+			<edited>胜利</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Lose" offset="00" relocatable="true" max_length="0">
+			<original>败北</original>
+			<edited>败北</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_FinalRecord" offset="00" relocatable="true" max_length="0">
+			<original>最终结果</original>
+			<edited>最终结果</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_UpRoad" offset="00" relocatable="true" max_length="0">
+			<original>上传此信息</original>
+			<edited>上传此信息</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Failure" offset="00" relocatable="true" max_length="0">
+			<original>TRIAL FAILURE</original>
+			<edited>TRIAL FAILURE</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_OPEN_N006" offset="00" relocatable="true" max_length="0">
+			<original>可以在续战的试炼中
+选择“熔岩地带”了。</original>
+			<edited>可以在续战的试炼中
+选择“熔岩地带”了。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_N001_1" offset="00" relocatable="true" max_length="0">
+			<original>草原地带</original>
+			<edited>草原地带</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_N002_1" offset="00" relocatable="true" max_length="0">
+			<original>花田地带</original>
+			<edited>花田地带</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_N003_1" offset="00" relocatable="true" max_length="0">
+			<original>山丘地带</original>
+			<edited>山丘地带</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_N004_1" offset="00" relocatable="true" max_length="0">
+			<original>森林地带</original>
+			<edited>森林地带</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_N005_1" offset="00" relocatable="true" max_length="0">
+			<original>沙漠地带</original>
+			<edited>沙漠地带</edited>
+			<subEntries />
+		</entry>
+		<entry name="MCID_N006_1" offset="00" relocatable="true" max_length="0">
+			<original>熔岩地带</original>
+			<edited>熔岩地带</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_All" offset="00" relocatable="true" max_length="0">
+			<original>所有参加者</original>
+			<edited>所有参加者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Regret" offset="00" relocatable="true" max_length="0">
+			<original>安慰奖</original>
+			<edited>安慰奖</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Kill" offset="00" relocatable="true" max_length="0">
+			<original>击败最多敌人</original>
+			<edited>击败最多敌人</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Damage" offset="00" relocatable="true" max_length="0">
+			<original>受到最多伤害</original>
+			<edited>受到最多伤害</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Recovered" offset="00" relocatable="true" max_length="0">
+			<original>回复最多我方单位</original>
+			<edited>回复最多我方单位</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Break" offset="00" relocatable="true" max_length="0">
+			<original>最常“打破”敌人</original>
+			<edited>最常“打破”敌人</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Engage" offset="00" relocatable="true" max_length="0">
+			<original>最常使用“结合”</original>
+			<edited>最常使用“结合”</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Item" offset="00" relocatable="true" max_length="0">
+			<original>最常使用道具</original>
+			<edited>最常使用道具</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Poison" offset="00" relocatable="true" max_length="0">
+			<original>最常使敌人中毒</original>
+			<edited>最常使敌人中毒</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_LongWalk" offset="00" relocatable="true" max_length="0">
+			<original>移动距离最长</original>
+			<edited>移动距离最长</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Skill" offset="00" relocatable="true" max_length="0">
+			<original>最常发动特技</original>
+			<edited>最常发动特技</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Invisible" offset="00" relocatable="true" max_length="0">
+			<original>没有受到任何伤害</original>
+			<edited>没有受到任何伤害</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Critical" offset="00" relocatable="true" max_length="0">
+			<original>最常发动“必杀攻击”</original>
+			<edited>最常发动“必杀攻击”</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_SpecialAttack" offset="00" relocatable="true" max_length="0">
+			<original>最常发动“克制”</original>
+			<edited>最常发动“克制”</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_EngageAttack" offset="00" relocatable="true" max_length="0">
+			<original>最常发动“结合技”</original>
+			<edited>最常发动“结合技”</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_ChainGuard" offset="00" relocatable="true" max_length="0">
+			<original>最常发动“连锁防御”</original>
+			<edited>最常发动“连锁防御”</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Smash" offset="00" relocatable="true" max_length="0">
+			<original>最常发动“猛击”</original>
+			<edited>最常发动“猛击”</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Adjacent" offset="00" relocatable="true" max_length="0">
+			<original>最常对相邻敌人发动攻击</original>
+			<edited>最常对相邻敌人发动攻击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Indirect" offset="00" relocatable="true" max_length="0">
+			<original>最常对敌人发动间接攻击</original>
+			<edited>最常对敌人发动间接攻击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_NoKill" offset="00" relocatable="true" max_length="0">
+			<original>破敌数虽少，但攻击次数多</original>
+			<edited>破敌数虽少，但攻击次数多</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_ChainAttack" offset="00" relocatable="true" max_length="0">
+			<original>最常发动“连锁攻击”</original>
+			<edited>最常发动“连锁攻击”</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Sabotage_Comment" offset="00" relocatable="true" max_length="0">
+			<original>行动不拖泥带水</original>
+			<edited>行动不拖泥带水</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_MyPace" offset="00" relocatable="true" max_length="0">
+			<original>移动距离最短</original>
+			<edited>移动距离最短</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Strike" offset="00" relocatable="true" max_length="0">
+			<original>对敌人造成的伤害最少</original>
+			<edited>对敌人造成的伤害最少</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Count_Standby" offset="00" relocatable="true" max_length="0">
+			<original>最常选择“待命”</original>
+			<edited>最常选择“待命”</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_TroubleMaker" offset="00" relocatable="true" max_length="0">
+			<original>受到最多我方单位的回复</original>
+			<edited>受到最多我方单位的回复</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Sabotage_Unlucky" offset="00" relocatable="true" max_length="0">
+			<original>最常被敌人用“特技”攻击</original>
+			<edited>最常被敌人用“特技”攻击</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Kill" offset="00" relocatable="true" max_length="0">
+			<original>歼灭者</original>
+			<edited>歼灭者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Damage" offset="00" relocatable="true" max_length="0">
+			<original>求生专家</original>
+			<edited>求生专家</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Recovered" offset="00" relocatable="true" max_length="0">
+			<original>治愈大师</original>
+			<edited>治愈大师</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Break" offset="00" relocatable="true" max_length="0">
+			<original>打破大师</original>
+			<edited>打破大师</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Engage" offset="00" relocatable="true" max_length="0">
+			<original>结合大师</original>
+			<edited>结合大师</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Item" offset="00" relocatable="true" max_length="0">
+			<original>道具大师</original>
+			<edited>道具大师</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Poison" offset="00" relocatable="true" max_length="0">
+			<original>毒药大师</original>
+			<edited>毒药大师</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_LongWalk" offset="00" relocatable="true" max_length="0">
+			<original>长跑冠军</original>
+			<edited>长跑冠军</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Skill" offset="00" relocatable="true" max_length="0">
+			<original>特技大师</original>
+			<edited>特技大师</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_NoDamage" offset="00" relocatable="true" max_length="0">
+			<original>毫发无损</original>
+			<edited>毫发无损</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Critical" offset="00" relocatable="true" max_length="0">
+			<original>必杀大师</original>
+			<edited>必杀大师</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_SpecialAttack" offset="00" relocatable="true" max_length="0">
+			<original>弱点猎人</original>
+			<edited>弱点猎人</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_EngageAttack" offset="00" relocatable="true" max_length="0">
+			<original>一心同体</original>
+			<edited>一心同体</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_ChainGuard" offset="00" relocatable="true" max_length="0">
+			<original>保卫者</original>
+			<edited>保卫者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Smash" offset="00" relocatable="true" max_length="0">
+			<original>猛击者</original>
+			<edited>猛击者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Adjacent" offset="00" relocatable="true" max_length="0">
+			<original>积极参战</original>
+			<edited>积极参战</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Indirect" offset="00" relocatable="true" max_length="0">
+			<original>优雅助战</original>
+			<edited>优雅助战</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_NoKill" offset="00" relocatable="true" max_length="0">
+			<original>支援大师</original>
+			<edited>支援大师</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_ChainAttack" offset="00" relocatable="true" max_length="0">
+			<original>连锁攻击能手</original>
+			<edited>连锁攻击能手</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Sabotage" offset="00" relocatable="true" max_length="0">
+			<original>游刃有余</original>
+			<edited>游刃有余</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_EnergySaving" offset="00" relocatable="true" max_length="0">
+			<original>我行我素</original>
+			<edited>我行我素</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Peace" offset="00" relocatable="true" max_length="0">
+			<original>爱好和平</original>
+			<edited>爱好和平</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Standby" offset="00" relocatable="true" max_length="0">
+			<original>无业游民</original>
+			<edited>无业游民</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_Protected" offset="00" relocatable="true" max_length="0">
+			<original>备受关照</original>
+			<edited>备受关照</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Award_SkillTarget" offset="00" relocatable="true" max_length="0">
+			<original>厄运缠身</original>
+			<edited>厄运缠身</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Message" offset="00" relocatable="true" max_length="0">
+			<original>留给下个玩家的信息</original>
+			<edited>留给下个玩家的信息</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Lueur_M_0" offset="00" relocatable="true" max_length="0">
+			<original>之后就交给你了。</original>
+			<edited>之后就交给你了。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Lueur_F_0" offset="00" relocatable="true" max_length="0">
+			<original>很高兴能与你并肩作战。</original>
+			<edited>很高兴能与你并肩作战。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Vandre_0" offset="00" relocatable="true" max_length="0">
+			<original>行军时请务必慎重小心。</original>
+			<edited>行军时请务必慎重小心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Clan_0" offset="00" relocatable="true" max_length="0">
+			<original>战况复杂到我都头昏眼花了……</original>
+			<edited>战况复杂到我都头昏眼花了……</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Fram_0" offset="00" relocatable="true" max_length="0">
+			<original>我很期待看到你的高超神技！</original>
+			<edited>我很期待看到你的高超神技！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Alfred_0" offset="00" relocatable="true" max_length="0">
+			<original>是时候秀出你锻炼的成果了！</original>
+			<edited>是时候秀出你锻炼的成果了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Boucheron_0" offset="00" relocatable="true" max_length="0">
+			<original>我的眼泪都要掉下来了……</original>
+			<edited>我的眼泪都要掉下来了……</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Etie_0" offset="00" relocatable="true" max_length="0">
+			<original>我们一起度过这个难关吧！</original>
+			<edited>我们一起度过这个难关吧！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Celine_0" offset="00" relocatable="true" max_length="0">
+			<original>我很需要你的力量。</original>
+			<edited>我很需要你的力量。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Louis_0" offset="00" relocatable="true" max_length="0">
+			<original>我会一直看着你。</original>
+			<edited>我会一直看着你。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Chloe_0" offset="00" relocatable="true" max_length="0">
+			<original>你打算派出什么样的配对呢？</original>
+			<edited>你打算派出什么样的配对呢？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Diamand_0" offset="00" relocatable="true" max_length="0">
+			<original>让我们合力突破重围吧。</original>
+			<edited>让我们合力突破重围吧。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Umber_0" offset="00" relocatable="true" max_length="0">
+			<original>我们会成为传说！</original>
+			<edited>我们会成为传说！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Jade_0" offset="00" relocatable="true" max_length="0">
+			<original>……感觉会很有趣呢。</original>
+			<edited>……感觉会很有趣呢。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Staluke_0" offset="00" relocatable="true" max_length="0">
+			<original>对不起，我搞砸了，我会马上消失。</original>
+			<edited>对不起，我搞砸了，我会马上消失。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Lapis_0" offset="00" relocatable="true" max_length="0">
+			<original>就用力量来一决胜负吧！</original>
+			<edited>就用力量来一决胜负吧！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Citrinica_0" offset="00" relocatable="true" max_length="0">
+			<original>我会用最华丽的方式帮你加油的。</original>
+			<edited>我会用最华丽的方式帮你加油的。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Ivy_0" offset="00" relocatable="true" max_length="0">
+			<original>你一定能做得到……</original>
+			<edited>你一定能做得到……</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Zelkova_0" offset="00" relocatable="true" max_length="0">
+			<original>你要如何“破解”这个“局面”呢？</original>
+			<edited>你要如何“破解”这个“局面”呢？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Kagetsu_0" offset="00" relocatable="true" max_length="0">
+			<original>今天起我们就是朋友了！请多指教！</original>
+			<edited>今天起我们就是朋友了！请多指教！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Hortensia_0" offset="00" relocatable="true" max_length="0">
+			<original>你可要平安回来哦！</original>
+			<edited>你可要平安回来哦！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Rosado_0" offset="00" relocatable="true" max_length="0">
+			<original>嘿嘿，做得有点过火了～</original>
+			<edited>嘿嘿，做得有点过火了～</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Goldmary_0" offset="00" relocatable="true" max_length="0">
+			<original>真是抱歉，我指挥得太完美了……</original>
+			<edited>真是抱歉，我指挥得太完美了……</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Misutira_0" offset="00" relocatable="true" max_length="0">
+			<original>这对我们来说简直易如反掌！</original>
+			<edited>这对我们来说简直易如反掌！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Merin_0" offset="00" relocatable="true" max_length="0">
+			<original>可别被我的英姿迷倒喽。</original>
+			<edited>可别被我的英姿迷倒喽。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Panetone_0" offset="00" relocatable="true" max_length="0">
+			<original>是时候给对方一些颜色瞧瞧了。</original>
+			<edited>是时候给对方一些颜色瞧瞧了。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Fogato_0" offset="00" relocatable="true" max_length="0">
+			<original>我最～喜欢你了！</original>
+			<edited>我最～喜欢你了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Pandoro_0" offset="00" relocatable="true" max_length="0">
+			<original>嘿咿～～～～！！</original>
+			<edited>嘿咿～～～～！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Bonet_0" offset="00" relocatable="true" max_length="0">
+			<original>看起来很美味呢……</original>
+			<edited>看起来很美味呢……</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Anna_0" offset="00" relocatable="true" max_length="0">
+			<original>我就给你特别优惠吧！</original>
+			<edited>我就给你特别优惠吧！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Jean_0" offset="00" relocatable="true" max_length="0">
+			<original>请多多指教啦。</original>
+			<edited>请多多指教啦。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Yunaka_0" offset="00" relocatable="true" max_length="0">
+			<original>请多多呀比一下人家的最爱吧！</original>
+			<edited>请多多呀比一下人家的最爱吧！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Seadas_0" offset="00" relocatable="true" max_length="0">
+			<original>接下来该轮到你上场了。</original>
+			<edited>接下来该轮到你上场了。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Linden_0" offset="00" relocatable="true" max_length="0">
+			<original>实验失败啦～！！</original>
+			<edited>实验失败啦～！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Saphir_0" offset="00" relocatable="true" max_length="0">
+			<original>这个编队好像不太行呢。</original>
+			<edited>这个编队好像不太行呢。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Veyre_0" offset="00" relocatable="true" max_length="0">
+			<original>我很努力了哦。</original>
+			<edited>我很努力了哦。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Mauve_0" offset="00" relocatable="true" max_length="0">
+			<original>抱歉……之后就交给你了。</original>
+			<edited>抱歉……之后就交给你了。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Lumiere_0" offset="00" relocatable="true" max_length="0">
+			<original>路上小心哦。</original>
+			<edited>路上小心哦。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Marth_0" offset="00" relocatable="true" max_length="0">
+			<original>和我结合吧！</original>
+			<edited>和我结合吧！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Celica_0" offset="00" relocatable="true" max_length="0">
+			<original>虽然我不喜欢战争……</original>
+			<edited>虽然我不喜欢战争……</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Siglud_0" offset="00" relocatable="true" max_length="0">
+			<original>我绝不会对这个决定感到后悔。</original>
+			<edited>我绝不会对这个决定感到后悔。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Leaf_0" offset="00" relocatable="true" max_length="0">
+			<original>我们一定能跨越所有难关。</original>
+			<edited>我们一定能跨越所有难关。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Roy_0" offset="00" relocatable="true" max_length="0">
+			<original>真正的战斗现在才要开始呢。</original>
+			<edited>真正的战斗现在才要开始呢。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Lin_0" offset="00" relocatable="true" max_length="0">
+			<original>愿祝福之风与你同在。</original>
+			<edited>愿祝福之风与你同在。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Eirik_0" offset="00" relocatable="true" max_length="0">
+			<original>祝你武运昌隆。</original>
+			<edited>祝你武运昌隆。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Ike_0" offset="00" relocatable="true" max_length="0">
+			<original>一定要让大家活着回来！</original>
+			<edited>一定要让大家活着回来！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Micaiah_0" offset="00" relocatable="true" max_length="0">
+			<original>很高兴能与你合作。</original>
+			<edited>很高兴能与你合作。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Lucina_0" offset="00" relocatable="true" max_length="0">
+			<original>让我们一起改写命运吧！</original>
+			<edited>让我们一起改写命运吧！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Kamui_0" offset="00" relocatable="true" max_length="0">
+			<original>我相信你。</original>
+			<edited>我相信你。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RELAY_Stamp_Byleth_0" offset="00" relocatable="true" max_length="0">
+			<original>要好好活用学到的知识哦。</original>
+			<edited>要好好活用学到的知识哦。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RANKING_Title" offset="00" relocatable="true" max_length="0">
+			<original>出击排行榜</original>
+			<edited>出击排行榜</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_RANKING_Title" offset="00" relocatable="true" max_length="0">
+			<original>查看这个地图的出击排行榜。</original>
+			<edited>查看这个地图的出击排行榜。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RANKING_First" offset="00" relocatable="true" max_length="0">
+			<original>第&#xE;&#x1;&#x0;&#x0;位</original>
+			<edited>第&#xE;&#x1;&#x0;&#x0;位</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RANKING_Second" offset="00" relocatable="true" max_length="0">
+			<original>第&#xE;&#x1;&#x0;&#x0;位</original>
+			<edited>第&#xE;&#x1;&#x0;&#x0;位</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RANKING_Third" offset="00" relocatable="true" max_length="0">
+			<original>第&#xE;&#x1;&#x0;&#x0;位</original>
+			<edited>第&#xE;&#x1;&#x0;&#x0;位</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RANKING_Other" offset="00" relocatable="true" max_length="0">
+			<original>第&#xE;&#x1;&#x0;&#x0;位</original>
+			<edited>第&#xE;&#x1;&#x0;&#x0;位</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_RANKING_Fail" offset="00" relocatable="true" max_length="0">
+			<original>无法取得正确的排行榜资料。</original>
+			<edited>无法取得正确的排行榜资料。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_EXP_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>参加经验值</original>
+			<edited>参加经验值</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_MapSelect_Help" offset="00" relocatable="true" max_length="0">
+			<original>请选择要挑战的连战地图。</original>
+			<edited>请选择要挑战的连战地图。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_MapSelect_MenuCaption" offset="00" relocatable="true" max_length="0">
+			<original>试炼的种类</original>
+			<edited>试炼的种类</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_MapInfo_N_Battles" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;连战</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;连战</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_MapInfo_BestRecort" offset="00" relocatable="true" max_length="0">
+			<original>最佳通关记录</original>
+			<edited>最佳通关记录</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_MapInfo_Turn" offset="00" relocatable="true" max_length="0">
+			<original>回合</original>
+			<edited>回合</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_MapInfo_Materials" offset="00" relocatable="true" max_length="0">
+			<original>容易获得的材料</original>
+			<edited>容易获得的材料</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_DifficultyMenu_Help" offset="00" relocatable="true" max_length="0">
+			<original>请选择要挑战的难度</original>
+			<edited>请选择要挑战的难度</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_DifficultyMenu_Recommended" offset="00" relocatable="true" max_length="0">
+			<original>推荐难度：&#xE;&#x1;&#x0;&#x0;</original>
+			<edited>推荐难度：&#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_DifficultyMenu_Difficulty" offset="00" relocatable="true" max_length="0">
+			<original>难度</original>
+			<edited>难度</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_DifficultyMenu_Start" offset="00" relocatable="true" max_length="0">
+			<original>开始战斗</original>
+			<edited>开始战斗</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_Start_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>是否开始战斗？
+（将花费１张票券。持有张数：&#xE;&#x1;&#x0;&#x0;）</original>
+			<edited>是否开始战斗？
+（将花费１张票券。持有张数：&#xE;&#x1;&#x0;&#x0;）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_GiveUp" offset="00" relocatable="true" max_length="0">
+			<original>放弃</original>
+			<edited>放弃</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_H_GiveUp" offset="00" relocatable="true" max_length="0">
+			<original>结束试炼并回到菜单</original>
+			<edited>结束试炼并回到菜单</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_GiveUp_CONFIRM" offset="00" relocatable="true" max_length="0">
+			<original>是否要结束连战的试炼并回到菜单画面？
+（此战将视为败北，无法获得通关奖励，
+但仍会按通关的地图数量获得一定的经验值）</original>
+			<edited>是否要结束连战的试炼并回到菜单画面？
+（此战将视为败北，无法获得通关奖励，
+但仍会按通关的地图数量获得一定的经验值）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_Confirm" offset="00" relocatable="true" max_length="0">
+			<original>是否要开始游玩
+“难度&#xE;&#x1;&#x1;&#x0;”的连战地图“&#xE;&#x1;&#x0;&#x0;”？</original>
+			<edited>是否要开始游玩
+“难度&#xE;&#x1;&#x1;&#x0;”的连战地图“&#xE;&#x1;&#x0;&#x0;”？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_MAP1" offset="00" relocatable="true" max_length="0">
+			<original>首战</original>
+			<edited>首战</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_MAP2" offset="00" relocatable="true" max_length="0">
+			<original>第二战</original>
+			<edited>第二战</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_MAP3" offset="00" relocatable="true" max_length="0">
+			<original>决战</original>
+			<edited>决战</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_Get_Item" offset="00" relocatable="true" max_length="0">
+			<original>～</original>
+			<edited>～</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_Get_EXP" offset="00" relocatable="true" max_length="0">
+			<original>获得经验值</original>
+			<edited>获得经验值</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_Join_MAP1" offset="00" relocatable="true" max_length="0">
+			<original>参加首战</original>
+			<edited>参加首战</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_Join_MAP2" offset="00" relocatable="true" max_length="0">
+			<original>参加第二战</original>
+			<edited>参加第二战</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_Join_MAP3" offset="00" relocatable="true" max_length="0">
+			<original>参加决战</original>
+			<edited>参加决战</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_Get_SP" offset="00" relocatable="true" max_length="0">
+			<original>特技之书取得数量</original>
+			<edited>特技之书取得数量</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_OPEN_LEVEL41" offset="00" relocatable="true" max_length="0">
+			<original>难度41以上的
+连战的试炼开放了。</original>
+			<edited>难度41以上的
+连战的试炼开放了。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_C001_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>绿野的连战</original>
+			<edited>绿野的连战</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_C002_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>花田的连战</original>
+			<edited>花田的连战</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_C003_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>高原的连战</original>
+			<edited>高原的连战</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_C004_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>雪森林的连战</original>
+			<edited>雪森林的连战</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_C005_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>沙海的连战</original>
+			<edited>沙海的连战</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_CHALLENGE_C006_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>岩浆的连战</original>
+			<edited>岩浆的连战</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Ticket_Music" offset="00" relocatable="true" max_length="0">
+			<original>获得了&#xE;&#x8;&#x2;&#x18;&#x16;&#x0;S&#x0;o&#x0;u&#x0;n&#x0;d&#x0;T&#x0;i&#x0;c&#x0;k&#x0;e&#x0;t&#x0;“交换乐曲票券”。</original>
+			<edited>获得了&#xE;&#x8;&#x2;&#x18;&#x16;&#x0;S&#x0;o&#x0;u&#x0;n&#x0;d&#x0;T&#x0;i&#x0;c&#x0;k&#x0;e&#x0;t&#x0;“交换乐曲票券”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Ticket_Accessories" offset="00" relocatable="true" max_length="0">
+			<original>获得了&#xE;&#x8;&#x2;&#x14;&#x12;&#x0;A&#x0;c&#x0;c&#x0;T&#x0;i&#x0;c&#x0;k&#x0;e&#x0;t&#x0;“交换服装票券”。</original>
+			<edited>获得了&#xE;&#x8;&#x2;&#x14;&#x12;&#x0;A&#x0;c&#x0;c&#x0;T&#x0;i&#x0;c&#x0;k&#x0;e&#x0;t&#x0;“交换服装票券”。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Touch_Count" offset="00" relocatable="true" max_length="0">
+			<original>可读取的amiibo数&#xE;&#x1;&#x0;&#x0;/5</original>
+			<edited>可读取的amiibo数&#xE;&#x1;&#x0;&#x0;/5</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Touch_Interval" offset="00" relocatable="true" max_length="0">
+			<original>还需&#xE;&#x1;&#x0;&#x0;小时&#xE;&#x1;&#x1;&#x0;分才会回复。</original>
+			<edited>还需&#xE;&#x1;&#x0;&#x0;小时&#xE;&#x1;&#x1;&#x0;分才会回复。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Touch" offset="00" relocatable="true" max_length="0">
+			<original>请点触amiibo。</original>
+			<edited>请点触amiibo。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Accessories_Attention" offset="00" relocatable="true" max_length="0">
+			<original>无法使用：单位限制</original>
+			<edited>无法使用：单位限制</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Trade_Ticket" offset="00" relocatable="true" max_length="0">
+			<original>是否要交换“&#xE;&#x1;&#x0;&#x0;”？
+（将消费1张票券。目前持有张数：&#xE;&#x1;&#x1;&#x0;）</original>
+			<edited>是否要交换“&#xE;&#x1;&#x0;&#x0;”？
+（将消费1张票券。目前持有张数：&#xE;&#x1;&#x1;&#x0;）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Trade_Ticket_Use" offset="00" relocatable="true" max_length="0">
+			<original>消费票券</original>
+			<edited>消费票券</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Trade_Ticket_Have" offset="00" relocatable="true" max_length="0">
+			<original>持有票券数</original>
+			<edited>持有票券数</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Trade_Music_Select" offset="00" relocatable="true" max_length="0">
+			<original>请选择乐曲。</original>
+			<edited>请选择乐曲。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Trade_Ticket_Music" offset="00" relocatable="true" max_length="0">
+			<original>交换乐曲票券</original>
+			<edited>交换乐曲票券</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Music" offset="00" relocatable="true" max_length="0">
+			<original>乐曲</original>
+			<edited>乐曲</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Trade_Accessories_Select" offset="00" relocatable="true" max_length="0">
+			<original>请选择服装。</original>
+			<edited>请选择服装。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Trade_Ticket_Accessories" offset="00" relocatable="true" max_length="0">
+			<original>交换服装票券</original>
+			<edited>交换服装票券</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Accessories" offset="00" relocatable="true" max_length="0">
+			<original>服装</original>
+			<edited>服装</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Trade_Nothing" offset="00" relocatable="true" max_length="0">
+			<original>无可交换的物品</original>
+			<edited>无可交换的物品</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_AMIIBO_Trade_Information" offset="00" relocatable="true" max_length="0">
+			<original>所有的&#xE;&#x1;&#x0;&#x0;已交换完毕，
+因此票券已交换成牵绊碎片。</original>
+			<edited>所有的&#xE;&#x1;&#x0;&#x0;已交换完毕，
+因此票券已交换成牵绊碎片。</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,1879 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_FOOD_RESULT" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Superb" offset="00" relocatable="true" max_length="0">
+			<original>First-Rate </original>
+			<edited>First-Rate </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Delicious" offset="00" relocatable="true" max_length="0">
+			<original>Delicious </original>
+			<edited>Delicious </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Growling" offset="00" relocatable="true" max_length="0">
+			<original>Lip-Smacking </original>
+			<edited>Lip-Smacking </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Melt" offset="00" relocatable="true" max_length="0">
+			<original>Mouthwatering </original>
+			<edited>Mouthwatering </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_HighKing" offset="00" relocatable="true" max_length="0">
+			<original>Conqueror's </original>
+			<edited>Conqueror's </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_HolyMother" offset="00" relocatable="true" max_length="0">
+			<original>Saintly </original>
+			<edited>Saintly </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Courage" offset="00" relocatable="true" max_length="0">
+			<original>Courageous </original>
+			<edited>Courageous </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Wisdom" offset="00" relocatable="true" max_length="0">
+			<original>Sagacious </original>
+			<edited>Sagacious </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Chalk" offset="00" relocatable="true" max_length="0">
+			<original>Divine </original>
+			<edited>Divine </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Mens" offset="00" relocatable="true" max_length="0">
+			<original>Robust </original>
+			<edited>Robust </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_ForBoys" offset="00" relocatable="true" max_length="0">
+			<original>Decadent </original>
+			<edited>Decadent </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Woman" offset="00" relocatable="true" max_length="0">
+			<original>Audacious </original>
+			<edited>Audacious </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_ForGirls" offset="00" relocatable="true" max_length="0">
+			<original>Dainty </original>
+			<edited>Dainty </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Adult" offset="00" relocatable="true" max_length="0">
+			<original>Tasteful </original>
+			<edited>Tasteful </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Child" offset="00" relocatable="true" max_length="0">
+			<original>Trendy </original>
+			<edited>Trendy </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Your" offset="00" relocatable="true" max_length="0">
+			<original>Your Favorite </original>
+			<edited>Your Favorite </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Discerning" offset="00" relocatable="true" max_length="0">
+			<original>Sophisticated </original>
+			<edited>Sophisticated </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Whimsical" offset="00" relocatable="true" max_length="0">
+			<original>Whimsical </original>
+			<edited>Whimsical </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Rich" offset="00" relocatable="true" max_length="0">
+			<original>Extremely Rich </original>
+			<edited>Extremely Rich </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Refreshing" offset="00" relocatable="true" max_length="0">
+			<original>Light, Refreshing </original>
+			<edited>Light, Refreshing </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Sharp" offset="00" relocatable="true" max_length="0">
+			<original>Well-Balanced </original>
+			<edited>Well-Balanced </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Friendly" offset="00" relocatable="true" max_length="0">
+			<original>Mild </original>
+			<edited>Mild </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_BrodiaStyle" offset="00" relocatable="true" max_length="0">
+			<original>Brodia-Style </original>
+			<edited>Brodia-Style </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_FileneStyle" offset="00" relocatable="true" max_length="0">
+			<original>Firene-Style </original>
+			<edited>Firene-Style </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_SolumStyle" offset="00" relocatable="true" max_length="0">
+			<original>Solm-Style </original>
+			<edited>Solm-Style </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_IrcionStyle" offset="00" relocatable="true" max_length="0">
+			<original>Elusia-Style </original>
+			<edited>Elusia-Style </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_LithosStyle" offset="00" relocatable="true" max_length="0">
+			<original>Lythos-Style </original>
+			<edited>Lythos-Style </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Wild" offset="00" relocatable="true" max_length="0">
+			<original>Rustic </original>
+			<edited>Rustic </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Exciting" offset="00" relocatable="true" max_length="0">
+			<original>Hearty </original>
+			<edited>Hearty </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_CarefullySelected" offset="00" relocatable="true" max_length="0">
+			<original>Carefully Crafted </original>
+			<edited>Carefully Crafted </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Fresh" offset="00" relocatable="true" max_length="0">
+			<original>Fresh </original>
+			<edited>Fresh </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Spicy" offset="00" relocatable="true" max_length="0">
+			<original>Extremely Spicy </original>
+			<edited>Extremely Spicy </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Hot" offset="00" relocatable="true" max_length="0">
+			<original>Spicy </original>
+			<edited>Spicy </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Bitter" offset="00" relocatable="true" max_length="0">
+			<original>Bitter </original>
+			<edited>Bitter </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Bittersweet" offset="00" relocatable="true" max_length="0">
+			<original>Bittersweet </original>
+			<edited>Bittersweet </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_SuperSweet" offset="00" relocatable="true" max_length="0">
+			<original>Extremely Sweet </original>
+			<edited>Extremely Sweet </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Sweet" offset="00" relocatable="true" max_length="0">
+			<original>Sweet </original>
+			<edited>Sweet </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Chewy" offset="00" relocatable="true" max_length="0">
+			<original>Crunchy </original>
+			<edited>Crunchy </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Hard" offset="00" relocatable="true" max_length="0">
+			<original>Rather Tough </original>
+			<edited>Rather Tough </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Habit" offset="00" relocatable="true" max_length="0">
+			<original>Delightful </original>
+			<edited>Delightful </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Smart" offset="00" relocatable="true" max_length="0">
+			<original>Kind of Odd </original>
+			<edited>Kind of Odd </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Normal" offset="00" relocatable="true" max_length="0">
+			<original>Ordinary </original>
+			<edited>Ordinary </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Mistake" offset="00" relocatable="true" max_length="0">
+			<original>Not-Quite-Right </original>
+			<edited>Not-Quite-Right </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Shortage" offset="00" relocatable="true" max_length="0">
+			<original>Lackluster </original>
+			<edited>Lackluster </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_DifferentStar" offset="00" relocatable="true" max_length="0">
+			<original>Unutterably Alien </original>
+			<edited>Unutterably Alien </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_DefinitelySuffer" offset="00" relocatable="true" max_length="0">
+			<original>Stomach-Churning </original>
+			<edited>Stomach-Churning </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Carbonization" offset="00" relocatable="true" max_length="0">
+			<original>Completely Burnt </original>
+			<edited>Completely Burnt </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_OnionSoup" offset="00" relocatable="true" max_length="0">
+			<original>Onion Soup</original>
+			<edited>Onion Soup</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_OnionSoup" offset="00" relocatable="true" max_length="0">
+			<original>A modest yet flavorful soup made
+with onions, water, and spices.</original>
+			<edited>A modest yet flavorful soup made
+with onions, water, and spices.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_ConsommeSoup" offset="00" relocatable="true" max_length="0">
+			<original>Bean and Veggie Consommé</original>
+			<edited>Bean and Veggie Consommé</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_ConsommeSoup" offset="00" relocatable="true" max_length="0">
+			<original>A soup made with stewed sausage,
+beans, and vegetables. The base
+may vary depending on the cook.</original>
+			<edited>A soup made with stewed sausage,
+beans, and vegetables. The base
+may vary depending on the cook.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_DumplingsOfMeat" offset="00" relocatable="true" max_length="0">
+			<original>Minced-Meat Dumplings</original>
+			<edited>Minced-Meat Dumplings</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_DumplingsOfMeat" offset="00" relocatable="true" max_length="0">
+			<original>Minced meat, vegetables, and bread
+crumbs, all seasoned with herbs,
+then wrapped in dough and boiled.</original>
+			<edited>Minced meat, vegetables, and bread
+crumbs, all seasoned with herbs,
+then wrapped in dough and boiled.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_PotatoSoup" offset="00" relocatable="true" max_length="0">
+			<original>Potato Soup</original>
+			<edited>Potato Soup</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_PotatoSoup" offset="00" relocatable="true" max_length="0">
+			<original>A thick, comforting soup made with
+soft, tender potatoes.</original>
+			<edited>A thick, comforting soup made with
+soft, tender potatoes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_WhiteSausage" offset="00" relocatable="true" max_length="0">
+			<original>White Sausage</original>
+			<edited>White Sausage</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_WhiteSausage" offset="00" relocatable="true" max_length="0">
+			<original>Sausages made from mutton and
+fresh bacon. Contain additional
+herbs for an extra bit of flavor.</original>
+			<edited>Sausages made from mutton and
+fresh bacon. Contain additional
+herbs for an extra bit of flavor.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_StewedSaltedMeat" offset="00" relocatable="true" max_length="0">
+			<original>Salted-Meat Stew</original>
+			<edited>Salted-Meat Stew</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_StewedSaltedMeat" offset="00" relocatable="true" max_length="0">
+			<original>Salted pork shank that has been
+stewed among vegetables and herbs
+for several hours.</original>
+			<edited>Salted pork shank that has been
+stewed among vegetables and herbs
+for several hours.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_CreamCroquette" offset="00" relocatable="true" max_length="0">
+			<original>Cream Croquette</original>
+			<edited>Cream Croquette</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_CreamCroquette" offset="00" relocatable="true" max_length="0">
+			<original>Crispy croquettes filled with creamy
+white sauce.</original>
+			<edited>Crispy croquettes filled with creamy
+white sauce.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_SmokedEel" offset="00" relocatable="true" max_length="0">
+			<original>Smoked Freshwater Eel</original>
+			<edited>Smoked Freshwater Eel</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_SmokedEel" offset="00" relocatable="true" max_length="0">
+			<original>Eel that has been gutted and smoked
+whole. You can even eat the skin!</original>
+			<edited>Eel that has been gutted and smoked
+whole. You can even eat the skin!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_PickledPicklesHerringRoll" offset="00" relocatable="true" max_length="0">
+			<original>Pickle Herring Rolls</original>
+			<edited>Pickle Herring Rolls</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_PickledPicklesHerringRoll" offset="00" relocatable="true" max_length="0">
+			<original>Onion and tomato pickles wrapped
+in a roll of vinegar-pickled herring.</original>
+			<edited>Onion and tomato pickles wrapped
+in a roll of vinegar-pickled herring.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_FriedCarp" offset="00" relocatable="true" max_length="0">
+			<original>Deep-Fried Carp</original>
+			<edited>Deep-Fried Carp</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_FriedCarp" offset="00" relocatable="true" max_length="0">
+			<original>A carefully gutted carp dunked
+whole into hot oil.</original>
+			<edited>A carefully gutted carp dunked
+whole into hot oil.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_ApplePie" offset="00" relocatable="true" max_length="0">
+			<original>Apple Pie</original>
+			<edited>Apple Pie</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_ApplePie" offset="00" relocatable="true" max_length="0">
+			<original>A freshly baked pie stuffed with thin
+slices of apple.</original>
+			<edited>A freshly baked pie stuffed with thin
+slices of apple.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_StewedCabbage" offset="00" relocatable="true" max_length="0">
+			<original>Pickled Cabbage</original>
+			<edited>Pickled Cabbage</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_StewedCabbage" offset="00" relocatable="true" max_length="0">
+			<original>Shredded cabbage mixed with salt
+and spices, then pickled inside a pot
+or jar.</original>
+			<edited>Shredded cabbage mixed with salt
+and spices, then pickled inside a pot
+or jar.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_PotatoPancakes" offset="00" relocatable="true" max_length="0">
+			<original>Potato Pancakes</original>
+			<edited>Potato Pancakes</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_PotatoPancakes" offset="00" relocatable="true" max_length="0">
+			<original>Pan-fried dough made with grated
+potatoes.</original>
+			<edited>Pan-fried dough made with grated
+potatoes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_SteamedDumpling" offset="00" relocatable="true" max_length="0">
+			<original>Steamed Dango</original>
+			<edited>Steamed Dango</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_SteamedDumpling" offset="00" relocatable="true" max_length="0">
+			<original>Soft balls of bread dough that have
+been steamed with warmed butter
+and milk inside a lidded pot.</original>
+			<edited>Soft balls of bread dough that have
+been steamed with warmed butter
+and milk inside a lidded pot.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_OnionQuiche" offset="00" relocatable="true" max_length="0">
+			<original>Onion Quiche</original>
+			<edited>Onion Quiche</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_OnionQuiche" offset="00" relocatable="true" max_length="0">
+			<original>Plentiful onions, sautéed with bacon,
+nestled into quiche dough and baked
+in an oven.</original>
+			<edited>Plentiful onions, sautéed with bacon,
+nestled into quiche dough and baked
+in an oven.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_FruitHamToast" offset="00" relocatable="true" max_length="0">
+			<original>Apple and Cheese Toasties</original>
+			<edited>Apple and Cheese Toasties</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_FruitHamToast" offset="00" relocatable="true" max_length="0">
+			<original>Ham, apple slices, and cheese
+arranged atop a slice of freshly
+toasted bread.</original>
+			<edited>Ham, apple slices, and cheese
+arranged atop a slice of freshly
+toasted bread.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_PeachCake" offset="00" relocatable="true" max_length="0">
+			<original>Peach Cake</original>
+			<edited>Peach Cake</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_PeachCake" offset="00" relocatable="true" max_length="0">
+			<original>Peaches baked in buttery dough,
+then sprinkled with powdered sugar
+just before eating.</original>
+			<edited>Peaches baked in buttery dough,
+then sprinkled with powdered sugar
+just before eating.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_NutsAndHoneyCake" offset="00" relocatable="true" max_length="0">
+			<original>Caramel Nut Cake</original>
+			<edited>Caramel Nut Cake</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_NutsAndHoneyCake" offset="00" relocatable="true" max_length="0">
+			<original>A cake with sliced, caramelized nuts
+mixed into the dough, featuring a
+middle layer of custard cream.</original>
+			<edited>A cake with sliced, caramelized nuts
+mixed into the dough, featuring a
+middle layer of custard cream.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BoiledRedWineInBerry" offset="00" relocatable="true" max_length="0">
+			<original>Syrup-Simmered Berries</original>
+			<edited>Syrup-Simmered Berries</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BoiledRedWineInBerry" offset="00" relocatable="true" max_length="0">
+			<original>Berries and red syrup, simmered
+and cooled until thick, served with
+a scoop of cold ice cream.</original>
+			<edited>Berries and red syrup, simmered
+and cooled until thick, served with
+a scoop of cold ice cream.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_FriedBreadOfDonutStyle" offset="00" relocatable="true" max_length="0">
+			<original>Jelly Doughnuts</original>
+			<edited>Jelly Doughnuts</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_FriedBreadOfDonutStyle" offset="00" relocatable="true" max_length="0">
+			<original>Mounds of fried dough, stuffed with
+a variety of jams and creams.</original>
+			<edited>Mounds of fried dough, stuffed with
+a variety of jams and creams.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_TearingPancakes" offset="00" relocatable="true" max_length="0">
+			<original>Emperor's Mess</original>
+			<edited>Emperor's Mess</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_TearingPancakes" offset="00" relocatable="true" max_length="0">
+			<original>Bite-sized pieces of fried pancake,
+slathered in melted butter, and
+topped with powdered sugar.</original>
+			<edited>Bite-sized pieces of fried pancake,
+slathered in melted butter, and
+topped with powdered sugar.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_Omlet" offset="00" relocatable="true" max_length="0">
+			<original>Omelet</original>
+			<edited>Omelet</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_Omlet" offset="00" relocatable="true" max_length="0">
+			<original>Beaten, cooked, and folded eggs
+filled with a variety of ingredients
+such as tomatoes or cheese.</original>
+			<edited>Beaten, cooked, and folded eggs
+filled with a variety of ingredients
+such as tomatoes or cheese.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_ThickGrilledCrepePizza" offset="00" relocatable="true" max_length="0">
+			<original>Deep-Dish Crêpe Pizza</original>
+			<edited>Deep-Dish Crêpe Pizza</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_ThickGrilledCrepePizza" offset="00" relocatable="true" max_length="0">
+			<original>A fluffy pizza made with thick-baked
+crêpe dough.</original>
+			<edited>A fluffy pizza made with thick-baked
+crêpe dough.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_ThickSlicedPotatoFries" offset="00" relocatable="true" max_length="0">
+			<original>Steak Fries</original>
+			<edited>Steak Fries</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_ThickSlicedPotatoFries" offset="00" relocatable="true" max_length="0">
+			<original>Thick-cut potato fries, to be eaten
+with a preferred condiment.</original>
+			<edited>Thick-cut potato fries, to be eaten
+with a preferred condiment.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_LambAndCabbageStew" offset="00" relocatable="true" max_length="0">
+			<original>Mutton and Cabbage Stew</original>
+			<edited>Mutton and Cabbage Stew</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_LambAndCabbageStew" offset="00" relocatable="true" max_length="0">
+			<original>Mutton and cabbage, stewed in the
+same dish until the cabbage softens.</original>
+			<edited>Mutton and cabbage, stewed in the
+same dish until the cabbage softens.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_RoastWithSkinOfPorkBelly" offset="00" relocatable="true" max_length="0">
+			<original>Crispy Roasted Pork Belly</original>
+			<edited>Crispy Roasted Pork Belly</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_RoastWithSkinOfPorkBelly" offset="00" relocatable="true" max_length="0">
+			<original>Pork belly meat, roasted and baked
+in a pan with the skin intact.</original>
+			<edited>Pork belly meat, roasted and baked
+in a pan with the skin intact.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_SteamedThighMeatOfSaltedSheep" offset="00" relocatable="true" max_length="0">
+			<original>Braised Lamb Shank</original>
+			<edited>Braised Lamb Shank</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_SteamedThighMeatOfSaltedSheep" offset="00" relocatable="true" max_length="0">
+			<original>A lamb shank that has been cured in
+salt, then steamed.</original>
+			<edited>A lamb shank that has been cured in
+salt, then steamed.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_FruitPie" offset="00" relocatable="true" max_length="0">
+			<original>Fruit Pie</original>
+			<edited>Fruit Pie</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_FruitPie" offset="00" relocatable="true" max_length="0">
+			<original>An assortment of dried fruits that
+have been wrapped and baked inside
+pie dough.</original>
+			<edited>An assortment of dried fruits that
+have been wrapped and baked inside
+pie dough.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BoiledBeefInWine" offset="00" relocatable="true" max_length="0">
+			<original>Braised Beef in Grape Sauce</original>
+			<edited>Braised Beef in Grape Sauce</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BoiledBeefInWine" offset="00" relocatable="true" max_length="0">
+			<original>Chunks of beef, sautéed with onions,
+then simmered in grape sauce with
+added butter.</original>
+			<edited>Chunks of beef, sautéed with onions,
+then simmered in grape sauce with
+added butter.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BraisedCod" offset="00" relocatable="true" max_length="0">
+			<original>Cod Boil</original>
+			<edited>Cod Boil</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BraisedCod" offset="00" relocatable="true" max_length="0">
+			<original>Dried cod that has been soaked in
+lye for rehydration, then rinsed and
+boiled. Has a soft, jiggly consistency.</original>
+			<edited>Dried cod that has been soaked in
+lye for rehydration, then rinsed and
+boiled. Has a soft, jiggly consistency.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_FishCreamSoup" offset="00" relocatable="true" max_length="0">
+			<original>Creamy Fish Chowder</original>
+			<edited>Creamy Fish Chowder</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_FishCreamSoup" offset="00" relocatable="true" max_length="0">
+			<original>A thick soup made with fish and
+fresh cream.</original>
+			<edited>A thick soup made with fish and
+fresh cream.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_MeatDumplingWithCreamSauce" offset="00" relocatable="true" max_length="0">
+			<original>Meat Dango in Cream Sauce</original>
+			<edited>Meat Dango in Cream Sauce</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_MeatDumplingWithCreamSauce" offset="00" relocatable="true" max_length="0">
+			<original>Meaty dango covered in heavy cream
+sauce. The sauce contains a sweet
+jam that complements the meat.</original>
+			<edited>Meaty dango covered in heavy cream
+sauce. The sauce contains a sweet
+jam that complements the meat.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_MarinatedSalmon" offset="00" relocatable="true" max_length="0">
+			<original>Marinated Salmon</original>
+			<edited>Marinated Salmon</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_MarinatedSalmon" offset="00" relocatable="true" max_length="0">
+			<original>Salmon marinated with salt, sugar,
+and herbs. Enjoy its unique aroma!</original>
+			<edited>Salmon marinated with salt, sugar,
+and herbs. Enjoy its unique aroma!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_CrispBread" offset="00" relocatable="true" max_length="0">
+			<original>Crisp Bread</original>
+			<edited>Crisp Bread</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_CrispBread" offset="00" relocatable="true" max_length="0">
+			<original>Extremely thin, crunchy, cracker-like
+bread made with simple wheat flour,
+salt, and water.</original>
+			<edited>Extremely thin, crunchy, cracker-like
+bread made with simple wheat flour,
+salt, and water.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_PorridgeOfSourCream" offset="00" relocatable="true" max_length="0">
+			<original>Sour Cream Congee</original>
+			<edited>Sour Cream Congee</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_PorridgeOfSourCream" offset="00" relocatable="true" max_length="0">
+			<original>Simmered sour cream with wheat
+flour and milk. Served with sugar
+and melted butter.</original>
+			<edited>Simmered sour cream with wheat
+flour and milk. Served with sugar
+and melted butter.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_CrepePancake" offset="00" relocatable="true" max_length="0">
+			<original>Crêpe Pancakes</original>
+			<edited>Crêpe Pancakes</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_CrepePancake" offset="00" relocatable="true" max_length="0">
+			<original>Pancakes that were spread thin and
+cooked as crêpes, then covered
+with jam and rolled before serving.</original>
+			<edited>Pancakes that were spread thin and
+cooked as crêpes, then covered
+with jam and rolled before serving.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_JamCake" offset="00" relocatable="true" max_length="0">
+			<original>Jam Cake</original>
+			<edited>Jam Cake</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_JamCake" offset="00" relocatable="true" max_length="0">
+			<original>A light and fluffy sponge cake
+covered with jam.</original>
+			<edited>A light and fluffy sponge cake
+covered with jam.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_TreeCake" offset="00" relocatable="true" max_length="0">
+			<original>Tree Cake</original>
+			<edited>Tree Cake</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_TreeCake" offset="00" relocatable="true" max_length="0">
+			<original>A cake with meringue in its batter,
+baked in rings of different sizes and
+stacked to resemble a conical tree.</original>
+			<edited>A cake with meringue in its batter,
+baked in rings of different sizes and
+stacked to resemble a conical tree.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_FishDumpling" offset="00" relocatable="true" max_length="0">
+			<original>Fish Dango</original>
+			<edited>Fish Dango</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_FishDumpling" offset="00" relocatable="true" max_length="0">
+			<original>Dough made with white fish as a
+base, then fried in butter.</original>
+			<edited>Dough made with white fish as a
+base, then fried in butter.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_GoatCheese" offset="00" relocatable="true" max_length="0">
+			<original>Cheese Wedge</original>
+			<edited>Cheese Wedge</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_GoatCheese" offset="00" relocatable="true" max_length="0">
+			<original>A wedge of cheese made from
+farm-fresh dairy.</original>
+			<edited>A wedge of cheese made from
+farm-fresh dairy.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_Oatmeal" offset="00" relocatable="true" max_length="0">
+			<original>Oatmeal</original>
+			<edited>Oatmeal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_Oatmeal" offset="00" relocatable="true" max_length="0">
+			<original>Milk poured over oats, then heated.</original>
+			<edited>Milk poured over oats, then heated.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BakedPotatoes" offset="00" relocatable="true" max_length="0">
+			<original>Baked Potato</original>
+			<edited>Baked Potato</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BakedPotatoes" offset="00" relocatable="true" max_length="0">
+			<original>A potato, baked whole, then split
+and topped with cheese, beans, and
+other toppings.</original>
+			<edited>A potato, baked whole, then split
+and topped with cheese, beans, and
+other toppings.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_NutsCompote" offset="00" relocatable="true" max_length="0">
+			<original>Nut Compote</original>
+			<edited>Nut Compote</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_NutsCompote" offset="00" relocatable="true" max_length="0">
+			<original>Assorted nuts that have been
+simmered in sugar water.</original>
+			<edited>Assorted nuts that have been
+simmered in sugar water.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BoiledEggGroundMeatRolls" offset="00" relocatable="true" max_length="0">
+			<original>Traveler's Egg</original>
+			<edited>Traveler's Egg</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BoiledEggGroundMeatRolls" offset="00" relocatable="true" max_length="0">
+			<original>Boiled eggs that have been wrapped
+in ground beef, then breaded and
+deep-fried. </original>
+			<edited>Boiled eggs that have been wrapped
+in ground beef, then breaded and
+deep-fried. </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_CurryOfChickenAndTomato" offset="00" relocatable="true" max_length="0">
+			<original>Chicken Tomato Curry</original>
+			<edited>Chicken Tomato Curry</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_CurryOfChickenAndTomato" offset="00" relocatable="true" max_length="0">
+			<original>Grilled chicken meat, simmered in
+a curry sauce with tomatoes and
+cream as a base.</original>
+			<edited>Grilled chicken meat, simmered in
+a curry sauce with tomatoes and
+cream as a base.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_StewedSheep" offset="00" relocatable="true" max_length="0">
+			<original>Haggis</original>
+			<edited>Haggis</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_StewedSheep" offset="00" relocatable="true" max_length="0">
+			<original>Sheep innards, onions, and herbs 
+packed and boiled inside of a
+sheep's stomach.</original>
+			<edited>Sheep innards, onions, and herbs 
+packed and boiled inside of a
+sheep's stomach.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_CrumbleCake" offset="00" relocatable="true" max_length="0">
+			<original>Crumble Cake</original>
+			<edited>Crumble Cake</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_CrumbleCake" offset="00" relocatable="true" max_length="0">
+			<original>A dough of flour, butter, and sugar
+used to cover a variety of simmered
+fruits, then baked in an oven.</original>
+			<edited>A dough of flour, butter, and sugar
+used to cover a variety of simmered
+fruits, then baked in an oven.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_MarinatedOnionAndHerring" offset="00" relocatable="true" max_length="0">
+			<original>Marinated Herring</original>
+			<edited>Marinated Herring</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_MarinatedOnionAndHerring" offset="00" relocatable="true" max_length="0">
+			<original>Herring and onions that have been
+pickled in vinegar and sugar.</original>
+			<edited>Herring and onions that have been
+pickled in vinegar and sugar.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BakedPie" offset="00" relocatable="true" max_length="0">
+			<original>Meat Pie</original>
+			<edited>Meat Pie</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BakedPie" offset="00" relocatable="true" max_length="0">
+			<original>Minced meat, onions, potatoes, and
+more, all wrapped and baked inside
+a pie crust.</original>
+			<edited>Minced meat, onions, potatoes, and
+more, all wrapped and baked inside
+a pie crust.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_NutsMilkPie" offset="00" relocatable="true" max_length="0">
+			<original>Nut Milk Pie</original>
+			<edited>Nut Milk Pie</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_NutsMilkPie" offset="00" relocatable="true" max_length="0">
+			<original>Lightly fried dough containing a
+central layer of crushed nuts
+and syrup.</original>
+			<edited>Lightly fried dough containing a
+central layer of crushed nuts
+and syrup.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_NutsRicePudding" offset="00" relocatable="true" max_length="0">
+			<original>Nut Rice Pudding</original>
+			<edited>Nut Rice Pudding</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_NutsRicePudding" offset="00" relocatable="true" max_length="0">
+			<original>Rice simmered in a syrup made of
+crushed nuts and milk.</original>
+			<edited>Rice simmered in a syrup made of
+crushed nuts and milk.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_DomeBread" offset="00" relocatable="true" max_length="0">
+			<original>Dome Bread</original>
+			<edited>Dome Bread</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_DomeBread" offset="00" relocatable="true" max_length="0">
+			<original>A sweet bread in the shape of a
+dome, baked with dried slices of
+various fruits mixed into the dough.</original>
+			<edited>A sweet bread in the shape of a
+dome, baked with dried slices of
+various fruits mixed into the dough.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_ColdVegetableSoup" offset="00" relocatable="true" max_length="0">
+			<original>Chilled Vegetable Soup</original>
+			<edited>Chilled Vegetable Soup</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_ColdVegetableSoup" offset="00" relocatable="true" max_length="0">
+			<original>A variety of vegetables, apples, and
+more, all blended together as a soup.</original>
+			<edited>A variety of vegetables, apples, and
+more, all blended together as a soup.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_RawHam" offset="00" relocatable="true" max_length="0">
+			<original>Prosciutto</original>
+			<edited>Prosciutto</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_RawHam" offset="00" relocatable="true" max_length="0">
+			<original>Slices of dry-cured ham made from
+high-quality pork.</original>
+			<edited>Slices of dry-cured ham made from
+high-quality pork.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_SkeweredMeat" offset="00" relocatable="true" max_length="0">
+			<original>Kebabs</original>
+			<edited>Kebabs</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_SkeweredMeat" offset="00" relocatable="true" max_length="0">
+			<original>Various meats, marinated in oil and
+spices, then grilled on skewers.</original>
+			<edited>Various meats, marinated in oil and
+spices, then grilled on skewers.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_Paella" offset="00" relocatable="true" max_length="0">
+			<original>Seafood Paella</original>
+			<edited>Seafood Paella</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_Paella" offset="00" relocatable="true" max_length="0">
+			<original>Rice cooked in a wide, flat pan along
+with a soupy mix of vegetables and
+assorted seafoods.</original>
+			<edited>Rice cooked in a wide, flat pan along
+with a soupy mix of vegetables and
+assorted seafoods.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_StewedBaconAndBeans" offset="00" relocatable="true" max_length="0">
+			<original>Meatballs and Beans</original>
+			<edited>Meatballs and Beans</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_StewedBaconAndBeans" offset="00" relocatable="true" max_length="0">
+			<original>Meatballs and beans that have been
+stewed alongside onions and other
+ingredients.</original>
+			<edited>Meatballs and beans that have been
+stewed alongside onions and other
+ingredients.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_Tiramisu" offset="00" relocatable="true" max_length="0">
+			<original>Tiramisu</original>
+			<edited>Tiramisu</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_Tiramisu" offset="00" relocatable="true" max_length="0">
+			<original>Alternating layers of espresso-
+soaked biscuits and special cream,
+left to chill until set.</original>
+			<edited>Alternating layers of espresso-
+soaked biscuits and special cream,
+left to chill until set.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BerrySaucePannaCotta" offset="00" relocatable="true" max_length="0">
+			<original>Berry Sauce Panna Cotta</original>
+			<edited>Berry Sauce Panna Cotta</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BerrySaucePannaCotta" offset="00" relocatable="true" max_length="0">
+			<original>Soft, warm cream with added sugar,
+gelatin, and vanilla, poured in a form
+to set, then topped with berry sauce.</original>
+			<edited>Soft, warm cream with added sugar,
+gelatin, and vanilla, poured in a form
+to set, then topped with berry sauce.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_SeafoodAjillo" offset="00" relocatable="true" max_length="0">
+			<original>Seafood Medley with Garlic</original>
+			<edited>Seafood Medley with Garlic</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_SeafoodAjillo" offset="00" relocatable="true" max_length="0">
+			<original>A variety of seafoods stewed in olive
+oil with garlic.</original>
+			<edited>A variety of seafoods stewed in olive
+oil with garlic.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_FriedSardines" offset="00" relocatable="true" max_length="0">
+			<original>Fried Sardines</original>
+			<edited>Fried Sardines</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_FriedSardines" offset="00" relocatable="true" max_length="0">
+			<original>Small sardines that have been fried
+whole in a bed of olive oil.</original>
+			<edited>Small sardines that have been fried
+whole in a bed of olive oil.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_FriedVegetables" offset="00" relocatable="true" max_length="0">
+			<original>Vegetable Stir-Fry</original>
+			<edited>Vegetable Stir-Fry</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_FriedVegetables" offset="00" relocatable="true" max_length="0">
+			<original>A variety of fresh vegetables, stir-
+fried with garlic.</original>
+			<edited>A variety of fresh vegetables, stir-
+fried with garlic.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BoiledTomatoesInVinegar" offset="00" relocatable="true" max_length="0">
+			<original>Tomatoes in Sweet Vinegar</original>
+			<edited>Tomatoes in Sweet Vinegar</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BoiledTomatoesInVinegar" offset="00" relocatable="true" max_length="0">
+			<original>Tomatoes cooked in sweet vinegar
+along with onions, spices, and
+other ingredients.</original>
+			<edited>Tomatoes cooked in sweet vinegar
+along with onions, spices, and
+other ingredients.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_CremeBrulee" offset="00" relocatable="true" max_length="0">
+			<original>Crème Brûlée</original>
+			<edited>Crème Brûlée</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_CremeBrulee" offset="00" relocatable="true" max_length="0">
+			<original>Chilled custard with sugar sprinkled
+on top, scorched on the surface to
+create a thin crust of caramel.</original>
+			<edited>Chilled custard with sugar sprinkled
+on top, scorched on the surface to
+create a thin crust of caramel.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_Churro" offset="00" relocatable="true" max_length="0">
+			<original>Churros</original>
+			<edited>Churros</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_Churro" offset="00" relocatable="true" max_length="0">
+			<original>Dough extruded through a star-
+shaped nozzle, fried in oil, then
+coated in sugar, honey, and more.</original>
+			<edited>Dough extruded through a star-
+shaped nozzle, fried in oil, then
+coated in sugar, honey, and more.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_SoftCandy" offset="00" relocatable="true" max_length="0">
+			<original>Soft Candies</original>
+			<edited>Soft Candies</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_SoftCandy" offset="00" relocatable="true" max_length="0">
+			<original>A treat of various nuts mixed with
+sugar or meringue, then formed into
+thin bars and chilled to set.</original>
+			<edited>A treat of various nuts mixed with
+sugar or meringue, then formed into
+thin bars and chilled to set.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_AuthenticPizza" offset="00" relocatable="true" max_length="0">
+			<original>Classic Pizza</original>
+			<edited>Classic Pizza</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_AuthenticPizza" offset="00" relocatable="true" max_length="0">
+			<original>Thinly-stretched dough topped with
+tomato sauce, cheese, and basil
+leaves.</original>
+			<edited>Thinly-stretched dough topped with
+tomato sauce, cheese, and basil
+leaves.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_Risotto" offset="00" relocatable="true" max_length="0">
+			<original>Risotto</original>
+			<edited>Risotto</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_Risotto" offset="00" relocatable="true" max_length="0">
+			<original>Rice that has been pan-fried in
+butter, then cooked in stock with
+added spices.</original>
+			<edited>Rice that has been pan-fried in
+butter, then cooked in stock with
+added spices.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_RiceCroquette" offset="00" relocatable="true" max_length="0">
+			<original>Rice Croquettes</original>
+			<edited>Rice Croquettes</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_RiceCroquette" offset="00" relocatable="true" max_length="0">
+			<original>Boiled rice, mixed with egg wash,
+cheese, salt, and pepper, then coated
+with breadcrumbs and fried.</original>
+			<edited>Boiled rice, mixed with egg wash,
+cheese, salt, and pepper, then coated
+with breadcrumbs and fried.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_RosettaBread" offset="00" relocatable="true" max_length="0">
+			<original>Rosetta Bread</original>
+			<edited>Rosetta Bread</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_RosettaBread" offset="00" relocatable="true" max_length="0">
+			<original>Bread rolls baked in the shape of
+roses. The inside is hollow, while the
+outer crust is crispy and fragrant.</original>
+			<edited>Bread rolls baked in the shape of
+roses. The inside is hollow, while the
+outer crust is crispy and fragrant.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_AcquaPazza" offset="00" relocatable="true" max_length="0">
+			<original>Acqua Pazza</original>
+			<edited>Acqua Pazza</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_AcquaPazza" offset="00" relocatable="true" max_length="0">
+			<original>Seafood that has been poached
+alongside tomatoes, olive oil,
+and more.</original>
+			<edited>Seafood that has been poached
+alongside tomatoes, olive oil,
+and more.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_VealRoll" offset="00" relocatable="true" max_length="0">
+			<original>Veal Rolls</original>
+			<edited>Veal Rolls</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_VealRoll" offset="00" relocatable="true" max_length="0">
+			<original>Thinly sliced raw veal fillet, rolled
+up and topped with cheese, sauce,
+and more.</original>
+			<edited>Thinly sliced raw veal fillet, rolled
+up and topped with cheese, sauce,
+and more.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_SaltedPorkNeck" offset="00" relocatable="true" max_length="0">
+			<original>Salt Pork</original>
+			<edited>Salt Pork</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_SaltedPorkNeck" offset="00" relocatable="true" max_length="0">
+			<original>Thin, rolled slices of salted pork
+belly rubbed in spices, then baked
+on skewers with various condiments.</original>
+			<edited>Thin, rolled slices of salted pork
+belly rubbed in spices, then baked
+on skewers with various condiments.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BloodBoiledSausage" offset="00" relocatable="true" max_length="0">
+			<original>Blood Sausage</original>
+			<edited>Blood Sausage</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BloodBoiledSausage" offset="00" relocatable="true" max_length="0">
+			<original>Sausages prepared with animal
+blood in the casing, cooked by
+boiling.</original>
+			<edited>Sausages prepared with animal
+blood in the casing, cooked by
+boiling.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_PotatoMeatBun" offset="00" relocatable="true" max_length="0">
+			<original>Meat-Filled Potato Roll</original>
+			<edited>Meat-Filled Potato Roll</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_PotatoMeatBun" offset="00" relocatable="true" max_length="0">
+			<original>Pork and onions wrapped and baked
+in a dough made from potatoes.</original>
+			<edited>Pork and onions wrapped and baked
+in a dough made from potatoes.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_Cocotte" offset="00" relocatable="true" max_length="0">
+			<original>Potted Casserole</original>
+			<edited>Potted Casserole</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_Cocotte" offset="00" relocatable="true" max_length="0">
+			<original>Potatoes, fish, and more placed in a
+two-handed pot with cream, then
+baked in an oven.</original>
+			<edited>Potatoes, fish, and more placed in a
+two-handed pot with cream, then
+baked in an oven.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_GreenPeasMash" offset="00" relocatable="true" max_length="0">
+			<original>Mushy Peas</original>
+			<edited>Mushy Peas</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_GreenPeasMash" offset="00" relocatable="true" max_length="0">
+			<original>Green peas that have been mashed
+alongside milk or butter.</original>
+			<edited>Green peas that have been mashed
+alongside milk or butter.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_SandwichCake" offset="00" relocatable="true" max_length="0">
+			<original>Sandwich Cake</original>
+			<edited>Sandwich Cake</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_SandwichCake" offset="00" relocatable="true" max_length="0">
+			<original>A savory sandwich made to look like
+a cake, decorated with filleted fish in
+the shape of a flower.</original>
+			<edited>A savory sandwich made to look like
+a cake, decorated with filleted fish in
+the shape of a flower.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_RoastedSalmon" offset="00" relocatable="true" max_length="0">
+			<original>Roast Salmon</original>
+			<edited>Roast Salmon</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_RoastedSalmon" offset="00" relocatable="true" max_length="0">
+			<original>Seasoned salmon that has been
+grilled in an oven.</original>
+			<edited>Seasoned salmon that has been
+grilled in an oven.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_StewedMashedPotatoesAndKale" offset="00" relocatable="true" max_length="0">
+			<original>Mashed Potato Stew</original>
+			<edited>Mashed Potato Stew</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_StewedMashedPotatoesAndKale" offset="00" relocatable="true" max_length="0">
+			<original>Mashed potatoes that have been
+stewed with herbs and milk.</original>
+			<edited>Mashed potatoes that have been
+stewed with herbs and milk.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_SalmonAndPotatoGratin" offset="00" relocatable="true" max_length="0">
+			<original>Salmon Potato Gratin</original>
+			<edited>Salmon Potato Gratin</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_SalmonAndPotatoGratin" offset="00" relocatable="true" max_length="0">
+			<original>Salted salmon and potatoes, heaped,
+then covered with an egg-and-milk
+mixture and baked in an oven.</original>
+			<edited>Salted salmon and potatoes, heaped,
+then covered with an egg-and-milk
+mixture and baked in an oven.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_ShamrockSalad" offset="00" relocatable="true" max_length="0">
+			<original>Clover Salad</original>
+			<edited>Clover Salad</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_ShamrockSalad" offset="00" relocatable="true" max_length="0">
+			<original>Fresh clover that has been arranged
+and sprinkled with olive oil or
+vinegar.</original>
+			<edited>Fresh clover that has been arranged
+and sprinkled with olive oil or
+vinegar.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BaconAndFishWrappedBread" offset="00" relocatable="true" max_length="0">
+			<original>Fish-and-Bacon Pocket Bun</original>
+			<edited>Fish-and-Bacon Pocket Bun</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BaconAndFishWrappedBread" offset="00" relocatable="true" max_length="0">
+			<original>Alternating layers of bacon and fish,
+salted and wrapped in well-kneaded
+rye dough, then baked in an oven.</original>
+			<edited>Alternating layers of bacon and fish,
+salted and wrapped in well-kneaded
+rye dough, then baked in an oven.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_JamCookies" offset="00" relocatable="true" max_length="0">
+			<original>Jam Thumbprint Cookies</original>
+			<edited>Jam Thumbprint Cookies</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_JamCookies" offset="00" relocatable="true" max_length="0">
+			<original>Oven-baked cookies with a dimple
+of jam in the center.</original>
+			<edited>Oven-baked cookies with a dimple
+of jam in the center.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_CinnamonRoll" offset="00" relocatable="true" max_length="0">
+			<original>Cinnamon Roll</original>
+			<edited>Cinnamon Roll</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_CinnamonRoll" offset="00" relocatable="true" max_length="0">
+			<original>Stretched dough, covered in butter,
+sprinkled with cinnamon and sugar,
+then rolled up and baked in an oven.</original>
+			<edited>Stretched dough, covered in butter,
+sprinkled with cinnamon and sugar,
+then rolled up and baked in an oven.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_CabbageAndNutSalad" offset="00" relocatable="true" max_length="0">
+			<original>Cabbage-and-Nut Salad</original>
+			<edited>Cabbage-and-Nut Salad</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_CabbageAndNutSalad" offset="00" relocatable="true" max_length="0">
+			<original>A mix of fresh cabbage and assorted
+nuts, topped with dressing just
+before serving.</original>
+			<edited>A mix of fresh cabbage and assorted
+nuts, topped with dressing just
+before serving.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_OpenSandwich" offset="00" relocatable="true" max_length="0">
+			<original>Open-Faced Sandwich</original>
+			<edited>Open-Faced Sandwich</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_OpenSandwich" offset="00" relocatable="true" max_length="0">
+			<original>Slices of rye bread spread with
+butter and generously topped with
+cheese, smoked salmon, and more.</original>
+			<edited>Slices of rye bread spread with
+butter and generously topped with
+cheese, smoked salmon, and more.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_AppleCharlotte" offset="00" relocatable="true" max_length="0">
+			<original>Apple Pudding Pie</original>
+			<edited>Apple Pudding Pie</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_AppleCharlotte" offset="00" relocatable="true" max_length="0">
+			<original>A pie-like pudding made from apples,
+pan-fried on high heat, baked in a
+crust of buttery bread, then chilled.</original>
+			<edited>A pie-like pudding made from apples,
+pan-fried on high heat, baked in a
+crust of buttery bread, then chilled.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_MochiPancake" offset="00" relocatable="true" max_length="0">
+			<original>Puffy Pancakes</original>
+			<edited>Puffy Pancakes</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_MochiPancake" offset="00" relocatable="true" max_length="0">
+			<original>A batter of eggs, flour, and milk that
+has been poured over a griddle and
+delicately fried.</original>
+			<edited>A batter of eggs, flour, and milk that
+has been poured over a griddle and
+delicately fried.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_SauteedBaconAndApples" offset="00" relocatable="true" max_length="0">
+			<original>Sautéed Apples with Bacon</original>
+			<edited>Sautéed Apples with Bacon</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_SauteedBaconAndApples" offset="00" relocatable="true" max_length="0">
+			<original>Chopped pork belly meat, fried and
+served with apples that were pan-
+fried on high heat with very little oil.</original>
+			<edited>Chopped pork belly meat, fried and
+served with apples that were pan-
+fried on high heat with very little oil.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BerryJelly" offset="00" relocatable="true" max_length="0">
+			<original>Berry Jelly</original>
+			<edited>Berry Jelly</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BerryJelly" offset="00" relocatable="true" max_length="0">
+			<original>Berry juice, thickened with potato
+starch and chilled, then served with
+fresh cream on top.</original>
+			<edited>Berry juice, thickened with potato
+starch and chilled, then served with
+fresh cream on top.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BakingSodaBread" offset="00" relocatable="true" max_length="0">
+			<original>Soda Bread</original>
+			<edited>Soda Bread</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BakingSodaBread" offset="00" relocatable="true" max_length="0">
+			<original>Bread made with baking soda in
+place of yeast.</original>
+			<edited>Bread made with baking soda in
+place of yeast.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_SashimiPlatter" offset="00" relocatable="true" max_length="0">
+			<original>Sashimi Moriawase</original>
+			<edited>Sashimi Moriawase</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_SashimiPlatter" offset="00" relocatable="true" max_length="0">
+			<original>Thin slices of assorted raw fish.</original>
+			<edited>Thin slices of assorted raw fish.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_MisoSoup" offset="00" relocatable="true" max_length="0">
+			<original>Miso Soup</original>
+			<edited>Miso Soup</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_MisoSoup" offset="00" relocatable="true" max_length="0">
+			<original>A mixture of fermented beans or
+wheat, stirred into hot water and
+served with tofu or seaweed.</original>
+			<edited>A mixture of fermented beans or
+wheat, stirred into hot water and
+served with tofu or seaweed.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_Uiro" offset="00" relocatable="true" max_length="0">
+			<original>Uiro</original>
+			<edited>Uiro</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_Uiro" offset="00" relocatable="true" max_length="0">
+			<original>Blocks of wheat or cake flour with
+added sugar, steamed to harden.</original>
+			<edited>Blocks of wheat or cake flour with
+added sugar, steamed to harden.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_Anmitsu" offset="00" relocatable="true" max_length="0">
+			<original>Anmitsu</original>
+			<edited>Anmitsu</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_Anmitsu" offset="00" relocatable="true" max_length="0">
+			<original>Adzuki beans, agar cubes, peaches,
+and oranges, arranged together and
+topped with brown-sugar syrup.</original>
+			<edited>Adzuki beans, agar cubes, peaches,
+and oranges, arranged together and
+topped with brown-sugar syrup.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_EggOverRice" offset="00" relocatable="true" max_length="0">
+			<original>Rice with Egg</original>
+			<edited>Rice with Egg</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_EggOverRice" offset="00" relocatable="true" max_length="0">
+			<original>A bowl of cooked rice topped with a
+poached egg and soy sauce.</original>
+			<edited>A bowl of cooked rice topped with a
+poached egg and soy sauce.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_CountrysideBread" offset="00" relocatable="true" max_length="0">
+			<original>Peasant Bread</original>
+			<edited>Peasant Bread</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_CountrysideBread" offset="00" relocatable="true" max_length="0">
+			<original>A large round loaf of bread made
+from only rye flour, salt, and water.</original>
+			<edited>A large round loaf of bread made
+from only rye flour, salt, and water.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_Croissant" offset="00" relocatable="true" max_length="0">
+			<original>Croissant</original>
+			<edited>Croissant</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_Croissant" offset="00" relocatable="true" max_length="0">
+			<original>Bread with butter between several
+layers of dough, folded many times,
+then baked into a crescent moon.</original>
+			<edited>Bread with butter between several
+layers of dough, folded many times,
+then baked into a crescent moon.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_StewedLambMeat" offset="00" relocatable="true" max_length="0">
+			<original>Mutton Stew</original>
+			<edited>Mutton Stew</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_StewedLambMeat" offset="00" relocatable="true" max_length="0">
+			<original>Pan-fried mutton, stewed alongside
+potatoes and onions.</original>
+			<edited>Pan-fried mutton, stewed alongside
+potatoes and onions.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_StewedVegetables" offset="00" relocatable="true" max_length="0">
+			<original>Very Veggie Stew</original>
+			<edited>Very Veggie Stew</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_StewedVegetables" offset="00" relocatable="true" max_length="0">
+			<original>A hearty soup, loaded with a wide
+variety of vegetables.</original>
+			<edited>A hearty soup, loaded with a wide
+variety of vegetables.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_CodDip" offset="00" relocatable="true" max_length="0">
+			<original>Cod Dip</original>
+			<edited>Cod Dip</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_CodDip" offset="00" relocatable="true" max_length="0">
+			<original>Cod and potatoes, boiled in milk,
+then mashed into a paste. Served
+as a spread over bread.</original>
+			<edited>Cod and potatoes, boiled in milk,
+then mashed into a paste. Served
+as a spread over bread.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_HotCrepe" offset="00" relocatable="true" max_length="0">
+			<original>Hot Crêpe</original>
+			<edited>Hot Crêpe</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_HotCrepe" offset="00" relocatable="true" max_length="0">
+			<original>A crêpe, flambéed with orange juice
+for extra fragrance.</original>
+			<edited>A crêpe, flambéed with orange juice
+for extra fragrance.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BerryAndCustardTartCake" offset="00" relocatable="true" max_length="0">
+			<original>Berry Custard Tart</original>
+			<edited>Berry Custard Tart</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BerryAndCustardTartCake" offset="00" relocatable="true" max_length="0">
+			<original>Custard and berry jam baked
+between layers of tart dough.</original>
+			<edited>Custard and berry jam baked
+between layers of tart dough.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_PeachSorbet" offset="00" relocatable="true" max_length="0">
+			<original>Peach Sorbet</original>
+			<edited>Peach Sorbet</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_PeachSorbet" offset="00" relocatable="true" max_length="0">
+			<original>Juice squeezed from fresh peaches
+then stirred and frozen. To be eaten
+with a spoon.</original>
+			<edited>Juice squeezed from fresh peaches
+then stirred and frozen. To be eaten
+with a spoon.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_AppleBeignet" offset="00" relocatable="true" max_length="0">
+			<original>Apple Beignets</original>
+			<edited>Apple Beignets</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_AppleBeignet" offset="00" relocatable="true" max_length="0">
+			<original>Apples dipped in choux batter and
+fried in oil, served with a topping of
+sprinkled sugar.</original>
+			<edited>Apples dipped in choux batter and
+fried in oil, served with a topping of
+sprinkled sugar.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_OrangeChocolate" offset="00" relocatable="true" max_length="0">
+			<original>Chocolate Orange</original>
+			<edited>Chocolate Orange</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_OrangeChocolate" offset="00" relocatable="true" max_length="0">
+			<original>Sugar-infused oranges, baked in an
+oven, then coated in chocolate after
+cooling.</original>
+			<edited>Sugar-infused oranges, baked in an
+oven, then coated in chocolate after
+cooling.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_FruitCandy" offset="00" relocatable="true" max_length="0">
+			<original>Candied Fruits</original>
+			<edited>Candied Fruits</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_FruitCandy" offset="00" relocatable="true" max_length="0">
+			<original>Fruit coated entirely in syrup or
+sugar, with a stick as a handle.
+Makes a great snack.</original>
+			<edited>Fruit coated entirely in syrup or
+sugar, with a stick as a handle.
+Makes a great snack.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_Smoothie" offset="00" relocatable="true" max_length="0">
+			<original>Fruit Smoothie</original>
+			<edited>Fruit Smoothie</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_Smoothie" offset="00" relocatable="true" max_length="0">
+			<original>A thick beverage made by crushing,
+mixing, and swirling a variety of
+fruit pieces together.</original>
+			<edited>A thick beverage made by crushing,
+mixing, and swirling a variety of
+fruit pieces together.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_AppleCanpot" offset="00" relocatable="true" max_length="0">
+			<original>Apple Compote</original>
+			<edited>Apple Compote</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_AppleCanpot" offset="00" relocatable="true" max_length="0">
+			<original>A sweet beverage made from apples
+that have been simmered with water
+and sugar. Serve either hot or cold.</original>
+			<edited>A sweet beverage made from apples
+that have been simmered with water
+and sugar. Serve either hot or cold.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_OrangeMarmalade" offset="00" relocatable="true" max_length="0">
+			<original>Orange Marmalade</original>
+			<edited>Orange Marmalade</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_OrangeMarmalade" offset="00" relocatable="true" max_length="0">
+			<original>A fruit preserve made from oranges
+that have been boiled with sugar and
+water while still in their skins.</original>
+			<edited>A fruit preserve made from oranges
+that have been boiled with sugar and
+water while still in their skins.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_VegetableStick" offset="00" relocatable="true" max_length="0">
+			<original>Veggie Sticks</original>
+			<edited>Veggie Sticks</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_VegetableStick" offset="00" relocatable="true" max_length="0">
+			<original>Various vegetables that have been
+cut into stick-like shapes for easy
+dipping into condiments or sauces.</original>
+			<edited>Various vegetables that have been
+cut into stick-like shapes for easy
+dipping into condiments or sauces.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_ChiliSalad" offset="00" relocatable="true" max_length="0">
+			<original>Chili Salad</original>
+			<edited>Chili Salad</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_ChiliSalad" offset="00" relocatable="true" max_length="0">
+			<original>A salad topped with chili sauce made
+from many different spices.</original>
+			<edited>A salad topped with chili sauce made
+from many different spices.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_ChiliFruitStick" offset="00" relocatable="true" max_length="0">
+			<original>Chili-Covered Fruit Sticks</original>
+			<edited>Chili-Covered Fruit Sticks</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_ChiliFruitStick" offset="00" relocatable="true" max_length="0">
+			<original>Pieces of raw fruit, placed on sticks
+and sprinkled with spicy powder.</original>
+			<edited>Pieces of raw fruit, placed on sticks
+and sprinkled with spicy powder.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_ChiliIceCream" offset="00" relocatable="true" max_length="0">
+			<original>Peach Sorbet with Chili Sauce</original>
+			<edited>Peach Sorbet with Chili Sauce</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_ChiliIceCream" offset="00" relocatable="true" max_length="0">
+			<original>A scoop of peach sorbet topped with
+chili sauce.</original>
+			<edited>A scoop of peach sorbet topped with
+chili sauce.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_RedPepperPickles" offset="00" relocatable="true" max_length="0">
+			<original>Pickled Chilies</original>
+			<edited>Pickled Chilies</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_RedPepperPickles" offset="00" relocatable="true" max_length="0">
+			<original>Whole chili peppers that have been
+pickled in vinegar.</original>
+			<edited>Whole chili peppers that have been
+pickled in vinegar.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_TomYumSoupWithChicken" offset="00" relocatable="true" max_length="0">
+			<original>Chicken Tom Yum Soup</original>
+			<edited>Chicken Tom Yum Soup</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_TomYumSoupWithChicken" offset="00" relocatable="true" max_length="0">
+			<original>Spices simmered in chicken soup.
+It's known for its complex fragrance
+and sour spiciness.</original>
+			<edited>Spices simmered in chicken soup.
+It's known for its complex fragrance
+and sour spiciness.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BoiledChiliWithCheese" offset="00" relocatable="true" max_length="0">
+			<original>Chili-Cheese Stew</original>
+			<edited>Chili-Cheese Stew</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BoiledChiliWithCheese" offset="00" relocatable="true" max_length="0">
+			<original>Chilies that have been stewed with
+cheese in water, then stewed again
+with added tomatoes and garlic.</original>
+			<edited>Chilies that have been stewed with
+cheese in water, then stewed again
+with added tomatoes and garlic.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_RedMaboTofu" offset="00" relocatable="true" max_length="0">
+			<original>Red Mapo Tofu</original>
+			<edited>Red Mapo Tofu</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_RedMaboTofu" offset="00" relocatable="true" max_length="0">
+			<original>Ground beef and tofu, stir-fried with
+a variety of spices, including chilies.
+Warning: extremely spicy!</original>
+			<edited>Ground beef and tofu, stir-fried with
+a variety of spices, including chilies.
+Warning: extremely spicy!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_FriedPorkKimchi" offset="00" relocatable="true" max_length="0">
+			<original>Pork and Kimchi Stir-Fry</original>
+			<edited>Pork and Kimchi Stir-Fry</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_FriedPorkKimchi" offset="00" relocatable="true" max_length="0">
+			<original>Pork belly stir-fried with a variety
+of vegetables that have been pickled
+with spices, including chilies.</original>
+			<edited>Pork belly stir-fried with a variety
+of vegetables that have been pickled
+with spices, including chilies.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_COND_ComeFromBrodia" offset="00" relocatable="true" max_length="0">
+			<original>Brodian</original>
+			<edited>Brodian</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_COND_ComeFromFilene" offset="00" relocatable="true" max_length="0">
+			<original>Firenese</original>
+			<edited>Firenese</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_COND_ComeFromSolum" offset="00" relocatable="true" max_length="0">
+			<original>Solmic</original>
+			<edited>Solmic</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_COND_ComeFromIrcion" offset="00" relocatable="true" max_length="0">
+			<original>Elusian</original>
+			<edited>Elusian</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_COND_ComeFromLithos" offset="00" relocatable="true" max_length="0">
+			<original>Lythian</original>
+			<edited>Lythian</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_COND_IsMale" offset="00" relocatable="true" max_length="0">
+			<original>Male</original>
+			<edited>Male</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_COND_IsFemale" offset="00" relocatable="true" max_length="0">
+			<original>Female</original>
+			<edited>Female</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_COND_IsAdult" offset="00" relocatable="true" max_length="0">
+			<original>Older</original>
+			<edited>Older</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_COND_IsChild" offset="00" relocatable="true" max_length="0">
+			<original>Younger</original>
+			<edited>Younger</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_COND_IsLueur" offset="00" relocatable="true" max_length="0">
+			<original>Divine Dragon</original>
+			<edited>Divine Dragon</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

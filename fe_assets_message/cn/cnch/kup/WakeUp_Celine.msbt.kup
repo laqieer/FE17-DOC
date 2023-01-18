@@ -1,0 +1,479 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_WU_C_1_IN_#001" offset="00" relocatable="true" max_length="0">
+			<original>神龙大人，是我，锡莉奴。打扰了。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>神龙大人，是我，锡莉奴。打扰了。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_SOON_#001" offset="00" relocatable="true" max_length="0">
+			<original>啊，原来您已经醒了呀。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>啊，原来您已经醒了呀。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_SOON_#002" offset="00" relocatable="true" max_length="0">
+			<original>连睡醒时都这么高雅，真不愧是神龙大人。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>连睡醒时都这么高雅，真不愧是神龙大人。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_WAKEUP_#001" offset="00" relocatable="true" max_length="0">
+			<original>这让我想起了过去与母亲大人和哥哥……&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>这让我想起了过去与母亲大人和哥哥……&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_WAKEUP_#002" offset="00" relocatable="true" max_length="0">
+			<original>一起来索拉涅尔拜访时的情形。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>一起来索拉涅尔拜访时的情形。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_WAKEUP_#003" offset="00" relocatable="true" max_length="0">
+			<original>是啊，那天我也是像这样看着您的睡脸……&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>是啊，那天我也是像这样看着您的睡脸……&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_HELLO_#001" offset="00" relocatable="true" max_length="0">
+			<original>啊……！抱歉，我一时没能反应过来。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>啊……！抱歉，我一时没能反应过来。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_HELLO_#002" offset="00" relocatable="true" max_length="0">
+			<original>差点都忘了……您现在每天早上都会醒来了呢。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>差点都忘了……您现在每天早上都会醒来了呢。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_1_HELLO_#003" offset="00" relocatable="true" max_length="0">
+			<original>早安，神龙大人。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>早安，神龙大人。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_IN_#001" offset="00" relocatable="true" max_length="0">
+			<original>这楼梯比想象中还要陡呢，希望茶不会洒出来……&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>这楼梯比想象中还要陡呢，希望茶不会洒出来……&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_SOON_#001" offset="00" relocatable="true" max_length="0">
+			<original>早安。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>早安。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_SOON_#002" offset="00" relocatable="true" max_length="0">
+			<original>我为您带来了适合在早晨饮用的红茶……&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>我为您带来了适合在早晨饮用的红茶……&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_SOON_#003" offset="00" relocatable="true" max_length="0">
+			<original>要不要一起来品尝呢？&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>要不要一起来品尝呢？&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_WAKEUP_#001" offset="00" relocatable="true" max_length="0">
+			<original>神龙大人睡得可真甜呢。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>神龙大人睡得可真甜呢。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_WAKEUP_#002" offset="00" relocatable="true" max_length="0">
+			<original>希望您在梦中……&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>希望您在梦中……&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_WAKEUP_#003" offset="00" relocatable="true" max_length="0">
+			<original>也能闻到这股如花似蜜的茶香……&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>也能闻到这股如花似蜜的茶香……&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_WAKEUP_#004" offset="00" relocatable="true" max_length="0">
+			<original>嗯……真的好香……&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>嗯……真的好香……&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_HELLO_#001" offset="00" relocatable="true" max_length="0">
+			<original>呵呵，幸好您在茶凉之前醒来了。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>呵呵，幸好您在茶凉之前醒来了。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_HELLO_#002" offset="00" relocatable="true" max_length="0">
+			<original>今天我准备了好喝的红茶。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>今天我准备了好喝的红茶。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_C_2_HELLO_#003" offset="00" relocatable="true" max_length="0">
+			<original>希望能和您一起享用。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>希望能和您一起享用。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_IN_#001" offset="00" relocatable="true" max_length="0">
+			<original>我还是不太习惯自己一个人来这里呢……&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>我还是不太习惯自己一个人来这里呢……&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_SOON_#001" offset="00" relocatable="true" max_length="0">
+			<original>早安。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>早安。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_SOON_#002" offset="00" relocatable="true" max_length="0">
+			<original>哎呀……神龙大人，您的头发有点乱了。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>哎呀……神龙大人，您的头发有点乱了。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_SOON_#003" offset="00" relocatable="true" max_length="0">
+			<original>我去拿把梳子，待会替您整理一下哦。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>我去拿把梳子，待会替您整理一下哦。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_WAKEUP_#001" offset="00" relocatable="true" max_length="0">
+			<original>小时候来这里是为了拜见神龙大人……&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>小时候来这里是为了拜见神龙大人……&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_WAKEUP_#002" offset="00" relocatable="true" max_length="0">
+			<original>所以现在还是会紧张。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>所以现在还是会紧张。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_WAKEUP_#003" offset="00" relocatable="true" max_length="0">
+			<original>是啊……以前都是琉弥艾尔大人……&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>是啊……以前都是琉弥艾尔大人……&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_WAKEUP_#004" offset="00" relocatable="true" max_length="0">
+			<original>带我来这里的……&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>带我来这里的……&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_HELLO_#001" offset="00" relocatable="true" max_length="0">
+			<original>神龙大人，您有什么心事就尽管告诉我吧。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>神龙大人，您有什么心事就尽管告诉我吧。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_HELLO_#002" offset="00" relocatable="true" max_length="0">
+			<original>我一定可以帮上您的忙。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>我一定可以帮上您的忙。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_1_HELLO_#003" offset="00" relocatable="true" max_length="0">
+			<original>……呵呵，瞧我一大早就在说什么呢，真是抱歉。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>……呵呵，瞧我一大早就在说什么呢，真是抱歉。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_IN_#001" offset="00" relocatable="true" max_length="0">
+			<original>在索拉涅尔散步的时候……&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>在索拉涅尔散步的时候……&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_IN_#002" offset="00" relocatable="true" max_length="0">
+			<original>美丽的自然风光让我心中充满了幸福。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>美丽的自然风光让我心中充满了幸福。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_SOON_#001" offset="00" relocatable="true" max_length="0">
+			<original>尽管这世上有许多令人痛心的事……&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>尽管这世上有许多令人痛心的事……&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_SOON_#002" offset="00" relocatable="true" max_length="0">
+			<original>但我仍希望神龙大人能迎来幸福的每一天。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>但我仍希望神龙大人能迎来幸福的每一天。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_WAKEUP_#001" offset="00" relocatable="true" max_length="0">
+			<original>您还记得我之前提过的费列聂传说吗？&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>您还记得我之前提过的费列聂传说吗？&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_WAKEUP_#002" offset="00" relocatable="true" max_length="0">
+			<original>索拉涅尔会不会也有传说啊……&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>索拉涅尔会不会也有传说啊……&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_WAKEUP_#003" offset="00" relocatable="true" max_length="0">
+			<original>感觉就算在池畔或树荫下发现妖精也不奇怪呢。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>感觉就算在池畔或树荫下发现妖精也不奇怪呢。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_HELLO_#001" offset="00" relocatable="true" max_length="0">
+			<original>您睡醒的样子真美……&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>您睡醒的样子真美……&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_HELLO_#002" offset="00" relocatable="true" max_length="0">
+			<original>我明白了，您就是此地的传说吧。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>我明白了，您就是此地的传说吧。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_HELLO_#003" offset="00" relocatable="true" max_length="0">
+			<original>呵呵，总觉得……&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>呵呵，总觉得……&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_B_2_HELLO_#004" offset="00" relocatable="true" max_length="0">
+			<original>我又发现了一些幸福呢。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>我又发现了一些幸福呢。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_IN_#001" offset="00" relocatable="true" max_length="0">
+			<original>神龙大人，今天路上开了许多漂亮的花哦。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>神龙大人，今天路上开了许多漂亮的花哦。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_SOON_#001" offset="00" relocatable="true" max_length="0">
+			<original>咦，神龙大人也喜欢花吗？&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>咦，神龙大人也喜欢花吗？&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_SOON_#002" offset="00" relocatable="true" max_length="0">
+			<original>那么，请您下次来池塘旁的凉亭看看吧。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>那么，请您下次来池塘旁的凉亭看看吧。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_SOON_#003" offset="00" relocatable="true" max_length="0">
+			<original>那里盛开的花朵，是我在照顾的。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>那里盛开的花朵，是我在照顾的。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_WAKEUP_#001" offset="00" relocatable="true" max_length="0">
+			<original>其实我很想带一朵来给您。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>其实我很想带一朵来给您。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_WAKEUP_#002" offset="00" relocatable="true" max_length="0">
+			<original>虽然都说“花开堪折直须折”……&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>虽然都说“花开堪折直须折”……&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_WAKEUP_#003" offset="00" relocatable="true" max_length="0">
+			<original>但我总觉得于心不忍。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>但我总觉得于心不忍。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_HELLO_#001" offset="00" relocatable="true" max_length="0">
+			<original>早安。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>早安。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_HELLO_#002" offset="00" relocatable="true" max_length="0">
+			<original>对了，您要不要先和我去散散步呢？&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>对了，您要不要先和我去散散步呢？&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_1_HELLO_#003" offset="00" relocatable="true" max_length="0">
+			<original>我想让您看看早上发现的花朵。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>我想让您看看早上发现的花朵。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_IN_#001" offset="00" relocatable="true" max_length="0">
+			<original>神龙大人，谢谢您前些日子听我诉苦。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>神龙大人，谢谢您前些日子听我诉苦。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_SOON_#001" offset="00" relocatable="true" max_length="0">
+			<original>神龙大人正为了这个世界而战……&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>神龙大人正为了这个世界而战……&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_SOON_#002" offset="00" relocatable="true" max_length="0">
+			<original>我无法想象那会是多么沉重的负担。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>我无法想象那会是多么沉重的负担。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_SOON_#003" offset="00" relocatable="true" max_length="0">
+			<original>当您感到痛苦时，一定要告诉我哦。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>当您感到痛苦时，一定要告诉我哦。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_WAKEUP_#001" offset="00" relocatable="true" max_length="0">
+			<original>盗茶贼一事……&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>盗茶贼一事……&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_WAKEUP_#002" offset="00" relocatable="true" max_length="0">
+			<original>当我感到痛苦，是神龙大人的话救了我。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>当我感到痛苦，是神龙大人的话救了我。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_WAKEUP_#003" offset="00" relocatable="true" max_length="0">
+			<original>您说那不是我的弱点，而是我的体贴……&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>您说那不是我的弱点，而是我的体贴……&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_WAKEUP_#004" offset="00" relocatable="true" max_length="0">
+			<original>希望有天我也能对自己这么说。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>希望有天我也能对自己这么说。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_HELLO_#001" offset="00" relocatable="true" max_length="0">
+			<original>早安，今天也一起好好奋战吧。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>早安，今天也一起好好奋战吧。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_HELLO_#002" offset="00" relocatable="true" max_length="0">
+			<original>为了费列聂的和平、为了神龙大人……&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>为了费列聂的和平、为了神龙大人……&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_A_2_HELLO_#003" offset="00" relocatable="true" max_length="0">
+			<original>即便弄脏自己的双手，我也在所不惜。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>即便弄脏自己的双手，我也在所不惜。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_IN_#001" offset="00" relocatable="true" max_length="0">
+			<original>没想到叫搭档起床是这么幸福的事呢。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>没想到叫搭档起床是这么幸福的事呢。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_SOON_#001" offset="00" relocatable="true" max_length="0">
+			<original>早安，今天早上我也泡了红茶来哦。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>早安，今天早上我也泡了红茶来哦。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_SOON_#002" offset="00" relocatable="true" max_length="0">
+			<original>或许是因为常和你一起喝茶吧……&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>或许是因为常和你一起喝茶吧……&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_SOON_#003" offset="00" relocatable="true" max_length="0">
+			<original>每当我闻到这股茶香就会想起你。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>每当我闻到这股茶香就会想起你。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_WAKEUP_#001" offset="00" relocatable="true" max_length="0">
+			<original>谢谢你愿意将“约定戒指”送给我。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>谢谢你愿意将“约定戒指”送给我。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_WAKEUP_#002" offset="00" relocatable="true" max_length="0">
+			<original>哥哥听到后也吓了一跳。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>哥哥听到后也吓了一跳。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_WAKEUP_#003" offset="00" relocatable="true" max_length="0">
+			<original>不过，他还是衷心地祝福了我们。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>不过，他还是衷心地祝福了我们。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_WAKEUP_#004" offset="00" relocatable="true" max_length="0">
+			<original>从那天起……&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>从那天起……&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_WAKEUP_#005" offset="00" relocatable="true" max_length="0">
+			<original>我就觉得幸福到有些害怕。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>我就觉得幸福到有些害怕。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_WAKEUP_#006" offset="00" relocatable="true" max_length="0">
+			<original>要是失去了你，我绝对无法承受。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>要是失去了你，我绝对无法承受。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_WAKEUP_#007" offset="00" relocatable="true" max_length="0">
+			<original>所以……你一定要平安无事啊……&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>所以……你一定要平安无事啊……&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_HELLO_#001" offset="00" relocatable="true" max_length="0">
+			<original>早安，你睡醒的样子……&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>早安，你睡醒的样子……&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_HELLO_#002" offset="00" relocatable="true" max_length="0">
+			<original>就好像在早晨盛开的花朵。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>就好像在早晨盛开的花朵。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_HELLO_#003" offset="00" relocatable="true" max_length="0">
+			<original>愿这朵花永不凋零……&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>愿这朵花永不凋零……&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_1_HELLO_#004" offset="00" relocatable="true" max_length="0">
+			<original>而我……也会守护你直到生命的尽头。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>而我……也会守护你直到生命的尽头。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_IN_#001" offset="00" relocatable="true" max_length="0">
+			<original>我很喜欢这个地方。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>我很喜欢这个地方。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_IN_#002" offset="00" relocatable="true" max_length="0">
+			<original>……因为有你在我的身边。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>……因为有你在我的身边。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_SOON_#001" offset="00" relocatable="true" max_length="0">
+			<original>哪怕遇到再痛苦的事情……&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>哪怕遇到再痛苦的事情……&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_SOON_#002" offset="00" relocatable="true" max_length="0">
+			<original>只要来到这里，我就会觉得……&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>只要来到这里，我就会觉得……&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_SOON_#003" offset="00" relocatable="true" max_length="0">
+			<original>嗯，今天也一定会是美好的一天……&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>嗯，今天也一定会是美好的一天……&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_SOON_#004" offset="00" relocatable="true" max_length="0">
+			<original>只要和你在一起，不管是什么样的战场我都不怕。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>只要和你在一起，不管是什么样的战场我都不怕。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_WAKEUP_#001" offset="00" relocatable="true" max_length="0">
+			<original>每当我在战场上夺取他人性命后，&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>每当我在战场上夺取他人性命后，&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_WAKEUP_#002" offset="00" relocatable="true" max_length="0">
+			<original>我心里总会产生无法抹灭的罪恶感……&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>我心里总会产生无法抹灭的罪恶感……&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_WAKEUP_#003" offset="00" relocatable="true" max_length="0">
+			<original>但你曾说过……不论我做出怎样的决定，
+你都愿意陪在我身旁……对吧？&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>但你曾说过……不论我做出怎样的决定，
+你都愿意陪在我身旁……对吧？&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_WAKEUP_#004" offset="00" relocatable="true" max_length="0">
+			<original>这句话让我感到无比地安心……&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>这句话让我感到无比地安心……&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_WAKEUP_#005" offset="00" relocatable="true" max_length="0">
+			<original>是它给了我继续成长的力量。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>是它给了我继续成长的力量。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_WAKEUP_#006" offset="00" relocatable="true" max_length="0">
+			<original>对我而言……你的话就像是护身符一样。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>对我而言……你的话就像是护身符一样。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_HELLO_#001" offset="00" relocatable="true" max_length="0">
+			<original>早安。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>早安。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_HELLO_#002" offset="00" relocatable="true" max_length="0">
+			<original>上战场前我都会把“约定戒指”摘下来。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>上战场前我都会把“约定戒指”摘下来。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_HELLO_#003" offset="00" relocatable="true" max_length="0">
+			<original>因为……我想让这枚戒指……&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>因为……我想让这枚戒指……&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_WU_S_2_HELLO_#004" offset="00" relocatable="true" max_length="0">
+			<original>像我们的感情一样纯洁无瑕。&#xE;&#x4;&#x0;&#x0;</original>
+			<edited>像我们的感情一样纯洁无瑕。&#xE;&#x4;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

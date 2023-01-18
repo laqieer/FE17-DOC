@@ -1,0 +1,1761 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_FOOD_RESULT" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Superb" offset="00" relocatable="true" max_length="0">
+			<original>极好的</original>
+			<edited>极好的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Delicious" offset="00" relocatable="true" max_length="0">
+			<original>美味的</original>
+			<edited>美味的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Growling" offset="00" relocatable="true" max_length="0">
+			<original>赞不绝口的</original>
+			<edited>赞不绝口的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Melt" offset="00" relocatable="true" max_length="0">
+			<original>入口即化的</original>
+			<edited>入口即化的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_HighKing" offset="00" relocatable="true" max_length="0">
+			<original>霸王的</original>
+			<edited>霸王的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_HolyMother" offset="00" relocatable="true" max_length="0">
+			<original>圣母的</original>
+			<edited>圣母的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Courage" offset="00" relocatable="true" max_length="0">
+			<original>勇气的</original>
+			<edited>勇气的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Wisdom" offset="00" relocatable="true" max_length="0">
+			<original>睿智的</original>
+			<edited>睿智的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Chalk" offset="00" relocatable="true" max_length="0">
+			<original>白垩的</original>
+			<edited>白垩的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Mens" offset="00" relocatable="true" max_length="0">
+			<original>不精致的</original>
+			<edited>不精致的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_ForBoys" offset="00" relocatable="true" max_length="0">
+			<original>令人着迷的</original>
+			<edited>令人着迷的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Woman" offset="00" relocatable="true" max_length="0">
+			<original>大胆的</original>
+			<edited>大胆的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_ForGirls" offset="00" relocatable="true" max_length="0">
+			<original>纤细的</original>
+			<edited>纤细的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Adult" offset="00" relocatable="true" max_length="0">
+			<original>大人的</original>
+			<edited>大人的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Child" offset="00" relocatable="true" max_length="0">
+			<original>小孩的</original>
+			<edited>小孩的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Your" offset="00" relocatable="true" max_length="0">
+			<original>你的</original>
+			<edited>你的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Discerning" offset="00" relocatable="true" max_length="0">
+			<original>讲究的</original>
+			<edited>讲究的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Whimsical" offset="00" relocatable="true" max_length="0">
+			<original>反复无常的</original>
+			<edited>反复无常的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Rich" offset="00" relocatable="true" max_length="0">
+			<original>浓厚的</original>
+			<edited>浓厚的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Refreshing" offset="00" relocatable="true" max_length="0">
+			<original>清爽的</original>
+			<edited>清爽的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Sharp" offset="00" relocatable="true" max_length="0">
+			<original>均衡的</original>
+			<edited>均衡的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Friendly" offset="00" relocatable="true" max_length="0">
+			<original>温柔的</original>
+			<edited>温柔的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_BrodiaStyle" offset="00" relocatable="true" max_length="0">
+			<original>布罗帝亚风格的</original>
+			<edited>布罗帝亚风格的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_FileneStyle" offset="00" relocatable="true" max_length="0">
+			<original>费列聂风格的</original>
+			<edited>费列聂风格的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_SolumStyle" offset="00" relocatable="true" max_length="0">
+			<original>索尔姆风格的</original>
+			<edited>索尔姆风格的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_IrcionStyle" offset="00" relocatable="true" max_length="0">
+			<original>伊尔席翁风格的</original>
+			<edited>伊尔席翁风格的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_LithosStyle" offset="00" relocatable="true" max_length="0">
+			<original>里特司风格的</original>
+			<edited>里特司风格的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Wild" offset="00" relocatable="true" max_length="0">
+			<original>充满野趣的</original>
+			<edited>充满野趣的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Exciting" offset="00" relocatable="true" max_length="0">
+			<original>豪爽的</original>
+			<edited>豪爽的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_CarefullySelected" offset="00" relocatable="true" max_length="0">
+			<original>严选的</original>
+			<edited>严选的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Fresh" offset="00" relocatable="true" max_length="0">
+			<original>新鲜的</original>
+			<edited>新鲜的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Spicy" offset="00" relocatable="true" max_length="0">
+			<original>特辣的</original>
+			<edited>特辣的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Hot" offset="00" relocatable="true" max_length="0">
+			<original>辣的</original>
+			<edited>辣的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Bitter" offset="00" relocatable="true" max_length="0">
+			<original>苦的</original>
+			<edited>苦的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Bittersweet" offset="00" relocatable="true" max_length="0">
+			<original>微苦的</original>
+			<edited>微苦的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_SuperSweet" offset="00" relocatable="true" max_length="0">
+			<original>超甜的</original>
+			<edited>超甜的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Sweet" offset="00" relocatable="true" max_length="0">
+			<original>甜的</original>
+			<edited>甜的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Chewy" offset="00" relocatable="true" max_length="0">
+			<original>有咬劲的</original>
+			<edited>有咬劲的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Hard" offset="00" relocatable="true" max_length="0">
+			<original>较硬的</original>
+			<edited>较硬的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Habit" offset="00" relocatable="true" max_length="0">
+			<original>会上瘾的</original>
+			<edited>会上瘾的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Smart" offset="00" relocatable="true" max_length="0">
+			<original>奇妙的</original>
+			<edited>奇妙的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Normal" offset="00" relocatable="true" max_length="0">
+			<original>普通的</original>
+			<edited>普通的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Mistake" offset="00" relocatable="true" max_length="0">
+			<original>哪里弄错了的</original>
+			<edited>哪里弄错了的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Shortage" offset="00" relocatable="true" max_length="0">
+			<original>缺少各种东西的</original>
+			<edited>缺少各种东西的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_DifferentStar" offset="00" relocatable="true" max_length="0">
+			<original>来自不同星星的</original>
+			<edited>来自不同星星的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_DefinitelySuffer" offset="00" relocatable="true" max_length="0">
+			<original>令人窒息的</original>
+			<edited>令人窒息的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_Carbonization" offset="00" relocatable="true" max_length="0">
+			<original>焦掉的</original>
+			<edited>焦掉的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_OnionSoup" offset="00" relocatable="true" max_length="0">
+			<original>洋葱汤</original>
+			<edited>洋葱汤</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_OnionSoup" offset="00" relocatable="true" max_length="0">
+			<original>仅使用洋葱、水、调味料煮成的简易汤品。</original>
+			<edited>仅使用洋葱、水、调味料煮成的简易汤品。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_ConsommeSoup" offset="00" relocatable="true" max_length="0">
+			<original>豆子蔬菜清汤</original>
+			<edited>豆子蔬菜清汤</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_ConsommeSoup" offset="00" relocatable="true" max_length="0">
+			<original>加入厚切培根、蔬菜、豆子，
+慢慢熬煮而成的清汤。
+汤底则因人而异。</original>
+			<edited>加入厚切培根、蔬菜、豆子，
+慢慢熬煮而成的清汤。
+汤底则因人而异。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_DumplingsOfMeat" offset="00" relocatable="true" max_length="0">
+			<original>肉馅饺子</original>
+			<edited>肉馅饺子</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_DumplingsOfMeat" offset="00" relocatable="true" max_length="0">
+			<original>以面团包裹肉馅、蔬菜、面包粉，
+最后再加入香草煮熟后享用。</original>
+			<edited>以面团包裹肉馅、蔬菜、面包粉，
+最后再加入香草煮熟后享用。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_PotatoSoup" offset="00" relocatable="true" max_length="0">
+			<original>薯汤</original>
+			<edited>薯汤</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_PotatoSoup" offset="00" relocatable="true" max_length="0">
+			<original>使用捣成泥的薯类煮成的浓稠汤品。</original>
+			<edited>使用捣成泥的薯类煮成的浓稠汤品。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_WhiteSausage" offset="00" relocatable="true" max_length="0">
+			<original>白香肠</original>
+			<edited>白香肠</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_WhiteSausage" offset="00" relocatable="true" max_length="0">
+			<original>使用羊肉、新鲜猪肉培根，
+并以香草提味后制成的香肠</original>
+			<edited>使用羊肉、新鲜猪肉培根，
+并以香草提味后制成的香肠</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_StewedSaltedMeat" offset="00" relocatable="true" max_length="0">
+			<original>炖煮盐渍肉</original>
+			<edited>炖煮盐渍肉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_StewedSaltedMeat" offset="00" relocatable="true" max_length="0">
+			<original>将盐渍猪腱肉、蔬菜、香草
+炖煮数小时的料理。</original>
+			<edited>将盐渍猪腱肉、蔬菜、香草
+炖煮数小时的料理。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_CreamCroquette" offset="00" relocatable="true" max_length="0">
+			<original>奶油可乐饼</original>
+			<edited>奶油可乐饼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_CreamCroquette" offset="00" relocatable="true" max_length="0">
+			<original>加入了白酱的可乐饼。</original>
+			<edited>加入了白酱的可乐饼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_SmokedEel" offset="00" relocatable="true" max_length="0">
+			<original>烟熏鳗鱼</original>
+			<edited>烟熏鳗鱼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_SmokedEel" offset="00" relocatable="true" max_length="0">
+			<original>将去除内脏的鳗鱼烟熏而成的料理，
+口感柔软、可以连皮一起品尝。</original>
+			<edited>将去除内脏的鳗鱼烟熏而成的料理，
+口感柔软、可以连皮一起品尝。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_PickledPicklesHerringRoll" offset="00" relocatable="true" max_length="0">
+			<original>醋渍鲱鱼卷</original>
+			<edited>醋渍鲱鱼卷</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_PickledPicklesHerringRoll" offset="00" relocatable="true" max_length="0">
+			<original>用醋渍鲱鱼将洋葱等
+腌菜卷起来的料理。</original>
+			<edited>用醋渍鲱鱼将洋葱等
+腌菜卷起来的料理。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_FriedCarp" offset="00" relocatable="true" max_length="0">
+			<original>酥炸鲤鱼</original>
+			<edited>酥炸鲤鱼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_FriedCarp" offset="00" relocatable="true" max_length="0">
+			<original>将内脏处理干净的鲤鱼
+直接高温油炸的料理。</original>
+			<edited>将内脏处理干净的鲤鱼
+直接高温油炸的料理。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_ApplePie" offset="00" relocatable="true" max_length="0">
+			<original>苹果派</original>
+			<edited>苹果派</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_ApplePie" offset="00" relocatable="true" max_length="0">
+			<original>加入满满薄切苹果烘焙而成的派。</original>
+			<edited>加入满满薄切苹果烘焙而成的派。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_StewedCabbage" offset="00" relocatable="true" max_length="0">
+			<original>腌渍卷心菜</original>
+			<edited>腌渍卷心菜</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_StewedCabbage" offset="00" relocatable="true" max_length="0">
+			<original>将切好的卷心菜放入瓶子或腌菜缸中，
+并加入盐与香辛料仔细搅拌腌渍的料理。</original>
+			<edited>将切好的卷心菜放入瓶子或腌菜缸中，
+并加入盐与香辛料仔细搅拌腌渍的料理。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_PotatoPancakes" offset="00" relocatable="true" max_length="0">
+			<original>马铃薯松饼</original>
+			<edited>马铃薯松饼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_PotatoPancakes" offset="00" relocatable="true" max_length="0">
+			<original>将马铃薯磨成泥后加入面糊
+倒入平底锅煎制而成。</original>
+			<edited>将马铃薯磨成泥后加入面糊
+倒入平底锅煎制而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_SteamedDumpling" offset="00" relocatable="true" max_length="0">
+			<original>蒸团子</original>
+			<edited>蒸团子</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_SteamedDumpling" offset="00" relocatable="true" max_length="0">
+			<original>锅中放入黄油与牛奶进行加热，
+再把揉成圆形的面团整齐码好后盖上锅盖，
+这种蒸的手法类似于炖。</original>
+			<edited>锅中放入黄油与牛奶进行加热，
+再把揉成圆形的面团整齐码好后盖上锅盖，
+这种蒸的手法类似于炖。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_OnionQuiche" offset="00" relocatable="true" max_length="0">
+			<original>洋葱咸派</original>
+			<edited>洋葱咸派</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_OnionQuiche" offset="00" relocatable="true" max_length="0">
+			<original>将大量洋葱和培根以小火炒开后倒入
+咸派的面糊中，并使用烤箱烘烤而成。</original>
+			<edited>将大量洋葱和培根以小火炒开后倒入
+咸派的面糊中，并使用烤箱烘烤而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_FruitHamToast" offset="00" relocatable="true" max_length="0">
+			<original>苹果起司吐司</original>
+			<edited>苹果起司吐司</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_FruitHamToast" offset="00" relocatable="true" max_length="0">
+			<original>在吐司片上摆放苹果薄片与起司的料理。</original>
+			<edited>在吐司片上摆放苹果薄片与起司的料理。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_PeachCake" offset="00" relocatable="true" max_length="0">
+			<original>蜜桃蛋糕</original>
+			<edited>蜜桃蛋糕</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_PeachCake" offset="00" relocatable="true" max_length="0">
+			<original>在黄油面糊里加入蜜桃后烘焙而成，
+会撒满糖粉后再享用。</original>
+			<edited>在黄油面糊里加入蜜桃后烘焙而成，
+会撒满糖粉后再享用。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_NutsAndHoneyCake" offset="00" relocatable="true" max_length="0">
+			<original>树果焦糖蛋糕</original>
+			<edited>树果焦糖蛋糕</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_NutsAndHoneyCake" offset="00" relocatable="true" max_length="0">
+			<original>将焦糖树果切片放在面糊上烘焙，
+并加入卡士达奶油夹心的点心。</original>
+			<edited>将焦糖树果切片放在面糊上烘焙，
+并加入卡士达奶油夹心的点心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BoiledRedWineInBerry" offset="00" relocatable="true" max_length="0">
+			<original>糖浆炖莓果</original>
+			<edited>糖浆炖莓果</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BoiledRedWineInBerry" offset="00" relocatable="true" max_length="0">
+			<original>将莓果以及红石榴糖浆
+炖煮至浓稠状态后放置冷却，
+搭配清凉的冰淇淋一起享用。</original>
+			<edited>将莓果以及红石榴糖浆
+炖煮至浓稠状态后放置冷却，
+搭配清凉的冰淇淋一起享用。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_FriedBreadOfDonutStyle" offset="00" relocatable="true" max_length="0">
+			<original>甜甜圈式炸面包</original>
+			<edited>甜甜圈式炸面包</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_FriedBreadOfDonutStyle" offset="00" relocatable="true" max_length="0">
+			<original>内馅为果酱与奶油的炸面包。</original>
+			<edited>内馅为果酱与奶油的炸面包。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_TearingPancakes" offset="00" relocatable="true" max_length="0">
+			<original>撕碎松饼</original>
+			<edited>撕碎松饼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_TearingPancakes" offset="00" relocatable="true" max_length="0">
+			<original>薄煎香甜的松饼面糊后，
+撕成一口一个的大小并抹上黄油，
+最后撒上糖粉享用。</original>
+			<edited>薄煎香甜的松饼面糊后，
+撕成一口一个的大小并抹上黄油，
+最后撒上糖粉享用。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_Omlet" offset="00" relocatable="true" max_length="0">
+			<original>夹心蛋包</original>
+			<edited>夹心蛋包</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_Omlet" offset="00" relocatable="true" max_length="0">
+			<original>在欧姆蛋里加入番茄、起司等
+各种夹心内馅的料理。</original>
+			<edited>在欧姆蛋里加入番茄、起司等
+各种夹心内馅的料理。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_ThickGrilledCrepePizza" offset="00" relocatable="true" max_length="0">
+			<original>厚片可丽饼披萨</original>
+			<edited>厚片可丽饼披萨</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_ThickGrilledCrepePizza" offset="00" relocatable="true" max_length="0">
+			<original>厚煎可丽饼面糊制成的披萨，
+嚼劲十足。</original>
+			<edited>厚煎可丽饼面糊制成的披萨，
+嚼劲十足。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_ThickSlicedPotatoFries" offset="00" relocatable="true" max_length="0">
+			<original>厚切薯条</original>
+			<edited>厚切薯条</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_ThickSlicedPotatoFries" offset="00" relocatable="true" max_length="0">
+			<original>将厚切马铃薯高温油炸后，
+撒上大量盐巴的料理。</original>
+			<edited>将厚切马铃薯高温油炸后，
+撒上大量盐巴的料理。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_LambAndCabbageStew" offset="00" relocatable="true" max_length="0">
+			<original>炖煮卷心菜羊肉</original>
+			<edited>炖煮卷心菜羊肉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_LambAndCabbageStew" offset="00" relocatable="true" max_length="0">
+			<original>将羊肉和卷心菜一起下锅炖煮，
+煮到卷心菜入口即化为止的料理。</original>
+			<edited>将羊肉和卷心菜一起下锅炖煮，
+煮到卷心菜入口即化为止的料理。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_RoastWithSkinOfPorkBelly" offset="00" relocatable="true" max_length="0">
+			<original>脆皮猪五花</original>
+			<edited>脆皮猪五花</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_RoastWithSkinOfPorkBelly" offset="00" relocatable="true" max_length="0">
+			<original>将猪五花肉连皮带肉
+高温蒸烤而成。</original>
+			<edited>将猪五花肉连皮带肉
+高温蒸烤而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_SteamedThighMeatOfSaltedSheep" offset="00" relocatable="true" max_length="0">
+			<original>蒸盐渍羊腿</original>
+			<edited>蒸盐渍羊腿</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_SteamedThighMeatOfSaltedSheep" offset="00" relocatable="true" max_length="0">
+			<original>将盐巴均匀涂抹在羊腿肉上，
+经干燥过后再蒸烤而成。</original>
+			<edited>将盐巴均匀涂抹在羊腿肉上，
+经干燥过后再蒸烤而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_FruitPie" offset="00" relocatable="true" max_length="0">
+			<original>水果派</original>
+			<edited>水果派</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_FruitPie" offset="00" relocatable="true" max_length="0">
+			<original>将干燥后的水果干
+包进派里烘焙而成。</original>
+			<edited>将干燥后的水果干
+包进派里烘焙而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BoiledBeefInWine" offset="00" relocatable="true" max_length="0">
+			<original>葡萄酒炖牛肉</original>
+			<edited>葡萄酒炖牛肉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BoiledBeefInWine" offset="00" relocatable="true" max_length="0">
+			<original>将牛肉切成一口大小后，
+加入洋葱一起煸炒，并以葡萄酒酱汁炖煮，
+最后再放入奶油的料理。</original>
+			<edited>将牛肉切成一口大小后，
+加入洋葱一起煸炒，并以葡萄酒酱汁炖煮，
+最后再放入奶油的料理。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BraisedCod" offset="00" relocatable="true" max_length="0">
+			<original>炖煮鳕鱼</original>
+			<edited>炖煮鳕鱼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BraisedCod" offset="00" relocatable="true" max_length="0">
+			<original>将鳕鱼干泡发后加入碱水，
+再经炖煮而成。</original>
+			<edited>将鳕鱼干泡发后加入碱水，
+再经炖煮而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_FishCreamSoup" offset="00" relocatable="true" max_length="0">
+			<original>鲜鱼浓汤</original>
+			<edited>鲜鱼浓汤</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_FishCreamSoup" offset="00" relocatable="true" max_length="0">
+			<original>使用了大量鲜奶油的鲜鱼浓汤。</original>
+			<edited>使用了大量鲜奶油的鲜鱼浓汤。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_MeatDumplingWithCreamSauce" offset="00" relocatable="true" max_length="0">
+			<original>白酱肉丸</original>
+			<edited>白酱肉丸</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_MeatDumplingWithCreamSauce" offset="00" relocatable="true" max_length="0">
+			<original>给肉丸淋上味道浓郁的白酱，
+酱汁的甘甜果香和肉味相得益彰。</original>
+			<edited>给肉丸淋上味道浓郁的白酱，
+酱汁的甘甜果香和肉味相得益彰。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_MarinatedSalmon" offset="00" relocatable="true" max_length="0">
+			<original>腌泡鲑鱼</original>
+			<edited>腌泡鲑鱼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_MarinatedSalmon" offset="00" relocatable="true" max_length="0">
+			<original>使用盐、砂糖、香草腌渍的鲑鱼料理，
+有股独特的臭味。</original>
+			<edited>使用盐、砂糖、香草腌渍的鲑鱼料理，
+有股独特的臭味。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_CrispBread" offset="00" relocatable="true" max_length="0">
+			<original>薄脆饼干</original>
+			<edited>薄脆饼干</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_CrispBread" offset="00" relocatable="true" max_length="0">
+			<original>只用小麦粉、盐、水制作，
+外观类似苏打饼干的薄饼。</original>
+			<edited>只用小麦粉、盐、水制作，
+外观类似苏打饼干的薄饼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_PorridgeOfSourCream" offset="00" relocatable="true" max_length="0">
+			<original>酸奶油粥</original>
+			<edited>酸奶油粥</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_PorridgeOfSourCream" offset="00" relocatable="true" max_length="0">
+			<original>将酸奶油与小麦粉、
+牛奶一起炖煮而成。
+可以搭配砂糖以及融化的黄油享用。</original>
+			<edited>将酸奶油与小麦粉、
+牛奶一起炖煮而成。
+可以搭配砂糖以及融化的黄油享用。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_CrepePancake" offset="00" relocatable="true" max_length="0">
+			<original>可丽饼松饼</original>
+			<edited>可丽饼松饼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_CrepePancake" offset="00" relocatable="true" max_length="0">
+			<original>将松饼煎得像可丽饼一样薄，
+然后涂上果酱卷起来享用。</original>
+			<edited>将松饼煎得像可丽饼一样薄，
+然后涂上果酱卷起来享用。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_JamCake" offset="00" relocatable="true" max_length="0">
+			<original>果酱蛋糕</original>
+			<edited>果酱蛋糕</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_JamCake" offset="00" relocatable="true" max_length="0">
+			<original>涂上果酱的海绵蛋糕。</original>
+			<edited>涂上果酱的海绵蛋糕。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_TreeCake" offset="00" relocatable="true" max_length="0">
+			<original>大树蛋糕</original>
+			<edited>大树蛋糕</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_TreeCake" offset="00" relocatable="true" max_length="0">
+			<original>在面糊里面加入蛋白霜等材料，
+烘焙成大小不一的圆环形状，
+然后从大到小堆叠成圆锥形。</original>
+			<edited>在面糊里面加入蛋白霜等材料，
+烘焙成大小不一的圆环形状，
+然后从大到小堆叠成圆锥形。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_FishDumpling" offset="00" relocatable="true" max_length="0">
+			<original>鱼丸</original>
+			<edited>鱼丸</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_FishDumpling" offset="00" relocatable="true" max_length="0">
+			<original>将白肉鱼打成鱼浆做成鱼丸，
+再用黄油煎烤后炖煮而成。</original>
+			<edited>将白肉鱼打成鱼浆做成鱼丸，
+再用黄油煎烤后炖煮而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_GoatCheese" offset="00" relocatable="true" max_length="0">
+			<original>山羊起司</original>
+			<edited>山羊起司</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_GoatCheese" offset="00" relocatable="true" max_length="0">
+			<original>使用百分之百纯羊奶制成的褐色起司。</original>
+			<edited>使用百分之百纯羊奶制成的褐色起司。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_Oatmeal" offset="00" relocatable="true" max_length="0">
+			<original>燕麦</original>
+			<edited>燕麦</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_Oatmeal" offset="00" relocatable="true" max_length="0">
+			<original>将牛奶倒入麦片后加热而成的料理。</original>
+			<edited>将牛奶倒入麦片后加热而成的料理。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BakedPotatoes" offset="00" relocatable="true" max_length="0">
+			<original>烤马铃薯</original>
+			<edited>烤马铃薯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BakedPotatoes" offset="00" relocatable="true" max_length="0">
+			<original>将整颗烤熟的马铃薯切开后，
+搭配起司、豆子等配料享用。</original>
+			<edited>将整颗烤熟的马铃薯切开后，
+搭配起司、豆子等配料享用。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_NutsCompote" offset="00" relocatable="true" max_length="0">
+			<original>树果蜜饯</original>
+			<edited>树果蜜饯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_NutsCompote" offset="00" relocatable="true" max_length="0">
+			<original>将多种树果加进糖水中炖煮而成。</original>
+			<edited>将多种树果加进糖水中炖煮而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BoiledEggGroundMeatRolls" offset="00" relocatable="true" max_length="0">
+			<original>水煮蛋炸肉丸</original>
+			<edited>水煮蛋炸肉丸</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BoiledEggGroundMeatRolls" offset="00" relocatable="true" max_length="0">
+			<original>使用牛绞肉包覆水煮蛋，
+再裹以面包粉油炸而成。</original>
+			<edited>使用牛绞肉包覆水煮蛋，
+再裹以面包粉油炸而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_CurryOfChickenAndTomato" offset="00" relocatable="true" max_length="0">
+			<original>鸡肉番茄咖喱</original>
+			<edited>鸡肉番茄咖喱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_CurryOfChickenAndTomato" offset="00" relocatable="true" max_length="0">
+			<original>将煎过的鸡肉放入以番茄与奶油
+为基底的咖喱酱汁中炖煮而成。</original>
+			<edited>将煎过的鸡肉放入以番茄与奶油
+为基底的咖喱酱汁中炖煮而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_StewedSheep" offset="00" relocatable="true" max_length="0">
+			<original>炖煮肉馅羊肚</original>
+			<edited>炖煮肉馅羊肚</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_StewedSheep" offset="00" relocatable="true" max_length="0">
+			<original>将羊内脏、洋葱、香草等材料
+塞入羊的胃袋后炖煮而成。</original>
+			<edited>将羊内脏、洋葱、香草等材料
+塞入羊的胃袋后炖煮而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_CrumbleCake" offset="00" relocatable="true" max_length="0">
+			<original>奶酥蛋糕</original>
+			<edited>奶酥蛋糕</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_CrumbleCake" offset="00" relocatable="true" max_length="0">
+			<original>在以小麦粉、黄油、砂糖调出的面糊上
+铺上煮过的水果后烘焙而成。</original>
+			<edited>在以小麦粉、黄油、砂糖调出的面糊上
+铺上煮过的水果后烘焙而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_MarinatedOnionAndHerring" offset="00" relocatable="true" max_length="0">
+			<original>腌泡洋葱鲱鱼</original>
+			<edited>腌泡洋葱鲱鱼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_MarinatedOnionAndHerring" offset="00" relocatable="true" max_length="0">
+			<original>将鲱鱼和洋葱
+加入醋和砂糖腌渍而成。</original>
+			<edited>将鲱鱼和洋葱
+加入醋和砂糖腌渍而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BakedPie" offset="00" relocatable="true" max_length="0">
+			<original>包馅烤派</original>
+			<edited>包馅烤派</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BakedPie" offset="00" relocatable="true" max_length="0">
+			<original>用派皮包裹住绞肉、洋葱、
+马铃薯等馅料后烘焙而成。</original>
+			<edited>用派皮包裹住绞肉、洋葱、
+马铃薯等馅料后烘焙而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_NutsMilkPie" offset="00" relocatable="true" max_length="0">
+			<original>树果牛奶派</original>
+			<edited>树果牛奶派</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_NutsMilkPie" offset="00" relocatable="true" max_length="0">
+			<original>在薄炸的层层派皮中，
+夹入炸过的树果以及
+磨碎树果制成的糖浆。</original>
+			<edited>在薄炸的层层派皮中，
+夹入炸过的树果以及
+磨碎树果制成的糖浆。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_NutsRicePudding" offset="00" relocatable="true" max_length="0">
+			<original>树果米布丁</original>
+			<edited>树果米布丁</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_NutsRicePudding" offset="00" relocatable="true" max_length="0">
+			<original>用磨碎树果制成的糖浆
+以及牛奶炖煮大米而成。</original>
+			<edited>用磨碎树果制成的糖浆
+以及牛奶炖煮大米而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_DomeBread" offset="00" relocatable="true" max_length="0">
+			<original>巨蛋面包</original>
+			<edited>巨蛋面包</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_DomeBread" offset="00" relocatable="true" max_length="0">
+			<original>将多种水果干混入
+面团中烘焙而成的
+巨蛋形甜面包。</original>
+			<edited>将多种水果干混入
+面团中烘焙而成的
+巨蛋形甜面包。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_ColdVegetableSoup" offset="00" relocatable="true" max_length="0">
+			<original>蔬菜冷汤</original>
+			<edited>蔬菜冷汤</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_ColdVegetableSoup" offset="00" relocatable="true" max_length="0">
+			<original>将多种蔬菜与水、苹果等材料
+混合在一起搅碎而成的料理。</original>
+			<edited>将多种蔬菜与水、苹果等材料
+混合在一起搅碎而成的料理。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_RawHam" offset="00" relocatable="true" max_length="0">
+			<original>生火腿</original>
+			<edited>生火腿</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_RawHam" offset="00" relocatable="true" max_length="0">
+			<original>使用高级猪肉制成的生火腿。</original>
+			<edited>使用高级猪肉制成的生火腿。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_SkeweredMeat" offset="00" relocatable="true" max_length="0">
+			<original>串烧肉</original>
+			<edited>串烧肉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_SkeweredMeat" offset="00" relocatable="true" max_length="0">
+			<original>把用油和香辛料腌渍过的肉类
+串起来后烤制而成。</original>
+			<edited>把用油和香辛料腌渍过的肉类
+串起来后烤制而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_Paella" offset="00" relocatable="true" max_length="0">
+			<original>海鲜炖饭</original>
+			<edited>海鲜炖饭</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_Paella" offset="00" relocatable="true" max_length="0">
+			<original>在用蔬菜及海鲜熬煮出的汤头中
+加入大米煮成的海鲜炖饭。</original>
+			<edited>在用蔬菜及海鲜熬煮出的汤头中
+加入大米煮成的海鲜炖饭。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_StewedBaconAndBeans" offset="00" relocatable="true" max_length="0">
+			<original>炖煮肉丸豆子</original>
+			<edited>炖煮肉丸豆子</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_StewedBaconAndBeans" offset="00" relocatable="true" max_length="0">
+			<original>将肉丸、豆子、洋葱
+一起炖煮而成的料理。</original>
+			<edited>将肉丸、豆子、洋葱
+一起炖煮而成的料理。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_Tiramisu" offset="00" relocatable="true" max_length="0">
+			<original>提拉米苏</original>
+			<edited>提拉米苏</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_Tiramisu" offset="00" relocatable="true" max_length="0">
+			<original>先铺上浸泡过浓缩咖啡的饼干，
+接着反复添加数层特制奶油，
+经过冷藏后凝固而成。</original>
+			<edited>先铺上浸泡过浓缩咖啡的饼干，
+接着反复添加数层特制奶油，
+经过冷藏后凝固而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BerrySaucePannaCotta" offset="00" relocatable="true" max_length="0">
+			<original>莓果酱奶冻</original>
+			<edited>莓果酱奶冻</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BerrySaucePannaCotta" offset="00" relocatable="true" max_length="0">
+			<original>在热奶油中加入事先软化的吉利丁、
+砂糖、香草等材料后倒入模具中，
+待凝固后淋上莓果果酱即可享用。</original>
+			<edited>在热奶油中加入事先软化的吉利丁、
+砂糖、香草等材料后倒入模具中，
+待凝固后淋上莓果果酱即可享用。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_SeafoodAjillo" offset="00" relocatable="true" max_length="0">
+			<original>海鲜料理</original>
+			<edited>海鲜料理</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_SeafoodAjillo" offset="00" relocatable="true" max_length="0">
+			<original>在各种海鲜中加入
+橄榄油和大蒜炖煮而成。</original>
+			<edited>在各种海鲜中加入
+橄榄油和大蒜炖煮而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_FriedSardines" offset="00" relocatable="true" max_length="0">
+			<original>酥炸沙丁鱼</original>
+			<edited>酥炸沙丁鱼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_FriedSardines" offset="00" relocatable="true" max_length="0">
+			<original>将尺寸较小的沙丁鱼
+整尾放入橄榄油中油炸而成。</original>
+			<edited>将尺寸较小的沙丁鱼
+整尾放入橄榄油中油炸而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_FriedVegetables" offset="00" relocatable="true" max_length="0">
+			<original>炒蔬菜</original>
+			<edited>炒蔬菜</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_FriedVegetables" offset="00" relocatable="true" max_length="0">
+			<original>将蔬菜与大蒜一起翻炒而成的料理。</original>
+			<edited>将蔬菜与大蒜一起翻炒而成的料理。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BoiledTomatoesInVinegar" offset="00" relocatable="true" max_length="0">
+			<original>糖醋番茄</original>
+			<edited>糖醋番茄</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BoiledTomatoesInVinegar" offset="00" relocatable="true" max_length="0">
+			<original>番茄佐以洋葱、香料，
+再用糖醋酱汁炖煮而成。</original>
+			<edited>番茄佐以洋葱、香料，
+再用糖醋酱汁炖煮而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_CremeBrulee" offset="00" relocatable="true" max_length="0">
+			<original>焦糖烤布蕾</original>
+			<edited>焦糖烤布蕾</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_CremeBrulee" offset="00" relocatable="true" max_length="0">
+			<original>在冷却的卡士达酱上撒满砂糖，
+再以火烤出焦糖表层的点心。</original>
+			<edited>在冷却的卡士达酱上撒满砂糖，
+再以火烤出焦糖表层的点心。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_Churro" offset="00" relocatable="true" max_length="0">
+			<original>吉拿棒</original>
+			<edited>吉拿棒</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_Churro" offset="00" relocatable="true" max_length="0">
+			<original>用星型模具将面团挤压成形后油炸而成，
+通常搭配砂糖、蜂蜜食用。</original>
+			<edited>用星型模具将面团挤压成形后油炸而成，
+通常搭配砂糖、蜂蜜食用。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_SoftCandy" offset="00" relocatable="true" max_length="0">
+			<original>软糖</original>
+			<edited>软糖</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_SoftCandy" offset="00" relocatable="true" max_length="0">
+			<original>将树果和砂糖、蛋白霜等材料混合后，
+倒入模具内冷却凝固而成。</original>
+			<edited>将树果和砂糖、蛋白霜等材料混合后，
+倒入模具内冷却凝固而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_AuthenticPizza" offset="00" relocatable="true" max_length="0">
+			<original>道地披萨</original>
+			<edited>道地披萨</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_AuthenticPizza" offset="00" relocatable="true" max_length="0">
+			<original>在擀平的面皮上涂抹番茄酱，
+并撒上起司、罗勒叶后烘烤而成。</original>
+			<edited>在擀平的面皮上涂抹番茄酱，
+并撒上起司、罗勒叶后烘烤而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_Risotto" offset="00" relocatable="true" max_length="0">
+			<original>炖饭</original>
+			<edited>炖饭</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_Risotto" offset="00" relocatable="true" max_length="0">
+			<original>用黄油拌炒米饭后，
+加入高汤、香料炖煮而成。</original>
+			<edited>用黄油拌炒米饭后，
+加入高汤、香料炖煮而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_RiceCroquette" offset="00" relocatable="true" max_length="0">
+			<original>米饭可乐饼</original>
+			<edited>米饭可乐饼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_RiceCroquette" offset="00" relocatable="true" max_length="0">
+			<original>在煮熟的米饭中拌入
+蛋液、起司、盐、胡椒，
+并裹上面包粉油炸而成。</original>
+			<edited>在煮熟的米饭中拌入
+蛋液、起司、盐、胡椒，
+并裹上面包粉油炸而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_RosettaBread" offset="00" relocatable="true" max_length="0">
+			<original>玫瑰面包</original>
+			<edited>玫瑰面包</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_RosettaBread" offset="00" relocatable="true" max_length="0">
+			<original>外型彷如玫瑰的空心面包，
+外皮酥脆，香气诱人。</original>
+			<edited>外型彷如玫瑰的空心面包，
+外皮酥脆，香气诱人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_AcquaPazza" offset="00" relocatable="true" max_length="0">
+			<original>番茄水煮鱼</original>
+			<edited>番茄水煮鱼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_AcquaPazza" offset="00" relocatable="true" max_length="0">
+			<original>将鱼类搭配番茄、橄榄油
+一起炖煮而成。</original>
+			<edited>将鱼类搭配番茄、橄榄油
+一起炖煮而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_VealRoll" offset="00" relocatable="true" max_length="0">
+			<original>嫩牛肉卷</original>
+			<edited>嫩牛肉卷</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_VealRoll" offset="00" relocatable="true" max_length="0">
+			<original>用生的薄切牛里脊卷住起司、
+酱汁等材料后烤制而成。</original>
+			<edited>用生的薄切牛里脊卷住起司、
+酱汁等材料后烤制而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_SaltedPorkNeck" offset="00" relocatable="true" max_length="0">
+			<original>盐渍猪颈肉</original>
+			<edited>盐渍猪颈肉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_SaltedPorkNeck" offset="00" relocatable="true" max_length="0">
+			<original>盐渍猪颈肉佐以香草烤制后，
+薄切盛盘。</original>
+			<edited>盐渍猪颈肉佐以香草烤制后，
+薄切盛盘。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BloodBoiledSausage" offset="00" relocatable="true" max_length="0">
+			<original>血肠</original>
+			<edited>血肠</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BloodBoiledSausage" offset="00" relocatable="true" max_length="0">
+			<original>加入动物血液制成的香肠，
+用水煮熟后即可食用。</original>
+			<edited>加入动物血液制成的香肠，
+用水煮熟后即可食用。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_PotatoMeatBun" offset="00" relocatable="true" max_length="0">
+			<original>马铃薯肉包子</original>
+			<edited>马铃薯肉包子</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_PotatoMeatBun" offset="00" relocatable="true" max_length="0">
+			<original>使用猪肉、洋葱当作馅料，
+再用马铃薯面皮包起来的食物。</original>
+			<edited>使用猪肉、洋葱当作馅料，
+再用马铃薯面皮包起来的食物。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_Cocotte" offset="00" relocatable="true" max_length="0">
+			<original>炖烤锅</original>
+			<edited>炖烤锅</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_Cocotte" offset="00" relocatable="true" max_length="0">
+			<original>将马铃薯、鱼、奶油放入炖烤锅器皿，
+再放入烤箱烘烤而成。</original>
+			<edited>将马铃薯、鱼、奶油放入炖烤锅器皿，
+再放入烤箱烘烤而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_GreenPeasMash" offset="00" relocatable="true" max_length="0">
+			<original>豌豆泥</original>
+			<edited>豌豆泥</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_GreenPeasMash" offset="00" relocatable="true" max_length="0">
+			<original>将牛奶、黄油拌入豌豆后，
+一同捣碎成泥。</original>
+			<edited>将牛奶、黄油拌入豌豆后，
+一同捣碎成泥。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_SandwichCake" offset="00" relocatable="true" max_length="0">
+			<original>三明治蛋糕</original>
+			<edited>三明治蛋糕</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_SandwichCake" offset="00" relocatable="true" max_length="0">
+			<original>将鱼肉切片摆成花的形状，
+像蛋糕裱花般装饰在三明治上面。</original>
+			<edited>将鱼肉切片摆成花的形状，
+像蛋糕裱花般装饰在三明治上面。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_RoastedSalmon" offset="00" relocatable="true" max_length="0">
+			<original>烤鲑鱼</original>
+			<edited>烤鲑鱼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_RoastedSalmon" offset="00" relocatable="true" max_length="0">
+			<original>将事先调味过的鲑鱼烘烤而成的料理。</original>
+			<edited>将事先调味过的鲑鱼烘烤而成的料理。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_StewedMashedPotatoesAndKale" offset="00" relocatable="true" max_length="0">
+			<original>炖煮香草马铃薯泥</original>
+			<edited>炖煮香草马铃薯泥</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_StewedMashedPotatoesAndKale" offset="00" relocatable="true" max_length="0">
+			<original>将香草、牛奶拌入
+马铃薯泥中炖煮而成。</original>
+			<edited>将香草、牛奶拌入
+马铃薯泥中炖煮而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_SalmonAndPotatoGratin" offset="00" relocatable="true" max_length="0">
+			<original>鲑鱼薯类焗烤</original>
+			<edited>鲑鱼薯类焗烤</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_SalmonAndPotatoGratin" offset="00" relocatable="true" max_length="0">
+			<original>将腌渍鲑鱼与薯类堆叠好，
+淋上蛋液及牛奶后，
+放入烤箱焗烤而成。</original>
+			<edited>将腌渍鲑鱼与薯类堆叠好，
+淋上蛋液及牛奶后，
+放入烤箱焗烤而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_ShamrockSalad" offset="00" relocatable="true" max_length="0">
+			<original>三叶草沙拉</original>
+			<edited>三叶草沙拉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_ShamrockSalad" offset="00" relocatable="true" max_length="0">
+			<original>将三叶草盛盘装好，
+淋上橄榄油、调味醋后食用。</original>
+			<edited>将三叶草盛盘装好，
+淋上橄榄油、调味醋后食用。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BaconAndFishWrappedBread" offset="00" relocatable="true" max_length="0">
+			<original>培根鱼肉面包</original>
+			<edited>培根鱼肉面包</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BaconAndFishWrappedBread" offset="00" relocatable="true" max_length="0">
+			<original>将培根、盐渍鱼肉反复堆叠数层后，
+用裸麦粉制成的面团包起来，
+再放入烤箱烘烤而成。</original>
+			<edited>将培根、盐渍鱼肉反复堆叠数层后，
+用裸麦粉制成的面团包起来，
+再放入烤箱烘烤而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_JamCookies" offset="00" relocatable="true" max_length="0">
+			<original>果酱饼干</original>
+			<edited>果酱饼干</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_JamCookies" offset="00" relocatable="true" max_length="0">
+			<original>在饼干中央留下凹陷，
+注入果酱后放入烤箱烘焙而成。</original>
+			<edited>在饼干中央留下凹陷，
+注入果酱后放入烤箱烘焙而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_CinnamonRoll" offset="00" relocatable="true" max_length="0">
+			<original>肉桂卷</original>
+			<edited>肉桂卷</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_CinnamonRoll" offset="00" relocatable="true" max_length="0">
+			<original>将黄油涂抹在拉长的面团上，
+撒上砂糖、肉桂粉后卷成麻花状，
+再放入烤箱烘焙而成。</original>
+			<edited>将黄油涂抹在拉长的面团上，
+撒上砂糖、肉桂粉后卷成麻花状，
+再放入烤箱烘焙而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_CabbageAndNutSalad" offset="00" relocatable="true" max_length="0">
+			<original>卷心菜树果沙拉</original>
+			<edited>卷心菜树果沙拉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_CabbageAndNutSalad" offset="00" relocatable="true" max_length="0">
+			<original>使用卷心菜、树果
+佐以酱料制成的料理。</original>
+			<edited>使用卷心菜、树果
+佐以酱料制成的料理。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_OpenSandwich" offset="00" relocatable="true" max_length="0">
+			<original>外馅三明治</original>
+			<edited>外馅三明治</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_OpenSandwich" offset="00" relocatable="true" max_length="0">
+			<original>将裸麦面包切成薄片后涂上黄油，
+再放上起司和烟熏鲑鱼等多种配料，
+直至几乎看不见面包。</original>
+			<edited>将裸麦面包切成薄片后涂上黄油，
+再放上起司和烟熏鲑鱼等多种配料，
+直至几乎看不见面包。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_AppleCharlotte" offset="00" relocatable="true" max_length="0">
+			<original>苹果奶油蛋糕</original>
+			<edited>苹果奶油蛋糕</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_AppleCharlotte" offset="00" relocatable="true" max_length="0">
+			<original>将奶油挤在饼干做成的蛋糕体上，
+然后把煮熟并冷却后的苹果切片
+整齐地摆放在奶油上面即可享用。</original>
+			<edited>将奶油挤在饼干做成的蛋糕体上，
+然后把煮熟并冷却后的苹果切片
+整齐地摆放在奶油上面即可享用。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_MochiPancake" offset="00" relocatable="true" max_length="0">
+			<original>弹牙松饼</original>
+			<edited>弹牙松饼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_MochiPancake" offset="00" relocatable="true" max_length="0">
+			<original>将鸡蛋、小麦粉、牛奶等材料制成的
+面糊倒在铁板上，仔细煎烤而成。</original>
+			<edited>将鸡蛋、小麦粉、牛奶等材料制成的
+面糊倒在铁板上，仔细煎烤而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_SauteedBaconAndApples" offset="00" relocatable="true" max_length="0">
+			<original>香煎培根苹果</original>
+			<edited>香煎培根苹果</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_SauteedBaconAndApples" offset="00" relocatable="true" max_length="0">
+			<original>用平底锅少油高温煎制而成的苹果，
+佐以切成条状的油煎猪五花套餐。</original>
+			<edited>用平底锅少油高温煎制而成的苹果，
+佐以切成条状的油煎猪五花套餐。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BerryJelly" offset="00" relocatable="true" max_length="0">
+			<original>莓果果冻</original>
+			<edited>莓果果冻</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BerryJelly" offset="00" relocatable="true" max_length="0">
+			<original>在莓果汁中加入淀粉
+煮至浓稠后放置冷却，
+再点缀上鲜奶油即可享用。</original>
+			<edited>在莓果汁中加入淀粉
+煮至浓稠后放置冷却，
+再点缀上鲜奶油即可享用。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BakingSodaBread" offset="00" relocatable="true" max_length="0">
+			<original>苏打面包</original>
+			<edited>苏打面包</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BakingSodaBread" offset="00" relocatable="true" max_length="0">
+			<original>使用苏打代替酵母制作的面包。</original>
+			<edited>使用苏打代替酵母制作的面包。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_SashimiPlatter" offset="00" relocatable="true" max_length="0">
+			<original>生鱼片拼盘</original>
+			<edited>生鱼片拼盘</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_SashimiPlatter" offset="00" relocatable="true" max_length="0">
+			<original>将生鱼肉切成长条状的拼盘。</original>
+			<edited>将生鱼肉切成长条状的拼盘。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_MisoSoup" offset="00" relocatable="true" max_length="0">
+			<original>味噌汤</original>
+			<edited>味噌汤</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_MisoSoup" offset="00" relocatable="true" max_length="0">
+			<original>将盐和盐麴加进大豆或麦类里，
+等待发酵后以热水溶解，
+并放入豆腐、海带等配料制成的汤。</original>
+			<edited>将盐和盐麴加进大豆或麦类里，
+等待发酵后以热水溶解，
+并放入豆腐、海带等配料制成的汤。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_Uiro" offset="00" relocatable="true" max_length="0">
+			<original>外郎饼</original>
+			<edited>外郎饼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_Uiro" offset="00" relocatable="true" max_length="0">
+			<original>在小麦粉或低筋面粉中
+加入砂糖后蒸烤而成。</original>
+			<edited>在小麦粉或低筋面粉中
+加入砂糖后蒸烤而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_Anmitsu" offset="00" relocatable="true" max_length="0">
+			<original>馅蜜</original>
+			<edited>馅蜜</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_Anmitsu" offset="00" relocatable="true" max_length="0">
+			<original>在豆沙馅或块状琼脂的上面，
+摆满蜜桃或柳橙等配料，
+淋上黑糖后即可享用。</original>
+			<edited>在豆沙馅或块状琼脂的上面，
+摆满蜜桃或柳橙等配料，
+淋上黑糖后即可享用。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_EggOverRice" offset="00" relocatable="true" max_length="0">
+			<original>生蛋拌饭</original>
+			<edited>生蛋拌饭</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_EggOverRice" offset="00" relocatable="true" max_length="0">
+			<original>淋上生蛋与酱油的白米饭。</original>
+			<edited>淋上生蛋与酱油的白米饭。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_CountrysideBread" offset="00" relocatable="true" max_length="0">
+			<original>乡村面包</original>
+			<edited>乡村面包</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_CountrysideBread" offset="00" relocatable="true" max_length="0">
+			<original>仅使用裸麦面粉、盐、水制作的
+巨大椭圆形面包。</original>
+			<edited>仅使用裸麦面粉、盐、水制作的
+巨大椭圆形面包。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_Croissant" offset="00" relocatable="true" max_length="0">
+			<original>牛角面包</original>
+			<edited>牛角面包</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_Croissant" offset="00" relocatable="true" max_length="0">
+			<original>把黄油夹在面团中反复对折，
+经烘焙后会呈现牛角的形状，
+是一款外观独具特色的面包。</original>
+			<edited>把黄油夹在面团中反复对折，
+经烘焙后会呈现牛角的形状，
+是一款外观独具特色的面包。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_StewedLambMeat" offset="00" relocatable="true" max_length="0">
+			<original>炖煮羊肉</original>
+			<edited>炖煮羊肉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_StewedLambMeat" offset="00" relocatable="true" max_length="0">
+			<original>在清炒羊肉中加入马铃薯、
+洋葱等配料炖煮而成。</original>
+			<edited>在清炒羊肉中加入马铃薯、
+洋葱等配料炖煮而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_StewedVegetables" offset="00" relocatable="true" max_length="0">
+			<original>炖煮满满蔬菜</original>
+			<edited>炖煮满满蔬菜</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_StewedVegetables" offset="00" relocatable="true" max_length="0">
+			<original>大量添加多种蔬菜
+熬煮而成的蔬菜汤。</original>
+			<edited>大量添加多种蔬菜
+熬煮而成的蔬菜汤。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_CodDip" offset="00" relocatable="true" max_length="0">
+			<original>鳕鱼沾酱</original>
+			<edited>鳕鱼沾酱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_CodDip" offset="00" relocatable="true" max_length="0">
+			<original>在鳕鱼中加入用牛奶煮过的马铃薯，
+一同搅拌成泥状后制成沾酱。
+常搭配苏打饼干等较清淡的食物享用。</original>
+			<edited>在鳕鱼中加入用牛奶煮过的马铃薯，
+一同搅拌成泥状后制成沾酱。
+常搭配苏打饼干等较清淡的食物享用。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_HotCrepe" offset="00" relocatable="true" max_length="0">
+			<original>热可丽饼</original>
+			<edited>热可丽饼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_HotCrepe" offset="00" relocatable="true" max_length="0">
+			<original>用果汁为可丽饼增添了香气的甜点。</original>
+			<edited>用果汁为可丽饼增添了香气的甜点。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BerryAndCustardTartCake" offset="00" relocatable="true" max_length="0">
+			<original>莓果卡士达塔蛋糕</original>
+			<edited>莓果卡士达塔蛋糕</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BerryAndCustardTartCake" offset="00" relocatable="true" max_length="0">
+			<original>将卡士达酱及黑莓果酱
+挤在挞皮上烘焙而成。</original>
+			<edited>将卡士达酱及黑莓果酱
+挤在挞皮上烘焙而成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_PeachSorbet" offset="00" relocatable="true" max_length="0">
+			<original>蜜桃雪酪</original>
+			<edited>蜜桃雪酪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_PeachSorbet" offset="00" relocatable="true" max_length="0">
+			<original>用鲜榨蜜桃汁冻成的冰品。</original>
+			<edited>用鲜榨蜜桃汁冻成的冰品。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_AppleBeignet" offset="00" relocatable="true" max_length="0">
+			<original>苹果贝涅饼</original>
+			<edited>苹果贝涅饼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_AppleBeignet" offset="00" relocatable="true" max_length="0">
+			<original>将苹果放入泡芙皮中再经油炸，
+最后撒上糖粉即可享用。</original>
+			<edited>将苹果放入泡芙皮中再经油炸，
+最后撒上糖粉即可享用。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_OrangeChocolate" offset="00" relocatable="true" max_length="0">
+			<original>柳橙巧克力</original>
+			<edited>柳橙巧克力</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_OrangeChocolate" offset="00" relocatable="true" max_length="0">
+			<original>将水煮过的柳橙以砂糖腌渍后，
+放入烤箱烘烤后放置冷却，
+最后点缀上巧克力即可享用。</original>
+			<edited>将水煮过的柳橙以砂糖腌渍后，
+放入烤箱烘烤后放置冷却，
+最后点缀上巧克力即可享用。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_FruitCandy" offset="00" relocatable="true" max_length="0">
+			<original>水果糖葫芦</original>
+			<edited>水果糖葫芦</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_FruitCandy" offset="00" relocatable="true" max_length="0">
+			<original>把糖浆或是麦芽糖
+均匀涂抹在整颗水果上，
+再用棍子串起来方便拿着吃。</original>
+			<edited>把糖浆或是麦芽糖
+均匀涂抹在整颗水果上，
+再用棍子串起来方便拿着吃。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_Smoothie" offset="00" relocatable="true" max_length="0">
+			<original>果昔</original>
+			<edited>果昔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_Smoothie" offset="00" relocatable="true" max_length="0">
+			<original>将各种水果混合在一起打成饮料。</original>
+			<edited>将各种水果混合在一起打成饮料。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_AppleCanpot" offset="00" relocatable="true" max_length="0">
+			<original>苹果糖渍饮料</original>
+			<edited>苹果糖渍饮料</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_AppleCanpot" offset="00" relocatable="true" max_length="0">
+			<original>以大量的水和砂糖熬煮苹果后，
+仅倒出汤汁品尝。
+也可冷却后饮用。</original>
+			<edited>以大量的水和砂糖熬煮苹果后，
+仅倒出汤汁品尝。
+也可冷却后饮用。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_OrangeMarmalade" offset="00" relocatable="true" max_length="0">
+			<original>柳橙酱</original>
+			<edited>柳橙酱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_OrangeMarmalade" offset="00" relocatable="true" max_length="0">
+			<original>将柳橙连皮熬煮而成的果酱，
+常搭配苏打饼干等较清淡的食物享用。</original>
+			<edited>将柳橙连皮熬煮而成的果酱，
+常搭配苏打饼干等较清淡的食物享用。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_VegetableStick" offset="00" relocatable="true" max_length="0">
+			<original>蔬菜棒</original>
+			<edited>蔬菜棒</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_VegetableStick" offset="00" relocatable="true" max_length="0">
+			<original>将各种蔬菜切成条状，
+搭配蛋黄酱等各种酱料食用。</original>
+			<edited>将各种蔬菜切成条状，
+搭配蛋黄酱等各种酱料食用。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_ChiliSalad" offset="00" relocatable="true" max_length="0">
+			<original>辣酱沙拉</original>
+			<edited>辣酱沙拉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_ChiliSalad" offset="00" relocatable="true" max_length="0">
+			<original>将使用大量香辛料制成
+的辣酱淋在沙拉上食用。
+味道非常之辣。</original>
+			<edited>将使用大量香辛料制成
+的辣酱淋在沙拉上食用。
+味道非常之辣。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_ChiliFruitStick" offset="00" relocatable="true" max_length="0">
+			<original>辣酱水果棒</original>
+			<edited>辣酱水果棒</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_ChiliFruitStick" offset="00" relocatable="true" max_length="0">
+			<original>将新鲜的水果切成条状，
+并撒上大量辣椒粉食用。
+味道非常之辣。</original>
+			<edited>将新鲜的水果切成条状，
+并撒上大量辣椒粉食用。
+味道非常之辣。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_ChiliIceCream" offset="00" relocatable="true" max_length="0">
+			<original>辣酱冰淇淋</original>
+			<edited>辣酱冰淇淋</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_ChiliIceCream" offset="00" relocatable="true" max_length="0">
+			<original>淋上辣酱的冰淇淋。
+初尝仍是甜品，但吃到一半便会全身发烫。
+味道非常之辣。</original>
+			<edited>淋上辣酱的冰淇淋。
+初尝仍是甜品，但吃到一半便会全身发烫。
+味道非常之辣。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_RedPepperPickles" offset="00" relocatable="true" max_length="0">
+			<original>腌渍辣椒</original>
+			<edited>腌渍辣椒</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_RedPepperPickles" offset="00" relocatable="true" max_length="0">
+			<original>用醋腌渍的辣椒，
+味道非常之辣。</original>
+			<edited>用醋腌渍的辣椒，
+味道非常之辣。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_TomYumSoupWithChicken" offset="00" relocatable="true" max_length="0">
+			<original>酸辣鸡汤</original>
+			<edited>酸辣鸡汤</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_TomYumSoupWithChicken" offset="00" relocatable="true" max_length="0">
+			<original>在鸡汤中加入香辛料后熬煮而成。
+香气极富层次感，且酸辣味强劲。
+味道非常之辣。</original>
+			<edited>在鸡汤中加入香辛料后熬煮而成。
+香气极富层次感，且酸辣味强劲。
+味道非常之辣。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_BoiledChiliWithCheese" offset="00" relocatable="true" max_length="0">
+			<original>炖煮辣椒起司</original>
+			<edited>炖煮辣椒起司</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_BoiledChiliWithCheese" offset="00" relocatable="true" max_length="0">
+			<original>将辣椒、起司以水炖煮后，
+再加入番茄、大蒜等材料继续熬煮而成。
+味道非常之辣。</original>
+			<edited>将辣椒、起司以水炖煮后，
+再加入番茄、大蒜等材料继续熬煮而成。
+味道非常之辣。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_RedMaboTofu" offset="00" relocatable="true" max_length="0">
+			<original>红色麻婆豆腐</original>
+			<edited>红色麻婆豆腐</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_RedMaboTofu" offset="00" relocatable="true" max_length="0">
+			<original>将牛绞肉，豆腐和辣椒
+等香辛料一起拌炒而成。
+味道非常之辣。</original>
+			<edited>将牛绞肉，豆腐和辣椒
+等香辛料一起拌炒而成。
+味道非常之辣。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_FriedPorkKimchi" offset="00" relocatable="true" max_length="0">
+			<original>泡菜炒猪肉</original>
+			<edited>泡菜炒猪肉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOOD_H_FriedPorkKimchi" offset="00" relocatable="true" max_length="0">
+			<original>放入以辣椒等多种香辛料腌渍数日的蔬菜，
+和猪肉一起拌炒而成的料理。
+味道非常之辣。</original>
+			<edited>放入以辣椒等多种香辛料腌渍数日的蔬菜，
+和猪肉一起拌炒而成的料理。
+味道非常之辣。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_COND_ComeFromBrodia" offset="00" relocatable="true" max_length="0">
+			<original>来自布罗帝亚</original>
+			<edited>来自布罗帝亚</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_COND_ComeFromFilene" offset="00" relocatable="true" max_length="0">
+			<original>来自费列聂</original>
+			<edited>来自费列聂</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_COND_ComeFromSolum" offset="00" relocatable="true" max_length="0">
+			<original>来自索尔姆</original>
+			<edited>来自索尔姆</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_COND_ComeFromIrcion" offset="00" relocatable="true" max_length="0">
+			<original>来自伊尔席翁</original>
+			<edited>来自伊尔席翁</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_COND_ComeFromLithos" offset="00" relocatable="true" max_length="0">
+			<original>来自里特司</original>
+			<edited>来自里特司</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_COND_IsMale" offset="00" relocatable="true" max_length="0">
+			<original>男性</original>
+			<edited>男性</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_COND_IsFemale" offset="00" relocatable="true" max_length="0">
+			<original>女性</original>
+			<edited>女性</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_COND_IsAdult" offset="00" relocatable="true" max_length="0">
+			<original>大人</original>
+			<edited>大人</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_COND_IsChild" offset="00" relocatable="true" max_length="0">
+			<original>小孩</original>
+			<edited>小孩</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_FOODRANK_COND_IsLueur" offset="00" relocatable="true" max_length="0">
+			<original>主角</original>
+			<edited>主角</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

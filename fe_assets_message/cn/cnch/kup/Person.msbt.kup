@@ -1,0 +1,2154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MPID_Unknown" offset="00" relocatable="true" max_length="0">
+			<original>？？？</original>
+			<edited>？？？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Unknown" offset="00" relocatable="true" max_length="0">
+			<original>？？？？？</original>
+			<edited>？？？？？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Hide" offset="00" relocatable="true" max_length="0">
+			<original>？？？</original>
+			<edited>？？？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Hide" offset="00" relocatable="true" max_length="0">
+			<original>神秘的敌人。
+身上散发着邪恶的气息。</original>
+			<edited>神秘的敌人。
+身上散发着邪恶的气息。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Morph_Prefix" offset="00" relocatable="true" max_length="0">
+			<original>异形&#xE;&#x1;&#x0;&#x0;</original>
+			<edited>异形&#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_God_Prefix" offset="00" relocatable="true" max_length="0">
+			<original>纹章士&#xE;&#x1;&#x0;&#x0;</original>
+			<edited>纹章士&#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_PastLueur" offset="00" relocatable="true" max_length="0">
+			<original>过去的&#xE;&#x6;&#x3;&#x0;</original>
+			<edited>过去的&#xE;&#x6;&#x3;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Lueur" offset="00" relocatable="true" max_length="0">
+			<original>琉尔</original>
+			<edited>琉尔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Lueur_M000" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x3;&#x0;</original>
+			<edited>&#xE;&#x6;&#x3;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Lueur" offset="00" relocatable="true" max_length="0">
+			<original>从长眠中苏醒的神龙继承者。
+能让纹章士显现，引导世界重归和平。</original>
+			<edited>从长眠中苏醒的神龙继承者。
+能让纹章士显现，引导世界重归和平。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Lueur_M000" offset="00" relocatable="true" max_length="0">
+			<original>与纹章士一同奋战的剑士。
+尚未觉醒之人。</original>
+			<edited>与纹章士一同奋战的剑士。
+尚未觉醒之人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Lueur_1" offset="00" relocatable="true" max_length="0">
+			<original>经贝珥之手复活为异形兵的神龙。
+可以使用邪龙之力让纹章士显现。</original>
+			<edited>经贝珥之手复活为异形兵的神龙。
+可以使用邪龙之力让纹章士显现。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Lueur_2" offset="00" relocatable="true" max_length="0">
+			<original>以“绊炎纹章士”之姿重生的神龙。
+同时拥有纹章士与神龙的力量。</original>
+			<edited>以“绊炎纹章士”之姿重生的神龙。
+同时拥有纹章士与神龙的力量。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_PastLueur" offset="00" relocatable="true" max_length="0">
+			<original>千年前的&#xE;&#x6;&#x3;&#x0;。
+听令于邪龙，毫无自己的意志。</original>
+			<edited>千年前的&#xE;&#x6;&#x3;&#x0;。
+听令于邪龙，毫无自己的意志。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Vandre" offset="00" relocatable="true" max_length="0">
+			<original>凡德雷</original>
+			<edited>凡德雷</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Vandre" offset="00" relocatable="true" max_length="0">
+			<original>服侍神龙的龙之守护者。
+是个认真又严谨的绅士。</original>
+			<edited>服侍神龙的龙之守护者。
+是个认真又严谨的绅士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Lumiere" offset="00" relocatable="true" max_length="0">
+			<original>琉弥艾尔</original>
+			<edited>琉弥艾尔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Lumiere" offset="00" relocatable="true" max_length="0">
+			<original>圣地里特司的现任神龙王。
+千年前于邪龙战争中拯救世界的英雄。</original>
+			<edited>圣地里特司的现任神龙王。
+千年前于邪龙战争中拯救世界的英雄。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_MorphLumiere" offset="00" relocatable="true" max_length="0">
+			<original>异形琉弥艾尔</original>
+			<edited>异形琉弥艾尔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_MorphLumiere" offset="00" relocatable="true" max_length="0">
+			<original>尚卜尔以死去的琉弥艾尔
+制作而成的精巧异形兵。</original>
+			<edited>尚卜尔以死去的琉弥艾尔
+制作而成的精巧异形兵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Clan" offset="00" relocatable="true" max_length="0">
+			<original>柯岚</original>
+			<edited>柯岚</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Clan" offset="00" relocatable="true" max_length="0">
+			<original>服侍神龙的见习龙之守护者。
+个性温和，是双胞胎中的哥哥。</original>
+			<edited>服侍神龙的见习龙之守护者。
+个性温和，是双胞胎中的哥哥。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Fram" offset="00" relocatable="true" max_length="0">
+			<original>芙岚</original>
+			<edited>芙岚</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Fram" offset="00" relocatable="true" max_length="0">
+			<original>服侍神龙的见习龙之守护者。
+好胜且充满自信，是双胞胎中的妹妹。</original>
+			<edited>服侍神龙的见习龙之守护者。
+好胜且充满自信，是双胞胎中的妹妹。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Alfred" offset="00" relocatable="true" max_length="0">
+			<original>阿尔弗雷德</original>
+			<edited>阿尔弗雷德</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Alfred" offset="00" relocatable="true" max_length="0">
+			<original>费列聂王国的王子，性格直率且单纯。
+为了获得强健的体魄而每日锻炼身体。</original>
+			<edited>费列聂王国的王子，性格直率且单纯。
+为了获得强健的体魄而每日锻炼身体。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Etie" offset="00" relocatable="true" max_length="0">
+			<original>艾媞耶</original>
+			<edited>艾媞耶</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Etie" offset="00" relocatable="true" max_length="0">
+			<original>阿尔弗雷德的部下。
+举止优雅，是位喜欢锻炼肌肉的女性。</original>
+			<edited>阿尔弗雷德的部下。
+举止优雅，是位喜欢锻炼肌肉的女性。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Boucheron" offset="00" relocatable="true" max_length="0">
+			<original>布修隆</original>
+			<edited>布修隆</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Boucheron" offset="00" relocatable="true" max_length="0">
+			<original>阿尔弗雷德的部下。
+拥有易长肌肉的体质，是位生性温柔的壮汉。</original>
+			<edited>阿尔弗雷德的部下。
+拥有易长肌肉的体质，是位生性温柔的壮汉。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Celine" offset="00" relocatable="true" max_length="0">
+			<original>锡莉奴</original>
+			<edited>锡莉奴</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Celine" offset="00" relocatable="true" max_length="0">
+			<original>费列聂王国的公主，端庄而美丽。
+为了人民，即便弄脏双手也在所不惜。</original>
+			<edited>费列聂王国的公主，端庄而美丽。
+为了人民，即便弄脏双手也在所不惜。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Chloe" offset="00" relocatable="true" max_length="0">
+			<original>克萝艾</original>
+			<edited>克萝艾</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Chloe" offset="00" relocatable="true" max_length="0">
+			<original>锡莉奴的部下。
+是位喜欢童话故事与奇珍异味的淑女。</original>
+			<edited>锡莉奴的部下。
+是位喜欢童话故事与奇珍异味的淑女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Louis" offset="00" relocatable="true" max_length="0">
+			<original>路易</original>
+			<edited>路易</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Louis" offset="00" relocatable="true" max_length="0">
+			<original>锡莉奴的部下。
+总是面带微笑，是位彬彬有礼的绅士。</original>
+			<edited>锡莉奴的部下。
+总是面带微笑，是位彬彬有礼的绅士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Yunaka" offset="00" relocatable="true" max_length="0">
+			<original>尤娜卡</original>
+			<edited>尤娜卡</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Yunaka" offset="00" relocatable="true" max_length="0">
+			<original>于山道聚落中遇到的流浪盗贼。
+其真实身分充满谜团。</original>
+			<edited>于山道聚落中遇到的流浪盗贼。
+其真实身分充满谜团。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Staluke" offset="00" relocatable="true" max_length="0">
+			<original>史塔卢克</original>
+			<edited>史塔卢克</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Staluke" offset="00" relocatable="true" max_length="0">
+			<original>布罗帝亚王国的王子，有近乎自虐的妄想症。
+拥有非凡的才能，但本人并无自觉。</original>
+			<edited>布罗帝亚王国的王子，有近乎自虐的妄想症。
+拥有非凡的才能，但本人并无自觉。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Citrinica" offset="00" relocatable="true" max_length="0">
+			<original>希特丽妮卡</original>
+			<edited>希特丽妮卡</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Citrinica" offset="00" relocatable="true" max_length="0">
+			<original>史塔卢克的部下。
+与外表形象不同，是位关心伙伴的温柔贵族。</original>
+			<edited>史塔卢克的部下。
+与外表形象不同，是位关心伙伴的温柔贵族。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Lapis" offset="00" relocatable="true" max_length="0">
+			<original>菈琵思</original>
+			<edited>菈琵思</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Lapis" offset="00" relocatable="true" max_length="0">
+			<original>史塔卢克的部下。
+看似柔弱的谦逊女性，实际上力气惊人。</original>
+			<edited>史塔卢克的部下。
+看似柔弱的谦逊女性，实际上力气惊人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Diamand" offset="00" relocatable="true" max_length="0">
+			<original>帝亚曼德</original>
+			<edited>帝亚曼德</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Diamand" offset="00" relocatable="true" max_length="0">
+			<original>布罗帝亚王国的王子，拥有出众的仪表。
+性格刚健质朴，深受国民爱戴。</original>
+			<edited>布罗帝亚王国的王子，拥有出众的仪表。
+性格刚健质朴，深受国民爱戴。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Umber" offset="00" relocatable="true" max_length="0">
+			<original>安巴</original>
+			<edited>安巴</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Umber" offset="00" relocatable="true" max_length="0">
+			<original>帝亚曼德的部下。
+性格无比开朗，是位精力充沛的梦想家。</original>
+			<edited>帝亚曼德的部下。
+性格无比开朗，是位精力充沛的梦想家。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Jade" offset="00" relocatable="true" max_length="0">
+			<original>洁德</original>
+			<edited>洁德</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Jade" offset="00" relocatable="true" max_length="0">
+			<original>帝亚曼德的部下。
+平时沉默寡言，是位沉着冷静的战士。</original>
+			<edited>帝亚曼德的部下。
+平时沉默寡言，是位沉着冷静的战士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Ivy" offset="00" relocatable="true" max_length="0">
+			<original>艾比</original>
+			<edited>艾比</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Ivy" offset="00" relocatable="true" max_length="0">
+			<original>伊尔席翁王国的公主，神秘中带有一丝忧愁。
+身为王族的她总是维持着庄严且凛然的态度。</original>
+			<edited>伊尔席翁王国的公主，神秘中带有一丝忧愁。
+身为王族的她总是维持着庄严且凛然的态度。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Kagetsu" offset="00" relocatable="true" max_length="0">
+			<original>花月</original>
+			<edited>花月</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Kagetsu" offset="00" relocatable="true" max_length="0">
+			<original>艾比的部下。
+是位带着异国口音的美少年。</original>
+			<edited>艾比的部下。
+是位带着异国口音的美少年。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Zelkova" offset="00" relocatable="true" max_length="0">
+			<original>杰尔科巴</original>
+			<edited>杰尔科巴</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Zelkova" offset="00" relocatable="true" max_length="0">
+			<original>艾比的部下。
+总是埋首于兴趣之中，是位沉静的男子。</original>
+			<edited>艾比的部下。
+总是埋首于兴趣之中，是位沉静的男子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Fogato" offset="00" relocatable="true" max_length="0">
+			<original>佛贾特</original>
+			<edited>佛贾特</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Fogato" offset="00" relocatable="true" max_length="0">
+			<original>自卫团的一员，是位性格奔放的乐观青年。
+举止轻浮不羁，实则深藏不露。</original>
+			<edited>自卫团的一员，是位性格奔放的乐观青年。
+举止轻浮不羁，实则深藏不露。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Fogato_1" offset="00" relocatable="true" max_length="0">
+			<original>索尔姆王国的王子，性格奔放且乐观。
+举止轻浮不羁，有别于王族给人的印象。</original>
+			<edited>索尔姆王国的王子，性格奔放且乐观。
+举止轻浮不羁，有别于王族给人的印象。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Pandoro" offset="00" relocatable="true" max_length="0">
+			<original>庞德罗</original>
+			<edited>庞德罗</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Pandoro" offset="00" relocatable="true" max_length="0">
+			<original>自卫团的一员。
+喜欢与人同乐，是位虔诚的神职人员。</original>
+			<edited>自卫团的一员。
+喜欢与人同乐，是位虔诚的神职人员。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Pandoro_1" offset="00" relocatable="true" max_length="0">
+			<original>佛贾特的部下。
+喜欢与人同乐，是位虔诚的神职人员。</original>
+			<edited>佛贾特的部下。
+喜欢与人同乐，是位虔诚的神职人员。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Bonet" offset="00" relocatable="true" max_length="0">
+			<original>波聂</original>
+			<edited>波聂</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Bonet" offset="00" relocatable="true" max_length="0">
+			<original>自卫团的一员。
+嗅觉与味觉十分敏锐，是位喜欢下厨的青年。</original>
+			<edited>自卫团的一员。
+嗅觉与味觉十分敏锐，是位喜欢下厨的青年。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Bonet_1" offset="00" relocatable="true" max_length="0">
+			<original>佛贾特的部下。
+嗅觉与味觉十分敏锐，是位喜欢下厨的青年。</original>
+			<edited>佛贾特的部下。
+嗅觉与味觉十分敏锐，是位喜欢下厨的青年。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Misutira" offset="00" relocatable="true" max_length="0">
+			<original>蜜丝提拉</original>
+			<edited>蜜丝提拉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Misutira" offset="00" relocatable="true" max_length="0">
+			<original>索尔姆王国的公主，性格开朗且天真烂漫。
+行事无拘无束，与任何人都能亲切地交谈。</original>
+			<edited>索尔姆王国的公主，性格开朗且天真烂漫。
+行事无拘无束，与任何人都能亲切地交谈。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Panetone" offset="00" relocatable="true" max_length="0">
+			<original>帕涅托涅</original>
+			<edited>帕涅托涅</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Panetone" offset="00" relocatable="true" max_length="0">
+			<original>蜜丝提拉的部下。
+特立独行，是位遣词用字过于礼貌的淑女。</original>
+			<edited>蜜丝提拉的部下。
+特立独行，是位遣词用字过于礼貌的淑女。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Merin" offset="00" relocatable="true" max_length="0">
+			<original>玫琳</original>
+			<edited>玫琳</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Merin" offset="00" relocatable="true" max_length="0">
+			<original>蜜丝提拉的部下。
+是位英姿飒爽亦不失风仪的美人。</original>
+			<edited>蜜丝提拉的部下。
+是位英姿飒爽亦不失风仪的美人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Hortensia" offset="00" relocatable="true" max_length="0">
+			<original>奥尔坦希亚</original>
+			<edited>奥尔坦希亚</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Hortensia" offset="00" relocatable="true" max_length="0">
+			<original>伊尔席翁王国的公主，性格天真而任性。
+非常重视自己的家人与朋友。</original>
+			<edited>伊尔席翁王国的公主，性格天真而任性。
+非常重视自己的家人与朋友。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_MindHortensia" offset="00" relocatable="true" max_length="0">
+			<original>被赛皮雅之术操控的奥尔坦希亚。
+丧失理智，无法与人沟通。</original>
+			<edited>被赛皮雅之术操控的奥尔坦希亚。
+丧失理智，无法与人沟通。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Seadas" offset="00" relocatable="true" max_length="0">
+			<original>赛安达斯</original>
+			<edited>赛安达斯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Seadas" offset="00" relocatable="true" max_length="0">
+			<original>索尔姆王国内颇负盛名的舞者。
+擅长占卜，浑身散发着神秘的气息。</original>
+			<edited>索尔姆王国内颇负盛名的舞者。
+擅长占卜，浑身散发着神秘的气息。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Rosado" offset="00" relocatable="true" max_length="0">
+			<original>罗萨德</original>
+			<edited>罗萨德</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Rosado" offset="00" relocatable="true" max_length="0">
+			<original>奥尔坦希亚的部下。
+性格开朗且积极，喜欢可爱的事物。</original>
+			<edited>奥尔坦希亚的部下。
+性格开朗且积极，喜欢可爱的事物。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Goldmary" offset="00" relocatable="true" max_length="0">
+			<original>戈尔德玛莉</original>
+			<edited>戈尔德玛莉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Goldmary" offset="00" relocatable="true" max_length="0">
+			<original>奥尔坦希亚的部下。
+看似内向害羞，其实非常自信。</original>
+			<edited>奥尔坦希亚的部下。
+看似内向害羞，其实非常自信。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Linden" offset="00" relocatable="true" max_length="0">
+			<original>霖丹</original>
+			<edited>霖丹</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Linden" offset="00" relocatable="true" max_length="0">
+			<original>伊尔席翁王国出身的学者。
+拥有强烈的求知欲，兴趣是读书与做实验。</original>
+			<edited>伊尔席翁王国出身的学者。
+拥有强烈的求知欲，兴趣是读书与做实验。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Saphir" offset="00" relocatable="true" max_length="0">
+			<original>札菲亚</original>
+			<edited>札菲亚</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Saphir" offset="00" relocatable="true" max_length="0">
+			<original>布罗帝亚王国出身的战士。
+性格果断且勇猛，是位意志坚定的求道者。</original>
+			<edited>布罗帝亚王国出身的战士。
+性格果断且勇猛，是位意志坚定的求道者。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Anna" offset="00" relocatable="true" max_length="0">
+			<original>安娜</original>
+			<edited>安娜</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Anna" offset="00" relocatable="true" max_length="0">
+			<original>伊尔席翁王国出身的商人。
+性格开朗，是位脑袋灵光的守财奴。</original>
+			<edited>伊尔席翁王国出身的商人。
+性格开朗，是位脑袋灵光的守财奴。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Jean" offset="00" relocatable="true" max_length="0">
+			<original>贾恩</original>
+			<edited>贾恩</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Jean" offset="00" relocatable="true" max_length="0">
+			<original>费列聂王国出身的医生之子。
+性格勤奋且认真，立志要拯救苍生。</original>
+			<edited>费列聂王国出身的医生之子。
+性格勤奋且认真，立志要拯救苍生。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Mauve" offset="00" relocatable="true" max_length="0">
+			<original>莫布</original>
+			<edited>莫布</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_EnemyMauve" offset="00" relocatable="true" max_length="0">
+			<original>四狗的一员。
+性格木讷，是位忠诚的战士。</original>
+			<edited>四狗的一员。
+性格木讷，是位忠诚的战士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Mauve" offset="00" relocatable="true" max_length="0">
+			<original>曾为四狗的一员。现已成为贝珥的骑士，
+立誓与神龙&#xE;&#x6;&#x3;&#x0;一同奋战。</original>
+			<edited>曾为四狗的一员。现已成为贝珥的骑士，
+立誓与神龙&#xE;&#x6;&#x3;&#x0;一同奋战。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Sombre" offset="00" relocatable="true" max_length="0">
+			<original>尚卜尔</original>
+			<edited>尚卜尔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Sombre" offset="00" relocatable="true" max_length="0">
+			<original>邪龙族之王。
+拥有强大暗黑魔力的邪恶存在。</original>
+			<edited>邪龙族之王。
+拥有强大暗黑魔力的邪恶存在。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_SombreDragon" offset="00" relocatable="true" max_length="0">
+			<original>大邪龙尚卜尔</original>
+			<edited>大邪龙尚卜尔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_SombreDragon" offset="00" relocatable="true" max_length="0">
+			<original>获得纹章士戒指之力的邪龙。
+拥有能打开异界之门的强大魔力。</original>
+			<edited>获得纹章士戒指之力的邪龙。
+拥有能打开异界之门的强大魔力。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Veyre" offset="00" relocatable="true" max_length="0">
+			<original>贝珥</original>
+			<edited>贝珥</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_EnemyVeyre" offset="00" relocatable="true" max_length="0">
+			<original>邪龙尚卜尔的女儿。
+性格强势且残忍，行事作风充满恶意。</original>
+			<edited>邪龙尚卜尔的女儿。
+性格强势且残忍，行事作风充满恶意。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_MindVeyre" offset="00" relocatable="true" max_length="0">
+			<original>被强迫戴上邪龙冠冕的贝珥。
+因冠冕而破坏欲大增，内心变得更加邪恶。</original>
+			<edited>被强迫戴上邪龙冠冕的贝珥。
+因冠冕而破坏欲大增，内心变得更加邪恶。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Veyre" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x3;&#x0;的妹妹。
+战胜了自己的负面人格，决心为和平而战。</original>
+			<edited>&#xE;&#x6;&#x3;&#x0;的妹妹。
+战胜了自己的负面人格，决心为和平而战。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_VersusVeyre" offset="00" relocatable="true" max_length="0">
+			<original>邪龙之女。
+战胜了自己的负面人格，决心为和平而战。</original>
+			<edited>邪龙之女。
+战胜了自己的负面人格，决心为和平而战。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Sepia" offset="00" relocatable="true" max_length="0">
+			<original>赛皮雅</original>
+			<edited>赛皮雅</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Sepia" offset="00" relocatable="true" max_length="0">
+			<original>四狗的首领。
+魔龙族的后裔，已存活于世数千年。</original>
+			<edited>四狗的首领。
+魔龙族的后裔，已存活于世数千年。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Gris" offset="00" relocatable="true" max_length="0">
+			<original>孤栗</original>
+			<edited>孤栗</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Gris" offset="00" relocatable="true" max_length="0">
+			<original>四狗的一员，赛皮雅的亲信。
+性格粗暴且疯狂，是位危险的魔术师。</original>
+			<edited>四狗的一员，赛皮雅的亲信。
+性格粗暴且疯狂，是位危险的魔术师。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Marron" offset="00" relocatable="true" max_length="0">
+			<original>玛伦</original>
+			<edited>玛伦</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Marron" offset="00" relocatable="true" max_length="0">
+			<original>四狗的一员。
+性格开朗且天真，是位喜怒无常的重装骑士。</original>
+			<edited>四狗的一员。
+性格开朗且天真，是位喜怒无常的重装骑士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Eve" offset="00" relocatable="true" max_length="0">
+			<original>伊芙</original>
+			<edited>伊芙</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Eve" offset="00" relocatable="true" max_length="0">
+			<original>费列聂王国的女王，以爱民著称。
+性格温和，希望能见到一个没有纷争的世界。</original>
+			<edited>费列聂王国的女王，以爱民著称。
+性格温和，希望能见到一个没有纷争的世界。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Morion" offset="00" relocatable="true" max_length="0">
+			<original>莫力翁</original>
+			<edited>莫力翁</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Morion" offset="00" relocatable="true" max_length="0">
+			<original>布罗帝亚王国的国王，以勇猛著称。
+心怀荣耀与自信，是位重视礼仪的战士。</original>
+			<edited>布罗帝亚王国的国王，以勇猛著称。
+心怀荣耀与自信，是位重视礼仪的战士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_MorphMorion" offset="00" relocatable="true" max_length="0">
+			<original>异形莫力翁</original>
+			<edited>异形莫力翁</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_MorphMorion" offset="00" relocatable="true" max_length="0">
+			<original>为了复活邪龙而成为牺牲品的莫力翁王。
+死后被制成了异形兵。</original>
+			<edited>为了复活邪龙而成为牺牲品的莫力翁王。
+死后被制成了异形兵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Hyacinth" offset="00" relocatable="true" max_length="0">
+			<original>海亚信斯</original>
+			<edited>海亚信斯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Hyacinth" offset="00" relocatable="true" max_length="0">
+			<original>伊尔席翁王国的国王，以老谋深算著称。
+崇拜邪龙，企图用邪龙之力为国家带来繁荣。</original>
+			<edited>伊尔席翁王国的国王，以老谋深算著称。
+崇拜邪龙，企图用邪龙之力为国家带来繁荣。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_MorphHyacinth" offset="00" relocatable="true" max_length="0">
+			<original>异形海亚信斯</original>
+			<edited>异形海亚信斯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_MorphHyacinth" offset="00" relocatable="true" max_length="0">
+			<original>贝珥制作的精巧异形兵，
+由死于邪龙之手的海亚信斯王所制成。</original>
+			<edited>贝珥制作的精巧异形兵，
+由死于邪龙之手的海亚信斯王所制成。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Sfoglia" offset="00" relocatable="true" max_length="0">
+			<original>丝弗丽雅</original>
+			<edited>丝弗丽雅</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Sfoglia" offset="00" relocatable="true" max_length="0">
+			<original>索尔姆王国的女王，以自由奔放著称。
+其豪迈不羁的统治方式深受人民信赖。</original>
+			<edited>索尔姆王国的女王，以自由奔放著称。
+其豪迈不羁的统治方式深受人民信赖。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_M003_Boss" offset="00" relocatable="true" max_length="0">
+			<original>亚彪姆</original>
+			<edited>亚彪姆</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_M003_Boss" offset="00" relocatable="true" max_length="0">
+			<original>神秘团体的领导者。
+会忠实地执行上级指派的任务。</original>
+			<edited>神秘团体的领导者。
+会忠实地执行上级指派的任务。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_M018_Boss" offset="00" relocatable="true" max_length="0">
+			<original>伊尔席翁王国的军官。
+会忠实地执行上级指派的任务。</original>
+			<edited>伊尔席翁王国的军官。
+会忠实地执行上级指派的任务。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_M004_Boss" offset="00" relocatable="true" max_length="0">
+			<original>罗丹</original>
+			<edited>罗丹</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_M004_Boss" offset="00" relocatable="true" max_length="0">
+			<original>伊尔席翁王国的军官。
+受命负责指挥异形兵。</original>
+			<edited>伊尔席翁王国的军官。
+受命负责指挥异形兵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_M005_Boss" offset="00" relocatable="true" max_length="0">
+			<original>聂尔凯</original>
+			<edited>聂尔凯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_M005_Boss" offset="00" relocatable="true" max_length="0">
+			<original>伊尔席翁王国的军官。
+为了夺取纹章士戒指而进攻费列聂王国。</original>
+			<edited>伊尔席翁王国的军官。
+为了夺取纹章士戒指而进攻费列聂王国。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_M006_Boss" offset="00" relocatable="true" max_length="0">
+			<original>堤蓝达</original>
+			<edited>堤蓝达</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_M006_Boss" offset="00" relocatable="true" max_length="0">
+			<original>以山道聚落为根据地的盗贼团首领。
+为了获得财宝可以不择手段。</original>
+			<edited>以山道聚落为根据地的盗贼团首领。
+为了获得财宝可以不择手段。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_S002_Boss" offset="00" relocatable="true" max_length="0">
+			<original>米坦</original>
+			<edited>米坦</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_S002_Boss" offset="00" relocatable="true" max_length="0">
+			<original>出没于边境的盗贼团首领。
+与手下一起有组织地犯下各种盗窃行为。</original>
+			<edited>出没于边境的盗贼团首领。
+与手下一起有组织地犯下各种盗窃行为。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_M013_BossA" offset="00" relocatable="true" max_length="0">
+			<original>铁兹</original>
+			<edited>铁兹</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_M013_BossA" offset="00" relocatable="true" max_length="0">
+			<original>盗贼团首领，拓兹的双胞胎哥哥。
+成功驯服了在绿洲出没的异形兵。</original>
+			<edited>盗贼团首领，拓兹的双胞胎哥哥。
+成功驯服了在绿洲出没的异形兵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_M013_BossB" offset="00" relocatable="true" max_length="0">
+			<original>拓兹</original>
+			<edited>拓兹</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_M013_BossB" offset="00" relocatable="true" max_length="0">
+			<original>盗贼团首领，铁兹的双胞胎弟弟。
+成功驯服了在绿洲出没的异形兵。</original>
+			<edited>盗贼团首领，铁兹的双胞胎弟弟。
+成功驯服了在绿洲出没的异形兵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Morph" offset="00" relocatable="true" max_length="0">
+			<original>异形兵</original>
+			<edited>异形兵</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Morph" offset="00" relocatable="true" max_length="0">
+			<original>通过邪龙的秘术死而复生的僵尸。
+没有自己的意志，只会遵从主人的命令行事。</original>
+			<edited>通过邪龙的秘术死而复生的僵尸。
+没有自己的意志，只会遵从主人的命令行事。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Morph_Hide" offset="00" relocatable="true" max_length="0">
+			<original>神秘的怪物。</original>
+			<edited>神秘的怪物。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_MorphGold" offset="00" relocatable="true" max_length="0">
+			<original>金异形兵</original>
+			<edited>金异形兵</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_MorphGold" offset="00" relocatable="true" max_length="0">
+			<original>邪龙用秘术制造出的黑金色僵尸，非常罕见。
+对金钱有着强烈执着，身上带有大量的金币。</original>
+			<edited>邪龙用秘术制造出的黑金色僵尸，非常罕见。
+对金钱有着强烈执着，身上带有大量的金币。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_MorphSilver" offset="00" relocatable="true" max_length="0">
+			<original>银异形兵</original>
+			<edited>银异形兵</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_MorphSilver" offset="00" relocatable="true" max_length="0">
+			<original>邪龙用秘术制造出的黑银色僵尸，非常罕见。
+击倒后可获得大量的经验值。</original>
+			<edited>邪龙用秘术制造出的黑银色僵尸，非常罕见。
+击倒后可获得大量的经验值。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_MorphDragon" offset="00" relocatable="true" max_length="0">
+			<original>异形龙</original>
+			<edited>异形龙</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_MorphDragon" offset="00" relocatable="true" max_length="0">
+			<original>受邪龙复活所影响而苏醒的巨大龙族。
+有着坚硬的外壳，会喷出猛烈的龙息。</original>
+			<edited>受邪龙复活所影响而苏醒的巨大龙族。
+有着坚硬的外壳，会喷出猛烈的龙息。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Phantom" offset="00" relocatable="true" max_length="0">
+			<original>造物</original>
+			<edited>造物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Phantom" offset="00" relocatable="true" max_length="0">
+			<original>通过秘术制造出来的无魂士兵。
+没有自己的意志，只会遵从主人的命令行事。</original>
+			<edited>通过秘术制造出来的无魂士兵。
+没有自己的意志，只会遵从主人的命令行事。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_PhantomDragon" offset="00" relocatable="true" max_length="0">
+			<original>造物</original>
+			<edited>造物</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_PhantomDragon" offset="00" relocatable="true" max_length="0">
+			<original>通过秘术制造出来的无魂巨兽。
+没有自己的意志，只会遵从主人的命令行事。</original>
+			<edited>通过秘术制造出来的无魂巨兽。
+没有自己的意志，只会遵从主人的命令行事。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_MysteriousGroup" offset="00" relocatable="true" max_length="0">
+			<original>神秘团体</original>
+			<edited>神秘团体</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_MysteriousGroup" offset="00" relocatable="true" max_length="0">
+			<original>突袭而来的异国军队。</original>
+			<edited>突袭而来的异国军队。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Troublemaker" offset="00" relocatable="true" max_length="0">
+			<original>流氓</original>
+			<edited>流氓</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Troublemaker" offset="00" relocatable="true" max_length="0">
+			<original>靠着破坏与抢劫为生的暴徒。</original>
+			<edited>靠着破坏与抢劫为生的暴徒。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Bandits" offset="00" relocatable="true" max_length="0">
+			<original>盗贼</original>
+			<edited>盗贼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Bandits" offset="00" relocatable="true" max_length="0">
+			<original>趁乱盗取财物的犯罪者。</original>
+			<edited>趁乱盗取财物的犯罪者。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_IrcionSoldier" offset="00" relocatable="true" max_length="0">
+			<original>伊尔席翁兵</original>
+			<edited>伊尔席翁兵</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_IrcionSoldier" offset="00" relocatable="true" max_length="0">
+			<original>伊尔席翁王国的正规士兵。</original>
+			<edited>伊尔席翁王国的正规士兵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_BrodiaSoldier" offset="00" relocatable="true" max_length="0">
+			<original>布罗帝亚兵</original>
+			<edited>布罗帝亚兵</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_BrodiaSoldier" offset="00" relocatable="true" max_length="0">
+			<original>布罗帝亚王国的正规士兵。</original>
+			<edited>布罗帝亚王国的正规士兵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_SolumSoldier" offset="00" relocatable="true" max_length="0">
+			<original>索尔姆兵</original>
+			<edited>索尔姆兵</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_SolumSoldier" offset="00" relocatable="true" max_length="0">
+			<original>索尔姆王国的正规士兵。</original>
+			<edited>索尔姆王国的正规士兵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_FileneSoldier" offset="00" relocatable="true" max_length="0">
+			<original>费列聂兵</original>
+			<edited>费列聂兵</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_FileneSoldier" offset="00" relocatable="true" max_length="0">
+			<original>费列聂王国的正规士兵。</original>
+			<edited>费列聂王国的正规士兵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Marth" offset="00" relocatable="true" max_length="0">
+			<original>马尔斯</original>
+			<edited>马尔斯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Marth" offset="00" relocatable="true" max_length="0">
+			<original>人称“初始纹章士”。
+为人高尚清廉，极具领袖魅力，是群雄之最。</original>
+			<edited>人称“初始纹章士”。
+为人高尚清廉，极具领袖魅力，是群雄之最。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Siglud" offset="00" relocatable="true" max_length="0">
+			<original>西格尔特</original>
+			<edited>西格尔特</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Siglud" offset="00" relocatable="true" max_length="0">
+			<original>人称“圣战纹章士”。
+是继承圣战士血脉的廉洁骑士。</original>
+			<edited>人称“圣战纹章士”。
+是继承圣战士血脉的廉洁骑士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Celica" offset="00" relocatable="true" max_length="0">
+			<original>赛莉卡</original>
+			<edited>赛莉卡</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Celica" offset="00" relocatable="true" max_length="0">
+			<original>人称“声响纹章士”。
+是丰饶之国的公主，也是位神官战士。</original>
+			<edited>人称“声响纹章士”。
+是丰饶之国的公主，也是位神官战士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Micaiah" offset="00" relocatable="true" max_length="0">
+			<original>米卡雅</original>
+			<edited>米卡雅</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Micaiah" offset="00" relocatable="true" max_length="0">
+			<original>人称“拂晓纹章士”。
+拥有治愈、预知等神秘力量。</original>
+			<edited>人称“拂晓纹章士”。
+拥有治愈、预知等神秘力量。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Roy" offset="00" relocatable="true" max_length="0">
+			<original>罗伊</original>
+			<edited>罗伊</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Roy" offset="00" relocatable="true" max_length="0">
+			<original>人称“封印纹章士”。
+勇猛果敢、才智过人，是位有大将风范的勋爵。</original>
+			<edited>人称“封印纹章士”。
+勇猛果敢、才智过人，是位有大将风范的勋爵。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Lin" offset="00" relocatable="true" max_length="0">
+			<original>琳</original>
+			<edited>琳</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Lin" offset="00" relocatable="true" max_length="0">
+			<original>人称“烈火纹章士”。
+生于逐水草而居的游牧民族，是位武艺高超的剑士。</original>
+			<edited>人称“烈火纹章士”。
+生于逐水草而居的游牧民族，是位武艺高超的剑士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Ike" offset="00" relocatable="true" max_length="0">
+			<original>艾克</original>
+			<edited>艾克</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Ike" offset="00" relocatable="true" max_length="0">
+			<original>人称“苍炎纹章士”。
+著名的佣兵团团长，拥有超群的战斗技巧。</original>
+			<edited>人称“苍炎纹章士”。
+著名的佣兵团团长，拥有超群的战斗技巧。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Lucina" offset="00" relocatable="true" max_length="0">
+			<original>露琪娜</original>
+			<edited>露琪娜</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Lucina" offset="00" relocatable="true" max_length="0">
+			<original>人称“觉醒纹章士”。
+是位相信希望，不向绝望屈服的神圣公主。</original>
+			<edited>人称“觉醒纹章士”。
+是位相信希望，不向绝望屈服的神圣公主。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Leaf" offset="00" relocatable="true" max_length="0">
+			<original>里弗</original>
+			<edited>里弗</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Leaf" offset="00" relocatable="true" max_length="0">
+			<original>人称“系谱纹章士”。
+继承了两位圣战士血脉，是位英勇的王子。</original>
+			<edited>人称“系谱纹章士”。
+继承了两位圣战士血脉，是位英勇的王子。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Kamui" offset="00" relocatable="true" max_length="0">
+			<original>神威</original>
+			<edited>神威</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Kamui" offset="00" relocatable="true" max_length="0">
+			<original>人称“选择纹章士”。
+继承神祖龙血脉，拥有百折不挠的精神。</original>
+			<edited>人称“选择纹章士”。
+继承神祖龙血脉，拥有百折不挠的精神。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Eirik" offset="00" relocatable="true" max_length="0">
+			<original>艾莉可</original>
+			<edited>艾莉可</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Eirik" offset="00" relocatable="true" max_length="0">
+			<original>人称“圣魔纹章士”。
+为了和平挺身而战，是位心地善良的公主。</original>
+			<edited>人称“圣魔纹章士”。
+为了和平挺身而战，是位心地善良的公主。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Byleth" offset="00" relocatable="true" max_length="0">
+			<original>贝雷特</original>
+			<edited>贝雷特</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Byleth" offset="00" relocatable="true" max_length="0">
+			<original>人称“风花纹章士”。
+曾为佣兵的士官学校教师。</original>
+			<edited>人称“风花纹章士”。
+曾为佣兵的士官学校教师。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Hide" offset="00" relocatable="true" max_length="0">
+			<original>？？？</original>
+			<edited>？？？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Marth" offset="00" relocatable="true" max_length="0">
+			<original>马尔斯</original>
+			<edited>马尔斯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Marth" offset="00" relocatable="true" max_length="0">
+			<original>人称“初始纹章士”。
+为人高尚清廉，极具领袖魅力，是群雄之最。
+可以看清敌人的攻击动作并使出连击。</original>
+			<edited>人称“初始纹章士”。
+为人高尚清廉，极具领袖魅力，是群雄之最。
+可以看清敌人的攻击动作并使出连击。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Siglud" offset="00" relocatable="true" max_length="0">
+			<original>西格尔特</original>
+			<edited>西格尔特</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Siglud" offset="00" relocatable="true" max_length="0">
+			<original>人称“圣战纹章士”。
+是继承圣战士血脉的廉洁骑士。
+武器为长枪，其高机动力令之自豪。</original>
+			<edited>人称“圣战纹章士”。
+是继承圣战士血脉的廉洁骑士。
+武器为长枪，其高机动力令之自豪。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Celica" offset="00" relocatable="true" max_length="0">
+			<original>赛莉卡</original>
+			<edited>赛莉卡</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Celica" offset="00" relocatable="true" max_length="0">
+			<original>人称“声响纹章士”。
+是丰饶之国的公主，也是位神官战士。
+可以使用神圣魔法对魔物造成巨大的伤害。</original>
+			<edited>人称“声响纹章士”。
+是丰饶之国的公主，也是位神官战士。
+可以使用神圣魔法对魔物造成巨大的伤害。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Micaiah" offset="00" relocatable="true" max_length="0">
+			<original>米卡雅</original>
+			<edited>米卡雅</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Micaiah" offset="00" relocatable="true" max_length="0">
+			<original>人称“拂晓纹章士”。
+拥有治愈、预知等神秘力量。
+可以使用魔法与回复之杖来支援友军。</original>
+			<edited>人称“拂晓纹章士”。
+拥有治愈、预知等神秘力量。
+可以使用魔法与回复之杖来支援友军。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Roy" offset="00" relocatable="true" max_length="0">
+			<original>罗伊</original>
+			<edited>罗伊</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Roy" offset="00" relocatable="true" max_length="0">
+			<original>人称“封印纹章士”。
+勇猛果敢、才智过人，是位有大将风范的勋爵。
+可以承受敌人的攻击，为友军杀出一条血路。</original>
+			<edited>人称“封印纹章士”。
+勇猛果敢、才智过人，是位有大将风范的勋爵。
+可以承受敌人的攻击，为友军杀出一条血路。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Lin" offset="00" relocatable="true" max_length="0">
+			<original>琳</original>
+			<edited>琳</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Lin" offset="00" relocatable="true" max_length="0">
+			<original>人称“烈火纹章士”。
+生于逐水草而居的游牧民族，是位武艺高超的剑士。
+以华丽的剑术与弓术将敌人玩弄于股掌之间。</original>
+			<edited>人称“烈火纹章士”。
+生于逐水草而居的游牧民族，是位武艺高超的剑士。
+以华丽的剑术与弓术将敌人玩弄于股掌之间。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_EnemyLin" offset="00" relocatable="true" max_length="0">
+			<original>托付给伊尔席翁，
+寄宿于“草原女爵戒指”中的纹章士。</original>
+			<edited>托付给伊尔席翁，
+寄宿于“草原女爵戒指”中的纹章士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ike" offset="00" relocatable="true" max_length="0">
+			<original>艾克</original>
+			<edited>艾克</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Ike" offset="00" relocatable="true" max_length="0">
+			<original>人称“苍炎纹章士”。
+著名的佣兵团团长，拥有超群的战斗技巧。
+可以豪迈地挥舞剑与斧来破坏障碍物。</original>
+			<edited>人称“苍炎纹章士”。
+著名的佣兵团团长，拥有超群的战斗技巧。
+可以豪迈地挥舞剑与斧来破坏障碍物。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Lucina" offset="00" relocatable="true" max_length="0">
+			<original>露琪娜</original>
+			<edited>露琪娜</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Lucina" offset="00" relocatable="true" max_length="0">
+			<original>人称“觉醒纹章士”。
+是位相信希望，不向绝望屈服的神圣公主。
+重视友情和牵绊，与伙伴携手扫除敌人。</original>
+			<edited>人称“觉醒纹章士”。
+是位相信希望，不向绝望屈服的神圣公主。
+重视友情和牵绊，与伙伴携手扫除敌人。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_EnemyLucina" offset="00" relocatable="true" max_length="0">
+			<original>自神龙王城被夺走，
+寄宿于“圣公主戒指”中的纹章士。</original>
+			<edited>自神龙王城被夺走，
+寄宿于“圣公主戒指”中的纹章士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Leaf" offset="00" relocatable="true" max_length="0">
+			<original>里弗</original>
+			<edited>里弗</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Leaf" offset="00" relocatable="true" max_length="0">
+			<original>人称“系谱纹章士”。
+继承了两位圣战士血脉，是位英勇的王子。
+可以熟练地使用剑、枪、斧等各式武器。</original>
+			<edited>人称“系谱纹章士”。
+继承了两位圣战士血脉，是位英勇的王子。
+可以熟练地使用剑、枪、斧等各式武器。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_EnemyLeaf" offset="00" relocatable="true" max_length="0">
+			<original>自神龙王城被夺走，
+寄宿于“贤王戒指”中的纹章士。</original>
+			<edited>自神龙王城被夺走，
+寄宿于“贤王戒指”中的纹章士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Kamui" offset="00" relocatable="true" max_length="0">
+			<original>神威</original>
+			<edited>神威</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Kamui" offset="00" relocatable="true" max_length="0">
+			<original>人称“选择纹章士”。
+继承神祖龙血脉，拥有百折不挠的精神。
+可以操控沉睡于地底的“龙脉”之力。</original>
+			<edited>人称“选择纹章士”。
+继承神祖龙血脉，拥有百折不挠的精神。
+可以操控沉睡于地底的“龙脉”之力。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Eirik" offset="00" relocatable="true" max_length="0">
+			<original>艾莉可</original>
+			<edited>艾莉可</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Eirik" offset="00" relocatable="true" max_length="0">
+			<original>人称“圣魔纹章士”。
+为了和平挺身而战，是位心地善良的公主。
+可以使出疾风迅雷般的剑术突破敌人的防御。</original>
+			<edited>人称“圣魔纹章士”。
+为了和平挺身而战，是位心地善良的公主。
+可以使出疾风迅雷般的剑术突破敌人的防御。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ephraim" offset="00" relocatable="true" max_length="0">
+			<original>艾夫拉姆</original>
+			<edited>艾夫拉姆</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Ephraim" offset="00" relocatable="true" max_length="0">
+			<original>另一位“圣魔纹章士”。
+骁勇善战，是艾莉可的双胞胎哥哥。
+可以使出无敌的枪技杀入敌阵之中。</original>
+			<edited>另一位“圣魔纹章士”。
+骁勇善战，是艾莉可的双胞胎哥哥。
+可以使出无敌的枪技杀入敌阵之中。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Byleth" offset="00" relocatable="true" max_length="0">
+			<original>贝雷特</original>
+			<edited>贝雷特</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Byleth" offset="00" relocatable="true" max_length="0">
+			<original>人称“风花纹章士”。
+曾为佣兵的士官学校教师。
+持有“英雄遗产”，能使出千变万化的战术。</original>
+			<edited>人称“风花纹章士”。
+曾为佣兵的士官学校教师。
+持有“英雄遗产”，能使出千变万化的战术。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_EnemyByleth" offset="00" relocatable="true" max_length="0">
+			<original>自神龙王城被夺走，
+寄宿于“引领者戒指”中的纹章士。</original>
+			<edited>自神龙王城被夺走，
+寄宿于“引领者戒指”中的纹章士。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Lueur" offset="00" relocatable="true" max_length="0">
+			<original>琉尔</original>
+			<edited>琉尔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Lueur" offset="00" relocatable="true" max_length="0">
+			<original>人称“绊炎纹章士”。
+同时也是神龙继承者的特别纹章士。
+获得神龙的加护，立志消灭邪龙。</original>
+			<edited>人称“绊炎纹章士”。
+同时也是神龙继承者的特别纹章士。
+获得神龙的加护，立志消灭邪龙。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Mediuth" offset="00" relocatable="true" max_length="0">
+			<original>暗黑龙纹章士</original>
+			<edited>暗黑龙纹章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Mediuth" offset="00" relocatable="true" max_length="0">
+			<original>经尚卜尔之手显现的暗黑纹章士。
+从马尔斯生活过的异界中召唤而来。
+拥有强大到令人畏惧的暗黑龙之力。</original>
+			<edited>经尚卜尔之手显现的暗黑纹章士。
+从马尔斯生活过的异界中召唤而来。
+拥有强大到令人畏惧的暗黑龙之力。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Loptous" offset="00" relocatable="true" max_length="0">
+			<original>暗黑神纹章士</original>
+			<edited>暗黑神纹章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Loptous" offset="00" relocatable="true" max_length="0">
+			<original>经尚卜尔之手显现的暗黑纹章士。
+从西格尔特生活过的异界中召唤而来。
+拥有让人陷入恐惧的暗黑神之力。</original>
+			<edited>经尚卜尔之手显现的暗黑纹章士。
+从西格尔特生活过的异界中召唤而来。
+拥有让人陷入恐惧的暗黑神之力。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Duma" offset="00" relocatable="true" max_length="0">
+			<original>战神纹章士</original>
+			<edited>战神纹章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Duma" offset="00" relocatable="true" max_length="0">
+			<original>经尚卜尔之手显现的暗黑纹章士。
+从赛莉卡生活过的异界中召唤而来。
+被疯狂吞噬，拥有狂暴的战神之力。</original>
+			<edited>经尚卜尔之手显现的暗黑纹章士。
+从赛莉卡生活过的异界中召唤而来。
+被疯狂吞噬，拥有狂暴的战神之力。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Veld" offset="00" relocatable="true" max_length="0">
+			<original>暗祭司纹章士</original>
+			<edited>暗祭司纹章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Veld" offset="00" relocatable="true" max_length="0">
+			<original>经尚卜尔之手显现的暗黑纹章士。
+从里弗生活过的异界中召唤而来。
+拥有暗黑教团祭司的邪恶之力。</original>
+			<edited>经尚卜尔之手显现的暗黑纹章士。
+从里弗生活过的异界中召唤而来。
+拥有暗黑教团祭司的邪恶之力。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Idenn" offset="00" relocatable="true" max_length="0">
+			<original>魔龙纹章士</original>
+			<edited>魔龙纹章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Idenn" offset="00" relocatable="true" max_length="0">
+			<original>经尚卜尔之手显现的暗黑纹章士。
+从罗伊生活过的异界中召唤而来。
+拥有企图毁灭人类的魔龙之力。</original>
+			<edited>经尚卜尔之手显现的暗黑纹章士。
+从罗伊生活过的异界中召唤而来。
+拥有企图毁灭人类的魔龙之力。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Nergal" offset="00" relocatable="true" max_length="0">
+			<original>邪智纹章士</original>
+			<edited>邪智纹章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Nergal" offset="00" relocatable="true" max_length="0">
+			<original>经尚卜尔之手显现的暗黑纹章士。
+从琳生活过的异界中召唤而来。
+能利用禁忌的知识为敌人带来灾祸。</original>
+			<edited>经尚卜尔之手显现的暗黑纹章士。
+从琳生活过的异界中召唤而来。
+能利用禁忌的知识为敌人带来灾祸。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Fodeth" offset="00" relocatable="true" max_length="0">
+			<original>魔王纹章士</original>
+			<edited>魔王纹章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Fodeth" offset="00" relocatable="true" max_length="0">
+			<original>经尚卜尔之手显现的暗黑纹章士。
+从艾莉可生活过的异界中召唤而来。
+拥有不详的魔王之力。</original>
+			<edited>经尚卜尔之手显现的暗黑纹章士。
+从艾莉可生活过的异界中召唤而来。
+拥有不详的魔王之力。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Ashnard" offset="00" relocatable="true" max_length="0">
+			<original>狂王纹章士</original>
+			<edited>狂王纹章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Ashnard" offset="00" relocatable="true" max_length="0">
+			<original>经尚卜尔之手显现的暗黑纹章士。
+从艾克生活过的异界中召唤而来。
+拥有将世界卷入战火的暴君之力。</original>
+			<edited>经尚卜尔之手显现的暗黑纹章士。
+从艾克生活过的异界中召唤而来。
+拥有将世界卷入战火的暴君之力。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Astarte" offset="00" relocatable="true" max_length="0">
+			<original>裁定纹章士</original>
+			<edited>裁定纹章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Astarte" offset="00" relocatable="true" max_length="0">
+			<original>经尚卜尔之手显现的暗黑纹章士。
+从米卡雅生活过的异界中召唤而来。
+拥有想要制裁人类的女神之力。</original>
+			<edited>经尚卜尔之手显现的暗黑纹章士。
+从米卡雅生活过的异界中召唤而来。
+拥有想要制裁人类的女神之力。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Gimle" offset="00" relocatable="true" max_length="0">
+			<original>绝望纹章士</original>
+			<edited>绝望纹章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Gimle" offset="00" relocatable="true" max_length="0">
+			<original>经尚卜尔之手显现的暗黑纹章士。
+从露琪娜生活过的异界中召唤而来。
+拥有能带来破灭与绝望的邪龙之力。</original>
+			<edited>经尚卜尔之手显现的暗黑纹章士。
+从露琪娜生活过的异界中召唤而来。
+拥有能带来破灭与绝望的邪龙之力。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Hydra" offset="00" relocatable="true" max_length="0">
+			<original>狂龙纹章士</original>
+			<edited>狂龙纹章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Hydra" offset="00" relocatable="true" max_length="0">
+			<original>经尚卜尔之手显现的暗黑纹章士。
+从神威生活过的异界中召唤而来。
+拥有将人类导向毁灭之路的狂龙之力。</original>
+			<edited>经尚卜尔之手显现的暗黑纹章士。
+从神威生活过的异界中召唤而来。
+拥有将人类导向毁灭之路的狂龙之力。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_Nemesis" offset="00" relocatable="true" max_length="0">
+			<original>解放王纹章士</original>
+			<edited>解放王纹章士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGID_H_Nemesis" offset="00" relocatable="true" max_length="0">
+			<original>经尚卜尔之手显现的暗黑纹章士。
+从贝雷特生活过的异界中召唤而来。
+拥有虐杀了神祖一族的古代王之力。</original>
+			<edited>经尚卜尔之手显现的暗黑纹章士。
+从贝雷特生活过的异界中召唤而来。
+拥有虐杀了神祖一族的古代王之力。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Marth" offset="00" relocatable="true" max_length="0">
+			<original>初始纹章</original>
+			<edited>初始纹章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Siglud" offset="00" relocatable="true" max_length="0">
+			<original>圣战纹章</original>
+			<edited>圣战纹章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Celica" offset="00" relocatable="true" max_length="0">
+			<original>声响纹章</original>
+			<edited>声响纹章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Micaiah" offset="00" relocatable="true" max_length="0">
+			<original>拂晓纹章</original>
+			<edited>拂晓纹章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Roy" offset="00" relocatable="true" max_length="0">
+			<original>封印纹章</original>
+			<edited>封印纹章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Lin" offset="00" relocatable="true" max_length="0">
+			<original>烈火纹章</original>
+			<edited>烈火纹章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Ike" offset="00" relocatable="true" max_length="0">
+			<original>苍炎纹章</original>
+			<edited>苍炎纹章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Lucina" offset="00" relocatable="true" max_length="0">
+			<original>觉醒纹章</original>
+			<edited>觉醒纹章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Leaf" offset="00" relocatable="true" max_length="0">
+			<original>系谱纹章</original>
+			<edited>系谱纹章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Kamui" offset="00" relocatable="true" max_length="0">
+			<original>选择纹章</original>
+			<edited>选择纹章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Eirik" offset="00" relocatable="true" max_length="0">
+			<original>圣魔纹章</original>
+			<edited>圣魔纹章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Byleth" offset="00" relocatable="true" max_length="0">
+			<original>风花纹章</original>
+			<edited>风花纹章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MGEID_Lueur" offset="00" relocatable="true" max_length="0">
+			<original>绊炎纹章</original>
+			<edited>绊炎纹章</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_WeaponShop" offset="00" relocatable="true" max_length="0">
+			<original>达顿</original>
+			<edited>达顿</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_ItemShop" offset="00" relocatable="true" max_length="0">
+			<original>阿尼思</original>
+			<edited>阿尼思</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_AccessoriesShop" offset="00" relocatable="true" max_length="0">
+			<original>皮聂</original>
+			<edited>皮聂</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_BlackSmith" offset="00" relocatable="true" max_length="0">
+			<original>卡尔镍</original>
+			<edited>卡尔镍</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_JeanFather" offset="00" relocatable="true" max_length="0">
+			<original>肖恩</original>
+			<edited>肖恩</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_JeanFather" offset="00" relocatable="true" max_length="0">
+			<original>贾恩的父亲。
+经营着茶园之乡的诊所。</original>
+			<edited>贾恩的父亲。
+经营着茶园之乡的诊所。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_JeanMother" offset="00" relocatable="true" max_length="0">
+			<original>安洁</original>
+			<edited>安洁</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_SolumVillager" offset="00" relocatable="true" max_length="0">
+			<original>索尔姆国民</original>
+			<edited>索尔姆国民</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_SolumVillager" offset="00" relocatable="true" max_length="0">
+			<original>生活在索尔姆王国的居民。</original>
+			<edited>生活在索尔姆王国的居民。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_FileneVillager" offset="00" relocatable="true" max_length="0">
+			<original>费列聂国民</original>
+			<edited>费列聂国民</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_FileneVillager" offset="00" relocatable="true" max_length="0">
+			<original>生活在费列聂王国的居民。</original>
+			<edited>生活在费列聂王国的居民。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Vision" offset="00" relocatable="true" max_length="0">
+			<original>残像</original>
+			<edited>残像</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Vision" offset="00" relocatable="true" max_length="0">
+			<original>利用结合特技创造出的残像。</original>
+			<edited>利用结合特技创造出的残像。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Lueur" offset="00" relocatable="true" max_length="0">
+			<original>神龙王</original>
+			<edited>神龙王</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Vandre" offset="00" relocatable="true" max_length="0">
+			<original>老练的守护者</original>
+			<edited>老练的守护者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Clan" offset="00" relocatable="true" max_length="0">
+			<original>冷静的守护者</original>
+			<edited>冷静的守护者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Fram" offset="00" relocatable="true" max_length="0">
+			<original>热情的守护者</original>
+			<edited>热情的守护者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Alfred" offset="00" relocatable="true" max_length="0">
+			<original>守护笑容之花</original>
+			<edited>守护笑容之花</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Boucheron" offset="00" relocatable="true" max_length="0">
+			<original>坚毅又感性的巨斧</original>
+			<edited>坚毅又感性的巨斧</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Etie" offset="00" relocatable="true" max_length="0">
+			<original>铁腕大小姐</original>
+			<edited>铁腕大小姐</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Celine" offset="00" relocatable="true" max_length="0">
+			<original>幸福的公主</original>
+			<edited>幸福的公主</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Louis" offset="00" relocatable="true" max_length="0">
+			<original>花园门卫</original>
+			<edited>花园门卫</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Chloe" offset="00" relocatable="true" max_length="0">
+			<original>遨游幻想之翼</original>
+			<edited>遨游幻想之翼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Diamand" offset="00" relocatable="true" max_length="0">
+			<original>勇往直前的黑铁</original>
+			<edited>勇往直前的黑铁</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Umber" offset="00" relocatable="true" max_length="0">
+			<original>羊驼勇者</original>
+			<edited>羊驼勇者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Jade" offset="00" relocatable="true" max_length="0">
+			<original>宝石守护者</original>
+			<edited>宝石守护者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Staluke" offset="00" relocatable="true" max_length="0">
+			<original>心思细腻的射手</original>
+			<edited>心思细腻的射手</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Lapis" offset="00" relocatable="true" max_length="0">
+			<original>不屈的野花</original>
+			<edited>不屈的野花</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Citrinica" offset="00" relocatable="true" max_length="0">
+			<original>富裕的友爱</original>
+			<edited>富裕的友爱</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Ivy" offset="00" relocatable="true" max_length="0">
+			<original>流风回雪</original>
+			<edited>流风回雪</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Zelkova" offset="00" relocatable="true" max_length="0">
+			<original>“忠诚”之影</original>
+			<edited>“忠诚”之影</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Kagetsu" offset="00" relocatable="true" max_length="0">
+			<original>饭团武士</original>
+			<edited>饭团武士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Hortensia" offset="00" relocatable="true" max_length="0">
+			<original>可爱的雪花</original>
+			<edited>可爱的雪花</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Rosado" offset="00" relocatable="true" max_length="0">
+			<original>画中可人</original>
+			<edited>画中可人</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Goldmary" offset="00" relocatable="true" max_length="0">
+			<original>自信过人的美貌</original>
+			<edited>自信过人的美貌</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Misutira" offset="00" relocatable="true" max_length="0">
+			<original>战斗热沙</original>
+			<edited>战斗热沙</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Merin" offset="00" relocatable="true" max_length="0">
+			<original>美丽的异兽骑士</original>
+			<edited>美丽的异兽骑士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Panetone" offset="00" relocatable="true" max_length="0">
+			<original>吵架高手</original>
+			<edited>吵架高手</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Fogato" offset="00" relocatable="true" max_length="0">
+			<original>博爱之人</original>
+			<edited>博爱之人</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Pandoro" offset="00" relocatable="true" max_length="0">
+			<original>派对圣徒</original>
+			<edited>派对圣徒</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Bonet" offset="00" relocatable="true" max_length="0">
+			<original>万物皆可食</original>
+			<edited>万物皆可食</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Anna" offset="00" relocatable="true" max_length="0">
+			<original>小小商人</original>
+			<edited>小小商人</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Jean" offset="00" relocatable="true" max_length="0">
+			<original>勤勉的新叶</original>
+			<edited>勤勉的新叶</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Yunaka" offset="00" relocatable="true" max_length="0">
+			<original>看不见的面具</original>
+			<edited>看不见的面具</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Seadas" offset="00" relocatable="true" max_length="0">
+			<original>月下舞者</original>
+			<edited>月下舞者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Linden" offset="00" relocatable="true" max_length="0">
+			<original>雷霆贤者</original>
+			<edited>雷霆贤者</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Saphir" offset="00" relocatable="true" max_length="0">
+			<original>勇敢的王城士兵</original>
+			<edited>勇敢的王城士兵</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Veyre" offset="00" relocatable="true" max_length="0">
+			<original>善良的龙</original>
+			<edited>善良的龙</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_alias_Mauve" offset="00" relocatable="true" max_length="0">
+			<original>救赎骑士</original>
+			<edited>救赎骑士</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_Mascot" offset="00" relocatable="true" max_length="0">
+			<original>索拉</original>
+			<edited>索拉</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_Mascot" offset="00" relocatable="true" max_length="0">
+			<original>自古以来栖息在索拉涅尔的生物。</original>
+			<edited>自古以来栖息在索拉涅尔的生物。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_EleosGoat" offset="00" relocatable="true" max_length="0">
+			<original>艾雷欧斯绵羊</original>
+			<edited>艾雷欧斯绵羊</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_EleosGoat" offset="00" relocatable="true" max_length="0">
+			<original>遍布于艾雷欧斯大陆的绵羊，
+特征是身上毛茸茸的羊毛。</original>
+			<edited>遍布于艾雷欧斯大陆的绵羊，
+特征是身上毛茸茸的羊毛。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_WhitePyonRabbit" offset="00" relocatable="true" max_length="0">
+			<original>白跳兔</original>
+			<edited>白跳兔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_WhitePyonRabbit" offset="00" relocatable="true" max_length="0">
+			<original>遍布于艾雷欧斯大陆的白兔，
+顶着长耳以跳跃的方式移动。
+也有其他颜色的品种。</original>
+			<edited>遍布于艾雷欧斯大陆的白兔，
+顶着长耳以跳跃的方式移动。
+也有其他颜色的品种。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_PyonRabbit" offset="00" relocatable="true" max_length="0">
+			<original>跳兔</original>
+			<edited>跳兔</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_PyonRabbit" offset="00" relocatable="true" max_length="0">
+			<original>遍布于艾雷欧斯大陆的兔子，
+顶着长耳以跳跃的方式移动。
+也有白色的品种。</original>
+			<edited>遍布于艾雷欧斯大陆的兔子，
+顶着长耳以跳跃的方式移动。
+也有白色的品种。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_EastCat" offset="00" relocatable="true" max_length="0">
+			<original>东方猫</original>
+			<edited>东方猫</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_EastCat" offset="00" relocatable="true" max_length="0">
+			<original>据说其祖先源自大陆的东方。
+于各处落地生根，发展出各自的生态体系。
+依栖息的国家不同，有着各种外观及名称。</original>
+			<edited>据说其祖先源自大陆的东方。
+于各处落地生根，发展出各自的生态体系。
+依栖息的国家不同，有着各种外观及名称。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_WestCat" offset="00" relocatable="true" max_length="0">
+			<original>西方猫</original>
+			<edited>西方猫</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_WestCat" offset="00" relocatable="true" max_length="0">
+			<original>据说其祖先源自大陆的西方。
+于各处落地生根，发展出各自的生态体系。
+依栖息的国家不同，有着各种外观及名称。</original>
+			<edited>据说其祖先源自大陆的西方。
+于各处落地生根，发展出各自的生态体系。
+依栖息的国家不同，有着各种外观及名称。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_SouthCat" offset="00" relocatable="true" max_length="0">
+			<original>南方猫</original>
+			<edited>南方猫</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_SouthCat" offset="00" relocatable="true" max_length="0">
+			<original>据说其祖先源自大陆的南方。
+于各处落地生根，发展出各自的生态体系。
+依栖息的国家不同，有着各种外观及名称。</original>
+			<edited>据说其祖先源自大陆的南方。
+于各处落地生根，发展出各自的生态体系。
+依栖息的国家不同，有着各种外观及名称。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_NorthCat" offset="00" relocatable="true" max_length="0">
+			<original>北方猫</original>
+			<edited>北方猫</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_NorthCat" offset="00" relocatable="true" max_length="0">
+			<original>据说其祖先源自大陆的北方。
+于各处落地生根，发展出各自的生态体系。
+依栖息的国家不同，有着各种外观及名称。</original>
+			<edited>据说其祖先源自大陆的北方。
+于各处落地生根，发展出各自的生态体系。
+依栖息的国家不同，有着各种外观及名称。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_FileneCat" offset="00" relocatable="true" max_length="0">
+			<original>费列聂猫</original>
+			<edited>费列聂猫</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_FileneCat" offset="00" relocatable="true" max_length="0">
+			<original>一种栖息于费列聂的猫。
+依栖息的国家不同，有着各种外观及名称。
+特征是黑白两色的毛皮。</original>
+			<edited>一种栖息于费列聂的猫。
+依栖息的国家不同，有着各种外观及名称。
+特征是黑白两色的毛皮。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_BrodiaCat" offset="00" relocatable="true" max_length="0">
+			<original>布罗帝亚猫</original>
+			<edited>布罗帝亚猫</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_BrodiaCat" offset="00" relocatable="true" max_length="0">
+			<original>一种栖息于布罗帝亚的猫。
+依栖息的国家不同，有着各种外观及名称。
+特征是黑褐混色的毛皮。</original>
+			<edited>一种栖息于布罗帝亚的猫。
+依栖息的国家不同，有着各种外观及名称。
+特征是黑褐混色的毛皮。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_IrcionCat" offset="00" relocatable="true" max_length="0">
+			<original>伊尔席翁猫</original>
+			<edited>伊尔席翁猫</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_IrcionCat" offset="00" relocatable="true" max_length="0">
+			<original>一种栖息于伊尔席翁的猫。
+依栖息的国家不同，有着各种外观及名称。
+特征是只有脚、脸、耳朵或尾巴是黑色的。</original>
+			<edited>一种栖息于伊尔席翁的猫。
+依栖息的国家不同，有着各种外观及名称。
+特征是只有脚、脸、耳朵或尾巴是黑色的。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_SolumCat" offset="00" relocatable="true" max_length="0">
+			<original>索尔姆猫</original>
+			<edited>索尔姆猫</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_SolumCat" offset="00" relocatable="true" max_length="0">
+			<original>一种栖息于索尔姆的猫。
+依栖息的国家不同，有着各种外观及名称。
+特征是如豹纹般的毛色。</original>
+			<edited>一种栖息于索尔姆的猫。
+依栖息的国家不同，有着各种外观及名称。
+特征是如豹纹般的毛色。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_KarisonCoco" offset="00" relocatable="true" max_length="0">
+			<original>卡利颂咕咕</original>
+			<edited>卡利颂咕咕</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_KarisonCoco" offset="00" relocatable="true" max_length="0">
+			<original>咕咕的一种，主要栖息于费列聂。
+浑圆的体型并不影响其飞行能力，
+因此也会被用来传递书信。</original>
+			<edited>咕咕的一种，主要栖息于费列聂。
+浑圆的体型并不影响其飞行能力，
+因此也会被用来传递书信。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_AuraEagle" offset="00" relocatable="true" max_length="0">
+			<original>亚欧拉鹰</original>
+			<edited>亚欧拉鹰</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_AuraEagle" offset="00" relocatable="true" max_length="0">
+			<original>老鹰的一种，主要栖息于布罗帝亚。
+善于利用山谷中的上升气流滑翔。
+由于不需要挥动翅膀，所以能长时间飞行。</original>
+			<edited>老鹰的一种，主要栖息于布罗帝亚。
+善于利用山谷中的上升气流滑翔。
+由于不需要挥动翅膀，所以能长时间飞行。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_IrisOwl" offset="00" relocatable="true" max_length="0">
+			<original>艾利斯猫头鹰</original>
+			<edited>艾利斯猫头鹰</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_IrisOwl" offset="00" relocatable="true" max_length="0">
+			<original>猫头鹰的一种，主要栖息于伊尔席翁。
+浑身覆盖着利于保暖的大片羽毛，
+即使在寒冬中也能高速飞行。</original>
+			<edited>猫头鹰的一种，主要栖息于伊尔席翁。
+浑身覆盖着利于保暖的大片羽毛，
+即使在寒冬中也能高速飞行。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_PannaCamel" offset="00" relocatable="true" max_length="0">
+			<original>潘纳峰骆驼</original>
+			<edited>潘纳峰骆驼</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_PannaCamel" offset="00" relocatable="true" max_length="0">
+			<original>骆驼的一种，主要栖息于索尔姆。
+在索尔姆几乎家家都有一匹。
+可以载人并搬运大量的货物。</original>
+			<edited>骆驼的一种，主要栖息于索尔姆。
+在索尔姆几乎家家都有一匹。
+可以载人并搬运大量的货物。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_EleosPigeon" offset="00" relocatable="true" max_length="0">
+			<original>艾雷欧斯鸽</original>
+			<edited>艾雷欧斯鸽</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_EleosPigeon" offset="00" relocatable="true" max_length="0">
+			<original>遍布于艾雷欧斯大陆的杂食性野鸟。
+有时会成群出现在空中，其景象令人赞叹。
+是一种很常见的鸟类。</original>
+			<edited>遍布于艾雷欧斯大陆的杂食性野鸟。
+有时会成群出现在空中，其景象令人赞叹。
+是一种很常见的鸟类。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_EleosSeagull" offset="00" relocatable="true" max_length="0">
+			<original>艾雷欧斯海鸥</original>
+			<edited>艾雷欧斯海鸥</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_EleosSeagull" offset="00" relocatable="true" max_length="0">
+			<original>遍布于艾雷欧斯大陆沿海地区的野鸟。
+喜欢吃鱼，常会抢走钓客手中的鱼。</original>
+			<edited>遍布于艾雷欧斯大陆沿海地区的野鸟。
+喜欢吃鱼，常会抢走钓客手中的鱼。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_EleosDog" offset="00" relocatable="true" max_length="0">
+			<original>艾雷欧斯犬</original>
+			<edited>艾雷欧斯犬</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_EleosDog" offset="00" relocatable="true" max_length="0">
+			<original>遍布于艾雷欧斯大陆的犬类。
+很亲近人，容易被驯服。
+是一种聪明的动物，常被饲养于室内。</original>
+			<edited>遍布于艾雷欧斯大陆的犬类。
+很亲近人，容易被驯服。
+是一种聪明的动物，常被饲养于室内。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_EleosBlackDog" offset="00" relocatable="true" max_length="0">
+			<original>艾雷欧斯黑犬</original>
+			<edited>艾雷欧斯黑犬</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_EleosBlackDog" offset="00" relocatable="true" max_length="0">
+			<original>遍布于艾雷欧斯大陆的犬类。
+很亲近人，容易被驯服。
+特征是有一身黑色毛皮。</original>
+			<edited>遍布于艾雷欧斯大陆的犬类。
+很亲近人，容易被驯服。
+特征是有一身黑色毛皮。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_EleosWhiteDog" offset="00" relocatable="true" max_length="0">
+			<original>艾雷欧斯白犬</original>
+			<edited>艾雷欧斯白犬</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_EleosWhiteDog" offset="00" relocatable="true" max_length="0">
+			<original>遍布于艾雷欧斯大陆的犬类。
+很亲近人，容易被驯服。
+特征是有一身白色毛皮。</original>
+			<edited>遍布于艾雷欧斯大陆的犬类。
+很亲近人，容易被驯服。
+特征是有一身白色毛皮。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_MailDonkey" offset="00" relocatable="true" max_length="0">
+			<original>美伊鲁驴</original>
+			<edited>美伊鲁驴</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_MailDonkey" offset="00" relocatable="true" max_length="0">
+			<original>一种栖息于费列聂的稀有动物。
+喜欢干净的水源与新鲜的作物。
+传说若看到野生的美伊鲁驴，当年就会丰收。</original>
+			<edited>一种栖息于费列聂的稀有动物。
+喜欢干净的水源与新鲜的作物。
+传说若看到野生的美伊鲁驴，当年就会丰收。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_RutileMarmot" offset="00" relocatable="true" max_length="0">
+			<original>鲁奇鲁土拨鼠</original>
+			<edited>鲁奇鲁土拨鼠</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_RutileMarmot" offset="00" relocatable="true" max_length="0">
+			<original>一种栖息于布罗帝亚的稀有动物。
+喜欢待在悬崖等人烟稀少的地方，
+也被人们称为布罗帝亚的守护神。</original>
+			<edited>一种栖息于布罗帝亚的稀有动物。
+喜欢待在悬崖等人烟稀少的地方，
+也被人们称为布罗帝亚的守护神。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_LizardsReindeer" offset="00" relocatable="true" max_length="0">
+			<original>利萨兹驯鹿</original>
+			<edited>利萨兹驯鹿</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_LizardsReindeer" offset="00" relocatable="true" max_length="0">
+			<original>一种栖息于伊尔席翁的稀有动物。
+主要生活在森林的深处。
+其鹿角制成的药据说能治百病。</original>
+			<edited>一种栖息于伊尔席翁的稀有动物。
+主要生活在森林的深处。
+其鹿角制成的药据说能治百病。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_BavaroFlamingo" offset="00" relocatable="true" max_length="0">
+			<original>巴巴罗红鹤</original>
+			<edited>巴巴罗红鹤</edited>
+			<subEntries />
+		</entry>
+		<entry name="MPID_H_BavaroFlamingo" offset="00" relocatable="true" max_length="0">
+			<original>一种栖息于索尔姆的稀有动物。
+王室成员偶尔会利用这种鸟来传递书信。
+主要出没在绿洲附近。</original>
+			<edited>一种栖息于索尔姆的稀有动物。
+王室成员偶尔会利用这种鸟来传递书信。
+主要出没在绿洲附近。</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

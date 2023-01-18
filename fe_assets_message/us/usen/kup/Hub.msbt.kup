@@ -1,0 +1,2781 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MID_Hub_ThisTime" offset="00" relocatable="true" max_length="0">
+			<original>Current Time</original>
+			<edited>Current Time</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Time_Morning" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x8;&#x2;&#x10;&#xE;&#x0;M&#x0;o&#x0;r&#x0;n&#x0;i&#x0;n&#x0;g&#x0;Morning</original>
+			<edited>&#xE;&#x8;&#x2;&#x10;&#xE;&#x0;M&#x0;o&#x0;r&#x0;n&#x0;i&#x0;n&#x0;g&#x0;Morning</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Time_Noon" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x8;&#x2;&#x8;&#x6;&#x0;D&#x0;a&#x0;y&#x0;Afternoon</original>
+			<edited>&#xE;&#x8;&#x2;&#x8;&#x6;&#x0;D&#x0;a&#x0;y&#x0;Afternoon</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Time_Evening" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x8;&#x2;&#x10;&#xE;&#x0;E&#x0;v&#x0;e&#x0;n&#x0;i&#x0;n&#x0;g&#x0;Evening</original>
+			<edited>&#xE;&#x8;&#x2;&#x10;&#xE;&#x0;E&#x0;v&#x0;e&#x0;n&#x0;i&#x0;n&#x0;g&#x0;Evening</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Time_Night" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x8;&#x2;&#xC;
+&#x0;N&#x0;i&#x0;g&#x0;h&#x0;t&#x0;Night</original>
+			<edited>&#xE;&#x8;&#x2;&#xC;
+&#x0;N&#x0;i&#x0;g&#x0;h&#x0;t&#x0;Night</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Move" offset="00" relocatable="true" max_length="0">
+			<original>Travel</original>
+			<edited>Travel</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Enter" offset="00" relocatable="true" max_length="0">
+			<original>Enter</original>
+			<edited>Enter</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Talk" offset="00" relocatable="true" max_length="0">
+			<original>Talk</original>
+			<edited>Talk</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Check" offset="00" relocatable="true" max_length="0">
+			<original>Examine</original>
+			<edited>Examine</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Cleaning_Brush" offset="00" relocatable="true" max_length="0">
+			<original>Polish</original>
+			<edited>Polish</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Cleaning_BrushStrong" offset="00" relocatable="true" max_length="0">
+			<original>Polish Firmly</original>
+			<edited>Polish Firmly</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Cleaning_Stop" offset="00" relocatable="true" max_length="0">
+			<original>End</original>
+			<edited>End</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Unknown" offset="00" relocatable="true" max_length="0">
+			<original>???</original>
+			<edited>???</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_WeaponShop" offset="00" relocatable="true" max_length="0">
+			<original>Armory</original>
+			<edited>Armory</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_ItemShop" offset="00" relocatable="true" max_length="0">
+			<original>Item Shop</original>
+			<edited>Item Shop</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Blacksmith" offset="00" relocatable="true" max_length="0">
+			<original>Smithy</original>
+			<edited>Smithy</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_AccessoryShop" offset="00" relocatable="true" max_length="0">
+			<original>Boutique</original>
+			<edited>Boutique</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot" offset="00" relocatable="true" max_length="0">
+			<original>Shrine?</original>
+			<edited>Shrine?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_After" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x5;&#x0;'s Shrine</original>
+			<edited>&#xE;&#x6;&#x5;&#x0;'s Shrine</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_FortuneStore" offset="00" relocatable="true" max_length="0">
+			<original>Fortune-Teller</original>
+			<edited>Fortune-Teller</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_FreeMarket" offset="00" relocatable="true" max_length="0">
+			<original>Flea Market</original>
+			<edited>Flea Market</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Photoshop" offset="00" relocatable="true" max_length="0">
+			<original>Records Hall</original>
+			<edited>Records Hall</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_amiibo" offset="00" relocatable="true" max_length="0">
+			<original>amiibo Gazebo</original>
+			<edited>amiibo Gazebo</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Hub_amiibo" offset="00" relocatable="true" max_length="0">
+			<original>Select an action.</original>
+			<edited>Select an action.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_amiibo_Read" offset="00" relocatable="true" max_length="0">
+			<original>Scan</original>
+			<edited>Scan</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_amiibo_Accessory_Trade" offset="00" relocatable="true" max_length="0">
+			<original>Outfits</original>
+			<edited>Outfits</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_amiibo_Music_Trade" offset="00" relocatable="true" max_length="0">
+			<original>Songs</original>
+			<edited>Songs</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Animal" offset="00" relocatable="true" max_length="0">
+			<original>Stable</original>
+			<edited>Stable</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Here_Unit" offset="00" relocatable="true" max_length="0">
+			<original>People</original>
+			<edited>People</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Area_List" offset="00" relocatable="true" max_length="0">
+			<original>Locations</original>
+			<edited>Locations</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Area_News" offset="00" relocatable="true" max_length="0">
+			<original>Notifications</original>
+			<edited>Notifications</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Area_News_Nothing" offset="00" relocatable="true" max_length="0">
+			<original>No notifications.</original>
+			<edited>No notifications.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Area_Open" offset="00" relocatable="true" max_length="0">
+			<original>NEW</original>
+			<edited>NEW</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Area_NewItem" offset="00" relocatable="true" max_length="0">
+			<original>New Stock</original>
+			<edited>New Stock</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Area_NewSystem" offset="00" relocatable="true" max_length="0">
+			<original>New Feature</original>
+			<edited>New Feature</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Area_NewLevel" offset="00" relocatable="true" max_length="0">
+			<original>New Difficulty</original>
+			<edited>New Difficulty</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Area_Count" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; Remaining</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; Remaining</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Area_NewStage" offset="00" relocatable="true" max_length="0">
+			<original>New Map</original>
+			<edited>New Map</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Next" offset="00" relocatable="true" max_length="0">
+			<original>Depart</original>
+			<edited>Depart</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Next_Move" offset="00" relocatable="true" max_length="0">
+			<original>Travel</original>
+			<edited>Travel</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Next_Confirm" offset="00" relocatable="true" max_length="0">
+			<original>Leave the area?</original>
+			<edited>Leave the area?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Next_Confirm_Where" offset="00" relocatable="true" max_length="0">
+			<original>Where to?</original>
+			<edited>Where to?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Next_Confirm_Solanel" offset="00" relocatable="true" max_length="0">
+			<original>The Somniel</original>
+			<edited>The Somniel</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Next_Confirm_Gmap" offset="00" relocatable="true" max_length="0">
+			<original>World Map</original>
+			<edited>World Map</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Next_Go" offset="00" relocatable="true" max_length="0">
+			<original>Next Chapter</original>
+			<edited>Next Chapter</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Confirm_Cancel" offset="00" relocatable="true" max_length="0">
+			<original>Stay Here</original>
+			<edited>Stay Here</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Gmap" offset="00" relocatable="true" max_length="0">
+			<original>World Map</original>
+			<edited>World Map</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Gmap_Confirm" offset="00" relocatable="true" max_length="0">
+			<original>Depart to the world map?</original>
+			<edited>Depart to the world map?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_M026" offset="00" relocatable="true" max_length="0">
+			<original>To Final Battle</original>
+			<edited>To Final Battle</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Solanel" offset="00" relocatable="true" max_length="0">
+			<original>Somniel</original>
+			<edited>Somniel</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_OtherWorld_Confirm" offset="00" relocatable="true" max_length="0">
+			<original>Go through the portal to another world?</original>
+			<edited>Go through the portal to another world?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_OtherWorld_Go" offset="00" relocatable="true" max_length="0">
+			<original>Go</original>
+			<edited>Go</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MyRoom" offset="00" relocatable="true" max_length="0">
+			<original>My Room</original>
+			<edited>My Room</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Hub_MyRoom" offset="00" relocatable="true" max_length="0">
+			<original>Sumptuous sleeping chambers of the Divine Dragon. Here you can
+reminisce or take a short rest.</original>
+			<edited>Sumptuous sleeping chambers of the Divine Dragon. Here you can
+reminisce or take a short rest.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_GodRoom" offset="00" relocatable="true" max_length="0">
+			<original>Ring Chamber</original>
+			<edited>Ring Chamber</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Hub_GodRoom" offset="00" relocatable="true" max_length="0">
+			<original>Resting place for the Emblem Rings&#xE;&#x1;	&#x0; you have gathered. Here
+you can inherit skills from Emblems or create Bond Rings.</original>
+			<edited>Resting place for the Emblem Rings&#xE;&#x1;	&#x0; you have gathered. Here
+you can inherit skills from Emblems or create Bond Rings.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Cafe" offset="00" relocatable="true" max_length="0">
+			<original>Café Terrace</original>
+			<edited>Café Terrace</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Hub_Cafe" offset="00" relocatable="true" max_length="0">
+			<original>A relaxing communal space complete with a cafeteria. Place your order
+with the cook of the day and dine with your friends.</original>
+			<edited>A relaxing communal space complete with a cafeteria. Place your order
+with the cook of the day and dine with your friends.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena" offset="00" relocatable="true" max_length="0">
+			<original>Arena</original>
+			<edited>Arena</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Hub_Arena" offset="00" relocatable="true" max_length="0">
+			<original>An extradimensional training space. Here you can arrange mock duels
+with allies or Emblems to gain experience.</original>
+			<edited>An extradimensional training space. Here you can arrange mock duels
+with allies or Emblems to gain experience.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_Closed" offset="00" relocatable="true" max_length="0">
+			<original>It's locked up for now.</original>
+			<edited>It's locked up for now.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Tower" offset="00" relocatable="true" max_length="0">
+			<original>Tower of Trials</original>
+			<edited>Tower of Trials</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Hub_Tower" offset="00" relocatable="true" max_length="0">
+			<original>A small building on the cape. Within, you can test yourself in trials that
+reach across space and time.</original>
+			<edited>A small building on the cape. Within, you can test yourself in trials that
+reach across space and time.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CentralStores" offset="00" relocatable="true" max_length="0">
+			<original>Plaza</original>
+			<edited>Plaza</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Hub_CentralStores" offset="00" relocatable="true" max_length="0">
+			<original>The central plaza by the Somniel's main gate is home to various shops.</original>
+			<edited>The central plaza by the Somniel's main gate is home to various shops.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Poolside" offset="00" relocatable="true" max_length="0">
+			<original>Poolside</original>
+			<edited>Poolside</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Hub_Poolside" offset="00" relocatable="true" max_length="0">
+			<original>An elegant pool, perfect for relaxing with allies between battles.</original>
+			<edited>An elegant pool, perfect for relaxing with allies between battles.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Orchard" offset="00" relocatable="true" max_length="0">
+			<original>Orchard</original>
+			<edited>Orchard</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Hub_Orchard" offset="00" relocatable="true" max_length="0">
+			<original>A beautifully tended stand of fruit trees. Here you can pick ingredients
+for meals at Café Terrace.</original>
+			<edited>A beautifully tended stand of fruit trees. Here you can pick ingredients
+for meals at Café Terrace.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Pond" offset="00" relocatable="true" max_length="0">
+			<original>Pond</original>
+			<edited>Pond</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Hub_Pond" offset="00" relocatable="true" max_length="0">
+			<original>A small pond, alive with fish and other creatures.</original>
+			<edited>A small pond, alive with fish and other creatures.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_TrainingSpot" offset="00" relocatable="true" max_length="0">
+			<original>Training Yard</original>
+			<edited>Training Yard</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Hub_TrainingSpot" offset="00" relocatable="true" max_length="0">
+			<original>A quiet garden that allies often use for strength training or to
+enjoy hobbies.</original>
+			<edited>A quiet garden that allies often use for strength training or to
+enjoy hobbies.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Farm" offset="00" relocatable="true" max_length="0">
+			<original>Farmyard</original>
+			<edited>Farmyard</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Hub_Farm" offset="00" relocatable="true" max_length="0">
+			<original>A pasture perfect for animals to graze in. Has facilities to care for animals
+found all across Elyos.</original>
+			<edited>A pasture perfect for animals to graze in. Has facilities to care for animals
+found all across Elyos.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_GoodViewSpot" offset="00" relocatable="true" max_length="0">
+			<original>Lookout Ridge</original>
+			<edited>Lookout Ridge</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Hub_GoodViewSpot" offset="00" relocatable="true" max_length="0">
+			<original>A natural cliff with an unmatched view of the skies. A perfect place for
+quiet contemplation.</original>
+			<edited>A natural cliff with an unmatched view of the skies. A perfect place for
+quiet contemplation.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Cave" offset="00" relocatable="true" max_length="0">
+			<original>Grotto</original>
+			<edited>Grotto</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_H_Hub_Cave" offset="00" relocatable="true" max_length="0">
+			<original>An ancient limestone grotto in the cool underground of the Somniel.
+Contains a shrine of some kind.</original>
+			<edited>An ancient limestone grotto in the cool underground of the Somniel.
+Contains a shrine of some kind.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MyRoom_Chest" offset="00" relocatable="true" max_length="0">
+			<original>Memento Drawer</original>
+			<edited>Memento Drawer</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_MyRoom_Chest_Nothing" offset="00" relocatable="true" max_length="0">
+			<original>It looks like something important belongs here.</original>
+			<edited>It looks like something important belongs here.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_MyRoom_Chest_Ring_PickUp" offset="00" relocatable="true" max_length="0">
+			<original>The Pact Ring is inside. Take it out?</original>
+			<edited>The Pact Ring is inside. Take it out?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MyRoom_Chest_Ring_PickUp" offset="00" relocatable="true" max_length="0">
+			<original>(Resting in bed may change which allies
+are around the Somniel. If the ally you want
+to give the ring to isn't around, try that.)</original>
+			<edited>(Resting in bed may change which allies
+are around the Somniel. If the ally you want
+to give the ring to isn't around, try that.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_MyRoom_Chest_Ring_PickUp_Yes" offset="00" relocatable="true" max_length="0">
+			<original>Take ring</original>
+			<edited>Take ring</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_MyRoom_Chest_Ring_Return" offset="00" relocatable="true" max_length="0">
+			<original>Put the ring back?</original>
+			<edited>Put the ring back?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_MyRoom_Chest_Ring_Return_Yes" offset="00" relocatable="true" max_length="0">
+			<original>Put Away</original>
+			<edited>Put Away</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MyRoom_Bed" offset="00" relocatable="true" max_length="0">
+			<original>Bed</original>
+			<edited>Bed</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MyRoom_Bed_TitleHelp" offset="00" relocatable="true" max_length="0">
+			<original>Select an action.</original>
+			<edited>Select an action.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MyRoom_MovieChoice" offset="00" relocatable="true" max_length="0">
+			<original>Select a movie to play.</original>
+			<edited>Select a movie to play.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MyRoom_SoundChoice" offset="00" relocatable="true" max_length="0">
+			<original>Select music to play.</original>
+			<edited>Select music to play.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MyRoom_SoundChoice_Stopping" offset="00" relocatable="true" max_length="0">
+			<original>Playing: None</original>
+			<edited>Playing: None</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MyRoom_SoundChoice_Playing" offset="00" relocatable="true" max_length="0">
+			<original>Playing: &#xE;&#x1;&#x0;&#x0;</original>
+			<edited>Playing: &#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Bed_Sleep" offset="00" relocatable="true" max_length="0">
+			<original>Rest</original>
+			<edited>Rest</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Bed_Sleep_CameHere" offset="00" relocatable="true" max_length="0">
+			<original>Sounds like someone's coming in...</original>
+			<edited>Sounds like someone's coming in...</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Bed_Sleep_Guide" offset="00" relocatable="true" max_length="0">
+			<original>Rest for a bit? (Time will pass on the Somniel.)</original>
+			<edited>Rest for a bit? (Time will pass on the Somniel.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Bed_Sleep_Yes" offset="00" relocatable="true" max_length="0">
+			<original>Rest</original>
+			<edited>Rest</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Bed_Recall" offset="00" relocatable="true" max_length="0">
+			<original>Reminisce</original>
+			<edited>Reminisce</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Bed_Recall_Wakeup" offset="00" relocatable="true" max_length="0">
+			<original>Wake-Up Events</original>
+			<edited>Wake-Up Events</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Bed_Recall_Wakeup_List" offset="00" relocatable="true" max_length="0">
+			<original>Event List</original>
+			<edited>Event List</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Bed_Recall_Movie" offset="00" relocatable="true" max_length="0">
+			<original>Movies</original>
+			<edited>Movies</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Bed_Recall_MovieList" offset="00" relocatable="true" max_length="0">
+			<original>Movies</original>
+			<edited>Movies</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Bed_Recall_Music" offset="00" relocatable="true" max_length="0">
+			<original>Music</original>
+			<edited>Music</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Bed_Difficulty_Change" offset="00" relocatable="true" max_length="0">
+			<original>Difficulty Setting</original>
+			<edited>Difficulty Setting</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Bed_Difficulty_Change_Confirm" offset="00" relocatable="true" max_length="0">
+			<original>You can only lower the game's difficulty─
+you cannot raise or revert it. Are you sure
+you want to change the difficulty?</original>
+			<edited>You can only lower the game's difficulty─
+you cannot raise or revert it. Are you sure
+you want to change the difficulty?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Bed_Difficulty_Change_Before" offset="00" relocatable="true" max_length="0">
+			<original>Current Difficulty</original>
+			<edited>Current Difficulty</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Bed_Difficulty_Change_After" offset="00" relocatable="true" max_length="0">
+			<original>New Difficulty</original>
+			<edited>New Difficulty</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Bed_Difficulty_Change_Yes" offset="00" relocatable="true" max_length="0">
+			<original>Change</original>
+			<edited>Change</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Bed_Difficulty_Change_Dialog" offset="00" relocatable="true" max_length="0">
+			<original>Difficulty changed to &#xE;&#x1;&#x0;&#x0;.</original>
+			<edited>Difficulty changed to &#xE;&#x1;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Bed_Difficulty_Change_NG" offset="00" relocatable="true" max_length="0">
+			<original>Difficulty cannot be changed from Normal.</original>
+			<edited>Difficulty cannot be changed from Normal.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MyRoom_Piano" offset="00" relocatable="true" max_length="0">
+			<original>Piano</original>
+			<edited>Piano</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MyRoom_Piano_Release" offset="00" relocatable="true" max_length="0">
+			<original>You can now access the piano in your room
+on the Somniel.</original>
+			<edited>You can now access the piano in your room
+on the Somniel.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MyRoom_Piano_Confirmation" offset="00" relocatable="true" max_length="0">
+			<original>You can view the credits.</original>
+			<edited>You can view the credits.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MyRoom_Piano_Confirmation_Yes" offset="00" relocatable="true" max_length="0">
+			<original>View</original>
+			<edited>View</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Talk_Gift" offset="00" relocatable="true" max_length="0">
+			<original>Gift</original>
+			<edited>Gift</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Talk_PromisedRing" offset="00" relocatable="true" max_length="0">
+			<original>Pact Ring</original>
+			<edited>Pact Ring</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Talk_Fishing" offset="00" relocatable="true" max_length="0">
+			<original>Fishing</original>
+			<edited>Fishing</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Talk_DragonRide" offset="00" relocatable="true" max_length="0">
+			<original>Wyvern Ride</original>
+			<edited>Wyvern Ride</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Talk_MuscleExercises" offset="00" relocatable="true" max_length="0">
+			<original>Strength Training</original>
+			<edited>Strength Training</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Talk_Gift_PickUp" offset="00" relocatable="true" max_length="0">
+			<original>Select a gift to offer.</original>
+			<edited>Select a gift to offer.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Talk_Gift_Confirmation" offset="00" relocatable="true" max_length="0">
+			<original>Give &#xE;&#x1;&#x0;&#x0;?</original>
+			<edited>Give &#xE;&#x1;&#x0;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Talk_Gift_Yes" offset="00" relocatable="true" max_length="0">
+			<original>Give</original>
+			<edited>Give</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Where" offset="00" relocatable="true" max_length="0">
+			<original>This appears to be some sort of shrine.</original>
+			<edited>This appears to be some sort of shrine.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Spot" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x5;&#x0;</original>
+			<edited>&#xE;&#x6;&#x5;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Mascot_Spot" offset="00" relocatable="true" max_length="0">
+			<original>Select a way to care for it.</original>
+			<edited>Select a way to care for it.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Name" offset="00" relocatable="true" max_length="0">
+			<original>Choose a name for the spirit of the Somniel.</original>
+			<edited>Choose a name for the spirit of the Somniel.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Feeding" offset="00" relocatable="true" max_length="0">
+			<original>Feed</original>
+			<edited>Feed</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_FoodChoice" offset="00" relocatable="true" max_length="0">
+			<original>Select what food to offer.</original>
+			<edited>Select what food to offer.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_FoodChoice_Nothing" offset="00" relocatable="true" max_length="0">
+			<original>Nothing to give</original>
+			<edited>Nothing to give</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Gift_Confirmation" offset="00" relocatable="true" max_length="0">
+			<original>Give &#xE;&#x1;&#x0;&#x0;?</original>
+			<edited>Give &#xE;&#x1;&#x0;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Stroking" offset="00" relocatable="true" max_length="0">
+			<original>Pet</original>
+			<edited>Pet</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Accessories" offset="00" relocatable="true" max_length="0">
+			<original>Dress Up</original>
+			<edited>Dress Up</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Accessories_Help" offset="00" relocatable="true" max_length="0">
+			<original>Select what you want to change.</original>
+			<edited>Select what you want to change.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Accessories_Choice" offset="00" relocatable="true" max_length="0">
+			<original>Select an accessory to wear.</original>
+			<edited>Select an accessory to wear.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Accessories_Parts" offset="00" relocatable="true" max_length="0">
+			<original>Accessories</original>
+			<edited>Accessories</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Accessories_Head" offset="00" relocatable="true" max_length="0">
+			<original>Head</original>
+			<edited>Head</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Accessories_Tail" offset="00" relocatable="true" max_length="0">
+			<original>Tail</original>
+			<edited>Tail</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Accessories_Color" offset="00" relocatable="true" max_length="0">
+			<original>Scarf Color</original>
+			<edited>Scarf Color</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Accessories_Color_Choice" offset="00" relocatable="true" max_length="0">
+			<original>Select a scarf color.</original>
+			<edited>Select a scarf color.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Accessories_None" offset="00" relocatable="true" max_length="0">
+			<original>None</original>
+			<edited>None</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Pedestal" offset="00" relocatable="true" max_length="0">
+			<original>Central Pedestal</original>
+			<edited>Central Pedestal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Skill_Inheritance" offset="00" relocatable="true" max_length="0">
+			<original>Inherit Skills</original>
+			<edited>Inherit Skills</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Gacha" offset="00" relocatable="true" max_length="0">
+			<original>Create Bond Rings</original>
+			<edited>Create Bond Rings</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Merge" offset="00" relocatable="true" max_length="0">
+			<original>Meld Bond Rings</original>
+			<edited>Meld Bond Rings</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Cleaning" offset="00" relocatable="true" max_length="0">
+			<original>Polish Rings&#xE;&#x1;	&#x0;</original>
+			<edited>Polish Rings&#xE;&#x1;	&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon" offset="00" relocatable="true" max_length="0">
+			<original>Engage Weapons</original>
+			<edited>Engage Weapons</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Inheritance_End" offset="00" relocatable="true" max_length="0">
+			<original>Inherited</original>
+			<edited>Inherited</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Inheritance_Level" offset="00" relocatable="true" max_length="0">
+			<original>Req: Lvl &#xE;&#x1;&#x0;&#x0;</original>
+			<edited>Req: Lvl &#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Inheritance_Invalid" offset="00" relocatable="true" max_length="0">
+			<original>This effect will not stack if equipped
+while synced with Emblem &#xE;&#x1;&#x0;&#x0;.</original>
+			<edited>This effect will not stack if equipped
+while synced with Emblem &#xE;&#x1;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Inheritance_Skill" offset="00" relocatable="true" max_length="0">
+			<original>Inherited Skill</original>
+			<edited>Inherited Skill</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Inheritance_Skill_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Select a skill to inherit.</original>
+			<edited>Select a skill to inherit.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Inheritance_LevelHelp" offset="00" relocatable="true" max_length="0">
+			<original>Req. Bond Lvl &#xE;&#x1;&#x0;&#x0;</original>
+			<edited>Req. Bond Lvl &#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_GodBodLevel" offset="00" relocatable="true" max_length="0">
+			<original>Bond Levels</original>
+			<edited>Bond Levels</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Inheritance_Skill_Confirmation" offset="00" relocatable="true" max_length="0">
+			<original>Inherit this skill?</original>
+			<edited>Inherit this skill?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Inheritance_Skill_Yes" offset="00" relocatable="true" max_length="0">
+			<original>Inherit</original>
+			<edited>Inherit</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Inheritance_Skill_Finish" offset="00" relocatable="true" max_length="0">
+			<original>Inherited &#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;.</original>
+			<edited>Inherited &#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Common_God_Empty" offset="00" relocatable="true" max_length="0">
+			<original>No rings&#xE;&#x1;&#xB;&#x0; to polish.</original>
+			<edited>No rings&#xE;&#x1;&#xB;&#x0; to polish.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Ring_Gacha" offset="00" relocatable="true" max_length="0">
+			<original>Select an Emblem to create rings.</original>
+			<edited>Select an Emblem to create rings.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Gacha_TotalRefinedCount" offset="00" relocatable="true" max_length="0">
+			<original>Total created</original>
+			<edited>Total created</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Gacha_RingList" offset="00" relocatable="true" max_length="0">
+			<original>Bond Rings obtained</original>
+			<edited>Bond Rings obtained</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Gacha_1_Time_TitleHelp" offset="00" relocatable="true" max_length="0">
+			<original>Select an amount to create.</original>
+			<edited>Select an amount to create.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Gacha_1_Time" offset="00" relocatable="true" max_length="0">
+			<original>Create One</original>
+			<edited>Create One</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Gacha_10_Times" offset="00" relocatable="true" max_length="0">
+			<original>Create Ten</original>
+			<edited>Create Ten</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Gacha_New" offset="00" relocatable="true" max_length="0">
+			<original>NEW!</original>
+			<edited>NEW!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Merge_Help" offset="00" relocatable="true" max_length="0">
+			<original>Select rings to meld.</original>
+			<edited>Select rings to meld.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Merge_Empty" offset="00" relocatable="true" max_length="0">
+			<original>No associated rings.</original>
+			<edited>No associated rings.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Merge_Needed_Count" offset="00" relocatable="true" max_length="0">
+			<original>Materials needed:</original>
+			<edited>Materials needed:</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Merge_Failed_Full" offset="00" relocatable="true" max_length="0">
+			<original>You cannot hold any more rings.</original>
+			<edited>You cannot hold any more rings.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Merge_Confirm" offset="00" relocatable="true" max_length="0">
+			<original>Meld these Bond Rings?</original>
+			<edited>Meld these Bond Rings?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Merge_Yes" offset="00" relocatable="true" max_length="0">
+			<original>Meld</original>
+			<edited>Meld</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Cleaning_GodSelect" offset="00" relocatable="true" max_length="0">
+			<original>Select a ring&#xE;&#x1;
+&#x0; to polish.</original>
+			<edited>Select a ring&#xE;&#x1;
+&#x0; to polish.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Cleaning_Help" offset="00" relocatable="true" max_length="0">
+			<original>Select who will polish it.</original>
+			<edited>Select who will polish it.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Cleaning_Confirm" offset="00" relocatable="true" max_length="0">
+			<original>Have &#xE;&#x1;&#x1;&#x0; polish the
+&#xE;&#x1;&#x0;&#x0;?</original>
+			<edited>Have &#xE;&#x1;&#x1;&#x0; polish the
+&#xE;&#x1;&#x0;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Cleaning_Yes" offset="00" relocatable="true" max_length="0">
+			<original>Polish</original>
+			<edited>Polish</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Cleaning_Finish" offset="00" relocatable="true" max_length="0">
+			<original>End</original>
+			<edited>End</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Ring_Cleaning_Finish_Confirm" offset="00" relocatable="true" max_length="0">
+			<original>End polishing?</original>
+			<edited>End polishing?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Refine" offset="00" relocatable="true" max_length="0">
+			<original>Augment</original>
+			<edited>Augment</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Refine_Help" offset="00" relocatable="true" max_length="0">
+			<original>Select an engage weapon to augment.</original>
+			<edited>Select an engage weapon to augment.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_RefineCapacity" offset="00" relocatable="true" max_length="0">
+			<original>Capacity</original>
+			<edited>Capacity</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_RefineStatus" offset="00" relocatable="true" max_length="0">
+			<original>Stats</original>
+			<edited>Stats</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Empty" offset="00" relocatable="true" max_length="0">
+			<original>No engage weapons available.</original>
+			<edited>No engage weapons available.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Nothing" offset="00" relocatable="true" max_length="0">
+			<original>No augmentations.</original>
+			<edited>No augmentations.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_SelectParam_Help" offset="00" relocatable="true" max_length="0">
+			<original>Select stat to augment.</original>
+			<edited>Select stat to augment.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Comfirm" offset="00" relocatable="true" max_length="0">
+			<original>Augment &#xE;&#x1;&#x0;&#x0;'s &#xE;&#x1;&#x1;&#x0;?</original>
+			<edited>Augment &#xE;&#x1;&#x0;&#x0;'s &#xE;&#x1;&#x1;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Contents" offset="00" relocatable="true" max_length="0">
+			<original>Augment:</original>
+			<edited>Augment:</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Comfirm_Skill" offset="00" relocatable="true" max_length="0">
+			<original>Add the Effective quality to
+&#xE;&#x1;&#x0;&#x0;'s &#xE;&#x1;&#x1;&#x0;?</original>
+			<edited>Add the Effective quality to
+&#xE;&#x1;&#x0;&#x0;'s &#xE;&#x1;&#x1;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Comfirm_Skill_Yes" offset="00" relocatable="true" max_length="0">
+			<original>Add</original>
+			<edited>Add</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Comfirm_Skill_Change" offset="00" relocatable="true" max_length="0">
+			<original>Replace the Effective quality on
+&#xE;&#x1;&#x0;&#x0;'s &#xE;&#x1;&#x1;&#x0;?</original>
+			<edited>Replace the Effective quality on
+&#xE;&#x1;&#x0;&#x0;'s &#xE;&#x1;&#x1;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Comfirm_Skill_Change_Yes" offset="00" relocatable="true" max_length="0">
+			<original>Replace</original>
+			<edited>Replace</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Comfirm_Yes" offset="00" relocatable="true" max_length="0">
+			<original>Augment</original>
+			<edited>Augment</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Comfirm2" offset="00" relocatable="true" max_length="0">
+			<original>Augmented &#xE;&#x1;&#x0;&#x0;'s &#xE;&#x1;&#x1;&#x0;
+to &#xE;&#x1;&#x2;&#x0; Lvl &#xE;&#x1;&#x3;&#x0;.</original>
+			<edited>Augmented &#xE;&#x1;&#x0;&#x0;'s &#xE;&#x1;&#x1;&#x0;
+to &#xE;&#x1;&#x2;&#x0; Lvl &#xE;&#x1;&#x3;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Comfirm2_Skill" offset="00" relocatable="true" max_length="0">
+			<original>Added &#xE;&#x1;&#x2;&#x0;
+to &#xE;&#x1;&#x0;&#x0;'s &#xE;&#x1;&#x1;&#x0;.</original>
+			<edited>Added &#xE;&#x1;&#x2;&#x0;
+to &#xE;&#x1;&#x0;&#x0;'s &#xE;&#x1;&#x1;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_PowerUpValue" offset="00" relocatable="true" max_length="0">
+			<original>Cap. Cost</original>
+			<edited>Cap. Cost</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Reset" offset="00" relocatable="true" max_length="0">
+			<original>Strip</original>
+			<edited>Strip</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Reset_Help" offset="00" relocatable="true" max_length="0">
+			<original>Select an engage weapon to strip.</original>
+			<edited>Select an engage weapon to strip.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_ResetParam_Help" offset="00" relocatable="true" max_length="0">
+			<original>Select an augmentation to strip.</original>
+			<edited>Select an augmentation to strip.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Reset_Comfirm" offset="00" relocatable="true" max_length="0">
+			<original>Strip &#xE;&#x1;&#x0;&#x0;'s &#xE;&#x1;&#x1;&#x0;
+to &#xE;&#x1;&#x2;&#x0; Lvl &#xE;&#x1;&#x3;&#x0;?</original>
+			<edited>Strip &#xE;&#x1;&#x0;&#x0;'s &#xE;&#x1;&#x1;&#x0;
+to &#xE;&#x1;&#x2;&#x0; Lvl &#xE;&#x1;&#x3;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Reset_Comfirm_Skill" offset="00" relocatable="true" max_length="0">
+			<original>Strip &#xE;&#x1;&#x2;&#x0; from
+&#xE;&#x1;&#x0;&#x0;'s &#xE;&#x1;&#x1;&#x0;?</original>
+			<edited>Strip &#xE;&#x1;&#x2;&#x0; from
+&#xE;&#x1;&#x0;&#x0;'s &#xE;&#x1;&#x1;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Reset_Comfirm_Yes" offset="00" relocatable="true" max_length="0">
+			<original>Strip</original>
+			<edited>Strip</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Reset_Comfirm2" offset="00" relocatable="true" max_length="0">
+			<original>Stripped &#xE;&#x1;&#x0;&#x0;'s &#xE;&#x1;&#x1;&#x0;
+to &#xE;&#x1;&#x2;&#x0; Lvl &#xE;&#x1;&#x3;&#x0;.</original>
+			<edited>Stripped &#xE;&#x1;&#x0;&#x0;'s &#xE;&#x1;&#x1;&#x0;
+to &#xE;&#x1;&#x2;&#x0; Lvl &#xE;&#x1;&#x3;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_RefineGodWeapon_Reset_Comfirm2_Skill" offset="00" relocatable="true" max_length="0">
+			<original>Stripped &#xE;&#x1;&#x2;&#x0; from
+&#xE;&#x1;&#x0;&#x0;'s &#xE;&#x1;&#x1;&#x0;.</original>
+			<edited>Stripped &#xE;&#x1;&#x2;&#x0; from
+&#xE;&#x1;&#x0;&#x0;'s &#xE;&#x1;&#x1;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_Gate" offset="00" relocatable="true" max_length="0">
+			<original>Training Sigil</original>
+			<edited>Training Sigil</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_Limit" offset="00" relocatable="true" max_length="0">
+			<original>Remaining:</original>
+			<edited>Remaining:</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_Lv_MAX" offset="00" relocatable="true" max_length="0">
+			<original>Bond level is at max.</original>
+			<edited>Bond level is at max.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_Lv_Cap" offset="00" relocatable="true" max_length="0">
+			<original>View conversation
+to raise bond level.</original>
+			<edited>View conversation
+to raise bond level.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_Lv_Cap_Look" offset="00" relocatable="true" max_length="0">
+			<original>View Bond Conversation</original>
+			<edited>View Bond Conversation</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_Lv_Once" offset="00" relocatable="true" max_length="0">
+			<original>You can only raise a bond
+by 5 levels at a time.</original>
+			<edited>You can only raise a bond
+by 5 levels at a time.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_Help" offset="00" relocatable="true" max_length="0">
+			<original>Select a type of training.</original>
+			<edited>Select a type of training.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_Start" offset="00" relocatable="true" max_length="0">
+			<original>Standard</original>
+			<edited>Standard</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_Start_Help" offset="00" relocatable="true" max_length="0">
+			<original>Select a unit to train.</original>
+			<edited>Select a unit to train.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_GodRelianceUp_Start" offset="00" relocatable="true" max_length="0">
+			<original>Emblem</original>
+			<edited>Emblem</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_GodRelianceUp_Start_Got_Select_Help" offset="00" relocatable="true" max_length="0">
+			<original>Select an Emblem partner.</original>
+			<edited>Select an Emblem partner.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_GodRelianceUp_Lv_Select" offset="00" relocatable="true" max_length="0">
+			<original>Select a bond level.</original>
+			<edited>Select a bond level.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_GodRelianceUp_Help" offset="00" relocatable="true" max_length="0">
+			<original>You can have a unit and an
+Emblem train together to
+increase their bond level.
+Raising more levels costs
+more bond fragments.</original>
+			<edited>You can have a unit and an
+Emblem train together to
+increase their bond level.
+Raising more levels costs
+more bond fragments.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_GodRelianceUp_Start_Confirm" offset="00" relocatable="true" max_length="0">
+			<original>Begin training with &#xE;&#x1;&#x0;&#x0; and &#xE;&#x1;&#x1;&#x0;?</original>
+			<edited>Begin training with &#xE;&#x1;&#x0;&#x0; and &#xE;&#x1;&#x1;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_NoWeapon" offset="00" relocatable="true" max_length="0">
+			<original>This character has no equippable weapons
+in their inventory, so they cannot train.</original>
+			<edited>This character has no equippable weapons
+in their inventory, so they cannot train.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_Start_Confirm" offset="00" relocatable="true" max_length="0">
+			<original>Begin &#xE;&#x1;&#x0;&#x0;'s training?</original>
+			<edited>Begin &#xE;&#x1;&#x0;&#x0;'s training?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_Win" offset="00" relocatable="true" max_length="0">
+			<original>WIN</original>
+			<edited>WIN</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_Lose" offset="00" relocatable="true" max_length="0">
+			<original>LOSS</original>
+			<edited>LOSS</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_Draw" offset="00" relocatable="true" max_length="0">
+			<original>DRAW</original>
+			<edited>DRAW</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Arena_BattleStart" offset="00" relocatable="true" max_length="0">
+			<original>VS</original>
+			<edited>VS</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Level_Choice" offset="00" relocatable="true" max_length="0">
+			<original>Select a difficulty level.</original>
+			<edited>Select a difficulty level.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_NewLevel_Open" offset="00" relocatable="true" max_length="0">
+			<original>Unlocks as the story progresses.</original>
+			<edited>Unlocks as the story progresses.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_Expert" offset="00" relocatable="true" max_length="0">
+			<original>Expert</original>
+			<edited>Expert</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_Start" offset="00" relocatable="true" max_length="0">
+			<original>START!</original>
+			<edited>START!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_Finish" offset="00" relocatable="true" max_length="0">
+			<original>FINISH!</original>
+			<edited>FINISH!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_Stop" offset="00" relocatable="true" max_length="0">
+			<original>STOP!</original>
+			<edited>STOP!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Take_MuscleExercises" offset="00" relocatable="true" max_length="0">
+			<original>Want a training partner? &#xE;&#x6;&#x5;&#x0;
+will help you out if it likes you.</original>
+			<edited>Want a training partner? &#xE;&#x6;&#x5;&#x0;
+will help you out if it likes you.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Take_MuscleExercises_Yes" offset="00" relocatable="true" max_length="0">
+			<original>Train with &#xE;&#x6;&#x5;&#x0;</original>
+			<edited>Train with &#xE;&#x6;&#x5;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_NoTake_MuscleExercises" offset="00" relocatable="true" max_length="0">
+			<original>Train alone</original>
+			<edited>Train alone</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Take_Fishing" offset="00" relocatable="true" max_length="0">
+			<original>Want a fishing partner? &#xE;&#x6;&#x5;&#x0;
+will help you out if it likes you.</original>
+			<edited>Want a fishing partner? &#xE;&#x6;&#x5;&#x0;
+will help you out if it likes you.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Take_Fishing_Yes" offset="00" relocatable="true" max_length="0">
+			<original>Fish with &#xE;&#x6;&#x5;&#x0;</original>
+			<edited>Fish with &#xE;&#x6;&#x5;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_NoTake_Fishing" offset="00" relocatable="true" max_length="0">
+			<original>Fish alone</original>
+			<edited>Fish alone</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Take_DragonRide" offset="00" relocatable="true" max_length="0">
+			<original>Want a riding partner? &#xE;&#x6;&#x5;&#x0;
+will help you out if it likes you.</original>
+			<edited>Want a riding partner? &#xE;&#x6;&#x5;&#x0;
+will help you out if it likes you.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_Take_DragonRide_Yes" offset="00" relocatable="true" max_length="0">
+			<original>Ride with &#xE;&#x6;&#x5;&#x0;</original>
+			<edited>Ride with &#xE;&#x6;&#x5;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Mascot_NoTake_DragonRide" offset="00" relocatable="true" max_length="0">
+			<original>Ride alone</original>
+			<edited>Ride alone</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_AddDifficulty" offset="00" relocatable="true" max_length="0">
+			<original>"&#xE;&#x1;&#x0;&#x0;" difficulty level has been added.</original>
+			<edited>"&#xE;&#x1;&#x0;&#x0;" difficulty level has been added.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_AddDifficulty_Muscle" offset="00" relocatable="true" max_length="0">
+			<original>Iron Muscle difficulty has been added.
+(This difficulty is intended for trying to beat
+your prior record. You will not earn rewards
+or stat increases from it.)</original>
+			<edited>Iron Muscle difficulty has been added.
+(This difficulty is intended for trying to beat
+your prior record. You will not earn rewards
+or stat increases from it.)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_MascotHelp" offset="00" relocatable="true" max_length="0">
+			<original>Assistance</original>
+			<edited>Assistance</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_MascotHelp_Count" offset="00" relocatable="true" max_length="0">
+			<original>Times Helped</original>
+			<edited>Times Helped</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_ThisTimeScore" offset="00" relocatable="true" max_length="0">
+			<original>Score</original>
+			<edited>Score</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_BestScore" offset="00" relocatable="true" max_length="0">
+			<original>High Score</original>
+			<edited>High Score</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_NoScore" offset="00" relocatable="true" max_length="0">
+			<original>No Record</original>
+			<edited>No Record</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_TryResult" offset="00" relocatable="true" max_length="0">
+			<original>Results</original>
+			<edited>Results</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_DifficultyTipe" offset="00" relocatable="true" max_length="0">
+			<original>Difficulty Level: &#xE;&#x1;&#x0;&#x0;</original>
+			<edited>Difficulty Level: &#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_NewRecord" offset="00" relocatable="true" max_length="0">
+			<original>New Record!</original>
+			<edited>New Record!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_Result_SSS" offset="00" relocatable="true" max_length="0">
+			<original>SSS</original>
+			<edited>SSS</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_Result_SS" offset="00" relocatable="true" max_length="0">
+			<original>SS</original>
+			<edited>SS</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_Result_S" offset="00" relocatable="true" max_length="0">
+			<original>S</original>
+			<edited>S</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_Result_A" offset="00" relocatable="true" max_length="0">
+			<original>A</original>
+			<edited>A</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_Result_B" offset="00" relocatable="true" max_length="0">
+			<original>B</original>
+			<edited>B</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_Result_C" offset="00" relocatable="true" max_length="0">
+			<original>C</original>
+			<edited>C</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_Result_D" offset="00" relocatable="true" max_length="0">
+			<original>D</original>
+			<edited>D</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_Result_E" offset="00" relocatable="true" max_length="0">
+			<original>E</original>
+			<edited>E</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MiniGame_Result_F" offset="00" relocatable="true" max_length="0">
+			<original>F</original>
+			<edited>F</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Menu_Choice" offset="00" relocatable="true" max_length="0">
+			<original>Select an event.</original>
+			<edited>Select an event.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Rule" offset="00" relocatable="true" max_length="0">
+			<original>Rules</original>
+			<edited>Rules</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Effect" offset="00" relocatable="true" max_length="0">
+			<original>Effect</original>
+			<edited>Effect</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Continuity" offset="00" relocatable="true" max_length="0">
+			<original>You won't get any further bonuses or rewards,
+but do you want to continue strength training?</original>
+			<edited>You won't get any further bonuses or rewards,
+but do you want to continue strength training?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Continuity_Unacquired" offset="00" relocatable="true" max_length="0">
+			<original>Continue strength training?</original>
+			<edited>Continue strength training?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Continuity_Yes" offset="00" relocatable="true" max_length="0">
+			<original>Continue</original>
+			<edited>Continue</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Muscle" offset="00" relocatable="true" max_length="0">
+			<original>Iron Muscle</original>
+			<edited>Iron Muscle</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Perfect" offset="00" relocatable="true" max_length="0">
+			<original>Perfect</original>
+			<edited>Perfect</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Good" offset="00" relocatable="true" max_length="0">
+			<original>Good</original>
+			<edited>Good</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Bad" offset="00" relocatable="true" max_length="0">
+			<original>Bad</original>
+			<edited>Bad</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Assist" offset="00" relocatable="true" max_length="0">
+			<original>Assist</original>
+			<edited>Assist</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_SpeedUp" offset="00" relocatable="true" max_length="0">
+			<original>Speed Up!</original>
+			<edited>Speed Up!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Record" offset="00" relocatable="true" max_length="0">
+			<original>Current Record</original>
+			<edited>Current Record</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_SuccessCount" offset="00" relocatable="true" max_length="0">
+			<original>Successes</original>
+			<edited>Successes</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_ErrorCount" offset="00" relocatable="true" max_length="0">
+			<original>Mistakes</original>
+			<edited>Mistakes</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Result" offset="00" relocatable="true" max_length="0">
+			<original>Results</original>
+			<edited>Results</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_StatusUp" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0; will be +&#xE;&#x1;&#x1;&#x0; in the next battle.</original>
+			<edited>&#xE;&#x1;&#x0;&#x0; will be +&#xE;&#x1;&#x1;&#x0; in the next battle.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_PushUps" offset="00" relocatable="true" max_length="0">
+			<original>Push-Ups</original>
+			<edited>Push-Ups</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_PushUps_Rule_0" offset="00" relocatable="true" max_length="0">
+			<original>Use good timing to stop the
+bar at the right position.</original>
+			<edited>Use good timing to stop the
+bar at the right position.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_PushUps_Rule_1" offset="00" relocatable="true" max_length="0">
+			<original>Speed will increase. Miss
+three times and it's over.</original>
+			<edited>Speed will increase. Miss
+three times and it's over.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_PushUps_Rule_2" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x3;&#x0;'s Str may get
+a boost in the next battle.</original>
+			<edited>&#xE;&#x6;&#x3;&#x0;'s Str may get
+a boost in the next battle.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Ads" offset="00" relocatable="true" max_length="0">
+			<original>Sit-Ups</original>
+			<edited>Sit-Ups</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Ads_Rule_0" offset="00" relocatable="true" max_length="0">
+			<original>Mash the button to fill the
+gauge.</original>
+			<edited>Mash the button to fill the
+gauge.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Ads_Rule_1" offset="00" relocatable="true" max_length="0">
+			<original>Mash fast for a high score.
+Ends if the gauge is empty.</original>
+			<edited>Mash fast for a high score.
+Ends if the gauge is empty.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Ads_Rule_2" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x3;&#x0;'s HP may get
+a boost in the next battle.</original>
+			<edited>&#xE;&#x6;&#x3;&#x0;'s HP may get
+a boost in the next battle.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Squat" offset="00" relocatable="true" max_length="0">
+			<original>Squats</original>
+			<edited>Squats</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Squat_Rule_0" offset="00" relocatable="true" max_length="0">
+			<original>Move both sticks in rhythm
+according to the prompts.</original>
+			<edited>Move both sticks in rhythm
+according to the prompts.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Squat_Rule_1" offset="00" relocatable="true" max_length="0">
+			<original>Move following the arrows.
+Three misses and it's over.</original>
+			<edited>Move following the arrows.
+Three misses and it's over.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_MuscleExercises_Squat_Rule_2" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x3;&#x0;'s Dex may get
+a boost in the next battle.</original>
+			<edited>&#xE;&#x6;&#x3;&#x0;'s Dex may get
+a boost in the next battle.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Continue_RodSelect" offset="00" relocatable="true" max_length="0">
+			<original>Select a fishing rod.</original>
+			<edited>Select a fishing rod.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Continue" offset="00" relocatable="true" max_length="0">
+			<original>Continue fishing? </original>
+			<edited>Continue fishing? </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fish_Pcture_Book" offset="00" relocatable="true" max_length="0">
+			<original>Fish Guide</original>
+			<edited>Fish Guide</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_BonusFish" offset="00" relocatable="true" max_length="0">
+			<original>Bonus Species</original>
+			<edited>Bonus Species</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Rod" offset="00" relocatable="true" max_length="0">
+			<original>Fishing Rod</original>
+			<edited>Fishing Rod</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Fish" offset="00" relocatable="true" max_length="0">
+			<original>Catchable Fish</original>
+			<edited>Catchable Fish</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Limit" offset="00" relocatable="true" max_length="0">
+			<original>Attempts Left</original>
+			<edited>Attempts Left</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Count" offset="00" relocatable="true" max_length="0">
+			<original>Times Caught</original>
+			<edited>Times Caught</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Success" offset="00" relocatable="true" max_length="0">
+			<original>Success</original>
+			<edited>Success</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Perfect" offset="00" relocatable="true" max_length="0">
+			<original>Perfect</original>
+			<edited>Perfect</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Escaped_Fast" offset="00" relocatable="true" max_length="0">
+			<original>Too soon...</original>
+			<edited>Too soon...</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Escaped_Late" offset="00" relocatable="true" max_length="0">
+			<original>Too late...</original>
+			<edited>Too late...</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Escaped" offset="00" relocatable="true" max_length="0">
+			<original>It got away...</original>
+			<edited>It got away...</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_BestSize" offset="00" relocatable="true" max_length="0">
+			<original>Record</original>
+			<edited>Record</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Centimeter" offset="00" relocatable="true" max_length="0">
+			<original>cm</original>
+			<edited>cm</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Size" offset="00" relocatable="true" max_length="0">
+			<original>Size</original>
+			<edited>Size</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_TinySize" offset="00" relocatable="true" max_length="0">
+			<original>Tiny</original>
+			<edited>Tiny</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_SmallSize" offset="00" relocatable="true" max_length="0">
+			<original>Small</original>
+			<edited>Small</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_MiddleSize" offset="00" relocatable="true" max_length="0">
+			<original>Medium</original>
+			<edited>Medium</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_LargeSize" offset="00" relocatable="true" max_length="0">
+			<original>Large</original>
+			<edited>Large</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_BigSize" offset="00" relocatable="true" max_length="0">
+			<original>Extra Large</original>
+			<edited>Extra Large</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_GiantSize" offset="00" relocatable="true" max_length="0">
+			<original>Giant</original>
+			<edited>Giant</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Shadow_Small" offset="00" relocatable="true" max_length="0">
+			<original>Small Shadow</original>
+			<edited>Small Shadow</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Shadow_Big" offset="00" relocatable="true" max_length="0">
+			<original>Large Shadow</original>
+			<edited>Large Shadow</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Shadow_Giant" offset="00" relocatable="true" max_length="0">
+			<original>Giant Shadow</original>
+			<edited>Giant Shadow</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_GetItem" offset="00" relocatable="true" max_length="0">
+			<original>Items Acquired</original>
+			<edited>Items Acquired</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Conditions" offset="00" relocatable="true" max_length="0">
+			<original>Tips for Catching</original>
+			<edited>Tips for Catching</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_TimeZone" offset="00" relocatable="true" max_length="0">
+			<original>Time of Day</original>
+			<edited>Time of Day</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_TimeZone_Night" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x8;&#x2;&#x10;&#xE;&#x0;E&#x0;v&#x0;e&#x0;n&#x0;i&#x0;n&#x0;g&#x0;Evening&#xE;&#x8;&#x2;&#xC;
+&#x0;N&#x0;i&#x0;g&#x0;h&#x0;t&#x0;Night</original>
+			<edited>&#xE;&#x8;&#x2;&#x10;&#xE;&#x0;E&#x0;v&#x0;e&#x0;n&#x0;i&#x0;n&#x0;g&#x0;Evening&#xE;&#x8;&#x2;&#xC;
+&#x0;N&#x0;i&#x0;g&#x0;h&#x0;t&#x0;Night</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_FishType" offset="00" relocatable="true" max_length="0">
+			<original>Fish Types Caught</original>
+			<edited>Fish Types Caught</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Continue_Yes" offset="00" relocatable="true" max_length="0">
+			<original>Continue</original>
+			<edited>Continue</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_End" offset="00" relocatable="true" max_length="0">
+			<original>Quit</original>
+			<edited>Quit</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Bonus" offset="00" relocatable="true" max_length="0">
+			<original>BONUS!</original>
+			<edited>BONUS!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_Hit" offset="00" relocatable="true" max_length="0">
+			<original>BITE!</original>
+			<edited>BITE!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_UnicornChar" offset="00" relocatable="true" max_length="0">
+			<original>Charwhal</original>
+			<edited>Charwhal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_UnicornChar" offset="00" relocatable="true" max_length="0">
+			<original>Its long beak occasionally breaks.
+The meat is often ground due to
+all the small bones.</original>
+			<edited>Its long beak occasionally breaks.
+The meat is often ground due to
+all the small bones.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_PonYamame" offset="00" relocatable="true" max_length="0">
+			<original>Sint Trout</original>
+			<edited>Sint Trout</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_PonYamame" offset="00" relocatable="true" max_length="0">
+			<original>The striking polka-dot pattern on
+its sides gradually fades with age.
+Its meat has a delicate taste.</original>
+			<edited>The striking polka-dot pattern on
+its sides gradually fades with age.
+Its meat has a delicate taste.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_HellKoi" offset="00" relocatable="true" max_length="0">
+			<original>Caria Carp</original>
+			<edited>Caria Carp</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_HellKoi" offset="00" relocatable="true" max_length="0">
+			<original>It sometimes appears in vivid
+colors, making it a popular pet.
+Nutrient-rich and delicious fried.</original>
+			<edited>It sometimes appears in vivid
+colors, making it a popular pet.
+Nutrient-rich and delicious fried.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_RavanaTrout" offset="00" relocatable="true" max_length="0">
+			<original>Tieraden Trout</original>
+			<edited>Tieraden Trout</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_RavanaTrout" offset="00" relocatable="true" max_length="0">
+			<original>Easy to catch with practice. These
+fish are often raised in Elusia and
+dried to preserve the flavor.</original>
+			<edited>Easy to catch with practice. These
+fish are often raised in Elusia and
+dried to preserve the flavor.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_SlitFinSalmon" offset="00" relocatable="true" max_length="0">
+			<original>Tipa Salmon</original>
+			<edited>Tipa Salmon</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_SlitFinSalmon" offset="00" relocatable="true" max_length="0">
+			<original>The most-caught fish in Brodia.
+It is known for graceful long fins
+and meat that is red from its diet.</original>
+			<edited>The most-caught fish in Brodia.
+It is known for graceful long fins
+and meat that is red from its diet.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_MandCobbBass" offset="00" relocatable="true" max_length="0">
+			<original>Monvill Bass</original>
+			<edited>Monvill Bass</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_MandCobbBass" offset="00" relocatable="true" max_length="0">
+			<original>A heavyweight monster that stars
+in the bass fishing tournaments of
+Solm. Makes a flavorful sashimi.</original>
+			<edited>A heavyweight monster that stars
+in the bass fishing tournaments of
+Solm. Makes a flavorful sashimi.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_BanganHerring" offset="00" relocatable="true" max_length="0">
+			<original>Samian Herring</original>
+			<edited>Samian Herring</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_BanganHerring" offset="00" relocatable="true" max_length="0">
+			<original>They often move in large schools,
+surprising fishers with substantial
+catches. They have a mild flavor.</original>
+			<edited>They often move in large schools,
+surprising fishers with substantial
+catches. They have a mild flavor.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_TeoteSquid" offset="00" relocatable="true" max_length="0">
+			<original>Paffo Squid</original>
+			<edited>Paffo Squid</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_TeoteSquid" offset="00" relocatable="true" max_length="0">
+			<original>Clever fishers take advantage of
+its habit of eating anything that
+sparkles. Often minced in cooking.</original>
+			<edited>Clever fishers take advantage of
+its habit of eating anything that
+sparkles. Often minced in cooking.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_BlosEel" offset="00" relocatable="true" max_length="0">
+			<original>Myceen Eel</original>
+			<edited>Myceen Eel</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_BlosEel" offset="00" relocatable="true" max_length="0">
+			<original>Its slimy body makes it difficult
+to remove from the hook. It is 
+popular for its savory flavor.</original>
+			<edited>Its slimy body makes it difficult
+to remove from the hook. It is 
+popular for its savory flavor.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_LogerOctopus" offset="00" relocatable="true" max_length="0">
+			<original>Matob Octopus</original>
+			<edited>Matob Octopus</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_LogerOctopus" offset="00" relocatable="true" max_length="0">
+			<original>Be sure to reel it in before it has
+a chance to cling to rocks. The
+whole body can be cooked.</original>
+			<edited>Be sure to reel it in before it has
+a chance to cling to rocks. The
+whole body can be cooked.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_HegeBeardCatfish" offset="00" relocatable="true" max_length="0">
+			<original>Mir Catfish</original>
+			<edited>Mir Catfish</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_HegeBeardCatfish" offset="00" relocatable="true" max_length="0">
+			<original>It uses long whiskers to navigate
+by touch. This versatile fish is
+tasty boiled, fried, or dried.</original>
+			<edited>It uses long whiskers to navigate
+by touch. This versatile fish is
+tasty boiled, fried, or dried.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_SarriaDogMorayEel" offset="00" relocatable="true" max_length="0">
+			<original>Canisaria Eel</original>
+			<edited>Canisaria Eel</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_SarriaDogMorayEel" offset="00" relocatable="true" max_length="0">
+			<original>A feisty and aggressive fish with
+dangerously sharp fangs. Its rich
+meat makes the fight worthwhile.</original>
+			<edited>A feisty and aggressive fish with
+dangerously sharp fangs. Its rich
+meat makes the fight worthwhile.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_OmemeSardine" offset="00" relocatable="true" max_length="0">
+			<original>Big-Eyed Sardine</original>
+			<edited>Big-Eyed Sardine</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_OmemeSardine" offset="00" relocatable="true" max_length="0">
+			<original>A small Firenese fish that protects
+itself by forming large schools.
+Easy to clean by hand.</original>
+			<edited>A small Firenese fish that protects
+itself by forming large schools.
+Easy to clean by hand.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_AvidCrab" offset="00" relocatable="true" max_length="0">
+			<original>Sammar Crab</original>
+			<edited>Sammar Crab</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_AvidCrab" offset="00" relocatable="true" max_length="0">
+			<original>Easier to catch at dawn because
+it buries itself in sand during the
+day. Even the shell is edible.</original>
+			<edited>Easier to catch at dawn because
+it buries itself in sand during the
+day. Even the shell is edible.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_MunonTailHorseMackerel" offset="00" relocatable="true" max_length="0">
+			<original>Gela Tail Sierra</original>
+			<edited>Gela Tail Sierra</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_MunonTailHorseMackerel" offset="00" relocatable="true" max_length="0">
+			<original>Well-suited for those who want
+to practice preparing fish. It is
+especially tasty when dried.</original>
+			<edited>Well-suited for those who want
+to practice preparing fish. It is
+especially tasty when dried.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_DosmaRay" offset="00" relocatable="true" max_length="0">
+			<original>Smash-Head Ray</original>
+			<edited>Smash-Head Ray</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_DosmaRay" offset="00" relocatable="true" max_length="0">
+			<original>The tail is poisonous, surprising
+those who see the pattern on its
+belly that looks like a smiling face.</original>
+			<edited>The tail is poisonous, surprising
+those who see the pattern on its
+belly that looks like a smiling face.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_DemonFangCod" offset="00" relocatable="true" max_length="0">
+			<original>Valcamonic Cod</original>
+			<edited>Valcamonic Cod</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_DemonFangCod" offset="00" relocatable="true" max_length="0">
+			<original>A prime fish popular in Firene
+and Brodia. In cold regions every
+bit is used so there is no waste.</original>
+			<edited>A prime fish popular in Firene
+and Brodia. In cold regions every
+bit is used so there is no waste.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_TephraSkipjack" offset="00" relocatable="true" max_length="0">
+			<original>Bisot Tuna</original>
+			<edited>Bisot Tuna</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_TephraSkipjack" offset="00" relocatable="true" max_length="0">
+			<original>A powerful fish that puts up a
+fight. Fresh dishes made from
+this fine fish are always popular.</original>
+			<edited>A powerful fish that puts up a
+fight. Fresh dishes made from
+this fine fish are always popular.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_RainbowTrout" offset="00" relocatable="true" max_length="0">
+			<original>Chromatic Trout</original>
+			<edited>Chromatic Trout</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_RainbowTrout" offset="00" relocatable="true" max_length="0">
+			<original>An extremely rare and mysterious
+fish with colorful scales. It is a
+delicacy for its thick meat.</original>
+			<edited>An extremely rare and mysterious
+fish with colorful scales. It is a
+delicacy for its thick meat.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_Fishing_EnchantSkipjack" offset="00" relocatable="true" max_length="0">
+			<original>Enchan Tuna</original>
+			<edited>Enchan Tuna</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_H_Fishing_EnchantSkipjack" offset="00" relocatable="true" max_length="0">
+			<original>Little is known about this rare
+variant of tuna because it is so
+difficult to catch.</original>
+			<edited>Little is known about this rare
+variant of tuna because it is so
+difficult to catch.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_NowScore" offset="00" relocatable="true" max_length="0">
+			<original>Score: </original>
+			<edited>Score: </edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_BreakTarget" offset="00" relocatable="true" max_length="0">
+			<original>Targets Hit</original>
+			<edited>Targets Hit</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Target_Pattern" offset="00" relocatable="true" max_length="0">
+			<original>Types</original>
+			<edited>Types</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Target_Normals" offset="00" relocatable="true" max_length="0">
+			<original>Standard</original>
+			<edited>Standard</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Target_Normals_Help" offset="00" relocatable="true" max_length="0">
+			<original>A standard target that
+breaks when hit by Blast.</original>
+			<edited>A standard target that
+breaks when hit by Blast.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Target_Big" offset="00" relocatable="true" max_length="0">
+			<original>Explosive</original>
+			<edited>Explosive</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Target_Big_Help" offset="00" relocatable="true" max_length="0">
+			<original>Breaks all surrounding
+targets when hit.</original>
+			<edited>Breaks all surrounding
+targets when hit.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Target_Link" offset="00" relocatable="true" max_length="0">
+			<original>Chain</original>
+			<edited>Chain</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Target_Link_Help" offset="00" relocatable="true" max_length="0">
+			<original>Breaks adjacent targets in
+a chain when hit.</original>
+			<edited>Breaks adjacent targets in
+a chain when hit.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Target_Special" offset="00" relocatable="true" max_length="0">
+			<original>Power Up</original>
+			<edited>Power Up</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Target_Special_Help" offset="00" relocatable="true" max_length="0">
+			<original>When hit, powers up your
+Blast for a period of time.</original>
+			<edited>When hit, powers up your
+Blast for a period of time.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Target_Rroulette" offset="00" relocatable="true" max_length="0">
+			<original>Wild</original>
+			<edited>Wild</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Target_Rroulette_Help" offset="00" relocatable="true" max_length="0">
+			<original>This target changes its
+type continually until hit.</original>
+			<edited>This target changes its
+type continually until hit.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Operation" offset="00" relocatable="true" max_length="0">
+			<original>Controls</original>
+			<edited>Controls</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Operation_Title_Stick" offset="00" relocatable="true" max_length="0">
+			<original>Stick Controls</original>
+			<edited>Stick Controls</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Operation_Title_Gyro" offset="00" relocatable="true" max_length="0">
+			<original>Motion Controls</original>
+			<edited>Motion Controls</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Operation_To_Stick" offset="00" relocatable="true" max_length="0">
+			<original>Switch to stick controls</original>
+			<edited>Switch to stick controls</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Operation_To_Gyro" offset="00" relocatable="true" max_length="0">
+			<original>Switch to motion controls</original>
+			<edited>Switch to motion controls</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Operation_Plus" offset="00" relocatable="true" max_length="0">
+			<original>Pause/Resume</original>
+			<edited>Pause/Resume</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Operation_A" offset="00" relocatable="true" max_length="0">
+			<original>Fire Blast</original>
+			<edited>Fire Blast</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Operation_Y" offset="00" relocatable="true" max_length="0">
+			<original>Aim Speed</original>
+			<edited>Aim Speed</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Operation_StickLR" offset="00" relocatable="true" max_length="0">
+			<original>Aim Control</original>
+			<edited>Aim Control</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Operation_StickLR_Push" offset="00" relocatable="true" max_length="0">
+			<original>Reset Aim</original>
+			<edited>Reset Aim</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Operation_StickLR_Push_Sub" offset="00" relocatable="true" max_length="0">
+			<original>Motion controls
+take effect on side
+of pressed stick.</original>
+			<edited>Motion controls
+take effect on side
+of pressed stick.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Operation_ZLZR" offset="00" relocatable="true" max_length="0">
+			<original>Fire Blast</original>
+			<edited>Fire Blast</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Operation_LR" offset="00" relocatable="true" max_length="0">
+			<original>Aim Speed</original>
+			<edited>Aim Speed</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Operation_Gyro0" offset="00" relocatable="true" max_length="0">
+			<original>Tilt:</original>
+			<edited>Tilt:</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Operation_Gyro1" offset="00" relocatable="true" max_length="0">
+			<original>Aim Control</original>
+			<edited>Aim Control</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_DragonRide_Operation_Suspension" offset="00" relocatable="true" max_length="0">
+			<original>End Wyvern Ride</original>
+			<edited>End Wyvern Ride</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Jukebox" offset="00" relocatable="true" max_length="0">
+			<original>Music Box</original>
+			<edited>Music Box</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_H_Jukebox" offset="00" relocatable="true" max_length="0">
+			<original>Change the music playing on the Somniel.</original>
+			<edited>Change the music playing on the Somniel.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Board" offset="00" relocatable="true" max_length="0">
+			<original>Bulletin Board</original>
+			<edited>Bulletin Board</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook" offset="00" relocatable="true" max_length="0">
+			<original>Order Meal</original>
+			<edited>Order Meal</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Choice_Unit" offset="00" relocatable="true" max_length="0">
+			<original>Select two dining partners.</original>
+			<edited>Select two dining partners.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Choice_Menu" offset="00" relocatable="true" max_length="0">
+			<original>Select a dish.</original>
+			<edited>Select a dish.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Choice_Foods" offset="00" relocatable="true" max_length="0">
+			<original>Select ingredients.</original>
+			<edited>Select ingredients.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Specialty" offset="00" relocatable="true" max_length="0">
+			<original>Expert</original>
+			<edited>Expert</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_StrongPoint" offset="00" relocatable="true" max_length="0">
+			<original>Skilled</original>
+			<edited>Skilled</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Experienced" offset="00" relocatable="true" max_length="0">
+			<original>Capable</original>
+			<edited>Capable</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Challenging" offset="00" relocatable="true" max_length="0">
+			<original>Eager</original>
+			<edited>Eager</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_BasicEffect" offset="00" relocatable="true" max_length="0">
+			<original>Effects</original>
+			<edited>Effects</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Favorite" offset="00" relocatable="true" max_length="0">
+			<original>Tastes</original>
+			<edited>Tastes</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Favorite_Good" offset="00" relocatable="true" max_length="0">
+			<original>Likes</original>
+			<edited>Likes</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Favorite_Normal" offset="00" relocatable="true" max_length="0">
+			<original>Neutral</original>
+			<edited>Neutral</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Favorite_Bad" offset="00" relocatable="true" max_length="0">
+			<original>Dislikes</original>
+			<edited>Dislikes</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Chef" offset="00" relocatable="true" max_length="0">
+			<original>Chef</original>
+			<edited>Chef</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Friend" offset="00" relocatable="true" max_length="0">
+			<original>Dining Partners</original>
+			<edited>Dining Partners</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_CookMenu" offset="00" relocatable="true" max_length="0">
+			<original>Dish</original>
+			<edited>Dish</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_CallFriend" offset="00" relocatable="true" max_length="0">
+			<original>Dining Partners</original>
+			<edited>Dining Partners</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_RelianceStatus" offset="00" relocatable="true" max_length="0">
+			<original>Support</original>
+			<edited>Support</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_AddFood" offset="00" relocatable="true" max_length="0">
+			<original>Extra Ingredients</original>
+			<edited>Extra Ingredients</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_AddFood_Nothing" offset="00" relocatable="true" max_length="0">
+			<original>None</original>
+			<edited>None</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_CanAddFood" offset="00" relocatable="true" max_length="0">
+			<original>Usable Ingredients</original>
+			<edited>Usable Ingredients</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Confirmation" offset="00" relocatable="true" max_length="0">
+			<original>Start cooking?</original>
+			<edited>Start cooking?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Everyone" offset="00" relocatable="true" max_length="0">
+			<original>All units gain</original>
+			<edited>All units gain</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Effect_Nothing" offset="00" relocatable="true" max_length="0">
+			<original>No Effects</original>
+			<edited>No Effects</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Also" offset="00" relocatable="true" max_length="0">
+			<original>If &#xE;&#x1;&#x0;&#x0;, also gain</original>
+			<edited>If &#xE;&#x1;&#x0;&#x0;, also gain</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Workmanship" offset="00" relocatable="true" max_length="0">
+			<original>Rank</original>
+			<edited>Rank</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_SS" offset="00" relocatable="true" max_length="0">
+			<original>SS</original>
+			<edited>SS</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_S" offset="00" relocatable="true" max_length="0">
+			<original>S</original>
+			<edited>S</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_A" offset="00" relocatable="true" max_length="0">
+			<original>A</original>
+			<edited>A</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_B" offset="00" relocatable="true" max_length="0">
+			<original>B</original>
+			<edited>B</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_C" offset="00" relocatable="true" max_length="0">
+			<original>C</original>
+			<edited>C</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_D" offset="00" relocatable="true" max_length="0">
+			<original>D</original>
+			<edited>D</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_E" offset="00" relocatable="true" max_length="0">
+			<original>E</original>
+			<edited>E</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_F" offset="00" relocatable="true" max_length="0">
+			<original>F</original>
+			<edited>F</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_G" offset="00" relocatable="true" max_length="0">
+			<original>G</original>
+			<edited>G</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Bento_Get" offset="00" relocatable="true" max_length="0">
+			<original>The cook packed the leftovers to go.</original>
+			<edited>The cook packed the leftovers to go.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_CafeTerrace_Bento_Discard" offset="00" relocatable="true" max_length="0">
+			<original>Disposed of &#xE;&#x1;&#x0;&#x0;.</original>
+			<edited>Disposed of &#xE;&#x1;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_NOTICE_BOARD_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Bulletin Board</original>
+			<edited>Bulletin Board</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_NOTICE_BOARD_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Select information to view.</original>
+			<edited>Select information to view.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_NOTICE_BOARD_INVESTMENT" offset="00" relocatable="true" max_length="0">
+			<original>Donations</original>
+			<edited>Donations</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_NOTICE_BOARD_INVESTMENT_HELP" offset="00" relocatable="true" max_length="0">
+			<original>Select a country to donate to.</original>
+			<edited>Select a country to donate to.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_NOTICE_SOLANEL_INFO" offset="00" relocatable="true" max_length="0">
+			<original>Somniel Map</original>
+			<edited>Somniel Map</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_NOTICE_ACHIEVEMENT" offset="00" relocatable="true" max_length="0">
+			<original>Achievements</original>
+			<edited>Achievements</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_AmountOfMoney" offset="00" relocatable="true" max_length="0">
+			<original>How much will you donate?</original>
+			<edited>How much will you donate?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_G" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;G</original>
+			<edited>&#xE;&#x1;&#x0;&#x0;&#xE;&#x1;&#x1;&#x0;G</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_NEXT_LEVEL" offset="00" relocatable="true" max_length="0">
+			<original>Until next level</original>
+			<edited>Until next level</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_TOTAL" offset="00" relocatable="true" max_length="0">
+			<original>Total donated so far</original>
+			<edited>Total donated so far</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_LEVEL_EFFECT" offset="00" relocatable="true" max_length="0">
+			<original>Level-Up Effects</original>
+			<edited>Level-Up Effects</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_LEVEL_BONUS" offset="00" relocatable="true" max_length="0">
+			<original>Immediate Rewards</original>
+			<edited>Immediate Rewards</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_RESULT" offset="00" relocatable="true" max_length="0">
+			<original>Exploration</original>
+			<edited>Exploration</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_LEVEL_EFFECT_MAX" offset="00" relocatable="true" max_length="0">
+			<original>Max Level Reached</original>
+			<edited>Max Level Reached</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_COMPLETE" offset="00" relocatable="true" max_length="0">
+			<original>REPLETE!</original>
+			<edited>REPLETE!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_COMPLETE_INFO" offset="00" relocatable="true" max_length="0">
+			<original>You have met their needs.</original>
+			<edited>You have met their needs.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_COMPLETE_HELP" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;X&#x0; See content in Details.</original>
+			<edited>&#xE;&#x8;&#x2;&#x4;&#x2;&#x0;X&#x0; See content in Details.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_GOLD_ENEMY" offset="00" relocatable="true" max_length="0">
+			<original>Gold Corrupted</original>
+			<edited>Gold Corrupted</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_EXP_ENEMY" offset="00" relocatable="true" max_length="0">
+			<original>Silver Corrupted</original>
+			<edited>Silver Corrupted</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_ANIMAL_ENABLE" offset="00" relocatable="true" max_length="0">
+			<original>Can Adopt</original>
+			<edited>Can Adopt</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_NATIONDATA_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Resources Found in &#xE;&#x1;&#x0;&#x0;</original>
+			<edited>Resources Found in &#xE;&#x1;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_NATIONDATA_REFINE_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>Minerals</original>
+			<edited>Minerals</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_NATIONDATA_FOOD" offset="00" relocatable="true" max_length="0">
+			<original>Ingredients</original>
+			<edited>Ingredients</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_NATIONDATA_ANIMAL" offset="00" relocatable="true" max_length="0">
+			<original>Animals</original>
+			<edited>Animals</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_BONUS_FILENE_1" offset="00" relocatable="true" max_length="0">
+			<original>Harvest's Bounty</original>
+			<edited>Harvest's Bounty</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_BONUS_BRODIA_1" offset="00" relocatable="true" max_length="0">
+			<original>Mineral Motherlode</original>
+			<edited>Mineral Motherlode</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_BONUS_IRCION_1" offset="00" relocatable="true" max_length="0">
+			<original>Healing Haul</original>
+			<edited>Healing Haul</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_BONUS_SOLUM_1" offset="00" relocatable="true" max_length="0">
+			<original>Market Wares</original>
+			<edited>Market Wares</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_BONUS_2" offset="00" relocatable="true" max_length="0">
+			<original>National Clothing</original>
+			<edited>National Clothing</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_BONUS_3" offset="00" relocatable="true" max_length="0">
+			<original>Companion Pack</original>
+			<edited>Companion Pack</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_BONUS_4" offset="00" relocatable="true" max_length="0">
+			<original>Local Garb</original>
+			<edited>Local Garb</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_BONUS_Get" offset="00" relocatable="true" max_length="0">
+			<original>Received &#xE;&#x1;&#x0;&#x0;.</original>
+			<edited>Received &#xE;&#x1;&#x0;&#x0;.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_INVESTMENT_DIALOG_NEXT_ITEM" offset="00" relocatable="true" max_length="0">
+			<original>To Next Level (&#xE;&#x1;&#x0;&#x0;)</original>
+			<edited>To Next Level (&#xE;&#x1;&#x0;&#x0;)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SOLANEL_INFO_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Somniel Map</original>
+			<edited>Somniel Map</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SOLANEL_INFO_COMMENT" offset="00" relocatable="true" max_length="0">
+			<original>Select a location to visit.</original>
+			<edited>Select a location to visit.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SOLANEL_INFO_CONFIRM_TEXT" offset="00" relocatable="true" max_length="0">
+			<original>Travel to &#xE;&#x1;&#x0;&#x0;?</original>
+			<edited>Travel to &#xE;&#x1;&#x0;&#x0;?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_SOLANEL_INFO_CONFIRM_YES" offset="00" relocatable="true" max_length="0">
+			<original>Travel</original>
+			<edited>Travel</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Achievements</original>
+			<edited>Achievements</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_COUNT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Achievements Cleared</original>
+			<edited>Achievements Cleared</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_COUNT_UNIT" offset="00" relocatable="true" max_length="0">
+			<original>Ally</original>
+			<edited>Ally</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_COUNT_BATTLE" offset="00" relocatable="true" max_length="0">
+			<original>Battle</original>
+			<edited>Battle</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_COUNT_SOLANEL" offset="00" relocatable="true" max_length="0">
+			<original>Somniel</original>
+			<edited>Somniel</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_COUNT_SHOP" offset="00" relocatable="true" max_length="0">
+			<original>Shop</original>
+			<edited>Shop</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_COUNT_SYSTEM" offset="00" relocatable="true" max_length="0">
+			<original>System</original>
+			<edited>System</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_COUNT_TOTAL" offset="00" relocatable="true" max_length="0">
+			<original>Total</original>
+			<edited>Total</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_NOW" offset="00" relocatable="true" max_length="0">
+			<original>Total</original>
+			<edited>Total</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_BONUS" offset="00" relocatable="true" max_length="0">
+			<original>Reward</original>
+			<edited>Reward</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_CLEAR" offset="00" relocatable="true" max_length="0">
+			<original>CLEARED!</original>
+			<edited>CLEARED!</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_COMPLETE" offset="00" relocatable="true" max_length="0">
+			<original>COMPLETE</original>
+			<edited>COMPLETE</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_DIALOG_MESSAGE" offset="00" relocatable="true" max_length="0">
+			<original>Accepted reward for [&#xE;&#x1;&#x0;&#x0;]</original>
+			<edited>Accepted reward for [&#xE;&#x1;&#x0;&#x0;]</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_DIALOG_MESSAGE_ALL" offset="00" relocatable="true" max_length="0">
+			<original>Accept all achievement rewards?</original>
+			<edited>Accept all achievement rewards?</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_DIALOG_MESSAGE_ALLGET" offset="00" relocatable="true" max_length="0">
+			<original>Accepted all achievement rewards.</original>
+			<edited>Accepted all achievement rewards.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_DIALOG_MESSAGE_ALL_YES" offset="00" relocatable="true" max_length="0">
+			<original>Accept</original>
+			<edited>Accept</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" offset="00" relocatable="true" max_length="0">
+			<original> unit(s)</original>
+			<edited> unit(s)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_UNIT_ITEM" offset="00" relocatable="true" max_length="0">
+			<original> item(s)</original>
+			<edited> item(s)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_UNIT_COUNT" offset="00" relocatable="true" max_length="0">
+			<original> time(s)</original>
+			<edited> time(s)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_UNIT_TIME" offset="00" relocatable="true" max_length="0">
+			<original> hour(s)</original>
+			<edited> hour(s)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_UNIT_ENEMY" offset="00" relocatable="true" max_length="0">
+			<original> foe(s)</original>
+			<edited> foe(s)</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_MENU_ACHIEVEMENT_Clear_Nothing" offset="00" relocatable="true" max_length="0">
+			<original>No new achievements.</original>
+			<edited>No new achievements.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_AnimalCoop_Nothing" offset="00" relocatable="true" max_length="0">
+			<original>No animals here yet...</original>
+			<edited>No animals here yet...</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_AnimalCoop_Choice" offset="00" relocatable="true" max_length="0">
+			<original>Select an animal to let out to graze.</original>
+			<edited>Select an animal to let out to graze.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_AnimalCoop_Trade" offset="00" relocatable="true" max_length="0">
+			<original>Transfer</original>
+			<edited>Transfer</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_AnimalCoop_FreeAnimal" offset="00" relocatable="true" max_length="0">
+			<original>Grazing</original>
+			<edited>Grazing</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_AnimalCoop_InAnimal" offset="00" relocatable="true" max_length="0">
+			<original>Stabled</original>
+			<edited>Stabled</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_AnimalCoop_Number" offset="00" relocatable="true" max_length="0">
+			<original>Total</original>
+			<edited>Total</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_AnimalCoop_Entrust" offset="00" relocatable="true" max_length="0">
+			<original>Stable</original>
+			<edited>Stable</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_Hub_AnimalCoop_Contact" offset="00" relocatable="true" max_length="0">
+			<original>Observe</original>
+			<edited>Observe</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_RECORD_HALL_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Records Hall</original>
+			<edited>Records Hall</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_RECORD_HALL_0" offset="00" relocatable="true" max_length="0">
+			<original>At the Records Hall, you can edit your profile
+card and view the cards of others.</original>
+			<edited>At the Records Hall, you can edit your profile
+card and view the cards of others.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_RECORD_HALL_1" offset="00" relocatable="true" max_length="0">
+			<original>You can perform the same actions via the
+Reference menu, though you can only stage
+photo shoots in outdoor parts of the Somniel.</original>
+			<edited>You can perform the same actions via the
+Reference menu, though you can only stage
+photo shoots in outdoor parts of the Somniel.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_PROFILE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Profile Card</original>
+			<edited>Profile Card</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_PROFILE_0" offset="00" relocatable="true" max_length="0">
+			<original>Your profile card is a customizable space for
+you to show off what you've done in the game.</original>
+			<edited>Your profile card is a customizable space for
+you to show off what you've done in the game.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_PROFILE_1" offset="00" relocatable="true" max_length="0">
+			<original>Using online features, you can make your card
+public and exchange cards with other players.</original>
+			<edited>Using online features, you can make your card
+public and exchange cards with other players.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_PROFILE_EDIT_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Edit Profile Card</original>
+			<edited>Edit Profile Card</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_PROFILE_EDIT_0" offset="00" relocatable="true" max_length="0">
+			<original>You can select My Card to customize your
+profile card.</original>
+			<edited>You can select My Card to customize your
+profile card.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_PROFILE_EDIT_1" offset="00" relocatable="true" max_length="0">
+			<original>You will unlock more customization options as
+you progress through the game.</original>
+			<edited>You will unlock more customization options as
+you progress through the game.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_PROFILE_PHOTO_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Photo Shoot</original>
+			<edited>Photo Shoot</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_PROFILE_PHOTO_0" offset="00" relocatable="true" max_length="0">
+			<original>You can take a photo to display on your
+profile card.</original>
+			<edited>You can take a photo to display on your
+profile card.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_PROFILE_PHOTO_1" offset="00" relocatable="true" max_length="0">
+			<original>Dress up and pose your allies in a location
+of your choice on the Somniel.</original>
+			<edited>Dress up and pose your allies in a location
+of your choice on the Somniel.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_PROFILE_PHOTO_2" offset="00" relocatable="true" max_length="0">
+			<original>Once the scene is set, press &#xE;&#x8;&#x2;
+&#x8;&#x0;P&#x0;l&#x0;u&#x0;s&#x0; to enter Photo
+Mode, and then press &#xE;&#x8;&#x2;&#x4;&#x2;&#x0;L&#x0; or &#xE;&#x8;&#x2;&#x4;&#x2;&#x0;R&#x0; to take the picture.</original>
+			<edited>Once the scene is set, press &#xE;&#x8;&#x2;
+&#x8;&#x0;P&#x0;l&#x0;u&#x0;s&#x0; to enter Photo
+Mode, and then press &#xE;&#x8;&#x2;&#x4;&#x2;&#x0;L&#x0; or &#xE;&#x8;&#x2;&#x4;&#x2;&#x0;R&#x0; to take the picture.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_PROFILE_TRADE_TITLE" offset="00" relocatable="true" max_length="0">
+			<original>Exchanging Profile Cards</original>
+			<edited>Exchanging Profile Cards</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_PROFILE_TRADE_0" offset="00" relocatable="true" max_length="0">
+			<original>You can exchange profile cards with players you
+encounter in Relay and Outrealm Trials.</original>
+			<edited>You can exchange profile cards with players you
+encounter in Relay and Outrealm Trials.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_PROFILE_TRADE_1" offset="00" relocatable="true" max_length="0">
+			<original>If you don't want other players to see your card,
+you can change its privacy setting.</original>
+			<edited>If you don't want other players to see your card,
+you can change its privacy setting.</edited>
+			<subEntries />
+		</entry>
+		<entry name="MID_TUT_HUB_PROFILE_TRADE_2" offset="00" relocatable="true" max_length="0">
+			<original>You can view and delete other players' cards
+from the menu.</original>
+			<edited>You can view and delete other players' cards
+from the menu.</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

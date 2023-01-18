@@ -1,0 +1,1847 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="MAID_LueurWearM" offset="00" relocatable="true" max_length="0">
+			<original>神竜の子の平服</original>
+			<edited>神竜の子の平服</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_LueurWearM" offset="00" relocatable="true" max_length="0">
+			<original>神竜の子のみが着ることを許された普段着
+いつの間にか用意されていたもので、特注品のようにぴったりと身体に合う</original>
+			<edited>神竜の子のみが着ることを許された普段着
+いつの間にか用意されていたもので、特注品のようにぴったりと身体に合う</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_LueurWearF" offset="00" relocatable="true" max_length="0">
+			<original>神竜の娘の平服</original>
+			<edited>神竜の娘の平服</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_LueurWearF" offset="00" relocatable="true" max_length="0">
+			<original>神竜の娘のみが着ることを許された普段着
+いつの間にか用意されていたもので、特注品のようにぴったりと身体に合う</original>
+			<edited>神竜の娘のみが着ることを許された普段着
+いつの間にか用意されていたもので、特注品のようにぴったりと身体に合う</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_VandrWear" offset="00" relocatable="true" max_length="0">
+			<original>守り人の正装</original>
+			<edited>守り人の正装</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_VandrWear" offset="00" relocatable="true" max_length="0">
+			<original>第三十二代、竜の守り人ヴァンドレの普段着
+守り人たる者の正装で、全く同じ服の予備が何着かある</original>
+			<edited>第三十二代、竜の守り人ヴァンドレの普段着
+守り人たる者の正装で、全く同じ服の予備が何着かある</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FramWear" offset="00" relocatable="true" max_length="0">
+			<original>薄紅の守り人服</original>
+			<edited>薄紅の守り人服</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FramWear" offset="00" relocatable="true" max_length="0">
+			<original>第三十三代、竜の守り人フランの普段着
+次代を担う守り人の装束　非常食と、秘密の神竜様用メモを上着で隠せるのがポイント</original>
+			<edited>第三十三代、竜の守り人フランの普段着
+次代を担う守り人の装束　非常食と、秘密の神竜様用メモを上着で隠せるのがポイント</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_ClanWear" offset="00" relocatable="true" max_length="0">
+			<original>若緑の守り人服</original>
+			<edited>若緑の守り人服</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_ClanWear" offset="00" relocatable="true" max_length="0">
+			<original>第三十三代、竜の守り人クランの普段着
+次代を担う守り人の装束　非常食と、秘密の神竜様グッズを上着で隠せるのがポイント</original>
+			<edited>第三十三代、竜の守り人クランの普段着
+次代を担う守り人の装束　非常食と、秘密の神竜様グッズを上着で隠せるのがポイント</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_AlfredWear" offset="00" relocatable="true" max_length="0">
+			<original>花冠の王子服</original>
+			<edited>花冠の王子服</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_AlfredWear" offset="00" relocatable="true" max_length="0">
+			<original>フィレネ王国の王子、アルフレッドの普段着
+見た目より動きやすい作りで、胸にはいつも故郷フィレネに咲く生花をさしている</original>
+			<edited>フィレネ王国の王子、アルフレッドの普段着
+見た目より動きやすい作りで、胸にはいつも故郷フィレネに咲く生花をさしている</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BoucheronWear" offset="00" relocatable="true" max_length="0">
+			<original>強靭なシャツ</original>
+			<edited>強靭なシャツ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BoucheronWear" offset="00" relocatable="true" max_length="0">
+			<original>アルフレッドの臣下、ブシュロンの普段着
+シャツのボタンがはち切れてしまいそうだが、ずいぶん昔から愛用している</original>
+			<edited>アルフレッドの臣下、ブシュロンの普段着
+シャツのボタンがはち切れてしまいそうだが、ずいぶん昔から愛用している</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_EtieWear" offset="00" relocatable="true" max_length="0">
+			<original>花畑のフリル衣装</original>
+			<edited>花畑のフリル衣装</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_EtieWear" offset="00" relocatable="true" max_length="0">
+			<original>アルフレッドの臣下、エーティエの普段着
+袖とスカートのフリルが特徴的　裾の模様は戦装束のスカートと同じにしている</original>
+			<edited>アルフレッドの臣下、エーティエの普段着
+袖とスカートのフリルが特徴的　裾の模様は戦装束のスカートと同じにしている</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_CelineWear" offset="00" relocatable="true" max_length="0">
+			<original>お茶会の王女服</original>
+			<edited>お茶会の王女服</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_CelineWear" offset="00" relocatable="true" max_length="0">
+			<original>フィレネ王国の王女、セリーヌの普段着
+上品なレースとリボンがティータイムを優雅に演出する　首飾りの石は蜂蜜紅茶の色</original>
+			<edited>フィレネ王国の王女、セリーヌの普段着
+上品なレースとリボンがティータイムを優雅に演出する　首飾りの石は蜂蜜紅茶の色</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_LouisWear" offset="00" relocatable="true" max_length="0">
+			<original>騎士のベスト</original>
+			<edited>騎士のベスト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_LouisWear" offset="00" relocatable="true" max_length="0">
+			<original>セリーヌの臣下、ルイの普段着
+袖まくりがしやすくなっており、いつでも完璧なおもてなしができる機能的な服</original>
+			<edited>セリーヌの臣下、ルイの普段着
+袖まくりがしやすくなっており、いつでも完璧なおもてなしができる機能的な服</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_ChloeWear" offset="00" relocatable="true" max_length="0">
+			<original>天馬のスカート</original>
+			<edited>天馬のスカート</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_ChloeWear" offset="00" relocatable="true" max_length="0">
+			<original>セリーヌの臣下、クロエの普段着
+屋台に行く時にも愛用しているが、食べ方が綺麗なので食べこぼしで汚れたことはない</original>
+			<edited>セリーヌの臣下、クロエの普段着
+屋台に行く時にも愛用しているが、食べ方が綺麗なので食べこぼしで汚れたことはない</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_DiamandWear" offset="00" relocatable="true" max_length="0">
+			<original>火焔の王子服</original>
+			<edited>火焔の王子服</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_DiamandWear" offset="00" relocatable="true" max_length="0">
+			<original>ブロディア王国の王子、ディアマンドの普段着
+動きやすさに特化しており、燃えにくく、破れにくい丈夫な素材で作られている</original>
+			<edited>ブロディア王国の王子、ディアマンドの普段着
+動きやすさに特化しており、燃えにくく、破れにくい丈夫な素材で作られている</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_UmberWear" offset="00" relocatable="true" max_length="0">
+			<original>アルパカブルゾン</original>
+			<edited>アルパカブルゾン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_UmberWear" offset="00" relocatable="true" max_length="0">
+			<original>ディアマンドの臣下、アンバーの普段着
+背中と左胸の愛らしい刺繍は、アンバーの故郷のアルパカがモデルになっている</original>
+			<edited>ディアマンドの臣下、アンバーの普段着
+背中と左胸の愛らしい刺繍は、アンバーの故郷のアルパカがモデルになっている</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_JadeWear" offset="00" relocatable="true" max_length="0">
+			<original>鉄壁の執筆服</original>
+			<edited>鉄壁の執筆服</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_JadeWear" offset="00" relocatable="true" max_length="0">
+			<original>ディアマンドの臣下、ジェーデの普段着
+皮のベルトが執筆時の姿勢を正してくれる　動きやすく、ネタ探しの散策にも向いた服</original>
+			<edited>ディアマンドの臣下、ジェーデの普段着
+皮のベルトが執筆時の姿勢を正してくれる　動きやすく、ネタ探しの散策にも向いた服</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_StalukeWear" offset="00" relocatable="true" max_length="0">
+			<original>燐火の王子服</original>
+			<edited>燐火の王子服</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_StalukeWear" offset="00" relocatable="true" max_length="0">
+			<original>ブロディア王国の王子、スタルークの普段着
+ディアマンドの普段着とほぼ同じだが、同じ服でもこれほどの差が…と本人は思っている</original>
+			<edited>ブロディア王国の王子、スタルークの普段着
+ディアマンドの普段着とほぼ同じだが、同じ服でもこれほどの差が…と本人は思っている</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_LapisWear" offset="00" relocatable="true" max_length="0">
+			<original>故郷のエプロン</original>
+			<edited>故郷のエプロン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_LapisWear" offset="00" relocatable="true" max_length="0">
+			<original>スタルークの臣下、ラピスの普段着
+すべて手作りで、長年手入れし大切に着ている　丁寧に施された花の刺繍が特徴的</original>
+			<edited>スタルークの臣下、ラピスの普段着
+すべて手作りで、長年手入れし大切に着ている　丁寧に施された花の刺繍が特徴的</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_CitrinicaWear" offset="00" relocatable="true" max_length="0">
+			<original>絢爛なジャケット</original>
+			<edited>絢爛なジャケット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_CitrinicaWear" offset="00" relocatable="true" max_length="0">
+			<original>スタルークの臣下、シトリニカの普段着
+高級な毛皮付きのレザージャケット　腰ベルトには大公家の由緒あるお守りを下げている</original>
+			<edited>スタルークの臣下、シトリニカの普段着
+高級な毛皮付きのレザージャケット　腰ベルトには大公家の由緒あるお守りを下げている</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IvyWear" offset="00" relocatable="true" max_length="0">
+			<original>寡黙な王女服</original>
+			<edited>寡黙な王女服</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_IvyWear" offset="00" relocatable="true" max_length="0">
+			<original>イルシオン王国の王女、アイビーの普段着
+理想の着心地を求めて試行錯誤した、こだわりのドレス　こう見えて防寒に優れている</original>
+			<edited>イルシオン王国の王女、アイビーの普段着
+理想の着心地を求めて試行錯誤した、こだわりのドレス　こう見えて防寒に優れている</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_ZelkovaWear" offset="00" relocatable="true" max_length="0">
+			<original>闇のベルト服</original>
+			<edited>闇のベルト服</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_ZelkovaWear" offset="00" relocatable="true" max_length="0">
+			<original>アイビーの臣下、ゼルコバの普段着
+沢山のベルトは急所を守るためらしいが真偽は不明　首元の意味深な鍵はただの飾り</original>
+			<edited>アイビーの臣下、ゼルコバの普段着
+沢山のベルトは急所を守るためらしいが真偽は不明　首元の意味深な鍵はただの飾り</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_KagetsuWear" offset="00" relocatable="true" max_length="0">
+			<original>おにぎり袴</original>
+			<edited>おにぎり袴</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_KagetsuWear" offset="00" relocatable="true" max_length="0">
+			<original>アイビーの臣下、カゲツの普段着
+カゲツの故郷では主流の着物　袴に施されたおにぎりの中身はたらこ、鮭、梅、かつお</original>
+			<edited>アイビーの臣下、カゲツの普段着
+カゲツの故郷では主流の着物　袴に施されたおにぎりの中身はたらこ、鮭、梅、かつお</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_HortensiaWear" offset="00" relocatable="true" max_length="0">
+			<original>可憐な王女服</original>
+			<edited>可憐な王女服</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_HortensiaWear" offset="00" relocatable="true" max_length="0">
+			<original>イルシオン王国の王女、オルテンシアの普段着
+模様や装飾にこだわった、かわいさの結晶　生地の一部はアイビーの普段着と同じもの</original>
+			<edited>イルシオン王国の王女、オルテンシアの普段着
+模様や装飾にこだわった、かわいさの結晶　生地の一部はアイビーの普段着と同じもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_RosadoWear" offset="00" relocatable="true" max_length="0">
+			<original>ラップスカート</original>
+			<edited>ラップスカート</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_RosadoWear" offset="00" relocatable="true" max_length="0">
+			<original>オルテンシアの臣下、ロサードの普段着
+ロサード自身があちこち可愛く手直しした、愛着のある服　実は父親からのお下がり</original>
+			<edited>オルテンシアの臣下、ロサードの普段着
+ロサード自身があちこち可愛く手直しした、愛着のある服　実は父親からのお下がり</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_GoldmaryWear" offset="00" relocatable="true" max_length="0">
+			<original>刺繍のワンピース</original>
+			<edited>刺繍のワンピース</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_GoldmaryWear" offset="00" relocatable="true" max_length="0">
+			<original>オルテンシアの臣下、ゴルドマリーの普段着
+清楚で可愛く派手過ぎず、美しさを最大限に引き出せる服ですみません…とのこと</original>
+			<edited>オルテンシアの臣下、ゴルドマリーの普段着
+清楚で可愛く派手過ぎず、美しさを最大限に引き出せる服ですみません…とのこと</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_MisutiraWear" offset="00" relocatable="true" max_length="0">
+			<original>極彩色の王女服</original>
+			<edited>極彩色の王女服</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_MisutiraWear" offset="00" relocatable="true" max_length="0">
+			<original>ソルム王国の王女、ミスティラの普段着
+軽い布で作られていて、涼しく動きやすい　意外にも燃えにくいため焚き火の際も安全</original>
+			<edited>ソルム王国の王女、ミスティラの普段着
+軽い布で作られていて、涼しく動きやすい　意外にも燃えにくいため焚き火の際も安全</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_MerinWear" offset="00" relocatable="true" max_length="0">
+			<original>愛狼のブーツイン</original>
+			<edited>愛狼のブーツイン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_MerinWear" offset="00" relocatable="true" max_length="0">
+			<original>ミスティラの臣下、メリンの普段着
+オオカミの尻尾は本物ではなく精巧な模造品　嬉しい時は何故か左右に揺れることがある</original>
+			<edited>ミスティラの臣下、メリンの普段着
+オオカミの尻尾は本物ではなく精巧な模造品　嬉しい時は何故か左右に揺れることがある</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_PanetoneWear" offset="00" relocatable="true" max_length="0">
+			<original>ゴシックドレス</original>
+			<edited>ゴシックドレス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_PanetoneWear" offset="00" relocatable="true" max_length="0">
+			<original>ミスティラの臣下、パネトネの普段着
+元は清楚なドレスだったが、暴れた際に破れてしまったのでカラフルな糸で何とかした</original>
+			<edited>ミスティラの臣下、パネトネの普段着
+元は清楚なドレスだったが、暴れた際に破れてしまったのでカラフルな糸で何とかした</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FogatoWear" offset="00" relocatable="true" max_length="0">
+			<original>清爽の王子服</original>
+			<edited>清爽の王子服</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FogatoWear" offset="00" relocatable="true" max_length="0">
+			<original>ソルム王国の王子、フォガートの普段着
+素性がばれそうな時は、マフラーを顔にぐるぐる巻いて旅人になりきるのがお決まり</original>
+			<edited>ソルム王国の王子、フォガートの普段着
+素性がばれそうな時は、マフラーを顔にぐるぐる巻いて旅人になりきるのがお決まり</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_PandoroWear" offset="00" relocatable="true" max_length="0">
+			<original>宴会のジャケット</original>
+			<edited>宴会のジャケット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_PandoroWear" offset="00" relocatable="true" max_length="0">
+			<original>フォガートの臣下、パンドロの普段着
+宴にもよく着ていく服だが、いつでも祈れるように簡易なストラをかけている</original>
+			<edited>フォガートの臣下、パンドロの普段着
+宴にもよく着ていく服だが、いつでも祈れるように簡易なストラをかけている</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BonetWear" offset="00" relocatable="true" max_length="0">
+			<original>シェフのエプロン</original>
+			<edited>シェフのエプロン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BonetWear" offset="00" relocatable="true" max_length="0">
+			<original>フォガートの臣下、ボネの普段着
+調理の際にも着る服でありながらソースの染みひとつなく、いつも清潔な香りがする</original>
+			<edited>フォガートの臣下、ボネの普段着
+調理の際にも着る服でありながらソースの染みひとつなく、いつも清潔な香りがする</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_AnnaWear" offset="00" relocatable="true" max_length="0">
+			<original>雪国のニット</original>
+			<edited>雪国のニット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_AnnaWear" offset="00" relocatable="true" max_length="0">
+			<original>アンナの普段着
+モコモコのニットと襟巻は暖かく、雪の多い日も凍えずに快適に過ごせる</original>
+			<edited>アンナの普段着
+モコモコのニットと襟巻は暖かく、雪の多い日も凍えずに快適に過ごせる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_JeanWear" offset="00" relocatable="true" max_length="0">
+			<original>学徒カーディガン</original>
+			<edited>学徒カーディガン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_JeanWear" offset="00" relocatable="true" max_length="0">
+			<original>ジャンの普段着
+左のポケットには薬草が、右のポケットには勉強のメモが入っている　メガネは伊達</original>
+			<edited>ジャンの普段着
+左のポケットには薬草が、右のポケットには勉強のメモが入っている　メガネは伊達</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_YunakaWear" offset="00" relocatable="true" max_length="0">
+			<original>大人カーディガン</original>
+			<edited>大人カーディガン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_YunakaWear" offset="00" relocatable="true" max_length="0">
+			<original>ユナカの普段着
+町で買った何の変哲もない服だが、一つだけ高級品を身に着けている粋なスタイル</original>
+			<edited>ユナカの普段着
+町で買った何の変哲もない服だが、一つだけ高級品を身に着けている粋なスタイル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SeadasWear" offset="00" relocatable="true" max_length="0">
+			<original>ダンサーのガウン</original>
+			<edited>ダンサーのガウン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SeadasWear" offset="00" relocatable="true" max_length="0">
+			<original>セアダスの普段着
+占い師っぽく見えるものを考えに考え抜いて用意したが、たまにお腹が冷える</original>
+			<edited>セアダスの普段着
+占い師っぽく見えるものを考えに考え抜いて用意したが、たまにお腹が冷える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_LindenWear" offset="00" relocatable="true" max_length="0">
+			<original>知識のローブ</original>
+			<edited>知識のローブ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_LindenWear" offset="00" relocatable="true" max_length="0">
+			<original>リンデンの普段着
+首元で光る銀のロケットペンダントは、いつも肌身離さず身に着けている</original>
+			<edited>リンデンの普段着
+首元で光る銀のロケットペンダントは、いつも肌身離さず身に着けている</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SaphirWear" offset="00" relocatable="true" max_length="0">
+			<original>漁村の女将服</original>
+			<edited>漁村の女将服</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SaphirWear" offset="00" relocatable="true" max_length="0">
+			<original>ザフィーアの普段着
+スカートは水をはじく特別な生地でできている　魚をさばくときはグローブを外す</original>
+			<edited>ザフィーアの普段着
+スカートは水をはじく特別な生地でできている　魚をさばくときはグローブを外す</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_VeyreWear" offset="00" relocatable="true" max_length="0">
+			<original>純白のスカート</original>
+			<edited>純白のスカート</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_VeyreWear" offset="00" relocatable="true" max_length="0">
+			<original>ヴェイルの普段着
+あまり着るものに頓着しないヴェイルのために、お洒落好きな仲間たちが見立てたもの</original>
+			<edited>ヴェイルの普段着
+あまり着るものに頓着しないヴェイルのために、お洒落好きな仲間たちが見立てたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_MauveWear" offset="00" relocatable="true" max_length="0">
+			<original>敬虔な立て襟服</original>
+			<edited>敬虔な立て襟服</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_MauveWear" offset="00" relocatable="true" max_length="0">
+			<original>モーヴの普段着
+几帳面に手入れされ、新品同然に見える服　フィレネで織られた生地が使われている</original>
+			<edited>モーヴの普段着
+几帳面に手入れされ、新品同然に見える服　フィレネで織られた生地が使われている</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneFormal1" offset="00" relocatable="true" max_length="0">
+			<original>青空ペアセット</original>
+			<edited>青空ペアセット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FileneFormal1" offset="00" relocatable="true" max_length="0">
+			<original>フィレネの貴族が着る衣装　染料をふんだんに使用して染められており、
+鮮やかな青は、人々に恵みをもたらす「豊穣の空」を象徴している【男女ペアのセット】</original>
+			<edited>フィレネの貴族が着る衣装　染料をふんだんに使用して染められており、
+鮮やかな青は、人々に恵みをもたらす「豊穣の空」を象徴している【男女ペアのセット】</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneFormal1M" offset="00" relocatable="true" max_length="0">
+			<original>青空のベスト</original>
+			<edited>青空のベスト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FileneFormal1M" offset="00" relocatable="true" max_length="0">
+			<original>フィレネの貴族が着る衣装　軽くて丈夫な素材で作られており、着心地が良い
+その鮮やかな青色は、人々に恵みをもたらす「豊穣の空」を象徴している</original>
+			<edited>フィレネの貴族が着る衣装　軽くて丈夫な素材で作られており、着心地が良い
+その鮮やかな青色は、人々に恵みをもたらす「豊穣の空」を象徴している</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneFormal1F" offset="00" relocatable="true" max_length="0">
+			<original>青空のワンピース</original>
+			<edited>青空のワンピース</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FileneFormal1F" offset="00" relocatable="true" max_length="0">
+			<original>フィレネの貴族が着る衣装　軽くて丈夫な素材で作られており、花畑の散歩に最適
+その鮮やかな青色は、人々に恵みをもたらす「豊穣の空」を象徴している</original>
+			<edited>フィレネの貴族が着る衣装　軽くて丈夫な素材で作られており、花畑の散歩に最適
+その鮮やかな青色は、人々に恵みをもたらす「豊穣の空」を象徴している</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneFormal2" offset="00" relocatable="true" max_length="0">
+			<original>朝靄ペアセット</original>
+			<edited>朝靄ペアセット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FileneFormal2" offset="00" relocatable="true" max_length="0">
+			<original>フィレネの貴族が着る衣装　職人がフィレネ伝統の染色技法を用い、
+朝焼けのようなグラデーションを見事に表現している【男女ペアのセット】</original>
+			<edited>フィレネの貴族が着る衣装　職人がフィレネ伝統の染色技法を用い、
+朝焼けのようなグラデーションを見事に表現している【男女ペアのセット】</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneFormal2M" offset="00" relocatable="true" max_length="0">
+			<original>朝靄のベスト</original>
+			<edited>朝靄のベスト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FileneFormal2M" offset="00" relocatable="true" max_length="0">
+			<original>フィレネの貴族が着る衣装　職人がフィレネ伝統の染色技法を用い、
+朝焼けのようなグラデーションを見事に表現している　胸元の生花は装飾用に育てたもの</original>
+			<edited>フィレネの貴族が着る衣装　職人がフィレネ伝統の染色技法を用い、
+朝焼けのようなグラデーションを見事に表現している　胸元の生花は装飾用に育てたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneFormal2F" offset="00" relocatable="true" max_length="0">
+			<original>朝靄のワンピース</original>
+			<edited>朝靄のワンピース</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FileneFormal2F" offset="00" relocatable="true" max_length="0">
+			<original>フィレネの貴族が着る衣装　職人がフィレネ伝統の染色技法を用い、
+朝焼けのようなグラデーションを見事に表現している　祭事などで着られることが多い</original>
+			<edited>フィレネの貴族が着る衣装　職人がフィレネ伝統の染色技法を用い、
+朝焼けのようなグラデーションを見事に表現している　祭事などで着られることが多い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneFormal3" offset="00" relocatable="true" max_length="0">
+			<original>水面ペアセット</original>
+			<edited>水面ペアセット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneFormal3M" offset="00" relocatable="true" max_length="0">
+			<original>水面のベスト</original>
+			<edited>水面のベスト</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FileneFormal3M" offset="00" relocatable="true" max_length="0">
+			<original>フィレネから友好の証に贈られた伝統ある衣装　美しい模様と鮮やかな水色には、
+「凪いだ水面のごとき平和への祈り」が込められており、客人をもてなす際にも着られる</original>
+			<edited>フィレネから友好の証に贈られた伝統ある衣装　美しい模様と鮮やかな水色には、
+「凪いだ水面のごとき平和への祈り」が込められており、客人をもてなす際にも着られる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneFormal3F" offset="00" relocatable="true" max_length="0">
+			<original>水面のワンピース</original>
+			<edited>水面のワンピース</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FileneFormal3F" offset="00" relocatable="true" max_length="0">
+			<original>フィレネから友好の証に贈られた伝統ある衣装　美しい模様と鮮やかな水色には、
+「凪いだ水面のごとき平和への祈り」が込められ、腰紐は「解けぬ絆」を意味している</original>
+			<edited>フィレネから友好の証に贈られた伝統ある衣装　美しい模様と鮮やかな水色には、
+「凪いだ水面のごとき平和への祈り」が込められ、腰紐は「解けぬ絆」を意味している</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneCasual1" offset="00" relocatable="true" max_length="0">
+			<original>晴天ペアセット</original>
+			<edited>晴天ペアセット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FileneCasual1" offset="00" relocatable="true" max_length="0">
+			<original>フィレネの平民が着る衣装　幼いうちから裁縫技術を学ぶ風習があるフィレネでは、
+練習を兼ねて、この服を初めに作ることが多い【男女ペアのセット】</original>
+			<edited>フィレネの平民が着る衣装　幼いうちから裁縫技術を学ぶ風習があるフィレネでは、
+練習を兼ねて、この服を初めに作ることが多い【男女ペアのセット】</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneCasual1M" offset="00" relocatable="true" max_length="0">
+			<original>晴天のジレ</original>
+			<edited>晴天のジレ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FileneCasual1M" offset="00" relocatable="true" max_length="0">
+			<original>フィレネの平民が着る衣装　幼いうちから裁縫技術を学ぶ風習があるフィレネでは、
+練習を兼ねて、この服を初めに作ることが多い　難関は帽子の制作と言われている</original>
+			<edited>フィレネの平民が着る衣装　幼いうちから裁縫技術を学ぶ風習があるフィレネでは、
+練習を兼ねて、この服を初めに作ることが多い　難関は帽子の制作と言われている</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneCasual1F" offset="00" relocatable="true" max_length="0">
+			<original>晴天のエプロン</original>
+			<edited>晴天のエプロン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FileneCasual1F" offset="00" relocatable="true" max_length="0">
+			<original>フィレネの平民が着る衣装　幼いうちから裁縫技術を学ぶ風習があるフィレネでは、
+練習を兼ねて、この服を初めに作ることが多い　胸元の花飾りの制作は子供にも人気</original>
+			<edited>フィレネの平民が着る衣装　幼いうちから裁縫技術を学ぶ風習があるフィレネでは、
+練習を兼ねて、この服を初めに作ることが多い　胸元の花飾りの制作は子供にも人気</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneCasual2" offset="00" relocatable="true" max_length="0">
+			<original>格子柄ペアセット</original>
+			<edited>格子柄ペアセット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FileneCasual2" offset="00" relocatable="true" max_length="0">
+			<original>フィレネの平民が着る衣装　フィレネで流行りの柄が施されており、
+格子の出来栄えで、作った人の性格が分かると言われている【男女ペアのセット】</original>
+			<edited>フィレネの平民が着る衣装　フィレネで流行りの柄が施されており、
+格子の出来栄えで、作った人の性格が分かると言われている【男女ペアのセット】</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneCasual2M" offset="00" relocatable="true" max_length="0">
+			<original>格子柄のジレ</original>
+			<edited>格子柄のジレ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FileneCasual2M" offset="00" relocatable="true" max_length="0">
+			<original>フィレネの平民が着る衣装　作業着にも適しているが、普段着として着ることが多い
+流行りの柄が施されており、格子の出来栄えで、作った人の性格が分かると言われている</original>
+			<edited>フィレネの平民が着る衣装　作業着にも適しているが、普段着として着ることが多い
+流行りの柄が施されており、格子の出来栄えで、作った人の性格が分かると言われている</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneCasual2F" offset="00" relocatable="true" max_length="0">
+			<original>格子柄のエプロン</original>
+			<edited>格子柄のエプロン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FileneCasual2F" offset="00" relocatable="true" max_length="0">
+			<original>フィレネの平民が着る衣装　施されている柄はハンカチなどにも使われる流行のもの
+格子の出来栄えで、作った人の性格が分かると言われている</original>
+			<edited>フィレネの平民が着る衣装　施されている柄はハンカチなどにも使われる流行のもの
+格子の出来栄えで、作った人の性格が分かると言われている</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneCasual3" offset="00" relocatable="true" max_length="0">
+			<original>花柄ペアセット</original>
+			<edited>花柄ペアセット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneCasual3M" offset="00" relocatable="true" max_length="0">
+			<original>花柄のジレ</original>
+			<edited>花柄のジレ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FileneCasual3M" offset="00" relocatable="true" max_length="0">
+			<original>フィレネから友好の証に贈られた伝統ある衣装　花柄の刺繍は色ごとに意味を持ち、
+各家庭の先祖の代から変わらぬ技術で施され、大切な人への「愛情」を表現している</original>
+			<edited>フィレネから友好の証に贈られた伝統ある衣装　花柄の刺繍は色ごとに意味を持ち、
+各家庭の先祖の代から変わらぬ技術で施され、大切な人への「愛情」を表現している</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FileneCasual3F" offset="00" relocatable="true" max_length="0">
+			<original>花柄のエプロン</original>
+			<edited>花柄のエプロン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FileneCasual3F" offset="00" relocatable="true" max_length="0">
+			<original>フィレネから友好の証に贈られた伝統ある衣装　刺繍は人によって得意とする花があり、
+各家庭の先祖の代から変わらぬ技術で施され、大切な人への「愛情」を表現している　</original>
+			<edited>フィレネから友好の証に贈られた伝統ある衣装　刺繍は人によって得意とする花があり、
+各家庭の先祖の代から変わらぬ技術で施され、大切な人への「愛情」を表現している　</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaFormal1" offset="00" relocatable="true" max_length="0">
+			<original>辰砂ペアセット</original>
+			<edited>辰砂ペアセット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BrodiaFormal1" offset="00" relocatable="true" max_length="0">
+			<original>ブロディアの貴族が着る衣装　ブロディア産の上質な毛皮と、
+世界一の産出量を誇る金鉱石を用いた金糸の刺繍が特徴【男女ペアのセット】</original>
+			<edited>ブロディアの貴族が着る衣装　ブロディア産の上質な毛皮と、
+世界一の産出量を誇る金鉱石を用いた金糸の刺繍が特徴【男女ペアのセット】</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaFormal1M" offset="00" relocatable="true" max_length="0">
+			<original>辰砂のガウン</original>
+			<edited>辰砂のガウン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BrodiaFormal1M" offset="00" relocatable="true" max_length="0">
+			<original>ブロディアの貴族が着る衣装　ブロディア産の上質な毛皮と、世界一の産出量を誇る
+金鉱石を用いた金糸の刺繍が特徴　動きやすさを重視し、ガウンの丈は短い</original>
+			<edited>ブロディアの貴族が着る衣装　ブロディア産の上質な毛皮と、世界一の産出量を誇る
+金鉱石を用いた金糸の刺繍が特徴　動きやすさを重視し、ガウンの丈は短い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaFormal1F" offset="00" relocatable="true" max_length="0">
+			<original>辰砂のジャケット</original>
+			<edited>辰砂のジャケット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BrodiaFormal1F" offset="00" relocatable="true" max_length="0">
+			<original>ブロディアの貴族が着る衣装　ブロディア産の上質な毛皮と、世界一の産出量を誇る
+金鉱石を用いた金糸の刺繍が特徴　スカートの黒い裾は、汚れにくい生地で作られている</original>
+			<edited>ブロディアの貴族が着る衣装　ブロディア産の上質な毛皮と、世界一の産出量を誇る
+金鉱石を用いた金糸の刺繍が特徴　スカートの黒い裾は、汚れにくい生地で作られている</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaFormal2" offset="00" relocatable="true" max_length="0">
+			<original>黒玉ペアセット</original>
+			<edited>黒玉ペアセット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BrodiaFormal2" offset="00" relocatable="true" max_length="0">
+			<original>ブロディアの貴族が着る衣装　「不屈」を意味する文様が施されており、
+武術大会などの祭事で着られることが多い【男女ペアのセット】</original>
+			<edited>ブロディアの貴族が着る衣装　「不屈」を意味する文様が施されており、
+武術大会などの祭事で着られることが多い【男女ペアのセット】</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaFormal2M" offset="00" relocatable="true" max_length="0">
+			<original>黒玉のガウン</original>
+			<edited>黒玉のガウン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BrodiaFormal2M" offset="00" relocatable="true" max_length="0">
+			<original>ブロディアの貴族が着る衣装　「不屈」を意味する文様が施されており、
+武術大会などの祭事で着られることが多い　上下とも厚手の生地で、とても暖かい</original>
+			<edited>ブロディアの貴族が着る衣装　「不屈」を意味する文様が施されており、
+武術大会などの祭事で着られることが多い　上下とも厚手の生地で、とても暖かい</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaFormal2F" offset="00" relocatable="true" max_length="0">
+			<original>黒玉のジャケット</original>
+			<edited>黒玉のジャケット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BrodiaFormal2F" offset="00" relocatable="true" max_length="0">
+			<original>ブロディアの貴族が着る衣装　「不屈」を意味する文様が施されており、
+武術大会などの祭事で着られることが多い　スカートは重いので足捌きが試される</original>
+			<edited>ブロディアの貴族が着る衣装　「不屈」を意味する文様が施されており、
+武術大会などの祭事で着られることが多い　スカートは重いので足捌きが試される</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaFormal3" offset="00" relocatable="true" max_length="0">
+			<original>白雲母ペアセット</original>
+			<edited>白雲母ペアセット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaFormal3M" offset="00" relocatable="true" max_length="0">
+			<original>白雲母のガウン</original>
+			<edited>白雲母のガウン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BrodiaFormal3M" offset="00" relocatable="true" max_length="0">
+			<original>ブロディアから友好の証に贈られた伝統ある衣装　白い部分は全て本革
+祝いの席でもよく着られている　施された文様は製造店を示す、所謂ブランドロゴ</original>
+			<edited>ブロディアから友好の証に贈られた伝統ある衣装　白い部分は全て本革
+祝いの席でもよく着られている　施された文様は製造店を示す、所謂ブランドロゴ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaFormal3F" offset="00" relocatable="true" max_length="0">
+			<original>白雲母のジャケット</original>
+			<edited>白雲母のジャケット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BrodiaFormal3F" offset="00" relocatable="true" max_length="0">
+			<original>ブロディアから友好の証に贈られた伝統ある衣装　白い部分は全て本革
+祝いの席でもよく着られており、婚姻のドレスを白い本革で発注する花嫁もいる</original>
+			<edited>ブロディアから友好の証に贈られた伝統ある衣装　白い部分は全て本革
+祝いの席でもよく着られており、婚姻のドレスを白い本革で発注する花嫁もいる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaCasual1" offset="00" relocatable="true" max_length="0">
+			<original>洞窟ペアセット</original>
+			<edited>洞窟ペアセット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BrodiaCasual1" offset="00" relocatable="true" max_length="0">
+			<original>ブロディアの平民が着る衣装　炭鉱などの作業で汚れても目立たない色合いで、
+洗いやすい生地を使用した効率重視の服【男女ペアのセット】</original>
+			<edited>ブロディアの平民が着る衣装　炭鉱などの作業で汚れても目立たない色合いで、
+洗いやすい生地を使用した効率重視の服【男女ペアのセット】</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaCasual1M" offset="00" relocatable="true" max_length="0">
+			<original>洞窟のティペット</original>
+			<edited>洞窟のティペット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BrodiaCasual1M" offset="00" relocatable="true" max_length="0">
+			<original>ブロディアの平民が着る衣装　炭鉱などの作業で汚れても目立たない色合いで、
+洗いやすい生地を使用した効率重視の服　作業中には毛皮を外すことが多い</original>
+			<edited>ブロディアの平民が着る衣装　炭鉱などの作業で汚れても目立たない色合いで、
+洗いやすい生地を使用した効率重視の服　作業中には毛皮を外すことが多い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaCasual1F" offset="00" relocatable="true" max_length="0">
+			<original>洞窟のスカート</original>
+			<edited>洞窟のスカート</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BrodiaCasual1F" offset="00" relocatable="true" max_length="0">
+			<original>ブロディアの平民が着る衣装　炭鉱などの作業で汚れても目立たない色合いで、
+洗いやすい生地を使用した効率重視の服　襟巻の留め具は、動物の角を美しく磨いたもの</original>
+			<edited>ブロディアの平民が着る衣装　炭鉱などの作業で汚れても目立たない色合いで、
+洗いやすい生地を使用した効率重視の服　襟巻の留め具は、動物の角を美しく磨いたもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaCasual2" offset="00" relocatable="true" max_length="0">
+			<original>荒野ペアセット</original>
+			<edited>荒野ペアセット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BrodiaCasual2" offset="00" relocatable="true" max_length="0">
+			<original>ブロディアの平民が着る衣装　襟巻には、ふわふわのアルパカの毛が使われている
+足元や裾の文様は、各集落で異なる伝統的なもの【男女ペアのセット】</original>
+			<edited>ブロディアの平民が着る衣装　襟巻には、ふわふわのアルパカの毛が使われている
+足元や裾の文様は、各集落で異なる伝統的なもの【男女ペアのセット】</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaCasual2M" offset="00" relocatable="true" max_length="0">
+			<original>荒野のティペット</original>
+			<edited>荒野のティペット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BrodiaCasual2M" offset="00" relocatable="true" max_length="0">
+			<original>ブロディアの平民が着る衣装　襟巻には、ふわふわのアルパカの毛が使われている
+足元の文様は各集落で異なる伝統的なもの　遊牧を生業とする者が着ていることが多い</original>
+			<edited>ブロディアの平民が着る衣装　襟巻には、ふわふわのアルパカの毛が使われている
+足元の文様は各集落で異なる伝統的なもの　遊牧を生業とする者が着ていることが多い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaCasual2F" offset="00" relocatable="true" max_length="0">
+			<original>荒野のスカート</original>
+			<edited>荒野のスカート</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BrodiaCasual2F" offset="00" relocatable="true" max_length="0">
+			<original>ブロディアの平民が着る衣装　襟巻には、ふわふわのアルパカの毛が使われている
+裾の文様は各集落で異なる伝統的なもの　靴には滑り止めが施されており、山道も安全</original>
+			<edited>ブロディアの平民が着る衣装　襟巻には、ふわふわのアルパカの毛が使われている
+裾の文様は各集落で異なる伝統的なもの　靴には滑り止めが施されており、山道も安全</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaCasual3" offset="00" relocatable="true" max_length="0">
+			<original>岩壁ペアセット</original>
+			<edited>岩壁ペアセット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaCasual3M" offset="00" relocatable="true" max_length="0">
+			<original>岩壁のティペット</original>
+			<edited>岩壁のティペット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BrodiaCasual3M" offset="00" relocatable="true" max_length="0">
+			<original>ブロディアから友好の証に贈られた伝統ある衣装　長く着られる丈夫な素材を多く用い、
+見た目と機能性の両立を重視している　襟巻に使われているのは、岩肌に棲む熊の毛皮</original>
+			<edited>ブロディアから友好の証に贈られた伝統ある衣装　長く着られる丈夫な素材を多く用い、
+見た目と機能性の両立を重視している　襟巻に使われているのは、岩肌に棲む熊の毛皮</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BrodiaCasual3F" offset="00" relocatable="true" max_length="0">
+			<original>岩壁のスカート</original>
+			<edited>岩壁のスカート</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BrodiaCasual3F" offset="00" relocatable="true" max_length="0">
+			<original>ブロディアから友好の証に贈られた伝統ある衣装　長く着られる丈夫な素材を多く用い
+見た目と機能性の両立を重視している　腹部の文様には魔除けの効果があるとされる</original>
+			<edited>ブロディアから友好の証に贈られた伝統ある衣装　長く着られる丈夫な素材を多く用い
+見た目と機能性の両立を重視している　腹部の文様には魔除けの効果があるとされる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumFormal1" offset="00" relocatable="true" max_length="0">
+			<original>太陽ペアセット</original>
+			<edited>太陽ペアセット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SolumFormal1" offset="00" relocatable="true" max_length="0">
+			<original>ソルムの貴族が着る衣装　暑い気候でも快適に過ごせるよう、薄手の素材を用い、
+風通しのよい作りになっている【男女ペアのセット】</original>
+			<edited>ソルムの貴族が着る衣装　暑い気候でも快適に過ごせるよう、薄手の素材を用い、
+風通しのよい作りになっている【男女ペアのセット】</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumFormal1M" offset="00" relocatable="true" max_length="0">
+			<original>太陽のジレ</original>
+			<edited>太陽のジレ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SolumFormal1M" offset="00" relocatable="true" max_length="0">
+			<original>ソルムの貴族が着る衣装　暑い気候でも快適に過ごせるよう、薄手の素材を用い、
+風通しのよい作りになっている　丈は砂上での足捌きを考慮し、細かく調整されている</original>
+			<edited>ソルムの貴族が着る衣装　暑い気候でも快適に過ごせるよう、薄手の素材を用い、
+風通しのよい作りになっている　丈は砂上での足捌きを考慮し、細かく調整されている</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumFormal1F" offset="00" relocatable="true" max_length="0">
+			<original>太陽のドーティ</original>
+			<edited>太陽のドーティ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SolumFormal1F" offset="00" relocatable="true" max_length="0">
+			<original>ソルムの貴族が着る衣装　暑い気候でも快適に過ごせるよう、薄手の素材を用い、
+風通しのよい作りになっている　砂漠に出る時はこの上に、日除けのローブを羽織る</original>
+			<edited>ソルムの貴族が着る衣装　暑い気候でも快適に過ごせるよう、薄手の素材を用い、
+風通しのよい作りになっている　砂漠に出る時はこの上に、日除けのローブを羽織る</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumFormal2" offset="00" relocatable="true" max_length="0">
+			<original>夜明けペアセット</original>
+			<edited>夜明けペアセット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SolumFormal2" offset="00" relocatable="true" max_length="0">
+			<original>ソルムの貴族が着る衣装　宴や人の集まる場で着られ、派手であればあるほど
+「楽土への道が開く」と言われ喜ばれる【男女ペアのセット】</original>
+			<edited>ソルムの貴族が着る衣装　宴や人の集まる場で着られ、派手であればあるほど
+「楽土への道が開く」と言われ喜ばれる【男女ペアのセット】</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumFormal2M" offset="00" relocatable="true" max_length="0">
+			<original>夜明けのジレ</original>
+			<edited>夜明けのジレ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SolumFormal2M" offset="00" relocatable="true" max_length="0">
+			<original>ソルムの貴族が着る衣装　宴や人の集まる場で着られ、派手であればあるほど
+「楽土への道が開く」と言われている　宴の後、この姿で朝焼けの砂漠を歩く者も多い</original>
+			<edited>ソルムの貴族が着る衣装　宴や人の集まる場で着られ、派手であればあるほど
+「楽土への道が開く」と言われている　宴の後、この姿で朝焼けの砂漠を歩く者も多い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumFormal2F" offset="00" relocatable="true" max_length="0">
+			<original>夜明けのドーティ</original>
+			<edited>夜明けのドーティ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SolumFormal2F" offset="00" relocatable="true" max_length="0">
+			<original>ソルムの貴族が着る衣装　宴や人の集まる場で着られ、派手であればあるほど
+「楽土への道が開く」と言われている　鮮やかな色使いはダンス中の見栄えも良い</original>
+			<edited>ソルムの貴族が着る衣装　宴や人の集まる場で着られ、派手であればあるほど
+「楽土への道が開く」と言われている　鮮やかな色使いはダンス中の見栄えも良い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumFormal3" offset="00" relocatable="true" max_length="0">
+			<original>夕暮れペアセット</original>
+			<edited>夕暮れペアセット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumFormal3M" offset="00" relocatable="true" max_length="0">
+			<original>夕暮れのジレ</original>
+			<edited>夕暮れのジレ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SolumFormal3M" offset="00" relocatable="true" max_length="0">
+			<original>ソルムから友好の証に贈られた伝統ある衣装　ソルムで人気の物語に登場する、
+王子の服を模している　「永遠の富が得られる」と言われ、国外でも高値で取引される</original>
+			<edited>ソルムから友好の証に贈られた伝統ある衣装　ソルムで人気の物語に登場する、
+王子の服を模している　「永遠の富が得られる」と言われ、国外でも高値で取引される</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumFormal3F" offset="00" relocatable="true" max_length="0">
+			<original>夕暮れのドーティ</original>
+			<edited>夕暮れのドーティ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SolumFormal3F" offset="00" relocatable="true" max_length="0">
+			<original>ソルムから友好の証に贈られた伝統ある衣装　ソルムで人気の物語に登場する、
+王女の服を模している　「永遠の富が得られる」と言われ、拘って手作りする者も多い</original>
+			<edited>ソルムから友好の証に贈られた伝統ある衣装　ソルムで人気の物語に登場する、
+王女の服を模している　「永遠の富が得られる」と言われ、拘って手作りする者も多い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumCasual1" offset="00" relocatable="true" max_length="0">
+			<original>夕凪ペアセット</original>
+			<edited>夕凪ペアセット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SolumCasual1" offset="00" relocatable="true" max_length="0">
+			<original>ソルムの平民が着る衣装　市場で安価に手に入る布をたっぷりと使い、
+昔ながらの巻き方や、独自の巻き方でお洒落を楽しんでいる【男女ペアのセット】</original>
+			<edited>ソルムの平民が着る衣装　市場で安価に手に入る布をたっぷりと使い、
+昔ながらの巻き方や、独自の巻き方でお洒落を楽しんでいる【男女ペアのセット】</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumCasual1M" offset="00" relocatable="true" max_length="0">
+			<original>夕凪のストール</original>
+			<edited>夕凪のストール</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SolumCasual1M" offset="00" relocatable="true" max_length="0">
+			<original>ソルムの平民が着る衣装　市場で安価に手に入る布をたっぷりと使い、
+各々の巻き方でお洒落を楽しんでいる　連れ立って布を買いに行くことは民たちの娯楽</original>
+			<edited>ソルムの平民が着る衣装　市場で安価に手に入る布をたっぷりと使い、
+各々の巻き方でお洒落を楽しんでいる　連れ立って布を買いに行くことは民たちの娯楽</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumCasual1F" offset="00" relocatable="true" max_length="0">
+			<original>夕凪のサッシュ</original>
+			<edited>夕凪のサッシュ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SolumCasual1F" offset="00" relocatable="true" max_length="0">
+			<original>ソルムの平民が着る衣装　市場で安価に手に入る布をたっぷりと使い、
+各々の巻き方でお洒落を楽しんでいる　お気に入りの色の布は、とっておきの日に巻く</original>
+			<edited>ソルムの平民が着る衣装　市場で安価に手に入る布をたっぷりと使い、
+各々の巻き方でお洒落を楽しんでいる　お気に入りの色の布は、とっておきの日に巻く</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumCasual2" offset="00" relocatable="true" max_length="0">
+			<original>熱砂ペアセット</original>
+			<edited>熱砂ペアセット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SolumCasual2" offset="00" relocatable="true" max_length="0">
+			<original>ソルムの平民が着る衣装　ソルムの人々にとって親しみ深い、砂模様の布を巻いたもの
+靴は熱さの伝わりにくい上質な素材でできている【男女ペアのセット】</original>
+			<edited>ソルムの平民が着る衣装　ソルムの人々にとって親しみ深い、砂模様の布を巻いたもの
+靴は熱さの伝わりにくい上質な素材でできている【男女ペアのセット】</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumCasual2M" offset="00" relocatable="true" max_length="0">
+			<original>熱砂のストール</original>
+			<edited>熱砂のストール</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SolumCasual2M" offset="00" relocatable="true" max_length="0">
+			<original>ソルムの平民が着る衣装　ソルムの人々にとって親しみ深い、砂模様の布を巻いたもの
+靴は熱さの伝わりにくい上質な素材でできており、昼間の外出の際に重宝される</original>
+			<edited>ソルムの平民が着る衣装　ソルムの人々にとって親しみ深い、砂模様の布を巻いたもの
+靴は熱さの伝わりにくい上質な素材でできており、昼間の外出の際に重宝される</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumCasual2F" offset="00" relocatable="true" max_length="0">
+			<original>熱砂のサッシュ</original>
+			<edited>熱砂のサッシュ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SolumCasual2F" offset="00" relocatable="true" max_length="0">
+			<original>ソルムの平民が着る衣装　ソルムの人々にとって親しみ深い、砂模様の布を巻いたもの
+靴は熱さの伝わりにくい上質な素材でできており、砂漠での長時間の歩行に適している</original>
+			<edited>ソルムの平民が着る衣装　ソルムの人々にとって親しみ深い、砂模様の布を巻いたもの
+靴は熱さの伝わりにくい上質な素材でできており、砂漠での長時間の歩行に適している</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumCasual3" offset="00" relocatable="true" max_length="0">
+			<original>砂丘ペアセット</original>
+			<edited>砂丘ペアセット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumCasual3M" offset="00" relocatable="true" max_length="0">
+			<original>砂丘のストール</original>
+			<edited>砂丘のストール</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SolumCasual3M" offset="00" relocatable="true" max_length="0">
+			<original>ソルムから友好の証に贈られた伝統ある衣装　どこまでも続く砂丘のような柄の布と
+深い夜の色を持つ服は「深く続く絆」を意味しており、宴に着ていくと喜ばれる</original>
+			<edited>ソルムから友好の証に贈られた伝統ある衣装　どこまでも続く砂丘のような柄の布と
+深い夜の色を持つ服は「深く続く絆」を意味しており、宴に着ていくと喜ばれる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SolumCasual3F" offset="00" relocatable="true" max_length="0">
+			<original>砂丘のサッシュ</original>
+			<edited>砂丘のサッシュ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SolumCasual3F" offset="00" relocatable="true" max_length="0">
+			<original>ソルムから友好の証に贈られた伝統ある衣装　どこまでも続く砂丘のような柄の布と
+深い夜の色を持つ服は「深く続く絆」を意味しており、親密な友人に贈ることも多い</original>
+			<edited>ソルムから友好の証に贈られた伝統ある衣装　どこまでも続く砂丘のような柄の布と
+深い夜の色を持つ服は「深く続く絆」を意味しており、親密な友人に贈ることも多い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionFormal1" offset="00" relocatable="true" max_length="0">
+			<original>緑玉ペアセット</original>
+			<edited>緑玉ペアセット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_IrcionFormal1" offset="00" relocatable="true" max_length="0">
+			<original>イルシオンの貴族が着る衣装　風や雪を通さない織り目の細かな生地を用い、
+厚手の裏起毛や毛皮を贅沢に使用した逸品【男女ペアのセット】</original>
+			<edited>イルシオンの貴族が着る衣装　風や雪を通さない織り目の細かな生地を用い、
+厚手の裏起毛や毛皮を贅沢に使用した逸品【男女ペアのセット】</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionFormal1M" offset="00" relocatable="true" max_length="0">
+			<original>緑玉のダッフル</original>
+			<edited>緑玉のダッフル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_IrcionFormal1M" offset="00" relocatable="true" max_length="0">
+			<original>イルシオンの貴族が着る衣装　風や雪を通さない織り目の細かな生地を用い、
+厚手の裏起毛や毛皮を贅沢に使用した逸品　ダッフルの中は薄着でも平気なほど暖かい</original>
+			<edited>イルシオンの貴族が着る衣装　風や雪を通さない織り目の細かな生地を用い、
+厚手の裏起毛や毛皮を贅沢に使用した逸品　ダッフルの中は薄着でも平気なほど暖かい</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionFormal1F" offset="00" relocatable="true" max_length="0">
+			<original>緑玉のローブ</original>
+			<edited>緑玉のローブ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_IrcionFormal1F" offset="00" relocatable="true" max_length="0">
+			<original>イルシオンの貴族が着る衣装　風や雪を通さない織り目の細かな生地を用い、
+厚手の裏起毛や毛皮を贅沢に使用した逸品　装飾のレースやボタンは手作りする者も多い</original>
+			<edited>イルシオンの貴族が着る衣装　風や雪を通さない織り目の細かな生地を用い、
+厚手の裏起毛や毛皮を贅沢に使用した逸品　装飾のレースやボタンは手作りする者も多い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionFormal2" offset="00" relocatable="true" max_length="0">
+			<original>毛糸ペアセット</original>
+			<edited>毛糸ペアセット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_IrcionFormal2" offset="00" relocatable="true" max_length="0">
+			<original>イルシオンの貴族が着る衣装　毛糸を幾重にも編み込む伝統技法で作られた上着は、
+一着作るのに数か月もの時間がかかる【男女ペアのセット】</original>
+			<edited>イルシオンの貴族が着る衣装　毛糸を幾重にも編み込む伝統技法で作られた上着は、
+一着作るのに数か月もの時間がかかる【男女ペアのセット】</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionFormal2M" offset="00" relocatable="true" max_length="0">
+			<original>毛糸のダッフル</original>
+			<edited>毛糸のダッフル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_IrcionFormal2M" offset="00" relocatable="true" max_length="0">
+			<original>イルシオンの貴族が着る衣装　毛糸を幾重にも編み込む伝統技法で作られた上着は、
+一着作るのに数か月かかる　値は跳ね上がるが、仕上げに雨除けの術をかけたものもある</original>
+			<edited>イルシオンの貴族が着る衣装　毛糸を幾重にも編み込む伝統技法で作られた上着は、
+一着作るのに数か月かかる　値は跳ね上がるが、仕上げに雨除けの術をかけたものもある</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionFormal2F" offset="00" relocatable="true" max_length="0">
+			<original>毛糸のローブ</original>
+			<edited>毛糸のローブ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_IrcionFormal2F" offset="00" relocatable="true" max_length="0">
+			<original>イルシオンの貴族が着る衣装　毛糸を幾重にも編み込む伝統技法で作られた上着は、
+一着作るのに数か月かかる　特に人気の店だと、予約から完成まで数年待ちとなることも</original>
+			<edited>イルシオンの貴族が着る衣装　毛糸を幾重にも編み込む伝統技法で作られた上着は、
+一着作るのに数か月かかる　特に人気の店だと、予約から完成まで数年待ちとなることも</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionFormal3" offset="00" relocatable="true" max_length="0">
+			<original>星空ペアセット</original>
+			<edited>星空ペアセット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionFormal3M" offset="00" relocatable="true" max_length="0">
+			<original>星空のダッフル</original>
+			<edited>星空のダッフル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_IrcionFormal3M" offset="00" relocatable="true" max_length="0">
+			<original>イルシオンから友好の証に贈られた伝統ある衣装　金糸や革で冴えた星空を表現している
+技術の粋を集めて作られ、市場に出回らない希少性から、博物館にも寄贈されている</original>
+			<edited>イルシオンから友好の証に贈られた伝統ある衣装　金糸や革で冴えた星空を表現している
+技術の粋を集めて作られ、市場に出回らない希少性から、博物館にも寄贈されている</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionFormal3F" offset="00" relocatable="true" max_length="0">
+			<original>星空のローブ</original>
+			<edited>星空のローブ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_IrcionFormal3F" offset="00" relocatable="true" max_length="0">
+			<original>イルシオンから友好の証に贈られた伝統ある衣装　金糸や革で冴えた星空を表現している
+技術の粋を集めて作られ、市場に出回らない希少性から、所持すれば願いが叶うとされる</original>
+			<edited>イルシオンから友好の証に贈られた伝統ある衣装　金糸や革で冴えた星空を表現している
+技術の粋を集めて作られ、市場に出回らない希少性から、所持すれば願いが叶うとされる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionCasual1" offset="00" relocatable="true" max_length="0">
+			<original>榕樹ペアセット</original>
+			<edited>榕樹ペアセット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_IrcionCasual1" offset="00" relocatable="true" max_length="0">
+			<original>イルシオンの平民が着る衣装　森で野生の動物に遭遇しても隠れることができるよう、
+深い緑色で全身が統一されている【男女ペアのセット】</original>
+			<edited>イルシオンの平民が着る衣装　森で野生の動物に遭遇しても隠れることができるよう、
+深い緑色で全身が統一されている【男女ペアのセット】</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionCasual1M" offset="00" relocatable="true" max_length="0">
+			<original>榕樹のインバネス</original>
+			<edited>榕樹のインバネス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_IrcionCasual1M" offset="00" relocatable="true" max_length="0">
+			<original>イルシオンの平民が着る衣装　森で野生の動物に遭遇しても隠れることができるよう、
+深い緑色で全身が統一されている　きこりを生業とする者が着ていることが多い</original>
+			<edited>イルシオンの平民が着る衣装　森で野生の動物に遭遇しても隠れることができるよう、
+深い緑色で全身が統一されている　きこりを生業とする者が着ていることが多い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionCasual1F" offset="00" relocatable="true" max_length="0">
+			<original>榕樹のマフラー</original>
+			<edited>榕樹のマフラー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_IrcionCasual1F" offset="00" relocatable="true" max_length="0">
+			<original>イルシオンの平民が着る衣装　森で野生の動物に遭遇しても隠れることができるよう、
+深い緑色で全身が統一されている　マフラーの文様はイルシオンに伝わる最古のもの</original>
+			<edited>イルシオンの平民が着る衣装　森で野生の動物に遭遇しても隠れることができるよう、
+深い緑色で全身が統一されている　マフラーの文様はイルシオンに伝わる最古のもの</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionCasual2" offset="00" relocatable="true" max_length="0">
+			<original>若草ペアセット</original>
+			<edited>若草ペアセット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_IrcionCasual2" offset="00" relocatable="true" max_length="0">
+			<original>イルシオンの平民が着る衣装　四色の布を組み合わせる伝統的な技術を用いている
+仕上がった格子の文様は色を問わず「新生」を示す縁起物となる【男女ペアのセット】</original>
+			<edited>イルシオンの平民が着る衣装　四色の布を組み合わせる伝統的な技術を用いている
+仕上がった格子の文様は色を問わず「新生」を示す縁起物となる【男女ペアのセット】</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionCasual2M" offset="00" relocatable="true" max_length="0">
+			<original>若草のインバネス</original>
+			<edited>若草のインバネス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_IrcionCasual2M" offset="00" relocatable="true" max_length="0">
+			<original>イルシオンの平民が着る衣装　四色の布を組み合わせる伝統的な技術を用いている
+「新生」を示す縁起物とされ、イルシオンの短い春の間、この衣装を好んで着る者が多い</original>
+			<edited>イルシオンの平民が着る衣装　四色の布を組み合わせる伝統的な技術を用いている
+「新生」を示す縁起物とされ、イルシオンの短い春の間、この衣装を好んで着る者が多い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionCasual2F" offset="00" relocatable="true" max_length="0">
+			<original>若草のマフラー</original>
+			<edited>若草のマフラー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_IrcionCasual2F" offset="00" relocatable="true" max_length="0">
+			<original>イルシオンの平民が着る衣装　四色の布を組み合わせる伝統的な技術を用いている
+「新生」を示す縁起物とされ、贈り物にも適す　特徴的なマフラーは長めの物が好まれる</original>
+			<edited>イルシオンの平民が着る衣装　四色の布を組み合わせる伝統的な技術を用いている
+「新生」を示す縁起物とされ、贈り物にも適す　特徴的なマフラーは長めの物が好まれる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionCasual3" offset="00" relocatable="true" max_length="0">
+			<original>雪原ペアセット</original>
+			<edited>雪原ペアセット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionCasual3M" offset="00" relocatable="true" max_length="0">
+			<original>雪原のインバネス</original>
+			<edited>雪原のインバネス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_IrcionCasual3M" offset="00" relocatable="true" max_length="0">
+			<original>イルシオンから友好の証に贈られた伝統ある衣装　雪国の美しさを表現した文様は
+古代に使われた魔法陣の一部とも言われており、魔術の栄えたイルシオンを象徴している</original>
+			<edited>イルシオンから友好の証に贈られた伝統ある衣装　雪国の美しさを表現した文様は
+古代に使われた魔法陣の一部とも言われており、魔術の栄えたイルシオンを象徴している</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_IrcionCasual3F" offset="00" relocatable="true" max_length="0">
+			<original>雪原のマフラー</original>
+			<edited>雪原のマフラー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_IrcionCasual3F" offset="00" relocatable="true" max_length="0">
+			<original>イルシオンから友好の証に贈られた伝統ある衣装　マフラーの鮮やかな青緑色は
+雪原に立つ針葉樹の皮と、古代より伝わる魔術を組み合わせることで染められている</original>
+			<edited>イルシオンから友好の証に贈られた伝統ある衣装　マフラーの鮮やかな青緑色は
+雪原に立つ針葉樹の皮と、古代より伝わる魔術を組み合わせることで染められている</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_LithosFormal1" offset="00" relocatable="true" max_length="0">
+			<original>白花ペアセット</original>
+			<edited>白花ペアセット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_LithosFormal1" offset="00" relocatable="true" max_length="0">
+			<original>リトスの神職者が着る衣装　教会で過ごす事が多いため、ほぼ普段着として着られている
+施された繊細な文様は、神竜への敬意を示す【男女ペアのセット】</original>
+			<edited>リトスの神職者が着る衣装　教会で過ごす事が多いため、ほぼ普段着として着られている
+施された繊細な文様は、神竜への敬意を示す【男女ペアのセット】</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_LithosFormal1M" offset="00" relocatable="true" max_length="0">
+			<original>白花のカソック</original>
+			<edited>白花のカソック</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_LithosFormal1M" offset="00" relocatable="true" max_length="0">
+			<original>リトスの神職者が着る衣装　教会で過ごす事が多いため、ほぼ普段着として着られている
+繊細な文様は神竜への敬意を示し、信徒が祈りを捧げた金糸により施される</original>
+			<edited>リトスの神職者が着る衣装　教会で過ごす事が多いため、ほぼ普段着として着られている
+繊細な文様は神竜への敬意を示し、信徒が祈りを捧げた金糸により施される</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_LithosFormal1F" offset="00" relocatable="true" max_length="0">
+			<original>白花のドレス</original>
+			<edited>白花のドレス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_LithosFormal1F" offset="00" relocatable="true" max_length="0">
+			<original>リトスの神職者が着る衣装　教会で過ごす事が多いため、ほぼ普段着として着られている
+繊細な文様は神竜への敬意を示し、刺繍を施す際は身を清めてから行われる</original>
+			<edited>リトスの神職者が着る衣装　教会で過ごす事が多いため、ほぼ普段着として着られている
+繊細な文様は神竜への敬意を示し、刺繍を施す際は身を清めてから行われる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_LithosFormal2" offset="00" relocatable="true" max_length="0">
+			<original>氷面ペアセット</original>
+			<edited>氷面ペアセット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_LithosFormal2" offset="00" relocatable="true" max_length="0">
+			<original>リトスの神職者が着る衣装　鏡のような加工はリトスでのみ見られる特殊なもので、
+光を反射して神秘的に輝く【男女ペアのセット】</original>
+			<edited>リトスの神職者が着る衣装　鏡のような加工はリトスでのみ見られる特殊なもので、
+光を反射して神秘的に輝く【男女ペアのセット】</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_LithosFormal2M" offset="00" relocatable="true" max_length="0">
+			<original>氷面のカソック</original>
+			<edited>氷面のカソック</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_LithosFormal2M" offset="00" relocatable="true" max_length="0">
+			<original>リトスの神職者が着る衣装　鏡のような加工はリトスでのみ見られる特殊なもので、
+光を反射して神秘的に輝く　見た目に反して適度に柔らかく、着心地はとても良い</original>
+			<edited>リトスの神職者が着る衣装　鏡のような加工はリトスでのみ見られる特殊なもので、
+光を反射して神秘的に輝く　見た目に反して適度に柔らかく、着心地はとても良い</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_LithosFormal2F" offset="00" relocatable="true" max_length="0">
+			<original>氷面のドレス</original>
+			<edited>氷面のドレス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_LithosFormal2F" offset="00" relocatable="true" max_length="0">
+			<original>リトスの神職者が着る衣装　鏡のような加工はリトスでのみ見られる特殊なもので、
+光を反射して神秘的に輝く　祝い事の日に着ることが多く、労働には不向き</original>
+			<edited>リトスの神職者が着る衣装　鏡のような加工はリトスでのみ見られる特殊なもので、
+光を反射して神秘的に輝く　祝い事の日に着ることが多く、労働には不向き</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_LithosFormal3" offset="00" relocatable="true" max_length="0">
+			<original>水底ペアセット</original>
+			<edited>水底ペアセット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_LithosFormal3" offset="00" relocatable="true" max_length="0">
+			<original>リトスの神職者が着る衣装　生地の深い青色には神竜の力と加護が宿るとされる
+前面の文様は「調和」を意味し、千年の歴史を持つ【男女ペアのセット】</original>
+			<edited>リトスの神職者が着る衣装　生地の深い青色には神竜の力と加護が宿るとされる
+前面の文様は「調和」を意味し、千年の歴史を持つ【男女ペアのセット】</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_LithosFormal3M" offset="00" relocatable="true" max_length="0">
+			<original>水底のカソック</original>
+			<edited>水底のカソック</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_LithosFormal3M" offset="00" relocatable="true" max_length="0">
+			<original>リトスの神職者が着る衣装　生地の深い青色には神竜の力と加護が宿るとされる
+前面の文様は「調和」を意味し、千年前の戦の鎮魂と、紋章士への敬意が込められている</original>
+			<edited>リトスの神職者が着る衣装　生地の深い青色には神竜の力と加護が宿るとされる
+前面の文様は「調和」を意味し、千年前の戦の鎮魂と、紋章士への敬意が込められている</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_LithosFormal3F" offset="00" relocatable="true" max_length="0">
+			<original>水底のドレス</original>
+			<edited>水底のドレス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_LithosFormal3F" offset="00" relocatable="true" max_length="0">
+			<original>リトスの神職者が着る衣装　生地の深い青色には神竜の力と加護が宿るとされる
+前面の文様は「調和」を意味し、千年前の戦を生き抜いた民たちの祈りが込められている</original>
+			<edited>リトスの神職者が着る衣装　生地の深い青色には神竜の力と加護が宿るとされる
+前面の文様は「調和」を意味し、千年前の戦を生き抜いた民たちの祈りが込められている</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Swimwear1" offset="00" relocatable="true" max_length="0">
+			<original>シンプル水着ペアセット</original>
+			<edited>シンプル水着ペアセット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Swimwear1" offset="00" relocatable="true" max_length="0">
+			<original>シンプルな水着　水の抵抗が少なめで、泳ぎを楽しみたい人に向いている
+肉体美を引き立たせる各種装飾が特徴【男女ペアのセット】</original>
+			<edited>シンプルな水着　水の抵抗が少なめで、泳ぎを楽しみたい人に向いている
+肉体美を引き立たせる各種装飾が特徴【男女ペアのセット】</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Swimwear1M" offset="00" relocatable="true" max_length="0">
+			<original>短パン水着</original>
+			<edited>短パン水着</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Swimwear1M" offset="00" relocatable="true" max_length="0">
+			<original>短パン型の水着　水の抵抗が少なめで、泳ぎを楽しみたい人に向いている
+肉体美を引き立たせるネックレスが特徴　リボンはパンツにしっかり縫い付けられている</original>
+			<edited>短パン型の水着　水の抵抗が少なめで、泳ぎを楽しみたい人に向いている
+肉体美を引き立たせるネックレスが特徴　リボンはパンツにしっかり縫い付けられている</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Swimwear1F" offset="00" relocatable="true" max_length="0">
+			<original>パレオの水着</original>
+			<edited>パレオの水着</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Swimwear1F" offset="00" relocatable="true" max_length="0">
+			<original>パレオの付いた水着　水の抵抗が少なめで、泳ぎを楽しみたい人に向いている
+さりげないガーターリングが特徴　色の種類が豊富で、似合う一着が必ず見つかる</original>
+			<edited>パレオの付いた水着　水の抵抗が少なめで、泳ぎを楽しみたい人に向いている
+さりげないガーターリングが特徴　色の種類が豊富で、似合う一着が必ず見つかる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Swimwear2" offset="00" relocatable="true" max_length="0">
+			<original>大人水着ペアセット</original>
+			<edited>大人水着ペアセット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Swimwear2" offset="00" relocatable="true" max_length="0">
+			<original>肌の露出が比較的少ない水着　軽くて乾きやすい素材で快適に過ごせる
+トレーニングや日光浴など、泳ぐ以外の時間も楽しめる【男女ペアのセット】</original>
+			<edited>肌の露出が比較的少ない水着　軽くて乾きやすい素材で快適に過ごせる
+トレーニングや日光浴など、泳ぐ以外の時間も楽しめる【男女ペアのセット】</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Swimwear2M" offset="00" relocatable="true" max_length="0">
+			<original>シャツ付き水着</original>
+			<edited>シャツ付き水着</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Swimwear2M" offset="00" relocatable="true" max_length="0">
+			<original>シャツ付きで露出が少ない水着　肌触りがよく、トレーニングや日光浴にも最適
+シャツは乾きやすい素材が使われており、そのまま水を浴びても重たくならない</original>
+			<edited>シャツ付きで露出が少ない水着　肌触りがよく、トレーニングや日光浴にも最適
+シャツは乾きやすい素材が使われており、そのまま水を浴びても重たくならない</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Swimwear2F" offset="00" relocatable="true" max_length="0">
+			<original>フレアの水着</original>
+			<edited>フレアの水着</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Swimwear2F" offset="00" relocatable="true" max_length="0">
+			<original>胸元にふわりとした布が使われた水着　肌触りがよく、トレーニングや日光浴にも最適
+日焼けの痕が特徴的になりがちなので、長時間の日光浴ではお腹に布をかけておきたい</original>
+			<edited>胸元にふわりとした布が使われた水着　肌触りがよく、トレーニングや日光浴にも最適
+日焼けの痕が特徴的になりがちなので、長時間の日光浴ではお腹に布をかけておきたい</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Swimwear3" offset="00" relocatable="true" max_length="0">
+			<original>若者水着ペアセット</original>
+			<edited>若者水着ペアセット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Swimwear3" offset="00" relocatable="true" max_length="0">
+			<original>はじける若々しさを感じる水着　ひと味違う自分を演出できる
+これを着て仲間と集まれば、盛り上がること間違いなし【男女ペアのセット】</original>
+			<edited>はじける若々しさを感じる水着　ひと味違う自分を演出できる
+これを着て仲間と集まれば、盛り上がること間違いなし【男女ペアのセット】</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Swimwear3M" offset="00" relocatable="true" max_length="0">
+			<original>花輪の水着</original>
+			<edited>花輪の水着</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Swimwear3M" offset="00" relocatable="true" max_length="0">
+			<original>はじける若々しさを感じる水着　ひと味違う自分を演出できる
+気分を盛り上げてくれる花輪は、南国に咲く生花を用いており、何故かとても枯れにくい</original>
+			<edited>はじける若々しさを感じる水着　ひと味違う自分を演出できる
+気分を盛り上げてくれる花輪は、南国に咲く生花を用いており、何故かとても枯れにくい</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Swimwear3F" offset="00" relocatable="true" max_length="0">
+			<original>リボンの水着</original>
+			<edited>リボンの水着</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Swimwear3F" offset="00" relocatable="true" max_length="0">
+			<original>はじける若々しさを感じる水着　ひと味違う自分を演出できる
+気分を盛り上げてくれる大きな胸のリボンは、可憐な見た目に反してものすごく丈夫</original>
+			<edited>はじける若々しさを感じる水着　ひと味違う自分を演出できる
+気分を盛り上げてくれる大きな胸のリボンは、可憐な見た目に反してものすごく丈夫</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Exercisewear" offset="00" relocatable="true" max_length="0">
+			<original>鍛錬着</original>
+			<edited>鍛錬着</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Exercisewear" offset="00" relocatable="true" max_length="0">
+			<original>鍛錬に特化した衣装　アクセサリー屋が考案した、どの国にもない独特の雰囲気の服
+良く伸び、丈夫で、汗を素早く吸い取るため、快適に鍛錬に打ち込むことができる</original>
+			<edited>鍛錬に特化した衣装　アクセサリー屋が考案した、どの国にもない独特の雰囲気の服
+良く伸び、丈夫で、汗を素早く吸い取るため、快適に鍛錬に打ち込むことができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_NormalGlasses" offset="00" relocatable="true" max_length="0">
+			<original>ノーマルメガネ</original>
+			<edited>ノーマルメガネ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_NormalGlasses" offset="00" relocatable="true" max_length="0">
+			<original>シンプルなメガネ　古くからガラス細工などの工芸技術が発達していたイルシオンが
+発祥と言われており、レンズ部分は澄んだ氷のように磨かれている</original>
+			<edited>シンプルなメガネ　古くからガラス細工などの工芸技術が発達していたイルシオンが
+発祥と言われており、レンズ部分は澄んだ氷のように磨かれている</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_LowerEdgeGlasses" offset="00" relocatable="true" max_length="0">
+			<original>四角い下縁メガネ</original>
+			<edited>四角い下縁メガネ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_LowerEdgeGlasses" offset="00" relocatable="true" max_length="0">
+			<original>上を見ても、縁が邪魔にならないよう工夫されたメガネ
+目元をきちんと見せたい時に便利　かけていると、どことなく知的に見える</original>
+			<edited>上を見ても、縁が邪魔にならないよう工夫されたメガネ
+目元をきちんと見せたい時に便利　かけていると、どことなく知的に見える</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BigSunglasses" offset="00" relocatable="true" max_length="0">
+			<original>大きいサングラス</original>
+			<edited>大きいサングラス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BigSunglasses" offset="00" relocatable="true" max_length="0">
+			<original>日光を遮ることができるメガネ　レンズに濃い色が付いているのが特徴
+目元が殆ど見えなくなるため、変装に使われることもある</original>
+			<edited>日光を遮ることができるメガネ　レンズに濃い色が付いているのが特徴
+目元が殆ど見えなくなるため、変装に使われることもある</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_BlackTabbyGlasses" offset="00" relocatable="true" max_length="0">
+			<original>太い黒縁メガネ</original>
+			<edited>太い黒縁メガネ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_BlackTabbyGlasses" offset="00" relocatable="true" max_length="0">
+			<original>縁が太く重量のあるメガネ　長時間かけていると耳が痛くなってくるが、
+メガネの印象をしっかり与えることができる　イメージチェンジが目的の人におすすめ</original>
+			<edited>縁が太く重量のあるメガネ　長時間かけていると耳が痛くなってくるが、
+メガネの印象をしっかり与えることができる　イメージチェンジが目的の人におすすめ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_ColoredSunglasses" offset="00" relocatable="true" max_length="0">
+			<original>色付きサングラス</original>
+			<edited>色付きサングラス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_ColoredSunglasses" offset="00" relocatable="true" max_length="0">
+			<original>レンズに茶色のグラデーションが施され、縁が金色になっている高級感溢れるメガネ
+気になる日光を軽減しつつ、お洒落をすることが目的の人におすすめ</original>
+			<edited>レンズに茶色のグラデーションが施され、縁が金色になっている高級感溢れるメガネ
+気になる日光を軽減しつつ、お洒落をすることが目的の人におすすめ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_SkullMask" offset="00" relocatable="true" max_length="0">
+			<original>スカルマスク</original>
+			<edited>スカルマスク</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_SkullMask" offset="00" relocatable="true" max_length="0">
+			<original>骸骨を模したマスク　発祥はソルムと言われており、これはかなりシンプルなほう
+ソルムではマスクに思い思いの派手な文様を描き、それを被って盛り上がる祭事がある</original>
+			<edited>骸骨を模したマスク　発祥はソルムと言われており、これはかなりシンプルなほう
+ソルムではマスクに思い思いの派手な文様を描き、それを被って盛り上がる祭事がある</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_FancyDressMask" offset="00" relocatable="true" max_length="0">
+			<original>仮装マスク</original>
+			<edited>仮装マスク</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_FancyDressMask" offset="00" relocatable="true" max_length="0">
+			<original>仮装を楽しむ宴の際、顔を隠すために使うマスクを模したもの
+発祥はフィレネで、身分の違う者同士が平和的に交流するために用いられたという</original>
+			<edited>仮装を楽しむ宴の際、顔を隠すために使うマスクを模したもの
+発祥はフィレネで、身分の違う者同士が平和的に交流するために用いられたという</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Eyepatch" offset="00" relocatable="true" max_length="0">
+			<original>眼帯</original>
+			<edited>眼帯</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Eyepatch" offset="00" relocatable="true" max_length="0">
+			<original>片目のみを隠す装飾品　身に着けると不思議な雰囲気を纏うことができる
+発祥はブロディアで、戦の際、目の怪我を隠すために着けたのが始まりと言われている</original>
+			<edited>片目のみを隠す装飾品　身に着けると不思議な雰囲気を纏うことができる
+発祥はブロディアで、戦の際、目の怪我を隠すために着けたのが始まりと言われている</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Mascot_SilkHat" offset="00" relocatable="true" max_length="0">
+			<original>しんしのぼうし</original>
+			<edited>しんしのぼうし</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Mascot_SilkHat" offset="00" relocatable="true" max_length="0">
+			<original>みんなに優しい、大人の紳士が被っていそうな格式高い帽子
+落ち着いた雰囲気で姿勢がよくなったようにも見える　高級なお店に入ることもできそう</original>
+			<edited>みんなに優しい、大人の紳士が被っていそうな格式高い帽子
+落ち着いた雰囲気で姿勢がよくなったようにも見える　高級なお店に入ることもできそう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Mascot_Sunglasses" offset="00" relocatable="true" max_length="0">
+			<original>くろめがね</original>
+			<edited>くろめがね</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Mascot_Sunglasses" offset="00" relocatable="true" max_length="0">
+			<original>プールサイドでの日光浴をクールに楽しむ、バカンスには欠かせないアイテム
+持ち前の可愛さを隠すビッグサイズで、守り神の格好よさを最大限に演出してくれる</original>
+			<edited>プールサイドでの日光浴をクールに楽しむ、バカンスには欠かせないアイテム
+持ち前の可愛さを隠すビッグサイズで、守り神の格好よさを最大限に演出してくれる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Mascot_Flower" offset="00" relocatable="true" max_length="0">
+			<original>おはなのかんむり</original>
+			<edited>おはなのかんむり</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Mascot_Flower" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x5;&#x0;がよくお昼寝している花畑の花を摘んで作った冠
+みんなの疲れを癒すような、心安らぐいい香りを振りまいてくれる</original>
+			<edited>&#xE;&#x6;&#x5;&#x0;がよくお昼寝している花畑の花を摘んで作った冠
+みんなの疲れを癒すような、心安らぐいい香りを振りまいてくれる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Mascot_Wig" offset="00" relocatable="true" max_length="0">
+			<original>おそろいのかみ</original>
+			<edited>おそろいのかみ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Mascot_Wig" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x3;&#x0;の髪型を模した、おそろいの姿
+似合っているかどうかはさておき、&#xE;&#x6;&#x5;&#x0;はとても嬉しそうにしている</original>
+			<edited>&#xE;&#x6;&#x3;&#x0;の髪型を模した、おそろいの姿
+似合っているかどうかはさておき、&#xE;&#x6;&#x5;&#x0;はとても嬉しそうにしている</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Mascot_Eyebrows" offset="00" relocatable="true" max_length="0">
+			<original>おマユ</original>
+			<edited>おマユ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Mascot_Eyebrows" offset="00" relocatable="true" max_length="0">
+			<original>とても凛々しいおマユ　目力が格段に上がっている
+これを着けていれば、表情だけで&#xE;&#x6;&#x5;&#x0;の気持ちが分かるかもしれない</original>
+			<edited>とても凛々しいおマユ　目力が格段に上がっている
+これを着けていれば、表情だけで&#xE;&#x6;&#x5;&#x0;の気持ちが分かるかもしれない</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Mascot_Butterfly" offset="00" relocatable="true" max_length="0">
+			<original>ちょうちょ</original>
+			<edited>ちょうちょ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Mascot_Butterfly" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x5;&#x0;が追いかけていた蝶が、いつの間にか尻尾に止まって離れなくなった
+いくら動いても離れようとしないので、本物かどうか少し怪しくなってきている</original>
+			<edited>&#xE;&#x6;&#x5;&#x0;が追いかけていた蝶が、いつの間にか尻尾に止まって離れなくなった
+いくら動いても離れようとしないので、本物かどうか少し怪しくなってきている</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Mascot_Ribbon" offset="00" relocatable="true" max_length="0">
+			<original>おしリボン</original>
+			<edited>おしリボン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Mascot_Ribbon" offset="00" relocatable="true" max_length="0">
+			<original>キュートなおしりにしっかり結び付けたリボン　軽い素材でできており、負担が全くない
+&#xE;&#x6;&#x5;&#x0;自身も忘れたころ、ふと見えたリボンに驚く様子が目撃できる</original>
+			<edited>キュートなおしりにしっかり結び付けたリボン　軽い素材でできており、負担が全くない
+&#xE;&#x6;&#x5;&#x0;自身も忘れたころ、ふと見えたリボンに驚く様子が目撃できる</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Mascot_Bell" offset="00" relocatable="true" max_length="0">
+			<original>すずひもリボン</original>
+			<edited>すずひもリボン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Mascot_Bell" offset="00" relocatable="true" max_length="0">
+			<original>鈴が付いた赤と白のひもリボン　お祭りのようで、めでたい雰囲気
+動くたびにシャンシャンと音が鳴って、歩いたり走ったりするのが楽しくなりそう</original>
+			<edited>鈴が付いた赤と白のひもリボン　お祭りのようで、めでたい雰囲気
+動くたびにシャンシャンと音が鳴って、歩いたり走ったりするのが楽しくなりそう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Mascot_Feather" offset="00" relocatable="true" max_length="0">
+			<original>ふわふわのはね</original>
+			<edited>ふわふわのはね</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Mascot_Feather" offset="00" relocatable="true" max_length="0">
+			<original>ふわふわしていて、どこまでも飛べそうな作り物のはね
+着けている間は本当に飛べると思っているようで、崖から飛び出そうとするので危ない</original>
+			<edited>ふわふわしていて、どこまでも飛べそうな作り物のはね
+着けている間は本当に飛べると思っているようで、崖から飛び出そうとするので危ない</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Mascot_BackAcce" offset="00" relocatable="true" max_length="0">
+			<original>まもりのせいそう</original>
+			<edited>まもりのせいそう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Mascot_BackAcce" offset="00" relocatable="true" max_length="0">
+			<original>神竜族の正装と同じもので、守り神専用に大きさなどが調整されている
+着けている間はどこか誇らしそうで、時折、懐かしそうでもある</original>
+			<edited>神竜族の正装と同じもので、守り神専用に大きさなどが調整されている
+着けている間はどこか誇らしそうで、時折、懐かしそうでもある</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Costume_Marth" offset="00" relocatable="true" max_length="0">
+			<original>英雄王の衣装</original>
+			<edited>英雄王の衣装</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Costume_Marth" offset="00" relocatable="true" max_length="0">
+			<original>高潔な英雄の中の英雄である
+『始まりの紋章士』マルスの装いを模した衣装</original>
+			<edited>高潔な英雄の中の英雄である
+『始まりの紋章士』マルスの装いを模した衣装</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Costume_Siglud" offset="00" relocatable="true" max_length="0">
+			<original>聖騎士の衣装</original>
+			<edited>聖騎士の衣装</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Costume_Siglud" offset="00" relocatable="true" max_length="0">
+			<original>聖戦士の血を引く騎士である
+『聖戦の紋章士』シグルドの装いを模した衣装</original>
+			<edited>聖戦士の血を引く騎士である
+『聖戦の紋章士』シグルドの装いを模した衣装</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Costume_Celica" offset="00" relocatable="true" max_length="0">
+			<original>慈愛の王女の衣装</original>
+			<edited>慈愛の王女の衣装</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Costume_Celica" offset="00" relocatable="true" max_length="0">
+			<original>豊穣の国の王女である
+『響きの紋章士』セリカの装いを模した衣装</original>
+			<edited>豊穣の国の王女である
+『響きの紋章士』セリカの装いを模した衣装</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Costume_Micaiah" offset="00" relocatable="true" max_length="0">
+			<original>暁の巫女の衣装</original>
+			<edited>暁の巫女の衣装</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Costume_Micaiah" offset="00" relocatable="true" max_length="0">
+			<original>不思議な力を持つ巫女である
+『暁の紋章士』ミカヤの装いを模した衣装</original>
+			<edited>不思議な力を持つ巫女である
+『暁の紋章士』ミカヤの装いを模した衣装</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Costume_Roy" offset="00" relocatable="true" max_length="0">
+			<original>若き獅子の衣装</original>
+			<edited>若き獅子の衣装</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Costume_Roy" offset="00" relocatable="true" max_length="0">
+			<original>勇敢で才知に長けた公子である
+『封印の紋章士』ロイの装いを模した衣装</original>
+			<edited>勇敢で才知に長けた公子である
+『封印の紋章士』ロイの装いを模した衣装</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Costume_Lin" offset="00" relocatable="true" max_length="0">
+			<original>草原の公女の衣装</original>
+			<edited>草原の公女の衣装</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Costume_Lin" offset="00" relocatable="true" max_length="0">
+			<original>遊牧民にして凄腕の剣士である
+『烈火の紋章士』リンの装いを模した衣装</original>
+			<edited>遊牧民にして凄腕の剣士である
+『烈火の紋章士』リンの装いを模した衣装</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Costume_Ike" offset="00" relocatable="true" max_length="0">
+			<original>蒼炎の勇者の衣装</original>
+			<edited>蒼炎の勇者の衣装</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Costume_Ike" offset="00" relocatable="true" max_length="0">
+			<original>戦技に長けた傭兵団長である
+『蒼炎の紋章士』アイクの装いを模した衣装</original>
+			<edited>戦技に長けた傭兵団長である
+『蒼炎の紋章士』アイクの装いを模した衣装</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Costume_Lucina" offset="00" relocatable="true" max_length="0">
+			<original>聖王女の衣装</original>
+			<edited>聖王女の衣装</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Costume_Lucina" offset="00" relocatable="true" max_length="0">
+			<original>絶望に屈しない聖なる王女である
+『覚醒の紋章士』ルキナの装いを模した衣装</original>
+			<edited>絶望に屈しない聖なる王女である
+『覚醒の紋章士』ルキナの装いを模した衣装</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Costume_Leaf" offset="00" relocatable="true" max_length="0">
+			<original>賢王の衣装</original>
+			<edited>賢王の衣装</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Costume_Leaf" offset="00" relocatable="true" max_length="0">
+			<original>二人の聖戦士の血を引く王子である
+『系譜の紋章士』リーフの装いを模した衣装</original>
+			<edited>二人の聖戦士の血を引く王子である
+『系譜の紋章士』リーフの装いを模した衣装</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Costume_Kamui" offset="00" relocatable="true" max_length="0">
+			<original>未来を選びし者の衣装</original>
+			<edited>未来を選びし者の衣装</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Costume_Kamui" offset="00" relocatable="true" max_length="0">
+			<original>神祖竜の血を引く王族である
+『選択の紋章士』カムイの装いを模した衣装</original>
+			<edited>神祖竜の血を引く王族である
+『選択の紋章士』カムイの装いを模した衣装</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Costume_Eirik" offset="00" relocatable="true" max_length="0">
+			<original>碧き風空の衣装</original>
+			<edited>碧き風空の衣装</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Costume_Eirik" offset="00" relocatable="true" max_length="0">
+			<original>平和の為に戦う王女である
+『聖魔の紋章士』エイリークの装いを模した衣装</original>
+			<edited>平和の為に戦う王女である
+『聖魔の紋章士』エイリークの装いを模した衣装</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_Costume_Byleth" offset="00" relocatable="true" max_length="0">
+			<original>導き手の衣装</original>
+			<edited>導き手の衣装</edited>
+			<subEntries />
+		</entry>
+		<entry name="MAID_H_Costume_Byleth" offset="00" relocatable="true" max_length="0">
+			<original>元傭兵にして士官学校の教師である
+『風花の紋章士』ベレトの装いを模した衣装</original>
+			<edited>元傭兵にして士官学校の教師である
+『風花の紋章士』ベレトの装いを模した衣装</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>
