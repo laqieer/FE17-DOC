@@ -39,11 +39,11 @@ Documentation for FE17: Fire Emblem Engage
 |GameData.csv|MID_RULE_xxx|Goal|勝利条件|战斗目标|
 |GameData.csv|MTID_xxx|Terrain|地形|地形|
 |GameData.csv|MTID_Ring_xxx|Ring|指輪|戒指|
-|HabDinner.csv|MID_HUB_Dinner_xxx|食事|吃饭|
+|HabDinner.csv|MID_HUB_Dinner_xxx|Hub dinner|食事|吃饭|
 |Hub.csv|MID_Hub_xxx|Hub activity|拠点施設|据点设施|
 |Hub.csv|MID_H_Hub_xxx|Hub activity help|拠点施設情報|据点设施描述|
 |HubCommon.csv|MID_HUB_xxx|Hub activity convo|拠点施設会話|据点设施对话|
-|HubDinner.csv|MID_HUB_Dinner_xxx|Hub dinner|拠点食事|据点吃饭|
+|HubDinner.csv|MID_HUB_Dinner_xxx|Hub dinner|食事|吃饭|
 |HubStory.csv|MID_HUB_xxx_Mooo|Chapter hub convo|章別拠点会話|章节据点对话|
 |Item.csv|MIID_xxx|Item|所持品|物品|
 |Item.csv|MIID_H_xxx|Item Help|道具説明|物品描述|

@@ -43,7 +43,7 @@ def main():
                     if re.match(r'^R_\w+_\w+.csv$', filename):
                         format_support_convo(lang, filename)
                         matched = re.findall(r'^R_(\w+)_(\w+).csv$', filename)[0]
-                        f.write('[' + get_name(lang, matched[0]) + ' & ' + get_name(lang, matched[1]) + '](https://laqieer.github.io/FE17-DOC/' + lang.name + '/' + filename.replace('.csv', '.txt') + ')\n')
+                        f.write('[' + get_name(lang, matched[0]) + ' & ' + get_name(lang, matched[1]) + '](https://laqieer.github.io/FE17-DOC/' + lang.name + '/' + filename.replace('.csv', '.txt') + ')\n\n')
 
 if __name__ == '__main__':
     main()

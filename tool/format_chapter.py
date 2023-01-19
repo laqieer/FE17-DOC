@@ -47,7 +47,7 @@ def main():
                     if re.match(r'[MS]\d{3}.csv', file):
                         chapter = file.replace('.csv', '')
                         format_chapter(lang, chapter)
-                        f.write('[' + game_data[lang.name]['MCID_' + chapter + '_PREFIX'] + ' ' + game_data[lang.name]['MCID_' + chapter] + '](https://laqieer.github.io/FE17-DOC/' + lang.name + '/' + chapter + '.txt)\n')
+                        f.write('[' + game_data[lang.name]['MCID_' + chapter + '_PREFIX'] + ' ' + game_data[lang.name]['MCID_' + chapter] + '](https://laqieer.github.io/FE17-DOC/' + lang.name + '/' + chapter + '.txt)\n\n')
 
 if __name__ == '__main__':
     main()

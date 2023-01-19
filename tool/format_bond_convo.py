@@ -53,7 +53,7 @@ def main():
                     if re.match(r'^GR_\w+.csv$', filename):
                         format_bond_convo(lang, filename)
                         matched = re.findall(r'^GR_(\w+).csv$', filename)
-                        f.write('[' + get_name(lang, matched[0]) + '](https://laqieer.github.io/FE17-DOC/' + lang.name + '/' + filename.replace('.csv', '.txt') + ')\n')
+                        f.write('[' + get_name(lang, matched[0]) + '](https://laqieer.github.io/FE17-DOC/' + lang.name + '/' + filename.replace('.csv', '.txt') + ')\n\n')
 
 if __name__ == '__main__':
     main()
