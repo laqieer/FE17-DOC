@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# Path: tool/format.py
+# Path: tool/format_csv.py
 
 import os
 import re
