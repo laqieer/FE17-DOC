@@ -42,7 +42,7 @@
 
 [Chapter 21 The Return](https://laqieer.github.io/FE17-DOC/usen/M021.txt)
 
-[Chapter 22 The Fell &amp; the Divine](https://laqieer.github.io/FE17-DOC/usen/M022.txt)
+[Chapter 22 The Fell  the Divine](https://laqieer.github.io/FE17-DOC/usen/M022.txt)
 
 [Chapter 23 The Four Hounds](https://laqieer.github.io/FE17-DOC/usen/M023.txt)
 
@@ -81,4 +81,3 @@
 [Paralogue The Hero-King](https://laqieer.github.io/FE17-DOC/usen/S014.txt)
 
 [Paralogue The Connector](https://laqieer.github.io/FE17-DOC/usen/S015.txt)
-
