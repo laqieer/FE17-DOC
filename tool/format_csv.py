@@ -10,7 +10,7 @@ from common.csv import read_csv, write_csv
 names = {}
 
 def load_names():
-    data = read_csv('fee-translations/fee-translations.csv', encoding='utf-8')
+    data = read_csv('translations/fee-translations.csv', encoding='utf-8')
     for name in data:
         names[name[Lang.jpja.name]] = name
 
