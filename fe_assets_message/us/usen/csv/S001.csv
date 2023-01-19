@@ -1,45 +1,45 @@
-﻿key,text
+﻿key,text
 MID_BT1_#001,"[Jean] t 
 [Jean] Strike 
 [Jean] 
 You're going to have to do more than that to 
-scare me off!"
+scare me off!"
 MID_BT2_#001,"[Jean] 父親 t 
 $ [Jean] 父親 
 Angry 
 [Jean] 父親 
 You monster! I'll show you that the people of 
-this village won't be pushed around!"
+this village won't be pushed around!"
 MID_BT3_#001,"[Corrupted] [Boss] b 
 [Corrupted] [Boss] 
-Raaargh..."
+Raaargh..."
 MID_BT4_#001,"[Corrupted] [Boss] b 
 [Corrupted] [Boss] 
-AAAGH!"
+AAAGH!"
 MID_BT6_#001,"[Jean] 父親 b 
 "" [Jean] 父親 Pain 
 [Jean] 父親 
 I know when I'm too injured to fight anymore. 
-Time to go and treat my own wounds..."
+Time to go and treat my own wounds..."
 MID_DIE_CASUAL_LOCAL_Jean_#001,"[Jean] b 
 [Jean] Pain 
 [Jean] 
 This is a deep wound... I'd better retreat while 
-I still can."
+I still can."
 MID_DIE_LOCAL_Jean_#001,"[Jean] b 
 [Jean] Pain 
 [Jean] 
 Father... I'm sorry... I couldn't live up to 
-your example..."
+your example..."
 MID_ED1_#001,"[Villager] 青年女 t 
 * [Villager] 青年女 Surprise 
 [Villager] 青年女 
-Unbelievable! All the monsters are gone!"
+Unbelievable! All the monsters are gone!"
 MID_ED1_#002,"[Villager] 青年男 b 
 $ [Villager] 青年男 
 Smile 
 [Villager] 青年男 
-We're saved! And it's thanks to the lot of you."
+We're saved! And it's thanks to the lot of you."
 MID_ED1_#003,"[Villager] 青年女 
 [Alear] t 
 [Alear] 
@@ -47,270 +47,270 @@ Smile
 
 [Alear] 
 I'm glad no one got hurt. I was a little 
-worried there."
+worried there."
 MID_ED1_#004,"[Villager] 青年男 
 [Villager] 青年女 b 
 $ [Villager] 青年女 
 Smile 
 [Villager] 青年女 
 You can't know what this means to us. We 
-decided to give you this to show our thanks."
+decided to give you this to show our thanks."
 MID_ED2_#001,"[Villager] 青年女 t 
 * [Villager] 青年女 Surprise 
 [Villager] 青年女 
-Are all the monsters really gone?"
+Are all the monsters really gone?"
 MID_ED2_#002,"[Villager] 青年男 b 
 $ [Villager] 青年男 
 Smile 
 [Villager] 青年男 
 There were a few casualties, but at least we're 
-safe now. We owe you for that."
+safe now. We owe you for that."
 MID_ED2_#003,"[Villager] 青年女 
 [Alear] t 
 [Alear] Sad 
 
 [Alear] 
 I don't know if you should be thanking me. If I'd 
-acted faster, I could have saved more lives."
+acted faster, I could have saved more lives."
 MID_ED2_#004,"[Villager] 青年男 
 [Villager] 青年女 b 
 $ [Villager] 青年女 
 Smile 
 [Villager] 青年女 
 We're grateful for your help! This isn't much, 
-but we hope you'll accept it."
+but we hope you'll accept it."
 MID_ED3_#001,"[Villager] 青年女 t 
 "" [Villager] 青年女 Pain 
 [Villager] 青年女 
-Aah... My husband! Where is my husband?!"
+Aah... My husband! Where is my husband?!"
 MID_ED3_#002,"村人女の子 b 
 村人女の子 Sad 
 村人女の子 
-Aww, Daddy!"
+Aww, Daddy!"
 MID_ED3_#003,"[Villager] 青年女 
 [Alear] t 
 [Alear] Sad 
 
 [Alear] 
 I let this village down today. I wasn't fast 
-enough, and now so many are gone..."
+enough, and now so many are gone..."
 MID_ED3_#004,"村人女の子 
 [Jean] 父親 b 
 [Jean] 父親 Sad 
 [Jean] 父親 
 You still tried, even though you're a stranger 
-here. That's...something, I suppose."
+here. That's...something, I suppose."
 MID_ED4_#001,"[Jean] 1 
 [Jean] 父親 3 
 [Jean] 母親 4 
 [Jean] 
-Hmm..."
+Hmm..."
 MID_ED4_#002,"[Jean] 父親 
 Come now, Jean. Give the nice people a proper 
-thank-you."
+thank-you."
 MID_ED4_#003,"[Jean] 
-Oh, right. Thank you for saving our village."
+Oh, right. Thank you for saving our village."
 MID_ED4_#004,"[Alear] 2 
 
 [Alear] 
-We saved it together. You did well today, Jean."
+We saved it together. You did well today, Jean."
 MID_ED4_#005,"[Jean] 
 Oh! I introduced myself to you, but I never 
-asked your name, did I?"
+asked your name, did I?"
 MID_ED4_#006,"[Alear] 
 Well, there was a lot going on. I'm the 
-Divine Dragon ."
+Divine Dragon ."
 MID_ED4_#007,"[Jean] 
 The Divine Dragon?! From the land of Lythos?! 
-Oh, please forgive my rudeness!"
+Oh, please forgive my rudeness!"
 MID_ED4_#008,"[Alear] 
 Don't mention it. Like I said, there was a lot 
-going on at the time."
+going on at the time."
 MID_ED4_#009,"[Jean] 父親 
 What brings such a splendid personage to 
-our humble village?"
+our humble village?"
 MID_ED4_#010,"[Alear] 
 I've been on a journey to defeat the Fell Dragon 
-and bring peace to the world."
+and bring peace to the world."
 MID_ED4_#011,"[Jean] 
 The whole world? Wow. If it's all right with 
-you, Divine One, can I come along and help?!"
+you, Divine One, can I come along and help?!"
 MID_ED4_#012,"[Jean] 父親 
-Jean! What's gotten into you?!"
+Jean! What's gotten into you?!"
 MID_ED4_#013,"[Jean] 
 My dream has always been to become a doctor 
-so I can save people. And that hasn't changed."
+so I can save people. And that hasn't changed."
 MID_ED4_#014,"[Jean] 
 But with monsters running rampant, I might die 
-before I can do that. Look what just happened!"
+before I can do that. Look what just happened!"
 MID_ED4_#015,"[Jean] 
 At the Divine Dragon's side, I think I can learn 
-to fight and to heal people at the same time."
+to fight and to heal people at the same time."
 MID_ED4_#016,"[Jean] 父親 
 That's all very well for you, but what about 
-the Divine Dragon? You'd just be a burden."
+the Divine Dragon? You'd just be a burden."
 MID_ED4_#017,"[Alear] 
 Oh, I wouldn't say that. Not if what he did 
-during that battle is anything to go by."
+during that battle is anything to go by."
 MID_ED4_#018,"[Alear] 
 If Jean wants to come, I don't mind. Though I 
-understand why you'd be worried."
+understand why you'd be worried."
 MID_ED4_#019,"[Jean] 母親 
 Well, if he has your permission, then... I can only 
-ask that you take good care of my boy."
+ask that you take good care of my boy."
 MID_ED4_#020,"[Jean] 父親 
-What? You're actually allowing him to go?"
+What? You're actually allowing him to go?"
 MID_ED4_#021,"[Jean] 
 Father, I told you, you don't need to worry 
-about me. It's not like I'm never coming home."
+about me. It's not like I'm never coming home."
 MID_ED4_#022,"In fact, when I do return, I'll be a first-rate 
-doctor. You'll see!"
+doctor. You'll see!"
 MID_ED4_#023,"[Jean] 父親 
-How quickly they grow up..."
+How quickly they grow up..."
 MID_ED4_#024,"[Jean] 父親 
 Of course, Jean. Be a good boy, a hard worker, 
-and an attentive student. And come home safe."
+and an attentive student. And come home safe."
 MID_ED4_#025,"[Jean] 
 I will! Thank you, both of you. I can't wait to 
-start working alongside the Divine Dragon!"
+start working alongside the Divine Dragon!"
 MID_ED4_#026,"[Alear] 
 The feeling is mutual, Jean. I have a hunch that 
-I'll be leaning on you a lot in the days to come."
+I'll be leaning on you a lot in the days to come."
 MID_EV1_#001,"[Jean] 父親 b 
 "" [Jean] 父親 Pain 
 [Jean] 父親 
 There are so many wounded we couldn't get to 
-the clinic... Is it up to me to treat them all?!"
+the clinic... Is it up to me to treat them all?!"
 MID_EV2_#001,"[Jean] t 
 [Jean] 父親 b 
 [Jean] StandBy 
 [Jean] 
 Father, I'm here to help! If we split up, we can 
-treat everyone!"
+treat everyone!"
 MID_EV2_#002,"* [Jean] 父親 Surprise 
 [Jean] 父親 
-Jean?! I thought I told you to run and hide!"
+Jean?! I thought I told you to run and hide!"
 MID_EV2_#003,"[Jean] Strike 
 [Jean] 
 I can't stay hidden away when there are so 
-many who need my help!"
+many who need my help!"
 MID_EV2_#004,"[Jean] 
 After all, Father, am I not your son? You taught 
-me that a doctor does whatever is needed!"
+me that a doctor does whatever is needed!"
 MID_EV2_#005,"$ [Jean] 父親 
 Relax 
 [Jean] 父親 
 My lessons have sunk in, I see. Very well, then! 
-Come and give me a hand!"
+Come and give me a hand!"
 MID_EV3_#001,"[Villager] 訪問 t 
 [Villager] 訪問 Sad 
 [Villager] 訪問 
 Don't know how much use you'll get out of 
-this, but every little bit helps, right?"
+this, but every little bit helps, right?"
 MID_EV4_#001,"[Jean] 母親 t 
 [Jean] 母親 Sad 
 [Jean] 母親 
 Thank you for checking in on me. Do you think 
-you could use this?"
+you could use this?"
 MID_EV4_#002,"[Jean] 母親 
 There's not much I can do with it, at any rate. 
-Better it should go to a soldier like yourself."
+Better it should go to a soldier like yourself."
 MID_EV4_2_#001,"[Jean] 母親 t 
 * [Jean] 母親 Surprise 
 [Jean] 母親 
 Jean, get inside this instant! It's too dangerous 
-to─ What? You're helping out the village?"
+to─ What? You're helping out the village?"
 MID_EV4_2_#002,"[Jean] 母親 Shy 
 [Jean] 母親 
 Well, if I can't change your mind, then you 
-should have this. And Jean...come home safe."
+should have this. And Jean...come home safe."
 MID_EV5_#001,"[Alear] t 
 [Alear] 
 Angry 
 
 [Alear] 
-It's not safe here! You should be running!"
+It's not safe here! You should be running!"
 MID_EV5_#002,"[Jean] b 
 [Jean] Strike 
 [Jean] 
 I can't. I'm the local doctor's son. I won't leave 
-until I've helped the injured!"
+until I've helped the injured!"
 MID_EV5_#003,"[Alear] Surprise 
 
 [Alear] 
 Huh... You've got a lot of heart for a kid 
-your age."
+your age."
 MID_EV5_#004,"[Alear] 
 Angry 
 
 [Alear] 
 All right. Let's join forces and save 
-those villagers!"
+those villagers!"
 MID_EV5_#005,"[Jean] 
 Smile 
 [Jean] 
 I really appreciate the help. My name's Jean. 
-Now come on─there's work to do!"
+Now come on─there's work to do!"
 MID_OP1_#001,"[Jean] 1 
 [Jean] 父親 2 
 [Jean] 父親 
 These pills ought to clear up the problem. 
-Let me know if the pain persists, OK?"
+Let me know if the pain persists, OK?"
 MID_OP1_#002,"[Jean] 父親 
 And you're looking chipper today! I told you 
-that cold would be gone before you know it."
+that cold would be gone before you know it."
 MID_OP1_#003,"[Jean] 
 Father, isn't it time you took a break? Look, 
-I made you some tea."
+I made you some tea."
 MID_OP1_#004,"[Jean] 父親 
 Thank you, Jean. You didn't burn yourself or 
-anything preparing it, I hope."
+anything preparing it, I hope."
 MID_OP1_#005,"[Jean] 
 You worry too much. I'm old enough to manage 
-a simple pot of tea, I assure you."
+a simple pot of tea, I assure you."
 MID_OP1_#006,"[Jean] 父親 
 Hm-hm, it makes me happy to see you growing 
-up so fine."
+up so fine."
 MID_OP1_#007,"[Jean] 父親 
-Hm? What's going on out there?"
+Hm? What's going on out there?"
 MID_OP1_#008,"[Villager] 青年男 3 
 [Villager] 青年男 
 Doctor! You have to help us! Monsters are on 
-the attack and people are getting hurt!"
+the attack and people are getting hurt!"
 MID_OP1_#009,"[Corrupted] [Boss] 3 
 [Corrupted] [Boss] 
-Raaargh! RAAARGH!"
+Raaargh! RAAARGH!"
 MID_OP1_#010,"[Jean] 
-What the devil are those beasts?!"
+What the devil are those beasts?!"
 MID_OP1_#011,"[Jean] 父親 
 This will get ugly. Jean, go and hide! I'll take 
-care of bringing people to the clinic."
+care of bringing people to the clinic."
 MID_OP1_#012,"[Jean] 父親 
 This way, everyone! If you're unhurt, then assist 
-someone who's injured! We must pull together!"
+someone who's injured! We must pull together!"
 MID_OP1_#013,"[Jean] 
 I know Father told me to hide, but how can I? 
-I have to do my part too!"
+I have to do my part too!"
 MID_OP2_#001,"[Alear] t 
 [Alear] Surprise 
 
 [Alear] 
-Oh no..."
+Oh no..."
 MID_OP2_#002,"[Corrupted] [Boss] b 
 [Corrupted] [Boss] 
-Rrraaaagh!"
+Rrraaaagh!"
 MID_OP2_#003,"[Alear] 
 [Villager] 青年男 t 
 "" [Villager] 青年男 Pain 
 [Villager] 青年男 
-Get moving! There's shelter at the clinic!"
+Get moving! There's shelter at the clinic!"
 MID_OP2_#004,"[Corrupted] [Boss] 
 [Jean] 父親 b 
 $ [Jean] 父親 
 Angry 
 [Jean] 父親 
 Keep your wits about you, everyone! I'll patch 
-you up once the crisis has passed."
+you up once the crisis has passed."
 MID_OP2_#005,"[Jean] 父親 
 [Villager] 青年男 
 [Alear] t 
@@ -319,22 +319,22 @@ Angry
 
 [Alear] 
 We can't stand idle with the Corrupted on the 
-loose. Let's save those villagers!"
+loose. Let's save those villagers!"
 MID_OP3_#001,"[Alear] t 
 [Alear] 
 Angry 
 
 [Alear] 
 Are you all right?! Get to safety and leave the 
-Corrupted to us!"
+Corrupted to us!"
 MID_OP3_#002,"[Villager] 青年女 b 
 [Villager] 青年女 Sad 
 [Villager] 青年女 
 You don't have to tell me twice! But there's still 
-a few left who didn't make it out in time."
+a few left who didn't make it out in time."
 MID_OP3_#003,"[Alear] 
 We'll do everything in our power to save as 
-many of them as we can."
+many of them as we can."
 MID_OP3_#004,"[Villager] 青年女 
 They'll love you for it if you do. You're their 
-last hope at this point!"
+last hope at this point!"

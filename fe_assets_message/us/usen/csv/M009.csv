@@ -1,519 +1,519 @@
-﻿key,text
+﻿key,text
 MID_BT1_#001,"[Ivy] b 
 [Ivy] 
 Angry 
 [Ivy] 
-My father's orders were plain. You will not pass."
+My father's orders were plain. You will not pass."
 MID_BT2_#001,"[Ivy] b 
 [Ivy] Pain 
 [Ivy] 
-Father... I'm sorry..."
+Father... I'm sorry..."
 MID_BT3_#001,"[Zelkov] b 
 [Zelkov] 
 Angry 
 [Zelkov] 
 I could have run, but I *remained.* Now, 
-I must *fight.*"
+I must *fight.*"
 MID_BT4_#001,"[Zelkov] b 
 [Zelkov] Pain 
 [Zelkov] 
 I can't take any *more.* Back to Princess Ivy 
-I go."
+I go."
 MID_BT5_#001,"[Kagetsu] b 
 [Kagetsu] 
 Angry 
 [Kagetsu] 
-If Princess Ivy stays, I stay!"
+If Princess Ivy stays, I stay!"
 MID_BT6_#001,"[Kagetsu] b 
 [Kagetsu] Pain 
 [Kagetsu] 
-I cannot fall here... I must protect Princess Ivy..."
+I cannot fall here... I must protect Princess Ivy..."
 MID_BT7_#001,"[Jade] 兜あり t 
 "" [Jade] 兜あり StandBy 
 [Jade] 兜あり 
 So much for meditation. Now... Think you can 
-get through my defenses?"
+get through my defenses?"
 MID_DIE_CASUAL_LOCAL_Jade_#001,"[Jade] 兜あり b 
 [Jade] 兜あり Pain 
 [Jade] 兜あり 
-I am wounded. I must retreat."
+I am wounded. I must retreat."
 MID_DIE_LOCAL_Jade_#001,"[Jade] 兜あり b 
 [Jade] 兜あり Pain 
 [Jade] 兜あり 
 I failed you, Prince Diamant. You will have to 
-save the king without me..."
+save the king without me..."
 MID_ED1_#001,"[Ivy] 1 
 [Alear] 2 
 
 [Ivy] 
-You've won... Please, kill me."
+You've won... Please, kill me."
 MID_ED1_#002,"[Alear] 
-No. I will not take your life."
+No. I will not take your life."
 MID_ED1_#003,"[Ivy] 
 Don't be naive. If I live, what's to stop me from 
-hunting you down?"
+hunting you down?"
 MID_ED1_#004,"[Alear] 
 You can't return to Elusia after this. Your 
-kingdom's through with you."
+kingdom's through with you."
 MID_ED1_#005,"[Ivy] 
-What gives you that idea?"
+What gives you that idea?"
 MID_ED1_#006,"[Alear] 
 If King Hyacinth had wanted you to survive, 
-he would have given you an Emblem Ring."
+he would have given you an Emblem Ring."
 MID_ED1_#007,"Besides, he had no need to stall us. The weather 
-alone would have slowed us down."
+alone would have slowed us down."
 MID_ED1_#008,"I don't understand it, but...the king used you. 
-He never meant for you to survive."
+He never meant for you to survive."
 MID_ED1_#009,"[Ivy] 
-I suppose you're right."
+I suppose you're right."
 MID_ED1_#010,"[Alear] 
-Your father has already sacrificed your life."
-MID_ED1_#011,I won't do the same.
+Your father has already sacrificed your life."
+MID_ED1_#011,I won't do the same.
 MID_ED1_#012,"[Ivy] 
 You will not grant me the release of death. 
-How cruel."
-MID_ED1_#013,"But...you are my deity, and I respect your will."
+How cruel."
+MID_ED1_#013,"But...you are my deity, and I respect your will."
 MID_ED1_#014,"[Alear] 
-Huh?"
+Huh?"
 MID_ED1_#015,"[Ivy] 
-Could I ask you to forget that?"
+Could I ask you to forget that?"
 MID_ED1_#016,"[Alear] 
-All right..."
+All right..."
 MID_ED1_#017,"[Ivy] 
-In exchange, I offer information."
+In exchange, I offer information."
 MID_ED1_#018,"I will tell you where King Morion is being taken, 
-and why."
+and why."
 MID_ED1_#019,"[Alear] 
-..."
+..."
 MID_ED1_#020,"[Diamant] 4 
 [Diamant] 
-Well? Out with it!"
+Well? Out with it!"
 MID_ED1_#021,"[Ivy] 
 My father intends to perform a ritual that will 
-restore the Fell Dragon's power."
+restore the Fell Dragon's power."
 MID_ED1_#022,"[Alear] 
-A ritual?"
+A ritual?"
 MID_ED1_#023,"[Ivy] 
 You see, though the Fell Dragon has been freed, 
-his abilities are diminished."
+his abilities are diminished."
 MID_ED1_#024,"Imprisonment drained him. He is exhausted and 
-can't transform into a dragon."
+can't transform into a dragon."
 MID_ED1_#025,"Ideally he would have all 12 rings, but securing 
-them will take time."
+them will take time."
 MID_ED1_#026,"In the interim, Sombron decided to temporarily 
-regain his powers through an ancient ritual..."
-MID_ED1_#027,in which he consumes sovereign blood.
+regain his powers through an ancient ritual..."
+MID_ED1_#027,in which he consumes sovereign blood.
 MID_ED1_#028,"[Diamant] 
-You can't mean my father!"
+You can't mean my father!"
 MID_ED1_#029,"[Alear] 
-But then King Morion..."
+But then King Morion..."
 MID_ED1_#030,"[Ivy] 
 Yes. My father took him as an offering to 
-Sombron. That was his aim from the start."
+Sombron. That was his aim from the start."
 MID_ED1_#031,"[Alear] 
-That's horrific."
+That's horrific."
 MID_ED1_#032,"[Ivy] 
 The ritual will take place at Destinea Cathedral. 
-You must hurry."
+You must hurry."
 MID_ED1_#033,"And do be careful. Since the Fell Dragon's 
-return, Father has not been himself."
+return, Father has not been himself."
 MID_ED1_#034,"[Alear] 
-I see..."
+I see..."
 MID_ED1_#035,"[Ivy] 
 That is the extent of what I know. Come, 
-Zelkov, Kagetsu. Let us leave this place."
+Zelkov, Kagetsu. Let us leave this place."
 MID_ED1_#036,"[Alear] 
-What are you going to do?"
+What are you going to do?"
 MID_ED1_#037,"[Ivy] 
-Whatever I can. Without taking sides."
+Whatever I can. Without taking sides."
 MID_ED1_#038,"If we meet again, Divine Dragon... I pray it is not 
-as enemies."
+as enemies."
 MID_ED1_#039,"[Ivy] 
 
 [Alear] 
-Let's head to Elusia."
+Let's head to Elusia."
 MID_ED1_#040,"[Diamant] 
-Yes, we have to hurry!"
+Yes, we have to hurry!"
 MID_ED2_#001,"[Alear] 2 
 
 [Alear] 
 The deeper we venture into Elusia, the worse 
-this blizzard gets."
-MID_ED2_#002,Is this the way to Destinea Cathedral?
+this blizzard gets."
+MID_ED2_#002,Is this the way to Destinea Cathedral?
 MID_ED2_#003,"[Alfred] 4 
 [Alfred] 
 I don't know. In this snow, it's hard to tell 
-where we're going."
+where we're going."
 MID_ED2_#004,"[Diamant] 3 
 [Diamant] 
-Gah... We don't have time to get lost!"
-MID_ED2_#005,Hold on. I see someone up ahead.
+Gah... We don't have time to get lost!"
+MID_ED2_#005,Hold on. I see someone up ahead.
 MID_ED2_#006,"[Veyle] [Bandages] 1 
 [Veyle] [Bandages] 
-Hm? Is that you, ?"
+Hm? Is that you, ?"
 MID_ED2_#007,"[Alear] 
-Veyle!"
+Veyle!"
 MID_ED2_#008,"[Diamant] 
-You know her?"
+You know her?"
 MID_ED2_#009,"[Alear] 
-She's a friend. Veyle, how did you get here?"
+She's a friend. Veyle, how did you get here?"
 MID_ED2_#010,"[Veyle] [Bandages] 
-I... I don't know."
+I... I don't know."
 MID_ED2_#011,"[Alear] 
 You don't know how you crossed the border 
-into another country?"
+into another country?"
 MID_ED2_#012,"[Veyle] [Bandages] 
 Well, how about you? You look worried. 
-Is something the matter?"
+Is something the matter?"
 MID_ED2_#013,"[Alear] 
 We're trying to reach Destinea Cathedral, 
-but we got lost in the snow."
+but we got lost in the snow."
 MID_ED2_#014,"[Veyle] [Bandages] 
 If it's the cathedral you're looking for, head 
-that way."
+that way."
 MID_ED2_#015,"[Alear] 
-You know where it is?"
+You know where it is?"
 MID_ED2_#016,"[Veyle] [Bandages] 
 Uh-huh. You're close. See the really tall tree 
-over there? Use that as a landmark."
+over there? Use that as a landmark."
 MID_ED2_#017,"[Alear] 
-I appreciate your help."
+I appreciate your help."
 MID_ED2_#018,"[Veyle] [Bandages] 
 I owed you for patching me up the other day. 
-That was so kind..."
+That was so kind..."
 MID_ED2_#019,"Huh. Were you wearing that ring 
-before, ?"
+before, ?"
 MID_ED2_#020,"[Alear] 
-Yes. It's very important to me."
+Yes. It's very important to me."
 MID_ED2_#021,"[Veyle] [Bandages] 
-I didn't notice it the other day. It's pretty."
-MID_ED2_#022,Really...pretty...
+I didn't notice it the other day. It's pretty."
+MID_ED2_#022,Really...pretty...
 MID_ED2_#023,"[Alear] 
-Veyle?"
+Veyle?"
 MID_ED2_#024,"[Veyle] [Bandages] 
-Em...blem...Ring..."
+Em...blem...Ring..."
 MID_ED2_#025,"[Alear] 
-Veyle!"
+Veyle!"
 MID_ED2_#026,"[Veyle] [Bandages] 
-..."
-MID_ED2_#027,Oh! I'm sorry! I'd better be on my way!
+..."
+MID_ED2_#027,Oh! I'm sorry! I'd better be on my way!
 MID_ED2_#028,"[Veyle] [Bandages] 
 
 [Alear] 
-Where are you going? It's not safe!"
+Where are you going? It's not safe!"
 MID_ED2_#029,"[Alfred] 
-She's gone."
+She's gone."
 MID_ED2_#030,"[Diamant] 
 There's no time to search for her. Not when 
-Father's life hangs in the balance."
+Father's life hangs in the balance."
 MID_ED2_#031,"[Alear] 
-You're right. Let's hurry."
-MID_ED2_#032,Veyle... What in the world?
+You're right. Let's hurry."
+MID_ED2_#032,Veyle... What in the world?
 MID_EV14_#001,"[Kagetsu] b 
 [Kagetsu] 
 Angry 
 [Kagetsu] 
-All right. Time to attack!"
+All right. Time to attack!"
 MID_EV15_#001,"[Zelkov] b 
 [Zelkov] 
 Angry 
 [Zelkov] 
-Bring out the *Corrupted.*"
+Bring out the *Corrupted.*"
 MID_EV1_#001,"[Kagetsu] b 
 [Kagetsu] Sad 
 [Kagetsu] 
-I fear this will not end well."
+I fear this will not end well."
 MID_EV1_#002,"[Zelkov] t 
 [Zelkov] 
 Angry 
 [Zelkov] 
 Princess Ivy, did the king perhaps grant you 
-*another* ring?"
+*another* ring?"
 MID_EV1_#003,"[Kagetsu] 
 [Ivy] b 
 $ [Ivy] StandBy 
 [Ivy] 
 No. You heard him, didn't you? If I want a ring, 
-I must reclaim the one I lost."
+I must reclaim the one I lost."
 MID_EV1_#004,"This time, with no reinforcements. We must 
-make do."
+make do."
 MID_EV1_#005,"[Ivy] Pain 
-If you want to leave...I'll understand."
+If you want to leave...I'll understand."
 MID_EV1_#006,"[Zelkov] 
 Angry 
 [Zelkov] 
-What will *you* do?"
+What will *you* do?"
 MID_EV1_#007,"$ [Ivy] StandBy 
 [Ivy] 
 I have no choice but to stay. Even if I know 
-it's hopeless."
+it's hopeless."
 MID_EV1_#008,"[Ivy] Die 
-Even if I know I will die."
+Even if I know I will die."
 MID_EV1_#009,"[Zelkov] 
-..."
+..."
 MID_EV1_#010,"[Ivy] 
 Angry 
 [Ivy] 
 You two, head to the northern and southern 
-forts. The Corrupted are standing by there."
+forts. The Corrupted are standing by there."
 MID_MOVIE1_#001,"[Morion] 
-HYAAAH!"
+HYAAAH!"
 MID_MOVIE1_#002,"[Hyacinth] 
 Your invasions of my country come at 
-a very high price."
+a very high price."
 MID_MOVIE1_#002_2,"[Hyacinth] 
-And now you will pay it!"
+And now you will pay it!"
 MID_MOVIE1_#003,"[Morion] 
 Hahaha! Do you really think you can withstand 
-the might of Brodia?"
+the might of Brodia?"
 MID_MOVIE1_#004,"[Hyacinth] 
-Yes. My army is blessed by Lord Sombron himself."
+Yes. My army is blessed by Lord Sombron himself."
 MID_MOVIE1_#005,"[Morion] 
-Damn you!"
+Damn you!"
 MID_MOVIE1_#006,"[Morion] 
-Heh..."
+Heh..."
 MID_MOVIE1_#007,"[Morion] 
-Well then! Is that all the power your dragon's got?"
+Well then! Is that all the power your dragon's got?"
 MID_MOVIE1_#008,"[Hyacinth] 
-He is not yet at full strength."
+He is not yet at full strength."
 MID_MOVIE1_#008_2,"[Hyacinth] 
-Not until the ritual..."
+Not until the ritual..."
 MID_MOVIE1_#009,"[Morion] 
-Ritual?"
+Ritual?"
 MID_MOVIE1_#010,"[Hyacinth] 
-The one by which we shall reignite his true glory."
+The one by which we shall reignite his true glory."
 MID_MOVIE1_#010_2,"[Hyacinth] 
 And for that...we need a sacrifice of 
-sovereign blood."
+sovereign blood."
 MID_MOVIE1_#011,"[Hyacinth] 
-The blood thus offered..."
+The blood thus offered..."
 MID_MOVIE1_#011_2,"[Hyacinth] 
-will be yours!"
+will be yours!"
 MID_MOVIE1_#012,"[Morion] 
-What?"
+What?"
 MID_MOVIE1_#013,"[Morion] 
-AAH!"
+AAH!"
 MID_MOVIE1_#014,"[Hyacinth] 
-Hahaha..."
+Hahaha..."
 MID_OP1_#001,"[Diamant] 1 
 [Alear] 2 
 
 [Alear] 
-Diamant, where's the king?"
+Diamant, where's the king?"
 MID_OP1_#002,"[Diamant] 
 He's headed to the front line. Our orders are to 
-wait here with the rear guard."
+wait here with the rear guard."
 MID_OP1_#003,"[Alear] 
-Will do."
+Will do."
 MID_OP1_#004,"[Diamant] 
-Here. Take this."
+Here. Take this."
 MID_OP1_#005,"[Alear] 
-The ring? You didn't give it to your father?"
+The ring? You didn't give it to your father?"
 MID_OP1_#006,"[Diamant] 
-I tried. He wouldn't take it."
+I tried. He wouldn't take it."
 MID_OP1_#007,"[Roy] 3 
 [Roy] 
 The king said that if anything should happen, 
-he wants you to keep my ring safe."
+he wants you to keep my ring safe."
 MID_OP1_#008,"[Alear] 
-But what if he needs it?"
+But what if he needs it?"
 MID_OP1_#009,"[Diamant] 
-Father wants a fair fight."
+Father wants a fair fight."
 MID_OP1_#010,"Not to say that using the ring is unfair. But we 
-Brodians have a particular sense of pride."
+Brodians have a particular sense of pride."
 MID_OP1_#011,"He wants to stand in his own strength and 
-asked us to respect that."
+asked us to respect that."
 MID_OP1_#012,"[Alear] 
 I understand. I'm just not sure our enemies will 
-have the same code of honor."
+have the same code of honor."
 MID_OP1_#013,"Let's be at the ready. If push comes to shove, 
-I want to be able to help."
+I want to be able to help."
 MID_OP1_#014,"[Diamant] 
-It's a plan."
+It's a plan."
 MID_OP1_#015,"[Roy] 
-Agreed."
+Agreed."
 MID_OP1_#016,"[Alear] 
-It looks like the battle has begun."
+It looks like the battle has begun."
 MID_OP2_#001,"Default 
 [Diamant] 4 
 [Diamant] 
-Father!"
+Father!"
 MID_OP2_#002,"[Alear] 2 
 
 [Alear] 
-Come on, Diamant. There's still time to rescue him!"
+Come on, Diamant. There's still time to rescue him!"
 MID_OP2_#003,"[Diamant] 
 
 [Alear] 
 [Hyacinth] 1 
 [Hyacinth] 
-You have lost this battle, Former King of Brodia."
+You have lost this battle, Former King of Brodia."
 MID_OP2_#004,"[Griss] 3 
 [Griss] 
-Well, he's not getting any lighter. Come on."
+Well, he's not getting any lighter. Come on."
 MID_OP2_#005,"[Griss] 
 [Marni] 3 
 [Marni] 
-We know what to do, Your Majesty. See you later."
+We know what to do, Your Majesty. See you later."
 MID_OP2_#006,"[Hyacinth] 
-Mm."
+Mm."
 MID_OP2_#007,"[Hyacinth] 
 [Marni] 
 [Alear] 2 
 [Diamant] 4 
 [Diamant] 
-My father! They're trying to take him away!"
+My father! They're trying to take him away!"
 MID_OP2_#008,"[Alear] 
-We won't let them!"
+We won't let them!"
 MID_OP2_#009,"[Ivy] 1 
 
 [Ivy] 
-So you say... But you are wrong."
+So you say... But you are wrong."
 MID_OP2_#010,"[Alear] 
-Princess Ivy!"
+Princess Ivy!"
 MID_OP2_#011,"[Hyacinth] 3 
 [Hyacinth] 
-Whatever the cost, you will hold them here, child."
+Whatever the cost, you will hold them here, child."
 MID_OP2_#012,"[Ivy] 
-Yes."
+Yes."
 MID_OP2_#013,"[Hyacinth] 
 Oh, and, Ivy? Don't forget that ring was given 
-to you by our Lord Sombron."
-MID_OP2_#014,Your failure to protect it was a grievous one.
+to you by our Lord Sombron."
+MID_OP2_#014,Your failure to protect it was a grievous one.
 MID_OP2_#015,"[Ivy] 
-..."
+..."
 MID_OP2_#016,"[Hyacinth] 
 It is your duty to reclaim the ring now. I take my 
-leave to Elusia. Do not fail me again."
+leave to Elusia. Do not fail me again."
 MID_OP2_#017,"[Hyacinth] 
 
 [Ivy] 
-So...you want me to buy time for you as I die here."
+So...you want me to buy time for you as I die here."
 MID_OP2_#017_2,"[Hyacinth] 
 
 [Ivy] 
-Very well. I die for you, Father..."
+Very well. I die for you, Father..."
 MID_OP2_#018,"[Diamant] 
-You're not going to stop us."
+You're not going to stop us."
 MID_OP2_#019,"[Alear] 
 We have to get King Morion back from them 
-right now. We have to!"
+right now. We have to!"
 MID_OP3_#001,"[Alear] t 
 [Alear] 
 Angry 
 
 [Alear] 
-The storm keeps getting harsher."
+The storm keeps getting harsher."
 MID_OP3_#002,"[Diamant] b 
 [Diamant] 
 Angry 
 [Diamant] 
-We must drive back Princess Ivy's forces!"
+We must drive back Princess Ivy's forces!"
 MID_OP3_#003,"[Diamant] Pain 
 Dragging away Father like that... What could 
-King Hyacinth be planning?"
+King Hyacinth be planning?"
 MID_OP3_#004,"[Alear] Pain 
 
 [Alear] 
 I don't know. But with so many of the 
-Corrupted...this will be a tough battle."
+Corrupted...this will be a tough battle."
 MID_OP4_#001,"[Jade] 兜あり t 
 [Jade] 兜あり Sad 
 [Jade] 兜あり 
 The snow's really swirling now. I wonder if I'll 
-be able to find Prince Diamant."
+be able to find Prince Diamant."
 MID_OP4_#002,"[Jade] 兜あり Normal 
 Couldn't be a worse time for meditation, but 
-I've gotta clear my head."
+I've gotta clear my head."
 MID_TK1P_#001,"[Alear] 1 
 [Jade] 兜あり 2 
 
 [Alear] 
-Excuse me. Are you all right?"
+Excuse me. Are you all right?"
 MID_TK1P_#002,"[Jade] 兜あり 
 Oh, yes. I was meditating for a moment. Who 
-are you? A new border guard?"
+are you? A new border guard?"
 MID_TK1P_#003,"[Alear] 
-No. I'm the Divine Dragon ."
+No. I'm the Divine Dragon ."
 MID_TK1P_#004,"[Jade] 兜あり 
-How rude of me!"
+How rude of me!"
 MID_TK1P_#005,"I am Jade, a royal knight of Brodia. Prince 
-Diamant has told me about you."
-MID_TK1P_#006,"May I join your ranks, Divine One?"
+Diamant has told me about you."
+MID_TK1P_#006,"May I join your ranks, Divine One?"
 MID_TK1P_#007,"[Alear] 
-Of course. Welcome, Jade."
+Of course. Welcome, Jade."
 MID_TK1P_#008,"[Jade] 兜あり 
 Thank you. Now then, I'll show you why they 
-call me the ""Iron Wall."""
+call me the ""Iron Wall."""
 MID_TK1_#001,"[Alear] t 
 [Alear] Surprise 
 
 [Alear] 
-Excuse me. Are you all right?"
+Excuse me. Are you all right?"
 MID_TK1_#002,"[Jade] 兜あり b 
 [Jade] 兜あり Normal 
 [Jade] 兜あり 
 Oh, yes. I was meditating for a moment. Who 
-are you? A new border guard?"
+are you? A new border guard?"
 MID_TK1_#003,"[Alear] 
 Smile 
 
 [Alear] 
-No. I'm the Divine Dragon ."
+No. I'm the Divine Dragon ."
 MID_TK1_#004,"$ [Jade] 兜あり Surprise 
 [Jade] 兜あり 
-How rude of me!"
+How rude of me!"
 MID_TK1_#005,"[Jade] 兜あり Strike 
 I am Jade, a royal knight of Brodia. Prince 
-Diamant has told me about you."
+Diamant has told me about you."
 MID_TK1_#006,"[Jade] 
 Angry 
-May I join your ranks, Divine One?"
+May I join your ranks, Divine One?"
 MID_TK1_#007,"[Alear] 
-Of course. Welcome, Jade."
+Of course. Welcome, Jade."
 MID_TK1_#008,"[Jade] 兜あり 
 Smile 
 [Jade] 兜あり 
 Thank you. Now then, I'll show you why they 
-call me the ""Iron Wall."""
+call me the ""Iron Wall."""
 MID_TK2_#001,"[Diamant] t 
 [Diamant] 
 Angry 
 [Diamant] 
-Jade!"
+Jade!"
 MID_TK2_#002,"[Jade] 兜あり b 
 $ [Jade] 兜あり Surprise 
 [Jade] 兜あり 
-Prince Diamant!"
+Prince Diamant!"
 MID_TK2_#003,"[Jade] 兜あり Normal 
 I'm so glad you're safe. Is everything all right 
-at the castle?"
+at the castle?"
 MID_TK2_#004,"[Diamant] 
 Angry 
 [Diamant] 
 Yes. The Divine Dragon helped us. However, 
-Father... He's in peril."
+Father... He's in peril."
 MID_TK2_#005,"Jade, I relieve you of your border duties. You're 
-with me from now on!"
+with me from now on!"
 MID_TK2_#006,"[Jade] 兜あり Status 
 [Jade] 兜あり 
-Of course!"
+Of course!"
 MID_TK3_#001,"[Jade] 兜あり t 
 $ [Jade] 兜あり Surprise 
 [Jade] 兜あり 
-Prince Diamant!"
+Prince Diamant!"
 MID_TK3_#002,"[Diamant] b 
 [Diamant] 
 Relax 
 [Diamant] 
-Jade, you're safe!"
+Jade, you're safe!"
 MID_TK3_#003,"[Jade] 兜あり 
 Angry 
 [Jade] 兜あり 
 Yes. I'm here to help. The Divine Dragon told 
-me everything."
-MID_TK3_#004,Let's bring King Morion back.
+me everything."
+MID_TK3_#004,Let's bring King Morion back.
 MID_TK3_#005,"[Diamant] 
 Angry 
 [Diamant] 
-Thank goodness. I'm glad to have you with us."
+Thank goodness. I'm glad to have you with us."

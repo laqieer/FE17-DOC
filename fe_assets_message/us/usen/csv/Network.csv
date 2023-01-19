@@ -1,469 +1,469 @@
-﻿key,text
-MCID_N001_1,Verdant Plain
-MCID_N002_1,Floral Field
-MCID_N003_1,Mountain Peak
-MCID_N004_1,Winter Forest
-MCID_N005_1,Desert Dunes
-MCID_N006_1,Vicious Volcano
-MID_AMIIBO_Accessories,Fashion
-MID_AMIIBO_Accessories_Attention,Not Available to This Unit
-MID_AMIIBO_Music,Music
-MID_AMIIBO_Ticket_Accessories,AccTicket Fashion ticket obtained.
-MID_AMIIBO_Ticket_Music,SoundTicket Music ticket obtained.
-MID_AMIIBO_Touch,Please scan your amiibo.
-MID_AMIIBO_Touch_Count,You have out of 5 scans remaining.
+﻿key,text
+MCID_N001_1,Verdant Plain
+MCID_N002_1,Floral Field
+MCID_N003_1,Mountain Peak
+MCID_N004_1,Winter Forest
+MCID_N005_1,Desert Dunes
+MCID_N006_1,Vicious Volcano
+MID_AMIIBO_Accessories,Fashion
+MID_AMIIBO_Accessories_Attention,Not Available to This Unit
+MID_AMIIBO_Music,Music
+MID_AMIIBO_Ticket_Accessories,AccTicket Fashion ticket obtained.
+MID_AMIIBO_Ticket_Music,SoundTicket Music ticket obtained.
+MID_AMIIBO_Touch,Please scan your amiibo.
+MID_AMIIBO_Touch_Count,You have out of 5 scans remaining.
 MID_AMIIBO_Touch_Interval,"Scans will refresh in hour(s) 
-and minute(s)."
-MID_AMIIBO_Trade_Accessories_Select,Select outfit.
+and minute(s)."
+MID_AMIIBO_Trade_Accessories_Select,Select outfit.
 MID_AMIIBO_Trade_Information,"is out of stock. Your tickets will 
-be exchanged for bond fragments."
-MID_AMIIBO_Trade_Music_Select,Select music.
-MID_AMIIBO_Trade_Nothing,Nothing
+be exchanged for bond fragments."
+MID_AMIIBO_Trade_Music_Select,Select music.
+MID_AMIIBO_Trade_Nothing,Nothing
 MID_AMIIBO_Trade_Ticket,"Exchange for ? 
-(Uses 1 ticket. Current number of tickets: )"
-MID_AMIIBO_Trade_Ticket_Accessories,Fashion Ticket
-MID_AMIIBO_Trade_Ticket_Have,Current Tickets
-MID_AMIIBO_Trade_Ticket_Music,Music Ticket
-MID_AMIIBO_Trade_Ticket_Use,Use Ticket
-MID_CHALLENGE_C001_TITLE,Verdant Plain
-MID_CHALLENGE_C002_TITLE,Floral Field
-MID_CHALLENGE_C003_TITLE,Mountain Peak
-MID_CHALLENGE_C004_TITLE,Winter Forest
-MID_CHALLENGE_C005_TITLE,Desert Dunes
-MID_CHALLENGE_C006_TITLE,Vicious Volcano
+(Uses 1 ticket. Current number of tickets: )"
+MID_AMIIBO_Trade_Ticket_Accessories,Fashion Ticket
+MID_AMIIBO_Trade_Ticket_Have,Current Tickets
+MID_AMIIBO_Trade_Ticket_Music,Music Ticket
+MID_AMIIBO_Trade_Ticket_Use,Use Ticket
+MID_CHALLENGE_C001_TITLE,Verdant Plain
+MID_CHALLENGE_C002_TITLE,Floral Field
+MID_CHALLENGE_C003_TITLE,Mountain Peak
+MID_CHALLENGE_C004_TITLE,Winter Forest
+MID_CHALLENGE_C005_TITLE,Desert Dunes
+MID_CHALLENGE_C006_TITLE,Vicious Volcano
 MID_CHALLENGE_Closed_Dialog,"Tempest Trials will become available once you 
-clear Chapter 11."
-MID_CHALLENGE_Confirm,Start at Difficulty ?
-MID_CHALLENGE_DifficultyMenu_Difficulty,Difficulty
-MID_CHALLENGE_DifficultyMenu_Help,Select a difficulty level.
-MID_CHALLENGE_DifficultyMenu_Recommended,Recommended:
-MID_CHALLENGE_DifficultyMenu_Start,Fight!
-MID_CHALLENGE_EXP_TITLE,EXP
-MID_CHALLENGE_Get_EXP,EXP Obtained
-MID_CHALLENGE_Get_Item,-
-MID_CHALLENGE_Get_SP,Books Obtained
-MID_CHALLENGE_GiveUp,Give Up
+clear Chapter 11."
+MID_CHALLENGE_Confirm,Start at Difficulty ?
+MID_CHALLENGE_DifficultyMenu_Difficulty,Difficulty
+MID_CHALLENGE_DifficultyMenu_Help,Select a difficulty level.
+MID_CHALLENGE_DifficultyMenu_Recommended,Recommended:
+MID_CHALLENGE_DifficultyMenu_Start,Fight!
+MID_CHALLENGE_EXP_TITLE,EXP
+MID_CHALLENGE_Get_EXP,EXP Obtained
+MID_CHALLENGE_Get_Item,-
+MID_CHALLENGE_Get_SP,Books Obtained
+MID_CHALLENGE_GiveUp,Give Up
 MID_CHALLENGE_GiveUp_CONFIRM,"End the trial and return to the menu? You 
 won't get the rewards for completing it, 
 but you will get experience for the maps 
-you cleared."
+you cleared."
 MID_CHALLENGE_H_GiveUp,"End the trial and return to 
-the menu."
+the menu."
 MID_CHALLENGE_Help,"In this trial, you will face several 
 consecutive battles. Rewards will 
-increase with difficulty level."
-MID_CHALLENGE_Join_MAP1,Join Battle 1
-MID_CHALLENGE_Join_MAP2,Join Battle 2
-MID_CHALLENGE_Join_MAP3,Join Battle 3
-MID_CHALLENGE_MAP1,First Battle
-MID_CHALLENGE_MAP2,Second Battle
-MID_CHALLENGE_MAP3,Final Battle
-MID_CHALLENGE_MapInfo_BestRecort,High Score
-MID_CHALLENGE_MapInfo_Materials,Bonus Materials
-MID_CHALLENGE_MapInfo_N_Battles,Battles
-MID_CHALLENGE_MapInfo_Turn,Turns
-MID_CHALLENGE_MapSelect_Help,Select a map you want to attempt.
-MID_CHALLENGE_MapSelect_MenuCaption,Trial Map
+increase with difficulty level."
+MID_CHALLENGE_Join_MAP1,Join Battle 1
+MID_CHALLENGE_Join_MAP2,Join Battle 2
+MID_CHALLENGE_Join_MAP3,Join Battle 3
+MID_CHALLENGE_MAP1,First Battle
+MID_CHALLENGE_MAP2,Second Battle
+MID_CHALLENGE_MAP3,Final Battle
+MID_CHALLENGE_MapInfo_BestRecort,High Score
+MID_CHALLENGE_MapInfo_Materials,Bonus Materials
+MID_CHALLENGE_MapInfo_N_Battles,Battles
+MID_CHALLENGE_MapInfo_Turn,Turns
+MID_CHALLENGE_MapSelect_Help,Select a map you want to attempt.
+MID_CHALLENGE_MapSelect_MenuCaption,Trial Map
 MID_CHALLENGE_OPEN_LEVEL41,"Difficulty levels 41+ for Relay Trials 
-are now unlocked."
+are now unlocked."
 MID_CHALLENGE_Start_CONFIRM,"Spend 1 ticket to start the battle? 
-You have ticket(s)."
-MID_CHALLENGE_Title,Tempest Trial
-MID_H_RANKING_Title,View deployment rankings.
-MID_MATCH_Battle_Start,Start Battle
-MID_MATCH_Battle_Win,You won!
-MID_MATCH_Defeat,DEFEAT
-MID_MATCH_Easy,Quick Battle
-MID_MATCH_Easy_TitleHelp,Select a map.
-MID_MATCH_Friend,Friend
-MID_MATCH_Friend_Code,Enter ID
-MID_MATCH_Friend_Code_Input_Easy,Enter opponent's ID for Quick Battle.
-MID_MATCH_Friend_Code_Input_Serious,Enter opponent's ID for Custom Battle.
-MID_MATCH_Friend_Corps,
-MID_MATCH_Friend_ID,Search for this ID?
-MID_MATCH_Friend_ID_Search,Use this ID
-MID_MATCH_Friend_Select,Select Friend
-MID_MATCH_Friend_Select_Prompt,Select a friend.
-MID_MATCH_GET_GOLD,G obtained.
-MID_MATCH_GET_ITEM,obtained.
-MID_MATCH_GET_ITEM_PLURAL,x obtained.
-MID_MATCH_GET_PIECE,bond fragment(s) obtained.
-MID_MATCH_H_Battle_Lose,You lost...
+You have ticket(s)."
+MID_CHALLENGE_Title,Tempest Trial
+MID_H_RANKING_Title,View deployment rankings.
+MID_MATCH_Battle_Start,Start Battle
+MID_MATCH_Battle_Win,You won!
+MID_MATCH_Defeat,DEFEAT
+MID_MATCH_Easy,Quick Battle
+MID_MATCH_Easy_TitleHelp,Select a map.
+MID_MATCH_Friend,Friend
+MID_MATCH_Friend_Code,Enter ID
+MID_MATCH_Friend_Code_Input_Easy,Enter opponent's ID for Quick Battle.
+MID_MATCH_Friend_Code_Input_Serious,Enter opponent's ID for Custom Battle.
+MID_MATCH_Friend_Corps,
+MID_MATCH_Friend_ID,Search for this ID?
+MID_MATCH_Friend_ID_Search,Use this ID
+MID_MATCH_Friend_Select,Select Friend
+MID_MATCH_Friend_Select_Prompt,Select a friend.
+MID_MATCH_GET_GOLD,G obtained.
+MID_MATCH_GET_ITEM,obtained.
+MID_MATCH_GET_ITEM_PLURAL,x obtained.
+MID_MATCH_GET_PIECE,bond fragment(s) obtained.
+MID_MATCH_H_Battle_Lose,You lost...
 MID_MATCH_H_Battle_Start,"Battle another player's army using 
-your map."
+your map."
 MID_MATCH_H_Easy,"Select a map and battle against 
-another player's army."
+another player's army."
 MID_MATCH_H_Friend,"Select an opposing force to battle 
-from a list of your friends' armies."
+from a list of your friends' armies."
 MID_MATCH_H_Friend_Code,"Enter an ID to battle a specific 
-player's army."
+player's army."
 MID_MATCH_H_Map_Edit,"Create a battle map and set up a 
-team to defend it."
+team to defend it."
 MID_MATCH_H_Map_Edit_AI_Defense,"Target enemies that come 
-within range."
-MID_MATCH_H_Map_Edit_AI_NotMove,Hold the starting position.
+within range."
+MID_MATCH_H_Map_Edit_AI_NotMove,Hold the starting position.
 MID_MATCH_H_Map_Edit_AI_ResponseA,"Group A takes action when 
-foes come within their range."
+foes come within their range."
 MID_MATCH_H_Map_Edit_AI_ResponseB,"Group B takes action when 
-foes come within their range."
+foes come within their range."
 MID_MATCH_H_Map_Edit_AI_ResponseC,"Group C takes action when 
-foes come within their range."
+foes come within their range."
 MID_MATCH_H_Map_Edit_AI_Rush,"Aggressively pursue foes in 
-range, weakest to strongest."
-MID_MATCH_H_Map_Edit_Finish,Finish editing map.
+range, weakest to strongest."
+MID_MATCH_H_Map_Edit_Finish,Finish editing map.
 MID_MATCH_H_Map_Replay,"View the results of defensive 
-battles that have occurred."
-MID_MATCH_H_Map_Reset,Reset map layout.
-MID_MATCH_H_Map_Reset_Confirmation,Reset current map layout?
-MID_MATCH_H_Map_Save,Save your custom map.
-MID_MATCH_H_MockCombat,Test your map.
+battles that have occurred."
+MID_MATCH_H_Map_Reset,Reset map layout.
+MID_MATCH_H_Map_Reset_Confirmation,Reset current map layout?
+MID_MATCH_H_Map_Save,Save your custom map.
+MID_MATCH_H_MockCombat,Test your map.
 MID_MATCH_H_Profile,"You can choose from a list of others' cards 
-that you currently have."
+that you currently have."
 MID_MATCH_H_Random,"Battle the army of another player 
-chosen at random."
+chosen at random."
 MID_MATCH_H_Serious,"Battle on a custom map created by 
 linking a map you upload with that 
-of another player."
+of another player."
 MID_MATCH_H_Serious_Attention,"You need at least 2 units from your army 
-in order to play a Custom Battle."
+in order to play a Custom Battle."
 MID_MATCH_H_Serious_OldMap,"Unable to start battle because the map data 
 on the server is older than your map data. 
 Select Edit Map and upload your most recent 
-data to proceed."
-MID_MATCH_H_Surrender,Surrender and return to menu.
+data to proceed."
+MID_MATCH_H_Surrender,Surrender and return to menu.
 MID_MATCH_Help,"Battle online against other players' 
-armies on selected or edited maps."
+armies on selected or edited maps."
 MID_MATCH_History,"A battle has occurred on a map you uploaded. 
-Do you want to view the results?"
-MID_MATCH_ID,Battle ID
-MID_MATCH_MAP_Error,Battle was suspended due to a data error.
+Do you want to view the results?"
+MID_MATCH_ID,Battle ID
+MID_MATCH_MAP_Error,Battle was suspended due to a data error.
 MID_MATCH_Map_Cannon_Duplicated,"You can only place one ballista, magic artillery, 
-or flame cannon at a time."
-MID_MATCH_Map_Edit,Edit Map
-MID_MATCH_Map_EditName,Preparations
-MID_MATCH_Map_Edit_AI_Defense,Defend
-MID_MATCH_Map_Edit_AI_NotMove,Hold
-MID_MATCH_Map_Edit_AI_ResponseA,Group A
-MID_MATCH_Map_Edit_AI_ResponseB,Group B
-MID_MATCH_Map_Edit_AI_ResponseC,Group C
-MID_MATCH_Map_Edit_AI_Rush,Attack
-MID_MATCH_Map_Edit_Finish,Finish Editing
-MID_MATCH_Map_Edit_Finish_Confirmation,Finish editing map?
-MID_MATCH_Map_Edit_Finish_Confirmation_No,Continue
-MID_MATCH_Map_Edit_Finish_Confirmation_NoSave,Finish editing without saving?
-MID_MATCH_Map_Edit_Finish_Confirmation_Yes,Finish
+or flame cannon at a time."
+MID_MATCH_Map_Edit,Edit Map
+MID_MATCH_Map_EditName,Preparations
+MID_MATCH_Map_Edit_AI_Defense,Defend
+MID_MATCH_Map_Edit_AI_NotMove,Hold
+MID_MATCH_Map_Edit_AI_ResponseA,Group A
+MID_MATCH_Map_Edit_AI_ResponseB,Group B
+MID_MATCH_Map_Edit_AI_ResponseC,Group C
+MID_MATCH_Map_Edit_AI_Rush,Attack
+MID_MATCH_Map_Edit_Finish,Finish Editing
+MID_MATCH_Map_Edit_Finish_Confirmation,Finish editing map?
+MID_MATCH_Map_Edit_Finish_Confirmation_No,Continue
+MID_MATCH_Map_Edit_Finish_Confirmation_NoSave,Finish editing without saving?
+MID_MATCH_Map_Edit_Finish_Confirmation_Yes,Finish
 MID_MATCH_Map_HealPanel_Duplicated,"You can only place one heal or protection tile 
-at a time."
-MID_MATCH_Map_Replay,View Results
-MID_MATCH_Map_Reset,Reset Map
-MID_MATCH_Map_Save,Save Map
-MID_MATCH_Map_Save_Error,Could not save the map.
-MID_MATCH_Map_Save_Error_AllUnit,All units are committed to defensive battles.
-MID_MATCH_Map_Save_Error_BanAreaUnit,At least one unit is in an inaccessible location.
-MID_MATCH_Map_Save_Error_InvalidData,Unable to save. The data may be corrupted.
-MID_MATCH_Map_Save_Error_NoUnit,Deploy at least 1 unit.
-MID_MATCH_Map_Save_Success,Map saved.
+at a time."
+MID_MATCH_Map_Replay,View Results
+MID_MATCH_Map_Reset,Reset Map
+MID_MATCH_Map_Save,Save Map
+MID_MATCH_Map_Save_Error,Could not save the map.
+MID_MATCH_Map_Save_Error_AllUnit,All units are committed to defensive battles.
+MID_MATCH_Map_Save_Error_BanAreaUnit,At least one unit is in an inaccessible location.
+MID_MATCH_Map_Save_Error_InvalidData,Unable to save. The data may be corrupted.
+MID_MATCH_Map_Save_Error_NoUnit,Deploy at least 1 unit.
+MID_MATCH_Map_Save_Success,Map saved.
 MID_MATCH_Map_UpRoad,"Upload your map for use in defensive battles? 
 You can only have 1 uploaded map per 
 Nintendo Account. Previously uploaded maps, 
 including those created with other save data, 
-will be overwritten."
-MID_MATCH_Map_UpRoad_Failure,Upload failed.
-MID_MATCH_Map_UpRoad_No,Cancel
-MID_MATCH_Map_UpRoad_Success,Upload successful.
-MID_MATCH_Map_UpRoad_Yes,Upload
-MID_MATCH_Matching,Opponent found:
-MID_MATCH_Matching_Empty,No opponents found.
-MID_MATCH_Matching_Verification,Battle ?
-MID_MATCH_MockCombat,Mock Battle
-MID_MATCH_MyRate,Ranking
-MID_MATCH_My_ID_Attention,You cannot enter your own battle ID.
-MID_MATCH_NoData,Data not found.
+will be overwritten."
+MID_MATCH_Map_UpRoad_Failure,Upload failed.
+MID_MATCH_Map_UpRoad_No,Cancel
+MID_MATCH_Map_UpRoad_Success,Upload successful.
+MID_MATCH_Map_UpRoad_Yes,Upload
+MID_MATCH_Matching,Opponent found:
+MID_MATCH_Matching_Empty,No opponents found.
+MID_MATCH_Matching_Verification,Battle ?
+MID_MATCH_MockCombat,Mock Battle
+MID_MATCH_MyRate,Ranking
+MID_MATCH_My_ID_Attention,You cannot enter your own battle ID.
+MID_MATCH_NoData,Data not found.
 MID_MATCH_NoHistory,"No defensive battles have occurred on 
-your uploaded maps."
-MID_MATCH_Profile,Profile Cards
-MID_MATCH_Profile_Select,Player List
-MID_MATCH_Profile_Select_Prompt,Select a player.
-MID_MATCH_Random,Random
-MID_MATCH_Search,Search for an Opponent
-MID_MATCH_Search_Help,Choose a selection method.
-MID_MATCH_Serious,Custom Battle
+your uploaded maps."
+MID_MATCH_Profile,Profile Cards
+MID_MATCH_Profile_Select,Player List
+MID_MATCH_Profile_Select_Prompt,Select a player.
+MID_MATCH_Random,Random
+MID_MATCH_Search,Search for an Opponent
+MID_MATCH_Search_Help,Choose a selection method.
+MID_MATCH_Serious,Custom Battle
 MID_MATCH_Serious_Error_AllUnit,"You have no units available for a raiding party. 
 Select Edit Map and reduce the number of 
-allies committed to your defense team."
+allies committed to your defense team."
 MID_MATCH_Serious_H_Friend,"You can choose a map from a list 
 of those belonging to your friends. 
-This battle won't affect your rating."
+This battle won't affect your rating."
 MID_MATCH_Serious_H_Friend_Code,"Enter an ID to battle using a 
 specific player's map. This battle 
-won't affect your rating."
+won't affect your rating."
 MID_MATCH_Serious_H_Profile,"You can choose from a list of others' cards 
 that you currently have. (Your rating will 
-not be affected by the result.)"
+not be affected by the result.)"
 MID_MATCH_Serious_H_Random,"Another player's map will be 
 selected automatically. This 
-battle will affect your rating."
-MID_MATCH_Serious_Help,Select an action.
-MID_MATCH_Surrender,Concede
-MID_MATCH_Surrender_Attention,Concede defeat?
-MID_MATCH_Surrender_Yes,Concede
-MID_MATCH_Title,Outrealm Trial
-MID_MATCH_Title_Help,Select a mode.
-MID_MATCH_Unit_Duplicate,is set up to defend.
-MID_MATCH_Victory,VICTORY!
-MID_NETWORK_BACK_CONFIRM,Return to the menu?
-MID_NETWORK_BACK_CONFIRM_YES,Return to menu
-MID_NETWORK_Clear_Reward,Clear Rewards
-MID_NETWORK_Degree,Title
-MID_NETWORK_H_BACK_CONFIRM,Return to menu
-MID_NETWORK_LimitTurn_Content,( players)
-MID_NETWORK_Map_Name,Map
-MID_NETWORK_Map_Name_Content,( )
-MID_NETWORK_Map_Outline,Map Information
-MID_NETWORK_Map_Select,Select Map
-MID_NETWORK_Reward,Reward
-MID_NET_Connecting,Connecting...
+battle will affect your rating."
+MID_MATCH_Serious_Help,Select an action.
+MID_MATCH_Surrender,Concede
+MID_MATCH_Surrender_Attention,Concede defeat?
+MID_MATCH_Surrender_Yes,Concede
+MID_MATCH_Title,Outrealm Trial
+MID_MATCH_Title_Help,Select a mode.
+MID_MATCH_Unit_Duplicate,is set up to defend.
+MID_MATCH_Victory,VICTORY!
+MID_NETWORK_BACK_CONFIRM,Return to the menu?
+MID_NETWORK_BACK_CONFIRM_YES,Return to menu
+MID_NETWORK_Clear_Reward,Clear Rewards
+MID_NETWORK_Degree,Title
+MID_NETWORK_H_BACK_CONFIRM,Return to menu
+MID_NETWORK_LimitTurn_Content,( players)
+MID_NETWORK_Map_Name,Map
+MID_NETWORK_Map_Name_Content,( )
+MID_NETWORK_Map_Outline,Map Information
+MID_NETWORK_Map_Select,Select Map
+MID_NETWORK_Reward,Reward
+MID_NET_Connecting,Connecting...
 MID_NET_Connecting_Error,"An error has occurred. 
-Please try again later."
-MID_NET_Error,An error has occurred.
-MID_NET_Error_TROPE,No connection.
+Please try again later."
+MID_NET_Error,An error has occurred.
+MID_NET_Error_TROPE,No connection.
 MID_NET_NFC_Error,"Connection with the amiibo-reading controller 
-has been interrupted."
-MID_NET_Notes_Report,"If your behavior or shared content violates the Community Guidelines, your data may be deleted from the server or your access to online play restricted. To report inappropriate content, select Report from the System menu."
-MID_NET_Notes_Terms,Your Nintendo Switch user nickname will be visible to other players in Relay Trials and Outrealm Trials. Your profile card will also be visible if you set your card's privacy setting to Public. The Community Guidelines apply to in-game behavior and shared content and can be found on Nintendo's website. Please be considerate to your fellow players.
+has been interrupted."
+MID_NET_Notes_Report,"If your behavior or shared content violates the Community Guidelines, your data may be deleted from the server or your access to online play restricted. To report inappropriate content, select Report from the System menu."
+MID_NET_Notes_Terms,Your Nintendo Switch user nickname will be visible to other players in Relay Trials and Outrealm Trials. Your profile card will also be visible if you set your card's privacy setting to Public. The Community Guidelines apply to in-game behavior and shared content and can be found on Nintendo's website. Please be considerate to your fellow players.
 MID_NET_RANKING_On,"Online features are currently off. 
 To see other players' unit rankings, 
-would you like to turn them on?"
-MID_NET_Setting,Connection has not been enabled in Settings.
+would you like to turn them on?"
+MID_NET_Setting,Connection has not been enabled in Settings.
 MID_NET_SettingOn,"Online features are currently off. 
-Would you like to turn them on?"
-MID_NET_SettingOn_Yes,Yes
-MID_NET_Title_Help,Select a trial to take on.
+Would you like to turn them on?"
+MID_NET_SettingOn_Yes,Yes
+MID_NET_Title_Help,Select a trial to take on.
 MID_NET_TowerNetwork_On,"Online features are currently off. 
 To enjoy the game with other players, 
-would you like to turn them on?"
+would you like to turn them on?"
 MID_ProfileCard_Match_NoProfile,"You have no profile cards that can be used 
-for battle."
-MID_RANKING_Fail,Failed to retrieve ranking data.
-MID_RANKING_First,
-MID_RANKING_Other,
-MID_RANKING_Second,
-MID_RANKING_Third,
-MID_RANKING_Title,Rankings
-MID_RELAY_Award_Adjacent,Aggressor
-MID_RELAY_Award_All,All Participants
-MID_RELAY_Award_Break,Breaker
-MID_RELAY_Award_ChainAttack,Chain Attacker
-MID_RELAY_Award_ChainGuard,Guardian
-MID_RELAY_Award_Count_Adjacent,Most Adjacent Attacks
-MID_RELAY_Award_Count_Break,Most Foes Broken
-MID_RELAY_Award_Count_ChainAttack,Most Chain Attacks
-MID_RELAY_Award_Count_ChainGuard,Most Chain Guards
-MID_RELAY_Award_Count_Critical,Most Critical Hits
-MID_RELAY_Award_Count_Damage,Most Damage Taken
-MID_RELAY_Award_Count_Engage,Most Engages
-MID_RELAY_Award_Count_EngageAttack,Most Engage Attacks
-MID_RELAY_Award_Count_Indirect,Most Ranged Attacks
-MID_RELAY_Award_Count_Item,Most Items Used
-MID_RELAY_Award_Count_Kill,Most Foes Defeated
-MID_RELAY_Award_Count_LongWalk,Most Distance Traveled
-MID_RELAY_Award_Count_NoKill,Most Attacks without Defeating Foes
-MID_RELAY_Award_Count_Poison,Most Foes Poisoned
-MID_RELAY_Award_Count_Recovered,Most Allies Healed
-MID_RELAY_Award_Count_Skill,Most Skills Used
-MID_RELAY_Award_Count_Smash,Most Smash Attacks
-MID_RELAY_Award_Count_SpecialAttack,Most Effective Hits
-MID_RELAY_Award_Count_Standby,Most Times Waited
-MID_RELAY_Award_Critical,Critical Hitter
-MID_RELAY_Award_Damage,Survivor
-MID_RELAY_Award_EnergySaving,Slowpoke
-MID_RELAY_Award_Engage,Engage Master
-MID_RELAY_Award_EngageAttack,As One
-MID_RELAY_Award_Indirect,Sharpshooter
-MID_RELAY_Award_Invisible,No Damage Taken
-MID_RELAY_Award_Item,Item Master
-MID_RELAY_Award_Kill,Slayer
-MID_RELAY_Award_LongWalk,Runner
-MID_RELAY_Award_MyPace,Least Distance Traveled
-MID_RELAY_Award_NoDamage,Untouched
-MID_RELAY_Award_NoKill,Assistant
-MID_RELAY_Award_Peace,Softy
-MID_RELAY_Award_Poison,Poison Master
-MID_RELAY_Award_Protected,Troublemaker
-MID_RELAY_Award_Recovered,Healing Master
-MID_RELAY_Award_Regret,Runner-Up
-MID_RELAY_Award_Sabotage,Cautious
-MID_RELAY_Award_Sabotage_Comment,Least Active
-MID_RELAY_Award_Sabotage_Unlucky,Most Foe Skills Activated
-MID_RELAY_Award_Skill,Skill Master
-MID_RELAY_Award_SkillTarget,Cursed Target
-MID_RELAY_Award_Smash,Smasher
-MID_RELAY_Award_SpecialAttack,Bane Master
-MID_RELAY_Award_Standby,Wanderer
-MID_RELAY_Award_Strike,Least Damage Inflicted
-MID_RELAY_Award_TroubleMaker,Healed Most by Allies
-MID_RELAY_Data_Error,Data not found.
-MID_RELAY_Failure,TRIAL FAILED
-MID_RELAY_FinalRecord,Final Results
+for battle."
+MID_RANKING_Fail,Failed to retrieve ranking data.
+MID_RANKING_First,
+MID_RANKING_Other,
+MID_RANKING_Second,
+MID_RANKING_Third,
+MID_RANKING_Title,Rankings
+MID_RELAY_Award_Adjacent,Aggressor
+MID_RELAY_Award_All,All Participants
+MID_RELAY_Award_Break,Breaker
+MID_RELAY_Award_ChainAttack,Chain Attacker
+MID_RELAY_Award_ChainGuard,Guardian
+MID_RELAY_Award_Count_Adjacent,Most Adjacent Attacks
+MID_RELAY_Award_Count_Break,Most Foes Broken
+MID_RELAY_Award_Count_ChainAttack,Most Chain Attacks
+MID_RELAY_Award_Count_ChainGuard,Most Chain Guards
+MID_RELAY_Award_Count_Critical,Most Critical Hits
+MID_RELAY_Award_Count_Damage,Most Damage Taken
+MID_RELAY_Award_Count_Engage,Most Engages
+MID_RELAY_Award_Count_EngageAttack,Most Engage Attacks
+MID_RELAY_Award_Count_Indirect,Most Ranged Attacks
+MID_RELAY_Award_Count_Item,Most Items Used
+MID_RELAY_Award_Count_Kill,Most Foes Defeated
+MID_RELAY_Award_Count_LongWalk,Most Distance Traveled
+MID_RELAY_Award_Count_NoKill,Most Attacks without Defeating Foes
+MID_RELAY_Award_Count_Poison,Most Foes Poisoned
+MID_RELAY_Award_Count_Recovered,Most Allies Healed
+MID_RELAY_Award_Count_Skill,Most Skills Used
+MID_RELAY_Award_Count_Smash,Most Smash Attacks
+MID_RELAY_Award_Count_SpecialAttack,Most Effective Hits
+MID_RELAY_Award_Count_Standby,Most Times Waited
+MID_RELAY_Award_Critical,Critical Hitter
+MID_RELAY_Award_Damage,Survivor
+MID_RELAY_Award_EnergySaving,Slowpoke
+MID_RELAY_Award_Engage,Engage Master
+MID_RELAY_Award_EngageAttack,As One
+MID_RELAY_Award_Indirect,Sharpshooter
+MID_RELAY_Award_Invisible,No Damage Taken
+MID_RELAY_Award_Item,Item Master
+MID_RELAY_Award_Kill,Slayer
+MID_RELAY_Award_LongWalk,Runner
+MID_RELAY_Award_MyPace,Least Distance Traveled
+MID_RELAY_Award_NoDamage,Untouched
+MID_RELAY_Award_NoKill,Assistant
+MID_RELAY_Award_Peace,Softy
+MID_RELAY_Award_Poison,Poison Master
+MID_RELAY_Award_Protected,Troublemaker
+MID_RELAY_Award_Recovered,Healing Master
+MID_RELAY_Award_Regret,Runner-Up
+MID_RELAY_Award_Sabotage,Cautious
+MID_RELAY_Award_Sabotage_Comment,Least Active
+MID_RELAY_Award_Sabotage_Unlucky,Most Foe Skills Activated
+MID_RELAY_Award_Skill,Skill Master
+MID_RELAY_Award_SkillTarget,Cursed Target
+MID_RELAY_Award_Smash,Smasher
+MID_RELAY_Award_SpecialAttack,Bane Master
+MID_RELAY_Award_Standby,Wanderer
+MID_RELAY_Award_Strike,Least Damage Inflicted
+MID_RELAY_Award_TroubleMaker,Healed Most by Allies
+MID_RELAY_Data_Error,Data not found.
+MID_RELAY_Failure,TRIAL FAILED
+MID_RELAY_FinalRecord,Final Results
 MID_RELAY_H_ID_Search,"Enter an ID to take over the trial 
-data of a specific player."
+data of a specific player."
 MID_RELAY_H_NewData,"Spend a ticket to create data and 
-start a trial from the beginning."
-MID_RELAY_H_Random,Take over a trial chosen at random.
+start a trial from the beginning."
+MID_RELAY_H_Random,Take over a trial chosen at random.
 MID_RELAY_H_Replay,"See the results of battles you took 
 part in. Claim rewards and watch 
-full or partial replays."
+full or partial replays."
 MID_RELAY_H_TakeOver,"Take over another player's 
-in-progress trial data."
+in-progress trial data."
 MID_RELAY_Help,"Tackle a map with other players 
 online in a relay-style cooperative 
-mode. Tickets required to play."
-MID_RELAY_ID_Input,Enter a Takeover ID.
-MID_RELAY_ID_Search,Enter ID
+mode. Tickets required to play."
+MID_RELAY_ID_Input,Enter a Takeover ID.
+MID_RELAY_ID_Search,Enter ID
 MID_RELAY_ID_Search_Again_Error,"Cannot take over a trial that you have already 
-participated in."
-MID_RELAY_ID_Search_Attention,Search for this Takeover ID?
-MID_RELAY_ID_Search_Error,Cannot take over this trial.
-MID_RELAY_ID_Search_Finish_Error,Cannot take over a trial that has already ended.
-MID_RELAY_ID_Search_MyMap_Error,Cannot take over a trial that you started.
+participated in."
+MID_RELAY_ID_Search_Attention,Search for this Takeover ID?
+MID_RELAY_ID_Search_Error,Cannot take over this trial.
+MID_RELAY_ID_Search_Finish_Error,Cannot take over a trial that has already ended.
+MID_RELAY_ID_Search_MyMap_Error,Cannot take over a trial that you started.
 MID_RELAY_ID_Search_NoData,"Failed to obtain data. It may have been deleted 
-in the time since the last update."
-MID_RELAY_ID_Search_OK,Search
+in the time since the last update."
+MID_RELAY_ID_Search_OK,Search
 MID_RELAY_ID_Search_Other_Error,"Cannot take over a trial that is currently being 
 played by someone else. Wait until the results 
-have been uploaded or 24 hours have passed."
-MID_RELAY_Joining_players,Participants
-MID_RELAY_Lose,Defeat
-MID_RELAY_Map_Select,Select a map.
+have been uploaded or 24 hours have passed."
+MID_RELAY_Joining_players,Participants
+MID_RELAY_Lose,Defeat
+MID_RELAY_Map_Select,Select a map.
 MID_RELAY_MyMap_ID,"The Takeover ID for this trial is: 
 
 Give this ID to anyone you want to be able 
-to take over this trial."
-MID_RELAY_NewData,New Trial
+to take over this trial."
+MID_RELAY_NewData,New Trial
 MID_RELAY_OPEN_N006,"You can now select Vicious Volcano 
-in Relay Trials."
-MID_RELAY_PlayUser,Replay of 's turns...
-MID_RELAY_PlayerChange,CHANGE PLAYER!
-MID_RELAY_Random,Random
-MID_RELAY_Redo,Retry connection?
-MID_RELAY_Replay,View Results
-MID_RELAY_Replay_Beginning,Watch replay?
-MID_RELAY_Replay_Beginning_No,Results Only
+in Relay Trials."
+MID_RELAY_PlayUser,Replay of 's turns...
+MID_RELAY_PlayerChange,CHANGE PLAYER!
+MID_RELAY_Random,Random
+MID_RELAY_Redo,Retry connection?
+MID_RELAY_Replay,View Results
+MID_RELAY_Replay_Beginning,Watch replay?
+MID_RELAY_Replay_Beginning_No,Results Only
 MID_RELAY_Replay_Beginning_NoFinish,"Watch partial replay? (The battle isn't complete 
-yet, but you can watch up to the present.)"
-MID_RELAY_Replay_Beginning_NoFinish_Yes,Watch
-MID_RELAY_Replay_Beginning_Yes,Watch
-MID_RELAY_Replay_Datetime,/ / :
+yet, but you can watch up to the present.)"
+MID_RELAY_Replay_Beginning_NoFinish_Yes,Watch
+MID_RELAY_Replay_Beginning_Yes,Watch
+MID_RELAY_Replay_Datetime,/ / :
 MID_RELAY_Replay_Empty,"No data is available. (Data is deleted after a 
-certain period of time has passed.)"
-MID_RELAY_Replay_NotSeeYet,You have no Relay Trial data available.
+certain period of time has passed.)"
+MID_RELAY_Replay_NotSeeYet,You have no Relay Trial data available.
 MID_RELAY_Replay_NotUpdate,"This data could not be updated because 
-another player has taken over."
-MID_RELAY_Replay_Reward_Received,You already claimed the reward for this trial.
-MID_RELAY_Replay_Select,My Battles
-MID_RELAY_Replay_Select_Prompt,Select data to view.
+another player has taken over."
+MID_RELAY_Replay_Reward_Received,You already claimed the reward for this trial.
+MID_RELAY_Replay_Select,My Battles
+MID_RELAY_Replay_Select_Prompt,Select data to view.
 MID_RELAY_Reselect,"Another player has taken this over. 
-Different data will be selected."
-MID_RELAY_Stamp_Alfred_0,Check out my results!
-MID_RELAY_Stamp_Anna_0,I threw in something extra!
-MID_RELAY_Stamp_Bonet_0,What a delightful appetizer.
-MID_RELAY_Stamp_Boucheron_0,I'm getting a little misty...
-MID_RELAY_Stamp_Byleth_0,Remember all you've learned.
-MID_RELAY_Stamp_Celica_0,"Oh, I detest violence..."
-MID_RELAY_Stamp_Celine_0,I require your strength.
-MID_RELAY_Stamp_Chloe_0,So many possibilities!
-MID_RELAY_Stamp_Citrinica_0,You have my full support.
-MID_RELAY_Stamp_Clan_0,That was tough. I feel faint!
-MID_RELAY_Stamp_Diamand_0,Together we'll get through it.
-MID_RELAY_Stamp_Eirik_0,I wish you the best of luck.
-MID_RELAY_Stamp_Etie_0,Ready to get this done?
-MID_RELAY_Stamp_Fogato_0,You're awesome!
-MID_RELAY_Stamp_Fram_0,Hoping for a miracle!
-MID_RELAY_Stamp_Goldmary_0,Sorry if this intimidates you.
-MID_RELAY_Stamp_Hortensia_0,You better come back safe!
-MID_RELAY_Stamp_Ike_0,Don't let your friends down.
-MID_RELAY_Stamp_Ivy_0,I believe in you.
-MID_RELAY_Stamp_Jade_0,Things are getting interesting.
-MID_RELAY_Stamp_Jean_0,I'm counting on you.
-MID_RELAY_Stamp_Kagetsu_0,"I am relying on you, friend!"
-MID_RELAY_Stamp_Kamui_0,I know you can do this.
-MID_RELAY_Stamp_Lapis_0,Strength is what we need.
-MID_RELAY_Stamp_Leaf_0,We will overcome.
-MID_RELAY_Stamp_Lin_0,Let the wind be at your back.
-MID_RELAY_Stamp_Linden_0,My experiment went wrong...
-MID_RELAY_Stamp_Louis_0,I'll have my eye on you.
-MID_RELAY_Stamp_Lucina_0,We'll challenge our fate!
-MID_RELAY_Stamp_Lueur_F_0,A pleasure to work with you.
-MID_RELAY_Stamp_Lueur_M_0,I leave the rest to you.
-MID_RELAY_Stamp_Lumiere_0,"Stay safe, all right?"
-MID_RELAY_Stamp_Marth_0,Engage!
-MID_RELAY_Stamp_Mauve_0,I'm sorry. It's up to you now.
-MID_RELAY_Stamp_Merin_0,"Yeah, I've got moves."
-MID_RELAY_Stamp_Message,Messages for the next player.
-MID_RELAY_Stamp_Micaiah_0,Pleased to work with you.
-MID_RELAY_Stamp_Misutira_0,This'll be an easy win!
-MID_RELAY_Stamp_Pandoro_0,AWOOOOO!
-MID_RELAY_Stamp_Panetone_0,You must press the attack!
-MID_RELAY_Stamp_Rosado_0,I think I overdid it a little.
-MID_RELAY_Stamp_Roy_0,Now the real battle begins.
-MID_RELAY_Stamp_Saphir_0,We'll need better tactics...
-MID_RELAY_Stamp_Seadas_0,The stage is yours now.
-MID_RELAY_Stamp_Siglud_0,I have no regrets.
-MID_RELAY_Stamp_Staluke_0,This is terrible. I'm so sorry...
-MID_RELAY_Stamp_Umber_0,We're gonna be legends!
-MID_RELAY_Stamp_Vandre_0,Please proceed with caution.
-MID_RELAY_Stamp_Veyre_0,I did the best I could.
-MID_RELAY_Stamp_Yunaka_0,Zappy! It's all you from here!
-MID_RELAY_Stamp_Zelkova_0,What do you *think* of this?
-MID_RELAY_TakeOver,Take Over
-MID_RELAY_TakeOver_Empty,No data to take over.
-MID_RELAY_TakeOver_Help,Choose a selection method.
-MID_RELAY_TakeOver_ID,Takeover ID
-MID_RELAY_TakeOver_Outline,Trial
-MID_RELAY_TakeOver_START_CONFIRM,Start battle? This will lock your units in place.
-MID_RELAY_Ticket,Relay ticket(s) obtained.
-MID_RELAY_Ticket_Lack,You need a ticket to start a new trial.
-MID_RELAY_Ticket_Stock,Relay Tickets:
-MID_RELAY_Title,Relay Trial
-MID_RELAY_Title_Help,Select how to begin the trial.
-MID_RELAY_Unit_Lack,You do not have enough units.
+Different data will be selected."
+MID_RELAY_Stamp_Alfred_0,Check out my results!
+MID_RELAY_Stamp_Anna_0,I threw in something extra!
+MID_RELAY_Stamp_Bonet_0,What a delightful appetizer.
+MID_RELAY_Stamp_Boucheron_0,I'm getting a little misty...
+MID_RELAY_Stamp_Byleth_0,Remember all you've learned.
+MID_RELAY_Stamp_Celica_0,"Oh, I detest violence..."
+MID_RELAY_Stamp_Celine_0,I require your strength.
+MID_RELAY_Stamp_Chloe_0,So many possibilities!
+MID_RELAY_Stamp_Citrinica_0,You have my full support.
+MID_RELAY_Stamp_Clan_0,That was tough. I feel faint!
+MID_RELAY_Stamp_Diamand_0,Together we'll get through it.
+MID_RELAY_Stamp_Eirik_0,I wish you the best of luck.
+MID_RELAY_Stamp_Etie_0,Ready to get this done?
+MID_RELAY_Stamp_Fogato_0,You're awesome!
+MID_RELAY_Stamp_Fram_0,Hoping for a miracle!
+MID_RELAY_Stamp_Goldmary_0,Sorry if this intimidates you.
+MID_RELAY_Stamp_Hortensia_0,You better come back safe!
+MID_RELAY_Stamp_Ike_0,Don't let your friends down.
+MID_RELAY_Stamp_Ivy_0,I believe in you.
+MID_RELAY_Stamp_Jade_0,Things are getting interesting.
+MID_RELAY_Stamp_Jean_0,I'm counting on you.
+MID_RELAY_Stamp_Kagetsu_0,"I am relying on you, friend!"
+MID_RELAY_Stamp_Kamui_0,I know you can do this.
+MID_RELAY_Stamp_Lapis_0,Strength is what we need.
+MID_RELAY_Stamp_Leaf_0,We will overcome.
+MID_RELAY_Stamp_Lin_0,Let the wind be at your back.
+MID_RELAY_Stamp_Linden_0,My experiment went wrong...
+MID_RELAY_Stamp_Louis_0,I'll have my eye on you.
+MID_RELAY_Stamp_Lucina_0,We'll challenge our fate!
+MID_RELAY_Stamp_Lueur_F_0,A pleasure to work with you.
+MID_RELAY_Stamp_Lueur_M_0,I leave the rest to you.
+MID_RELAY_Stamp_Lumiere_0,"Stay safe, all right?"
+MID_RELAY_Stamp_Marth_0,Engage!
+MID_RELAY_Stamp_Mauve_0,I'm sorry. It's up to you now.
+MID_RELAY_Stamp_Merin_0,"Yeah, I've got moves."
+MID_RELAY_Stamp_Message,Messages for the next player.
+MID_RELAY_Stamp_Micaiah_0,Pleased to work with you.
+MID_RELAY_Stamp_Misutira_0,This'll be an easy win!
+MID_RELAY_Stamp_Pandoro_0,AWOOOOO!
+MID_RELAY_Stamp_Panetone_0,You must press the attack!
+MID_RELAY_Stamp_Rosado_0,I think I overdid it a little.
+MID_RELAY_Stamp_Roy_0,Now the real battle begins.
+MID_RELAY_Stamp_Saphir_0,We'll need better tactics...
+MID_RELAY_Stamp_Seadas_0,The stage is yours now.
+MID_RELAY_Stamp_Siglud_0,I have no regrets.
+MID_RELAY_Stamp_Staluke_0,This is terrible. I'm so sorry...
+MID_RELAY_Stamp_Umber_0,We're gonna be legends!
+MID_RELAY_Stamp_Vandre_0,Please proceed with caution.
+MID_RELAY_Stamp_Veyre_0,I did the best I could.
+MID_RELAY_Stamp_Yunaka_0,Zappy! It's all you from here!
+MID_RELAY_Stamp_Zelkova_0,What do you *think* of this?
+MID_RELAY_TakeOver,Take Over
+MID_RELAY_TakeOver_Empty,No data to take over.
+MID_RELAY_TakeOver_Help,Choose a selection method.
+MID_RELAY_TakeOver_ID,Takeover ID
+MID_RELAY_TakeOver_Outline,Trial
+MID_RELAY_TakeOver_START_CONFIRM,Start battle? This will lock your units in place.
+MID_RELAY_Ticket,Relay ticket(s) obtained.
+MID_RELAY_Ticket_Lack,You need a ticket to start a new trial.
+MID_RELAY_Ticket_Stock,Relay Tickets:
+MID_RELAY_Title,Relay Trial
+MID_RELAY_Title_Help,Select how to begin the trial.
+MID_RELAY_Unit_Lack,You do not have enough units.
 MID_RELAY_Unit_Select,"Please send units to fight. Use Unit Selection 
-to pick additional units."
-MID_RELAY_UpRoad,This data will be uploaded.
+to pick additional units."
+MID_RELAY_UpRoad,This data will be uploaded.
 MID_RELAY_UpdateContents_Attention,"Select a trial data setting: 
 Public (anyone can take over your trial) 
-Private (an ID is needed to take over your trial)"
-MID_RELAY_UpdateContents_No,Private
-MID_RELAY_UpdateContents_Yes,Public
-MID_RELAY_UserMessage,Message from
-MID_RELAY_Win,Victory
-MID_REPORT_CATEGORY,Type of Report
-MID_REPORT_CATEGORY_COMMERCIAL,Advertising
-MID_REPORT_CATEGORY_CRIMINAL,Violent Content
-MID_REPORT_CATEGORY_HARASSMENT,Hateful/Bullying
-MID_REPORT_CATEGORY_IMMORAL,Inappropriate/Harmful
-MID_REPORT_CATEGORY_OTHER,Other Inappropriate Content
-MID_REPORT_CATEGORY_PERSONAL,Disclosure of Personal Information
-MID_REPORT_CATEGORY_SELECT,Please select the type of report to send.
-MID_REPORT_CATEGORY_SEXUALLY_EXPLICIT,Sexually Explicit
-MID_REPORT_MAP,Report Map
+Private (an ID is needed to take over your trial)"
+MID_RELAY_UpdateContents_No,Private
+MID_RELAY_UpdateContents_Yes,Public
+MID_RELAY_UserMessage,Message from
+MID_RELAY_Win,Victory
+MID_REPORT_CATEGORY,Type of Report
+MID_REPORT_CATEGORY_COMMERCIAL,Advertising
+MID_REPORT_CATEGORY_CRIMINAL,Violent Content
+MID_REPORT_CATEGORY_HARASSMENT,Hateful/Bullying
+MID_REPORT_CATEGORY_IMMORAL,Inappropriate/Harmful
+MID_REPORT_CATEGORY_OTHER,Other Inappropriate Content
+MID_REPORT_CATEGORY_PERSONAL,Disclosure of Personal Information
+MID_REPORT_CATEGORY_SELECT,Please select the type of report to send.
+MID_REPORT_CATEGORY_SEXUALLY_EXPLICIT,Sexually Explicit
+MID_REPORT_MAP,Report Map
 MID_REPORT_MAP_DELETE,"Your map was reported, and has been deleted 
-after review."
+after review."
 MID_REPORT_NOTES,"You are reporting a map for content that 
 violates the Nintendo Community Guidelines. 
 
 This report will be sent to Nintendo, not to the 
-player who uploaded the map."
-MID_REPORT_REASON,Reason for Reporting
-MID_REPORT_REASON_INPUT,Enter a reason for the report.
-MID_REPORT_RESULT,Your report has been sent and will be reviewed.
-MID_REPORT_TITLE,Report
-MID_REPORT_TITLE_HELP,Report an inappropriate map.
-MID_REPORT__CONFIRM_DIALOG,Report this content?
-MID_REPORT__CONFIRM_DIALOG_YES,Report
-MID_V001,Garden
-MID_V002,Crystals
-MID_V003,Fortress
-MID_V004,Treasure
-MID_V005,Columns
-MID_V006,Snowdrift
+player who uploaded the map."
+MID_REPORT_REASON,Reason for Reporting
+MID_REPORT_REASON_INPUT,Enter a reason for the report.
+MID_REPORT_RESULT,Your report has been sent and will be reviewed.
+MID_REPORT_TITLE,Report
+MID_REPORT_TITLE_HELP,Report an inappropriate map.
+MID_REPORT__CONFIRM_DIALOG,Report this content?
+MID_REPORT__CONFIRM_DIALOG_YES,Report
+MID_V001,Garden
+MID_V002,Crystals
+MID_V003,Fortress
+MID_V004,Treasure
+MID_V005,Columns
+MID_V006,Snowdrift

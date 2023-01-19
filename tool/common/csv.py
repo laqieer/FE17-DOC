@@ -6,7 +6,7 @@ def read_csv(filename, encoding='utf-8-sig'):
         return list(reader)
 
 def write_csv(filename, texts):
-    with open(filename, 'w', encoding='utf-8-sig') as f:
+    with open(filename, 'w', newline='', encoding='utf-8-sig') as f:
         writer = csv.writer(f)
         writer.writerow(['key', 'text'])
         for key, text in sorted(texts.items()):

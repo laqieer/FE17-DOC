@@ -1,571 +1,571 @@
-﻿key,text
+﻿key,text
 MID_BT1_#001,"[Lumera] b 
 [Lumera] 
 Relax 
 [Lumera] 
-There is no need to hold back, my child."
+There is no need to hold back, my child."
 MID_BT1_#002,"[Alear] t 
 [Alear] 
 Angry 
 
 [Alear] 
-All right."
+All right."
 MID_BT2_#001,"[Alear] t 
 [Alear] 
 Angry 
 
 [Alear] 
-This is certainly more of a challenge."
+This is certainly more of a challenge."
 MID_BT2_#002,"[Lumera] b 
 "" [Lumera] Strike 
 [Lumera] 
 Your enemies will not hold back, and neither 
-will I. That is why you must defeat me."
+will I. That is why you must defeat me."
 MID_BT2_#003,"[Lumera] 
 Relax 
 What a delight it is to see you in battle after all 
-these years."
+these years."
 MID_BT3_#001,"[Vander] t 
 
 [Vander] Pain 
 
 [Vander] 
 Queen Lumera, please forgive me for standing 
-against you."
+against you."
 MID_BT3_#002,"[Lumera] b 
 [Lumera] 
 Relax 
 [Lumera] 
 Vander, you are my child's knight─you must fill 
-that role as best you can."
+that role as best you can."
 MID_BT3_#003,"$ [Lumera] StandBy 
-Attack me with all your might."
+Attack me with all your might."
 MID_BT4_#001,"[Clanne] t 
 [Clanne] Sad 
 [Clanne] 
 Queen Lumera, I don't want to attack you. 
-Ugh, I feel dizzy..."
+Ugh, I feel dizzy..."
 MID_BT4_#002,"[Lumera] b 
 "" [Lumera] Status 
 [Lumera] 
-Sharpen your focus, Clanne, lest you miss."
+Sharpen your focus, Clanne, lest you miss."
 MID_BT5_#001,"[Framme] t 
 [Framme] 
 Angry 
 [Framme] 
 No disrespect, Queen Lumera, but I've gotta 
-attack you!"
+attack you!"
 MID_BT5_#002,"[Lumera] b 
 "" [Lumera] Status 
 [Lumera] 
-That's the spirit, Framme."
+That's the spirit, Framme."
 MID_BT6_#001,"[Lumera] b 
 [Lumera] Pain 
 [Lumera] 
-Agh..."
+Agh..."
 MID_BT6_#002,"$ [Lumera] StandBy 
 You've won. I'm proud to see you working 
-together so well."
+together so well."
 MID_ED1_#001,"[Lumera] 1 
 [Alear] 2 
 
 [Lumera] [Lumera] Appeal 
 Well fought, everyone. You bested Sigurd 
-and me. That's quite the feat."
+and me. That's quite the feat."
 MID_ED1_#002,"There is much to improve upon, but this is a 
-wonderful start. Great work, ."
+wonderful start. Great work, ."
 MID_ED1_#003,"[Alear] 
-Thank you."
+Thank you."
 MID_ED1_#004,"[Framme] 4 
 [Framme] 
 I can't believe we had to fight against 
-Queen Lumera."
+Queen Lumera."
 MID_ED1_#005,"[Framme] 
 [Clanne] 4 
 [Clanne] 
-Yeah, well, I can't believe we won."
+Yeah, well, I can't believe we won."
 MID_ED1_#006,"[Clanne] 
 
 [Vander] 4 
 
 [Vander] 
 Though you have only just awoken, your power 
-seems to be growing already, Divine One."
+seems to be growing already, Divine One."
 MID_ED1_#007,"[Vander] 
 
 [Lumera] 
-I'd like for you to have this, ."
+I'd like for you to have this, ."
 MID_ED1_#008,"[Alear] 
-This is the sword you were using, isn't it?"
+This is the sword you were using, isn't it?"
 MID_ED1_#009,"[Lumera] 
 Yes─an ancient blade that can be wielded only 
-by Divine Dragons."
+by Divine Dragons."
 MID_ED1_#010,"It served me well for many years, but now it is 
-yours. Consider it a prize for your victory today."
+yours. Consider it a prize for your victory today."
 MID_ED1_#011,"[Alear] 
 Thank you. Someday I'll prove that I'm worthy 
-of this sword."
+of this sword."
 MID_ED1_#012,"[Lumera] 
-I have no doubt."
-MID_ED1_#013,"Please, take this as well."
+I have no doubt."
+MID_ED1_#013,"Please, take this as well."
 MID_ED1_#014,"[Alear] 
-Is this another Emblem Ring?"
+Is this another Emblem Ring?"
 MID_ED1_#015,"[Lumera] 
 No, it is purely ornamental. You see, before 
-your slumber, I made you a promise."
+your slumber, I made you a promise."
 MID_ED1_#016,"[Alear] 
-What was it?"
+What was it?"
 MID_ED1_#017,"[Lumera] 
 I said I'd give you a birthday present that suited 
-you perfectly."
+you perfectly."
 MID_ED1_#018,"I was working on it in private, but I was unable 
-to finish it in time..."
+to finish it in time..."
 MID_ED1_#019,"That birthday has long since passed, but I 
-would quite like to give you this gift now."
+would quite like to give you this gift now."
 MID_ED1_#020,"[Alear] 
-I'm sorry... I can't accept."
+I'm sorry... I can't accept."
 MID_ED1_#021,"[Lumera] 
-Why not?"
+Why not?"
 MID_ED1_#022,"[Alear] 
 That ring fulfills a promise you made me, right? 
-But I don't remember that promise."
+But I don't remember that promise."
 MID_ED1_#023,"It'd feel wrong accepting it─like I was taking a 
-present meant for someone else."
+present meant for someone else."
 MID_ED1_#024,"Please offer me this gift again once I've 
-remembered everything."
+remembered everything."
 MID_ED1_#025,"[Lumera] 
-Everything, you say."
-MID_ED1_#026,...
+Everything, you say."
+MID_ED1_#026,...
 MID_ED1_#027,"Did facing me in battle stir any 
-recollections, ?"
+recollections, ?"
 MID_ED1_#028,"[Alear] 
-It didn't. I'm sorry."
+It didn't. I'm sorry."
 MID_ED1_#029,"[Lumera] 
 You need not apologize. It doesn't matter what 
-you can remember right now..."
+you can remember right now..."
 MID_ED1_#030,"I only hope that one day, you will think of me 
-as your mother."
-MID_ED1_#031,As you did a thousand years ago.
+as your mother."
+MID_ED1_#031,As you did a thousand years ago.
 MID_ED1_#032,"[Alear] 
-..."
+..."
 MID_ED1_#033,"[Lumera] 
 Forgive me. I was so thrilled to spend time with 
-you again."
-MID_ED1_#034,"I suppose I got a little carried away, didn't I?"
+you again."
+MID_ED1_#034,"I suppose I got a little carried away, didn't I?"
 MID_ED1_#035,"[Alear] 
-Oh, no. It's all right."
+Oh, no. It's all right."
 MID_ED1_#036,"[Lumera] 
 Haha, I don't mean to put you on the spot. 
-Perhaps we should call it a day, hm?"
-MID_ED1_#037,But let's agree to chat again in the morning.
-MID_ED1_#038,What do you say? Pinky promise?
+Perhaps we should call it a day, hm?"
+MID_ED1_#037,But let's agree to chat again in the morning.
+MID_ED1_#038,What do you say? Pinky promise?
 MID_ED1_#039,"[Alear] 
-Haha, all right."
+Haha, all right."
 MID_ED3_#001,"[Lumera] 1 
 
 [Lumera] 
-Haha!"
+Haha!"
 MID_ED3_#002,"How wonderful to see my child awake at last. 
-Now, we'll never have to be apart."
+Now, we'll never have to be apart."
 MID_ED3_#003,"There is so much to catch up on. So much to 
-see and do together!"
+see and do together!"
 MID_ED3_#004,"We can chat for hours, take long walks, 
-share meals. And then..."
-MID_ED3_#005,"If my child's memories are truly lost, I wonder..."
-MID_ED3_#006,...
-MID_ED3_#007,Emblem Sigurd.
+share meals. And then..."
+MID_ED3_#005,"If my child's memories are truly lost, I wonder..."
+MID_ED3_#006,...
+MID_ED3_#007,Emblem Sigurd.
 MID_ED3_#008,"[Sigurd] 2 
 
 [Sigurd] 
-I am here."
+I am here."
 MID_ED3_#009,"[Lumera] 
-There's something I'd like to discuss with you."
+There's something I'd like to discuss with you."
 MID_ED4_#001,"[Alear] 2 
 
 [Alear] 
-Today certainly was eventful."
+Today certainly was eventful."
 MID_ED4_#002,"Queen Lumera seems so kind and caring. 
-I'm sure she was a wonderful mother."
-MID_ED4_#003,If only I could remember those days.
-MID_ED4_#004,I must have felt so lucky to be her child...
+I'm sure she was a wonderful mother."
+MID_ED4_#003,If only I could remember those days.
+MID_ED4_#004,I must have felt so lucky to be her child...
 MID_EV10_#001,"[Marth] t 
 [Marth] StandBy 
 [Marth] 
 My rapier is effective against cavalry─like those 
-enemies over there."
+enemies over there."
 MID_EV10_#002,"[Marth] 
 Relax 
 Once we engage, you can use my weapon. 
-Try it against that foe."
+Try it against that foe."
 MID_EV11_#001,"[Lumera] b 
 "" [Lumera] Status 
 [Lumera] 
 Your teamwork is inspiring. Now it's time for 
-us to make our move."
+us to make our move."
 MID_EV11_#002,"$ [Lumera] StandBy 
-Come, Sigurd."
+Come, Sigurd."
 MID_EV12_#001,"[Alear] t 
 [Alear] Surprise 
 
 [Alear] 
-That was incredible."
+That was incredible."
 MID_EV12_#002,"[Vander] b 
 
 [Vander] Normal 
 
 [Vander] 
 Lord Sigurd is remarkably swift. Perhaps we 
-should be grateful this is a mock battle..."
+should be grateful this is a mock battle..."
 MID_EV1_#001,"[Vander] t 
 
 [Vander] Normal 
 
 [Vander] 
 Be cautious, Divine One. Some of these enemies 
-are carrying long-range weapons."
+are carrying long-range weapons."
 MID_EV1_#002,"Therefore, they can rain arrows upon us 
-from afar."
+from afar."
 MID_EV2_#001,"[Lumera] b 
 [Lumera] Status 
 
 [Lumera] 
 See this enemy with the axe? Axe-wielders are 
-at a disadvantage against swords."
+at a disadvantage against swords."
 MID_EV2_#002,"Swords are strong against axes. Axes, against 
-lances. And then lances, against swords."
+lances. And then lances, against swords."
 MID_EV2_#003,"If you outmatch your foe, you can break their 
-fighting stance─for an advantage in combat."
+fighting stance─for an advantage in combat."
 MID_EV2_#004,"[Lumera] 
 Relax 
 Try it! Strike with your sword. After their stance 
-is broken, they'll be open to further attack."
+is broken, they'll be open to further attack."
 MID_EV3_#001,"[Lumera] b 
 [Lumera] 
 Smile 
 
 [Lumera] 
-Well done, ."
+Well done, ."
 MID_EV3_#002,"[Lumera] Status 
 You see? Swords are strong against axes. 
-Always keep such weapon advantages in mind."
+Always keep such weapon advantages in mind."
 MID_EV3_#003,"Enemies can't counterattack while recovering 
-their stance. A good time to finish them off."
+their stance. A good time to finish them off."
 MID_EV4_#001,"[Framme] t 
 [Framme] 
 Smile 
 [Framme] 
-Ah! The Divine One looked right at me!"
+Ah! The Divine One looked right at me!"
 MID_EV4_#002,"[Framme] Strike 
 You know, I can do some mean healing with 
-my staff."
+my staff."
 MID_EV4_#003,"[Framme] Status 
 Not only that, I can take incoming hits for 
-nearby allies. But it smarts when I do..."
+nearby allies. But it smarts when I do..."
 MID_EV4_#004,"[Framme] StandBy 
 Anyway, if you don't wanna get hurt, or if you 
-need some patching up, just lean on me."
+need some patching up, just lean on me."
 MID_EV5_#001,"[Clanne] t 
 [Clanne] 
 Smile 
 [Clanne] 
 Hey, Divine One! I dunno if you knew this or 
-not, but I can use magic."
+not, but I can use magic."
 MID_EV5_#002,"[Clanne] 
 Relax 
 I'm good from near or far, even against 
-well-protected enemies!"
+well-protected enemies!"
 MID_EV6_#001,"[Lumera] b 
 
 [Lumera] 
-It's time I enter the fray."
+It's time I enter the fray."
 MID_EV7_#001,"[Lumera] b 
 [Lumera] 
 Relax 
 
 [Lumera] 
-Fantastic work. You fought together splendidly."
+Fantastic work. You fought together splendidly."
 MID_EV7_#002,"[Lumera] Status 
-Let's move on. Wait over there a moment."
+Let's move on. Wait over there a moment."
 MID_EV8_#001,"[Lumera] b 
 
 [Lumera] 
-All right. If everyone is in position, we'll begin."
+All right. If everyone is in position, we'll begin."
 MID_EV8_#002,"[Lumera] StandBy 
 This time, I will be more hands-on. I intend to 
-fight as if in an actual battle."
+fight as if in an actual battle."
 MID_EV8_#003,"n0Tex Event ItemPicture 026picture item fade in normal 
-Furthermore, I'll be using this."
+Furthermore, I'll be using this."
 MID_EV8_#004,"[Alear] t 
 [Alear] Surprise 
 
 [Alear] 
-Is that the Ring of the Holy Knight?"
+Is that the Ring of the Holy Knight?"
 MID_EV8_#005,"&gt;8picture item fade out normal 
 
 [Lumera] 
-Indeed it is. I'm inviting an old friend to join us."
+Indeed it is. I'm inviting an old friend to join us."
 MID_EV8_2_#001,"[Lumera] 1 
 
 [Lumera] 
-..."
+..."
 MID_EV9_#001,"[Sigurd] b 
 
 [Sigurd] 
 I am Sigurd. If you require strength and 
-swiftness, I am all too happy to oblige."
+swiftness, I am all too happy to oblige."
 MID_EV9_#002,"[Alear] t 
 
 [Alear] 
 Emblem Sigurd. He looks like a 
-strong opponent."
+strong opponent."
 MID_EV9_#003,"[Sigurd] 
 [Lumera] b 
 
 [Lumera] 
-Each Emblem has their own abilities."
+Each Emblem has their own abilities."
 MID_EV9_#004,"When allied with them, you can call upon their 
-unique powers and skills."
+unique powers and skills."
 MID_EV9_#005,"[Alear] 
 Whatever Sigurd's power is, it won't be the 
-same as Marth's."
-MID_EV9_#006,We'd better keep our eyes open.
+same as Marth's."
+MID_EV9_#006,We'd better keep our eyes open.
 MID_OP1_#001,"[Lumera] 1 
 [Alear] 2 
 
 [Lumera] 
-Here we are. We are safe within these walls."
+Here we are. We are safe within these walls."
 MID_OP1_#002,"[Alear] 
-So this is Lythos Castle. It's beautiful."
+So this is Lythos Castle. It's beautiful."
 MID_OP1_#003,"[Lumera] 
-I'm glad you think so, ."
+I'm glad you think so, ."
 MID_OP1_#004,"Though you may not remember this place, I've 
-long waited to welcome you back here."
-MID_OP1_#005,"Welcome home, ."
+long waited to welcome you back here."
+MID_OP1_#005,"Welcome home, ."
 MID_OP1_#006,"[Alear] 
-..."
-MID_OP1_#007,I'm home?
+..."
+MID_OP1_#007,I'm home?
 MID_OP1_#008,"[Lumera] 
-Yes, you are."
-MID_OP1_#009,"Ah, I feel overwhelmed with joy. I may cry."
+Yes, you are."
+MID_OP1_#009,"Ah, I feel overwhelmed with joy. I may cry."
 MID_OP1_#010,"[Vander] 3 
 [Clanne] 4 
 [Framme] 2 
 
 [Vander] 
-Queen Lumera..."
+Queen Lumera..."
 MID_OP1_#011,"[Lumera] 
 Vander. Clanne. Framme. Thank you for all 
-you've done. You are worthy stewards indeed."
+you've done. You are worthy stewards indeed."
 MID_OP1_#012,"You and your predecessors, watching over my 
-child all these years... I am ever so grateful."
+child all these years... I am ever so grateful."
 MID_OP1_#013,"[Vander] 
-You are too kind."
+You are too kind."
 MID_OP1_#014,"[Clanne] 
 Yeah, it's awful nice of you to say that! 
-I'm starting to feel woozy..."
+I'm starting to feel woozy..."
 MID_OP1_#015,"[Framme] 
 Aw yeah! Go us! We just got praised by Queen 
-Lumera herself!"
+Lumera herself!"
 MID_OP1_#016,"[Vander] 
 [Clanne] 
 [Framme] 
 
 [Lumera] 
 The happiness of this moment aside, I am 
-troubled to see the Corrupted here in Lythos."
+troubled to see the Corrupted here in Lythos."
 MID_OP1_#017,"[Alear] 2 
 
 [Alear] 
-The Corrupted?"
+The Corrupted?"
 MID_OP1_#018,"[Lumera] 
 Those enemies you were fighting out on 
-the grasslands."
+the grasslands."
 MID_OP1_#019,"[Alear] 
 Oh, I didn't like those things one bit. Just the 
-sight of them made my blood run cold."
+sight of them made my blood run cold."
 MID_OP1_#020,"[Lumera] 
 Understandably so. The Corrupted are corpses 
-revived by an evil power."
+revived by an evil power."
 MID_OP1_#021,"The Fell Dragon used them as his soldiers in 
-the war."
+the war."
 MID_OP1_#022,"Before the start of that bitter conflict, Elyos had 
-known peace for eons."
-MID_OP1_#023,But then a dark presence emerged─Sombron.
-MID_OP1_#024,
+known peace for eons."
+MID_OP1_#023,But then a dark presence emerged─Sombron.
+MID_OP1_#024,
 MID_OP1_#025,"Despite tireless searching, we could not 
-determine where he'd come from."
+determine where he'd come from."
 MID_OP1_#026,"But seeing the destruction he wrought, there 
-was no doubt of his evil intentions."
+was no doubt of his evil intentions."
 MID_OP1_#027,"Now the Corrupted are spreading once more. 
-This may be a sign of his return."
+This may be a sign of his return."
 MID_OP1_#028,"[Alear] 
-No..."
+No..."
 MID_OP1_#029,"[Lumera] 
 I wonder if it is mere coincidence that you 
-awakened as all this unfolds..."
+awakened as all this unfolds..."
 MID_OP1_#030,"If the Fell Dragon has been released, then we 
-must prepare for battle."
+must prepare for battle."
 MID_OP1_#031,"[Alear] 
-I can't imagine fighting someone like that."
+I can't imagine fighting someone like that."
 MID_OP1_#032,"[Lumera] 
-Worry not. I doubt he will attack anytime soon."
+Worry not. I doubt he will attack anytime soon."
 MID_OP1_#033,"This castle is filled with the spirits of Divine 
-Dragons─the Corrupted cannot enter it easily."
+Dragons─the Corrupted cannot enter it easily."
 MID_OP1_#034,"Let us devise a plan now, while we have 
-the opportunity."
-MID_OP1_#035,Emblem Marth.
+the opportunity."
+MID_OP1_#035,Emblem Marth.
 MID_OP1_#036,"[Marth] 4 
 [Marth] 
-It's been quite some time, Lumera."
+It's been quite some time, Lumera."
 MID_OP1_#037,"[Lumera] 
 That it has. Thank you for lending your aid 
-against the Corrupted."
+against the Corrupted."
 MID_OP1_#038,"[Marth] 
 You're welcome. But of course, I could help 
-only because your child remembered me."
+only because your child remembered me."
 MID_OP1_#039,"You know, it is possible the others are awake 
-now, just as I am."
+now, just as I am."
 MID_OP1_#040,"[Lumera] 
-Perhaps you are right."
+Perhaps you are right."
 MID_OP1_#041,"[Alear] 
-Sorry, but... What do you mean? Who's awake?"
+Sorry, but... What do you mean? Who's awake?"
 MID_OP1_#042,"[Lumera] 
 There is something I should show you. 
-Follow me."
+Follow me."
 MID_OP2_#001,"[Lumera] 1 
 [Alear] 2 
 
 [Alear] 
-What is this place?"
+What is this place?"
 MID_OP2_#002,"[Lumera] 
 This is the Ring Vault. It is where the Emblem 
-Rings are enshrined."
+Rings are enshrined."
 MID_OP2_#003,"Those of the Holy Knight, of the Sage Lord, 
-and of the Azure Twins rest here."
+and of the Azure Twins rest here."
 MID_OP2_#004,"As well as the Ring of the Princess Exalt and, 
-finally, the Ring of the Instructor."
+finally, the Ring of the Instructor."
 MID_OP2_#005,"Each dwells within an Emblem Ring, as Marth 
-resides in the Ring of the Hero-King."
+resides in the Ring of the Hero-King."
 MID_OP2_#006,"[Alear] 
 So, counting Marth, there are six Emblem 
-Rings. Wow."
+Rings. Wow."
 MID_OP2_#007,"[Lumera] 
 In fact, there are twelve─six here, and six 
-entrusted to the other countries."
-MID_OP2_#008,As a precautionary measure.
+entrusted to the other countries."
+MID_OP2_#008,As a precautionary measure.
 MID_OP2_#009,"[Alear] 
-What do you mean?"
+What do you mean?"
 MID_OP2_#010,"[Lumera] 
 The Emblems grant world-altering power to 
-whoever has all 12 rings."
+whoever has all 12 rings."
 MID_OP2_#011,"For generations, the Divine Dragons used this 
-power to ensure peace and prosperity in Elyos."
+power to ensure peace and prosperity in Elyos."
 MID_OP2_#012,"Indeed, that was how we locked away the 
-Fell Dragon."
+Fell Dragon."
 MID_OP2_#013,"But many have sought to steal the rings and use 
-them for their own nefarious purposes."
+them for their own nefarious purposes."
 MID_OP2_#014,"[Alear] 
 Which is why they're scattered all over the 
-continent, not just stored here."
+continent, not just stored here."
 MID_OP2_#015,"[Lumera] 
 Precisely. The rings offer their power but once 
-every thousand years."
+every thousand years."
 MID_OP2_#016,"At which time the Divine Dragon travels across 
-Elyos to collect them from each nation's ruler."
+Elyos to collect them from each nation's ruler."
 MID_OP2_#017,"With a thousand years having passed since last 
-time, I was planning to carry out this ritual soon."
+time, I was planning to carry out this ritual soon."
 MID_OP2_#018,"But if the Fell Dragon is after the rings, the 
-Emblems may be summoned before I arrive..."
+Emblems may be summoned before I arrive..."
 MID_OP2_#019,"[Alear] 
-""Summoned""?"
+""Summoned""?"
 MID_OP2_#020,"[Lumera] 
 It is how one calls for an Emblem from a ring. 
-Just as you did earlier with Marth."
+Just as you did earlier with Marth."
 MID_OP2_#021,"Only those with royal dragon blood are capable 
-of summoning. That includes you, my child."
+of summoning. That includes you, my child."
 MID_OP2_#022,"[Alear] 
 Oh... You must be talking about the phrase that 
-popped into my head."
+popped into my head."
 MID_OP2_#023,"[Lumera] 
-An invocation, you mean? What was it?"
+An invocation, you mean? What was it?"
 MID_OP2_#024,"[Alear] 
-""Shine on, Emblem of Beginnings."""
+""Shine on, Emblem of Beginnings."""
 MID_OP2_#025,"I wasn't even thinking about it. The words just... 
-fell from my mouth."
+fell from my mouth."
 MID_OP2_#026,"[Lumera] 
-That was how you summoned Marth."
-MID_OP2_#027,...
+That was how you summoned Marth."
+MID_OP2_#027,...
 MID_OP2_#028,"What was your focus─your intention─when you 
-spoke those words?"
+spoke those words?"
 MID_OP2_#029,"[Alear] 
-I wanted to help Clanne and Framme."
+I wanted to help Clanne and Framme."
 MID_OP2_#030,"I didn't want to lose them. I wanted to 
-protect them."
+protect them."
 MID_OP2_#031,"[Lumera] 
 Your focus was on helping others. Remember 
-that intention whenever you summon Emblems."
+that intention whenever you summon Emblems."
 MID_OP2_#032,"Not to keep the power for yourself, understand? 
-To borrow so you may protect others."
+To borrow so you may protect others."
 MID_OP2_#033,"[Alear] 
-I understand."
+I understand."
 MID_OP2_#034,"[Lumera] 
 Now, why don't we try a practice battle? You 
-must be a little rusty after all these years."
+must be a little rusty after all these years."
 MID_OP3_#001,"[Lumera] 2 
 [Alear] 1 
 
 [Lumera] 
 How about we train here? You will be the one 
-fighting. The Emblem lends you their strength."
+fighting. The Emblem lends you their strength."
 MID_OP3_#002,"You need to train your body and mind to 
-unleash an Emblem's full power."
+unleash an Emblem's full power."
 MID_OP3_#003,"Vander, Clanne, Framme. You will be aiding my 
-child in this battle...against me."
+child in this battle...against me."
 MID_OP3_#004,"[Vander] 3 
 
 [Vander] 
 Queen Lumera, even in a practice battle, I could 
-not turn my weapon on you."
+not turn my weapon on you."
 MID_OP3_#005,"[Lumera] 
 Oh, Vander... Please do put your heart into it. 
-I know I will."
+I know I will."
 MID_OP4_#001,"[Lumera] 2 
 [Alear] 1 
 
 [Alear] 
-The Corrupted?!"
+The Corrupted?!"
 MID_OP4_#002,"[Lumera] 
 No, dear. Not at all. How could you think so? 
-I made these opponents from plants and rocks."
+I made these opponents from plants and rocks."
 MID_OP4_#003,"Nevertheless, their abilities are the same. 
-Drop your guard and you could be hurt."
+Drop your guard and you could be hurt."
 MID_OP4_#004,"[Alear] 
 They're really unsettling. Can we train with 
-something else? They give me the chills."
+something else? They give me the chills."
 MID_OP4_#005,"[Lumera] 
 Listen. You must push through your fear and 
-face whatever opponent stands against you."
+face whatever opponent stands against you."
 MID_OP4_#006,"Never run away. You are my child, the protector 
-of all─the Divine Dragon ."
+of all─the Divine Dragon ."
 MID_OP4_#007,"[Alear] 
-I understand."
+I understand."
 MID_OP4_#008,"[Framme] 3 
 [Framme] 
 Don't worry, Divine One! We'll back you up 
-every step of the way."
+every step of the way."
 MID_OP4_#009,"[Framme] 
 [Clanne] 3 
 [Clanne] 
-Yeah! What Framme said!"
+Yeah! What Framme said!"
 MID_OP4_#010,"[Clanne] 
 
 [Vander] 3 
 
 [Vander] 
 As loath as I am to battle against Queen 
-Lumera...orders are orders."
-MID_OP4_#011,I pledge to bring us victory.
+Lumera...orders are orders."
+MID_OP4_#011,I pledge to bring us victory.
 MID_OP4_#012,"[Alear] 
-Thank you, everyone."
+Thank you, everyone."
 MID_OP4_#013,"[Lumera] 
-Now, let's begin."
+Now, let's begin."
