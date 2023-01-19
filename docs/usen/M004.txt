@@ -1,0 +1,568 @@
+=== Chapter 4 A Land in Bloom ===
+
+(Florra Mill Town)
+
+--- OP ---
+
+[Alfred] 1 
+[Alear] 2 
+[Alfred] 
+Here we are─the kingdom of Firene.
+[Alear] 
+What a beautiful place.
+[Alfred] 
+Isn't it? And no sign of the Corrupted, so 
+that's good.
+That was quite a trip, crossing the sea all the 
+way from Lythos. I hope you're not worn out.
+[Alear] 
+I'm fine.
+[Alfred] 
+Good, good. Listen, I'm sorry for twisting your 
+arm to come with me.
+[Alear] 
+Alfred, it's all right. I wanted to come.
+How about before we arrive at the castle, you 
+tell me more about this kingdom of yours?
+[Alfred] 
+Happy to! Let's see...
+Firene is one of the four nations of Elyos, 
+in the southwest.
+It's ruled by my mother, Queen Ève. We're 
+known as a...land of plenty.
+Our people value peace above all else. 
+We haven't seen war for centuries.
+[Alear] 
+You must come from a long line of 
+capable leaders.
+[Alfred] 
+That's kind of you to say. Peace doesn't 
+always come easy.
+Mother had to hammer out a nonaggression 
+pact with our neighbors.
+The pact says there won't be war between us, 
+Solm, and Brodia.
+[Alear] 
+Right─Solm, the Queendom of Freedom and 
+Brodia, the Kingdom of Might.
+[Alfred] 
+You've got it. Solm is an open-minded country. 
+They've always had good relations with Firene.
+But an alliance with Brodia took some doing. 
+Their king's an ambitious man.
+He's always launching attacks on Elusia to 
+expand his own territory.
+[Alear] 
+I take it Elusia isn't in the alliance.
+[Alfred] 
+No. Honestly, they're so far away, we don't 
+interact with them too much.
+We know it's snowy there, with long winters... 
+and that some Elusians worship the Fell Dragon.
+[Alear] 
+The Fell Dragon?
+[Alfred] 
+It's troubling, I know. But...people can believe 
+what they believe.
+Sorry... I didn't bring it up to turn you 
+against Elusia.
+[Alear] 
+It's not them I hate─it's the Fell Dragon. 
+Him and the one who killed my mother.
+Can you tell me more about the Emblem Ring 
+that was entrusted to Firene?
+[Alfred] 
+Oh, sure. It's the "Ring of the Caring Princess." 
+Doesn't look like anything special.
+Until I met you and Marth, I thought the 
+Emblems were legends.
+I can't wait to tell my sister they exist! She'll 
+really be knocked for a loop.
+[Alear] 
+You have a sister?
+[Alfred] 
+Yeah─the princess of Firene, Céline. She's at 
+the castle with Mother right now.
+[Alear] 
+Princess Céline. I look forward to meeting her.
+[Alfred] 
+Just call her Céline. I'm sure you two will get 
+along great.
+Here's Florra Mill Town. The castle's close now. 
+We'll just cut through here, and...
+Something's off.
+[Alear] 
+What is it?
+[Alfred] 
+I think there might be trouble ahead.
+
+[Alfred] t 
+[Alfred] 
+Angry 
+[Alfred] 
+Oh no...
+
+[Alear] b 
+[Alear] Pain 
+
+[Alear] 
+The Corrupted. They're everywhere.
+[Alfred] t 
+[Alfred] Sad 
+[Alfred] 
+I can't stand to see them overrunning this 
+peaceful town.
+[Alfred] 
+Angry 
+I have to drive them away. Divine One, will you 
+help me?
+[Alear] 
+Angry 
+
+[Alear] 
+Of course.
+
+Default 
+
+[Louis] 1 
+[Céline] 2 
+[Chloé] 3 
+
+[Céline] 
+Danger looms from every side. I fear we will 
+never make it to my brother.
+[Louis] 
+Princess Céline. I beg you to make your retreat. 
+We'll handle this.
+[Chloé] 
+More of the fiends might be on the way. Hurry!
+[Céline] 
+Louis! Chloé! You can't possibly expect me to─
+[Louis] 
+It is our sworn duty to protect the princess. We 
+will hold the line for you as long as we must!
+[Chloé] 
+You have to leave. If you should fall here, who 
+warns Prince Alfred of the invasion to come?
+[Céline] 
+I concede the point. But I'll return for you both. 
+Please hold out until then!
+[Céline] 
+[Louis] 
+Apologies, Chloé.
+It pains me greatly to separate you from Princess Céline, 
+for even a relatively brief amount of time.
+[Chloé] 
+Might I say, I'm a bit disappointed I didn't get to 
+see you run off with Her Highness yourself.
+A knight should never leave his princess's side.
+[Louis] 
+The sooner we win, the sooner that will come to 
+pass. What say you, Chloé? Shall we?
+[Chloé] 
+Yes! Let's!
+
+[Céline] b 
+[Céline] Surprise 
+
+[Céline] 
+Alfred!
+[Alfred] t 
+[Alfred] Surprise 
+[Alfred] 
+Céline? What are you doing here? I thought 
+you were with Mother.
+[Céline] Sad 
+
+[Céline] 
+I was, but... Alfred, the Elusian army is marching 
+on the castle.
+[Alfred] 
+What? Why?
+[Céline] 
+I cannot say. Before they arrived, Mother sent 
+me to warn you.
+But then we were ambushed on our way to 
+Florra Port...
+[Céline] 
+Angry 
+Louis and Chloé stayed behind so that I might 
+have a chance to escape.
+Please, we must hurry back to them!
+[Alfred] 
+Angry 
+[Alfred] 
+Absolutely.
+[Alfred] 
+[Alear] t 
+
+[Alear] 
+Pardon me, Princess Céline, but do you have 
+the Emblem Ring?
+[Céline] Normal 
+
+[Céline] 
+Yes. Mother gave it to me. Why do you...
+[Céline] Surprise 
+Goodness gracious! The Divine Dragon 
+?! You're here, you're...awake!
+[Alear] 
+I am.
+[Céline] 
+Smile 
+
+[Céline] 
+May I say, it is truly an honor!
+n0Tex Event ItemPicture 046picture item fade in normal 
+The Emblem Ring is right here. Please, Divine 
+One. It is yours.
+[Alear] Surprise 
+
+[Alear] 
+The words... They're coming to me...
+[Alear] StandBy 
+&gt;8picture item fade out normal 
+\ ,Tex Event Effect White(picture fade in slow 
+Care for us, Emblem of Echoes! 
+촁
+
+[Celica] b 
+[Celica] Normal 
+[Celica] 
+
+I am Emblem Celica. I detest violence...but I will 
+always fight to defend the innocent.
+[Alear] t 
+[Alear] 
+Smile 
+
+[Alear] 
+Thank you for answering my call.
+[Alear] 
+[Alfred] t 
+[Alfred] Surprise 
+[Alfred] 
+So...this is the Emblem that was in Firene's ring.
+[Alfred] 
+[Celica] 
+[Céline] b 
+[Céline] 
+Smile 
+
+[Céline] 
+Emblem Celica. How marvelous.
+[Céline] 
+Angry 
+Divine One, with your blessing─and hers, 
+of course─I would like to fight by Celica's side.
+I must protect the people of this village and 
+ensure Louis and Chloé's safety.
+[Alear] t 
+[Alear] StandBy 
+
+[Alear] 
+I entrust this ring to you, Céline.
+
+
+--- ED ---
+
+[Alear] 2 
+[Veyle] 1 
+$ [Veyle] MPID Unknown 
+
+[Alear] 
+You saved my life. Thank you.
+[Veyle] 
+It was nothing, really! I only did what anyone 
+else would do.
+[Alear] 
+Are you here by yourself?
+[Veyle] 
+I am. I saw the fighting and thought I could help.
+[Alear] 
+You're braver than I am. I can't stand 
+the Corrupted.
+I was so startled I couldn't think. You really did 
+save my life.
+[Veyle] 
+I see...
+[Alear] 
+Oh, I haven't introduced myself yet. I'm the 
+Divine Dragon .
+[Veyle] 
+What a lovely name. I'm Veyle.
+[Alear] 
+Veyle...
+[Marth] 4 
+[Marth] 
+Might I interrupt?
+[Alear] 
+What is it?
+[Marth] 
+Even with the Corrupted gone, it may not be 
+safe for her out here.
+Perhaps we should escort her home or to 
+an inn.
+[Veyle] 
+
+[Alear] 
+That's a good idea.
+Hey, Veyle, do you live around here?
+Huh?
+She's gone...
+
+[Alear] 2 
+[Céline] 1 
+
+[Céline] 
+Divine One!
+[Alear] 
+Céline.
+Did you see a girl pass this way? Small with 
+long hair? Barefoot?
+[Céline] 
+No, I'm afraid I didn't see anyone matching 
+that description.
+[Alear] 
+OK, thanks. Did you need something?
+[Céline] 
+I wanted to thank you.
+Alfred told me that you accepted Firene's 
+request for aid.
+And your help in the battle was the difference 
+between victory and defeat. Thank you, truly.
+[Alear] 
+Don't mention it.
+Alfred and I are friends. I was happy to help.
+[Céline] 
+Friends? He said that? Imagine speaking so 
+casually with the Divine Dragon...
+Please, allow me to apologize on his behalf.
+[Alear] 
+There's no need to put me on a pedestal.
+I just woke up, and the world is new to me. 
+I make mistakes like anyone.
+[Céline] 
+Is that so? I thought surely the Divine Dragon 
+would be an all-seeing, all-powerful being.
+But here I find that you are rather more...human 
+than I expected. Perhaps we can be friends.
+[Alear] 
+Then what do you say, Céline? Friends?
+[Céline] 
+I would be honored.
+
+武器屋 1 
+道具屋 3 
+武器屋 
+Hey, folks! Mind if we bend your ear a minute?
+[Alear] 2 
+
+[Vander] 4 
+
+[Alear] 
+Hm?
+武器屋 
+Name's Durthon. I'm an armorer. And this 
+here's Anisse, purveyor of goods.
+We saw you tradin' thumps with those things. 
+Figured you might be in the market for supplies.
+道具屋 
+Yes. If you need, we'd be happy to provide you 
+with quality weapons and items.
+Anything to defeat those creatures. They pose 
+a terrible threat to traveling merchants like us.
+[Alear] 
+How would you feel about moving to our 
+base? You can sell your wares from there.
+[Vander] 
+Ahem, Divine One...
+[Alear] 
+What? We don't have any facilities. These two 
+could be a good addition.
+武器屋 
+You're gonna let us open shops at your base?
+[Alear] 
+If you'd like to. We'll need plenty of weapons 
+and items from here on out.
+It's a haven. You won't find any creatures there.
+武器屋 
+You got yourself a bargain! Can't wait to 
+do business together.
+道具屋 
+Thank you for this. I will do my utmost to 
+ensure you receive the finest items.
+
+
+--- EV ---
+
+[Céline] t 
+[Céline] Status 
+
+[Céline] 
+With Celica's help, I ought to be able to reach 
+Chloé and Louis more quickly.
+
+[Céline] t 
+[Céline] 
+Angry 
+
+[Céline] 
+I am resolved to fight for peace. Hold on, you 
+two! I am on my way!
+
+[Chloé] b 
+[Chloé] 
+Angry 
+[Chloé] 
+I won't be able to get very far with these 
+archers everywhere.
+[Louis] t 
+[Louis] 
+Angry 
+[Louis] 
+How about this? I take care of the archers and 
+you deal with the magic users.
+[Chloé] 
+Relax 
+[Chloé] 
+Good idea! While their spells will go right 
+through your armor, I'm resistant to magic.
+So leave the mages to me. It's not so bad 
+protecting each other, now is it?
+[Louis] Normal 
+[Louis] 
+Indeed. This is a nice change of pace.
+
+[Céline] t 
+[Céline] 
+Smile 
+
+[Céline] 
+Emblem Celica, it is an honor.
+So it was your voice I heard on the way from 
+the castle. I am glad you're here with me.
+[Celica] b 
+[Celica] 
+Relax 
+[Celica] 
+I feel the same, Céline. I will fight by your side 
+from now on.
+[Celica] 
+Angry 
+Together, we will protect that which you 
+hold dear.
+[Céline] 
+Angry 
+
+[Céline] 
+Thank you.
+
+[Céline] t 
+[Céline] Die 
+
+[Céline] 
+I feel a great power within... We have united, 
+haven't we?
+[Céline] StandBy 
+My resolve is strong. I will protect my people. 
+I will protect everyone!
+
+[Alear] t 
+[Alear] Surprise 
+
+[Alear] 
+Look at that house. The gate is wide open.
+[Alear] StandBy 
+We'd better warn them to lock up so the 
+Corrupted don't get in.
+
+村人おじいさん t 
+, 村人おじいさん Surprise 
+村人おじいさん 
+What's that? Monsters, here?! Gosh all! 
+Thanks for letting me know!
+( 村人おじいさん Normal 
+Take this. Might come in useful.
+
+村人お姉さん t 
+村人お姉さん Sad 
+村人お姉さん 
+Thank you for warning me. Here─use this to 
+bring peace to our land.
+
+" [Elusian Soldier] [Boss] b 
+[Elusian Soldier] [Boss] 
+We're losing ground, are we? Well, that's easily 
+remedied. Release the Corrupted!
+
+[Barbarian] b 
+[Barbarian] 
+Smile 
+[Barbarian] 
+Ahaha! These houses are ripe for the picking. 
+Time for a good, old-fashioned village pillage!
+
+[Alear] t 
+[Alear] Surprise 
+n0Tex Event ItemPicture 156picture item fade in normal 
+
+[Alear] 
+The crystal... It's glowing.
+[Marth] b 
+[Marth] Surprise 
+[Marth] 
+, where did you get that?
+[Alear] 
+Angry 
+
+[Alear] 
+It was in the Ring Vault. Vander found it after 
+the battle at Lythos Castle.
+Why? Do you know what this is?
+[Marth] 
+Angry 
+[Marth] 
+The Draconic Time Crystal. An artifact capable 
+of reversing time itself.
+There is a limit to its power, but still, it could 
+give us a keen advantage.
+[Alear] Surprise 
+
+[Alear] 
+Time Crystal, huh? So it's not just a pretty piece 
+of jewelry.
+[Marth] 
+Relax 
+[Marth] 
+Since we have it, I suggest we put it to use.
+[Alear] 
+Angry 
+&gt;8picture item fade out normal 
+Give it a try.
+
+
+--- MOVIE ---
+
+[Alear] 
+Huh?
+[Veyle] 
+There's no need to be afraid. It's gone.
+
+
+--- BT ---
+
+" [Elusian Soldier] [Boss] b 
+[Elusian Soldier] [Boss] 
+Soon I'll be a legend... The man who captured 
+the princess of Firene!
+
+" [Elusian Soldier] [Boss] b 
+( [Elusian Soldier] [Boss] Pain 
+[Elusian Soldier] [Boss] 
+I would have won, you know...if they'd given 
+me real soldiers...
+
+
+--- DIE ---
+

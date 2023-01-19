@@ -4,23 +4,13 @@
 
 import os
 import re
-import csv
-import enum
+from common.lang import Lang
+from common.csv import read_csv, write_csv
 
 names = {}
 
-class Lang(enum.Enum):
-    jpja = 1
-    usen = 2
-    cnch = 3
-
-def read_csv(filename):
-    with open(filename, 'r') as f:
-        reader = csv.DictReader(f)
-        return list(reader)
-
 def load_names():
-    data = read_csv('fee-translations/fee-translations-v0.csv')
+    data = read_csv('fee-translations/fee-translations.csv', encoding='utf-8')
     for name in data:
         names[name[Lang.jpja.name]] = name
 
@@ -44,22 +34,16 @@ def read_xmsbt(filename):
                 words = line.split(' ')
                 for word in words:
                     if word:
-                        word = word.replace('M000_', '')
-                        if word in names:
-                            word = names[word][lang]
-                            word = '[' + word + ']'
-                        texts[key] += word + ' '
+                        word = re.sub(r'[MS]\d{3}_', '', word)
+                        for w in word.split('_'):
+                            if w in names:
+                                w = names[w][lang]
+                                w = '[' + w + ']'
+                            texts[key] += w + ' '
                 texts[key] += '\n'
     for key, text in texts.items():
         texts[key] = text.strip()
     return texts
-
-def write_csv(filename, texts):
-    with open(filename, 'w', encoding='utf-8-sig') as f:
-        writer = csv.writer(f)
-        writer.writerow(['key', 'text'])
-        for key, text in sorted(texts.items()):
-            writer.writerow([key, text])
 
 def main():
     load_names()

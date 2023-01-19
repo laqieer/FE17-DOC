@@ -1,63 +1,63 @@
-﻿key,text
+﻿key,text
 MID_SAVEDATA_CONFIRM_CLEARDATA,"Would you like to save cleared-game data? 
 (Your army will be as it was before Chapter 26, 
-but there will be a record that you cleared it.)"
-MID_SAVEDATA_CONFIRM_COPY,Copy save data?
-MID_SAVEDATA_CONFIRM_COPY_YES,Copy
-MID_SAVEDATA_CONFIRM_DELETE,Delete save data?
-MID_SAVEDATA_CONFIRM_DELETE_YES,Delete
-MID_SAVEDATA_CONFIRM_SKIP_WRITING,Proceed without saving?
-MID_SAVEDATA_CONFIRM_SKIP_YES,Proceed
-MID_SAVEDATA_CONFIRM_SUSPEND,Save and return to the title screen?
-MID_SAVEDATA_CONFIRM_SUSPEND_COPY,You cannot copy bookmark data.
+but there will be a record that you cleared it.)"
+MID_SAVEDATA_CONFIRM_COPY,Copy save data?
+MID_SAVEDATA_CONFIRM_COPY_YES,Copy
+MID_SAVEDATA_CONFIRM_DELETE,Delete save data?
+MID_SAVEDATA_CONFIRM_DELETE_YES,Delete
+MID_SAVEDATA_CONFIRM_SKIP_WRITING,Proceed without saving?
+MID_SAVEDATA_CONFIRM_SKIP_YES,Proceed
+MID_SAVEDATA_CONFIRM_SUSPEND,Save and return to the title screen?
+MID_SAVEDATA_CONFIRM_SUSPEND_COPY,You cannot copy bookmark data.
 MID_SAVEDATA_CONFIRM_SUSPEND_LOAD,"If you close the game after loading this save 
 data without making a new bookmark, your 
-game will go back to the start of the battle."
-MID_SAVEDATA_CONFIRM_WRITING,Save your progress?
+game will go back to the start of the battle."
+MID_SAVEDATA_CONFIRM_WRITING,Save your progress?
 MID_SAVEDATA_COPYING,"Copying save data... 
-Please do not turn off the power."
-MID_SAVEDATA_COPY_DST_HELP,Select where to copy it.
-MID_SAVEDATA_COPY_FAILED,Failed to copy save data.
-MID_SAVEDATA_COPY_SRC_HELP,Select a slot to copy.
-MID_SAVEDATA_COPY_TITLE,Copy
-MID_SAVEDATA_DELETE_FAILED,Failed to delete save data.
-MID_SAVEDATA_DELETE_HELP,Select a slot.
-MID_SAVEDATA_DELETE_TITLE,Delete
+Please do not turn off the power."
+MID_SAVEDATA_COPY_DST_HELP,Select where to copy it.
+MID_SAVEDATA_COPY_FAILED,Failed to copy save data.
+MID_SAVEDATA_COPY_SRC_HELP,Select a slot to copy.
+MID_SAVEDATA_COPY_TITLE,Copy
+MID_SAVEDATA_DELETE_FAILED,Failed to delete save data.
+MID_SAVEDATA_DELETE_HELP,Select a slot.
+MID_SAVEDATA_DELETE_TITLE,Delete
 MID_SAVEDATA_DELETING,"Deleting save data... 
-Please do not turn off the power."
-MID_SAVEDATA_LOAD_FAILED,Failed to load save data.
-MID_SAVEDATA_LOAD_HELP,Select a slot.
-MID_SAVEDATA_LOAD_YES,Load
-MID_SAVEDATA_NO_DATA,No save data.
+Please do not turn off the power."
+MID_SAVEDATA_LOAD_FAILED,Failed to load save data.
+MID_SAVEDATA_LOAD_HELP,Select a slot.
+MID_SAVEDATA_LOAD_YES,Load
+MID_SAVEDATA_NO_DATA,No save data.
 MID_SAVEDATA_OLD_VERSION,"Cannot load save data. Please close 
 the software and relaunch it, or visit 
 Nintendo eShop to download the 
-latest update."
+latest update."
 MID_SAVEDATA_READING,"Loading save data... 
-Please do not turn off the power."
-MID_SAVEDATA_SAVE_FAILED,Failed to save progress.
-MID_SAVEDATA_SAVE_HELP,Select a slot.
-MID_SAVEDATA_SAVE_TITLE,Save
-MID_SAVEDATA_SAVE_YES,Save
-MID_SAVEDATA_SEQ_BMAP,Mid-Battle
-MID_SAVEDATA_SEQ_BMAP_AFTER,Post-Battle
-MID_SAVEDATA_SEQ_BMAP_ENCOUNT,Mid-Skirmish
-MID_SAVEDATA_SEQ_BMAP_TRAINING,Mid-Training
-MID_SAVEDATA_SEQ_ENCOUNT_AFTER,Post-Skirmish
-MID_SAVEDATA_SEQ_GMAP,World Map
-MID_SAVEDATA_SEQ_HUB,Somniel
-MID_SAVEDATA_SEQ_KIZUNA,Exploring
-MID_SAVEDATA_SEQ_SORTIE,Pre-Battle
-MID_SAVEDATA_SEQ_SORTIE_ENCOUNT,Pre-Skirmish
-MID_SAVEDATA_SEQ_SORTIE_TRAINING,Pre-Training
-MID_SAVEDATA_SEQ_TRAINING_AFTER,Post-Training
-MID_SAVEDATA_SUSPEND_HELP,Select a slot.
-MID_SAVEDATA_SUSPEND_TITLE,Bookmark
-MID_SAVEDATA_SUSPEND_YES,Bookmark
-MID_SAVEDATA_TYPE_AUTO,Autosave
-MID_SAVEDATA_TYPE_MANUAL,Slot
+Please do not turn off the power."
+MID_SAVEDATA_SAVE_FAILED,Failed to save progress.
+MID_SAVEDATA_SAVE_HELP,Select a slot.
+MID_SAVEDATA_SAVE_TITLE,Save
+MID_SAVEDATA_SAVE_YES,Save
+MID_SAVEDATA_SEQ_BMAP,Mid-Battle
+MID_SAVEDATA_SEQ_BMAP_AFTER,Post-Battle
+MID_SAVEDATA_SEQ_BMAP_ENCOUNT,Mid-Skirmish
+MID_SAVEDATA_SEQ_BMAP_TRAINING,Mid-Training
+MID_SAVEDATA_SEQ_ENCOUNT_AFTER,Post-Skirmish
+MID_SAVEDATA_SEQ_GMAP,World Map
+MID_SAVEDATA_SEQ_HUB,Somniel
+MID_SAVEDATA_SEQ_KIZUNA,Exploring
+MID_SAVEDATA_SEQ_SORTIE,Pre-Battle
+MID_SAVEDATA_SEQ_SORTIE_ENCOUNT,Pre-Skirmish
+MID_SAVEDATA_SEQ_SORTIE_TRAINING,Pre-Training
+MID_SAVEDATA_SEQ_TRAINING_AFTER,Post-Training
+MID_SAVEDATA_SUSPEND_HELP,Select a slot.
+MID_SAVEDATA_SUSPEND_TITLE,Bookmark
+MID_SAVEDATA_SUSPEND_YES,Bookmark
+MID_SAVEDATA_TYPE_AUTO,Autosave
+MID_SAVEDATA_TYPE_MANUAL,Slot
 MID_SAVEDATA_VERSION_ERROR,"Failed to load save data because 
 it is from a different version. 
-Please update the game."
+Please update the game."
 MID_SAVEDATA_WRITING,"Saving your progress... 
-Please do not turn off the power."
+Please do not turn off the power."

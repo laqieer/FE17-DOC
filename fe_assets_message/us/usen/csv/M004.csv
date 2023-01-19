@@ -1,390 +1,390 @@
-﻿key,text
-MID_BT1_#001,""" M004_イルシオン兵_ボス b 
-M004_イルシオン兵_ボス 
+﻿key,text
+MID_BT1_#001,""" [Elusian Soldier] [Boss] b 
+[Elusian Soldier] [Boss] 
 Soon I'll be a legend... The man who captured 
-the princess of Firene!"
-MID_BT2_#001,""" M004_イルシオン兵_ボス b 
-( M004_イルシオン兵_ボス Pain 
-M004_イルシオン兵_ボス 
+the princess of Firene!"
+MID_BT2_#001,""" [Elusian Soldier] [Boss] b 
+( [Elusian Soldier] [Boss] Pain 
+[Elusian Soldier] [Boss] 
 I would have won, you know...if they'd given 
-me real soldiers..."
+me real soldiers..."
 MID_ED1_#001,"[Alear] 2 
 [Veyle] 1 
-$ [Veyle] MPID_Unknown 
+$ [Veyle] MPID Unknown 
 
 [Alear] 
-You saved my life. Thank you."
+You saved my life. Thank you."
 MID_ED1_#002,"[Veyle] 
 It was nothing, really! I only did what anyone 
-else would do."
+else would do."
 MID_ED1_#003,"[Alear] 
-Are you here by yourself?"
+Are you here by yourself?"
 MID_ED1_#004,"[Veyle] 
-I am. I saw the fighting and thought I could help."
+I am. I saw the fighting and thought I could help."
 MID_ED1_#005,"[Alear] 
 You're braver than I am. I can't stand 
-the Corrupted."
+the Corrupted."
 MID_ED1_#006,"I was so startled I couldn't think. You really did 
-save my life."
+save my life."
 MID_ED1_#007,"[Veyle] 
-I see..."
+I see..."
 MID_ED1_#008,"[Alear] 
 Oh, I haven't introduced myself yet. I'm the 
-Divine Dragon ."
+Divine Dragon ."
 MID_ED1_#009,"[Veyle] 
-What a lovely name. I'm Veyle."
+What a lovely name. I'm Veyle."
 MID_ED1_#010,"[Alear] 
-Veyle..."
+Veyle..."
 MID_ED1_#011,"[Marth] 4 
 [Marth] 
-Might I interrupt?"
+Might I interrupt?"
 MID_ED1_#012,"[Alear] 
-What is it?"
+What is it?"
 MID_ED1_#013,"[Marth] 
 Even with the Corrupted gone, it may not be 
-safe for her out here."
+safe for her out here."
 MID_ED1_#014,"Perhaps we should escort her home or to 
-an inn."
+an inn."
 MID_ED1_#015,"[Veyle] 
 
 [Alear] 
-That's a good idea."
-MID_ED1_#016,"Hey, Veyle, do you live around here?"
-MID_ED1_#017,Huh?
-MID_ED1_#018,She's gone...
+That's a good idea."
+MID_ED1_#016,"Hey, Veyle, do you live around here?"
+MID_ED1_#017,Huh?
+MID_ED1_#018,She's gone...
 MID_ED2_#001,"[Alear] 2 
 [Céline] 1 
 
 [Céline] 
-Divine One!"
+Divine One!"
 MID_ED2_#002,"[Alear] 
-Céline."
+Céline."
 MID_ED2_#003,"Did you see a girl pass this way? Small with 
-long hair? Barefoot?"
+long hair? Barefoot?"
 MID_ED2_#004,"[Céline] 
 No, I'm afraid I didn't see anyone matching 
-that description."
+that description."
 MID_ED2_#005,"[Alear] 
-OK, thanks. Did you need something?"
+OK, thanks. Did you need something?"
 MID_ED2_#006,"[Céline] 
-I wanted to thank you."
+I wanted to thank you."
 MID_ED2_#007,"Alfred told me that you accepted Firene's 
-request for aid."
+request for aid."
 MID_ED2_#008,"And your help in the battle was the difference 
-between victory and defeat. Thank you, truly."
+between victory and defeat. Thank you, truly."
 MID_ED2_#009,"[Alear] 
-Don't mention it."
-MID_ED2_#010,Alfred and I are friends. I was happy to help.
+Don't mention it."
+MID_ED2_#010,Alfred and I are friends. I was happy to help.
 MID_ED2_#011,"[Céline] 
 Friends? He said that? Imagine speaking so 
-casually with the Divine Dragon..."
-MID_ED2_#012,"Please, allow me to apologize on his behalf."
+casually with the Divine Dragon..."
+MID_ED2_#012,"Please, allow me to apologize on his behalf."
 MID_ED2_#013,"[Alear] 
-There's no need to put me on a pedestal."
+There's no need to put me on a pedestal."
 MID_ED2_#014,"I just woke up, and the world is new to me. 
-I make mistakes like anyone."
+I make mistakes like anyone."
 MID_ED2_#015,"[Céline] 
 Is that so? I thought surely the Divine Dragon 
-would be an all-seeing, all-powerful being."
+would be an all-seeing, all-powerful being."
 MID_ED2_#016,"But here I find that you are rather more...human 
-than I expected. Perhaps we can be friends."
+than I expected. Perhaps we can be friends."
 MID_ED2_#017,"[Alear] 
-Then what do you say, Céline? Friends?"
+Then what do you say, Céline? Friends?"
 MID_ED2_#018,"[Céline] 
-I would be honored."
+I would be honored."
 MID_ED3_#001,"武器屋 1 
 道具屋 3 
 武器屋 
-Hey, folks! Mind if we bend your ear a minute?"
+Hey, folks! Mind if we bend your ear a minute?"
 MID_ED3_#002,"[Alear] 2 
 
 [Vander] 4 
 
 [Alear] 
-Hm?"
+Hm?"
 MID_ED3_#003,"武器屋 
 Name's Durthon. I'm an armorer. And this 
-here's Anisse, purveyor of goods."
+here's Anisse, purveyor of goods."
 MID_ED3_#004,"We saw you tradin' thumps with those things. 
-Figured you might be in the market for supplies."
+Figured you might be in the market for supplies."
 MID_ED3_#005,"道具屋 
 Yes. If you need, we'd be happy to provide you 
-with quality weapons and items."
+with quality weapons and items."
 MID_ED3_#006,"Anything to defeat those creatures. They pose 
-a terrible threat to traveling merchants like us."
+a terrible threat to traveling merchants like us."
 MID_ED3_#007,"[Alear] 
 How would you feel about moving to our 
-base? You can sell your wares from there."
+base? You can sell your wares from there."
 MID_ED3_#008,"[Vander] 
-Ahem, Divine One..."
+Ahem, Divine One..."
 MID_ED3_#009,"[Alear] 
 What? We don't have any facilities. These two 
-could be a good addition."
+could be a good addition."
 MID_ED3_#010,"武器屋 
-You're gonna let us open shops at your base?"
+You're gonna let us open shops at your base?"
 MID_ED3_#011,"[Alear] 
 If you'd like to. We'll need plenty of weapons 
-and items from here on out."
-MID_ED3_#012,It's a haven. You won't find any creatures there.
+and items from here on out."
+MID_ED3_#012,It's a haven. You won't find any creatures there.
 MID_ED3_#013,"武器屋 
 You got yourself a bargain! Can't wait to 
-do business together."
+do business together."
 MID_ED3_#014,"道具屋 
 Thank you for this. I will do my utmost to 
-ensure you receive the finest items."
+ensure you receive the finest items."
 MID_EV10_#001,"[Céline] t 
 [Céline] Status 
 
 [Céline] 
 With Celica's help, I ought to be able to reach 
-Chloé and Louis more quickly."
+Chloé and Louis more quickly."
 MID_EV11_#001,"[Céline] t 
 [Céline] 
 Angry 
 
 [Céline] 
 I am resolved to fight for peace. Hold on, you 
-two! I am on my way!"
+two! I am on my way!"
 MID_EV1_#001,"[Chloé] b 
 [Chloé] 
 Angry 
 [Chloé] 
 I won't be able to get very far with these 
-archers everywhere."
+archers everywhere."
 MID_EV1_#002,"[Louis] t 
 [Louis] 
 Angry 
 [Louis] 
 How about this? I take care of the archers and 
-you deal with the magic users."
+you deal with the magic users."
 MID_EV1_#003,"[Chloé] 
 Relax 
 [Chloé] 
 Good idea! While their spells will go right 
-through your armor, I'm resistant to magic."
+through your armor, I'm resistant to magic."
 MID_EV1_#004,"So leave the mages to me. It's not so bad 
-protecting each other, now is it?"
+protecting each other, now is it?"
 MID_EV1_#005,"[Louis] Normal 
 [Louis] 
-Indeed. This is a nice change of pace."
+Indeed. This is a nice change of pace."
 MID_EV2_#001,"[Céline] t 
 [Céline] 
 Smile 
 
 [Céline] 
-Emblem Celica, it is an honor."
+Emblem Celica, it is an honor."
 MID_EV2_#002,"So it was your voice I heard on the way from 
-the castle. I am glad you're here with me."
+the castle. I am glad you're here with me."
 MID_EV2_#003,"[Celica] b 
 [Celica] 
 Relax 
 [Celica] 
 I feel the same, Céline. I will fight by your side 
-from now on."
+from now on."
 MID_EV2_#004,"[Celica] 
 Angry 
 Together, we will protect that which you 
-hold dear."
+hold dear."
 MID_EV2_#005,"[Céline] 
 Angry 
 
 [Céline] 
-Thank you."
+Thank you."
 MID_EV3_#001,"[Céline] t 
 [Céline] Die 
 
 [Céline] 
 I feel a great power within... We have united, 
-haven't we?"
+haven't we?"
 MID_EV3_#002,"[Céline] StandBy 
 My resolve is strong. I will protect my people. 
-I will protect everyone!"
+I will protect everyone!"
 MID_EV4_#001,"[Alear] t 
 [Alear] Surprise 
 
 [Alear] 
-Look at that house. The gate is wide open."
+Look at that house. The gate is wide open."
 MID_EV4_#002,"[Alear] StandBy 
 We'd better warn them to lock up so the 
-Corrupted don't get in."
-MID_EV5_#001,"M004_村人おじいさん t 
-, M004_村人おじいさん Surprise 
-M004_村人おじいさん 
+Corrupted don't get in."
+MID_EV5_#001,"村人おじいさん t 
+, 村人おじいさん Surprise 
+村人おじいさん 
 What's that? Monsters, here?! Gosh all! 
-Thanks for letting me know!"
-MID_EV5_#002,"( M004_村人おじいさん Normal 
-Take this. Might come in useful."
-MID_EV6_#001,"M004_村人お姉さん t 
-M004_村人お姉さん Sad 
-M004_村人お姉さん 
+Thanks for letting me know!"
+MID_EV5_#002,"( 村人おじいさん Normal 
+Take this. Might come in useful."
+MID_EV6_#001,"村人お姉さん t 
+村人お姉さん Sad 
+村人お姉さん 
 Thank you for warning me. Here─use this to 
-bring peace to our land."
-MID_EV7_#001,""" M004_イルシオン兵_ボス b 
-M004_イルシオン兵_ボス 
+bring peace to our land."
+MID_EV7_#001,""" [Elusian Soldier] [Boss] b 
+[Elusian Soldier] [Boss] 
 We're losing ground, are we? Well, that's easily 
-remedied. Release the Corrupted!"
-MID_EV8_#001,"M004_蛮族 b 
-M004_蛮族 
+remedied. Release the Corrupted!"
+MID_EV8_#001,"[Barbarian] b 
+[Barbarian] 
 Smile 
-M004_蛮族 
+[Barbarian] 
 Ahaha! These houses are ripe for the picking. 
-Time for a good, old-fashioned village pillage!"
+Time for a good, old-fashioned village pillage!"
 MID_EV9_#001,"[Alear] t 
 [Alear] Surprise 
-n0Tex_Event_ItemPicture_156picture_item_fade_in_normal 
+n0Tex Event ItemPicture 156picture item fade in normal 
 
 [Alear] 
-The crystal... It's glowing."
+The crystal... It's glowing."
 MID_EV9_#002,"[Marth] b 
 [Marth] Surprise 
 [Marth] 
-, where did you get that?"
+, where did you get that?"
 MID_EV9_#003,"[Alear] 
 Angry 
 
 [Alear] 
 It was in the Ring Vault. Vander found it after 
-the battle at Lythos Castle."
-MID_EV9_#004,Why? Do you know what this is?
+the battle at Lythos Castle."
+MID_EV9_#004,Why? Do you know what this is?
 MID_EV9_#005,"[Marth] 
 Angry 
 [Marth] 
 The Draconic Time Crystal. An artifact capable 
-of reversing time itself."
+of reversing time itself."
 MID_EV9_#006,"There is a limit to its power, but still, it could 
-give us a keen advantage."
+give us a keen advantage."
 MID_EV9_#007,"[Alear] Surprise 
 
 [Alear] 
 Time Crystal, huh? So it's not just a pretty piece 
-of jewelry."
+of jewelry."
 MID_EV9_#008,"[Marth] 
 Relax 
 [Marth] 
-Since we have it, I suggest we put it to use."
+Since we have it, I suggest we put it to use."
 MID_EV9_#009,"[Alear] 
 Angry 
-&gt;8picture_item_fade_out_normal 
-Give it a try."
+&gt;8picture item fade out normal 
+Give it a try."
 MID_MOVIE1_#001,"[Alear] 
-Huh?"
+Huh?"
 MID_MOVIE1_#002,"[Veyle] 
-There's no need to be afraid. It's gone."
+There's no need to be afraid. It's gone."
 MID_OP1_#001,"[Alfred] 1 
 [Alear] 2 
 [Alfred] 
-Here we are─the kingdom of Firene."
+Here we are─the kingdom of Firene."
 MID_OP1_#002,"[Alear] 
-What a beautiful place."
+What a beautiful place."
 MID_OP1_#003,"[Alfred] 
 Isn't it? And no sign of the Corrupted, so 
-that's good."
+that's good."
 MID_OP1_#004,"That was quite a trip, crossing the sea all the 
-way from Lythos. I hope you're not worn out."
+way from Lythos. I hope you're not worn out."
 MID_OP1_#005,"[Alear] 
-I'm fine."
+I'm fine."
 MID_OP1_#006,"[Alfred] 
 Good, good. Listen, I'm sorry for twisting your 
-arm to come with me."
+arm to come with me."
 MID_OP1_#007,"[Alear] 
-Alfred, it's all right. I wanted to come."
+Alfred, it's all right. I wanted to come."
 MID_OP1_#008,"How about before we arrive at the castle, you 
-tell me more about this kingdom of yours?"
+tell me more about this kingdom of yours?"
 MID_OP1_#009,"[Alfred] 
-Happy to! Let's see..."
+Happy to! Let's see..."
 MID_OP1_#010,"Firene is one of the four nations of Elyos, 
-in the southwest."
+in the southwest."
 MID_OP1_#011,"It's ruled by my mother, Queen Ève. We're 
-known as a...land of plenty."
+known as a...land of plenty."
 MID_OP1_#012,"Our people value peace above all else. 
-We haven't seen war for centuries."
+We haven't seen war for centuries."
 MID_OP1_#013,"[Alear] 
 You must come from a long line of 
-capable leaders."
+capable leaders."
 MID_OP1_#014,"[Alfred] 
 That's kind of you to say. Peace doesn't 
-always come easy."
+always come easy."
 MID_OP1_#015,"Mother had to hammer out a nonaggression 
-pact with our neighbors."
+pact with our neighbors."
 MID_OP1_#016,"The pact says there won't be war between us, 
-Solm, and Brodia."
+Solm, and Brodia."
 MID_OP1_#017,"[Alear] 
 Right─Solm, the Queendom of Freedom and 
-Brodia, the Kingdom of Might."
+Brodia, the Kingdom of Might."
 MID_OP1_#018,"[Alfred] 
 You've got it. Solm is an open-minded country. 
-They've always had good relations with Firene."
+They've always had good relations with Firene."
 MID_OP1_#019,"But an alliance with Brodia took some doing. 
-Their king's an ambitious man."
+Their king's an ambitious man."
 MID_OP1_#020,"He's always launching attacks on Elusia to 
-expand his own territory."
+expand his own territory."
 MID_OP1_#021,"[Alear] 
-I take it Elusia isn't in the alliance."
+I take it Elusia isn't in the alliance."
 MID_OP1_#022,"[Alfred] 
 No. Honestly, they're so far away, we don't 
-interact with them too much."
+interact with them too much."
 MID_OP1_#023,"We know it's snowy there, with long winters... 
-and that some Elusians worship the Fell Dragon."
+and that some Elusians worship the Fell Dragon."
 MID_OP1_#024,"[Alear] 
-The Fell Dragon?"
+The Fell Dragon?"
 MID_OP1_#025,"[Alfred] 
 It's troubling, I know. But...people can believe 
-what they believe."
+what they believe."
 MID_OP1_#026,"Sorry... I didn't bring it up to turn you 
-against Elusia."
+against Elusia."
 MID_OP1_#027,"[Alear] 
 It's not them I hate─it's the Fell Dragon. 
-Him and the one who killed my mother."
+Him and the one who killed my mother."
 MID_OP1_#028,"Can you tell me more about the Emblem Ring 
-that was entrusted to Firene?"
+that was entrusted to Firene?"
 MID_OP1_#029,"[Alfred] 
 Oh, sure. It's the ""Ring of the Caring Princess."" 
-Doesn't look like anything special."
+Doesn't look like anything special."
 MID_OP1_#030,"Until I met you and Marth, I thought the 
-Emblems were legends."
+Emblems were legends."
 MID_OP1_#031,"I can't wait to tell my sister they exist! She'll 
-really be knocked for a loop."
+really be knocked for a loop."
 MID_OP1_#032,"[Alear] 
-You have a sister?"
+You have a sister?"
 MID_OP1_#033,"[Alfred] 
 Yeah─the princess of Firene, Céline. She's at 
-the castle with Mother right now."
+the castle with Mother right now."
 MID_OP1_#034,"[Alear] 
-Princess Céline. I look forward to meeting her."
+Princess Céline. I look forward to meeting her."
 MID_OP1_#035,"[Alfred] 
 Just call her Céline. I'm sure you two will get 
-along great."
+along great."
 MID_OP1_#036,"Here's Florra Mill Town. The castle's close now. 
-We'll just cut through here, and..."
-MID_OP1_#037,Something's off.
+We'll just cut through here, and..."
+MID_OP1_#037,Something's off.
 MID_OP1_#038,"[Alear] 
-What is it?"
+What is it?"
 MID_OP1_#039,"[Alfred] 
-I think there might be trouble ahead."
+I think there might be trouble ahead."
 MID_OP2_#001,"[Alfred] t 
 [Alfred] 
 Angry 
 [Alfred] 
-Oh no..."
+Oh no..."
 MID_OP3_#001,"[Alear] b 
 [Alear] Pain 
 
 [Alear] 
-The Corrupted. They're everywhere."
+The Corrupted. They're everywhere."
 MID_OP3_#002,"[Alfred] t 
 [Alfred] Sad 
 [Alfred] 
 I can't stand to see them overrunning this 
-peaceful town."
+peaceful town."
 MID_OP3_#003,"[Alfred] 
 Angry 
 I have to drive them away. Divine One, will you 
-help me?"
+help me?"
 MID_OP3_#004,"[Alear] 
 Angry 
 
 [Alear] 
-Of course."
+Of course."
 MID_OP4_#001,"Default 
 
 [Louis] 1 
@@ -393,117 +393,117 @@ MID_OP4_#001,"Default
 
 [Céline] 
 Danger looms from every side. I fear we will 
-never make it to my brother."
+never make it to my brother."
 MID_OP4_#002,"[Louis] 
 Princess Céline. I beg you to make your retreat. 
-We'll handle this."
+We'll handle this."
 MID_OP4_#003,"[Chloé] 
-More of the fiends might be on the way. Hurry!"
+More of the fiends might be on the way. Hurry!"
 MID_OP4_#004,"[Céline] 
-Louis! Chloé! You can't possibly expect me to─"
+Louis! Chloé! You can't possibly expect me to─"
 MID_OP4_#005,"[Louis] 
 It is our sworn duty to protect the princess. We 
-will hold the line for you as long as we must!"
+will hold the line for you as long as we must!"
 MID_OP4_#006,"[Chloé] 
 You have to leave. If you should fall here, who 
-warns Prince Alfred of the invasion to come?"
+warns Prince Alfred of the invasion to come?"
 MID_OP4_#007,"[Céline] 
 I concede the point. But I'll return for you both. 
-Please hold out until then!"
+Please hold out until then!"
 MID_OP4_#008,"[Céline] 
 [Louis] 
-Apologies, Chloé."
+Apologies, Chloé."
 MID_OP4_#009,"It pains me greatly to separate you from Princess Céline, 
-for even a relatively brief amount of time."
+for even a relatively brief amount of time."
 MID_OP4_#010,"[Chloé] 
 Might I say, I'm a bit disappointed I didn't get to 
-see you run off with Her Highness yourself."
-MID_OP4_#011,A knight should never leave his princess's side.
+see you run off with Her Highness yourself."
+MID_OP4_#011,A knight should never leave his princess's side.
 MID_OP4_#012,"[Louis] 
 The sooner we win, the sooner that will come to 
-pass. What say you, Chloé? Shall we?"
+pass. What say you, Chloé? Shall we?"
 MID_OP4_#013,"[Chloé] 
-Yes! Let's!"
+Yes! Let's!"
 MID_OP5_#001,"[Céline] b 
 [Céline] Surprise 
 
 [Céline] 
-Alfred!"
+Alfred!"
 MID_OP5_#002,"[Alfred] t 
 [Alfred] Surprise 
 [Alfred] 
 Céline? What are you doing here? I thought 
-you were with Mother."
+you were with Mother."
 MID_OP5_#003,"[Céline] Sad 
 
 [Céline] 
 I was, but... Alfred, the Elusian army is marching 
-on the castle."
+on the castle."
 MID_OP5_#004,"[Alfred] 
-What? Why?"
+What? Why?"
 MID_OP5_#005,"[Céline] 
 I cannot say. Before they arrived, Mother sent 
-me to warn you."
+me to warn you."
 MID_OP5_#006,"But then we were ambushed on our way to 
-Florra Port..."
+Florra Port..."
 MID_OP5_#007,"[Céline] 
 Angry 
 Louis and Chloé stayed behind so that I might 
-have a chance to escape."
-MID_OP5_#008,"Please, we must hurry back to them!"
+have a chance to escape."
+MID_OP5_#008,"Please, we must hurry back to them!"
 MID_OP5_#009,"[Alfred] 
 Angry 
 [Alfred] 
-Absolutely."
+Absolutely."
 MID_OP5_#010,"[Alfred] 
 [Alear] t 
 
 [Alear] 
 Pardon me, Princess Céline, but do you have 
-the Emblem Ring?"
+the Emblem Ring?"
 MID_OP5_#011,"[Céline] Normal 
 
 [Céline] 
-Yes. Mother gave it to me. Why do you..."
+Yes. Mother gave it to me. Why do you..."
 MID_OP5_#012,"[Céline] Surprise 
 Goodness gracious! The Divine Dragon 
-?! You're here, you're...awake!"
+?! You're here, you're...awake!"
 MID_OP5_#013,"[Alear] 
-I am."
+I am."
 MID_OP5_#014,"[Céline] 
 Smile 
 
 [Céline] 
-May I say, it is truly an honor!"
-MID_OP5_#015,"n0Tex_Event_ItemPicture_046picture_item_fade_in_normal 
+May I say, it is truly an honor!"
+MID_OP5_#015,"n0Tex Event ItemPicture 046picture item fade in normal 
 The Emblem Ring is right here. Please, Divine 
-One. It is yours."
+One. It is yours."
 MID_OP5_#016,"[Alear] Surprise 
 
 [Alear] 
-The words... They're coming to me..."
+The words... They're coming to me..."
 MID_OP5_#017,"[Alear] StandBy 
-&gt;8picture_item_fade_out_normal 
-\ ,Tex_Event_Effect_White(picture_fade_in_slow 
+&gt;8picture item fade out normal 
+\ ,Tex Event Effect White(picture fade in slow 
 Care for us, Emblem of Echoes! 
-촁"
+촁"
 MID_OP6_#001,"[Celica] b 
 [Celica] Normal 
 [Celica] 
 
 I am Emblem Celica. I detest violence...but I will 
-always fight to defend the innocent."
+always fight to defend the innocent."
 MID_OP6_#002,"[Alear] t 
 [Alear] 
 Smile 
 
 [Alear] 
-Thank you for answering my call."
+Thank you for answering my call."
 MID_OP6_#003,"[Alear] 
 [Alfred] t 
 [Alfred] Surprise 
 [Alfred] 
-So...this is the Emblem that was in Firene's ring."
+So...this is the Emblem that was in Firene's ring."
 MID_OP6_#004,"[Alfred] 
 [Celica] 
 [Céline] b 
@@ -511,76 +511,76 @@ MID_OP6_#004,"[Alfred]
 Smile 
 
 [Céline] 
-Emblem Celica. How marvelous."
+Emblem Celica. How marvelous."
 MID_OP6_#005,"[Céline] 
 Angry 
 Divine One, with your blessing─and hers, 
-of course─I would like to fight by Celica's side."
+of course─I would like to fight by Celica's side."
 MID_OP6_#006,"I must protect the people of this village and 
-ensure Louis and Chloé's safety."
+ensure Louis and Chloé's safety."
 MID_OP6_#007,"[Alear] t 
 [Alear] StandBy 
 
 [Alear] 
-I entrust this ring to you, Céline."
+I entrust this ring to you, Céline."
 MID_TK1_#001,"[Céline] t 
 [Céline] 
 Smile 
 
 [Céline] 
-Chloé, I am relieved to see you're all right."
+Chloé, I am relieved to see you're all right."
 MID_TK1_#002,"[Chloé] b 
 [Chloé] 
 Smile 
 [Chloé] 
-You too, Princess Céline!"
+You too, Princess Céline!"
 MID_TK1_#003,"[Céline] 
 I was able to find Alfred─and the Divine 
-Dragon, no less!"
+Dragon, no less!"
 MID_TK1_#004,"[Céline] 
 Angry 
 After that, the Divine One summoned Emblem 
-Celica from within my ring."
+Celica from within my ring."
 MID_TK1_#005,"[Chloé] Surprise 
 [Chloé] 
 A noble dragon, summoning ancient spirits to 
-save the day... That sounds just like a fairy tale!"
+save the day... That sounds just like a fairy tale!"
 MID_TK1_#006,"[Céline] 
 It does. Now that I have this power, let's give 
-this story a happy ending, shall we?"
+this story a happy ending, shall we?"
 MID_TK1_#007,"[Chloé] 
 Relax 
 [Chloé] 
-Let's do it."
+Let's do it."
 MID_TK2_#001,"[Céline] t 
 [Céline] 
 Smile 
 
 [Céline] 
-Louis, thank goodness!"
+Louis, thank goodness!"
 MID_TK2_#002,"[Louis] b 
 [Louis] 
 Smile 
 [Louis] 
 Princess Céline! How relieved I am to see 
-you unharmed..."
+you unharmed..."
 MID_TK2_#003,"[Louis] Surprise 
-Hm? You seem...different."
+Hm? You seem...different."
 MID_TK2_#004,"[Céline] 
 The Divine Dragon brought Emblem Celica forth 
-from my ring. I am imbued with her strength."
+from my ring. I am imbued with her strength."
 MID_TK2_#005,"[Louis] 
-Pardon? The Divine Dragon is here?"
+Pardon? The Divine Dragon is here?"
 MID_TK2_#006,"[Céline] 
 Angry 
 
 [Céline] 
 Indeed. I will explain everything later. For now, 
-let us restore order here."
+let us restore order here."
 MID_TK2_#007,"I promise I will never leave you behind again. 
-Come─let us fight together."
+Come─let us fight together."
 MID_TK2_#008,"[Louis] 
 Smile 
 [Louis] 
 As you wish. Princess Céline and Emblem 
-Celica... What a pair."
+Celica... What a pair."

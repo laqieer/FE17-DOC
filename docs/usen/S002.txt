@@ -1,0 +1,286 @@
+=== Paralogue Mysterious Merchant ===
+
+(Bandits' Hideout)
+In a bandit stronghold, a little thief 
+is looking for treasure.
+
+--- OP ---
+
+[Barbarian] お頭 1 
+" [Barbarian] [Martial Monk] 中央 2 
+*$蛮族 [Axe Armor] 中央 3 
+[Barbarian] お頭 
+Ngh, you still haven't found her?!
+[Barbarian] [Martial Monk] 中央 
+Sorry, boss! The thief was too quick for us. 
+We lost track of where she went!
+[Barbarian] お頭 
+We're supposed to be the thieves, you bums! 
+We steal─we don't get stolen from!
+[Barbarian] お頭 
+Well, she can't have left this fortress yet. 
+Go catch her! No excuses!
+[Barbarian] [Martial Monk] 中央 
+Yes, boss!
+&amp;$蛮族 [Axe Armor] 中央 
+Boss! Bad news!
+[Barbarian] お頭 
+Am I about to hear an excuse?!
+&amp;$蛮族 [Axe Armor] 中央 
+There's a tough-looking bunch headed right 
+for us. They're armed too!
+[Barbarian] お頭 
+Typical. How much worse can today get?
+[Barbarian] お頭 
+Whatever, this won't stop us either. Battle 
+squads, in position and ready to move!
+[Barbarian] お頭 
+I want our thieves in the treasury now. Once 
+the treasure is secure, get to a safe place.
+[Barbarian] [Martial Monk] 中央 
+Got it, boss!
+
+[Anna] t 
+[Anna] 
+Smile 
+[Anna] 
+Ooo! A whole room full of treasure! I'm sure no 
+one will mind if I help myself.
+[Anna] 
+Angry 
+[Anna] 
+Hey, is someone talking? Sounds panicked, 
+whoever they are.
+[Barbarian] [Archer] b 
+* [Barbarian] [Archer] Strike 
+[Barbarian] [Archer] 
+Move your butts and get in position!
+[Anna] 
+Is there about to be a fight? I'd better find 
+someplace to hide!
+
+[Anna] t 
+[Anna] Pain 
+[Anna] 
+I guess this is my best option...
+
+*$蛮族 [Axe Armor] 中央 b 
+&amp;$蛮族 [Axe Armor] 中央 
+Can you believe the luck we're having today?
+" [Barbarian] [Martial Monk] 中央 t 
+* [Barbarian] [Martial Monk] 中央 
+Angry 
+[Barbarian] [Martial Monk] 中央 
+Less talking, more stalking. Make sure your 
+gear is ready before things kick off!
+
+[Anna] t 
+[Anna] Pain 
+[Anna] 
+Uh-oh. This is way too many bandits to make 
+a clean getaway.
+
+[Alear] t 
+[Alear] 
+Angry 
+
+[Alear] 
+Hmm... The townsfolk told us about a bandit 
+base, and I'd say we've found it.
+[Alear] 
+I feel sorry for all those poor villagers who had 
+their valuables stolen.
+[Alear] 
+Precious keepsakes, family heirlooms... Let's 
+see if we can put them back in the right hands.
+[Alear] 
+Though it looks like we're in for a fight before 
+that can happen.
+
+
+--- ED ---
+
+[Alear] 2
+[Alear] 
+Here's hoping the local authorities will keep 
+these bandits from causing any more trouble.
+
+[Anna] 1 
+[Anna] 
+You guys are really strong, huh? Do you have 
+room on your team for me?
+[Alear] 2 
+
+[Alear] 
+You want to join us? I should warn you, our 
+battles will be much more grueling than that.
+[Alear] 
+You'd be placing yourself in danger.
+[Anna] 
+I know I'm small, but I pack a punch! I can take 
+care of myself, guaranteed.
+[Anna] 
+Besides, I've got nothing better to do. Not until 
+I figure out where my family went.
+[Alear] 
+You lost your family...
+[Anna] 
+It gets lonely on the road. Maybe if I travel with 
+you folks, our paths will cross someday.
+[Alear] 
+Well, if that's what you want, I have 
+no objections.
+[Alear] 
+I'm , the Divine Dragon. 
+Looking forward to working with you.
+[Anna] 
+Hang on, what?! You're the Divine Dragon?! 
+My sales...they're gonna go through the roof!
+[Anna] 
+Oh, and the name's Anna. But you can call me 
+Lady Anna. Pleasure to be in business with you!
+
+[Alear] 2 
+
+[Alear] 
+I just wish we could have protected the girl.
+[Alear] 
+What was a little girl doing in a bandit's fortress 
+in the first place?
+[Alear] 
+I suppose we'll never get the chance to ask.
+
+
+--- EV ---
+
+[Barbarian] [Thief] b 
+$ [Barbarian] [Thief] 
+Angry 
+[Barbarian] [Thief] 
+Hm? Did that treasure chest just...move? 
+So that's where the thief went!
+[Anna] t 
+[Anna] Surprise 
+[Anna] 
+Ah! I've been found out!
+[Barbarian] [Thief] 
+It won't open... Hey, thief! Let go of the lid! 
+Don't make me work up a sweat!
+
+[Anna] t 
+[Anna] Pain 
+[Anna] 
+Dang...you found me.
+
+[Anna] b 
+[Anna] 
+Angry 
+[Anna] 
+Only one thing to do now if I wanna get out of 
+this. Time to show my skills!
+
+[Alear] t 
+[Alear] Surprise 
+
+[Alear] 
+There was a child in there?! We have to hurry 
+and rescue her from these bandits!
+
+[Anna] 
+[Alear] t 
+[Alear] Surprise 
+
+[Alear] 
+What's a little girl doing here? This is a bandit 
+fort. It's no place for children!
+[Anna] b 
+[Anna] 
+Smile 
+[Anna] 
+But you're not a bandit, right? So why don't 
+you keep me safe?
+[Alear] 
+Well... I mean, I could, but─
+[Anna] 
+Relax 
+[Anna] 
+It's a deal! Thanks a million.
+[Anna] 
+You might not think so, but I'm pretty handy in 
+a fight. Let me help you help me!
+
+
+
+[Anna] t 
+[Anna] 
+Smile 
+[Anna] 
+The battle's over, huh? Good thing nobody 
+ever found me in there.
+[Anna] 
+Now the treasure's mine for the taking!
+[Anna] 
+Relax 
+[Anna] 
+Although...those others seem pretty strong. 
+They really wiped the floor with those bandits.
+
+
+--- MOVIE ---
+
+
+--- BT ---
+
+*$蛮族 [Axe Armor] 中央 b 
+&amp;$蛮族 [Axe Armor] 中央 
+There's the thief! Get her!
+[Anna] t 
+[Anna] 
+Relax 
+[Anna] 
+Hahaha! If you think you're gonna catch me that 
+easily, think again!
+
+[Barbarian] お頭 b 
+&amp; [Barbarian] お頭 StandBy 
+[Barbarian] お頭 
+Damn you for playing us for fools! You'll never 
+get your hands on that treasure!
+
+[Barbarian] お頭 b 
+[Barbarian] お頭 
+Well, well, well. So the thief turned out to be 
+just some brat.
+[Barbarian] お頭 
+What do you say, boys? I bet we could get a 
+pretty penny in ransom out of her parents.
+[Anna] t 
+[Anna] Shy 
+[Anna] 
+My parents have no idea where I am, so that's 
+a pretty weak threat if you ask me.
+&amp; [Barbarian] お頭 StandBy 
+[Barbarian] お頭 
+Yeah, well I didn't ask you! We'll figure that 
+out later!
+
+[Barbarian] お頭 b 
+[Barbarian] お頭 Pain 
+[Barbarian] お頭 
+I guess...today could get worse after all...
+
+
+--- DIE ---
+
+[Anna] b 
+[Anna] Pain 
+[Anna] 
+Ah, I'd better retreat. Dying will put me out of 
+business for good...
+
+[Anna] b 
+[Anna] Pain 
+[Anna] 
+I guess...it's over for me. Too bad I'll never see 
+my sisters again...
+

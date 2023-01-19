@@ -1,318 +1,318 @@
-﻿key,text
-MID_BT10_#001,"M014_モーヴ b 
-M014_モーヴ Pain 
-M014_モーヴ 
-My orders do not involve dying. I take my leave."
-MID_BT1_#001,"M014_オルテンシア b 
-&amp; M014_オルテンシア Status 
-M014_オルテンシア 
-I must get the rings. I must save Father."
+﻿key,text
+MID_BT10_#001,"[Mauvier] b 
+[Mauvier] Pain 
+[Mauvier] 
+My orders do not involve dying. I take my leave."
+MID_BT1_#001,"[Hortensia] b 
+&amp; [Hortensia] Status 
+[Hortensia] 
+I must get the rings. I must save Father."
 MID_BT2_#001,"[Ivy] t 
 [Ivy] Pain 
 
 [Ivy] 
-Hortensia, please! Come to your senses!"
-MID_BT2_#002,"M014_オルテンシア b 
-"" M014_オルテンシア Pain 
-M014_オルテンシア 
+Hortensia, please! Come to your senses!"
+MID_BT2_#002,"[Hortensia] b 
+"" [Hortensia] Pain 
+[Hortensia] 
 Why fight me, Ivy? All I want is to bring Father 
-back. Don't you miss him?"
+back. Don't you miss him?"
 MID_BT2_#003,"[Ivy] StandBy 
 
 [Ivy] 
 Of course. So much, I fear my heart will never 
-mend. That's why I cannot lose you too."
-MID_BT3_#001,"M014_オルテンシア b 
-"" M014_オルテンシア Pain 
-M014_オルテンシア 
-Why does nothing go my way?"
-MID_BT4_#001,"M014_セピア b 
-M014_セピア 
+mend. That's why I cannot lose you too."
+MID_BT3_#001,"[Hortensia] b 
+"" [Hortensia] Pain 
+[Hortensia] 
+Why does nothing go my way?"
+MID_BT4_#001,"[Zephia] b 
+[Zephia] 
 Relax 
-M014_セピア 
-The stolen rings. You'll return them, won't you?"
-MID_BT5_#001,"M014_セピア b 
-M014_セピア 
+[Zephia] 
+The stolen rings. You'll return them, won't you?"
+MID_BT5_#001,"[Zephia] b 
+[Zephia] 
 Smile 
-M014_セピア 
+[Zephia] 
 Well, if it isn't my favorite lizard! How's Solm 
-treating you?"
+treating you?"
 MID_BT5_#002,"Don't you worry, your friends are safe with me. 
-Sigurd, Celica, Micaiah... Marth."
+Sigurd, Celica, Micaiah... Marth."
 MID_BT5_#003,"[Alear] t 
 [Alear] Strike 
 
 [Alear] 
-You..."
-MID_BT5_#004,"M014_セピア Strike 
-M014_セピア 
+You..."
+MID_BT5_#004,"[Zephia] Strike 
+[Zephia] 
 Oh, did you want to see them? Shame. I didn't 
-bring them with me."
-MID_BT5_#005,"M014_セピア 
+bring them with me."
+MID_BT5_#005,"[Zephia] 
 Smile 
-Couldn't have you taking them, could I?"
-MID_BT6_#001,"M014_セピア b 
-M014_セピア Pain 
-M014_セピア 
+Couldn't have you taking them, could I?"
+MID_BT6_#001,"[Zephia] b 
+[Zephia] Pain 
+[Zephia] 
 That would have been too easy, I suppose... 
-We'll meet again soon enough."
-MID_BT7_#001,"M014_マロン b 
-M014_マロン Strike 
-M014_マロン 
+We'll meet again soon enough."
+MID_BT7_#001,"[Marni] b 
+[Marni] Strike 
+[Marni] 
 Solm Palace is so pretty! It's a nicer tomb than 
-you deserve!"
-MID_BT8_#001,"M014_マロン b 
-M014_マロン Pain 
-M014_マロン 
+you deserve!"
+MID_BT8_#001,"[Marni] b 
+[Marni] Pain 
+[Marni] 
 The floor's slippery! That's the only reason 
-I lost! I'm going home!"
-MID_BT9_#001,"M014_モーヴ b 
-M014_モーヴ 
+I lost! I'm going home!"
+MID_BT9_#001,"[Mauvier] b 
+[Mauvier] 
 Angry 
-M014_モーヴ 
+[Mauvier] 
 Your army is not to be trifled with. Because 
-I respect you, I will hold nothing back."
+I respect you, I will hold nothing back."
 MID_ED1_#001,"[Hortensia] 3 
 [Ivy] 4 
 [Hortensia] 
-Ivy, what...happened?"
+Ivy, what...happened?"
 MID_ED1_#002,"[Ivy] 
-Oh, you've come back to me! Thank goodness."
+Oh, you've come back to me! Thank goodness."
 MID_ED1_#003,"[Hortensia] 
-Where'd all the Elusian soldiers go?"
+Where'd all the Elusian soldiers go?"
 MID_ED1_#004,"[Alear] 2 
 
 [Alear] 
-They retreated."
+They retreated."
 MID_ED1_#005,"[Hortensia] 
-I should go with them..."
+I should go with them..."
 MID_ED1_#006,"[Alear] 
 No. It's not safe. Zephia could take control over 
-you again."
+you again."
 MID_ED1_#007,"[Hortensia] 
 But I was the last person left at Elusia Castle. 
-Without me, there'll be no one to lead."
+Without me, there'll be no one to lead."
 MID_ED1_#008,"No one to take care of the country Father 
-left behind..."
+left behind..."
 MID_ED1_#009,"[Ivy] 
-That is true... But it's out of our hands."
+That is true... But it's out of our hands."
 MID_ED1_#010,"[Hortensia] 
 How can you say that? Don't you care about 
-Elusia at all?"
+Elusia at all?"
 MID_ED1_#011,"[Ivy] 
 Of course I do. I would have given my life to 
-protect our kingdom."
+protect our kingdom."
 MID_ED1_#012,"But it is not our kingdom anymore. It's the 
-Fell Dragon's. Surely you see that."
+Fell Dragon's. Surely you see that."
 MID_ED1_#013,"[Hortensia] 
-..."
+..."
 MID_ED1_#014,"[Alear] 
-Princess Ivy..."
+Princess Ivy..."
 MID_ED1_#015,"[Ivy] 
 I didn't want to admit it, but Father stopped 
-being king as soon as the Fell Dragon awoke."
+being king as soon as the Fell Dragon awoke."
 MID_ED1_#016,"Since then true power has rested with Sombron, 
-his daughter, and the Four Hounds."
+his daughter, and the Four Hounds."
 MID_ED1_#017,"If you went back now, you would become an 
-instrument of their designs─just as Father was."
+instrument of their designs─just as Father was."
 MID_ED1_#018,"[Hortensia] 
-I..."
+I..."
 MID_ED1_#019,"[Ivy] 
 I want to go home too. You have no idea 
-how badly."
+how badly."
 MID_ED1_#020,"But there's no home to go back to until we 
-defeat the Fell Dragon."
+defeat the Fell Dragon."
 MID_ED1_#021,"After allowing Father to relinquish his power to 
-Sombron, we owe our people no less."
+Sombron, we owe our people no less."
 MID_ED1_#022,"[Hortensia] 
-..."
+..."
 MID_ED1_#023,"The castle. My only home since I was little... 
-We really can't go back now, can we?"
+We really can't go back now, can we?"
 MID_ED1_#024,"[Ivy] 
-No... We can't."
+No... We can't."
 MID_ED1_#025,"[Hortensia] 
 That little nook where I had tea with my friends. 
-The garden where you and I read together..."
+The garden where you and I read together..."
 MID_ED1_#026,"Even Rosado and Goldmary. I've left everything 
-and everyone behind."
+and everyone behind."
 MID_ED1_#027,"All right, Ivy. I'll join this fight. So that someday, 
-things can be like they were again."
+things can be like they were again."
 MID_ED1_#028,"[Ivy] 
-Thank you, Hortensia."
+Thank you, Hortensia."
 MID_ED1_#029,"[Hortensia] 
 I'm really sorry for...for what I did. Divine One? 
-You should have this."
+You should have this."
 MID_ED1_#030,"[Alear] 
 The Ring of the Instructor. One of the rings 
-stolen from Lythos. Thank you for returning it."
+stolen from Lythos. Thank you for returning it."
 MID_ED1_#031,"[Hortensia] 
 Don't give me too much credit. I wasn't exactly 
-planning to hand it over."
+planning to hand it over."
 MID_ED1_#032,"[Alear] 
-Even so, you have my thanks."
-MID_ED1_#033,"Teach us, Emblem of the Academy!"
+Even so, you have my thanks."
+MID_ED1_#033,"Teach us, Emblem of the Academy!"
 MID_ED2_#001,"[Byleth] 1 
 [Alear] 2 
 [Byleth] 
 I am Emblem Byleth. It feels as though I've just 
-awoken from a very long dream..."
+awoken from a very long dream..."
 MID_ED2_#002,"I'm glad to be where I belong─at your side. Use 
-my power to guide everyone."
+my power to guide everyone."
 MID_ED2_#003,"[Alear] 
-I will. Thank you, Emblem Byleth."
+I will. Thank you, Emblem Byleth."
 MID_ED3_#001,"[Seforia] 1 
 [Alear] 2 
 
 [Seforia] 
-So, how is everyone?"
+So, how is everyone?"
 MID_ED3_#002,"[Alear] 
-Queen Seforia, you're all right!"
+Queen Seforia, you're all right!"
 MID_ED3_#003,"[Seforia] 
 That I am. Some Elusian soldiers tried to seize 
-me, but I was saved at just the right moment."
+me, but I was saved at just the right moment."
 MID_ED3_#004,"[Timerra] 3 
 
 [Timerra] 
-We took 'em down."
+We took 'em down."
 MID_ED3_#005,"[Diamant] 4 
 [Diamant] 
-Alfred and I intended to help."
+Alfred and I intended to help."
 MID_ED3_#006,"[Diamant] 
 [Alfred] 4 
 [Alfred] 
 But by the time we'd drawn our weapons, the 
-fight was already over."
+fight was already over."
 MID_ED3_#007,"[Timerra] 
 Haha! That's the Solm royal guard for ya. 
-Pretty good, right?"
+Pretty good, right?"
 MID_ED3_#008,"[Alear] 
 I'm just glad the queen is safe. Well 
-done, everyone."
+done, everyone."
 MID_ED3_#009,"[Seforia] 
 Well done yourself. No more trespassers. My 
-palace is rid of them."
+palace is rid of them."
 MID_ED3_#010,"Divine One, thank you for protecting the rings 
-and my family with such courage."
+and my family with such courage."
 MID_ED3_#011,"The way you spoke, the look in your eyes... 
-You were the spitting image of Queen Lumera."
+You were the spitting image of Queen Lumera."
 MID_ED3_#012,"[Alear] 
-..."
-MID_ED3_#013,Your words mean so much... Thank you.
+..."
+MID_ED3_#013,Your words mean so much... Thank you.
 MID_ED3_#014,"[Timerra] 
 [Alfred] 
 
 [Alear] 
 [Hortensia] 2 
 [Hortensia] 
-Um, excuse me, Queen Seforia?"
+Um, excuse me, Queen Seforia?"
 MID_ED3_#015,"[Seforia] 
-You. I assumed you'd gone back to Elusia."
+You. I assumed you'd gone back to Elusia."
 MID_ED3_#016,"[Hortensia] 
 Look, I'm really sorry about what I did. I'll 
-accept whatever punishment you give me."
+accept whatever punishment you give me."
 MID_ED3_#017,"[Ivy] 4 
 
 [Ivy] 
-I owe you an apology as well."
+I owe you an apology as well."
 MID_ED3_#018,"[Seforia] 
-..."
+..."
 MID_ED3_#019,"[Alear] 3 
 
 [Alear] 
 Queen Seforia, please. Zephia was using some 
-sort of magic to control Princess Hortensia."
+sort of magic to control Princess Hortensia."
 MID_ED3_#020,"As soon as it wore off, she stopped fighting─ 
-even gave me her Emblem Ring."
+even gave me her Emblem Ring."
 MID_ED3_#021,"[Seforia] 
 I don't recall Zephia being there when the 
-young princess held me hostage."
-MID_ED3_#022,"Look me in the eyes, you two."
+young princess held me hostage."
+MID_ED3_#022,"Look me in the eyes, you two."
 MID_ED3_#023,"[Hortensia] 
-OK..."
+OK..."
 MID_ED3_#024,"[Seforia] 
 Threatening a queen's life is a grave crime. You 
-deserve a room in the dungeons."
-MID_ED3_#025,But...I won't send you there.
+deserve a room in the dungeons."
+MID_ED3_#025,But...I won't send you there.
 MID_ED3_#026,"[Hortensia] 
-You...won't?"
+You...won't?"
 MID_ED3_#027,"[Seforia] 
 It was the Fell Dragon's minions who broke in 
-and started the conflict, right?"
+and started the conflict, right?"
 MID_ED3_#028,"Your only crimes were slipping in uninvited... 
-and threatening to kill me."
+and threatening to kill me."
 MID_ED3_#029,"If you want to make amends, defeat the 
-Fell Dragon. Rebuild your kingdom."
+Fell Dragon. Rebuild your kingdom."
 MID_ED3_#030,"When cooler heads return to Elusia, Solm can 
-only benefit. Let's move on now, shall we?"
+only benefit. Let's move on now, shall we?"
 MID_ED3_#031,"[Hortensia] 
-Thank you, Queen Seforia."
+Thank you, Queen Seforia."
 MID_ED3_#032,"[Ivy] 
 Your show of compassion will not be forgotten. 
-We will restore Elusia. I swear it."
+We will restore Elusia. I swear it."
 MID_ED3_#033,"[Seforia] 
 For my part, I think I'd better look into shoring 
-up the palace's defenses."
+up the palace's defenses."
 MID_ED3_#034,"[Alear] 
 You're right. The Fell Dragon's forces might 
-come back for you..."
+come back for you..."
 MID_ED3_#035,"I can leave some soldiers here to help keep 
-you safe."
+you safe."
 MID_ED3_#036,"[Seforia] 
 Oh, no need, no need. I have lots of family 
-members who can handle things here."
+members who can handle things here."
 MID_ED3_#037,"If the situation really boils over, I can always 
-leave a double here and wander the land."
+leave a double here and wander the land."
 MID_ED3_#038,"So don't worry about me. You just focus on 
-taking out the Fell Dragon."
+taking out the Fell Dragon."
 MID_ED3_#039,"[Alear] 
-We will. Thank you."
+We will. Thank you."
 MID_ED3_#040,"[Seforia] 
 Timerra, it's time you showed the Divine 
-Dragon where to find Solm's other ring."
+Dragon where to find Solm's other ring."
 MID_ED3_#041,"[Hortensia] 
 
 [Timerra] 4 
 
 [Timerra] 
 Sure thing, Mom. One Ring of the Crux of Fate, 
-coming right up!"
+coming right up!"
 MID_ED3_#042,"[Alear] 
-Where is it?"
+Where is it?"
 MID_ED3_#043,"[Timerra] 
 The Northern Fortress. Oh... You don't scare 
-easily, do you?"
-MID_ED4_#001,"ヴェイル_白_悪 2 
-ヴェイル_白_悪 
-Hm..."
+easily, do you?"
+MID_ED4_#001,"[Veyle] 白 悪 2 
+[Veyle] 白 悪 
+Hm..."
 MID_ED4_#002,"Another ring in the Divine Dragon's hands. 
-Still, not enough to turn the tide."
-MID_ED4_#003,Urgh...
+Still, not enough to turn the tide."
+MID_ED4_#003,Urgh...
 MID_ED4_#004,"I must sleep. Curse this feeble form of mine for 
-plunging me into darkness."
+plunging me into darkness."
 MID_ED4_#005,"I pray that next time, my waking hours will not 
-end so soon."
-MID_ED4_#006,...
-MID_ED4_#007,"ヴェイル_白_悪 
+end so soon."
+MID_ED4_#006,...
+MID_ED4_#007,"[Veyle] 白 悪 
 [Veyle] 2 
 
 [Veyle] 
-..."
-MID_ED4_#008,Sand? But...what happened to all the snow?
-MID_ED4_#009,Where am I?
-MID_ED4_#010,Why does this keep happening to me?
-MID_EV1_#001,"M014_オルテンシア b 
-"" M014_オルテンシア Pain 
-M014_オルテンシア 
+..."
+MID_ED4_#008,Sand? But...what happened to all the snow?
+MID_ED4_#009,Where am I?
+MID_ED4_#010,Why does this keep happening to me?
+MID_EV1_#001,"[Hortensia] b 
+"" [Hortensia] Pain 
+[Hortensia] 
 I will defeat you. It's the only way to... 
-Ugh... Ahh!"
+Ugh... Ahh!"
 MID_EV1_#002,"[Alear] t 
 [Alear] Surprise 
 
 [Alear] 
-The Emblem is surging with Fell Dragon energy!"
+The Emblem is surging with Fell Dragon energy!"
 MID_EV1_#003,"[Alear] 
 Angry 
-Be on your guard."
+Be on your guard."
 MID_OP1_#001,"[Hortensia] 1 
 
 [Seforia] 3 
@@ -321,231 +321,231 @@ MID_OP1_#001,"[Hortensia] 1
 [Alear] 2 
 
 [Alear] 
-Queen Seforia!"
+Queen Seforia!"
 MID_OP1_#002,"[Hortensia] 
-Finally! Took you long enough."
+Finally! Took you long enough."
 MID_OP1_#003,"[Timerra] 
-Let her go."
+Let her go."
 MID_OP1_#004,"[Hortensia] 
 Yeah, I don't think so. And don't you dare come 
-any closer."
+any closer."
 MID_OP1_#005,"I've got an Emblem Ring. It'd be so easy to 
-kill her."
+kill her."
 MID_OP1_#006,"[Timerra] 
-..."
+..."
 MID_OP1_#007,"[Seforia] 
 Sorry, everyone. I didn't realize she was still on 
-Elusia's side."
+Elusia's side."
 MID_OP1_#008,"[Alear] 
 I don't see any other soldiers. Did you get in 
-by yourself?"
+by yourself?"
 MID_OP1_#009,"[Hortensia] 
 Uh-huh. I told the guards I'd been separated 
-from Ivy, and they let me walk right in."
+from Ivy, and they let me walk right in."
 MID_OP1_#010,"Now, you've got a choice: hand over the rings 
-or I kill the queen."
+or I kill the queen."
 MID_OP1_#011,"[Timerra] 
 [Ivy] 4 
 
 [Ivy] 
-Hortensia, don't do this."
+Hortensia, don't do this."
 MID_OP1_#012,"[Hortensia] 
 Ivy! It's been a while... You know, I... I thought 
-you were dead."
+you were dead."
 MID_OP1_#013,"I was so relieved when I heard you'd made it. 
-But...now what? You're with them?"
+But...now what? You're with them?"
 MID_OP1_#014,"[Ivy] 
-Well, I..."
+Well, I..."
 MID_OP1_#015,"[Hortensia] 
 Since Father sacrificed himself, Elusia has been 
-working in concert with Lord Sombron."
+working in concert with Lord Sombron."
 MID_OP1_#016,"But you? You abandoned us─abandoned me─ 
-and took sides with the enemy."
-MID_OP1_#017,"You're a traitor, Ivy! A stinking traitor!"
+and took sides with the enemy."
+MID_OP1_#017,"You're a traitor, Ivy! A stinking traitor!"
 MID_OP1_#018,"[Ivy] 
 I have not betrayed anyone. Hortensia, please, 
-hear me out."
+hear me out."
 MID_OP1_#019,"[Hortensia] 
 I don't wanna hear another word out of your 
 dirty, double-crossing mouth! Just give me 
-the rings."
+the rings."
 MID_OP1_#020,"[Alear] 
-..."
-MID_OP1_#021,"No, Hortensia. Never."
+..."
+MID_OP1_#021,"No, Hortensia. Never."
 MID_OP1_#022,"[Hortensia] 
 I'm sorry, did I not make myself clear? Hand 
-them over or I kill the queen."
+them over or I kill the queen."
 MID_OP1_#023,"[Alear] 
-I heard you. But I'm not doing what you ask."
+I heard you. But I'm not doing what you ask."
 MID_OP1_#024,"I'd be throwing away everything she, Timerra, 
-Fogado, and the people of Solm have done."
+Fogado, and the people of Solm have done."
 MID_OP1_#025,"So no, I won't give you the rings. And I won't 
-let you kill Queen Seforia."
+let you kill Queen Seforia."
 MID_OP1_#026,"[Hortensia] 
-Ugh!"
+Ugh!"
 MID_OP1_#027,"[Ivy] 
 
 [Timerra] 2 
 
 [Timerra] 
 I agree with the Divine Dragon. Those rings are 
-staying with us."
+staying with us."
 MID_OP1_#028,"[Alear] 4 
 
 [Alear] 
-Right."
+Right."
 MID_OP1_#029,"[Timerra] 
 If we let the Fell Dragon have them, my country 
-and my people are doomed."
+and my people are doomed."
 MID_OP1_#030,"So threaten us all you want. Take my whole 
-family hostage, if it makes you happy."
-MID_OP1_#031,"But I stand for Solm, and I always will."
+family hostage, if it makes you happy."
+MID_OP1_#031,"But I stand for Solm, and I always will."
 MID_OP1_#032,"[Seforia] 
 There she is, the future queen of Solm. 
-And her ally, the Divine Dragon."
+And her ally, the Divine Dragon."
 MID_OP1_#033,"[Hortensia] 
 What's wrong with you?! This is your mother! 
-You're supposed to be scared!"
+You're supposed to be scared!"
 MID_OP1_#034,"Cry already! Cower and beg for her life! Give me 
-what I want!"
+what I want!"
 MID_OP1_#035,"No, what I need. I need the rings. It's the only 
-way to bring Father back."
+way to bring Father back."
 MID_OP1_#036,"[Alear] 
 [Ivy] 4 
 
 [Ivy] 
 Hortensia... He's gone. The Fell Dragon 
-murdered him. You watched it happen."
+murdered him. You watched it happen."
 MID_OP1_#037,"There's no way we can bring him back, even 
-with the rings."
+with the rings."
 MID_OP1_#038,"[Hortensia] 
 You don't know that! I have to try! I have to 
-save Father and Elusia!"
+save Father and Elusia!"
 MID_OP1_#039,"Everything's all wrong now. I just want to put it 
-back how it was before!"
+back how it was before!"
 MID_OP1_#040,"[Ivy] 
-I know how you feel."
+I know how you feel."
 MID_OP1_#041,"[Hortensia] 
 No! Stop trying to get in my head, all right? 
-I'll kill her! I'll do it!"
+I'll kill her! I'll do it!"
 MID_OP1_#042,"[Timerra] 
 [Alear] 2 
 
 [Alear] 
-I don't think you can."
-MID_OP1_#043,Not if you know the pain of losing a parent.
+I don't think you can."
+MID_OP1_#043,Not if you know the pain of losing a parent.
 MID_OP1_#044,"[Hortensia] 
-..."
+..."
 MID_OP1_#045,"[Seforia] 
 Well? Get on with it, then, if that's what you 
-truly want. Are we doing this or aren't we?"
+truly want. Are we doing this or aren't we?"
 MID_OP1_#046,"[Hortensia] 
-I... I..."
-MID_OP1_#047,Whaaa!
+I... I..."
+MID_OP1_#047,Whaaa!
 MID_OP1_#048,"[Alear] 
-She needs her sister now."
+She needs her sister now."
 MID_OP1_#049,"[Ivy] 
 It's all right, Hortensia. Oh, I've been so worried 
-about you."
+about you."
 MID_OP1_#050,"[Hortensia] 
-Ivy..."
+Ivy..."
 MID_OP2_#001,"[Hortensia] 1 
 [Ivy] 4 
 [Alear] 2 
 [Zephia] 3 
 [Zephia] 
-I'm afraid I have to cut the reunion short."
+I'm afraid I have to cut the reunion short."
 MID_OP2_#002,"[Alear] 
-Zephia. What are you doing here?"
+Zephia. What are you doing here?"
 MID_OP2_#003,"[Zephia] 
 Missed you, too, Divine One. I must thank you 
-for helping us gather so many rings."
+for helping us gather so many rings."
 MID_OP2_#004,"All of them, I thought. Until the princess's─ 
-rather former princess's─thievery came to light."
+rather former princess's─thievery came to light."
 MID_OP2_#005,"[Ivy] 
-..."
+..."
 MID_OP2_#006,"[Zephia] 
 Enough about that. More importantly... 
-Princess Hortensia..."
+Princess Hortensia..."
 MID_OP2_#007,"[Hortensia] 
-..."
+..."
 MID_OP2_#008,"[Zephia] 
 Taking a ring without permission? Sneaking off 
-to a place like this? Naughty, naughty."
+to a place like this? Naughty, naughty."
 MID_OP2_#009,"Lord Sombron and Lady Veyle's orders were 
-clear─to wait, to watch."
+clear─to wait, to watch."
 MID_OP2_#010,"Oh, your retainers, by the way? They tried to 
-stop us. They failed."
+stop us. They failed."
 MID_OP2_#011,"[Hortensia] 
 Where are they? What did you do to Goldmary 
-and Rosado?"
+and Rosado?"
 MID_OP2_#012,"[Zephia] 
 You'll have to see for yourself. Now, we hadn't 
-planned on making a move this early."
+planned on making a move this early."
 MID_OP2_#013,"But since we're here, it would be a shame to 
-return home without a few souvenirs."
-MID_OP2_#014,Marni? Mauvier? Wouldn't you agree?
+return home without a few souvenirs."
+MID_OP2_#014,Marni? Mauvier? Wouldn't you agree?
 MID_OP3_#001,"[Alear] 2 
 [Ivy] 4 
 
 [Alear] 
-More Hounds."
+More Hounds."
 MID_OP3_#002,"[Mauvier] 1 
 [Marni] 3 
 [Mauvier] 
 I did not expect it would be so easy to enter 
-the impregnable Solm Palace."
+the impregnable Solm Palace."
 MID_OP3_#003,"[Marni] 
 Zephia, what do we do with the queen? Kill her? 
-She's not much use anymore."
+She's not much use anymore."
 MID_OP3_#004,"[Mauvier] 
 [Zephia] 1 
 [Zephia] 
 No. Lord Sombron will want to savor every last 
-drop of sovereign blood."
+drop of sovereign blood."
 MID_OP3_#005,"[Marni] 
-Ah! Haha, I gotcha."
+Ah! Haha, I gotcha."
 MID_OP4_#001,"[Alear] 2 
 [Ivy] 4 
 [Zephia] 1 
 
 [Alear] 
-Queen Seforia!"
+Queen Seforia!"
 MID_OP4_#002,"[Hortensia] 3 
 [Zephia] 
 What a good girl you are, Princess Hortensia, 
-coming here to get rings for Lord Sombron."
+coming here to get rings for Lord Sombron."
 MID_OP4_#003,"Now that the three of us are here, why don't we 
-help finish what you started."
+help finish what you started."
 MID_OP4_#004,"We can kill them all and head back home to 
-Elusia. What do you say?"
+Elusia. What do you say?"
 MID_OP4_#005,"[Hortensia] 
-But... But I..."
+But... But I..."
 MID_OP4_#006,"[Zephia] 
-Come, dear. Take command."
+Come, dear. Take command."
 MID_OP4_#007,"Just think. If we take their rings, we'll be so 
-close to having all 12."
+close to having all 12."
 MID_OP4_#008,"[Hortensia] 
-So close... Just a few more rings..."
+So close... Just a few more rings..."
 MID_OP4_#009,"[Alear] 
-Hortensia? What's going on?"
+Hortensia? What's going on?"
 MID_OP4_#010,"[Hortensia] 
-With all the rings, then Father will..."
+With all the rings, then Father will..."
 MID_OP4_#011,"[Zephia] 
 That's right. King Hyacinth will be resurrected. 
-We'll make everything just as it was before."
+We'll make everything just as it was before."
 MID_OP4_#012,"[Hortensia] 
-Just as it was...before..."
+Just as it was...before..."
 MID_OP4_#013,"[Hortensia] 
-M014_オルテンシア 3 
-M014_オルテンシア 
-..."
+[Hortensia] 3 
+[Hortensia] 
+..."
 MID_OP4_#014,"I will kill them all. I will take their rings. It's the 
-only way to save Father."
+only way to save Father."
 MID_OP4_#015,"[Alear] 
-Is she really going to fight us?"
+Is she really going to fight us?"
 MID_OP4_#016,"[Ivy] 
-Hortensia, snap out of it, please! Hortensia!"
+Hortensia, snap out of it, please! Hortensia!"
 MID_OP4_#017,"[Zephia] 
 She can't hear you, unfortunately. Enjoy killing 
-one another, won't you?"
+one another, won't you?"

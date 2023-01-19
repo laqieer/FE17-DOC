@@ -1,0 +1,623 @@
+=== Chapter 7 Dark Emblem ===
+
+(The Grand Crossing)
+The party attempts to cross the 
+border to obtain the ring entrusted 
+to the Kingdom of Brodia.
+
+--- OP ---
+
+PP 
+[Alfred] 1 
+[Alear] 2 
+[Alfred] 
+So, we made it across the border. We're in 
+Brodia territory now.
+[Alear] 
+The landscape here─it's so different from Firene. 
+Nothing but rugged terrain all around us.
+[Alfred] 
+Watch out!
+[Alear] 
+...
+[Alear] 
+[Alfred] 
+We're under attack?
+[Alfred] 
+
+[Alcryst] 1 
+&amp; 
+[Alcryst] MPID Unknown 
+
+[Alcryst]
+[Alear] 2 
+
+[Alear] 
+Name yourselves!
+[Alcryst] 
+I would make the same request of you. After all, 
+you are the ones sneaking over our border.
+[Alear] 
+...
+[Alcryst] 
+Identify yourselves...or I will assume you are thieves.
+[Alcryst] 
+This time, I won't miss.
+[Alear] 
+I'm the Divine Dragon from Lythos, 
+not a thief.
+[Alfred] 4 
+[Alfred] 
+I am Alfred, the heir to the throne of Firene─ 
+and your ally.
+[Alcryst] 
+The Divine Dragon...and the crown prince of Firene?
+[Alear] 
+That's right. Now I would like to know─who are 
+you to shoot at us like that?
+[Alcryst] 
+...
+I...
+[Alear] 
+...
+[Alcryst] 
+I am so, so, so sorry!
+[Alear] 
+Huh?
+[Alcryst] 
+I threatened the Divine Dragon and the crown prince 
+of Firene!
+[Alcryst] 
+I'm begging─please find it in your hearts to 
+forgive me!
+
+[Alfred] 0 
+[Alear] 1 
+
+[Alcryst] 2 
+
+[Alear] 
+It's all right. No harm was done.
+[Alfred] 
+That was quite the bow, soldier. Must have 
+been hard on the knees.
+Hmm...wait a second. Your face looks 
+awfully familiar.
+You're not just a soldier, are you?
+[Alcryst] 
+No. I'm Alcryst, second prince of Brodia.
+[Alear] 
+Prince?
+[Alfred] 
+I thought so! How's it going, Prince Alcryst?
+[Alcryst] 
+Even worse than usual. I'm sorry for taking so 
+long to introduce myself.
+Oh, these are my retainers, Lapis and Citrinne.
+[Citrinne] 3 
+
+[Citrinne] 
+Honored to meet you and your coterie.
+[Citrinne] 
+[Lapis] 3 
+[Lapis] 
+Yeah, welcome to Brodia.
+[Alear] 
+I can't say I feel very welcome. You still look 
+like you're ready to kill us.
+[Alcryst] 
+We're merely a little tense.
+My father, King Morion, received word from 
+Queen Ève that your party was on its way.
+He ordered us to meet you at the border and 
+formally welcome you to the kingdom.
+We've been waiting for a long time, and all we 
+encountered were bizarre creatures. Or bandits.
+We assumed you were more of the same.
+[Alfred] 
+I'm sorry for the delay. We had to take a 
+little detour.
+Still, if your arrow hit the Divine One, Brodia's 
+standing would have been seriously hurt.
+Be more careful next time, Prince Alcryst.
+[Alcryst] 
+I will. I really am sorry.
+[Lapis] 
+
+[Citrinne] 3 
+
+[Citrinne] 
+You cannot be held liable, Alcryst. You had no 
+way of knowing who they were.
+Was it not possible for your party to arrive 
+in a more royal, more...resplendent manner?
+[Citrinne] 
+[Lapis] 3 
+[Lapis] 
+This is the kingdom of warriors. If you can't 
+dodge one arrow, you're not worthy to enter.
+Here, the weak serve the strong. Maybe we 
+should give you a little test, hm?
+[Alfred] 
+What did you say?
+[Alcryst] 
+She didn't mean that! Apologies... My country 
+places too much value on strength.
+Besides, you have nothing to prove. I am well 
+aware of your battle prowess, Prince Alfred.
+[Alfred] 
+Oh. Well... Thank you.
+[Alcryst] 
+I'm so sorry for all this...so sorry. And I'm sorry 
+it's me greeting you, instead of someone better.
+[Alear] 
+You can stop apologizing. I'm grateful that a 
+prince is here to receive us personally.
+[Alcryst] 
+Really? You're grateful to see...me?
+[Alear] 
+Yes. Honored, in fact.
+[Alcryst] 
+How polite of you to say so. Charming as well 
+as divine, I see.
+Could you do me the favor of being...less 
+dazzling? I find it so hard to shine as it is...
+[Alear] 
+Uh... All right...
+[Alcryst] 
+Now, come with me. I can show you the way to 
+Brodia Castle.
+
+Default 
+
+[Alear] 
+
+[Alcryst] 
+[Hortensia] 1 
+[Hortensia] 
+Finally! It took you long enough! Very rude to 
+keep a princess waiting. Very rude, indeed!
+[Alear] 2 
+
+[Alcryst] 4 
+
+[Alcryst] 
+Princess?
+[Hortensia] 
+That would be me─the second princess 
+of Elusia, Hortensia!
+[Hortensia] 
+Now then. Hello, everybody!
+[Alear] 
+Elusia's...second princess?
+[Hortensia] 
+Uh-huh! In the flesh! And you're the Divine Dragon!
+[Alear] 
+Uh, right.
+[Hortensia] 
+Ooo, I knew it! I could totally tell. You're the 
+prettiest. It's a dead giveaway!
+I always thought Lumera was the only Divine Dragon. 
+You could've knocked me over with a feather when 
+I found out there was another one!
+Wow... Those mismatched eyes of yours are 
+something to see...
+
+[Alcryst] 1 
+[Alear] 2 
+
+[Alcryst] 
+We will arrive at the Grand Crossing soon. 
+That will take us to the castle.
+[Alear] 
+Good.
+[Alcryst] 
+Divine One, if I may. I was wondering about 
+something Queen Ève said in her letter.
+Is it true that Elusia has released Sombron?
+[Alear] 
+It's true. An Elusian we fought told us as much.
+[Alcryst] 
+I see.
+We'd heard rumors to that effect, but I didn't 
+dare believe them.
+Those neighbors of ours. You will need all the 
+rings to defeat the Fell Dragon, right?
+For generations, my country has possessed the 
+Ring of the Young Lion.
+[Alear] 
+The Ring of the Young Lion...
+[Alcryst] 
+It has a red stone and a certain...gallant aura.
+Diamant, the crown prince, told me he's been 
+hearing a voice from the ring.
+He's a remarkable person. I'm lucky to be 
+his brother.
+[Alear] 
+You really admire him, don't you?
+[Alcryst] 
+Oh, yes. He's strong, wise, humble... The king 
+adores him, as do our people.
+My brother is cut from the noblest cloth. 
+I'm afraid I was made from the tatters...
+[Alear] 
+There's no need to be so hard on yourself.
+[Alcryst] 
+Ah, there it is. The Grand Crossing.
+There seem to be a great many soldiers out 
+today... Wait a moment. Those are...
+Elusian soldiers! They're occupying the bridge!
+[Alear] 
+No...
+
+[Alcryst] 1 
+[Alear] 2 
+[Hortensia] 3 
+
+[Alcryst] 
+Don't come any closer!
+You wicked Elusians aren't worthy to approach 
+the Divine Dragon!
+[Hortensia] 
+Hmph. Nobody asked you, Brodian. Besides, 
+we're not the wicked ones. You are!
+[Alcryst] 
+...
+[Hortensia] 
+My father says Brodia is a greedy, 
+barbaric country.
+You're always invading our territory─taking 
+our land. It's the worst!
+Do you know how many people you've hurt? 
+Not just soldiers, but regular people?
+[Alcryst] 
+We're not just invading to expand.
+We are keeping your vicious, unpredictable 
+kingdom in check.
+I take it you're retaliating? Launching a 
+full-scale invasion to take your revenge?
+[Hortensia] 
+Hahaha, hardly. I couldn't lead such an 
+ambitious attack.
+I'm just here to take your rings. By order of my 
+father, King Hyacinth.
+[Alear] 
+He told you to do this?
+[Hortensia] 
+Yep. Now, if there are no more questions, fork 
+over the goods and we'll all go home breathing.
+[Alear] 
+Never.
+[Hortensia] 
+Aw, I thought nabbing your rings would be the 
+easy job.
+Lucky big sis, getting to attack the 
+castle instead...
+[Alear] 
+The crown princess? She's going to attack 
+Brodia Castle?
+[Hortensia] 
+Oops! Probably shouldn't have said that...
+[Alcryst] 
+We must go right away!
+[Hortensia] 
+Hah, as if I'd let you pass. My father's gonna be 
+so proud of me!
+All Elusian soldiers, forward march! Get me 
+those rings!
+
+
+--- ED ---
+
+[Hortensia] 1 
+[Hortensia] 
+Ugh, this is so frustrating!
+Rosado, Goldmary, all soldiers...retreat!
+[Hortensia] 
+
+[Alcryst] 4 
+
+[Alcryst] 
+They fled in a hurry.
+[Alfred] 3 
+[Alfred] 
+Hmm... There's a lot of damage to the bridge. 
+It may take time to find a safe path forward.
+[Alear] 2 
+
+[Alear] 
+We didn't recover the Emblem Ring.
+[Alfred] 
+We didn't lose any either. And most importantly, 
+you're not hurt.
+Let's call that good enough.
+[Alear] 
+You're right.
+[Vander] 1 
+
+[Vander] 
+It is plain now that Queen Lumera's stolen 
+rings lie in Elusia's hands.
+In which case we can deduce that they 
+possess five.
+[Alear] 
+Five?
+[Vander] 
+Yes, counting the rings taken from 
+Lythos Castle.
+The Rings of the Sage Lord, the Azure Twins, 
+the Instructor, and of course, the Princess Exalt.
+Princess Hortensia was wielding the latter, 
+as you'll recall.
+Besides those four, there was one entrusted 
+to them by your forebears.
+[Alear] 
+Which one?
+[Alcryst] 
+If I may, I believe it's the Ring of the Lady of 
+the Plains.
+The king favors it, or so I've heard. He keeps it 
+in his personal chambers.
+[Alfred] 
+His chambers? That's odd. Firene's ring has a 
+hall in the castle all to itself.
+Where does your kingdom keep its ring?
+[Alcryst] 
+Like Firene, we store ours in a special gallery in 
+the castle.
+Speaking of which...how soon might we be able 
+to depart?
+I really am worried about the situation there.
+[Alfred] 
+The soldiers should be back from patrol soon.
+[Alear] 
+Let's prepare to leave.
+[Alcryst] 
+Thank you. If anything has happened to my 
+father or brother, I don't know what I'll do...
+
+Take that!
+Raaargh!
+Almost done.
+Aaagh!
+That's the last of them.
+The village...is finally safe.
+But it's still not good enough. I have... I have to 
+be strong.
+Strong, just like you were. I still miss you so much...
+And I think about what you said to me...all those 
+long years ago.
+Where are you...Brother?
+Where are you...Sister?
+
+
+--- EV ---
+
+[Alcryst] b 
+
+[Alcryst] 
+Angry 
+
+[Alcryst] 
+We must deal with them quickly and return to 
+the castle. There's not a moment to spare.
+[Lapis] t 
+[Lapis] Strike 
+[Lapis] 
+Of course, Prince Alcryst. Leave it to us!
+[Lapis] 
+
+[Citrinne] t 
+
+[Citrinne] 
+Smile 
+
+[Citrinne] 
+I wager we'll be back in time for dinner.
+[Alcryst] 
+Smile 
+
+[Alcryst] 
+Such confidence. But I'm still concerned 
+about casualties.
+[Alcryst] StandBy 
+I will protect you both.
+[Citrinne] 
+[Lapis] t 
+[Lapis] Surprise 
+[Lapis] 
+So brave...
+[Lapis] Sad 
+But, uh, as your retainers, it's really our job to 
+protect you.
+[Alcryst] 
+Angry 
+
+[Alcryst] 
+Now, then. Get behind me.
+[Lapis] Surprise 
+
+[Alcryst] 
+[Lapis] 
+Huh?!
+[Citrinne] b 
+
+[Citrinne] 
+Smile 
+
+[Citrinne] 
+Haha! Oh, Alcryst, don't be ridiculous. You're 
+an archer─you should be at the rear.
+[Citrinne] 
+[Lapis] Surprise 
+[Lapis] 
+Hang on! Citrinne! You should also be in 
+the back!
+[Lapis] Pain 
+You two...
+
+Default 
+[Hortensia] 2 
+[Hortensia] 
+We've had such a wonderful time playing together, 
+haven't we, Divine Dragon? Speaking for myself, 
+it's been lovely.
+So I hope you don't mind...but I've brought a friend 
+along to join in the fun!
+
+Default 
+[Alear] 1 
+
+[Alear] 
+That's an...Emblem!
+But how? How is she here without my summoning her?
+[Hortensia] 2 
+[Hortensia] 
+Look at your face! You silly Divine Dragon, did you think 
+Emblems were just a "you" thing? Not by a long shot.
+Yeah, it's a pretty cool trick, huh? I'm so glad I'm able to use 
+it. And it's all thanks to Lord Sombron powering up this ring.
+It's called the Ring of the Princess Exalt. 
+Cute, am I right?
+[Alear] 
+That's one of the rings my mother was protecting! 
+Give it back!
+[Hortensia] 
+Yeah, not gonna happen! It's Elusia's ring now. 
+But if you really want to see it one last time...
+Come a little closer. I'll give you a good, long look!
+
+[Lapis] t 
+[Lapis] 
+Angry 
+[Lapis] 
+Prince Alcryst, Citrinne, stay back! 
+I'll handle this.
+I can knock down anyone who stands in 
+our way.
+
+[Lapis] t 
+[Lapis] Strike 
+[Lapis] 
+Now's our chance!
+
+[Rosado] b 
+[Rosado] 
+Smile 
+[Rosado] 
+Looks like it's starting. To your positions, 
+everyone.
+[Goldmary] t 
+&amp; [Goldmary] Normal 
+[Goldmary] 
+Oh! The Divine Dragon is absolutely...
+[Rosado] 
+Absolutely not as cute as we are?
+[Goldmary] Sad 
+[Goldmary] 
+Right, exactly.
+[Rosado] 
+Hehe! That's the spirit! Outshine the enemy 
+and then defeat them.
+[Rosado] 
+Relax 
+Now, let's steal those rings and do Hortensia 
+proud. Ready to start?
+[Goldmary] Sad 
+[Goldmary] 
+Yes, Rosado. Let's make quick work of them.
+
+[Marth] t 
+[Marth] 
+Angry 
+[Marth] 
+That Emblem is a formidable foe.
+[Marth] 
+Nearby enemies can join in her attacks. We'll 
+have to be careful.
+
+
+--- MOVIE ---
+
+
+--- BT ---
+
+[Hortensia] b 
+$ [Hortensia] 
+Angry 
+[Hortensia] 
+You got an Emblem Ring? Better cough it up!
+
+[Alear] t 
+[Alear] Strike 
+
+[Alear] 
+Return the ring.
+[Hortensia] b 
+( [Hortensia] StandBy 
+[Hortensia] 
+No way! I'm the one who's after the rings.
+$ [Hortensia] 
+Angry 
+We could have done this the easy way, but no. 
+You had to be stubborn.
+[Alear] Pain 
+
+[Alear] 
+I'm stubborn?
+
+[Hortensia] b 
+" [Hortensia] Pain 
+[Hortensia] 
+No fair! I lost?
+Well, you're not getting my ring! I won't let 
+Father down.
+
+[Rosado] b 
+[Rosado] 
+It's your lucky day, cutie. You get to fight me!
+
+[Rosado] b 
+[Rosado] 
+Smile 
+[Rosado] 
+Wow, the Divine Dragon! Happy to meet you. 
+But I'd be happier if you gave me your rings.
+[Alear] t 
+[Alear] Strike 
+
+[Alear] 
+I'd be happy if you surrendered.
+
+[Rosado] b 
+[Rosado] Pain 
+[Rosado] 
+I'm sorry, Hortensia. I have to retreat...
+
+[Goldmary] b 
+$ [Goldmary] 
+Angry 
+[Goldmary] 
+I'm going to ask you nicely─please die.
+
+[Goldmary] b 
+[Goldmary] Sad 
+[Goldmary] 
+Up close, you're only half as captivating as 
+I thought, Divine Dragon.
+[Alear] t 
+[Alear] 
+Angry 
+
+[Alear] 
+That's what you care about? Here, in battle? 
+Let's just settle this.
+
+[Goldmary] b 
+" [Goldmary] Pain 
+[Goldmary] 
+You're horrible. That's it... I'm leaving.
+
+
+--- DIE ---
+
