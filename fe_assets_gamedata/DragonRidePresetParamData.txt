@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Book Count="1">
+	<Sheet Name="パターン情報" Count="4">
+		<Header>
+			<Param Name="識別子" Ident="Group" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="負荷計測" Ident="IsTimeTest" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="有効か" Ident="IsWalkThroughON" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="コース１" Ident="Course_1" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="自爆タイマー(秒)" Ident="Stime_1" Type="float" Min="" Max="" Chg="" />
+			<Param Name="自爆ランダム(秒)" Ident="Srandom_1" Type="float" Min="" Max="" Chg="" />
+			<Param Name="コース２" Ident="Course_2" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="自爆タイマー(秒)" Ident="Stime_2" Type="float" Min="" Max="" Chg="" />
+			<Param Name="自爆ランダム(秒)" Ident="Srandom_2" Type="float" Min="" Max="" Chg="" />
+			<Param Name="コース３" Ident="Course_3" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="自爆タイマー(秒)" Ident="Stime_3" Type="float" Min="" Max="" Chg="" />
+			<Param Name="自爆ランダム(秒)" Ident="Srandom_3" Type="float" Min="" Max="" Chg="" />
+			<Param Name="コース４" Ident="Course_4" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="自爆タイマー(秒)" Ident="Stime_4" Type="float" Min="" Max="" Chg="" />
+			<Param Name="自爆ランダム(秒)" Ident="Srandom_4" Type="float" Min="" Max="" Chg="" />
+			<Param Name="コース５" Ident="Course_5" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="自爆タイマー(秒)" Ident="Stime_5" Type="float" Min="" Max="" Chg="" />
+			<Param Name="自爆ランダム(秒)" Ident="Srandom_5" Type="float" Min="" Max="" Chg="" />
+			<Param Name="コース６" Ident="Course_6" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="自爆タイマー(秒)" Ident="Stime_6" Type="float" Min="" Max="" Chg="" />
+			<Param Name="自爆ランダム(秒)" Ident="Srandom_6" Type="float" Min="" Max="" Chg="" />
+			<Param Name="コース７" Ident="Course_7" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="自爆タイマー(秒)" Ident="Stime_7" Type="float" Min="" Max="" Chg="" />
+			<Param Name="自爆ランダム(秒)" Ident="Srandom_7" Type="float" Min="" Max="" Chg="" />
+			<Param Name="コース８" Ident="Course_8" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="自爆タイマー(秒)" Ident="Stime_8" Type="float" Min="" Max="" Chg="" />
+			<Param Name="自爆ランダム(秒)" Ident="Srandom_8" Type="float" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Group="ID_Default" IsTimeTest="0" IsWalkThroughON="0" Course_1="1" Stime_1="0" Srandom_1="0" Course_2="2" Stime_2="-1" Srandom_2="-1" Course_3="3" Stime_3="1" Srandom_3="5" Course_4="0" Stime_4="-1" Srandom_4="-1" Course_5="0" Stime_5="-1" Srandom_5="-1" Course_6="0" Stime_6="0" Srandom_6="0" Course_7="1" Stime_7="-1" Srandom_7="-1" Course_8="1" Stime_8="-1" Srandom_8="-1" />
+			<Param Group="ID_DefaultTest" IsTimeTest="0" IsWalkThroughON="0" Course_1="1" Stime_1="0" Srandom_1="0" Course_2="2" Stime_2="-1" Srandom_2="-1" Course_3="3" Stime_3="1" Srandom_3="5" Course_4="0" Stime_4="-1" Srandom_4="-1" Course_5="0" Stime_5="-1" Srandom_5="-1" Course_6="0" Stime_6="0" Srandom_6="0" Course_7="1" Stime_7="-1" Srandom_7="-1" Course_8="1" Stime_8="-1" Srandom_8="-1" />
+			<Param Group="ID_Preset_Map" IsTimeTest="1" IsWalkThroughON="1" Course_1="1" Stime_1="0" Srandom_1="0" Course_2="2" Stime_2="0" Srandom_2="0" Course_3="3" Stime_3="0" Srandom_3="0" Course_4="1" Stime_4="0" Srandom_4="0" Course_5="2" Stime_5="0" Srandom_5="0" Course_6="3" Stime_6="0" Srandom_6="0" Course_7="0" Stime_7="0" Srandom_7="0" Course_8="0" Stime_8="0" Srandom_8="0" />
+			<Param Group="ID_Preset_Effect" IsTimeTest="1" IsWalkThroughON="1" Course_1="4" Stime_1="0" Srandom_1="0" Course_2="4" Stime_2="0" Srandom_2="0" Course_3="4" Stime_3="1" Srandom_3="1" Course_4="4" Stime_4="0" Srandom_4="0" Course_5="0" Stime_5="0" Srandom_5="0" Course_6="0" Stime_6="0" Srandom_6="0" Course_7="0" Stime_7="0" Srandom_7="0" Course_8="0" Stime_8="0" Srandom_8="0" />
+		</Data>
+	</Sheet>
+</Book>

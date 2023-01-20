@@ -1,0 +1,626 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Book Count="8">
+	<Sheet Name="兵種紹介M000" Count="51">
+		<Header>
+			<Param Name="出力先" Ident="Out" Type="PublicFile" Min="" Max="" Chg="" />
+			<Param Name="グループ" Ident="Group" Type="PublicArray" Min="" Max="" Chg="" />
+			<Param Name="DLC" Ident="DLC" Type="bool" Min="" Max="" Chg="" />
+			<Param Name="個人" Ident="Person" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="兵種" Ident="Job" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="装備" Ident="Weapon" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="敵" Ident="Enemy" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="敵兵種" Ident="EnemyJob" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="敵装備" Ident="EnemyWeapon" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="X" Ident="X" Type="int" Min="" Max="" Chg="" />
+			<Param Name="Z" Ident="Z" Type="int" Min="" Max="" Chg="" />
+			<Param Name="敵との距離" Ident="Distance" Type="float" Min="" Max="" Chg="" />
+			<Param Name="攻撃" Ident="Attack" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="反撃" Ident="Counter" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="追撃" Ident="Pursuit" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="背景" Ident="Field" Type="string" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Out="" Group="グループA" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_リュール;" Job="JID_神竜ノ子;" Weapon="IID_リベラシオン;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="4" Z="4" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="Fld_M001" />
+			<Param Out="" Group="" DLC="false" Person="PID_アルフレッド;" Job="JID_アヴニール下級;" Weapon="IID_鉄の槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ディアマンド;" Job="JID_スュクセサール下級;" Weapon="IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_アイビー;" Job="JID_リンドブルム下級;" Weapon="IID_エルファイアー;" Enemy="PID_M008_異形兵_ソードアーマー;" EnemyJob="JID_ソードアーマー;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ミスティラ;" Job="JID_ピッチフォーク下級;" Weapon="IID_手槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="グループB" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_セリーヌ;" Job="JID_フロラージュ下級;" Weapon="IID_ファイアー;" Enemy="PID_M008_異形兵_ソードアーマー;" EnemyJob="JID_ソードアーマー;" EnemyWeapon="IID_鉄の剣;" X="4" Z="6" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="Fld_M004" />
+			<Param Out="" Group="" DLC="false" Person="PID_スタルーク;" Job="JID_ティラユール下級;" Weapon="IID_鋼の弓;" Enemy="PID_M012_異形兵_ランスペガサス;" EnemyJob="JID_ランスペガサス;" EnemyWeapon="IID_鉄の槍;" X="0" Z="0" Distance="8" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ラピス;PID_遭遇戦_フィレネ兵_男;" Job="JID_ソードファイター;" Weapon="IID_鉄の大剣;IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="4" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_ランスファイター;" Weapon="IID_鉄の槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ブシュロン;PID_アンナ;PID_遭遇戦_フィレネ兵_男;" Job="JID_アクスファイター;" Weapon="IID_鉄の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_エーティエ;PID_遭遇戦_フィレネ兵_女;" Job="JID_アーチャー;" Weapon="IID_鉄の弓;IID_鋼の弓;" Enemy="PID_M004_異形兵_ソードペガサス;" EnemyJob="JID_ソードペガサス;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="8" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="グループC" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_男;" Job="JID_ソードアーマー;" Weapon="IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="9" Z="5" Distance="5" Attack="1" Counter="8" Pursuit="2" Field="Fld_M008" />
+			<Param Out="" Group="" DLC="false" Person="PID_ルイ;PID_遭遇戦_フィレネ兵_女;" Job="JID_ランスアーマー;" Weapon="IID_鉄の槍;IID_鋼の槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ジェーデ;PID_遭遇戦_フィレネ兵_男;" Job="JID_アクスアーマー;" Weapon="IID_鋼の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_ソードナイト;" Weapon="IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_アンバー;PID_遭遇戦_フィレネ兵_男;" Job="JID_ランスナイト;" Weapon="IID_キラーランス;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_アクスナイト;" Weapon="IID_鉄の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="グループD" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_クラン;PID_シトリニカ;PID_遭遇戦_フィレネ兵_男;" Job="JID_マージ;" Weapon="IID_ファイアー;IID_サンダー;IID_サンダー;" Enemy="PID_M004_異形兵_ランスアーマー;" EnemyJob="JID_ランスアーマー;" EnemyWeapon="IID_鉄の槍;" X="3" Z="9" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="Fld_M007" />
+			<Param Out="" Group="" DLC="false" Person="PID_フラン;PID_ジャン;PID_遭遇戦_フィレネ兵_女;" Job="JID_モンク;" Weapon="IID_初心の法;IID_ライブ;IID_初心の法;" Enemy="PID_M011_異形兵_ソードファイター;PID_リュール;PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;JID_神竜ノ子;JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;IID_リベラシオン;IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_ソードペガサス;" Weapon="IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_クロエ;PID_遭遇戦_フィレネ兵_女;" Job="JID_ランスペガサス;" Weapon="IID_ほそみの槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_アクスペガサス;" Weapon="IID_鉄の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ユナカ;PID_遭遇戦_フィレネ兵_男;" Job="JID_シーフ;" Weapon="IID_鉄のナイフ;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="グループE" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_ソードマスター;" Weapon="IID_キルソード;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="9" Z="27" Distance="5" Attack="2" Counter="7" Pursuit="5" Field="Fld_M010" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_男;" Job="JID_ブレイブヒーロー;" Weapon="IID_銀の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="4" Counter="8" Pursuit="3" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_ハルバーディア;" Weapon="IID_手槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="5" Counter="7" Pursuit="3" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_男;" Job="JID_ロイヤルナイト;" Weapon="IID_スレンドスピア;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="5" Counter="6" Pursuit="4" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_ベルセルク;" Weapon="IID_鋼の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="4" Counter="7" Pursuit="3" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_男;" Job="JID_ウォーリアー;" Weapon="IID_銀の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="5" Counter="6" Pursuit="3" Field="" />
+			<Param Out="" Group="グループF" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_スナイパー;" Weapon="IID_銀の弓;" Enemy="PID_M022_異形兵_グリフォンナイト;" EnemyJob="JID_グリフォンナイト;" EnemyWeapon="IID_鉄の槍;" X="13" Z="18" Distance="9" Attack="5" Counter="7" Pursuit="4" Field="Fld_M005" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_男;" Job="JID_ボウナイト;" Weapon="IID_銀の弓;" Enemy="PID_M021_異形兵_ドラゴンナイト;" EnemyJob="JID_ドラゴンナイト;" EnemyWeapon="IID_鉄の斧;" X="0" Z="0" Distance="9" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_ジェネラル;" Weapon="IID_鉄の大斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="5" Counter="8" Pursuit="4" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_男;" Job="JID_グレートナイト;" Weapon="IID_銀の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ヴァンドレ;PID_遭遇戦_フィレネ兵_女;" Job="JID_パラディン;" Weapon="IID_鉄の斧;IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="7" Attack="5" Counter="7" Pursuit="4" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_男;" Job="JID_ウルフナイト;" Weapon="IID_スティレット;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="グループG" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_セイジ;" Weapon="IID_エルファイアー;" Enemy="PID_M004_異形兵_アクスアーマー;" EnemyJob="JID_アクスアーマー;" EnemyWeapon="IID_鉄の斧;" X="10" Z="3" Distance="6" Attack="5" Counter="7" Pursuit="4" Field="Fld_M020" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_男;" Job="JID_マージナイト;" Weapon="IID_エルサンダー;" Enemy="PID_M004_異形兵_ランスアーマー;" EnemyJob="JID_ランスアーマー;" EnemyWeapon="IID_鉄の槍;" X="0" Z="0" Distance="6" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_マスターモンク;" Weapon="IID_銀身の法;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="3" Counter="7" Pursuit="5" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_男;" Job="JID_ハイプリースト;" Weapon="IID_リライブ;" Enemy="PID_リュール;" EnemyJob="JID_神竜ノ子;" EnemyWeapon="IID_リベラシオン;" X="0" Z="0" Distance="4" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_グリフォンナイト;" Weapon="IID_銀の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="7" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_男;" Job="JID_ドラゴンナイト;" Weapon="IID_スレンドスピア;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_M004_蛮族;" Job="JID_蛮族;" Weapon="IID_鉄の斧;" Enemy="PID_遭遇戦_フィレネ兵_男;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="グループH" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="グループI" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+		</Data>
+	</Sheet>
+	<Sheet Name="兵種紹介M001" Count="52">
+		<Header>
+			<Param Name="出力先" Ident="Out" Type="PublicFile" Min="" Max="" Chg="" />
+			<Param Name="グループ" Ident="Group" Type="PublicArray" Min="" Max="" Chg="" />
+			<Param Name="DLC" Ident="DLC" Type="bool" Min="" Max="" Chg="" />
+			<Param Name="個人" Ident="Person" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="兵種" Ident="Job" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="装備" Ident="Weapon" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="敵" Ident="Enemy" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="敵兵種" Ident="EnemyJob" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="敵装備" Ident="EnemyWeapon" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="X" Ident="X" Type="int" Min="" Max="" Chg="" />
+			<Param Name="Z" Ident="Z" Type="int" Min="" Max="" Chg="" />
+			<Param Name="敵との距離" Ident="Distance" Type="float" Min="" Max="" Chg="" />
+			<Param Name="攻撃" Ident="Attack" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="反撃" Ident="Counter" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="追撃" Ident="Pursuit" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="背景" Ident="Field" Type="string" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Out="" Group="グループA" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_リュール;" Job="JID_神竜ノ子;" Weapon="IID_リベラシオン;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="4" Z="4" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="Fld_M001" />
+			<Param Out="" Group="" DLC="false" Person="PID_アルフレッド;" Job="JID_アヴニール下級;" Weapon="IID_鉄の槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ディアマンド;" Job="JID_スュクセサール下級;" Weapon="IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_アイビー;" Job="JID_リンドブルム下級;" Weapon="IID_エルファイアー;" Enemy="PID_M008_異形兵_ソードアーマー;" EnemyJob="JID_ソードアーマー;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ミスティラ;" Job="JID_ピッチフォーク下級;" Weapon="IID_手槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_S014_マルス;" Job="JID_紋章士_マルス;" Weapon="IID_マルス_ファルシオン_通常;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="グループB" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_セリーヌ;" Job="JID_フロラージュ下級;" Weapon="IID_ファイアー;" Enemy="PID_M008_異形兵_ソードアーマー;" EnemyJob="JID_ソードアーマー;" EnemyWeapon="IID_鉄の剣;" X="4" Z="6" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="Fld_M004" />
+			<Param Out="" Group="" DLC="false" Person="PID_スタルーク;" Job="JID_ティラユール下級;" Weapon="IID_鋼の弓;" Enemy="PID_M012_異形兵_ランスペガサス;" EnemyJob="JID_ランスペガサス;" EnemyWeapon="IID_鉄の槍;" X="0" Z="0" Distance="8" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ラピス;PID_遭遇戦_フィレネ兵_男;" Job="JID_ソードファイター;" Weapon="IID_鉄の大剣;IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="4" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_ランスファイター;" Weapon="IID_鉄の槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ブシュロン;PID_アンナ;PID_遭遇戦_フィレネ兵_男;" Job="JID_アクスファイター;" Weapon="IID_鉄の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_エーティエ;PID_遭遇戦_フィレネ兵_女;" Job="JID_アーチャー;" Weapon="IID_鉄の弓;IID_鋼の弓;" Enemy="PID_M004_異形兵_ソードペガサス;" EnemyJob="JID_ソードペガサス;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="8" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="グループC" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_男;" Job="JID_ソードアーマー;" Weapon="IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="9" Z="5" Distance="5" Attack="1" Counter="8" Pursuit="2" Field="Fld_M008" />
+			<Param Out="" Group="" DLC="false" Person="PID_ルイ;PID_遭遇戦_フィレネ兵_女;" Job="JID_ランスアーマー;" Weapon="IID_鉄の槍;IID_鋼の槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ジェーデ;PID_遭遇戦_フィレネ兵_男;" Job="JID_アクスアーマー;" Weapon="IID_鋼の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_ソードナイト;" Weapon="IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_アンバー;PID_遭遇戦_フィレネ兵_男;" Job="JID_ランスナイト;" Weapon="IID_キラーランス;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_アクスナイト;" Weapon="IID_鉄の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="グループD" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_クラン;PID_シトリニカ;PID_遭遇戦_フィレネ兵_男;" Job="JID_マージ;" Weapon="IID_ファイアー;IID_サンダー;IID_サンダー;" Enemy="PID_M004_異形兵_ランスアーマー;" EnemyJob="JID_ランスアーマー;" EnemyWeapon="IID_鉄の槍;" X="3" Z="9" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="Fld_M007" />
+			<Param Out="" Group="" DLC="false" Person="PID_フラン;PID_ジャン;PID_遭遇戦_フィレネ兵_女;" Job="JID_モンク;" Weapon="IID_初心の法;IID_ライブ;IID_初心の法;" Enemy="PID_M011_異形兵_ソードファイター;PID_リュール;PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;JID_神竜ノ子;JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;IID_リベラシオン;IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_ソードペガサス;" Weapon="IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_クロエ;PID_遭遇戦_フィレネ兵_女;" Job="JID_ランスペガサス;" Weapon="IID_ほそみの槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_アクスペガサス;" Weapon="IID_鉄の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ユナカ;PID_遭遇戦_フィレネ兵_男;" Job="JID_シーフ;" Weapon="IID_鉄のナイフ;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="グループE" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_ソードマスター;" Weapon="IID_キルソード;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="9" Z="27" Distance="5" Attack="2" Counter="7" Pursuit="5" Field="Fld_M010" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_男;" Job="JID_ブレイブヒーロー;" Weapon="IID_銀の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="4" Counter="8" Pursuit="3" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_ハルバーディア;" Weapon="IID_手槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="5" Counter="7" Pursuit="3" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_男;" Job="JID_ロイヤルナイト;" Weapon="IID_スレンドスピア;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="5" Counter="6" Pursuit="4" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_ベルセルク;" Weapon="IID_鋼の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="4" Counter="7" Pursuit="3" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_男;" Job="JID_ウォーリアー;" Weapon="IID_銀の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="5" Counter="6" Pursuit="3" Field="" />
+			<Param Out="" Group="グループF" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_スナイパー;" Weapon="IID_銀の弓;" Enemy="PID_M022_異形兵_グリフォンナイト;" EnemyJob="JID_グリフォンナイト;" EnemyWeapon="IID_鉄の槍;" X="13" Z="18" Distance="9" Attack="5" Counter="7" Pursuit="4" Field="Fld_M005" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_男;" Job="JID_ボウナイト;" Weapon="IID_銀の弓;" Enemy="PID_M021_異形兵_ドラゴンナイト;" EnemyJob="JID_ドラゴンナイト;" EnemyWeapon="IID_鉄の斧;" X="0" Z="0" Distance="9" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_ジェネラル;" Weapon="IID_鉄の大斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="5" Counter="8" Pursuit="4" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_男;" Job="JID_グレートナイト;" Weapon="IID_銀の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ヴァンドレ;PID_遭遇戦_フィレネ兵_女;" Job="JID_パラディン;" Weapon="IID_鉄の斧;IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="7" Attack="5" Counter="7" Pursuit="4" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_男;" Job="JID_ウルフナイト;" Weapon="IID_スティレット;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="グループG" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_セイジ;" Weapon="IID_エルファイアー;" Enemy="PID_M004_異形兵_アクスアーマー;" EnemyJob="JID_アクスアーマー;" EnemyWeapon="IID_鉄の斧;" X="10" Z="3" Distance="6" Attack="5" Counter="7" Pursuit="4" Field="Fld_M020" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_男;" Job="JID_マージナイト;" Weapon="IID_エルサンダー;" Enemy="PID_M004_異形兵_ランスアーマー;" EnemyJob="JID_ランスアーマー;" EnemyWeapon="IID_鉄の槍;" X="0" Z="0" Distance="6" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_マスターモンク;" Weapon="IID_銀身の法;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="3" Counter="7" Pursuit="5" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_男;" Job="JID_ハイプリースト;" Weapon="IID_リライブ;" Enemy="PID_リュール;" EnemyJob="JID_神竜ノ子;" EnemyWeapon="IID_リベラシオン;" X="0" Z="0" Distance="4" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_グリフォンナイト;" Weapon="IID_銀の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="7" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_男;" Job="JID_ドラゴンナイト;" Weapon="IID_スレンドスピア;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_M004_蛮族;" Job="JID_蛮族;" Weapon="IID_鉄の斧;" Enemy="PID_遭遇戦_フィレネ兵_男;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="グループH" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="グループI" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+		</Data>
+	</Sheet>
+	<Sheet Name="兵種紹介M009" Count="60">
+		<Header>
+			<Param Name="出力先" Ident="Out" Type="PublicFile" Min="" Max="" Chg="" />
+			<Param Name="グループ" Ident="Group" Type="PublicArray" Min="" Max="" Chg="" />
+			<Param Name="DLC" Ident="DLC" Type="bool" Min="" Max="" Chg="" />
+			<Param Name="個人" Ident="Person" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="兵種" Ident="Job" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="装備" Ident="Weapon" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="敵" Ident="Enemy" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="敵兵種" Ident="EnemyJob" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="敵装備" Ident="EnemyWeapon" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="X" Ident="X" Type="int" Min="" Max="" Chg="" />
+			<Param Name="Z" Ident="Z" Type="int" Min="" Max="" Chg="" />
+			<Param Name="敵との距離" Ident="Distance" Type="float" Min="" Max="" Chg="" />
+			<Param Name="攻撃" Ident="Attack" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="反撃" Ident="Counter" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="追撃" Ident="Pursuit" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="背景" Ident="Field" Type="string" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Out="" Group="グループA" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_リュール;" Job="JID_神竜ノ子;" Weapon="IID_リベラシオン;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="4" Z="4" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="Fld_M001" />
+			<Param Out="" Group="" DLC="false" Person="PID_アルフレッド;" Job="JID_アヴニール下級;" Weapon="IID_鉄の槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ディアマンド;" Job="JID_スュクセサール下級;" Weapon="IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_アイビー;" Job="JID_リンドブルム下級;" Weapon="IID_エルファイアー;" Enemy="PID_M008_異形兵_ソードアーマー;" EnemyJob="JID_ソードアーマー;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ミスティラ;" Job="JID_ピッチフォーク下級;" Weapon="IID_手槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_S014_マルス;PID_S009_シグルド;PID_S013_セリカ;PID_S011_ミカヤ;PID_S012_ロイ;" Job="JID_紋章士_マルス;JID_紋章士_シグルド;JID_紋章士_セリカ;JID_紋章士_ミカヤ;JID_紋章士_ロイ;" Weapon="IID_マルス_ファルシオン_通常;IID_シグルド_ティルフィング_通常;IID_セリカ_ライナロック_通常;IID_ミカヤ_セイニー_通常;IID_ロイ_封印の剣_通常;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="グループB" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_セリーヌ;" Job="JID_フロラージュ下級;" Weapon="IID_ファイアー;" Enemy="PID_M008_異形兵_ソードアーマー;" EnemyJob="JID_ソードアーマー;" EnemyWeapon="IID_鉄の剣;" X="4" Z="6" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="Fld_M004" />
+			<Param Out="" Group="" DLC="false" Person="PID_スタルーク;" Job="JID_ティラユール下級;" Weapon="IID_鋼の弓;" Enemy="PID_M012_異形兵_ランスペガサス;" EnemyJob="JID_ランスペガサス;" EnemyWeapon="IID_鉄の槍;" X="0" Z="0" Distance="8" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_オルテンシア;" Job="JID_スレイプニル下級;" Weapon="IID_エルファイアー;" Enemy="PID_M004_異形兵_アクスアーマー;" EnemyJob="JID_アクスアーマー;" EnemyWeapon="IID_鉄の斧;" X="0" Z="0" Distance="7" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ラピス;PID_遭遇戦_フィレネ兵_男;" Job="JID_ソードファイター;" Weapon="IID_鉄の大剣;IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="4" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_ランスファイター;" Weapon="IID_鉄の槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ブシュロン;PID_アンナ;PID_遭遇戦_フィレネ兵_男;" Job="JID_アクスファイター;" Weapon="IID_鉄の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="グループC" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_エーティエ;PID_遭遇戦_フィレネ兵_女;" Job="JID_アーチャー;" Weapon="IID_鉄の弓;IID_鋼の弓;" Enemy="PID_M004_異形兵_ソードペガサス;" EnemyJob="JID_ソードペガサス;" EnemyWeapon="IID_鉄の剣;" X="9" Z="5" Distance="8" Attack="1" Counter="6" Pursuit="2" Field="Fld_M008" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_男;" Job="JID_ソードアーマー;" Weapon="IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ルイ;PID_遭遇戦_フィレネ兵_女;" Job="JID_ランスアーマー;" Weapon="IID_鉄の槍;IID_鋼の槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ジェーデ;PID_遭遇戦_フィレネ兵_男;" Job="JID_アクスアーマー;" Weapon="IID_鋼の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_ソードナイト;" Weapon="IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_アンバー;PID_遭遇戦_フィレネ兵_男;" Job="JID_ランスナイト;" Weapon="IID_キラーランス;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_アクスナイト;" Weapon="IID_鉄の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="グループD" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_クラン;PID_シトリニカ;PID_遭遇戦_フィレネ兵_男;" Job="JID_マージ;" Weapon="IID_ファイアー;IID_サンダー;IID_サンダー;" Enemy="PID_M004_異形兵_ランスアーマー;" EnemyJob="JID_ランスアーマー;" EnemyWeapon="IID_鉄の槍;" X="3" Z="9" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="Fld_M007" />
+			<Param Out="" Group="" DLC="false" Person="PID_フラン;PID_ジャン;PID_遭遇戦_フィレネ兵_女;" Job="JID_モンク;" Weapon="IID_初心の法;IID_ライブ;IID_初心の法;" Enemy="PID_M011_異形兵_ソードファイター;PID_リュール;PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;JID_神竜ノ子;JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;IID_リベラシオン;IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_ソードペガサス;" Weapon="IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_クロエ;PID_遭遇戦_フィレネ兵_女;" Job="JID_ランスペガサス;" Weapon="IID_ほそみの槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_アクスペガサス;" Weapon="IID_鉄の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ユナカ;PID_ゼルコバ;PID_遭遇戦_フィレネ兵_男;" Job="JID_シーフ;" Weapon="IID_鉄のナイフ;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="グループE" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_リュール;" Job="JID_神竜ノ王;" Weapon="IID_覇神の法;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="9" Z="27" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="Fld_M010" />
+			<Param Out="" Group="" DLC="false" Person="PID_アルフレッド;" Job="JID_アヴニール;" Weapon="IID_銀の槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="7" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ディアマンド;" Job="JID_スュクセサール;" Weapon="IID_銀の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_アイビー;" Job="JID_リンドブルム;" Weapon="IID_エルファイアー;" Enemy="PID_M008_異形兵_ソードアーマー;" EnemyJob="JID_ソードアーマー;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="7" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_カゲツ;PID_遭遇戦_フィレネ兵_女;" Job="JID_ソードマスター;" Weapon="IID_倭刀;IID_キルソード;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="2" Counter="6" Pursuit="5" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ラピス;PID_ゴルドマリー;PID_遭遇戦_フィレネ兵_男;" Job="JID_ブレイブヒーロー;" Weapon="IID_銀の大剣;IID_鋼の剣;IID_銀の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="4" Counter="7" Pursuit="3" Field="" />
+			<Param Out="" Group="グループF" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_セリーヌ;" Job="JID_フロラージュ;" Weapon="IID_サンダー;" Enemy="PID_M021_異形兵_ジェネラル;" EnemyJob="JID_ジェネラル;" EnemyWeapon="IID_鉄の大剣;" X="13" Z="18" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="Fld_M005" />
+			<Param Out="" Group="" DLC="false" Person="PID_スタルーク;" Job="JID_ティラユール;" Weapon="IID_銀の弓;" Enemy="PID_M021_異形兵_ドラゴンナイト;" EnemyJob="JID_ドラゴンナイト;" EnemyWeapon="IID_鉄の槍;" X="0" Z="0" Distance="9" Attack="1" Counter="7" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_ハルバーディア;" Weapon="IID_手槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="5" Counter="6" Pursuit="3" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_男;" Job="JID_ロイヤルナイト;" Weapon="IID_スレンドスピア;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="5" Counter="6" Pursuit="4" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ブシュロン;PID_遭遇戦_フィレネ兵_女;" Job="JID_ベルセルク;" Weapon="IID_鋼の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="4" Counter="8" Pursuit="3" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_アンナ;PID_遭遇戦_フィレネ兵_男;" Job="JID_ウォーリアー;" Weapon="IID_鉄の大斧;IID_勇者の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="5" Counter="7" Pursuit="3" Field="" />
+			<Param Out="" Group="グループG" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_エーティエ;PID_遭遇戦_フィレネ兵_女;" Job="JID_スナイパー;" Weapon="IID_長弓;" Enemy="PID_M022_異形兵_グリフォンナイト;" EnemyJob="JID_グリフォンナイト;" EnemyWeapon="IID_鉄の槍;" X="10" Z="3" Distance="9" Attack="5" Counter="6" Pursuit="4" Field="Fld_M020" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_男;" Job="JID_ボウナイト;" Weapon="IID_銀の弓;" Enemy="PID_M021_異形兵_ドラゴンナイト;" EnemyJob="JID_ドラゴンナイト;" EnemyWeapon="IID_鉄の斧;" X="0" Z="0" Distance="9" Attack="1" Counter="7" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ルイ;PID_遭遇戦_フィレネ兵_女;" Job="JID_ジェネラル;" Weapon="IID_鉄の大槍;IID_鉄の大斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="5" Counter="7" Pursuit="4" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_男;" Job="JID_グレートナイト;" Weapon="IID_銀の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ヴァンドレ;PID_アンバー;PID_遭遇戦_フィレネ兵_女;" Job="JID_パラディン;" Weapon="IID_鉄の斧;IID_鋼の大槍;IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="7" Attack="5" Counter="8" Pursuit="4" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_男;" Job="JID_ウルフナイト;" Weapon="IID_スティレット;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="7" Pursuit="2" Field="" />
+			<Param Out="" Group="グループH" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_シトリニカ;PID_遭遇戦_フィレネ兵_女;" Job="JID_セイジ;" Weapon="IID_エルファイアー;" Enemy="PID_M004_異形兵_アクスアーマー;" EnemyJob="JID_アクスアーマー;" EnemyWeapon="IID_鉄の斧;" X="15" Z="5" Distance="6" Attack="5" Counter="8" Pursuit="4" Field="Fld_M014" />
+			<Param Out="" Group="" DLC="false" Person="PID_クラン;PID_遭遇戦_フィレネ兵_男;" Job="JID_マージナイト;" Weapon="IID_エルサンダー;" Enemy="PID_M004_異形兵_ランスアーマー;" EnemyJob="JID_ランスアーマー;" EnemyWeapon="IID_鉄の槍;" X="0" Z="0" Distance="6" Attack="1" Counter="7" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_フラン;PID_遭遇戦_フィレネ兵_女;" Job="JID_マスターモンク;" Weapon="IID_護身の法;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="3" Counter="6" Pursuit="5" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ジャン;PID_遭遇戦_フィレネ兵_男;" Job="JID_ハイプリースト;" Weapon="IID_リライブ;" Enemy="PID_リュール;" EnemyJob="JID_神竜ノ子;" EnemyWeapon="IID_リベラシオン;" X="0" Z="0" Distance="4" Attack="1" Counter="7" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_クロエ;PID_遭遇戦_フィレネ兵_女;" Job="JID_グリフォンナイト;" Weapon="IID_ナイトキラー;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="7" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ロサード;PID_遭遇戦_フィレネ兵_男;" Job="JID_ドラゴンナイト;" Weapon="IID_鋼の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_M004_蛮族;" Job="JID_蛮族;" Weapon="IID_鉄の斧;" Enemy="PID_遭遇戦_フィレネ兵_男;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="グループI" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="グループJ" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+		</Data>
+	</Sheet>
+	<Sheet Name="兵種紹介M013" Count="68">
+		<Header>
+			<Param Name="出力先" Ident="Out" Type="PublicFile" Min="" Max="" Chg="" />
+			<Param Name="グループ" Ident="Group" Type="PublicArray" Min="" Max="" Chg="" />
+			<Param Name="DLC" Ident="DLC" Type="bool" Min="" Max="" Chg="" />
+			<Param Name="個人" Ident="Person" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="兵種" Ident="Job" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="装備" Ident="Weapon" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="敵" Ident="Enemy" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="敵兵種" Ident="EnemyJob" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="敵装備" Ident="EnemyWeapon" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="X" Ident="X" Type="int" Min="" Max="" Chg="" />
+			<Param Name="Z" Ident="Z" Type="int" Min="" Max="" Chg="" />
+			<Param Name="敵との距離" Ident="Distance" Type="float" Min="" Max="" Chg="" />
+			<Param Name="攻撃" Ident="Attack" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="反撃" Ident="Counter" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="追撃" Ident="Pursuit" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="背景" Ident="Field" Type="string" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Out="" Group="グループA" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_リュール;" Job="JID_神竜ノ子;" Weapon="IID_リベラシオン;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="4" Z="4" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="Fld_M001" />
+			<Param Out="" Group="" DLC="false" Person="PID_アルフレッド;" Job="JID_アヴニール下級;" Weapon="IID_鉄の槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ディアマンド;" Job="JID_スュクセサール下級;" Weapon="IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_アイビー;" Job="JID_リンドブルム下級;" Weapon="IID_エルファイアー;" Enemy="PID_M008_異形兵_ソードアーマー;" EnemyJob="JID_ソードアーマー;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ミスティラ;" Job="JID_ピッチフォーク下級;" Weapon="IID_手槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_M011_ヴェイル;" Job="JID_邪竜ノ娘;" Weapon="IID_オヴスキュリテ;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="グループB" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_セリーヌ;" Job="JID_フロラージュ下級;" Weapon="IID_ファイアー;" Enemy="PID_M008_異形兵_ソードアーマー;" EnemyJob="JID_ソードアーマー;" EnemyWeapon="IID_鉄の剣;" X="4" Z="6" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="Fld_M004" />
+			<Param Out="" Group="" DLC="false" Person="PID_スタルーク;" Job="JID_ティラユール下級;" Weapon="IID_鋼の弓;" Enemy="PID_M012_異形兵_ランスペガサス;" EnemyJob="JID_ランスペガサス;" EnemyWeapon="IID_鉄の槍;" X="0" Z="0" Distance="8" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_オルテンシア;" Job="JID_スレイプニル下級;" Weapon="IID_エルファイアー;" Enemy="PID_M004_異形兵_アクスアーマー;" EnemyJob="JID_アクスアーマー;" EnemyWeapon="IID_鉄の斧;" X="0" Z="0" Distance="7" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_フォガート;" Job="JID_クピードー下級;" Weapon="IID_銀の弓;" Enemy="PID_M004_異形兵_ソードペガサス;" EnemyJob="JID_ソードペガサス;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="8" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ラピス;PID_遭遇戦_フィレネ兵_男;" Job="JID_ソードファイター;" Weapon="IID_鉄の大剣;IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_ランスファイター;" Weapon="IID_鉄の槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="4" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ブシュロン;PID_アンナ;PID_遭遇戦_フィレネ兵_男;" Job="JID_アクスファイター;" Weapon="IID_鉄の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="4" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="グループC" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_エーティエ;PID_遭遇戦_フィレネ兵_女;" Job="JID_アーチャー;" Weapon="IID_鉄の弓;IID_鋼の弓;" Enemy="PID_M004_異形兵_ソードペガサス;" EnemyJob="JID_ソードペガサス;" EnemyWeapon="IID_鉄の剣;" X="9" Z="5" Distance="8" Attack="1" Counter="6" Pursuit="2" Field="Fld_M008" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_男;" Job="JID_ソードアーマー;" Weapon="IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ルイ;PID_遭遇戦_フィレネ兵_女;" Job="JID_ランスアーマー;" Weapon="IID_鉄の槍;IID_鋼の槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ジェーデ;PID_遭遇戦_フィレネ兵_男;" Job="JID_アクスアーマー;" Weapon="IID_鋼の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_ソードナイト;" Weapon="IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_アンバー;PID_遭遇戦_フィレネ兵_男;" Job="JID_ランスナイト;" Weapon="IID_キラーランス;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_アクスナイト;" Weapon="IID_鉄の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="グループD" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_クラン;PID_シトリニカ;PID_遭遇戦_フィレネ兵_男;" Job="JID_マージ;" Weapon="IID_ファイアー;IID_サンダー;IID_サンダー;" Enemy="PID_M004_異形兵_ランスアーマー;" EnemyJob="JID_ランスアーマー;" EnemyWeapon="IID_鉄の槍;" X="3" Z="9" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="Fld_M007" />
+			<Param Out="" Group="" DLC="false" Person="PID_フラン;PID_ジャン;PID_遭遇戦_フィレネ兵_女;" Job="JID_モンク;" Weapon="IID_初心の法;IID_ライブ;IID_初心の法;" Enemy="PID_M011_異形兵_ソードファイター;PID_リュール;PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;JID_神竜ノ子;JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;IID_リベラシオン;IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_ソードペガサス;" Weapon="IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_クロエ;PID_遭遇戦_フィレネ兵_女;" Job="JID_ランスペガサス;" Weapon="IID_ほそみの槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_アクスペガサス;" Weapon="IID_鉄の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ユナカ;PID_ゼルコバ;PID_遭遇戦_フィレネ兵_男;" Job="JID_シーフ;" Weapon="IID_鉄のナイフ;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="グループE" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_リュール;" Job="JID_神竜ノ王;" Weapon="IID_覇神の法;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="9" Z="27" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="Fld_M010" />
+			<Param Out="" Group="" DLC="false" Person="PID_アルフレッド;" Job="JID_アヴニール;" Weapon="IID_銀の槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ディアマンド;" Job="JID_スュクセサール;" Weapon="IID_銀の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="7" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_アイビー;" Job="JID_リンドブルム;" Weapon="IID_エルファイアー;" Enemy="PID_M008_異形兵_ソードアーマー;" EnemyJob="JID_ソードアーマー;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ミスティラ;" Job="JID_ピッチフォーク;" Weapon="IID_銀の槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_カゲツ;PID_遭遇戦_フィレネ兵_女;" Job="JID_ソードマスター;" Weapon="IID_倭刀;IID_キルソード;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="2" Counter="6" Pursuit="5" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ラピス;PID_ゴルドマリー;PID_遭遇戦_フィレネ兵_男;" Job="JID_ブレイブヒーロー;" Weapon="IID_銀の大剣;IID_鋼の剣;IID_銀の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="4" Counter="8" Pursuit="3" Field="" />
+			<Param Out="" Group="グループF" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_セリーヌ;" Job="JID_フロラージュ;" Weapon="IID_エルサンダー;" Enemy="PID_M021_異形兵_ジェネラル;" EnemyJob="JID_ジェネラル;" EnemyWeapon="IID_鉄の大剣;" X="13" Z="18" Distance="5" Attack="1" Counter="8" Pursuit="2" Field="Fld_M005" />
+			<Param Out="" Group="" DLC="false" Person="PID_スタルーク;" Job="JID_ティラユール;" Weapon="IID_銀の弓;" Enemy="PID_M021_異形兵_ドラゴンナイト;" EnemyJob="JID_ドラゴンナイト;" EnemyWeapon="IID_鉄の槍;" X="0" Z="0" Distance="9" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_オルテンシア;" Job="JID_スレイプニル;" Weapon="IID_エルウィンド;" Enemy="PID_M021_異形兵_ジェネラル;" EnemyJob="JID_ジェネラル;" EnemyWeapon="IID_鉄の大斧;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_フォガート;" Job="JID_クピードー;" Weapon="IID_キラーボウ;" Enemy="PID_M022_異形兵_グリフォンナイト;" EnemyJob="JID_グリフォンナイト;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="8" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_ハルバーディア;" Weapon="IID_手槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="5" Counter="6" Pursuit="3" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_M011_モーヴ;PID_遭遇戦_フィレネ兵_男;" Job="JID_ロイヤルナイト;" Weapon="IID_ほのおの槍;IID_スレンドスピア;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="5" Counter="6" Pursuit="4" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ブシュロン;PID_パネトネ;PID_遭遇戦_フィレネ兵_女;" Job="JID_ベルセルク;" Weapon="IID_鋼の斧;IID_銀の斧;IID_鋼の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="4" Counter="6" Pursuit="3" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_アンナ;PID_遭遇戦_フィレネ兵_男;" Job="JID_ウォーリアー;" Weapon="IID_鉄の大斧;IID_勇者の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="5" Counter="8" Pursuit="3" Field="" />
+			<Param Out="" Group="グループG" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_エーティエ;PID_遭遇戦_フィレネ兵_女;" Job="JID_スナイパー;" Weapon="IID_長弓;" Enemy="PID_M022_異形兵_グリフォンナイト;" EnemyJob="JID_グリフォンナイト;" EnemyWeapon="IID_鉄の槍;" X="10" Z="3" Distance="9" Attack="5" Counter="6" Pursuit="4" Field="Fld_M020" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_男;" Job="JID_ボウナイト;" Weapon="IID_銀の弓;" Enemy="PID_M021_異形兵_ドラゴンナイト;" EnemyJob="JID_ドラゴンナイト;" EnemyWeapon="IID_鉄の斧;" X="0" Z="0" Distance="9" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ルイ;PID_M011_マロン;PID_遭遇戦_フィレネ兵_女;" Job="JID_ジェネラル;" Weapon="IID_鉄の大槍;IID_かぜの大斧;IID_鉄の大斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="5" Counter="6" Pursuit="4" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ボネ;PID_遭遇戦_フィレネ兵_男;" Job="JID_グレートナイト;" Weapon="IID_銀の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="7" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ヴァンドレ;PID_アンバー;PID_遭遇戦_フィレネ兵_女;" Job="JID_パラディン;" Weapon="IID_鉄の斧;IID_鋼の大槍;IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="7" Attack="5" Counter="6" Pursuit="4" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_メリン;PID_遭遇戦_フィレネ兵_男;" Job="JID_ウルフナイト;" Weapon="IID_銀のナイフ;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="グループH" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_シトリニカ;PID_M011_グリ;PID_遭遇戦_フィレネ兵_女;" Job="JID_セイジ;" Weapon="IID_エルファイアー;IID_エルウィンド;IID_エルファイアー;" Enemy="PID_M004_異形兵_アクスアーマー;" EnemyJob="JID_アクスアーマー;" EnemyWeapon="IID_鉄の斧;" X="15" Z="5" Distance="6" Attack="5" Counter="6" Pursuit="4" Field="Fld_M014" />
+			<Param Out="" Group="" DLC="false" Person="PID_クラン;PID_遭遇戦_フィレネ兵_男;" Job="JID_マージナイト;" Weapon="IID_エルサンダー;" Enemy="PID_M004_異形兵_ランスアーマー;" EnemyJob="JID_ランスアーマー;" EnemyWeapon="IID_鉄の槍;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_フラン;PID_遭遇戦_フィレネ兵_女;" Job="JID_マスターモンク;" Weapon="IID_護身の法;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="3" Counter="8" Pursuit="5" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_パンドロ;PID_ジャン;PID_遭遇戦_フィレネ兵_男;" Job="JID_ハイプリースト;" Weapon="IID_リライブ;" Enemy="PID_リュール;" EnemyJob="JID_神竜ノ子;" EnemyWeapon="IID_リベラシオン;" X="0" Z="0" Distance="4" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_クロエ;PID_遭遇戦_フィレネ兵_女;" Job="JID_グリフォンナイト;" Weapon="IID_ナイトキラー;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ロサード;PID_遭遇戦_フィレネ兵_男;" Job="JID_ドラゴンナイト;" Weapon="IID_鋼の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="グループI" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_S014_マルス;PID_S009_シグルド;PID_S013_セリカ;PID_S011_ミカヤ;PID_S012_ロイ;PID_S010_リーフ;PID_S003_ルキナ;PID_S004_リン;PID_S005_アイク;" Job="JID_紋章士_マルス;JID_紋章士_シグルド;JID_紋章士_セリカ;JID_紋章士_ミカヤ;JID_紋章士_ロイ;JID_紋章士_リーフ;JID_紋章士_ルキナ;JID_紋章士_リン;JID_紋章士_アイク;" Weapon="IID_マルス_ファルシオン_通常;IID_シグルド_ティルフィング_通常;IID_セリカ_ライナロック_通常;IID_ミカヤ_セイニー_通常;IID_ロイ_封印の剣_通常;IID_リーフ_ひかりの剣_通常;IID_ルキナ_裏剣ファルシオン_通常;IID_リン_マーニ・カティ_通常;IID_アイク_ラグネル_通常;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="11" Z="4" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="Fld_M015" />
+			<Param Out="" Group="" DLC="false" Person="PID_M004_蛮族;" Job="JID_蛮族;" Weapon="IID_鉄の斧;" Enemy="PID_遭遇戦_フィレネ兵_男;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_M016_イルシオン兵_異形竜;" Job="JID_異形竜;" Weapon="IID_火のブレス;" Enemy="PID_遭遇戦_フィレネ兵_女;" EnemyJob="JID_アクスファイター;" EnemyWeapon="IID_鉄の斧;" X="0" Z="0" Distance="8" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_M011_セピア;" Job="JID_メリュジーヌ;" Weapon="IID_いかづちの剣;" Enemy="PID_遭遇戦_フィレネ兵_男;" EnemyJob="JID_ランスアーマー;" EnemyWeapon="IID_鉄の槍;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="グループJ" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="グループK" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+		</Data>
+	</Sheet>
+	<Sheet Name="兵種紹介M015" Count="70">
+		<Header>
+			<Param Name="出力先" Ident="Out" Type="PublicFile" Min="" Max="" Chg="" />
+			<Param Name="グループ" Ident="Group" Type="PublicArray" Min="" Max="" Chg="" />
+			<Param Name="DLC" Ident="DLC" Type="bool" Min="" Max="" Chg="" />
+			<Param Name="個人" Ident="Person" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="兵種" Ident="Job" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="装備" Ident="Weapon" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="敵" Ident="Enemy" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="敵兵種" Ident="EnemyJob" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="敵装備" Ident="EnemyWeapon" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="X" Ident="X" Type="int" Min="" Max="" Chg="" />
+			<Param Name="Z" Ident="Z" Type="int" Min="" Max="" Chg="" />
+			<Param Name="敵との距離" Ident="Distance" Type="float" Min="" Max="" Chg="" />
+			<Param Name="攻撃" Ident="Attack" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="反撃" Ident="Counter" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="追撃" Ident="Pursuit" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="背景" Ident="Field" Type="string" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Out="" Group="グループA" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_リュール;" Job="JID_神竜ノ子;" Weapon="IID_リベラシオン;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="4" Z="4" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="Fld_M001" />
+			<Param Out="" Group="" DLC="false" Person="PID_アルフレッド;" Job="JID_アヴニール下級;" Weapon="IID_鉄の槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ディアマンド;" Job="JID_スュクセサール下級;" Weapon="IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_アイビー;" Job="JID_リンドブルム下級;" Weapon="IID_エルファイアー;" Enemy="PID_M008_異形兵_ソードアーマー;" EnemyJob="JID_ソードアーマー;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ミスティラ;" Job="JID_ピッチフォーク下級;" Weapon="IID_手槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_M011_ヴェイル;" Job="JID_邪竜ノ娘;" Weapon="IID_オヴスキュリテ;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="グループB" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_セリーヌ;" Job="JID_フロラージュ下級;" Weapon="IID_ファイアー;" Enemy="PID_M008_異形兵_ソードアーマー;" EnemyJob="JID_ソードアーマー;" EnemyWeapon="IID_鉄の剣;" X="4" Z="6" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="Fld_M004" />
+			<Param Out="" Group="" DLC="false" Person="PID_スタルーク;" Job="JID_ティラユール下級;" Weapon="IID_鋼の弓;" Enemy="PID_M012_異形兵_ランスペガサス;" EnemyJob="JID_ランスペガサス;" EnemyWeapon="IID_鉄の槍;" X="0" Z="0" Distance="8" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_オルテンシア;" Job="JID_スレイプニル下級;" Weapon="IID_エルファイアー;" Enemy="PID_M004_異形兵_アクスアーマー;" EnemyJob="JID_アクスアーマー;" EnemyWeapon="IID_鉄の斧;" X="0" Z="0" Distance="7" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_フォガート;" Job="JID_クピードー下級;" Weapon="IID_銀の弓;" Enemy="PID_M004_異形兵_ソードペガサス;" EnemyJob="JID_ソードペガサス;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="8" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ラピス;PID_遭遇戦_フィレネ兵_男;" Job="JID_ソードファイター;" Weapon="IID_鉄の大剣;IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_ランスファイター;" Weapon="IID_鉄の槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="4" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ブシュロン;PID_アンナ;PID_遭遇戦_フィレネ兵_男;" Job="JID_アクスファイター;" Weapon="IID_鉄の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="4" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="グループC" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_エーティエ;PID_遭遇戦_フィレネ兵_女;" Job="JID_アーチャー;" Weapon="IID_鉄の弓;IID_鋼の弓;" Enemy="PID_M004_異形兵_ソードペガサス;" EnemyJob="JID_ソードペガサス;" EnemyWeapon="IID_鉄の剣;" X="9" Z="5" Distance="8" Attack="1" Counter="6" Pursuit="2" Field="Fld_M008" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_男;" Job="JID_ソードアーマー;" Weapon="IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ルイ;PID_遭遇戦_フィレネ兵_女;" Job="JID_ランスアーマー;" Weapon="IID_鉄の槍;IID_鋼の槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ジェーデ;PID_遭遇戦_フィレネ兵_男;" Job="JID_アクスアーマー;" Weapon="IID_鋼の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_ソードナイト;" Weapon="IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_アンバー;PID_遭遇戦_フィレネ兵_男;" Job="JID_ランスナイト;" Weapon="IID_キラーランス;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_アクスナイト;" Weapon="IID_鉄の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="グループD" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_クラン;PID_シトリニカ;PID_遭遇戦_フィレネ兵_男;" Job="JID_マージ;" Weapon="IID_ファイアー;IID_サンダー;IID_サンダー;" Enemy="PID_M004_異形兵_ランスアーマー;" EnemyJob="JID_ランスアーマー;" EnemyWeapon="IID_鉄の槍;" X="3" Z="9" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="Fld_M007" />
+			<Param Out="" Group="" DLC="false" Person="PID_フラン;PID_ジャン;PID_遭遇戦_フィレネ兵_女;" Job="JID_モンク;" Weapon="IID_初心の法;IID_ライブ;IID_初心の法;" Enemy="PID_M011_異形兵_ソードファイター;PID_リュール;PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;JID_神竜ノ子;JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;IID_リベラシオン;IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_ソードペガサス;" Weapon="IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_クロエ;PID_遭遇戦_フィレネ兵_女;" Job="JID_ランスペガサス;" Weapon="IID_ほそみの槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_アクスペガサス;" Weapon="IID_鉄の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ユナカ;PID_ゼルコバ;PID_遭遇戦_フィレネ兵_男;" Job="JID_シーフ;" Weapon="IID_鉄のナイフ;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_セアダス;" Job="JID_ダンサー;" Weapon="IID_鋼身の法;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="7" Pursuit="2" Field="" />
+			<Param Out="" Group="グループE" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_リュール;" Job="JID_神竜ノ王;" Weapon="IID_覇神の法;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="9" Z="27" Distance="5" Attack="1" Counter="7" Pursuit="2" Field="Fld_M010" />
+			<Param Out="" Group="" DLC="false" Person="PID_アルフレッド;" Job="JID_アヴニール;" Weapon="IID_銀の槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ディアマンド;" Job="JID_スュクセサール;" Weapon="IID_銀の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="7" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_アイビー;" Job="JID_リンドブルム;" Weapon="IID_エルファイアー;" Enemy="PID_M008_異形兵_ソードアーマー;" EnemyJob="JID_ソードアーマー;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ミスティラ;" Job="JID_ピッチフォーク;" Weapon="IID_銀の槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="7" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_カゲツ;PID_遭遇戦_フィレネ兵_女;" Job="JID_ソードマスター;" Weapon="IID_倭刀;IID_キルソード;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="2" Counter="6" Pursuit="5" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ラピス;PID_ゴルドマリー;PID_遭遇戦_フィレネ兵_男;" Job="JID_ブレイブヒーロー;" Weapon="IID_銀の大剣;IID_鋼の剣;IID_銀の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="4" Counter="8" Pursuit="3" Field="" />
+			<Param Out="" Group="グループF" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_セリーヌ;" Job="JID_フロラージュ;" Weapon="IID_エルサンダー;" Enemy="PID_M021_異形兵_ジェネラル;" EnemyJob="JID_ジェネラル;" EnemyWeapon="IID_鉄の大剣;" X="13" Z="18" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="Fld_M005" />
+			<Param Out="" Group="" DLC="false" Person="PID_スタルーク;" Job="JID_ティラユール;" Weapon="IID_銀の弓;" Enemy="PID_M021_異形兵_ドラゴンナイト;" EnemyJob="JID_ドラゴンナイト;" EnemyWeapon="IID_鉄の槍;" X="0" Z="0" Distance="9" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_オルテンシア;" Job="JID_スレイプニル;" Weapon="IID_エルウィンド;" Enemy="PID_M021_異形兵_ジェネラル;" EnemyJob="JID_ジェネラル;" EnemyWeapon="IID_鉄の大斧;" X="0" Z="0" Distance="5" Attack="1" Counter="7" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_フォガート;" Job="JID_クピードー;" Weapon="IID_キラーボウ;" Enemy="PID_M022_異形兵_グリフォンナイト;" EnemyJob="JID_グリフォンナイト;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="8" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_ハルバーディア;" Weapon="IID_手槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="5" Counter="6" Pursuit="3" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_M011_モーヴ;PID_遭遇戦_フィレネ兵_男;" Job="JID_ロイヤルナイト;" Weapon="IID_ほのおの槍;IID_スレンドスピア;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="5" Counter="6" Pursuit="4" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ブシュロン;PID_パネトネ;PID_遭遇戦_フィレネ兵_女;" Job="JID_ベルセルク;" Weapon="IID_鋼の斧;IID_銀の斧;IID_鋼の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="4" Counter="6" Pursuit="3" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_アンナ;PID_遭遇戦_フィレネ兵_男;" Job="JID_ウォーリアー;" Weapon="IID_鉄の大斧;IID_勇者の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="5" Counter="7" Pursuit="3" Field="" />
+			<Param Out="" Group="グループG" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_エーティエ;PID_遭遇戦_フィレネ兵_女;" Job="JID_スナイパー;" Weapon="IID_長弓;" Enemy="PID_M022_異形兵_グリフォンナイト;" EnemyJob="JID_グリフォンナイト;" EnemyWeapon="IID_鉄の槍;" X="10" Z="3" Distance="9" Attack="5" Counter="6" Pursuit="4" Field="Fld_M020" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_男;" Job="JID_ボウナイト;" Weapon="IID_銀の弓;" Enemy="PID_M021_異形兵_ドラゴンナイト;" EnemyJob="JID_ドラゴンナイト;" EnemyWeapon="IID_鉄の斧;" X="0" Z="0" Distance="9" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ルイ;PID_M011_マロン;PID_遭遇戦_フィレネ兵_女;" Job="JID_ジェネラル;" Weapon="IID_鉄の大槍;IID_かぜの大斧;IID_鉄の大斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="5" Counter="8" Pursuit="4" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ボネ;PID_遭遇戦_フィレネ兵_男;" Job="JID_グレートナイト;" Weapon="IID_銀の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ヴァンドレ;PID_アンバー;PID_遭遇戦_フィレネ兵_女;" Job="JID_パラディン;" Weapon="IID_鉄の斧;IID_鋼の大槍;IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="7" Attack="5" Counter="6" Pursuit="4" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_メリン;PID_遭遇戦_フィレネ兵_男;" Job="JID_ウルフナイト;" Weapon="IID_銀のナイフ;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="7" Pursuit="2" Field="" />
+			<Param Out="" Group="グループH" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_シトリニカ;PID_M011_グリ;PID_遭遇戦_フィレネ兵_女;" Job="JID_セイジ;" Weapon="IID_エルファイアー;IID_エルウィンド;IID_エルファイアー;" Enemy="PID_M004_異形兵_アクスアーマー;" EnemyJob="JID_アクスアーマー;" EnemyWeapon="IID_鉄の斧;" X="15" Z="5" Distance="6" Attack="5" Counter="6" Pursuit="4" Field="Fld_M014" />
+			<Param Out="" Group="" DLC="false" Person="PID_クラン;PID_遭遇戦_フィレネ兵_男;" Job="JID_マージナイト;" Weapon="IID_エルサンダー;" Enemy="PID_M004_異形兵_ランスアーマー;" EnemyJob="JID_ランスアーマー;" EnemyWeapon="IID_鉄の槍;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_フラン;PID_遭遇戦_フィレネ兵_女;" Job="JID_マスターモンク;" Weapon="IID_護身の法;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="3" Counter="7" Pursuit="5" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_パンドロ;PID_ジャン;PID_遭遇戦_フィレネ兵_男;" Job="JID_ハイプリースト;" Weapon="IID_リライブ;" Enemy="PID_リュール;" EnemyJob="JID_神竜ノ子;" EnemyWeapon="IID_リベラシオン;" X="0" Z="0" Distance="4" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_クロエ;PID_遭遇戦_フィレネ兵_女;" Job="JID_グリフォンナイト;" Weapon="IID_ナイトキラー;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ロサード;PID_遭遇戦_フィレネ兵_男;" Job="JID_ドラゴンナイト;" Weapon="IID_鋼の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="グループI" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_S014_マルス;PID_S009_シグルド;PID_S013_セリカ;PID_S011_ミカヤ;PID_S012_ロイ;PID_S010_リーフ;PID_S003_ルキナ;PID_S004_リン;PID_S005_アイク;PID_S006_ベレト;PID_S007_カムイ;" Job="JID_紋章士_マルス;JID_紋章士_シグルド;JID_紋章士_セリカ;JID_紋章士_ミカヤ;JID_紋章士_ロイ;JID_紋章士_リーフ;JID_紋章士_ルキナ;JID_紋章士_リン;JID_紋章士_アイク;JID_紋章士_ベレト;JID_紋章士_カムイ;" Weapon="IID_マルス_ファルシオン_通常;IID_シグルド_ティルフィング_通常;IID_セリカ_ライナロック_通常;IID_ミカヤ_セイニー_通常;IID_ロイ_封印の剣_通常;IID_リーフ_ひかりの剣_通常;IID_ルキナ_裏剣ファルシオン_通常;IID_リン_マーニ・カティ_通常;IID_アイク_ラグネル_通常;IID_ベレト_天帝の覇剣_通常;IID_カムイ_夜刀神_通常;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="11" Z="4" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="Fld_M015" />
+			<Param Out="" Group="" DLC="false" Person="PID_M004_蛮族;" Job="JID_蛮族;" Weapon="IID_鉄の斧;" Enemy="PID_遭遇戦_フィレネ兵_男;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_M016_イルシオン兵_異形竜;" Job="JID_異形竜;" Weapon="IID_火のブレス;" Enemy="PID_遭遇戦_フィレネ兵_女;" EnemyJob="JID_アクスファイター;" EnemyWeapon="IID_鉄の斧;" X="0" Z="0" Distance="8" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_S006_幻影竜;" Job="JID_幻影竜;" Weapon="IID_火のブレス;" Enemy="PID_遭遇戦_フィレネ兵_男;" EnemyJob="JID_ランスファイター;" EnemyWeapon="IID_鉄の槍;" X="0" Z="0" Distance="8" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_M014_セピア;" Job="JID_メリュジーヌ;" Weapon="IID_エルファイアー;" Enemy="PID_遭遇戦_フィレネ兵_女;" EnemyJob="JID_ランスアーマー;" EnemyWeapon="IID_鉄の槍;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="グループJ" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="グループK" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+		</Data>
+	</Sheet>
+	<Sheet Name="兵種紹介M019" Count="70">
+		<Header>
+			<Param Name="出力先" Ident="Out" Type="PublicFile" Min="" Max="" Chg="" />
+			<Param Name="グループ" Ident="Group" Type="PublicArray" Min="" Max="" Chg="" />
+			<Param Name="DLC" Ident="DLC" Type="bool" Min="" Max="" Chg="" />
+			<Param Name="個人" Ident="Person" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="兵種" Ident="Job" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="装備" Ident="Weapon" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="敵" Ident="Enemy" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="敵兵種" Ident="EnemyJob" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="敵装備" Ident="EnemyWeapon" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="X" Ident="X" Type="int" Min="" Max="" Chg="" />
+			<Param Name="Z" Ident="Z" Type="int" Min="" Max="" Chg="" />
+			<Param Name="敵との距離" Ident="Distance" Type="float" Min="" Max="" Chg="" />
+			<Param Name="攻撃" Ident="Attack" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="反撃" Ident="Counter" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="追撃" Ident="Pursuit" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="背景" Ident="Field" Type="string" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Out="" Group="グループA" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_リュール;" Job="JID_神竜ノ子;" Weapon="IID_リベラシオン;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="4" Z="4" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="Fld_M001" />
+			<Param Out="" Group="" DLC="false" Person="PID_アルフレッド;" Job="JID_アヴニール下級;" Weapon="IID_鉄の槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ディアマンド;" Job="JID_スュクセサール下級;" Weapon="IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_アイビー;" Job="JID_リンドブルム下級;" Weapon="IID_エルファイアー;" Enemy="PID_M008_異形兵_ソードアーマー;" EnemyJob="JID_ソードアーマー;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ミスティラ;" Job="JID_ピッチフォーク下級;" Weapon="IID_手槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_M017_ヴェイル;" Job="JID_邪竜ノ娘;" Weapon="IID_オヴスキュリテ;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="グループB" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_セリーヌ;" Job="JID_フロラージュ下級;" Weapon="IID_ファイアー;" Enemy="PID_M008_異形兵_ソードアーマー;" EnemyJob="JID_ソードアーマー;" EnemyWeapon="IID_鉄の剣;" X="4" Z="6" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="Fld_M004" />
+			<Param Out="" Group="" DLC="false" Person="PID_スタルーク;" Job="JID_ティラユール下級;" Weapon="IID_鋼の弓;" Enemy="PID_M012_異形兵_ランスペガサス;" EnemyJob="JID_ランスペガサス;" EnemyWeapon="IID_鉄の槍;" X="0" Z="0" Distance="8" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_オルテンシア;" Job="JID_スレイプニル下級;" Weapon="IID_エルファイアー;" Enemy="PID_M004_異形兵_アクスアーマー;" EnemyJob="JID_アクスアーマー;" EnemyWeapon="IID_鉄の斧;" X="0" Z="0" Distance="7" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_フォガート;" Job="JID_クピードー下級;" Weapon="IID_銀の弓;" Enemy="PID_M004_異形兵_ソードペガサス;" EnemyJob="JID_ソードペガサス;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="8" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ラピス;PID_遭遇戦_フィレネ兵_男;" Job="JID_ソードファイター;" Weapon="IID_鉄の大剣;IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_ランスファイター;" Weapon="IID_鉄の槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="4" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ブシュロン;PID_アンナ;PID_遭遇戦_フィレネ兵_男;" Job="JID_アクスファイター;" Weapon="IID_鉄の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="4" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="グループC" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_エーティエ;PID_遭遇戦_フィレネ兵_女;" Job="JID_アーチャー;" Weapon="IID_鉄の弓;IID_鋼の弓;" Enemy="PID_M004_異形兵_ソードペガサス;" EnemyJob="JID_ソードペガサス;" EnemyWeapon="IID_鉄の剣;" X="9" Z="5" Distance="8" Attack="1" Counter="6" Pursuit="2" Field="Fld_M008" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_男;" Job="JID_ソードアーマー;" Weapon="IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ルイ;PID_遭遇戦_フィレネ兵_女;" Job="JID_ランスアーマー;" Weapon="IID_鉄の槍;IID_鋼の槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ジェーデ;PID_遭遇戦_フィレネ兵_男;" Job="JID_アクスアーマー;" Weapon="IID_鋼の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_ソードナイト;" Weapon="IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_アンバー;PID_遭遇戦_フィレネ兵_男;" Job="JID_ランスナイト;" Weapon="IID_キラーランス;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_アクスナイト;" Weapon="IID_鉄の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="グループD" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_クラン;PID_シトリニカ;PID_遭遇戦_フィレネ兵_男;" Job="JID_マージ;" Weapon="IID_ファイアー;IID_サンダー;IID_サンダー;" Enemy="PID_M004_異形兵_ランスアーマー;" EnemyJob="JID_ランスアーマー;" EnemyWeapon="IID_鉄の槍;" X="3" Z="9" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="Fld_M007" />
+			<Param Out="" Group="" DLC="false" Person="PID_フラン;PID_ジャン;PID_遭遇戦_フィレネ兵_女;" Job="JID_モンク;" Weapon="IID_初心の法;IID_ライブ;IID_初心の法;" Enemy="PID_M011_異形兵_ソードファイター;PID_リュール;PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;JID_神竜ノ子;JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;IID_リベラシオン;IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_ソードペガサス;" Weapon="IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_クロエ;PID_遭遇戦_フィレネ兵_女;" Job="JID_ランスペガサス;" Weapon="IID_ほそみの槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_アクスペガサス;" Weapon="IID_鉄の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ユナカ;PID_ゼルコバ;PID_遭遇戦_フィレネ兵_男;" Job="JID_シーフ;" Weapon="IID_鉄のナイフ;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_セアダス;" Job="JID_ダンサー;" Weapon="IID_鋼身の法;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="7" Pursuit="2" Field="" />
+			<Param Out="" Group="グループE" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_リュール;" Job="JID_神竜ノ王;" Weapon="IID_覇神の法;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="9" Z="27" Distance="5" Attack="1" Counter="7" Pursuit="2" Field="Fld_M010" />
+			<Param Out="" Group="" DLC="false" Person="PID_アルフレッド;" Job="JID_アヴニール;" Weapon="IID_銀の槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ディアマンド;" Job="JID_スュクセサール;" Weapon="IID_銀の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="7" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_アイビー;" Job="JID_リンドブルム;" Weapon="IID_エルファイアー;" Enemy="PID_M008_異形兵_ソードアーマー;" EnemyJob="JID_ソードアーマー;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ミスティラ;" Job="JID_ピッチフォーク;" Weapon="IID_銀の槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="7" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_カゲツ;PID_遭遇戦_フィレネ兵_女;" Job="JID_ソードマスター;" Weapon="IID_倭刀;IID_キルソード;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="2" Counter="6" Pursuit="5" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ラピス;PID_ゴルドマリー;PID_遭遇戦_フィレネ兵_男;" Job="JID_ブレイブヒーロー;" Weapon="IID_銀の大剣;IID_鋼の剣;IID_銀の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="4" Counter="8" Pursuit="3" Field="" />
+			<Param Out="" Group="グループF" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_セリーヌ;" Job="JID_フロラージュ;" Weapon="IID_エルサンダー;" Enemy="PID_M021_異形兵_ジェネラル;" EnemyJob="JID_ジェネラル;" EnemyWeapon="IID_鉄の大剣;" X="13" Z="18" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="Fld_M005" />
+			<Param Out="" Group="" DLC="false" Person="PID_スタルーク;" Job="JID_ティラユール;" Weapon="IID_銀の弓;" Enemy="PID_M021_異形兵_ドラゴンナイト;" EnemyJob="JID_ドラゴンナイト;" EnemyWeapon="IID_鉄の槍;" X="0" Z="0" Distance="9" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_オルテンシア;" Job="JID_スレイプニル;" Weapon="IID_エルウィンド;" Enemy="PID_M021_異形兵_ジェネラル;" EnemyJob="JID_ジェネラル;" EnemyWeapon="IID_鉄の大斧;" X="0" Z="0" Distance="5" Attack="1" Counter="7" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_フォガート;" Job="JID_クピードー;" Weapon="IID_キラーボウ;" Enemy="PID_M022_異形兵_グリフォンナイト;" EnemyJob="JID_グリフォンナイト;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="8" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_ハルバーディア;" Weapon="IID_手槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="5" Counter="6" Pursuit="3" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_モーヴ;PID_遭遇戦_フィレネ兵_男;" Job="JID_ロイヤルナイト;" Weapon="IID_ほのおの槍;IID_スレンドスピア;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="5" Counter="6" Pursuit="4" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ブシュロン;PID_パネトネ;PID_遭遇戦_フィレネ兵_女;" Job="JID_ベルセルク;" Weapon="IID_鋼の斧;IID_銀の斧;IID_鋼の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="4" Counter="6" Pursuit="3" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ザフィーア;PID_アンナ;PID_遭遇戦_フィレネ兵_男;" Job="JID_ウォーリアー;" Weapon="IID_勇者の斧;IID_鉄の大斧;IID_勇者の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="5" Counter="7" Pursuit="3" Field="" />
+			<Param Out="" Group="グループG" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_エーティエ;PID_遭遇戦_フィレネ兵_女;" Job="JID_スナイパー;" Weapon="IID_長弓;" Enemy="PID_M022_異形兵_グリフォンナイト;" EnemyJob="JID_グリフォンナイト;" EnemyWeapon="IID_鉄の槍;" X="10" Z="3" Distance="9" Attack="5" Counter="6" Pursuit="4" Field="Fld_M020" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_男;" Job="JID_ボウナイト;" Weapon="IID_銀の弓;" Enemy="PID_M021_異形兵_ドラゴンナイト;" EnemyJob="JID_ドラゴンナイト;" EnemyWeapon="IID_鉄の斧;" X="0" Z="0" Distance="9" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ルイ;PID_M019_マロン;PID_遭遇戦_フィレネ兵_女;" Job="JID_ジェネラル;" Weapon="IID_鉄の大槍;IID_かぜの大斧;IID_鉄の大斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="5" Counter="8" Pursuit="4" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ボネ;PID_遭遇戦_フィレネ兵_男;" Job="JID_グレートナイト;" Weapon="IID_銀の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ヴァンドレ;PID_アンバー;PID_遭遇戦_フィレネ兵_女;" Job="JID_パラディン;" Weapon="IID_鉄の斧;IID_鋼の大槍;IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="7" Attack="5" Counter="6" Pursuit="4" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_メリン;PID_遭遇戦_フィレネ兵_男;" Job="JID_ウルフナイト;" Weapon="IID_銀のナイフ;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="7" Pursuit="2" Field="" />
+			<Param Out="" Group="グループH" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_リンデン;PID_シトリニカ;PID_M017_グリ;PID_遭遇戦_フィレネ兵_女;" Job="JID_セイジ;" Weapon="IID_サンダー;IID_エルファイアー;IID_エルウィンド;IID_エルファイアー;" Enemy="PID_M004_異形兵_アクスアーマー;" EnemyJob="JID_アクスアーマー;" EnemyWeapon="IID_鉄の斧;" X="15" Z="5" Distance="6" Attack="5" Counter="6" Pursuit="4" Field="Fld_M014" />
+			<Param Out="" Group="" DLC="false" Person="PID_クラン;PID_遭遇戦_フィレネ兵_男;" Job="JID_マージナイト;" Weapon="IID_エルサンダー;" Enemy="PID_M004_異形兵_ランスアーマー;" EnemyJob="JID_ランスアーマー;" EnemyWeapon="IID_鉄の槍;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_フラン;PID_遭遇戦_フィレネ兵_女;" Job="JID_マスターモンク;" Weapon="IID_護身の法;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="3" Counter="7" Pursuit="5" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_パンドロ;PID_ジャン;PID_遭遇戦_フィレネ兵_男;" Job="JID_ハイプリースト;" Weapon="IID_リライブ;" Enemy="PID_リュール;" EnemyJob="JID_神竜ノ子;" EnemyWeapon="IID_リベラシオン;" X="0" Z="0" Distance="4" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_クロエ;PID_遭遇戦_フィレネ兵_女;" Job="JID_グリフォンナイト;" Weapon="IID_ナイトキラー;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ロサード;PID_遭遇戦_フィレネ兵_男;" Job="JID_ドラゴンナイト;" Weapon="IID_鋼の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="グループI" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_S014_マルス;PID_S009_シグルド;PID_S013_セリカ;PID_S011_ミカヤ;PID_S012_ロイ;PID_S010_リーフ;PID_S003_ルキナ;PID_S004_リン;PID_S005_アイク;PID_S006_ベレト;PID_S007_カムイ;PID_S008_エイリーク;" Job="JID_紋章士_マルス;JID_紋章士_シグルド;JID_紋章士_セリカ;JID_紋章士_ミカヤ;JID_紋章士_ロイ;JID_紋章士_リーフ;JID_紋章士_ルキナ;JID_紋章士_リン;JID_紋章士_アイク;JID_紋章士_ベレト;JID_紋章士_カムイ;JID_紋章士_エイリーク;" Weapon="IID_マルス_ファルシオン_通常;IID_シグルド_ティルフィング_通常;IID_セリカ_ライナロック_通常;IID_ミカヤ_セイニー_通常;IID_ロイ_封印の剣_通常;IID_リーフ_ひかりの剣_通常;IID_ルキナ_裏剣ファルシオン_通常;IID_リン_マーニ・カティ_通常;IID_アイク_ラグネル_通常;IID_ベレト_天帝の覇剣_通常;IID_カムイ_夜刀神_通常;IID_エイリーク_ジークリンデ_通常;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="11" Z="4" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="Fld_M015" />
+			<Param Out="" Group="" DLC="false" Person="PID_M004_蛮族;" Job="JID_蛮族;" Weapon="IID_鉄の斧;" Enemy="PID_遭遇戦_フィレネ兵_男;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_M016_イルシオン兵_異形竜;" Job="JID_異形竜;" Weapon="IID_火のブレス;" Enemy="PID_遭遇戦_フィレネ兵_女;" EnemyJob="JID_アクスファイター;" EnemyWeapon="IID_鉄の斧;" X="0" Z="0" Distance="8" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_S006_幻影竜;" Job="JID_幻影竜;" Weapon="IID_火のブレス;" Enemy="PID_遭遇戦_フィレネ兵_男;" EnemyJob="JID_ランスファイター;" EnemyWeapon="IID_鉄の槍;" X="0" Z="0" Distance="8" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_M014_セピア;" Job="JID_メリュジーヌ;" Weapon="IID_エルファイアー;" Enemy="PID_遭遇戦_フィレネ兵_女;" EnemyJob="JID_ランスアーマー;" EnemyWeapon="IID_鉄の槍;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="グループJ" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="グループK" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+		</Data>
+	</Sheet>
+	<Sheet Name="兵種紹介M022" Count="71">
+		<Header>
+			<Param Name="出力先" Ident="Out" Type="PublicFile" Min="" Max="" Chg="" />
+			<Param Name="グループ" Ident="Group" Type="PublicArray" Min="" Max="" Chg="" />
+			<Param Name="DLC" Ident="DLC" Type="bool" Min="" Max="" Chg="" />
+			<Param Name="個人" Ident="Person" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="兵種" Ident="Job" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="装備" Ident="Weapon" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="敵" Ident="Enemy" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="敵兵種" Ident="EnemyJob" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="敵装備" Ident="EnemyWeapon" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="X" Ident="X" Type="int" Min="" Max="" Chg="" />
+			<Param Name="Z" Ident="Z" Type="int" Min="" Max="" Chg="" />
+			<Param Name="敵との距離" Ident="Distance" Type="float" Min="" Max="" Chg="" />
+			<Param Name="攻撃" Ident="Attack" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="反撃" Ident="Counter" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="追撃" Ident="Pursuit" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="背景" Ident="Field" Type="string" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Out="" Group="グループA" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_リュール;" Job="JID_神竜ノ子;" Weapon="IID_リベラシオン;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="4" Z="4" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="Fld_M001" />
+			<Param Out="" Group="" DLC="false" Person="PID_アルフレッド;" Job="JID_アヴニール下級;" Weapon="IID_鉄の槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ディアマンド;" Job="JID_スュクセサール下級;" Weapon="IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_アイビー;" Job="JID_リンドブルム下級;" Weapon="IID_エルファイアー;" Enemy="PID_M008_異形兵_ソードアーマー;" EnemyJob="JID_ソードアーマー;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ミスティラ;" Job="JID_ピッチフォーク下級;" Weapon="IID_手槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ヴェイル;" Job="JID_邪竜ノ娘;" Weapon="IID_ミセリコルデ;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="7" Pursuit="2" Field="" />
+			<Param Out="" Group="グループB" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_セリーヌ;" Job="JID_フロラージュ下級;" Weapon="IID_ファイアー;" Enemy="PID_M008_異形兵_ソードアーマー;" EnemyJob="JID_ソードアーマー;" EnemyWeapon="IID_鉄の剣;" X="4" Z="6" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="Fld_M004" />
+			<Param Out="" Group="" DLC="false" Person="PID_スタルーク;" Job="JID_ティラユール下級;" Weapon="IID_鋼の弓;" Enemy="PID_M012_異形兵_ランスペガサス;" EnemyJob="JID_ランスペガサス;" EnemyWeapon="IID_鉄の槍;" X="0" Z="0" Distance="8" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_オルテンシア;" Job="JID_スレイプニル下級;" Weapon="IID_エルファイアー;" Enemy="PID_M004_異形兵_アクスアーマー;" EnemyJob="JID_アクスアーマー;" EnemyWeapon="IID_鉄の斧;" X="0" Z="0" Distance="7" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_フォガート;" Job="JID_クピードー下級;" Weapon="IID_銀の弓;" Enemy="PID_M004_異形兵_ソードペガサス;" EnemyJob="JID_ソードペガサス;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="8" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ラピス;PID_遭遇戦_フィレネ兵_男;" Job="JID_ソードファイター;" Weapon="IID_鉄の大剣;IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_ランスファイター;" Weapon="IID_鉄の槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="4" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ブシュロン;PID_アンナ;PID_遭遇戦_フィレネ兵_男;" Job="JID_アクスファイター;" Weapon="IID_鉄の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="4" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="グループC" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_エーティエ;PID_遭遇戦_フィレネ兵_女;" Job="JID_アーチャー;" Weapon="IID_鉄の弓;IID_鋼の弓;" Enemy="PID_M004_異形兵_ソードペガサス;" EnemyJob="JID_ソードペガサス;" EnemyWeapon="IID_鉄の剣;" X="9" Z="5" Distance="8" Attack="1" Counter="6" Pursuit="2" Field="Fld_M008" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_男;" Job="JID_ソードアーマー;" Weapon="IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ルイ;PID_遭遇戦_フィレネ兵_女;" Job="JID_ランスアーマー;" Weapon="IID_鉄の槍;IID_鋼の槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ジェーデ;PID_遭遇戦_フィレネ兵_男;" Job="JID_アクスアーマー;" Weapon="IID_鋼の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_ソードナイト;" Weapon="IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_アンバー;PID_遭遇戦_フィレネ兵_男;" Job="JID_ランスナイト;" Weapon="IID_キラーランス;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_アクスナイト;" Weapon="IID_鉄の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="グループD" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_クラン;PID_シトリニカ;PID_遭遇戦_フィレネ兵_男;" Job="JID_マージ;" Weapon="IID_ファイアー;IID_サンダー;IID_サンダー;" Enemy="PID_M004_異形兵_ランスアーマー;" EnemyJob="JID_ランスアーマー;" EnemyWeapon="IID_鉄の槍;" X="3" Z="9" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="Fld_M007" />
+			<Param Out="" Group="" DLC="false" Person="PID_フラン;PID_ジャン;PID_遭遇戦_フィレネ兵_女;" Job="JID_モンク;" Weapon="IID_初心の法;IID_ライブ;IID_初心の法;" Enemy="PID_M011_異形兵_ソードファイター;PID_リュール;PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;JID_神竜ノ子;JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;IID_リベラシオン;IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_ソードペガサス;" Weapon="IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_クロエ;PID_遭遇戦_フィレネ兵_女;" Job="JID_ランスペガサス;" Weapon="IID_ほそみの槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_アクスペガサス;" Weapon="IID_鉄の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ユナカ;PID_ゼルコバ;PID_遭遇戦_フィレネ兵_男;" Job="JID_シーフ;" Weapon="IID_鉄のナイフ;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_セアダス;" Job="JID_ダンサー;" Weapon="IID_鋼身の法;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="7" Pursuit="2" Field="" />
+			<Param Out="" Group="グループE" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_リュール;" Job="JID_神竜ノ王;" Weapon="IID_覇神の法;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="9" Z="27" Distance="5" Attack="1" Counter="7" Pursuit="2" Field="Fld_M010" />
+			<Param Out="" Group="" DLC="false" Person="PID_アルフレッド;" Job="JID_アヴニール;" Weapon="IID_銀の槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ディアマンド;" Job="JID_スュクセサール;" Weapon="IID_銀の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="7" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_アイビー;" Job="JID_リンドブルム;" Weapon="IID_エルファイアー;" Enemy="PID_M008_異形兵_ソードアーマー;" EnemyJob="JID_ソードアーマー;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ミスティラ;" Job="JID_ピッチフォーク;" Weapon="IID_銀の槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="7" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_カゲツ;PID_遭遇戦_フィレネ兵_女;" Job="JID_ソードマスター;" Weapon="IID_倭刀;IID_キルソード;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="2" Counter="6" Pursuit="5" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ラピス;PID_ゴルドマリー;PID_遭遇戦_フィレネ兵_男;" Job="JID_ブレイブヒーロー;" Weapon="IID_銀の大剣;IID_鋼の剣;IID_銀の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="4" Counter="8" Pursuit="3" Field="" />
+			<Param Out="" Group="グループF" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_セリーヌ;" Job="JID_フロラージュ;" Weapon="IID_エルサンダー;" Enemy="PID_M008_異形兵_ソードアーマー;" EnemyJob="JID_ソードアーマー;" EnemyWeapon="IID_鉄の大剣;" X="13" Z="18" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="Fld_M005" />
+			<Param Out="" Group="" DLC="false" Person="PID_スタルーク;" Job="JID_ティラユール;" Weapon="IID_銀の弓;" Enemy="PID_M021_異形兵_ドラゴンナイト;" EnemyJob="JID_ドラゴンナイト;" EnemyWeapon="IID_鉄の槍;" X="0" Z="0" Distance="9" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_オルテンシア;" Job="JID_スレイプニル;" Weapon="IID_エルウィンド;" Enemy="PID_M004_異形兵_アクスアーマー;" EnemyJob="JID_アクスアーマー;" EnemyWeapon="IID_鉄の大斧;" X="0" Z="0" Distance="5" Attack="1" Counter="7" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_フォガート;" Job="JID_クピードー;" Weapon="IID_キラーボウ;" Enemy="PID_M022_異形兵_グリフォンナイト;" EnemyJob="JID_グリフォンナイト;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="8" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_女;" Job="JID_ハルバーディア;" Weapon="IID_手槍;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="5" Counter="6" Pursuit="3" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_モーヴ;PID_遭遇戦_フィレネ兵_男;" Job="JID_ロイヤルナイト;" Weapon="IID_ほのおの槍;IID_スレンドスピア;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="6" Attack="5" Counter="6" Pursuit="4" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ブシュロン;PID_パネトネ;PID_遭遇戦_フィレネ兵_女;" Job="JID_ベルセルク;" Weapon="IID_鋼の斧;IID_銀の斧;IID_鋼の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="4" Counter="6" Pursuit="3" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ザフィーア;PID_アンナ;PID_遭遇戦_フィレネ兵_男;" Job="JID_ウォーリアー;" Weapon="IID_勇者の斧;IID_鉄の大斧;IID_勇者の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="5" Counter="7" Pursuit="3" Field="" />
+			<Param Out="" Group="グループG" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_エーティエ;PID_遭遇戦_フィレネ兵_女;" Job="JID_スナイパー;" Weapon="IID_長弓;" Enemy="PID_M022_異形兵_グリフォンナイト;" EnemyJob="JID_グリフォンナイト;" EnemyWeapon="IID_鉄の槍;" X="10" Z="3" Distance="9" Attack="5" Counter="6" Pursuit="4" Field="Fld_M020" />
+			<Param Out="" Group="" DLC="false" Person="PID_遭遇戦_フィレネ兵_男;" Job="JID_ボウナイト;" Weapon="IID_銀の弓;" Enemy="PID_M021_異形兵_ドラゴンナイト;" EnemyJob="JID_ドラゴンナイト;" EnemyWeapon="IID_鉄の斧;" X="0" Z="0" Distance="9" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ルイ;PID_M019_マロン;PID_遭遇戦_フィレネ兵_女;" Job="JID_ジェネラル;" Weapon="IID_鉄の大槍;IID_かぜの大斧;IID_鉄の大斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="5" Counter="8" Pursuit="4" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ボネ;PID_遭遇戦_フィレネ兵_男;" Job="JID_グレートナイト;" Weapon="IID_銀の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ヴァンドレ;PID_アンバー;PID_遭遇戦_フィレネ兵_女;" Job="JID_パラディン;" Weapon="IID_鉄の斧;IID_鋼の大槍;IID_鉄の剣;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="7" Attack="5" Counter="6" Pursuit="4" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_メリン;PID_遭遇戦_フィレネ兵_男;" Job="JID_ウルフナイト;" Weapon="IID_銀のナイフ;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="7" Pursuit="2" Field="" />
+			<Param Out="" Group="グループH" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_リンデン;PID_シトリニカ;PID_M021_グリ;PID_遭遇戦_フィレネ兵_女;" Job="JID_セイジ;" Weapon="IID_サンダー;IID_エルファイアー;IID_エルウィンド;IID_エルファイアー;" Enemy="PID_M004_異形兵_アクスアーマー;" EnemyJob="JID_アクスアーマー;" EnemyWeapon="IID_鉄の斧;" X="15" Z="5" Distance="6" Attack="5" Counter="6" Pursuit="4" Field="Fld_M014" />
+			<Param Out="" Group="" DLC="false" Person="PID_クラン;PID_遭遇戦_フィレネ兵_男;" Job="JID_マージナイト;" Weapon="IID_エルサンダー;" Enemy="PID_M004_異形兵_ランスアーマー;" EnemyJob="JID_ランスアーマー;" EnemyWeapon="IID_鉄の槍;" X="0" Z="0" Distance="6" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_フラン;PID_遭遇戦_フィレネ兵_女;" Job="JID_マスターモンク;" Weapon="IID_護身の法;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="3" Counter="7" Pursuit="5" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_パンドロ;PID_ジャン;PID_遭遇戦_フィレネ兵_男;" Job="JID_ハイプリースト;" Weapon="IID_リライブ;" Enemy="PID_リュール;" EnemyJob="JID_神竜ノ子;" EnemyWeapon="IID_リベラシオン;" X="0" Z="0" Distance="4" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_クロエ;PID_遭遇戦_フィレネ兵_女;" Job="JID_グリフォンナイト;" Weapon="IID_ナイトキラー;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_ロサード;PID_遭遇戦_フィレネ兵_男;" Job="JID_ドラゴンナイト;" Weapon="IID_鋼の斧;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_S014_マルス;PID_S009_シグルド;PID_S013_セリカ;PID_S011_ミカヤ;PID_S012_ロイ;PID_S010_リーフ;PID_S003_ルキナ;PID_S004_リン;PID_S005_アイク;PID_S006_ベレト;PID_S007_カムイ;PID_S008_エイリーク;" Job="JID_紋章士_マルス;JID_紋章士_シグルド;JID_紋章士_セリカ;JID_紋章士_ミカヤ;JID_紋章士_ロイ;JID_紋章士_リーフ;JID_紋章士_ルキナ;JID_紋章士_リン;JID_紋章士_アイク;JID_紋章士_ベレト;JID_紋章士_カムイ;JID_紋章士_エイリーク;" Weapon="IID_マルス_ファルシオン_通常;IID_シグルド_ティルフィング_通常;IID_セリカ_ライナロック_通常;IID_ミカヤ_セイニー_通常;IID_ロイ_封印の剣_通常;IID_リーフ_ひかりの剣_通常;IID_ルキナ_裏剣ファルシオン_通常;IID_リン_マーニ・カティ_通常;IID_アイク_ラグネル_通常;IID_ベレト_天帝の覇剣_通常;IID_カムイ_夜刀神_通常;IID_エイリーク_ジークリンデ_通常;" Enemy="PID_M011_異形兵_ソードファイター;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="グループI" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_M004_蛮族;" Job="JID_蛮族;" Weapon="IID_鉄の斧;" Enemy="PID_遭遇戦_フィレネ兵_男;" EnemyJob="JID_ソードファイター;" EnemyWeapon="IID_鉄の剣;" X="11" Z="4" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="Fld_M015" />
+			<Param Out="" Group="" DLC="false" Person="PID_M016_イルシオン兵_異形竜;" Job="JID_異形竜;" Weapon="IID_火のブレス;" Enemy="PID_遭遇戦_フィレネ兵_女;" EnemyJob="JID_アクスファイター;" EnemyWeapon="IID_鉄の斧;" X="0" Z="0" Distance="8" Attack="1" Counter="8" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_S006_幻影竜;" Job="JID_幻影竜;" Weapon="IID_火のブレス;" Enemy="PID_遭遇戦_フィレネ兵_男;" EnemyJob="JID_ランスファイター;" EnemyWeapon="IID_鉄の槍;" X="0" Z="0" Distance="8" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_M021_セピア;" Job="JID_メリュジーヌ;" Weapon="IID_エルファイアー;" Enemy="PID_遭遇戦_フィレネ兵_女;" EnemyJob="JID_ランスアーマー;" EnemyWeapon="IID_鉄の槍;" X="0" Z="0" Distance="5" Attack="1" Counter="7" Pursuit="2" Field="" />
+			<Param Out="" Group="" DLC="false" Person="PID_M021_ヴェイル;" Job="JID_邪竜ノ娘;" Weapon="IID_オヴスキュリテ;" Enemy="PID_遭遇戦_フィレネ兵_男;" EnemyJob="JID_アクスアーマー;" EnemyWeapon="IID_鉄の斧;" X="0" Z="0" Distance="5" Attack="1" Counter="6" Pursuit="2" Field="" />
+			<Param Out="" Group="グループJ" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="グループK" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+		</Data>
+	</Sheet>
+	<Sheet Name="兵種紹介Debug" Count="5">
+		<Header>
+			<Param Name="出力先" Ident="Out" Type="PublicFile" Min="" Max="" Chg="" />
+			<Param Name="グループ" Ident="Group" Type="PublicArray" Min="" Max="" Chg="" />
+			<Param Name="DLC" Ident="DLC" Type="bool" Min="" Max="" Chg="" />
+			<Param Name="個人" Ident="Person" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="兵種" Ident="Job" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="装備" Ident="Weapon" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="敵" Ident="Enemy" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="敵兵種" Ident="EnemyJob" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="敵装備" Ident="EnemyWeapon" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="X" Ident="X" Type="int" Min="" Max="" Chg="" />
+			<Param Name="Z" Ident="Z" Type="int" Min="" Max="" Chg="" />
+			<Param Name="敵との距離" Ident="Distance" Type="float" Min="" Max="" Chg="" />
+			<Param Name="攻撃" Ident="Attack" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="反撃" Ident="Counter" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="追撃" Ident="Pursuit" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="背景" Ident="Field" Type="string" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Out="" Group="グループA" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="グループB" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="グループC" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="グループD" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+			<Param Out="" Group="グループE" DLC="false" Person="" Job="" Weapon="" Enemy="" EnemyJob="" EnemyWeapon="" X="" Z="" Distance="" Attack="" Counter="" Pursuit="" Field="" />
+		</Data>
+	</Sheet>
+</Book>

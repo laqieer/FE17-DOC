@@ -1,0 +1,393 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Book Count="4">
+	<Sheet Name="リレー" Count="6">
+		<Header>
+			<Param Name="出力先" Ident="Out" Type="PublicFile" Min="" Max="" Chg="" />
+			<Param Name="章" Ident="Cid" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="難易度" Ident="Difficulty" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="最大ターン数" Ident="MaxTurn" Type="int" Min="1" Max="50" Chg="1" />
+			<Param Name="最大人数" Ident="MaxUnit" Type="int" Min="1" Max="10" Chg="1" />
+			<Param Name="新規ターン数" Ident="NewTurn" Type="int" Min="1" Max="10" Chg="1" />
+			<Param Name="継続ターン数" Ident="TakeOverTurn" Type="int" Min="1" Max="10" Chg="1" />
+			<Param Name="継続追加人数" Ident="TakeOverUnit" Type="int" Min="1" Max="10" Chg="1" />
+			<Param Name="クリア報酬メイン" Ident="CompletionAwardMain" Type="string" Min="" Max="" Chg="" />
+			<Param Name="クリア報酬サブ" Ident="CompletionAwardSub" Type="string" Min="" Max="" Chg="" />
+			<Param Name="残念賞" Ident="GameOverAward" Type="string" Min="" Max="" Chg="" />
+			<Param Name="解放章" Ident="UnlockCid" Type="string" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Out="" Cid="CID_N001_1" Difficulty="0" MaxTurn="10" MaxUnit="10" NewTurn="2" TakeOverTurn="2" TakeOverUnit="2" CompletionAwardMain="N001メイン" CompletionAwardSub="共通サブ" GameOverAward="IID_300G" UnlockCid="CID_M006" />
+			<Param Out="" Cid="CID_N002_1" Difficulty="0" MaxTurn="10" MaxUnit="10" NewTurn="2" TakeOverTurn="2" TakeOverUnit="2" CompletionAwardMain="N002メイン" CompletionAwardSub="共通サブ" GameOverAward="IID_300G" UnlockCid="CID_M006" />
+			<Param Out="" Cid="CID_N003_1" Difficulty="0" MaxTurn="10" MaxUnit="10" NewTurn="2" TakeOverTurn="2" TakeOverUnit="2" CompletionAwardMain="N003メイン" CompletionAwardSub="共通サブ" GameOverAward="IID_300G" UnlockCid="CID_M007" />
+			<Param Out="" Cid="CID_N004_1" Difficulty="1" MaxTurn="10" MaxUnit="10" NewTurn="2" TakeOverTurn="2" TakeOverUnit="3" CompletionAwardMain="N004メイン" CompletionAwardSub="共通サブ" GameOverAward="IID_300G" UnlockCid="CID_M011" />
+			<Param Out="" Cid="CID_N005_1" Difficulty="1" MaxTurn="15" MaxUnit="10" NewTurn="3" TakeOverTurn="3" TakeOverUnit="3" CompletionAwardMain="N005メイン" CompletionAwardSub="共通サブ" GameOverAward="IID_300G" UnlockCid="CID_M013" />
+			<Param Out="" Cid="CID_N006_1" Difficulty="1" MaxTurn="15" MaxUnit="10" NewTurn="3" TakeOverTurn="3" TakeOverUnit="2" CompletionAwardMain="N006メイン" CompletionAwardSub="共通サブ" GameOverAward="IID_300G" UnlockCid="CID_M023" />
+		</Data>
+	</Sheet>
+	<Sheet Name="スタンプ" Count="50">
+		<Header>
+			<Param Name="出力先" Ident="Out" Type="PublicFile" Min="" Max="" Chg="" />
+			<Param Name="スタンプ名" Ident="Name" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="通し番号" Ident="SerialNo" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="個人" Ident="Pid" Type="string" Min="" Max="" Chg="" />
+			<Param Name="紋章士" Ident="Gid" Type="string" Min="" Max="" Chg="" />
+			<Param Name="ソート" Ident="Sort" Type="int" Min="" Max="" Chg="" />
+			<Param Name="フラグ" Ident="Flag" Type="flag" Min="" Max="" Chg="" />
+			<Param Name="ボイス" Ident="Voice" Type="string" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Out="" Name="Lueur_M_0" SerialNo="0" Pid="PID_リュール" Gid="" Sort="0" Flag="0" Voice="V_RelayStamp_00" />
+			<Param Out="" Name="Lueur_F_0" SerialNo="1" Pid="PID_リュール" Gid="" Sort="10" Flag="0" Voice="V_RelayStamp_01" />
+			<Param Out="" Name="Vandre_0" SerialNo="2" Pid="PID_ヴァンドレ" Gid="" Sort="20" Flag="0" Voice="V_RelayStamp_02" />
+			<Param Out="" Name="Clan_0" SerialNo="3" Pid="PID_クラン" Gid="" Sort="30" Flag="0" Voice="V_RelayStamp_03" />
+			<Param Out="" Name="Fram_0" SerialNo="4" Pid="PID_フラン" Gid="" Sort="40" Flag="0" Voice="V_RelayStamp_04" />
+			<Param Out="" Name="Alfred_0" SerialNo="5" Pid="PID_アルフレッド" Gid="" Sort="0" Flag="0" Voice="V_RelayStamp_05" />
+			<Param Out="" Name="Boucheron_0" SerialNo="6" Pid="PID_ブシュロン" Gid="" Sort="10" Flag="0" Voice="V_RelayStamp_06" />
+			<Param Out="" Name="Etie_0" SerialNo="7" Pid="PID_エーティエ" Gid="" Sort="20" Flag="0" Voice="V_RelayStamp_07" />
+			<Param Out="" Name="Celine_0" SerialNo="8" Pid="PID_セリーヌ" Gid="" Sort="30" Flag="0" Voice="V_RelayStamp_08" />
+			<Param Out="" Name="Louis_0" SerialNo="9" Pid="PID_ルイ" Gid="" Sort="40" Flag="0" Voice="V_RelayStamp_09" />
+			<Param Out="" Name="Chloe_0" SerialNo="10" Pid="PID_クロエ" Gid="" Sort="50" Flag="0" Voice="V_RelayStamp_10" />
+			<Param Out="" Name="Diamand_0" SerialNo="11" Pid="PID_ディアマンド" Gid="" Sort="0" Flag="0" Voice="V_RelayStamp_11" />
+			<Param Out="" Name="Umber_0" SerialNo="12" Pid="PID_アンバー" Gid="" Sort="10" Flag="0" Voice="V_RelayStamp_12" />
+			<Param Out="" Name="Jade_0" SerialNo="13" Pid="PID_ジェーデ" Gid="" Sort="20" Flag="0" Voice="V_RelayStamp_13" />
+			<Param Out="" Name="Staluke_0" SerialNo="14" Pid="PID_スタルーク" Gid="" Sort="30" Flag="0" Voice="V_RelayStamp_14" />
+			<Param Out="" Name="Lapis_0" SerialNo="15" Pid="PID_ラピス" Gid="" Sort="40" Flag="0" Voice="V_RelayStamp_15" />
+			<Param Out="" Name="Citrinica_0" SerialNo="16" Pid="PID_シトリニカ" Gid="" Sort="50" Flag="0" Voice="V_RelayStamp_16" />
+			<Param Out="" Name="Ivy_0" SerialNo="17" Pid="PID_アイビー" Gid="" Sort="0" Flag="0" Voice="V_RelayStamp_17" />
+			<Param Out="" Name="Zelkova_0" SerialNo="18" Pid="PID_ゼルコバ" Gid="" Sort="10" Flag="0" Voice="V_RelayStamp_18" />
+			<Param Out="" Name="Kagetsu_0" SerialNo="19" Pid="PID_カゲツ" Gid="" Sort="20" Flag="0" Voice="V_RelayStamp_19" />
+			<Param Out="" Name="Hortensia_0" SerialNo="20" Pid="PID_オルテンシア" Gid="" Sort="30" Flag="0" Voice="V_RelayStamp_20" />
+			<Param Out="" Name="Rosado_0" SerialNo="21" Pid="PID_ロサード" Gid="" Sort="40" Flag="0" Voice="V_RelayStamp_21" />
+			<Param Out="" Name="Goldmary_0" SerialNo="22" Pid="PID_ゴルドマリー" Gid="" Sort="50" Flag="0" Voice="V_RelayStamp_22" />
+			<Param Out="" Name="Misutira_0" SerialNo="23" Pid="PID_ミスティラ" Gid="" Sort="0" Flag="0" Voice="V_RelayStamp_23" />
+			<Param Out="" Name="Merin_0" SerialNo="24" Pid="PID_メリン" Gid="" Sort="10" Flag="0" Voice="V_RelayStamp_24" />
+			<Param Out="" Name="Panetone_0" SerialNo="25" Pid="PID_パネトネ" Gid="" Sort="20" Flag="0" Voice="V_RelayStamp_25" />
+			<Param Out="" Name="Fogato_0" SerialNo="26" Pid="PID_フォガート" Gid="" Sort="30" Flag="0" Voice="V_RelayStamp_26" />
+			<Param Out="" Name="Pandoro_0" SerialNo="27" Pid="PID_パンドロ" Gid="" Sort="40" Flag="0" Voice="V_RelayStamp_27" />
+			<Param Out="" Name="Bonet_0" SerialNo="28" Pid="PID_ボネ" Gid="" Sort="50" Flag="0" Voice="V_RelayStamp_28" />
+			<Param Out="" Name="Anna_0" SerialNo="29" Pid="PID_アンナ" Gid="" Sort="0" Flag="0" Voice="V_RelayStamp_29" />
+			<Param Out="" Name="Jean_0" SerialNo="30" Pid="PID_ジャン" Gid="" Sort="10" Flag="0" Voice="V_RelayStamp_30" />
+			<Param Out="" Name="Yunaka_0" SerialNo="31" Pid="PID_ユナカ" Gid="" Sort="20" Flag="0" Voice="V_RelayStamp_31" />
+			<Param Out="" Name="Seadas_0" SerialNo="32" Pid="PID_セアダス" Gid="" Sort="30" Flag="0" Voice="V_RelayStamp_32" />
+			<Param Out="" Name="Linden_0" SerialNo="33" Pid="PID_リンデン" Gid="" Sort="40" Flag="0" Voice="V_RelayStamp_33" />
+			<Param Out="" Name="Saphir_0" SerialNo="34" Pid="PID_ザフィーア" Gid="" Sort="50" Flag="0" Voice="V_RelayStamp_34" />
+			<Param Out="" Name="Veyre_0" SerialNo="35" Pid="PID_ヴェイル" Gid="" Sort="60" Flag="0" Voice="V_RelayStamp_35" />
+			<Param Out="" Name="Mauve_0" SerialNo="36" Pid="PID_モーヴ" Gid="" Sort="70" Flag="0" Voice="V_RelayStamp_36" />
+			<Param Out="" Name="Lumiere_0" SerialNo="37" Pid="PID_ルミエル" Gid="" Sort="80" Flag="1" Voice="V_RelayStamp_37" />
+			<Param Out="" Name="Marth_0" SerialNo="38" Pid="" Gid="GID_マルス" Sort="0" Flag="0" Voice="V_RelayStamp_38" />
+			<Param Out="" Name="Celica_0" SerialNo="39" Pid="" Gid="GID_セリカ" Sort="10" Flag="0" Voice="V_RelayStamp_39" />
+			<Param Out="" Name="Siglud_0" SerialNo="40" Pid="" Gid="GID_シグルド" Sort="20" Flag="0" Voice="V_RelayStamp_40" />
+			<Param Out="" Name="Leaf_0" SerialNo="41" Pid="" Gid="GID_リーフ" Sort="30" Flag="0" Voice="V_RelayStamp_41" />
+			<Param Out="" Name="Roy_0" SerialNo="42" Pid="" Gid="GID_ロイ" Sort="40" Flag="0" Voice="V_RelayStamp_42" />
+			<Param Out="" Name="Lin_0" SerialNo="43" Pid="" Gid="GID_リン" Sort="50" Flag="0" Voice="V_RelayStamp_43" />
+			<Param Out="" Name="Eirik_0" SerialNo="44" Pid="" Gid="GID_エイリーク" Sort="60" Flag="0" Voice="V_RelayStamp_44" />
+			<Param Out="" Name="Ike_0" SerialNo="45" Pid="" Gid="GID_アイク" Sort="70" Flag="0" Voice="V_RelayStamp_45" />
+			<Param Out="" Name="Micaiah_0" SerialNo="46" Pid="" Gid="GID_ミカヤ" Sort="80" Flag="0" Voice="V_RelayStamp_46" />
+			<Param Out="" Name="Lucina_0" SerialNo="47" Pid="" Gid="GID_ルキナ" Sort="90" Flag="0" Voice="V_RelayStamp_47" />
+			<Param Out="" Name="Kamui_0" SerialNo="48" Pid="" Gid="GID_カムイ" Sort="100" Flag="0" Voice="V_RelayStamp_48" />
+			<Param Out="" Name="Byleth_0" SerialNo="49" Pid="" Gid="GID_ベレト" Sort="110" Flag="0" Voice="V_RelayStamp_49" />
+		</Data>
+	</Sheet>
+	<Sheet Name="クリア報酬" Count="252">
+		<Header>
+			<Param Name="グループ" Ident="Group" Type="PublicArray" Min="" Max="" Chg="" />
+			<Param Name="アイテム" Ident="Iid" Type="string" Min="" Max="" Chg="" />
+			<Param Name="確率" Ident="Rate" Type="float" Min="0" Max="100" Chg="0.1" />
+			<Param Name="最小個数" Ident="MinCount" Type="int" Min="0" Max="100" Chg="1" />
+			<Param Name="最大個数" Ident="MaxCount" Type="int" Min="0" Max="100" Chg="1" />
+			<Param Name="フラグ" Ident="Flag" Type="flag" Min="" Max="" Chg="" />
+			<Param Name="条件" Ident="Condition" Type="string" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Group="N001メイン" Iid="" Rate="" MinCount="" MaxCount="" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_竜特効" Rate="0.002" MinCount="3" MaxCount="100" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_騎馬特効" Rate="0.002" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_重装特効" Rate="0.002" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_飛行特効" Rate="0.002" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_異形特効" Rate="0.002" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_威力" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_必殺" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_速さ" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_技" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_守備" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_魔防" Rate="50" MinCount="0" MaxCount="0" Flag="1" Condition="" />
+			<Param Group="" Iid="IID_素材_回避" Rate="50" MinCount="0" MaxCount="0" Flag="1" Condition="" />
+			<Param Group="" Iid="IID_素材_命中" Rate="50" MinCount="0" MaxCount="0" Flag="1" Condition="" />
+			<Param Group="" Iid="IID_素材_必避" Rate="50" MinCount="0" MaxCount="0" Flag="1" Condition="" />
+			<Param Group="" Iid="IID_素材_威力" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_必殺" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_速さ" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_技" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_守備" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_魔防" Rate="50" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_回避" Rate="50" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_命中" Rate="50" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_必避" Rate="50" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="N002メイン" Iid="" Rate="" MinCount="" MaxCount="" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_竜特効" Rate="0.002" MinCount="3" MaxCount="100" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_騎馬特効" Rate="0.002" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_重装特効" Rate="0.002" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_飛行特効" Rate="0.002" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_異形特効" Rate="0.002" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_威力" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_必殺" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_速さ" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_技" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_守備" Rate="50" MinCount="0" MaxCount="0" Flag="1" Condition="" />
+			<Param Group="" Iid="IID_素材_魔防" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_回避" Rate="50" MinCount="0" MaxCount="0" Flag="1" Condition="" />
+			<Param Group="" Iid="IID_素材_命中" Rate="50" MinCount="0" MaxCount="0" Flag="1" Condition="" />
+			<Param Group="" Iid="IID_素材_必避" Rate="50" MinCount="0" MaxCount="0" Flag="1" Condition="" />
+			<Param Group="" Iid="IID_素材_威力" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_必殺" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_速さ" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_技" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_守備" Rate="50" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_魔防" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_回避" Rate="50" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_命中" Rate="50" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_必避" Rate="50" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="N003メイン" Iid="" Rate="" MinCount="" MaxCount="" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_竜特効" Rate="0.002" MinCount="3" MaxCount="100" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_騎馬特効" Rate="0.002" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_重装特効" Rate="0.002" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_飛行特効" Rate="0.002" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_異形特効" Rate="0.002" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_威力" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_必殺" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_速さ" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_技" Rate="50" MinCount="0" MaxCount="0" Flag="1" Condition="" />
+			<Param Group="" Iid="IID_素材_守備" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_魔防" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_回避" Rate="50" MinCount="0" MaxCount="0" Flag="1" Condition="" />
+			<Param Group="" Iid="IID_素材_命中" Rate="50" MinCount="0" MaxCount="0" Flag="1" Condition="" />
+			<Param Group="" Iid="IID_素材_必避" Rate="50" MinCount="0" MaxCount="0" Flag="1" Condition="" />
+			<Param Group="" Iid="IID_素材_威力" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_必殺" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_速さ" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_技" Rate="50" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_守備" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_魔防" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_回避" Rate="50" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_命中" Rate="50" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_必避" Rate="50" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="N004メイン" Iid="" Rate="" MinCount="" MaxCount="" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_竜特効" Rate="0.002" MinCount="3" MaxCount="100" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_騎馬特効" Rate="0.002" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_重装特効" Rate="0.002" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_飛行特効" Rate="0.002" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_異形特効" Rate="0.002" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_威力" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_必殺" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_速さ" Rate="50" MinCount="0" MaxCount="0" Flag="1" Condition="" />
+			<Param Group="" Iid="IID_素材_技" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_守備" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_魔防" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_回避" Rate="50" MinCount="0" MaxCount="0" Flag="1" Condition="" />
+			<Param Group="" Iid="IID_素材_命中" Rate="50" MinCount="0" MaxCount="0" Flag="1" Condition="" />
+			<Param Group="" Iid="IID_素材_必避" Rate="50" MinCount="0" MaxCount="0" Flag="1" Condition="" />
+			<Param Group="" Iid="IID_素材_威力" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_必殺" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_速さ" Rate="50" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_技" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_守備" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_魔防" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_回避" Rate="50" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_命中" Rate="50" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_必避" Rate="50" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="N005メイン" Iid="" Rate="" MinCount="" MaxCount="" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_竜特効" Rate="0.1" MinCount="3" MaxCount="100" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_騎馬特効" Rate="0.1" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_重装特効" Rate="0.1" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_飛行特効" Rate="0.1" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_異形特効" Rate="0.1" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_威力" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_必殺" Rate="50" MinCount="0" MaxCount="0" Flag="1" Condition="" />
+			<Param Group="" Iid="IID_素材_速さ" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_技" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_守備" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_魔防" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_回避" Rate="50" MinCount="0" MaxCount="0" Flag="1" Condition="" />
+			<Param Group="" Iid="IID_素材_命中" Rate="50" MinCount="0" MaxCount="0" Flag="1" Condition="" />
+			<Param Group="" Iid="IID_素材_必避" Rate="50" MinCount="0" MaxCount="0" Flag="1" Condition="" />
+			<Param Group="" Iid="IID_素材_威力" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_必殺" Rate="50" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_速さ" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_技" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_守備" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_魔防" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_回避" Rate="50" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_命中" Rate="50" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_必避" Rate="50" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="N006メイン" Iid="" Rate="" MinCount="" MaxCount="" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_竜特効" Rate="0.2" MinCount="3" MaxCount="100" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_騎馬特効" Rate="0.2" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_重装特効" Rate="0.2" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_飛行特効" Rate="0.2" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_異形特効" Rate="0.2" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_威力" Rate="50" MinCount="0" MaxCount="0" Flag="1" Condition="" />
+			<Param Group="" Iid="IID_素材_必殺" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_速さ" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_技" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_守備" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_魔防" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_回避" Rate="50" MinCount="0" MaxCount="0" Flag="1" Condition="" />
+			<Param Group="" Iid="IID_素材_命中" Rate="50" MinCount="0" MaxCount="0" Flag="1" Condition="" />
+			<Param Group="" Iid="IID_素材_必避" Rate="50" MinCount="0" MaxCount="0" Flag="1" Condition="" />
+			<Param Group="" Iid="IID_素材_威力" Rate="50" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_必殺" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_速さ" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_技" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_守備" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_魔防" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_回避" Rate="50" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_命中" Rate="50" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_素材_必避" Rate="50" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="共通サブ" Iid="" Rate="" MinCount="" MaxCount="" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_マスタープルフ" Rate="10" MinCount="10" MaxCount="15" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_チェンジプルフ" Rate="10" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_天使の衣" Rate="0.1" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_力のしずく" Rate="0.1" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_精霊の粉" Rate="0.1" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_秘伝の書" Rate="0.1" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_はやての羽" Rate="0.1" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_女神の像" Rate="0.1" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_竜の盾" Rate="0.1" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_魔よけ" Rate="0.1" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_HPの薬" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_力の薬" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_技の薬" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_速さの薬" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_幸運の薬" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_守備の薬" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_魔力の薬" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_魔防の薬" Rate="25" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_はがねの晶石" Rate="60" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_幻の野菜" Rate="15" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_幻の果物" Rate="15" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_幻の魚" Rate="15" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_牛肉" Rate="15" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_豚肉" Rate="15" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_鶏肉" Rate="15" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_羊肉" Rate="15" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_タマネギ" Rate="15" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_キャベツ" Rate="15" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_ハーブ" Rate="15" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_トマト" Rate="15" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_芋" Rate="15" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_小麦" Rate="15" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_リンゴ" Rate="15" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_オレンジ" Rate="15" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_モモ" Rate="15" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_ブドウ" Rate="15" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_ベリー" Rate="15" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_木の実" Rate="15" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_ニシン" Rate="15" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_コイ" Rate="15" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_サケ" Rate="15" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_タラ" Rate="15" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_ウナギ" Rate="15" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_イワシ" Rate="15" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_すり身" Rate="15" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_干物" Rate="15" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_刺身" Rate="15" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_ミルク" Rate="15" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_タマゴ" Rate="15" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_米" Rate="15" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_豆" Rate="15" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_スパイス" Rate="15" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_摘みたての茶葉" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_硬い干し肉" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_厳選ヨーグルト" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_こだわりの焼き芋" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_鍛錬用の重り石" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_塗る筋肉増強剤" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_動物用のマタタビ" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_よく切れる彫刻刀" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_不思議な童話絵本" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_世界各国の詩集" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_難しい哲学書" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_神竜聖書" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_エレオスの歴史書" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_強い香りの香水" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_虫取り網" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_日よけ帽子" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_キクの花" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_レンズマメの花" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_ユリの花" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_コマツナの花" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_ルピナスの花" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_シロツメクサ" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_角笛" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_手作りの花輪" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_可愛いエプロン" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_釣り用の餌" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_多機能ナイフ" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_木彫りのクマ" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_裁縫セット" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_ヤギの毛糸玉" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_上質なハンカチ" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_高級な羽根ペン" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_装飾入りの短剣" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_シカ角の耳飾り" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_卓上遊び用絵札" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_激辛調味料" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_風景の絵葉書" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_美しい蝋燭" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_生き物図鑑" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_怪しいお札" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_大きなお皿" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_包帯" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_綺麗な石ころ" Rate="30" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_守り神の宝石" Rate="5" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_馬糞" Rate="10" MinCount="0" MaxCount="0" Flag="0" Condition="" />
+			<Param Group="" Iid="IID_スキルの書・守" Rate="60" MinCount="0" MaxCount="0" Flag="0" Condition="G_Cleared_M026" />
+			<Param Group="" Iid="IID_スキルの書・守" Rate="60" MinCount="0" MaxCount="0" Flag="0" Condition="G_Cleared_M026" />
+			<Param Group="" Iid="IID_スキルの書・守" Rate="60" MinCount="0" MaxCount="0" Flag="0" Condition="G_Cleared_M026" />
+			<Param Group="" Iid="IID_スキルの書・守" Rate="60" MinCount="0" MaxCount="0" Flag="0" Condition="G_Cleared_M026" />
+			<Param Group="" Iid="IID_スキルの書・守" Rate="60" MinCount="0" MaxCount="0" Flag="0" Condition="G_Cleared_M026" />
+			<Param Group="" Iid="IID_スキルの書・破" Rate="100" MinCount="0" MaxCount="0" Flag="0" Condition="G_Cleared_M026" />
+			<Param Group="" Iid="IID_スキルの書・破" Rate="40" MinCount="0" MaxCount="0" Flag="0" Condition="G_Cleared_M026" />
+			<Param Group="" Iid="IID_スキルの書・破" Rate="40" MinCount="0" MaxCount="0" Flag="0" Condition="G_Cleared_M026" />
+			<Param Group="" Iid="IID_スキルの書・離" Rate="20" MinCount="0" MaxCount="0" Flag="0" Condition="G_Cleared_M026" />
+			<Param Group="" Iid="IID_スキルの書・離" Rate="20" MinCount="0" MaxCount="0" Flag="0" Condition="G_Cleared_M026" />
+		</Data>
+	</Sheet>
+	<Sheet Name="賞" Count="25">
+		<Header>
+			<Param Name="出力先" Ident="Out" Type="PublicFile" Min="" Max="" Chg="" />
+			<Param Name="賞" Ident="Raid" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="名前" Ident="Name" Type="string" Min="" Max="" Chg="" />
+			<Param Name="結果" Ident="ResultText" Type="string" Min="" Max="" Chg="" />
+			<Param Name="賞品" Ident="Awards" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="フラグ" Ident="Flag" Type="flag" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Out="" Raid="RAID_撃破数" Name="MID_RELAY_Award_Kill" ResultText="MID_RELAY_Award_Count_Kill" Awards="IID_力のしずく;" Flag="17" />
+			<Param Out="" Raid="RAID_被ダメージ" Name="MID_RELAY_Award_Damage" ResultText="MID_RELAY_Award_Count_Damage" Awards="IID_天使の衣;" Flag="1" />
+			<Param Out="" Raid="RAID_与回復回数" Name="MID_RELAY_Award_Recovered" ResultText="MID_RELAY_Award_Count_Recovered" Awards="IID_ライブ;" Flag="1" />
+			<Param Out="" Raid="RAID_与ブレイク回数" Name="MID_RELAY_Award_Break" ResultText="MID_RELAY_Award_Count_Break" Awards="IID_守り神の宝石;" Flag="1" />
+			<Param Out="" Raid="RAID_エンゲージ回数" Name="MID_RELAY_Award_Engage" ResultText="MID_RELAY_Award_Count_Engage" Awards="IID_マスタープルフ;" Flag="1" />
+			<Param Out="" Raid="RAID_アイテム使用回数" Name="MID_RELAY_Award_Item" ResultText="MID_RELAY_Award_Count_Item" Awards="IID_コラプス;" Flag="0" />
+			<Param Out="" Raid="RAID_与毒回数" Name="MID_RELAY_Award_Poison" ResultText="MID_RELAY_Award_Count_Poison" Awards="IID_毒消し;" Flag="0" />
+			<Param Out="" Raid="RAID_移動マス数" Name="MID_RELAY_Award_LongWalk" ResultText="MID_RELAY_Award_Count_LongWalk" Awards="IID_はやての羽;" Flag="0" />
+			<Param Out="" Raid="RAID_与スキル回数" Name="MID_RELAY_Award_Skill" ResultText="MID_RELAY_Award_Count_Skill" Awards="IID_アイスロック;" Flag="0" />
+			<Param Out="" Raid="RAID_被ダメージ０" Name="MID_RELAY_Award_NoDamage" ResultText="MID_RELAY_Award_Invisible" Awards="IID_竜の盾;" Flag="0" />
+			<Param Out="" Raid="RAID_必殺回数" Name="MID_RELAY_Award_Critical" ResultText="MID_RELAY_Award_Count_Critical" Awards="IID_秘伝の書;" Flag="0" />
+			<Param Out="" Raid="RAID_特効回数" Name="MID_RELAY_Award_SpecialAttack" ResultText="MID_RELAY_Award_Count_SpecialAttack" Awards="IID_特効薬;" Flag="0" />
+			<Param Out="" Raid="RAID_エンゲージ技回数" Name="MID_RELAY_Award_EngageAttack" ResultText="MID_RELAY_Award_Count_EngageAttack" Awards="IID_チェンジプルフ;" Flag="0" />
+			<Param Out="" Raid="RAID_チェインガード回数" Name="MID_RELAY_Award_ChainGuard" ResultText="MID_RELAY_Award_Count_ChainGuard" Awards="IID_女神の像;" Flag="0" />
+			<Param Out="" Raid="RAID_スマッシュ回数" Name="MID_RELAY_Award_Smash" ResultText="MID_RELAY_Award_Count_Smash" Awards="IID_聖水;" Flag="0" />
+			<Param Out="" Raid="RAID_隣接攻撃回数" Name="MID_RELAY_Award_Adjacent" ResultText="MID_RELAY_Award_Count_Adjacent" Awards="IID_魔よけ;" Flag="8" />
+			<Param Out="" Raid="RAID_間接攻撃回数" Name="MID_RELAY_Award_Indirect" ResultText="MID_RELAY_Award_Count_Indirect" Awards="IID_精霊の粉;" Flag="8" />
+			<Param Out="" Raid="RAID_攻撃回数" Name="MID_RELAY_Award_NoKill" ResultText="MID_RELAY_Award_Count_NoKill" Awards="IID_マスタープルフ;" Flag="0" />
+			<Param Out="" Raid="RAID_チェインアタック回数" Name="MID_RELAY_Award_ChainAttack" ResultText="MID_RELAY_Award_Count_ChainAttack" Awards="IID_綺麗な石ころ;" Flag="0" />
+			<Param Out="" Raid="RAID_総合少" Name="MID_RELAY_Award_Sabotage" ResultText="MID_RELAY_Award_Sabotage_Comment" Awards="IID_力の薬;" Flag="0" />
+			<Param Out="" Raid="RAID_移動マス数少" Name="MID_RELAY_Award_EnergySaving" ResultText="MID_RELAY_Award_MyPace" Awards="IID_技の薬;" Flag="0" />
+			<Param Out="" Raid="RAID_与ダメージ少" Name="MID_RELAY_Award_Peace" ResultText="MID_RELAY_Award_Strike" Awards="IID_速さの薬;" Flag="0" />
+			<Param Out="" Raid="RAID_待機回数" Name="MID_RELAY_Award_Standby" ResultText="MID_RELAY_Award_Count_Standby" Awards="IID_守備の薬;" Flag="0" />
+			<Param Out="" Raid="RAID_被回復回数" Name="MID_RELAY_Award_Protected" ResultText="MID_RELAY_Award_TroubleMaker" Awards="IID_魔力の薬;" Flag="0" />
+			<Param Out="" Raid="RAID_被スキル回数" Name="MID_RELAY_Award_SkillTarget" ResultText="MID_RELAY_Award_Sabotage_Unlucky" Awards="IID_魔防の薬;" Flag="4" />
+		</Data>
+	</Sheet>
+</Book>

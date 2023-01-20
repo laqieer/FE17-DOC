@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Book Count="1">
+	<Sheet Name="デモ定義" Count="13">
+		<Header>
+			<Param Name="ロケータ名" Ident="Locator" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="表示名" Ident="MID" Type="string" Min="" Max="" Chg="" />
+			<Param Name="カメラ名" Ident="CameraName" Type="string" Min="" Max="" Chg="" />
+			<Param Name="チュートリアル" Ident="Tutorial" Type="string" Min="" Max="" Chg="" />
+			<Param Name="条件" Ident="Condition" Type="string" Min="" Max="" Chg="" />
+			<Param Name="時間帯" Ident="Timezone" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="フラグ名" Ident="FlagName" Type="string" Min="" Max="" Chg="" />
+			<Param Name="マニュアルカリング名" Ident="ManualCullingName" Type="string" Min="" Max="" Chg="" />
+			<Param Name="LODBias" Ident="LodBias" Type="float" Min="" Max="" Chg="" />
+			<Param Name="LODクロスフェードアニメの無効化" Ident="IsDisabledLodCrossfadeAnime" Type="bool" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Locator="Demo_Cafe" MID="MID_TUT_HUB_CENTRALLOBBY_OPEN" CameraName="HubCameraDemo01" Tutorial="TUTID_カフェテラス" Condition="M003" Timezone="-1" FlagName="G_拠点_カフェテラス初回" ManualCullingName="HubCulling_Plaza" LodBias="1" IsDisabledLodCrossfadeAnime="false" />
+			<Param Locator="Demo_WeaponAndItem" MID="MID_TUT_HUB_WEAPONSHOP_OPEN" CameraName="HubCameraDemo02" Tutorial="" Condition="M004" Timezone="-1" FlagName="G_拠点_武器道具初回" ManualCullingName="HubCulling_Plaza" LodBias="1" IsDisabledLodCrossfadeAnime="false" />
+			<Param Locator="Demo_Mascot" MID="MID_TUT_HUB_MASCOT_OPEN" CameraName="HubCameraDemo03" Tutorial="" Condition="M004" Timezone="-1" FlagName="G_拠点_謎の祠初回" ManualCullingName="HubCulling_Cave" LodBias="1" IsDisabledLodCrossfadeAnime="true" />
+			<Param Locator="Demo_Muscle" MID="MID_TUT_HUB_MUSCLEEXERCISES_OPEN" CameraName="HubCameraDemo04" Tutorial="" Condition="M004" Timezone="-1" FlagName="G_拠点_筋肉体操初回" ManualCullingName="HubCulling_Hutside_03" LodBias="1" IsDisabledLodCrossfadeAnime="false" />
+			<Param Locator="#Demo_Animal" MID="MID_TUT_HUB_ANIMAL_OPEN" CameraName="HubCameraDemo05" Tutorial="" Condition="M005" Timezone="-1" FlagName="G_拠点_動物小屋初回" ManualCullingName="" LodBias="0" IsDisabledLodCrossfadeAnime="false" />
+			<Param Locator="Demo_amiibo" MID="MID_TUT_HUB_AMIIBO_OPEN" CameraName="HubCameraDemo06" Tutorial="" Condition="M005" Timezone="-1" FlagName="G_拠点_アミーボ初回" ManualCullingName="" LodBias="1" IsDisabledLodCrossfadeAnime="false" />
+			<Param Locator="Demo_RefinementAndAccessory" MID="MID_TUT_HUB_DRILLINGSHOP_OPEN" CameraName="HubCameraDemo07" Tutorial="" Condition="M005" Timezone="-1" FlagName="G_拠点_錬成アクセ初回" ManualCullingName="HubCulling_Plaza" LodBias="1" IsDisabledLodCrossfadeAnime="false" />
+			<Param Locator="Demo_Fishing" MID="MID_TUT_HUB_FISHING_OPEN" CameraName="HubCameraDemo08" Tutorial="" Condition="M008" Timezone="-1" FlagName="G_拠点_釣り初回" ManualCullingName="HubCulling_Tentside" LodBias="1" IsDisabledLodCrossfadeAnime="false" />
+			<Param Locator="Demo_DragonRide" MID="MID_TUT_HUB_DRAGONRIDE_OPEN" CameraName="HubCameraDemo09" Tutorial="" Condition="CanDragonRideWithLocator" Timezone="-1" FlagName="G_拠点_ドラゴンライド初回" ManualCullingName="HubCulling_Statue" LodBias="1" IsDisabledLodCrossfadeAnime="false" />
+			<Param Locator="Demo_FleaMarket" MID="MID_TUT_HUB_FLEAMARKET_OPEN" CameraName="HubCameraDemo10" Tutorial="" Condition="M013" Timezone="-1" FlagName="G_拠点_蚤の市初回" ManualCullingName="" LodBias="1" IsDisabledLodCrossfadeAnime="false" />
+			<Param Locator="Demo_Fortune" MID="MID_TUT_HUB_FORTUNE_OPEN" CameraName="HubCameraDemo11" Tutorial="TUTID_占いの小屋" Condition="M015" Timezone="-1" FlagName="G_拠点_占い初回" ManualCullingName="" LodBias="1" IsDisabledLodCrossfadeAnime="false" />
+			<Param Locator="Demo_Caperidge" MID="MID_TUT_HUB_CAPERIDGE_OPEN" CameraName="HubCameraDemo12" Tutorial="TUTID_試練の離れ" Condition="M006" Timezone="-1" FlagName="G_拠点_試練離れ初回" ManualCullingName="" LodBias="1" IsDisabledLodCrossfadeAnime="true" />
+			<Param Locator="Demo_Photo" MID="MID_TUT_HUB_PROFILE_OPEN" CameraName="HubCameraDemo13" Tutorial="TUTID_活動記録の館" Condition="M006" Timezone="-1" FlagName="G_拠点_活動記録の館初回" ManualCullingName="" LodBias="1" IsDisabledLodCrossfadeAnime="false" />
+		</Data>
+	</Sheet>
+</Book>

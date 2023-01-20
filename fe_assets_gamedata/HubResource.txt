@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Book Count="1">
+	<Sheet Name="リソース" Count="26">
+		<Header>
+			<Param Name="リソース名" Ident="Name" Type="PublicString" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Name="Hub/Prefabs/HubEffect" />
+			<Param Name="UI/Hub/AccessHelp/Prefabs/AccessHelp" />
+			<Param Name="UI/Hub/AccessHelp/Prefabs/AccessPointIcon" />
+			<Param Name="UI/Hub/AccessHelp/Prefabs/AccessPointCursor" />
+			<Param Name="Effects/Field/Hub/Hub_Common/Prefabs/Eff_DropItem_00" />
+			<Param Name="Effects/Field/Result/Prefabs/AreaWall_00" />
+			<Param Name="Effects/Field/Flare/Prefabs/Eff_SunFlare" />
+			<Param Name="Effects/Field/Hub/Hub_GodRoom/Prefabs/Eff_Hologram_On" />
+			<Param Name="Effects/Hub/Prefabs/Eff_Well_Item_00" />
+			<Param Name="Effects/Hub/Prefabs/Eff_Well_Item_01" />
+			<Param Name="Effects/Hub/Prefabs/Eff_Well_Item_02" />
+			<Param Name="Effects/Hub/Prefabs/Eff_Well_Item_03" />
+			<Param Name="Effects/Hub/Prefabs/Eff_Well_Item_04" />
+			<Param Name="Effects/Hub/Prefabs/Eff_Well_Item_05" />
+			<Param Name="Item/Acc/uAcc/Event/FishingRod/Prefabs/uAcc_Event_FishingRod" />
+			<Param Name="Item/Acc/uAcc/Event/Brush/Prefabs/uAcc_Event_Brush" />
+			<Param Name="Item/Acc/uAcc/Event/Guitar/Prefabs/uAcc_Event_Guitar" />
+			<Param Name="Item/Acc/uAcc/Event/WateringCan/Prefabs/uAcc_Event_WateringCan" />
+			<Param Name="Item/Acc/uAcc/Event/WateringCanB/Prefabs/uAcc_Event_WateringCanB" />
+			<Param Name="Item/Acc/uAcc/Event/Basket/Prefabs/uAcc_Event_Basket" />
+			<Param Name="Item/Acc/uAcc/Event/Fruits1/Prefabs/uAcc_Event_Fruits1" />
+			<Param Name="Item/Acc/uAcc/Event/FishingRod2/Prefabs/uAcc_Event_FishingRod2" />
+			<Param Name="Item/Acc/uAcc/Event/FishingRod3/Prefabs/uAcc_Event_FishingRod3" />
+			<Param Name="Item/Acc/uAcc/Event/FishingLure1/Prefabs/uAcc_Event_FishingLure1" />
+			<Param Name="Item/Acc/uAcc/Event/FishingLure2/Prefabs/uAcc_Event_FishingLure2" />
+			<Param Name="Item/Acc/uAcc/Event/FishingLure3/Prefabs/uAcc_Event_FishingLure3" />
+		</Data>
+	</Sheet>
+</Book>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Book Count="1">
+	<Sheet Name="振動" Count="16">
+		<Header>
+			<Param Name="出力先" Ident="Out" Type="PublicFile" Min="" Max="" Chg="" />
+			<Param Name="Wwiseイベント名" Ident="EventName" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="振動ファイル名" Ident="VibrationFileName" Type="string" Min="" Max="" Chg="" />
+			<Param Name="強さ(0.0～1.0)" Ident="AmplitudeMagnitude" Type="f32" Min="0" Max="1" Chg="0.01" />
+		</Header>
+		<Data>
+			<Param Out="" EventName="CombatIn_Normal" VibrationFileName="VIB_CombatIn_Normal" AmplitudeMagnitude="0" />
+			<Param Out="" EventName="DecideBig" VibrationFileName="VIB_DecideBig" AmplitudeMagnitude="0" />
+			<Param Out="" EventName="Decide" VibrationFileName="VIB_Decide" AmplitudeMagnitude="0" />
+			<Param Out="" EventName="Order" VibrationFileName="VIB_DecideBig" AmplitudeMagnitude="0" />
+			<Param Out="" EventName="MenuUnitOpen" VibrationFileName="VIB_Decide" AmplitudeMagnitude="0" />
+			<Param Out="" EventName="MenuOpen" VibrationFileName="VIB_Decide" AmplitudeMagnitude="0" />
+			<Param Out="" EventName="MenuClose" VibrationFileName="VIB_Decide" AmplitudeMagnitude="0" />
+			<Param Out="" EventName="UnitTouch" VibrationFileName="VIB_Decide" AmplitudeMagnitude="0" />
+			<Param Out="" EventName="UnitRelease" VibrationFileName="VIB_Decide" AmplitudeMagnitude="0" />
+			<Param Out="" EventName="WeaponOn" VibrationFileName="VIB_Decide" AmplitudeMagnitude="0" />
+			<Param Out="" EventName="WeaponOff" VibrationFileName="VIB_Decide" AmplitudeMagnitude="0" />
+			<Param Out="" EventName="WeaponAway" VibrationFileName="VIB_Decide" AmplitudeMagnitude="0" />
+			<Param Out="" EventName="Cancel" VibrationFileName="VIB_Decide" AmplitudeMagnitude="0" />
+			<Param Out="" EventName="ChangeTransport" VibrationFileName="VIB_Decide" AmplitudeMagnitude="0" />
+			<Param Out="" EventName="ChangeWeapon" VibrationFileName="VIB_Decide" AmplitudeMagnitude="0" />
+			<Param Out="" EventName="Battle_In_OnMap" VibrationFileName="VIB_DecideBig" AmplitudeMagnitude="0" />
+		</Data>
+	</Sheet>
+</Book>

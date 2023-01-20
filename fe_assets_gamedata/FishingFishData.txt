@@ -1,0 +1,389 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Book Count="6">
+	<Sheet Name="さかな情報" Count="20">
+		<Header>
+			<Param Name="識別子" Ident="ID" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="名前" Ident="FishName" Type="string" Min="" Max="" Chg="" />
+			<Param Name="体格" Ident="LargeType" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="魚影設定" Ident="ShadowSize" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="レーダー上の魚影サイズ倍率" Ident="RadarSizeMult" Type="float" Min="" Max="" Chg="" />
+			<Param Name="報酬アイテム" Ident="FoodType" Type="string" Min="" Max="" Chg="" />
+			<Param Name="絆のかけら" Ident="PieceCount" Type="int" Min="" Max="" Chg="" />
+			<Param Name="暴れ移行時間(Sec)" Ident="CounterTime" Type="float" Min="" Max="" Chg="" />
+			<Param Name="暴れ急変時間(Sec)" Ident="TurnCounterTime" Type="float" Min="" Max="" Chg="" />
+			<Param Name="暴れ　最低変動角度" Ident="TurnAngleMin" Type="float" Min="" Max="" Chg="" />
+			<Param Name="暴れ　最高変動角度" Ident="TurnAngleMax" Type="float" Min="" Max="" Chg="" />
+			<Param Name="移動速度(Length/Sec)" Ident="EscapeSpeed" Type="float" Min="" Max="" Chg="" />
+			<Param Name="暴れ移動速度(強)" Ident="CounterSpeedH" Type="float" Min="" Max="" Chg="" />
+			<Param Name="暴れ移動速度(中)" Ident="CounterSpeedM" Type="float" Min="" Max="" Chg="" />
+			<Param Name="暴れ移動速度(弱)" Ident="CounterSpeedL" Type="float" Min="" Max="" Chg="" />
+			<Param Name="食いつき時間(秒)" Ident="CatchTime" Type="float" Min="" Max="" Chg="" />
+			<Param Name="食いつき時間ランダム加算(秒)" Ident="CatchTimeRandomAdd" Type="float" Min="" Max="" Chg="" />
+			<Param Name="逃げる時間(秒)" Ident="EscapeTime" Type="float" Min="" Max="" Chg="" />
+			<Param Name="体力" Ident="HP" Type="float" Min="" Max="" Chg="" />
+			<Param Name="とどめHP" Ident="LethalHP" Type="float" Min="" Max="" Chg="" />
+			<Param Name="自然回復(HP/Sec)" Ident="RegenaratePerSec" Type="float" Min="" Max="" Chg="" />
+			<Param Name="基本サイズ" Ident="BaseSize" Type="float" Min="" Max="" Chg="" />
+			<Param Name="魚名ラベル" Ident="NameLabel" Type="string" Min="" Max="" Chg="" />
+			<Param Name="説明メッセージラベル" Ident="MessageLabel" Type="string" Min="" Max="" Chg="" />
+			<Param Name="朝" Ident="TimeFlagMorning" Type="bool" Min="" Max="" Chg="" />
+			<Param Name="昼" Ident="TimeFlagDay" Type="bool" Min="" Max="" Chg="" />
+			<Param Name="夜" Ident="TimeFlagNight" Type="bool" Min="" Max="" Chg="" />
+			<Param Name="釣れやすい竿設定" Ident="BestRodType" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="魚拓テクスチャID" Ident="TextureID" Type="string" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param ID="ID_イッカクイワナ" FishName="イッカクイワナ" LargeType="0" ShadowSize="0" RadarSizeMult="0.95" FoodType="IID_すり身" PieceCount="20" CounterTime="1.5" TurnCounterTime="1.2" TurnAngleMin="35" TurnAngleMax="52" EscapeSpeed="55" CounterSpeedH="24" CounterSpeedM="-9" CounterSpeedL="-40" CatchTime="2.3" CatchTimeRandomAdd="1.9" EscapeTime="3.3" HP="110" LethalHP="50" RegenaratePerSec="6" BaseSize="10" NameLabel="MID_Hub_Fishing_UnicornChar" MessageLabel="MID_Hub_H_Fishing_UnicornChar" TimeFlagMorning="false" TimeFlagDay="false" TimeFlagNight="true" BestRodType="0" TextureID="Fish_01" />
+			<Param ID="ID_バンガンニシン" FishName="バンガンニシン" LargeType="0" ShadowSize="0" RadarSizeMult="0.95" FoodType="IID_ニシン" PieceCount="20" CounterTime="2" TurnCounterTime="1.8" TurnAngleMin="15" TurnAngleMax="40" EscapeSpeed="50" CounterSpeedH="18" CounterSpeedM="-6" CounterSpeedL="-24" CatchTime="2.5" CatchTimeRandomAdd="2" EscapeTime="4.2" HP="100" LethalHP="50" RegenaratePerSec="5" BaseSize="10" NameLabel="MID_Hub_Fishing_BanganHerring" MessageLabel="MID_Hub_H_Fishing_BanganHerring" TimeFlagMorning="false" TimeFlagDay="true" TimeFlagNight="false" BestRodType="0" TextureID="Fish_07" />
+			<Param ID="ID_オメメイワシ" FishName="オメメイワシ" LargeType="0" ShadowSize="0" RadarSizeMult="0.95" FoodType="IID_イワシ" PieceCount="10" CounterTime="1.8" TurnCounterTime="1.4" TurnAngleMin="20" TurnAngleMax="50" EscapeSpeed="53" CounterSpeedH="17" CounterSpeedM="-5" CounterSpeedL="-27" CatchTime="2.5" CatchTimeRandomAdd="2" EscapeTime="4.2" HP="120" LethalHP="50" RegenaratePerSec="6" BaseSize="10" NameLabel="MID_Hub_Fishing_OmemeSardine" MessageLabel="MID_Hub_H_Fishing_OmemeSardine" TimeFlagMorning="true" TimeFlagDay="false" TimeFlagNight="false" BestRodType="0" TextureID="Fish_13" />
+			<Param ID="ID_ポンヤマメ" FishName="ポンヤマメ" LargeType="1" ShadowSize="0" RadarSizeMult="1.05" FoodType="IID_すり身" PieceCount="40" CounterTime="1.5" TurnCounterTime="1.1" TurnAngleMin="25" TurnAngleMax="65" EscapeSpeed="56" CounterSpeedH="25" CounterSpeedM="-6" CounterSpeedL="-40" CatchTime="2.3" CatchTimeRandomAdd="1.9" EscapeTime="3.3" HP="130" LethalHP="60" RegenaratePerSec="6" BaseSize="30" NameLabel="MID_Hub_Fishing_PonYamame" MessageLabel="MID_Hub_H_Fishing_PonYamame" TimeFlagMorning="true" TimeFlagDay="false" TimeFlagNight="false" BestRodType="0" TextureID="Fish_02" />
+			<Param ID="ID_テオテスクイッド" FishName="テオテスクイッド" LargeType="1" ShadowSize="0" RadarSizeMult="1.05" FoodType="IID_すり身" PieceCount="50" CounterTime="2" TurnCounterTime="1.6" TurnAngleMin="15" TurnAngleMax="60" EscapeSpeed="47" CounterSpeedH="16" CounterSpeedM="-4" CounterSpeedL="-24" CatchTime="2.5" CatchTimeRandomAdd="2" EscapeTime="4.5" HP="120" LethalHP="50" RegenaratePerSec="5" BaseSize="30" NameLabel="MID_Hub_Fishing_TeoteSquid" MessageLabel="MID_Hub_H_Fishing_TeoteSquid" TimeFlagMorning="false" TimeFlagDay="true" TimeFlagNight="false" BestRodType="1" TextureID="Fish_08" />
+			<Param ID="ID_アビッドクラブ" FishName="アビッドクラブ" LargeType="1" ShadowSize="0" RadarSizeMult="1.05" FoodType="IID_すり身" PieceCount="40" CounterTime="1.8" TurnCounterTime="1.3" TurnAngleMin="40" TurnAngleMax="40" EscapeSpeed="45" CounterSpeedH="12" CounterSpeedM="-3" CounterSpeedL="-17" CatchTime="2.5" CatchTimeRandomAdd="2" EscapeTime="4.5" HP="140" LethalHP="50" RegenaratePerSec="6" BaseSize="30" NameLabel="MID_Hub_Fishing_AvidCrab" MessageLabel="MID_Hub_H_Fishing_AvidCrab" TimeFlagMorning="true" TimeFlagDay="false" TimeFlagNight="false" BestRodType="0" TextureID="Fish_14" />
+			<Param ID="ID_ヘルルコイ" FishName="ヘルルコイ" LargeType="2" ShadowSize="1" RadarSizeMult="1.2" FoodType="IID_コイ" PieceCount="70" CounterTime="1.6" TurnCounterTime="1" TurnAngleMin="39" TurnAngleMax="56" EscapeSpeed="58" CounterSpeedH="36" CounterSpeedM="-2" CounterSpeedL="-40" CatchTime="2.3" CatchTimeRandomAdd="1.9" EscapeTime="2.7" HP="130" LethalHP="65" RegenaratePerSec="6" BaseSize="50" NameLabel="MID_Hub_Fishing_HellKoi" MessageLabel="MID_Hub_H_Fishing_HellKoi" TimeFlagMorning="false" TimeFlagDay="true" TimeFlagNight="false" BestRodType="0" TextureID="Fish_03" />
+			<Param ID="ID_ブロスウナギ" FishName="ブロスウナギ" LargeType="2" ShadowSize="1" RadarSizeMult="1.2" FoodType="IID_ウナギ" PieceCount="60" CounterTime="1.8" TurnCounterTime="1.3" TurnAngleMin="20" TurnAngleMax="45" EscapeSpeed="56" CounterSpeedH="24" CounterSpeedM="-2" CounterSpeedL="-23" CatchTime="2.5" CatchTimeRandomAdd="2" EscapeTime="2.7" HP="150" LethalHP="65" RegenaratePerSec="6" BaseSize="50" NameLabel="MID_Hub_Fishing_BlosEel" MessageLabel="MID_Hub_H_Fishing_BlosEel" TimeFlagMorning="false" TimeFlagDay="false" TimeFlagNight="true" BestRodType="0" TextureID="Fish_09" />
+			<Param ID="ID_ムノンテイルアジ" FishName="ムノンテイルアジ" LargeType="2" ShadowSize="1" RadarSizeMult="1.2" FoodType="IID_干物" PieceCount="60" CounterTime="1.8" TurnCounterTime="1.2" TurnAngleMin="30" TurnAngleMax="55" EscapeSpeed="60" CounterSpeedH="27" CounterSpeedM="-3" CounterSpeedL="-24" CatchTime="2.5" CatchTimeRandomAdd="2" EscapeTime="2.7" HP="180" LethalHP="65" RegenaratePerSec="8" BaseSize="50" NameLabel="MID_Hub_Fishing_MunonTailHorseMackerel" MessageLabel="MID_Hub_H_Fishing_MunonTailHorseMackerel" TimeFlagMorning="false" TimeFlagDay="true" TimeFlagNight="false" BestRodType="1" TextureID="Fish_15" />
+			<Param ID="ID_ラバナトロウト" FishName="ラバナトロウト" LargeType="3" ShadowSize="1" RadarSizeMult="1.3" FoodType="IID_干物" PieceCount="80" CounterTime="1.7" TurnCounterTime="1" TurnAngleMin="41" TurnAngleMax="58" EscapeSpeed="58" CounterSpeedH="43" CounterSpeedM="25" CounterSpeedL="-35" CatchTime="2.3" CatchTimeRandomAdd="1.9" EscapeTime="2.7" HP="220" LethalHP="70" RegenaratePerSec="10" BaseSize="70" NameLabel="MID_Hub_Fishing_RavanaTrout" MessageLabel="MID_Hub_H_Fishing_RavanaTrout" TimeFlagMorning="true" TimeFlagDay="false" TimeFlagNight="false" BestRodType="1" TextureID="Fish_04" />
+			<Param ID="ID_ロガーオクトパス" FishName="ロガーオクトパス" LargeType="3" ShadowSize="1" RadarSizeMult="1.3" FoodType="IID_すり身" PieceCount="80" CounterTime="2.3" TurnCounterTime="1.3" TurnAngleMin="20" TurnAngleMax="45" EscapeSpeed="56" CounterSpeedH="29" CounterSpeedM="15" CounterSpeedL="-21" CatchTime="2.5" CatchTimeRandomAdd="2" EscapeTime="2.7" HP="250" LethalHP="70" RegenaratePerSec="6" BaseSize="70" NameLabel="MID_Hub_Fishing_LogerOctopus" MessageLabel="MID_Hub_H_Fishing_LogerOctopus" TimeFlagMorning="false" TimeFlagDay="false" TimeFlagNight="true" BestRodType="1" TextureID="Fish_10" />
+			<Param ID="ID_ドスマレイ" FishName="ドスマレイ" LargeType="3" ShadowSize="1" RadarSizeMult="1.3" FoodType="IID_干物" PieceCount="100" CounterTime="2.4" TurnCounterTime="1.2" TurnAngleMin="35" TurnAngleMax="60" EscapeSpeed="63" CounterSpeedH="34" CounterSpeedM="17" CounterSpeedL="-22" CatchTime="2.5" CatchTimeRandomAdd="2" EscapeTime="2.7" HP="250" LethalHP="70" RegenaratePerSec="8" BaseSize="70" NameLabel="MID_Hub_Fishing_DosmaRay" MessageLabel="MID_Hub_H_Fishing_DosmaRay" TimeFlagMorning="true" TimeFlagDay="false" TimeFlagNight="false" BestRodType="2" TextureID="Fish_16" />
+			<Param ID="ID_レインボートロウト" FishName="レインボートロウト" LargeType="3" ShadowSize="1" RadarSizeMult="1.3" FoodType="IID_幻の魚" PieceCount="500" CounterTime="1.5" TurnCounterTime="0.9" TurnAngleMin="30" TurnAngleMax="70" EscapeSpeed="90" CounterSpeedH="55" CounterSpeedM="39" CounterSpeedL="-35" CatchTime="2.3" CatchTimeRandomAdd="1.9" EscapeTime="1.8" HP="240" LethalHP="90" RegenaratePerSec="15" BaseSize="70" NameLabel="MID_Hub_Fishing_RainbowTrout" MessageLabel="MID_Hub_H_Fishing_RainbowTrout" TimeFlagMorning="true" TimeFlagDay="false" TimeFlagNight="false" BestRodType="1" TextureID="Fish_04a" />
+			<Param ID="ID_スリットヒレサケ" FishName="スリットヒレサケ" LargeType="4" ShadowSize="2" RadarSizeMult="1.4" FoodType="IID_サケ" PieceCount="150" CounterTime="1.7" TurnCounterTime="0.8" TurnAngleMin="52" TurnAngleMax="60" EscapeSpeed="84" CounterSpeedH="44" CounterSpeedM="26" CounterSpeedL="-35" CatchTime="2.3" CatchTimeRandomAdd="1.9" EscapeTime="2.1" HP="270" LethalHP="80" RegenaratePerSec="10" BaseSize="90" NameLabel="MID_Hub_Fishing_SlitFinSalmon" MessageLabel="MID_Hub_H_Fishing_SlitFinSalmon" TimeFlagMorning="false" TimeFlagDay="false" TimeFlagNight="true" BestRodType="1" TextureID="Fish_05" />
+			<Param ID="ID_ヘッジヒゲナマズ" FishName="ヘッジヒゲナマズ" LargeType="4" ShadowSize="2" RadarSizeMult="1.4" FoodType="IID_干物" PieceCount="150" CounterTime="2.4" TurnCounterTime="1.2" TurnAngleMin="30" TurnAngleMax="50" EscapeSpeed="68" CounterSpeedH="33" CounterSpeedM="18" CounterSpeedL="-20" CatchTime="2.5" CatchTimeRandomAdd="2" EscapeTime="3" HP="320" LethalHP="80" RegenaratePerSec="6" BaseSize="90" NameLabel="MID_Hub_Fishing_HegeBeardCatfish" MessageLabel="MID_Hub_H_Fishing_HegeBeardCatfish" TimeFlagMorning="false" TimeFlagDay="false" TimeFlagNight="true" BestRodType="2" TextureID="Fish_11" />
+			<Param ID="ID_オニキバカタラ" FishName="オニキバカタラ" LargeType="4" ShadowSize="2" RadarSizeMult="1.4" FoodType="IID_タラ" PieceCount="180" CounterTime="2.4" TurnCounterTime="1.1" TurnAngleMin="35" TurnAngleMax="65" EscapeSpeed="80" CounterSpeedH="40" CounterSpeedM="25" CounterSpeedL="-22" CatchTime="2.5" CatchTimeRandomAdd="2" EscapeTime="3" HP="300" LethalHP="80" RegenaratePerSec="8" BaseSize="90" NameLabel="MID_Hub_Fishing_DemonFangCod" MessageLabel="MID_Hub_H_Fishing_DemonFangCod" TimeFlagMorning="true" TimeFlagDay="false" TimeFlagNight="false" BestRodType="2" TextureID="Fish_17" />
+			<Param ID="ID_マンドコブバス" FishName="マンドコブバス" LargeType="5" ShadowSize="2" RadarSizeMult="1.5" FoodType="IID_刺身" PieceCount="250" CounterTime="1.6" TurnCounterTime="0.9" TurnAngleMin="54" TurnAngleMax="62" EscapeSpeed="86" CounterSpeedH="52" CounterSpeedM="36" CounterSpeedL="-35" CatchTime="2.3" CatchTimeRandomAdd="1.9" EscapeTime="2.1" HP="220" LethalHP="90" RegenaratePerSec="12" BaseSize="110" NameLabel="MID_Hub_Fishing_MandCobbBass" MessageLabel="MID_Hub_H_Fishing_MandCobbBass" TimeFlagMorning="false" TimeFlagDay="true" TimeFlagNight="false" BestRodType="2" TextureID="Fish_06" />
+			<Param ID="ID_サリアイヌウツボ" FishName="サリアイヌウツボ" LargeType="5" ShadowSize="2" RadarSizeMult="1.5" FoodType="IID_刺身" PieceCount="300" CounterTime="2.5" TurnCounterTime="1.2" TurnAngleMin="30" TurnAngleMax="50" EscapeSpeed="68" CounterSpeedH="42" CounterSpeedM="29" CounterSpeedL="-20" CatchTime="2.5" CatchTimeRandomAdd="2" EscapeTime="3" HP="400" LethalHP="100" RegenaratePerSec="6" BaseSize="150" NameLabel="MID_Hub_Fishing_SarriaDogMorayEel" MessageLabel="MID_Hub_H_Fishing_SarriaDogMorayEel" TimeFlagMorning="false" TimeFlagDay="false" TimeFlagNight="true" BestRodType="2" TextureID="Fish_12" />
+			<Param ID="ID_テフラカツオ" FishName="テフラカツオ" LargeType="5" ShadowSize="2" RadarSizeMult="1.6" FoodType="IID_刺身" PieceCount="500" CounterTime="3" TurnCounterTime="1.8" TurnAngleMin="40" TurnAngleMax="75" EscapeSpeed="72" CounterSpeedH="48" CounterSpeedM="30" CounterSpeedL="-22" CatchTime="2.5" CatchTimeRandomAdd="2" EscapeTime="3" HP="500" LethalHP="100" RegenaratePerSec="7" BaseSize="150" NameLabel="MID_Hub_Fishing_TephraSkipjack" MessageLabel="MID_Hub_H_Fishing_TephraSkipjack" TimeFlagMorning="false" TimeFlagDay="true" TimeFlagNight="false" BestRodType="2" TextureID="Fish_18" />
+			<Param ID="ID_エンシャントカツオ" FishName="エンシャントカツオ" LargeType="5" ShadowSize="2" RadarSizeMult="1.8" FoodType="IID_幻の魚" PieceCount="1000" CounterTime="3" TurnCounterTime="1.8" TurnAngleMin="45" TurnAngleMax="80" EscapeSpeed="74" CounterSpeedH="52" CounterSpeedM="32" CounterSpeedL="-22" CatchTime="2.5" CatchTimeRandomAdd="2.5" EscapeTime="2.7" HP="800" LethalHP="150" RegenaratePerSec="7" BaseSize="200" NameLabel="MID_Hub_Fishing_EnchantSkipjack" MessageLabel="MID_Hub_H_Fishing_EnchantSkipjack" TimeFlagMorning="false" TimeFlagDay="true" TimeFlagNight="false" BestRodType="2" TextureID="Fish_18a" />
+		</Data>
+	</Sheet>
+	<Sheet Name="サイズ情報" Count="6">
+		<Header>
+			<Param Name="識別子" Ident="ID" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="名前" Ident="SizeName" Type="string" Min="" Max="" Chg="" />
+			<Param Name="最小" Ident="SizeMinimum" Type="float" Min="" Max="" Chg="" />
+			<Param Name="最大" Ident="SizeMaximum" Type="float" Min="" Max="" Chg="" />
+			<Param Name="補正最小" Ident="BonusMinimum" Type="float" Min="" Max="" Chg="" />
+			<Param Name="補正最大" Ident="BonusMaximum" Type="float" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param ID="ID_Tiny" SizeName="タイニー" SizeMinimum="10" SizeMaximum="15" BonusMinimum="6" BonusMaximum="10" />
+			<Param ID="ID_Small" SizeName="スモール" SizeMinimum="30" SizeMaximum="45" BonusMinimum="11" BonusMaximum="15" />
+			<Param ID="ID_Middle" SizeName="ミドル" SizeMinimum="50" SizeMaximum="75" BonusMinimum="16" BonusMaximum="20" />
+			<Param ID="ID_Large" SizeName="ラージ" SizeMinimum="70" SizeMaximum="105" BonusMinimum="21" BonusMaximum="25" />
+			<Param ID="ID_Big" SizeName="ビッグ" SizeMinimum="90" SizeMaximum="135" BonusMinimum="26" BonusMaximum="30" />
+			<Param ID="ID_Giant" SizeName="ジャイアント" SizeMinimum="110" SizeMaximum="165" BonusMinimum="31" BonusMaximum="35" />
+		</Data>
+	</Sheet>
+	<Sheet Name="配置情報" Count="219">
+		<Header>
+			<Param Name="識別子" Ident="ID" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="竿の種類" Ident="StickType" Type="string" Min="" Max="" Chg="" />
+			<Param Name="時間帯" Ident="Time" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="位置" Ident="PositionNum" Type="int" Min="" Max="" Chg="" />
+			<Param Name="抽選率" Ident="LotteryParam" Type="int" Min="" Max="" Chg="" />
+			<Param Name="魚ID" Ident="FishID" Type="string" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param ID="ID_FID_01" StickType="a" Time="0" PositionNum="1" LotteryParam="80" FishID="ポンヤマメ" />
+			<Param ID="ID_FID_01a" StickType="a" Time="0" PositionNum="1" LotteryParam="10" FishID="ポンヤマメ" />
+			<Param ID="ID_FID_01b" StickType="a" Time="0" PositionNum="1" LotteryParam="10" FishID="ポンヤマメ" />
+			<Param ID="ID_FID_02c" StickType="a" Time="0" PositionNum="1" LotteryParam="10" FishID="ポンヤマメ" />
+			<Param ID="ID_FID_02d" StickType="a" Time="0" PositionNum="1" LotteryParam="10" FishID="ポンヤマメ" />
+			<Param ID="ID_FID_03e" StickType="a" Time="0" PositionNum="1" LotteryParam="10" FishID="ポンヤマメ" />
+			<Param ID="ID_FID_03f" StickType="a" Time="0" PositionNum="1" LotteryParam="10" FishID="ポンヤマメ" />
+			<Param ID="ID_FID_04g" StickType="a" Time="0" PositionNum="1" LotteryParam="10" FishID="ポンヤマメ" />
+			<Param ID="ID_FID_03" StickType="a" Time="0" PositionNum="1" LotteryParam="80" FishID="ポンヤマメ" />
+			<Param ID="ID_FID_04" StickType="a" Time="0" PositionNum="1" LotteryParam="20" FishID="アビッドクラブ" />
+			<Param ID="ID_FID_05" StickType="a" Time="0" PositionNum="2" LotteryParam="80" FishID="ポンヤマメ" />
+			<Param ID="ID_FID_06" StickType="a" Time="0" PositionNum="2" LotteryParam="20" FishID="アビッドクラブ" />
+			<Param ID="ID_FID_07" StickType="a" Time="0" PositionNum="3" LotteryParam="80" FishID="ポンヤマメ" />
+			<Param ID="ID_FID_08" StickType="a" Time="0" PositionNum="3" LotteryParam="20" FishID="アビッドクラブ" />
+			<Param ID="ID_FID_09" StickType="a" Time="0" PositionNum="4" LotteryParam="80" FishID="ポンヤマメ" />
+			<Param ID="ID_FID_10" StickType="a" Time="0" PositionNum="4" LotteryParam="20" FishID="オメメイワシ" />
+			<Param ID="ID_FID_11" StickType="a" Time="0" PositionNum="5" LotteryParam="80" FishID="ポンヤマメ" />
+			<Param ID="ID_FID_12" StickType="a" Time="0" PositionNum="5" LotteryParam="20" FishID="オメメイワシ" />
+			<Param ID="ID_FID_13" StickType="a" Time="0" PositionNum="6" LotteryParam="80" FishID="アビッドクラブ" />
+			<Param ID="ID_FID_14" StickType="a" Time="0" PositionNum="6" LotteryParam="20" FishID="オメメイワシ" />
+			<Param ID="ID_FID_15" StickType="a" Time="0" PositionNum="7" LotteryParam="80" FishID="オメメイワシ" />
+			<Param ID="ID_FID_16" StickType="a" Time="0" PositionNum="7" LotteryParam="20" FishID="アビッドクラブ" />
+			<Param ID="ID_FID_17" StickType="a" Time="0" PositionNum="8" LotteryParam="80" FishID="オメメイワシ" />
+			<Param ID="ID_FID_18" StickType="a" Time="0" PositionNum="8" LotteryParam="20" FishID="アビッドクラブ" />
+			<Param ID="ID_FID_19" StickType="a" Time="0" PositionNum="9" LotteryParam="80" FishID="オメメイワシ" />
+			<Param ID="ID_FID_20" StickType="a" Time="0" PositionNum="9" LotteryParam="20" FishID="アビッドクラブ" />
+			<Param ID="ID_FID_21" StickType="a" Time="1" PositionNum="1" LotteryParam="80" FishID="ヘルルコイ" />
+			<Param ID="ID_FID_22" StickType="a" Time="1" PositionNum="1" LotteryParam="20" FishID="イッカクイワナ" />
+			<Param ID="ID_FID_23" StickType="a" Time="1" PositionNum="2" LotteryParam="80" FishID="ヘルルコイ" />
+			<Param ID="ID_FID_24" StickType="a" Time="1" PositionNum="2" LotteryParam="20" FishID="イッカクイワナ" />
+			<Param ID="ID_FID_25" StickType="a" Time="1" PositionNum="3" LotteryParam="80" FishID="ヘルルコイ" />
+			<Param ID="ID_FID_26" StickType="a" Time="1" PositionNum="3" LotteryParam="20" FishID="イッカクイワナ" />
+			<Param ID="ID_FID_27" StickType="a" Time="1" PositionNum="4" LotteryParam="80" FishID="バンガンニシン" />
+			<Param ID="ID_FID_28" StickType="a" Time="1" PositionNum="4" LotteryParam="20" FishID="ヘルルコイ" />
+			<Param ID="ID_FID_29" StickType="a" Time="1" PositionNum="5" LotteryParam="80" FishID="バンガンニシン" />
+			<Param ID="ID_FID_30" StickType="a" Time="1" PositionNum="5" LotteryParam="20" FishID="ヘルルコイ" />
+			<Param ID="ID_FID_31" StickType="a" Time="1" PositionNum="6" LotteryParam="80" FishID="バンガンニシン" />
+			<Param ID="ID_FID_32" StickType="a" Time="1" PositionNum="6" LotteryParam="20" FishID="ヘルルコイ" />
+			<Param ID="ID_FID_33" StickType="a" Time="1" PositionNum="7" LotteryParam="80" FishID="バンガンニシン" />
+			<Param ID="ID_FID_34" StickType="a" Time="1" PositionNum="7" LotteryParam="20" FishID="イッカクイワナ" />
+			<Param ID="ID_FID_35" StickType="a" Time="1" PositionNum="8" LotteryParam="80" FishID="バンガンニシン" />
+			<Param ID="ID_FID_36" StickType="a" Time="1" PositionNum="8" LotteryParam="20" FishID="イッカクイワナ" />
+			<Param ID="ID_FID_37" StickType="a" Time="1" PositionNum="9" LotteryParam="80" FishID="バンガンニシン" />
+			<Param ID="ID_FID_38" StickType="a" Time="1" PositionNum="9" LotteryParam="20" FishID="イッカクイワナ" />
+			<Param ID="ID_FID_39" StickType="a" Time="2" PositionNum="1" LotteryParam="80" FishID="ブロスウナギ" />
+			<Param ID="ID_FID_40" StickType="a" Time="2" PositionNum="1" LotteryParam="20" FishID="オメメイワシ" />
+			<Param ID="ID_FID_41" StickType="a" Time="2" PositionNum="2" LotteryParam="80" FishID="ブロスウナギ" />
+			<Param ID="ID_FID_42" StickType="a" Time="2" PositionNum="2" LotteryParam="20" FishID="オメメイワシ" />
+			<Param ID="ID_FID_43" StickType="a" Time="2" PositionNum="3" LotteryParam="80" FishID="イッカクイワナ" />
+			<Param ID="ID_FID_44" StickType="a" Time="2" PositionNum="3" LotteryParam="20" FishID="ブロスウナギ" />
+			<Param ID="ID_FID_45" StickType="a" Time="2" PositionNum="4" LotteryParam="80" FishID="イッカクイワナ" />
+			<Param ID="ID_FID_46" StickType="a" Time="2" PositionNum="4" LotteryParam="20" FishID="ブロスウナギ" />
+			<Param ID="ID_FID_47" StickType="a" Time="2" PositionNum="5" LotteryParam="80" FishID="イッカクイワナ" />
+			<Param ID="ID_FID_48" StickType="a" Time="2" PositionNum="5" LotteryParam="20" FishID="ブロスウナギ" />
+			<Param ID="ID_FID_49" StickType="a" Time="2" PositionNum="6" LotteryParam="80" FishID="オメメイワシ" />
+			<Param ID="ID_FID_50" StickType="a" Time="2" PositionNum="6" LotteryParam="20" FishID="イッカクイワナ" />
+			<Param ID="ID_FID_51" StickType="a" Time="2" PositionNum="7" LotteryParam="80" FishID="イッカクイワナ" />
+			<Param ID="ID_FID_52" StickType="a" Time="2" PositionNum="7" LotteryParam="20" FishID="オメメイワシ" />
+			<Param ID="ID_FID_53" StickType="a" Time="2" PositionNum="8" LotteryParam="80" FishID="イッカクイワナ" />
+			<Param ID="ID_FID_54" StickType="a" Time="2" PositionNum="8" LotteryParam="20" FishID="オメメイワシ" />
+			<Param ID="ID_FID_55" StickType="a" Time="2" PositionNum="9" LotteryParam="80" FishID="イッカクイワナ" />
+			<Param ID="ID_FID_56" StickType="a" Time="2" PositionNum="9" LotteryParam="20" FishID="オメメイワシ" />
+			<Param ID="ID_FID_57" StickType="b" Time="0" PositionNum="1" LotteryParam="60" FishID="ラバナトロウト" />
+			<Param ID="ID_FID_58" StickType="b" Time="0" PositionNum="1" LotteryParam="20" FishID="レインボートロウト" />
+			<Param ID="ID_FID_59" StickType="b" Time="0" PositionNum="1" LotteryParam="20" FishID="アビッドクラブ" />
+			<Param ID="ID_FID_60" StickType="b" Time="0" PositionNum="2" LotteryParam="60" FishID="ラバナトロウト" />
+			<Param ID="ID_FID_61" StickType="b" Time="0" PositionNum="2" LotteryParam="20" FishID="レインボートロウト" />
+			<Param ID="ID_FID_62" StickType="b" Time="0" PositionNum="2" LotteryParam="20" FishID="アビッドクラブ" />
+			<Param ID="ID_FID_63" StickType="b" Time="0" PositionNum="3" LotteryParam="60" FishID="ラバナトロウト" />
+			<Param ID="ID_FID_64" StickType="b" Time="0" PositionNum="3" LotteryParam="20" FishID="レインボートロウト" />
+			<Param ID="ID_FID_65" StickType="b" Time="0" PositionNum="3" LotteryParam="20" FishID="アビッドクラブ" />
+			<Param ID="ID_FID_66" StickType="b" Time="0" PositionNum="4" LotteryParam="60" FishID="ラバナトロウト" />
+			<Param ID="ID_FID_67" StickType="b" Time="0" PositionNum="4" LotteryParam="20" FishID="レインボートロウト" />
+			<Param ID="ID_FID_68" StickType="b" Time="0" PositionNum="4" LotteryParam="20" FishID="アビッドクラブ" />
+			<Param ID="ID_FID_69" StickType="b" Time="0" PositionNum="5" LotteryParam="40" FishID="ラバナトロウト" />
+			<Param ID="ID_FID_70" StickType="b" Time="0" PositionNum="5" LotteryParam="30" FishID="アビッドクラブ" />
+			<Param ID="ID_FID_71" StickType="b" Time="0" PositionNum="5" LotteryParam="30" FishID="ポンヤマメ" />
+			<Param ID="ID_FID_72" StickType="b" Time="0" PositionNum="6" LotteryParam="60" FishID="ポンヤマメ" />
+			<Param ID="ID_FID_73" StickType="b" Time="0" PositionNum="6" LotteryParam="40" FishID="アビッドクラブ" />
+			<Param ID="ID_FID_74" StickType="b" Time="0" PositionNum="7" LotteryParam="60" FishID="ポンヤマメ" />
+			<Param ID="ID_FID_75" StickType="b" Time="0" PositionNum="7" LotteryParam="40" FishID="アビッドクラブ" />
+			<Param ID="ID_FID_76" StickType="b" Time="0" PositionNum="8" LotteryParam="60" FishID="ポンヤマメ" />
+			<Param ID="ID_FID_77" StickType="b" Time="0" PositionNum="8" LotteryParam="40" FishID="アビッドクラブ" />
+			<Param ID="ID_FID_78" StickType="b" Time="0" PositionNum="9" LotteryParam="60" FishID="ポンヤマメ" />
+			<Param ID="ID_FID_79" StickType="b" Time="0" PositionNum="9" LotteryParam="40" FishID="アビッドクラブ" />
+			<Param ID="ID_FID_80" StickType="b" Time="1" PositionNum="1" LotteryParam="60" FishID="ムノンテイルアジ" />
+			<Param ID="ID_FID_81" StickType="b" Time="1" PositionNum="1" LotteryParam="20" FishID="レインボートロウト" />
+			<Param ID="ID_FID_82" StickType="b" Time="1" PositionNum="1" LotteryParam="20" FishID="テオテスクイッド" />
+			<Param ID="ID_FID_83" StickType="b" Time="1" PositionNum="2" LotteryParam="60" FishID="ムノンテイルアジ" />
+			<Param ID="ID_FID_84" StickType="b" Time="1" PositionNum="2" LotteryParam="20" FishID="レインボートロウト" />
+			<Param ID="ID_FID_85" StickType="b" Time="1" PositionNum="2" LotteryParam="20" FishID="テオテスクイッド" />
+			<Param ID="ID_FID_86" StickType="b" Time="1" PositionNum="3" LotteryParam="60" FishID="ムノンテイルアジ" />
+			<Param ID="ID_FID_87" StickType="b" Time="1" PositionNum="3" LotteryParam="20" FishID="テオテスクイッド" />
+			<Param ID="ID_FID_88" StickType="b" Time="1" PositionNum="3" LotteryParam="20" FishID="バンガンニシン" />
+			<Param ID="ID_FID_89" StickType="b" Time="1" PositionNum="4" LotteryParam="60" FishID="ムノンテイルアジ" />
+			<Param ID="ID_FID_90" StickType="b" Time="1" PositionNum="4" LotteryParam="20" FishID="テオテスクイッド" />
+			<Param ID="ID_FID_91" StickType="b" Time="1" PositionNum="4" LotteryParam="20" FishID="バンガンニシン" />
+			<Param ID="ID_FID_92" StickType="b" Time="1" PositionNum="5" LotteryParam="40" FishID="ムノンテイルアジ" />
+			<Param ID="ID_FID_93" StickType="b" Time="1" PositionNum="5" LotteryParam="30" FishID="テオテスクイッド" />
+			<Param ID="ID_FID_94" StickType="b" Time="1" PositionNum="5" LotteryParam="30" FishID="バンガンニシン" />
+			<Param ID="ID_FID_95" StickType="b" Time="1" PositionNum="6" LotteryParam="60" FishID="テオテスクイッド" />
+			<Param ID="ID_FID_96" StickType="b" Time="1" PositionNum="6" LotteryParam="40" FishID="バンガンニシン" />
+			<Param ID="ID_FID_97" StickType="b" Time="1" PositionNum="7" LotteryParam="60" FishID="テオテスクイッド" />
+			<Param ID="ID_FID_98" StickType="b" Time="1" PositionNum="7" LotteryParam="40" FishID="バンガンニシン" />
+			<Param ID="ID_FID_99" StickType="b" Time="1" PositionNum="8" LotteryParam="60" FishID="テオテスクイッド" />
+			<Param ID="ID_FID_100" StickType="b" Time="1" PositionNum="8" LotteryParam="40" FishID="バンガンニシン" />
+			<Param ID="ID_FID_101" StickType="b" Time="1" PositionNum="9" LotteryParam="60" FishID="テオテスクイッド" />
+			<Param ID="ID_FID_102" StickType="b" Time="1" PositionNum="9" LotteryParam="40" FishID="バンガンニシン" />
+			<Param ID="ID_FID_103" StickType="b" Time="2" PositionNum="1" LotteryParam="70" FishID="スリットヒレサケ" />
+			<Param ID="ID_FID_104" StickType="b" Time="2" PositionNum="1" LotteryParam="20" FishID="ロガーオクトパス" />
+			<Param ID="ID_FID_105" StickType="b" Time="2" PositionNum="1" LotteryParam="10" FishID="ポンヤマメ" />
+			<Param ID="ID_FID_106" StickType="b" Time="2" PositionNum="2" LotteryParam="70" FishID="スリットヒレサケ" />
+			<Param ID="ID_FID_107" StickType="b" Time="2" PositionNum="2" LotteryParam="20" FishID="ロガーオクトパス" />
+			<Param ID="ID_FID_108" StickType="b" Time="2" PositionNum="2" LotteryParam="10" FishID="ポンヤマメ" />
+			<Param ID="ID_FID_109" StickType="b" Time="2" PositionNum="3" LotteryParam="60" FishID="ロガーオクトパス" />
+			<Param ID="ID_FID_110" StickType="b" Time="2" PositionNum="3" LotteryParam="20" FishID="ポンヤマメ" />
+			<Param ID="ID_FID_111" StickType="b" Time="2" PositionNum="3" LotteryParam="20" FishID="オメメイワシ" />
+			<Param ID="ID_FID_112" StickType="b" Time="2" PositionNum="4" LotteryParam="60" FishID="ロガーオクトパス" />
+			<Param ID="ID_FID_113" StickType="b" Time="2" PositionNum="4" LotteryParam="20" FishID="ポンヤマメ" />
+			<Param ID="ID_FID_114" StickType="b" Time="2" PositionNum="4" LotteryParam="20" FishID="オメメイワシ" />
+			<Param ID="ID_FID_115" StickType="b" Time="2" PositionNum="5" LotteryParam="40" FishID="ロガーオクトパス" />
+			<Param ID="ID_FID_116" StickType="b" Time="2" PositionNum="5" LotteryParam="30" FishID="ポンヤマメ" />
+			<Param ID="ID_FID_117" StickType="b" Time="2" PositionNum="5" LotteryParam="30" FishID="オメメイワシ" />
+			<Param ID="ID_FID_118" StickType="b" Time="2" PositionNum="6" LotteryParam="60" FishID="ポンヤマメ" />
+			<Param ID="ID_FID_119" StickType="b" Time="2" PositionNum="6" LotteryParam="40" FishID="オメメイワシ" />
+			<Param ID="ID_FID_120" StickType="b" Time="2" PositionNum="7" LotteryParam="60" FishID="ポンヤマメ" />
+			<Param ID="ID_FID_121" StickType="b" Time="2" PositionNum="7" LotteryParam="40" FishID="オメメイワシ" />
+			<Param ID="ID_FID_122" StickType="b" Time="2" PositionNum="8" LotteryParam="60" FishID="ポンヤマメ" />
+			<Param ID="ID_FID_123" StickType="b" Time="2" PositionNum="8" LotteryParam="40" FishID="オメメイワシ" />
+			<Param ID="ID_FID_124" StickType="b" Time="2" PositionNum="9" LotteryParam="60" FishID="ポンヤマメ" />
+			<Param ID="ID_FID_125" StickType="b" Time="2" PositionNum="9" LotteryParam="40" FishID="オメメイワシ" />
+			<Param ID="ID_FID_126" StickType="c" Time="0" PositionNum="1" LotteryParam="50" FishID="オニキバカタラ" />
+			<Param ID="ID_FID_127" StickType="c" Time="0" PositionNum="1" LotteryParam="20" FishID="ムノンテイルアジ" />
+			<Param ID="ID_FID_128" StickType="c" Time="0" PositionNum="1" LotteryParam="20" FishID="ポンヤマメ" />
+			<Param ID="ID_FID_129" StickType="c" Time="0" PositionNum="1" LotteryParam="10" FishID="オメメイワシ" />
+			<Param ID="ID_FID_130" StickType="c" Time="0" PositionNum="2" LotteryParam="50" FishID="オニキバカタラ" />
+			<Param ID="ID_FID_131" StickType="c" Time="0" PositionNum="2" LotteryParam="20" FishID="ムノンテイルアジ" />
+			<Param ID="ID_FID_132" StickType="c" Time="0" PositionNum="2" LotteryParam="20" FishID="ポンヤマメ" />
+			<Param ID="ID_FID_133" StickType="c" Time="0" PositionNum="2" LotteryParam="10" FishID="オメメイワシ" />
+			<Param ID="ID_FID_134" StickType="c" Time="0" PositionNum="3" LotteryParam="50" FishID="オニキバカタラ" />
+			<Param ID="ID_FID_135" StickType="c" Time="0" PositionNum="3" LotteryParam="50" FishID="ドスマレイ" />
+			<Param ID="ID_FID_136" StickType="c" Time="0" PositionNum="4" LotteryParam="50" FishID="ドスマレイ" />
+			<Param ID="ID_FID_137" StickType="c" Time="0" PositionNum="4" LotteryParam="30" FishID="オニキバカタラ" />
+			<Param ID="ID_FID_138" StickType="c" Time="0" PositionNum="4" LotteryParam="10" FishID="ポンヤマメ" />
+			<Param ID="ID_FID_139" StickType="c" Time="0" PositionNum="4" LotteryParam="10" FishID="オメメイワシ" />
+			<Param ID="ID_FID_140" StickType="c" Time="0" PositionNum="5" LotteryParam="50" FishID="ドスマレイ" />
+			<Param ID="ID_FID_141" StickType="c" Time="0" PositionNum="5" LotteryParam="30" FishID="ムノンテイルアジ" />
+			<Param ID="ID_FID_142" StickType="c" Time="0" PositionNum="5" LotteryParam="10" FishID="ポンヤマメ" />
+			<Param ID="ID_FID_143" StickType="c" Time="0" PositionNum="5" LotteryParam="10" FishID="オメメイワシ" />
+			<Param ID="ID_FID_144" StickType="c" Time="0" PositionNum="6" LotteryParam="50" FishID="ドスマレイ" />
+			<Param ID="ID_FID_145" StickType="c" Time="0" PositionNum="6" LotteryParam="30" FishID="ムノンテイルアジ" />
+			<Param ID="ID_FID_146" StickType="c" Time="0" PositionNum="6" LotteryParam="10" FishID="ポンヤマメ" />
+			<Param ID="ID_FID_147" StickType="c" Time="0" PositionNum="6" LotteryParam="10" FishID="オメメイワシ" />
+			<Param ID="ID_FID_148" StickType="c" Time="0" PositionNum="7" LotteryParam="50" FishID="ドスマレイ" />
+			<Param ID="ID_FID_149" StickType="c" Time="0" PositionNum="7" LotteryParam="30" FishID="ムノンテイルアジ" />
+			<Param ID="ID_FID_150" StickType="c" Time="0" PositionNum="7" LotteryParam="10" FishID="ポンヤマメ" />
+			<Param ID="ID_FID_151" StickType="c" Time="0" PositionNum="7" LotteryParam="10" FishID="オメメイワシ" />
+			<Param ID="ID_FID_152" StickType="c" Time="0" PositionNum="8" LotteryParam="50" FishID="ポンヤマメ" />
+			<Param ID="ID_FID_153" StickType="c" Time="0" PositionNum="8" LotteryParam="50" FishID="オメメイワシ" />
+			<Param ID="ID_FID_154" StickType="c" Time="0" PositionNum="9" LotteryParam="50" FishID="ポンヤマメ" />
+			<Param ID="ID_FID_155" StickType="c" Time="0" PositionNum="9" LotteryParam="50" FishID="オメメイワシ" />
+			<Param ID="ID_FID_156" StickType="c" Time="1" PositionNum="1" LotteryParam="50" FishID="マンドコブバス" />
+			<Param ID="ID_FID_157" StickType="c" Time="1" PositionNum="1" LotteryParam="20" FishID="ラバナトロウト" />
+			<Param ID="ID_FID_158" StickType="c" Time="1" PositionNum="1" LotteryParam="20" FishID="ヘルルコイ" />
+			<Param ID="ID_FID_159" StickType="c" Time="1" PositionNum="1" LotteryParam="10" FishID="バンガンニシン" />
+			<Param ID="ID_FID_160" StickType="c" Time="1" PositionNum="2" LotteryParam="50" FishID="マンドコブバス" />
+			<Param ID="ID_FID_161" StickType="c" Time="1" PositionNum="2" LotteryParam="20" FishID="ラバナトロウト" />
+			<Param ID="ID_FID_162" StickType="c" Time="1" PositionNum="2" LotteryParam="20" FishID="ヘルルコイ" />
+			<Param ID="ID_FID_163" StickType="c" Time="1" PositionNum="2" LotteryParam="10" FishID="バンガンニシン" />
+			<Param ID="ID_FID_164" StickType="c" Time="1" PositionNum="3" LotteryParam="50" FishID="テフラカツオ" />
+			<Param ID="ID_FID_165" StickType="c" Time="1" PositionNum="3" LotteryParam="20" FishID="エンシャントカツオ" />
+			<Param ID="ID_FID_166" StickType="c" Time="1" PositionNum="3" LotteryParam="10" FishID="ヘルルコイ" />
+			<Param ID="ID_FID_167" StickType="c" Time="1" PositionNum="3" LotteryParam="10" FishID="バンガンニシン" />
+			<Param ID="ID_FID_168" StickType="c" Time="1" PositionNum="4" LotteryParam="50" FishID="テフラカツオ" />
+			<Param ID="ID_FID_169" StickType="c" Time="1" PositionNum="4" LotteryParam="20" FishID="エンシャントカツオ" />
+			<Param ID="ID_FID_170" StickType="c" Time="1" PositionNum="4" LotteryParam="10" FishID="ヘルルコイ" />
+			<Param ID="ID_FID_171" StickType="c" Time="1" PositionNum="4" LotteryParam="10" FishID="バンガンニシン" />
+			<Param ID="ID_FID_172" StickType="c" Time="1" PositionNum="5" LotteryParam="50" FishID="テフラカツオ" />
+			<Param ID="ID_FID_173" StickType="c" Time="1" PositionNum="5" LotteryParam="20" FishID="マンドコブバス" />
+			<Param ID="ID_FID_174" StickType="c" Time="1" PositionNum="5" LotteryParam="10" FishID="エンシャントカツオ" />
+			<Param ID="ID_FID_175" StickType="c" Time="1" PositionNum="5" LotteryParam="10" FishID="ヘルルコイ" />
+			<Param ID="ID_FID_176" StickType="c" Time="1" PositionNum="5" LotteryParam="10" FishID="バンガンニシン" />
+			<Param ID="ID_FID_177" StickType="c" Time="1" PositionNum="6" LotteryParam="50" FishID="ラバナトロウト" />
+			<Param ID="ID_FID_178" StickType="c" Time="1" PositionNum="6" LotteryParam="30" FishID="ヘルルコイ" />
+			<Param ID="ID_FID_179" StickType="c" Time="1" PositionNum="6" LotteryParam="20" FishID="バンガンニシン" />
+			<Param ID="ID_FID_180" StickType="c" Time="1" PositionNum="7" LotteryParam="50" FishID="ラバナトロウト" />
+			<Param ID="ID_FID_181" StickType="c" Time="1" PositionNum="7" LotteryParam="30" FishID="ヘルルコイ" />
+			<Param ID="ID_FID_182" StickType="c" Time="1" PositionNum="7" LotteryParam="20" FishID="バンガンニシン" />
+			<Param ID="ID_FID_183" StickType="c" Time="1" PositionNum="8" LotteryParam="100" FishID="バンガンニシン" />
+			<Param ID="ID_FID_184" StickType="c" Time="1" PositionNum="9" LotteryParam="100" FishID="バンガンニシン" />
+			<Param ID="ID_FID_185" StickType="c" Time="2" PositionNum="1" LotteryParam="50" FishID="ヘッジヒゲナマズ" />
+			<Param ID="ID_FID_186" StickType="c" Time="2" PositionNum="1" LotteryParam="20" FishID="ロガーオクトパス" />
+			<Param ID="ID_FID_187" StickType="c" Time="2" PositionNum="1" LotteryParam="20" FishID="ブロスウナギ" />
+			<Param ID="ID_FID_188" StickType="c" Time="2" PositionNum="1" LotteryParam="10" FishID="オメメイワシ" />
+			<Param ID="ID_FID_189" StickType="c" Time="2" PositionNum="2" LotteryParam="50" FishID="ヘッジヒゲナマズ" />
+			<Param ID="ID_FID_190" StickType="c" Time="2" PositionNum="2" LotteryParam="20" FishID="ロガーオクトパス" />
+			<Param ID="ID_FID_191" StickType="c" Time="2" PositionNum="2" LotteryParam="20" FishID="ブロスウナギ" />
+			<Param ID="ID_FID_192" StickType="c" Time="2" PositionNum="2" LotteryParam="10" FishID="オメメイワシ" />
+			<Param ID="ID_FID_193" StickType="c" Time="2" PositionNum="3" LotteryParam="50" FishID="サリアイヌウツボ" />
+			<Param ID="ID_FID_194" StickType="c" Time="2" PositionNum="3" LotteryParam="20" FishID="スリットヒレサケ" />
+			<Param ID="ID_FID_195" StickType="c" Time="2" PositionNum="3" LotteryParam="10" FishID="ブロスウナギ" />
+			<Param ID="ID_FID_196" StickType="c" Time="2" PositionNum="3" LotteryParam="10" FishID="オメメイワシ" />
+			<Param ID="ID_FID_197" StickType="c" Time="2" PositionNum="4" LotteryParam="50" FishID="サリアイヌウツボ" />
+			<Param ID="ID_FID_198" StickType="c" Time="2" PositionNum="4" LotteryParam="20" FishID="スリットヒレサケ" />
+			<Param ID="ID_FID_199" StickType="c" Time="2" PositionNum="4" LotteryParam="10" FishID="ブロスウナギ" />
+			<Param ID="ID_FID_200" StickType="c" Time="2" PositionNum="4" LotteryParam="10" FishID="オメメイワシ" />
+			<Param ID="ID_FID_201" StickType="c" Time="2" PositionNum="5" LotteryParam="50" FishID="サリアイヌウツボ" />
+			<Param ID="ID_FID_202" StickType="c" Time="2" PositionNum="5" LotteryParam="20" FishID="ヘッジヒゲナマズ" />
+			<Param ID="ID_FID_203" StickType="c" Time="2" PositionNum="5" LotteryParam="10" FishID="スリットヒレサケ" />
+			<Param ID="ID_FID_204" StickType="c" Time="2" PositionNum="5" LotteryParam="10" FishID="ブロスウナギ" />
+			<Param ID="ID_FID_205" StickType="c" Time="2" PositionNum="5" LotteryParam="10" FishID="オメメイワシ" />
+			<Param ID="ID_FID_206" StickType="c" Time="2" PositionNum="6" LotteryParam="50" FishID="ロガーオクトパス" />
+			<Param ID="ID_FID_207" StickType="c" Time="2" PositionNum="6" LotteryParam="30" FishID="ブロスウナギ" />
+			<Param ID="ID_FID_208" StickType="c" Time="2" PositionNum="6" LotteryParam="20" FishID="オメメイワシ" />
+			<Param ID="ID_FID_209" StickType="c" Time="2" PositionNum="7" LotteryParam="50" FishID="ロガーオクトパス" />
+			<Param ID="ID_FID_210" StickType="c" Time="2" PositionNum="7" LotteryParam="30" FishID="ブロスウナギ" />
+			<Param ID="ID_FID_211" StickType="c" Time="2" PositionNum="7" LotteryParam="20" FishID="オメメイワシ" />
+			<Param ID="ID_FID_212" StickType="c" Time="2" PositionNum="8" LotteryParam="100" FishID="オメメイワシ" />
+			<Param ID="ID_FID_213" StickType="c" Time="2" PositionNum="9" LotteryParam="100" FishID="オメメイワシ" />
+		</Data>
+	</Sheet>
+	<Sheet Name="竿ごとの重みテーブル" Count="33">
+		<Header>
+			<Param Name="識別子" Ident="ID" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="魚ID" Ident="FishID" Type="string" Min="" Max="" Chg="" />
+			<Param Name="重み" Ident="Priority" Type="int" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param ID="ID_StickA_01" FishID="ブロスウナギ" Priority="8" />
+			<Param ID="ID_StickA_02" FishID="ヘルルコイ" Priority="7" />
+			<Param ID="ID_StickA_03" FishID="ポンヤマメ" Priority="5" />
+			<Param ID="ID_StickA_04" FishID="アビッドクラブ" Priority="4" />
+			<Param ID="ID_StickA_05" FishID="バンガンニシン" Priority="3" />
+			<Param ID="ID_StickA_06" FishID="イッカクイワナ" Priority="2" />
+			<Param ID="ID_StickA_07" FishID="オメメイワシ" Priority="1" />
+			<Param ID="ID_StickB_01" FishID="レインボートロウト" Priority="19" />
+			<Param ID="ID_StickB_02" FishID="スリットヒレサケ" Priority="13" />
+			<Param ID="ID_StickB_03" FishID="ロガーオクトパス" Priority="11" />
+			<Param ID="ID_StickB_04" FishID="ラバナトロウト" Priority="10" />
+			<Param ID="ID_StickB_05" FishID="ムノンテイルアジ" Priority="9" />
+			<Param ID="ID_StickB_06" FishID="テオテスクイッド" Priority="6" />
+			<Param ID="ID_StickB_07" FishID="ポンヤマメ" Priority="5" />
+			<Param ID="ID_StickB_08" FishID="アビッドクラブ" Priority="4" />
+			<Param ID="ID_StickB_09" FishID="バンガンニシン" Priority="3" />
+			<Param ID="ID_StickB_10" FishID="オメメイワシ" Priority="1" />
+			<Param ID="ID_StickC_01" FishID="エンシャントカツオ" Priority="20" />
+			<Param ID="ID_StickC_02" FishID="テフラカツオ" Priority="18" />
+			<Param ID="ID_StickC_03" FishID="サリアイヌウツボ" Priority="17" />
+			<Param ID="ID_StickC_04" FishID="マンドコブバス" Priority="16" />
+			<Param ID="ID_StickC_05" FishID="オニキバカタラ" Priority="15" />
+			<Param ID="ID_StickC_06" FishID="ヘッジヒゲナマズ" Priority="14" />
+			<Param ID="ID_StickC_07" FishID="スリットヒレサケ" Priority="13" />
+			<Param ID="ID_StickC_08" FishID="ドスマレイ" Priority="12" />
+			<Param ID="ID_StickC_09" FishID="ロガーオクトパス" Priority="11" />
+			<Param ID="ID_StickC_10" FishID="ラバナトロウト" Priority="10" />
+			<Param ID="ID_StickC_11" FishID="ムノンテイルアジ" Priority="9" />
+			<Param ID="ID_StickC_12" FishID="ブロスウナギ" Priority="8" />
+			<Param ID="ID_StickC_13" FishID="ヘルルコイ" Priority="7" />
+			<Param ID="ID_StickC_14" FishID="ポンヤマメ" Priority="5" />
+			<Param ID="ID_StickC_15" FishID="バンガンニシン" Priority="3" />
+			<Param ID="ID_StickC_16" FishID="オメメイワシ" Priority="1" />
+		</Data>
+	</Sheet>
+	<Sheet Name="ソラのアシスト設定" Count="2">
+		<Header>
+			<Param Name="識別子" Ident="ID" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="0" Ident="Level_00" Type="float" Min="" Max="" Chg="" />
+			<Param Name="1" Ident="Level_01" Type="float" Min="" Max="" Chg="" />
+			<Param Name="2" Ident="Level_02" Type="float" Min="" Max="" Chg="" />
+			<Param Name="3" Ident="Level_03" Type="float" Min="" Max="" Chg="" />
+			<Param Name="4" Ident="Level_04" Type="float" Min="" Max="" Chg="" />
+			<Param Name="5" Ident="Level_05" Type="float" Min="" Max="" Chg="" />
+			<Param Name="6" Ident="Level_06" Type="float" Min="" Max="" Chg="" />
+			<Param Name="7" Ident="Level_07" Type="float" Min="" Max="" Chg="" />
+			<Param Name="8" Ident="Level_08" Type="float" Min="" Max="" Chg="" />
+			<Param Name="9" Ident="Level_09" Type="float" Min="" Max="" Chg="" />
+			<Param Name="10" Ident="Level_10" Type="float" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param ID="ID_AssistDamage" Level_00="0" Level_01="3" Level_02="6" Level_03="9" Level_04="12" Level_05="15" Level_06="18" Level_07="21" Level_08="24" Level_09="27" Level_10="30" />
+			<Param ID="ID_AssistTime" Level_00="0" Level_01="10" Level_02="20" Level_03="30" Level_04="40" Level_05="50" Level_06="60" Level_07="70" Level_08="80" Level_09="90" Level_10="100" />
+		</Data>
+	</Sheet>
+	<Sheet Name="バトル激化係数" Count="1">
+		<Header>
+			<Param Name="識別子" Ident="ID" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="次の段階までの時間(秒)" Ident="Sec_01" Type="float" Min="" Max="" Chg="" />
+			<Param Name="移動速度倍率" Ident="Power_01" Type="float" Min="" Max="" Chg="" />
+			<Param Name="自動回復倍率" Ident="Regene_01" Type="float" Min="" Max="" Chg="" />
+			<Param Name="次の段階までの時間(秒)" Ident="Sec_02" Type="float" Min="" Max="" Chg="" />
+			<Param Name="移動速度倍率" Ident="Power_02" Type="float" Min="" Max="" Chg="" />
+			<Param Name="自動回復倍率" Ident="Regene_02" Type="float" Min="" Max="" Chg="" />
+			<Param Name="次の段階までの時間(秒)" Ident="Sec_03" Type="float" Min="" Max="" Chg="" />
+			<Param Name="移動速度倍率" Ident="Power_03" Type="float" Min="" Max="" Chg="" />
+			<Param Name="自動回復倍率" Ident="Regene_03" Type="float" Min="" Max="" Chg="" />
+			<Param Name="次の段階までの時間(秒)" Ident="Sec_04" Type="float" Min="" Max="" Chg="" />
+			<Param Name="移動速度倍率" Ident="Power_04" Type="float" Min="" Max="" Chg="" />
+			<Param Name="自動回復倍率" Ident="Regene_04" Type="float" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param ID="ID_Basic" Sec_01="10" Power_01="1" Regene_01="1" Sec_02="15" Power_02="1.4" Regene_02="0.8" Sec_03="20" Power_03="1.7" Regene_03="0.6" Sec_04="-1" Power_04="2" Regene_04="0.2" />
+		</Data>
+	</Sheet>
+</Book>

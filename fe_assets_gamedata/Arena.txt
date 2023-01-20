@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Book Count="1">
+	<Sheet Name="対戦相手" Count="12">
+		<Header>
+			<Param Name="店名" Ident="Name" Type="PublicArray" Min="" Max="" Chg="" />
+			<Param Name="確率" Ident="Rate" Type="int" Min="0" Max="1000" Chg="1" />
+			<Param Name="対戦相手" Ident="Pid" Type="string" Min="" Max="" Chg="" />
+			<Param Name="アイテム" Ident="Iid" Type="string" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Name="下級職" Rate="" Pid="" Iid="" />
+			<Param Name="" Rate="15" Pid="PID_闘傭兵" Iid="IID_鉄の剣" />
+			<Param Name="" Rate="10" Pid="PID_闘ソシアル" Iid="IID_鉄の槍" />
+			<Param Name="" Rate="10" Pid="PID_闘ソシアル" Iid="IID_鉄の剣" />
+			<Param Name="" Rate="20" Pid="PID_闘山賊" Iid="IID_鉄の斧" />
+			<Param Name="" Rate="30" Pid="PID_闘ソルジャー" Iid="IID_鉄の槍" />
+			<Param Name="" Rate="20" Pid="PID_闘魔道士" Iid="IID_ファイアー" />
+			<Param Name="" Rate="5" Pid="PID_闘アーマーナイト" Iid="IID_鉄の槍" />
+			<Param Name="上級職" Rate="" Pid="" Iid="" />
+			<Param Name="" Rate="15" Pid="PID_闘勇者" Iid="IID_鉄の剣" />
+			<Param Name="" Rate="10" Pid="PID_闘パラディン" Iid="IID_鉄の槍" />
+			<Param Name="" Rate="10" Pid="PID_闘パラディン" Iid="IID_鉄の剣" />
+		</Data>
+	</Sheet>
+</Book>

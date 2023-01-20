@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Book Count="1">
+	<Sheet Name="結果" Count="12">
+		<Header>
+			<Param Name="識別子" Ident="ID" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="カードテクスチャ名" Ident="TextureName" Type="string" Min="" Max="" Chg="" />
+			<Param Name="正位置メッセージ" Ident="PrimaryText" Type="string" Min="" Max="" Chg="" />
+			<Param Name="セアダス用メッセージ正位置" Ident="PrimaryTextEx" Type="string" Min="" Max="" Chg="" />
+			<Param Name="逆位置メッセージ" Ident="ReverseText" Type="string" Min="" Max="" Chg="" />
+			<Param Name="セアダス用メッセージ逆位置" Ident="ReverseTextEx" Type="string" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param ID="FID_マルス" TextureName="Marth" PrimaryText="MID_FORTUNE_GOOD_01" PrimaryTextEx="MID_FORTUNE_GOOD_01_S" ReverseText="MID_FORTUNE_BAD_01" ReverseTextEx="MID_FORTUNE_BAD_01_S" />
+			<Param ID="FID_シグルド" TextureName="Siglud" PrimaryText="MID_FORTUNE_GOOD_02" PrimaryTextEx="MID_FORTUNE_GOOD_02_S" ReverseText="MID_FORTUNE_BAD_02" ReverseTextEx="MID_FORTUNE_BAD_02_S" />
+			<Param ID="FID_セリカ" TextureName="Celica" PrimaryText="MID_FORTUNE_GOOD_03" PrimaryTextEx="MID_FORTUNE_GOOD_03_S" ReverseText="MID_FORTUNE_BAD_03" ReverseTextEx="MID_FORTUNE_BAD_03_S" />
+			<Param ID="FID_ミカヤ" TextureName="Micaiah" PrimaryText="MID_FORTUNE_GOOD_04" PrimaryTextEx="MID_FORTUNE_GOOD_04_S" ReverseText="MID_FORTUNE_BAD_04" ReverseTextEx="MID_FORTUNE_BAD_04_S" />
+			<Param ID="FID_ロイ" TextureName="Roy" PrimaryText="MID_FORTUNE_GOOD_05" PrimaryTextEx="MID_FORTUNE_GOOD_05_S" ReverseText="MID_FORTUNE_BAD_05" ReverseTextEx="MID_FORTUNE_BAD_05_S" />
+			<Param ID="FID_リーフ" TextureName="Leaf" PrimaryText="MID_FORTUNE_GOOD_06" PrimaryTextEx="MID_FORTUNE_GOOD_06_S" ReverseText="MID_FORTUNE_BAD_06" ReverseTextEx="MID_FORTUNE_BAD_06_S" />
+			<Param ID="FID_ルキナ" TextureName="Lucina" PrimaryText="MID_FORTUNE_GOOD_07" PrimaryTextEx="MID_FORTUNE_GOOD_07_S" ReverseText="MID_FORTUNE_BAD_07" ReverseTextEx="MID_FORTUNE_BAD_07_S" />
+			<Param ID="FID_リン" TextureName="Lin" PrimaryText="MID_FORTUNE_GOOD_08" PrimaryTextEx="MID_FORTUNE_GOOD_08_S" ReverseText="MID_FORTUNE_BAD_08" ReverseTextEx="MID_FORTUNE_BAD_08_S" />
+			<Param ID="FID_アイク" TextureName="Ike" PrimaryText="MID_FORTUNE_GOOD_09" PrimaryTextEx="MID_FORTUNE_GOOD_09_S" ReverseText="MID_FORTUNE_BAD_09" ReverseTextEx="MID_FORTUNE_BAD_09_S" />
+			<Param ID="FID_ベレト" TextureName="Byleth" PrimaryText="MID_FORTUNE_GOOD_10" PrimaryTextEx="MID_FORTUNE_GOOD_10_S" ReverseText="MID_FORTUNE_BAD_10" ReverseTextEx="MID_FORTUNE_BAD_10_S" />
+			<Param ID="FID_カムイ" TextureName="Kamui" PrimaryText="MID_FORTUNE_GOOD_11" PrimaryTextEx="MID_FORTUNE_GOOD_11_S" ReverseText="MID_FORTUNE_BAD_11" ReverseTextEx="MID_FORTUNE_BAD_11_S" />
+			<Param ID="FID_エイリーク" TextureName="Eirik" PrimaryText="MID_FORTUNE_GOOD_12" PrimaryTextEx="MID_FORTUNE_GOOD_12_S" ReverseText="MID_FORTUNE_BAD_12" ReverseTextEx="MID_FORTUNE_BAD_12_S" />
+		</Data>
+	</Sheet>
+</Book>

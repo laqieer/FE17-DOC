@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Book Count="1">
+	<Sheet Name="ムービー後" Count="52">
+		<Header>
+			<Param Name="出力先" Ident="Out" Type="PublicFile" Min="" Max="" Chg="" />
+			<Param Name="ムービーファイル名" Ident="MovieFileName" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="Wwiseイベント名1" Ident="EventName1" Type="string" Min="" Max="" Chg="" />
+			<Param Name="Wwiseイベント名2" Ident="EventName2" Type="string" Min="" Max="" Chg="" />
+			<Param Name="Wwiseイベント名3" Ident="EventName3" Type="string" Min="" Max="" Chg="" />
+			<Param Name="Wwiseイベント名4" Ident="EventName4" Type="string" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Out="" MovieFileName="S01" EventName1="" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="S02" EventName1="" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="S03" EventName1="" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="S04" EventName1="" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="S05" EventName1="BGM_Evt_Tension_Stop_Normal" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="S06" EventName1="BGM_Mov_Eleos_Stop" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="S07" EventName1="ENV_Evt_Fire_End" EventName2="Env_Evt_VolumeReset" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="S08" EventName1="BGM_Mov_Appear_Alfred_Stop_Fast" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="S09" EventName1="" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="S10" EventName1="BGM_Mov_Encount_Veyre_Stop_VeryFast" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="S11" EventName1="BGM_Evt_Appear_Diamand_Stop_Normal" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="S12" EventName1="" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="S13" EventName1="BGM_Evt_Tension_Stop_Normal" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="S14" EventName1="BGM_Evt_Veyre_Exposed" EventName2="BGM_Mov_Appear_Sombre_Stop_Noemal" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="S15" EventName1="" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="S16" EventName1="" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="S17" EventName1="BGM_Mov_lueur_Die" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="S18" EventName1="BGM_Mov_S18_Stop_Fast" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="S19" EventName1="BGM_Mov_Red_Stop_Normal" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="S20" EventName1="" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="S21" EventName1="BGM_Mov_lueur_Die_Stop_Normal" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="S22" EventName1="" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="Scene01" EventName1="ENV_Evt_Indoor_Air2_Start" EventName2="BGM_Evt_Amb_Lithos_End" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="Scene02" EventName1="BGM_Evt_Danger1" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="Scene03" EventName1="D_Engage04" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="Scene04" EventName1="" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="Scene05" EventName1="BGM_Evt_Danger2_Stop_Normal" EventName2="ENV_Evt_Indoor_Air1_End" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="Scene06" EventName1="" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="Scene07" EventName1="BGM_Evt_Danger1_Stop_Normal" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="Scene08" EventName1="" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="Scene09" EventName1="BGM_Evt_Disturb1" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="Scene10" EventName1="Env_Evt_Wind3_End" EventName2="BGM_Evt_Tension_Stop_Normal" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="Scene11" EventName1="" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="Scene12" EventName1="BGM_Evt_Tension2_Stop_Normal" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="Scene13" EventName1="BGM_Evt_Amb_Brodia_Stop_Normal" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="Scene14" EventName1="" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="Scene15" EventName1="" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="Scene16" EventName1="" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="Scene17" EventName1="" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="Scene18" EventName1="" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="Scene19" EventName1="" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="Scene20" EventName1="" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="Scene21" EventName1="BGM_Evt_Disturb1_Stop_Normal" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="Scene22" EventName1="" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="Scene23" EventName1="" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="Scene24" EventName1="" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="Scene25" EventName1="BGM_Evt_4ku_Sad_Stop_Normal" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="Scene26" EventName1="" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="Scene27" EventName1="" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="Scene28" EventName1="" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="Scene29" EventName1="" EventName2="" EventName3="" EventName4="" />
+			<Param Out="" MovieFileName="Scene30" EventName1="" EventName2="" EventName3="" EventName4="" />
+		</Data>
+	</Sheet>
+</Book>

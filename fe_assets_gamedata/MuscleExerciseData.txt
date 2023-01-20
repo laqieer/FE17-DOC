@@ -1,0 +1,681 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Book Count="9">
+	<Sheet Name="難易度設定" Count="12">
+		<Header>
+			<Param Name="識別子" Ident="ID" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="対象エクササイズ" Ident="ExerciseType" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="難易度" Ident="Level" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="Goodスコア" Ident="GoodScore" Type="int" Min="" Max="" Chg="" />
+			<Param Name="Perfectスコア" Ident="PerfectScore" Type="int" Min="" Max="" Chg="" />
+			<Param Name="目標スコア" Ident="TargetScore" Type="int" Min="" Max="" Chg="" />
+			<Param Name="エンドレス用目標回数" Ident="EndlessGoalCount" Type="int" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param ID="ID_PushUp_Normal" ExerciseType="0" Level="0" GoodScore="50" PerfectScore="100" TargetScore="1500" EndlessGoalCount="20" />
+			<Param ID="ID_PushUp_Hard" ExerciseType="0" Level="1" GoodScore="50" PerfectScore="100" TargetScore="2000" EndlessGoalCount="25" />
+			<Param ID="ID_PushUp_Master" ExerciseType="0" Level="2" GoodScore="50" PerfectScore="100" TargetScore="2500" EndlessGoalCount="30" />
+			<Param ID="ID_PushUp_Endless" ExerciseType="0" Level="3" GoodScore="50" PerfectScore="100" TargetScore="-1" EndlessGoalCount="99" />
+			<Param ID="ID_SitUp_Normal" ExerciseType="1" Level="0" GoodScore="50" PerfectScore="100" TargetScore="1500" EndlessGoalCount="20" />
+			<Param ID="ID_SitUp_Hard" ExerciseType="1" Level="1" GoodScore="50" PerfectScore="100" TargetScore="2000" EndlessGoalCount="25" />
+			<Param ID="ID_SitUp_Master" ExerciseType="1" Level="2" GoodScore="50" PerfectScore="100" TargetScore="2500" EndlessGoalCount="30" />
+			<Param ID="ID_SitUp_Endless" ExerciseType="1" Level="3" GoodScore="50" PerfectScore="100" TargetScore="-1" EndlessGoalCount="99" />
+			<Param ID="ID_Squat_Normal" ExerciseType="2" Level="0" GoodScore="50" PerfectScore="100" TargetScore="2000" EndlessGoalCount="-1" />
+			<Param ID="ID_Squat_Hard" ExerciseType="2" Level="1" GoodScore="50" PerfectScore="100" TargetScore="3500" EndlessGoalCount="-1" />
+			<Param ID="ID_Squat_Master" ExerciseType="2" Level="2" GoodScore="50" PerfectScore="100" TargetScore="5000" EndlessGoalCount="-1" />
+			<Param ID="ID_Squat_Endless" ExerciseType="2" Level="3" GoodScore="50" PerfectScore="100" TargetScore="-1" EndlessGoalCount="200" />
+		</Data>
+	</Sheet>
+	<Sheet Name="腕立て伏せ　判定エリア設定" Count="4">
+		<Header>
+			<Param Name="識別子" Ident="ID" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="難易度" Ident="Level" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="Perfectエリアの中心" Ident="AreaP_Center" Type="float" Min="-290" Max="290" Chg="" />
+			<Param Name="Perfectエリアの幅" Ident="AreaP_Radius" Type="float" Min="1" Max="" Chg="" />
+			<Param Name="Goodエリアの高さ中心" Ident="AreaG_Center" Type="float" Min="-290" Max="290" Chg="" />
+			<Param Name="Goodエリアの幅" Ident="AreaG_Radius" Type="float" Min="1" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param ID="ID_JudgeNormal_0" Level="0" AreaP_Center="-274" AreaP_Radius="26" AreaG_Center="-238" AreaG_Radius="62" />
+			<Param ID="ID_JudgeHard_0" Level="1" AreaP_Center="-278" AreaP_Radius="22" AreaG_Center="-247" AreaG_Radius="53" />
+			<Param ID="ID_JudgeMaster_0" Level="2" AreaP_Center="-280.5" AreaP_Radius="19.5" AreaG_Center="-253" AreaG_Radius="47" />
+			<Param ID="ID_JudgeEndless_0" Level="3" AreaP_Center="-282" AreaP_Radius="18" AreaG_Center="-256" AreaG_Radius="44" />
+		</Data>
+	</Sheet>
+	<Sheet Name="報酬設定" Count="12">
+		<Header>
+			<Param Name="識別子" Ident="ID" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="対象エクササイズ" Ident="ExerciseType" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="SSS" Ident="Bonus_SSS" Type="string" Min="" Max="" Chg="" />
+			<Param Name="かけら" Ident="Bond_SSS" Type="int" Min="" Max="" Chg="" />
+			<Param Name="スコア閾値" Ident="Border_SSS" Type="int" Min="" Max="" Chg="" />
+			<Param Name="SS" Ident="Bonus_SS" Type="string" Min="" Max="" Chg="" />
+			<Param Name="かけら" Ident="Bond_SS" Type="int" Min="" Max="" Chg="" />
+			<Param Name="スコア閾値" Ident="Border_SS" Type="int" Min="" Max="" Chg="" />
+			<Param Name="S" Ident="Bonus_S" Type="string" Min="" Max="" Chg="" />
+			<Param Name="かけら" Ident="Bond_S" Type="int" Min="" Max="" Chg="" />
+			<Param Name="スコア閾値" Ident="Border_S" Type="int" Min="" Max="" Chg="" />
+			<Param Name="A" Ident="Bonus_A" Type="string" Min="" Max="" Chg="" />
+			<Param Name="かけら" Ident="Bond_A" Type="int" Min="" Max="" Chg="" />
+			<Param Name="スコア閾値" Ident="Border_A" Type="int" Min="" Max="" Chg="" />
+			<Param Name="B" Ident="Bonus_B" Type="string" Min="" Max="" Chg="" />
+			<Param Name="かけら" Ident="Bond_B" Type="int" Min="" Max="" Chg="" />
+			<Param Name="スコア閾値" Ident="Border_B" Type="int" Min="" Max="" Chg="" />
+			<Param Name="C" Ident="Bonus_C" Type="string" Min="" Max="" Chg="" />
+			<Param Name="かけら" Ident="Bond_C" Type="int" Min="" Max="" Chg="" />
+			<Param Name="スコア閾値" Ident="Border_C" Type="int" Min="" Max="" Chg="" />
+			<Param Name="D" Ident="Bonus_D" Type="string" Min="" Max="" Chg="" />
+			<Param Name="かけら" Ident="Bond_D" Type="int" Min="" Max="" Chg="" />
+			<Param Name="スコア閾値" Ident="Border_D" Type="int" Min="" Max="" Chg="" />
+			<Param Name="E" Ident="Bonus_E" Type="string" Min="" Max="" Chg="" />
+			<Param Name="かけら" Ident="Bond_E" Type="int" Min="" Max="" Chg="" />
+			<Param Name="スコア閾値" Ident="Border_E" Type="int" Min="" Max="" Chg="" />
+			<Param Name="F" Ident="Bonus_F" Type="string" Min="" Max="" Chg="" />
+			<Param Name="かけら" Ident="Bond_F" Type="int" Min="" Max="" Chg="" />
+			<Param Name="スコア閾値" Ident="Border_F" Type="int" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param ID="ID_PrizePushUp_Normal" ExerciseType="0" Bonus_SSS="力+2" Bond_SSS="50" Border_SSS="1500" Bonus_SS="力+2" Bond_SS="40" Border_SS="1400" Bonus_S="力+1" Bond_S="30" Border_S="1300" Bonus_A="力+1" Bond_A="20" Border_A="1200" Bonus_B="力+1" Bond_B="15" Border_B="1100" Bonus_C="" Bond_C="10" Border_C="1000" Bonus_D="" Bond_D="5" Border_D="600" Bonus_E="" Bond_E="3" Border_E="300" Bonus_F="" Bond_F="1" Border_F="0" />
+			<Param ID="ID_PrizePushUp_Hard" ExerciseType="0" Bonus_SSS="力+2" Bond_SSS="100" Border_SSS="2000" Bonus_SS="力+2" Bond_SS="80" Border_SS="1850" Bonus_S="力+1" Bond_S="60" Border_S="1700" Bonus_A="力+1" Bond_A="40" Border_A="1550" Bonus_B="力+1" Bond_B="30" Border_B="1400" Bonus_C="" Bond_C="20" Border_C="1250" Bonus_D="" Bond_D="10" Border_D="800" Bonus_E="" Bond_E="6" Border_E="400" Bonus_F="" Bond_F="2" Border_F="0" />
+			<Param ID="ID_PrizePushUp_Master" ExerciseType="0" Bonus_SSS="力+3" Bond_SSS="200" Border_SSS="2500" Bonus_SS="力+3" Bond_SS="160" Border_SS="2300" Bonus_S="力+2" Bond_S="120" Border_S="2100" Bonus_A="力+2" Bond_A="80" Border_A="1900" Bonus_B="力+2" Bond_B="60" Border_B="1700" Bonus_C="力+1" Bond_C="40" Border_C="1500" Bonus_D="力+1" Bond_D="20" Border_D="1000" Bonus_E="力+1" Bond_E="12" Border_E="500" Bonus_F="" Bond_F="4" Border_F="0" />
+			<Param ID="ID_PrizePushUp_Endless" ExerciseType="0" Bonus_SSS="" Bond_SSS="0" Border_SSS="5000" Bonus_SS="" Bond_SS="0" Border_SS="4500" Bonus_S="" Bond_S="0" Border_S="4000" Bonus_A="" Bond_A="0" Border_A="3500" Bonus_B="" Bond_B="0" Border_B="3000" Bonus_C="" Bond_C="0" Border_C="2500" Bonus_D="" Bond_D="0" Border_D="1500" Bonus_E="" Bond_E="0" Border_E="1000" Bonus_F="" Bond_F="0" Border_F="0" />
+			<Param ID="ID_PrizeSitUp_Normal" ExerciseType="1" Bonus_SSS="HP+2" Bond_SSS="50" Border_SSS="1500" Bonus_SS="HP+2" Bond_SS="40" Border_SS="1400" Bonus_S="HP+1" Bond_S="30" Border_S="1300" Bonus_A="HP+1" Bond_A="20" Border_A="1200" Bonus_B="HP+1" Bond_B="15" Border_B="1100" Bonus_C="" Bond_C="10" Border_C="1000" Bonus_D="" Bond_D="5" Border_D="600" Bonus_E="" Bond_E="3" Border_E="300" Bonus_F="" Bond_F="1" Border_F="0" />
+			<Param ID="ID_PrizeSitUp_Hard" ExerciseType="1" Bonus_SSS="HP+2" Bond_SSS="100" Border_SSS="2000" Bonus_SS="HP+2" Bond_SS="80" Border_SS="1850" Bonus_S="HP+1" Bond_S="60" Border_S="1700" Bonus_A="HP+1" Bond_A="40" Border_A="1550" Bonus_B="HP+1" Bond_B="30" Border_B="1400" Bonus_C="" Bond_C="20" Border_C="1250" Bonus_D="" Bond_D="10" Border_D="800" Bonus_E="" Bond_E="6" Border_E="400" Bonus_F="" Bond_F="2" Border_F="0" />
+			<Param ID="ID_PrizeSitUp_Master" ExerciseType="1" Bonus_SSS="HP+3" Bond_SSS="200" Border_SSS="2500" Bonus_SS="HP+3" Bond_SS="160" Border_SS="2300" Bonus_S="HP+2" Bond_S="120" Border_S="2100" Bonus_A="HP+2" Bond_A="80" Border_A="1900" Bonus_B="HP+2" Bond_B="60" Border_B="1700" Bonus_C="HP+1" Bond_C="40" Border_C="1500" Bonus_D="HP+1" Bond_D="20" Border_D="1000" Bonus_E="HP+1" Bond_E="12" Border_E="500" Bonus_F="" Bond_F="4" Border_F="0" />
+			<Param ID="ID_PrizeSitUp_Endless" ExerciseType="1" Bonus_SSS="" Bond_SSS="0" Border_SSS="3000" Bonus_SS="" Bond_SS="0" Border_SS="2750" Bonus_S="" Bond_S="0" Border_S="2500" Bonus_A="" Bond_A="0" Border_A="2250" Bonus_B="" Bond_B="0" Border_B="2000" Bonus_C="" Bond_C="0" Border_C="1750" Bonus_D="" Bond_D="0" Border_D="1200" Bonus_E="" Bond_E="0" Border_E="600" Bonus_F="" Bond_F="0" Border_F="0" />
+			<Param ID="ID_PrizeSquat_Normal" ExerciseType="2" Bonus_SSS="技+2" Bond_SSS="50" Border_SSS="1500" Bonus_SS="技+2" Bond_SS="40" Border_SS="1400" Bonus_S="技+1" Bond_S="30" Border_S="1300" Bonus_A="技+1" Bond_A="20" Border_A="1200" Bonus_B="技+1" Bond_B="15" Border_B="1100" Bonus_C="" Bond_C="10" Border_C="1000" Bonus_D="" Bond_D="5" Border_D="600" Bonus_E="" Bond_E="3" Border_E="300" Bonus_F="" Bond_F="1" Border_F="0" />
+			<Param ID="ID_PrizeSquat_Hard" ExerciseType="2" Bonus_SSS="技+2" Bond_SSS="100" Border_SSS="3000" Bonus_SS="技+2" Bond_SS="80" Border_SS="2750" Bonus_S="技+1" Bond_S="60" Border_S="2500" Bonus_A="技+1" Bond_A="40" Border_A="2250" Bonus_B="技+1" Bond_B="30" Border_B="2000" Bonus_C="" Bond_C="20" Border_C="1750" Bonus_D="" Bond_D="10" Border_D="1200" Bonus_E="" Bond_E="6" Border_E="600" Bonus_F="" Bond_F="2" Border_F="0" />
+			<Param ID="ID_PrizeSquat_Master" ExerciseType="2" Bonus_SSS="技+3" Bond_SSS="200" Border_SSS="4500" Bonus_SS="技+3" Bond_SS="160" Border_SS="4100" Bonus_S="技+2" Bond_S="120" Border_S="3700" Bonus_A="技+2" Bond_A="80" Border_A="3300" Bonus_B="技+2" Bond_B="60" Border_B="2900" Bonus_C="技+1" Bond_C="40" Border_C="2500" Bonus_D="技+1" Bond_D="20" Border_D="1400" Bonus_E="技+1" Bond_E="12" Border_E="800" Bonus_F="" Bond_F="4" Border_F="0" />
+			<Param ID="ID_PrizeSquat_Endless" ExerciseType="2" Bonus_SSS="" Bond_SSS="0" Border_SSS="15000" Bonus_SS="" Bond_SS="0" Border_SS="10000" Bonus_S="" Bond_S="0" Border_S="9000" Bonus_A="" Bond_A="0" Border_A="8000" Bonus_B="" Bond_B="0" Border_B="7000" Bonus_C="" Bond_C="0" Border_C="6000" Bonus_D="" Bond_D="0" Border_D="4000" Bonus_E="" Bond_E="0" Border_E="2000" Bonus_F="" Bond_F="0" Border_F="0" />
+		</Data>
+	</Sheet>
+	<Sheet Name="腹筋設定" Count="220">
+		<Header>
+			<Param Name="識別子" Ident="ID" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="難易度" Ident="Level" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="パーフェクト時間(秒)" Ident="PerfectLimit" Type="float" Min="" Max="" Chg="" />
+			<Param Name="バーの入力ごとの上昇力" Ident="GainPower" Type="float" Min="" Max="" Chg="" />
+			<Param Name="落下速度倍率" Ident="FallSpeed" Type="float" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param ID="ID_Normal_1" Level="0" PerfectLimit="2.39" GainPower="13.5" FallSpeed="0.9" />
+			<Param ID="ID_Normal_2" Level="0" PerfectLimit="2.47" GainPower="13.125" FallSpeed="0.9" />
+			<Param ID="ID_Normal_3" Level="0" PerfectLimit="2.56" GainPower="12.75" FallSpeed="0.9" />
+			<Param ID="ID_Normal_4" Level="0" PerfectLimit="2.65" GainPower="12.375" FallSpeed="0.9" />
+			<Param ID="ID_Normal_5" Level="0" PerfectLimit="2.75" GainPower="12" FallSpeed="0.9" />
+			<Param ID="ID_Normal_6" Level="0" PerfectLimit="2.74" GainPower="11.813" FallSpeed="0.975" />
+			<Param ID="ID_Normal_7" Level="0" PerfectLimit="2.79" GainPower="11.625" FallSpeed="0.975" />
+			<Param ID="ID_Normal_8" Level="0" PerfectLimit="2.85" GainPower="11.438" FallSpeed="0.975" />
+			<Param ID="ID_Normal_9" Level="0" PerfectLimit="2.9" GainPower="11.25" FallSpeed="0.975" />
+			<Param ID="ID_Normal_10" Level="0" PerfectLimit="2.96" GainPower="11.063" FallSpeed="0.975" />
+			<Param ID="ID_Normal_11" Level="0" PerfectLimit="2.96" GainPower="10.875" FallSpeed="1.05" />
+			<Param ID="ID_Normal_12" Level="0" PerfectLimit="3.03" GainPower="10.688" FallSpeed="1.05" />
+			<Param ID="ID_Normal_13" Level="0" PerfectLimit="3.1" GainPower="10.5" FallSpeed="1.05" />
+			<Param ID="ID_Normal_14" Level="0" PerfectLimit="3.17" GainPower="10.313" FallSpeed="1.05" />
+			<Param ID="ID_Normal_15" Level="0" PerfectLimit="3.24" GainPower="10.125" FallSpeed="1.05" />
+			<Param ID="ID_Normal_16" Level="0" PerfectLimit="3.25" GainPower="9.938" FallSpeed="1.125" />
+			<Param ID="ID_Normal_17" Level="0" PerfectLimit="3.33" GainPower="9.75" FallSpeed="1.125" />
+			<Param ID="ID_Normal_18" Level="0" PerfectLimit="3.42" GainPower="9.563" FallSpeed="1.125" />
+			<Param ID="ID_Normal_19" Level="0" PerfectLimit="3.51" GainPower="9.375" FallSpeed="1.125" />
+			<Param ID="ID_Normal_20" Level="0" PerfectLimit="3.6" GainPower="9.188" FallSpeed="1.125" />
+			<Param ID="ID_Normal_21" Level="0" PerfectLimit="3.46" GainPower="9.188" FallSpeed="1.125" />
+			<Param ID="ID_Normal_22" Level="0" PerfectLimit="3.46" GainPower="9.188" FallSpeed="1.125" />
+			<Param ID="ID_Normal_23" Level="0" PerfectLimit="3.46" GainPower="9.188" FallSpeed="1.125" />
+			<Param ID="ID_Normal_24" Level="0" PerfectLimit="3.46" GainPower="9.188" FallSpeed="1.125" />
+			<Param ID="ID_Normal_25" Level="0" PerfectLimit="3.46" GainPower="9.188" FallSpeed="1.125" />
+			<Param ID="ID_Normal_26" Level="0" PerfectLimit="3.32" GainPower="9.188" FallSpeed="1.125" />
+			<Param ID="ID_Normal_27" Level="0" PerfectLimit="3.32" GainPower="9.188" FallSpeed="1.125" />
+			<Param ID="ID_Normal_28" Level="0" PerfectLimit="3.32" GainPower="9.188" FallSpeed="1.125" />
+			<Param ID="ID_Normal_29" Level="0" PerfectLimit="3.32" GainPower="9.188" FallSpeed="1.125" />
+			<Param ID="ID_Normal_30" Level="0" PerfectLimit="3.32" GainPower="9.188" FallSpeed="1.125" />
+			<Param ID="ID_Hard_1" Level="1" PerfectLimit="2.46" GainPower="13.5" FallSpeed="1.05" />
+			<Param ID="ID_Hard_2" Level="1" PerfectLimit="2.54" GainPower="13.125" FallSpeed="1.05" />
+			<Param ID="ID_Hard_3" Level="1" PerfectLimit="2.63" GainPower="12.75" FallSpeed="1.05" />
+			<Param ID="ID_Hard_4" Level="1" PerfectLimit="2.73" GainPower="12.375" FallSpeed="1.05" />
+			<Param ID="ID_Hard_5" Level="1" PerfectLimit="2.83" GainPower="12" FallSpeed="1.05" />
+			<Param ID="ID_Hard_6" Level="1" PerfectLimit="2.8" GainPower="11.813" FallSpeed="1.088" />
+			<Param ID="ID_Hard_7" Level="1" PerfectLimit="2.86" GainPower="11.625" FallSpeed="1.088" />
+			<Param ID="ID_Hard_8" Level="1" PerfectLimit="2.91" GainPower="11.438" FallSpeed="1.088" />
+			<Param ID="ID_Hard_9" Level="1" PerfectLimit="2.98" GainPower="11.25" FallSpeed="1.088" />
+			<Param ID="ID_Hard_10" Level="1" PerfectLimit="3.04" GainPower="11.063" FallSpeed="1.088" />
+			<Param ID="ID_Hard_11" Level="1" PerfectLimit="3.01" GainPower="10.875" FallSpeed="1.125" />
+			<Param ID="ID_Hard_12" Level="1" PerfectLimit="3.08" GainPower="10.688" FallSpeed="1.125" />
+			<Param ID="ID_Hard_13" Level="1" PerfectLimit="3.15" GainPower="10.5" FallSpeed="1.125" />
+			<Param ID="ID_Hard_14" Level="1" PerfectLimit="3.22" GainPower="10.313" FallSpeed="1.125" />
+			<Param ID="ID_Hard_15" Level="1" PerfectLimit="3.3" GainPower="10.125" FallSpeed="1.125" />
+			<Param ID="ID_Hard_16" Level="1" PerfectLimit="3.28" GainPower="9.938" FallSpeed="1.163" />
+			<Param ID="ID_Hard_17" Level="1" PerfectLimit="3.37" GainPower="9.75" FallSpeed="1.163" />
+			<Param ID="ID_Hard_18" Level="1" PerfectLimit="3.45" GainPower="9.563" FallSpeed="1.163" />
+			<Param ID="ID_Hard_19" Level="1" PerfectLimit="3.55" GainPower="9.375" FallSpeed="1.163" />
+			<Param ID="ID_Hard_20" Level="1" PerfectLimit="3.64" GainPower="9.188" FallSpeed="1.163" />
+			<Param ID="ID_Hard_21" Level="1" PerfectLimit="3.64" GainPower="9" FallSpeed="1.2" />
+			<Param ID="ID_Hard_22" Level="1" PerfectLimit="3.74" GainPower="8.813" FallSpeed="1.2" />
+			<Param ID="ID_Hard_23" Level="1" PerfectLimit="3.86" GainPower="8.625" FallSpeed="1.2" />
+			<Param ID="ID_Hard_24" Level="1" PerfectLimit="3.98" GainPower="8.438" FallSpeed="1.2" />
+			<Param ID="ID_Hard_25" Level="1" PerfectLimit="4.1" GainPower="8.25" FallSpeed="1.2" />
+			<Param ID="ID_Hard_26" Level="1" PerfectLimit="3.09" GainPower="10.75" FallSpeed="1.65" />
+			<Param ID="ID_Hard_27" Level="1" PerfectLimit="3.19" GainPower="10.5" FallSpeed="1.65" />
+			<Param ID="ID_Hard_28" Level="1" PerfectLimit="3.31" GainPower="10.25" FallSpeed="1.65" />
+			<Param ID="ID_Hard_29" Level="1" PerfectLimit="3.43" GainPower="10" FallSpeed="1.65" />
+			<Param ID="ID_Hard_30" Level="1" PerfectLimit="3.57" GainPower="9.75" FallSpeed="1.65" />
+			<Param ID="ID_Hard_31" Level="1" PerfectLimit="3.57" GainPower="9.75" FallSpeed="1.65" />
+			<Param ID="ID_Hard_32" Level="1" PerfectLimit="3.57" GainPower="9.75" FallSpeed="1.65" />
+			<Param ID="ID_Hard_33" Level="1" PerfectLimit="3.57" GainPower="9.75" FallSpeed="1.65" />
+			<Param ID="ID_Hard_34" Level="1" PerfectLimit="3.57" GainPower="9.75" FallSpeed="1.65" />
+			<Param ID="ID_Hard_35" Level="1" PerfectLimit="3.57" GainPower="9.75" FallSpeed="1.65" />
+			<Param ID="ID_Hard_36" Level="1" PerfectLimit="3.57" GainPower="9.75" FallSpeed="1.65" />
+			<Param ID="ID_Hard_37" Level="1" PerfectLimit="3.57" GainPower="9.75" FallSpeed="1.65" />
+			<Param ID="ID_Hard_38" Level="1" PerfectLimit="3.57" GainPower="9.75" FallSpeed="1.65" />
+			<Param ID="ID_Hard_39" Level="1" PerfectLimit="3.57" GainPower="9.75" FallSpeed="1.65" />
+			<Param ID="ID_Hard_40" Level="1" PerfectLimit="3.57" GainPower="9.75" FallSpeed="1.65" />
+			<Param ID="ID_Master_1" Level="2" PerfectLimit="2.49" GainPower="13.5" FallSpeed="1.12" />
+			<Param ID="ID_Master_2" Level="2" PerfectLimit="2.57" GainPower="13.125" FallSpeed="1.12" />
+			<Param ID="ID_Master_3" Level="2" PerfectLimit="2.66" GainPower="12.75" FallSpeed="1.12" />
+			<Param ID="ID_Master_4" Level="2" PerfectLimit="2.76" GainPower="12.375" FallSpeed="1.12" />
+			<Param ID="ID_Master_5" Level="2" PerfectLimit="2.87" GainPower="12" FallSpeed="1.12" />
+			<Param ID="ID_Master_6" Level="2" PerfectLimit="2.84" GainPower="11.813" FallSpeed="1.15" />
+			<Param ID="ID_Master_7" Level="2" PerfectLimit="2.9" GainPower="11.625" FallSpeed="1.15" />
+			<Param ID="ID_Master_8" Level="2" PerfectLimit="2.95" GainPower="11.438" FallSpeed="1.15" />
+			<Param ID="ID_Master_9" Level="2" PerfectLimit="3.02" GainPower="11.25" FallSpeed="1.15" />
+			<Param ID="ID_Master_10" Level="2" PerfectLimit="3.08" GainPower="11.063" FallSpeed="1.15" />
+			<Param ID="ID_Master_11" Level="2" PerfectLimit="3.05" GainPower="10.875" FallSpeed="1.18" />
+			<Param ID="ID_Master_12" Level="2" PerfectLimit="3.12" GainPower="10.688" FallSpeed="1.18" />
+			<Param ID="ID_Master_13" Level="2" PerfectLimit="3.19" GainPower="10.5" FallSpeed="1.18" />
+			<Param ID="ID_Master_14" Level="2" PerfectLimit="3.27" GainPower="10.313" FallSpeed="1.18" />
+			<Param ID="ID_Master_15" Level="2" PerfectLimit="3.35" GainPower="10.125" FallSpeed="1.18" />
+			<Param ID="ID_Master_16" Level="2" PerfectLimit="3.33" GainPower="9.938" FallSpeed="1.21" />
+			<Param ID="ID_Master_17" Level="2" PerfectLimit="3.41" GainPower="9.75" FallSpeed="1.21" />
+			<Param ID="ID_Master_18" Level="2" PerfectLimit="3.5" GainPower="9.563" FallSpeed="1.21" />
+			<Param ID="ID_Master_19" Level="2" PerfectLimit="3.59" GainPower="9.375" FallSpeed="1.21" />
+			<Param ID="ID_Master_20" Level="2" PerfectLimit="3.69" GainPower="9.188" FallSpeed="1.21" />
+			<Param ID="ID_Master_21" Level="2" PerfectLimit="3.68" GainPower="9" FallSpeed="1.24" />
+			<Param ID="ID_Master_22" Level="2" PerfectLimit="3.79" GainPower="8.813" FallSpeed="1.24" />
+			<Param ID="ID_Master_23" Level="2" PerfectLimit="3.91" GainPower="8.625" FallSpeed="1.24" />
+			<Param ID="ID_Master_24" Level="2" PerfectLimit="4.03" GainPower="8.438" FallSpeed="1.24" />
+			<Param ID="ID_Master_25" Level="2" PerfectLimit="4.16" GainPower="8.25" FallSpeed="1.24" />
+			<Param ID="ID_Master_26" Level="2" PerfectLimit="4.06" GainPower="8.2" FallSpeed="1.27" />
+			<Param ID="ID_Master_27" Level="2" PerfectLimit="4.1" GainPower="8.15" FallSpeed="1.27" />
+			<Param ID="ID_Master_28" Level="2" PerfectLimit="4.14" GainPower="8.1" FallSpeed="1.27" />
+			<Param ID="ID_Master_29" Level="2" PerfectLimit="4.17" GainPower="8.05" FallSpeed="1.27" />
+			<Param ID="ID_Master_30" Level="2" PerfectLimit="4.21" GainPower="8" FallSpeed="1.27" />
+			<Param ID="ID_Master_31" Level="2" PerfectLimit="4.13" GainPower="7.875" FallSpeed="1.275" />
+			<Param ID="ID_Master_32" Level="2" PerfectLimit="4.19" GainPower="7.8" FallSpeed="1.275" />
+			<Param ID="ID_Master_33" Level="2" PerfectLimit="4.25" GainPower="7.725" FallSpeed="1.275" />
+			<Param ID="ID_Master_34" Level="2" PerfectLimit="4.31" GainPower="7.65" FallSpeed="1.275" />
+			<Param ID="ID_Master_35" Level="2" PerfectLimit="4.38" GainPower="7.575" FallSpeed="1.275" />
+			<Param ID="ID_Master_36" Level="2" PerfectLimit="4.38" GainPower="7.575" FallSpeed="1.275" />
+			<Param ID="ID_Master_37" Level="2" PerfectLimit="4.38" GainPower="7.575" FallSpeed="1.275" />
+			<Param ID="ID_Master_38" Level="2" PerfectLimit="4.38" GainPower="7.575" FallSpeed="1.275" />
+			<Param ID="ID_Master_39" Level="2" PerfectLimit="4.38" GainPower="7.575" FallSpeed="1.275" />
+			<Param ID="ID_Master_40" Level="2" PerfectLimit="4.38" GainPower="7.575" FallSpeed="1.275" />
+			<Param ID="ID_Master_41" Level="2" PerfectLimit="4.38" GainPower="7.575" FallSpeed="1.275" />
+			<Param ID="ID_Master_42" Level="2" PerfectLimit="4.38" GainPower="7.575" FallSpeed="1.275" />
+			<Param ID="ID_Master_43" Level="2" PerfectLimit="4.38" GainPower="7.575" FallSpeed="1.275" />
+			<Param ID="ID_Master_44" Level="2" PerfectLimit="4.38" GainPower="7.575" FallSpeed="1.275" />
+			<Param ID="ID_Master_45" Level="2" PerfectLimit="4.38" GainPower="7.575" FallSpeed="1.275" />
+			<Param ID="ID_Master_46" Level="2" PerfectLimit="4.38" GainPower="7.575" FallSpeed="1.275" />
+			<Param ID="ID_Master_47" Level="2" PerfectLimit="4.38" GainPower="7.575" FallSpeed="1.275" />
+			<Param ID="ID_Master_48" Level="2" PerfectLimit="4.38" GainPower="7.575" FallSpeed="1.275" />
+			<Param ID="ID_Master_49" Level="2" PerfectLimit="4.38" GainPower="7.575" FallSpeed="1.275" />
+			<Param ID="ID_Master_50" Level="2" PerfectLimit="4.38" GainPower="7.575" FallSpeed="1.275" />
+			<Param ID="ID_Endless_1" Level="3" PerfectLimit="2.5" GainPower="13.5" FallSpeed="1.15" />
+			<Param ID="ID_Endless_2" Level="3" PerfectLimit="2.59" GainPower="13.125" FallSpeed="1.15" />
+			<Param ID="ID_Endless_3" Level="3" PerfectLimit="2.68" GainPower="12.75" FallSpeed="1.15" />
+			<Param ID="ID_Endless_4" Level="3" PerfectLimit="2.78" GainPower="12.375" FallSpeed="1.15" />
+			<Param ID="ID_Endless_5" Level="3" PerfectLimit="2.89" GainPower="12" FallSpeed="1.15" />
+			<Param ID="ID_Endless_6" Level="3" PerfectLimit="2.85" GainPower="11.813" FallSpeed="1.17" />
+			<Param ID="ID_Endless_7" Level="3" PerfectLimit="2.91" GainPower="11.625" FallSpeed="1.17" />
+			<Param ID="ID_Endless_8" Level="3" PerfectLimit="2.97" GainPower="11.438" FallSpeed="1.17" />
+			<Param ID="ID_Endless_9" Level="3" PerfectLimit="3.03" GainPower="11.25" FallSpeed="1.17" />
+			<Param ID="ID_Endless_10" Level="3" PerfectLimit="3.1" GainPower="11.063" FallSpeed="1.17" />
+			<Param ID="ID_Endless_11" Level="3" PerfectLimit="3.06" GainPower="10.875" FallSpeed="1.19" />
+			<Param ID="ID_Endless_12" Level="3" PerfectLimit="3.13" GainPower="10.688" FallSpeed="1.19" />
+			<Param ID="ID_Endless_13" Level="3" PerfectLimit="3.2" GainPower="10.5" FallSpeed="1.19" />
+			<Param ID="ID_Endless_14" Level="3" PerfectLimit="3.28" GainPower="10.313" FallSpeed="1.19" />
+			<Param ID="ID_Endless_15" Level="3" PerfectLimit="3.36" GainPower="10.125" FallSpeed="1.19" />
+			<Param ID="ID_Endless_16" Level="3" PerfectLimit="3.33" GainPower="9.938" FallSpeed="1.21" />
+			<Param ID="ID_Endless_17" Level="3" PerfectLimit="3.41" GainPower="9.75" FallSpeed="1.21" />
+			<Param ID="ID_Endless_18" Level="3" PerfectLimit="3.5" GainPower="9.563" FallSpeed="1.21" />
+			<Param ID="ID_Endless_19" Level="3" PerfectLimit="3.59" GainPower="9.375" FallSpeed="1.21" />
+			<Param ID="ID_Endless_20" Level="3" PerfectLimit="3.69" GainPower="9.188" FallSpeed="1.21" />
+			<Param ID="ID_Endless_21" Level="3" PerfectLimit="3.67" GainPower="9" FallSpeed="1.23" />
+			<Param ID="ID_Endless_22" Level="3" PerfectLimit="3.78" GainPower="8.813" FallSpeed="1.23" />
+			<Param ID="ID_Endless_23" Level="3" PerfectLimit="3.89" GainPower="8.625" FallSpeed="1.23" />
+			<Param ID="ID_Endless_24" Level="3" PerfectLimit="4.02" GainPower="8.438" FallSpeed="1.23" />
+			<Param ID="ID_Endless_25" Level="3" PerfectLimit="4.15" GainPower="8.25" FallSpeed="1.23" />
+			<Param ID="ID_Endless_26" Level="3" PerfectLimit="4.04" GainPower="8.2" FallSpeed="1.25" />
+			<Param ID="ID_Endless_27" Level="3" PerfectLimit="4.07" GainPower="8.15" FallSpeed="1.25" />
+			<Param ID="ID_Endless_28" Level="3" PerfectLimit="4.11" GainPower="8.1" FallSpeed="1.25" />
+			<Param ID="ID_Endless_29" Level="3" PerfectLimit="4.14" GainPower="8.05" FallSpeed="1.25" />
+			<Param ID="ID_Endless_30" Level="3" PerfectLimit="4.18" GainPower="8" FallSpeed="1.25" />
+			<Param ID="ID_Endless_31" Level="3" PerfectLimit="4.05" GainPower="7.97" FallSpeed="1.27" />
+			<Param ID="ID_Endless_32" Level="3" PerfectLimit="4.07" GainPower="7.94" FallSpeed="1.27" />
+			<Param ID="ID_Endless_33" Level="3" PerfectLimit="4.1" GainPower="7.91" FallSpeed="1.27" />
+			<Param ID="ID_Endless_34" Level="3" PerfectLimit="4.12" GainPower="7.88" FallSpeed="1.27" />
+			<Param ID="ID_Endless_35" Level="3" PerfectLimit="4.14" GainPower="7.85" FallSpeed="1.27" />
+			<Param ID="ID_Endless_36" Level="3" PerfectLimit="4.18" GainPower="7.82" FallSpeed="1.28" />
+			<Param ID="ID_Endless_37" Level="3" PerfectLimit="4.21" GainPower="7.79" FallSpeed="1.28" />
+			<Param ID="ID_Endless_38" Level="3" PerfectLimit="4.23" GainPower="7.76" FallSpeed="1.28" />
+			<Param ID="ID_Endless_39" Level="3" PerfectLimit="4.26" GainPower="7.73" FallSpeed="1.28" />
+			<Param ID="ID_Endless_40" Level="3" PerfectLimit="4.28" GainPower="7.7" FallSpeed="1.28" />
+			<Param ID="ID_Endless_41" Level="3" PerfectLimit="4.33" GainPower="7.675" FallSpeed="1.3" />
+			<Param ID="ID_Endless_42" Level="3" PerfectLimit="4.36" GainPower="7.65" FallSpeed="1.3" />
+			<Param ID="ID_Endless_43" Level="3" PerfectLimit="4.38" GainPower="7.625" FallSpeed="1.3" />
+			<Param ID="ID_Endless_44" Level="3" PerfectLimit="4.4" GainPower="7.6" FallSpeed="1.3" />
+			<Param ID="ID_Endless_45" Level="3" PerfectLimit="4.42" GainPower="7.575" FallSpeed="1.3" />
+			<Param ID="ID_Endless_46" Level="3" PerfectLimit="4.48" GainPower="7.55" FallSpeed="1.32" />
+			<Param ID="ID_Endless_47" Level="3" PerfectLimit="4.5" GainPower="7.525" FallSpeed="1.32" />
+			<Param ID="ID_Endless_48" Level="3" PerfectLimit="4.53" GainPower="7.5" FallSpeed="1.32" />
+			<Param ID="ID_Endless_49" Level="3" PerfectLimit="4.55" GainPower="7.475" FallSpeed="1.32" />
+			<Param ID="ID_Endless_50" Level="3" PerfectLimit="4.57" GainPower="7.45" FallSpeed="1.32" />
+			<Param ID="ID_Endless_51" Level="3" PerfectLimit="4.61" GainPower="7.43" FallSpeed="1.33" />
+			<Param ID="ID_Endless_52" Level="3" PerfectLimit="4.63" GainPower="7.41" FallSpeed="1.33" />
+			<Param ID="ID_Endless_53" Level="3" PerfectLimit="4.65" GainPower="7.39" FallSpeed="1.33" />
+			<Param ID="ID_Endless_54" Level="3" PerfectLimit="4.67" GainPower="7.37" FallSpeed="1.33" />
+			<Param ID="ID_Endless_55" Level="3" PerfectLimit="4.69" GainPower="7.35" FallSpeed="1.33" />
+			<Param ID="ID_Endless_56" Level="3" PerfectLimit="4.69" GainPower="7.33" FallSpeed="1.32" />
+			<Param ID="ID_Endless_57" Level="3" PerfectLimit="4.71" GainPower="7.31" FallSpeed="1.32" />
+			<Param ID="ID_Endless_58" Level="3" PerfectLimit="4.73" GainPower="7.29" FallSpeed="1.32" />
+			<Param ID="ID_Endless_59" Level="3" PerfectLimit="4.75" GainPower="7.27" FallSpeed="1.32" />
+			<Param ID="ID_Endless_60" Level="3" PerfectLimit="4.77" GainPower="7.25" FallSpeed="1.32" />
+			<Param ID="ID_Endless_61" Level="3" PerfectLimit="4.77" GainPower="7.235" FallSpeed="1.31" />
+			<Param ID="ID_Endless_62" Level="3" PerfectLimit="4.78" GainPower="7.22" FallSpeed="1.31" />
+			<Param ID="ID_Endless_63" Level="3" PerfectLimit="4.8" GainPower="7.205" FallSpeed="1.31" />
+			<Param ID="ID_Endless_64" Level="3" PerfectLimit="4.81" GainPower="7.19" FallSpeed="1.31" />
+			<Param ID="ID_Endless_65" Level="3" PerfectLimit="4.83" GainPower="7.175" FallSpeed="1.31" />
+			<Param ID="ID_Endless_66" Level="3" PerfectLimit="4.82" GainPower="7.16" FallSpeed="1.3" />
+			<Param ID="ID_Endless_67" Level="3" PerfectLimit="4.84" GainPower="7.145" FallSpeed="1.3" />
+			<Param ID="ID_Endless_68" Level="3" PerfectLimit="4.86" GainPower="7.13" FallSpeed="1.3" />
+			<Param ID="ID_Endless_69" Level="3" PerfectLimit="4.87" GainPower="7.115" FallSpeed="1.3" />
+			<Param ID="ID_Endless_70" Level="3" PerfectLimit="4.89" GainPower="7.1" FallSpeed="1.3" />
+			<Param ID="ID_Endless_71" Level="3" PerfectLimit="4.88" GainPower="7.09" FallSpeed="1.29" />
+			<Param ID="ID_Endless_72" Level="3" PerfectLimit="4.89" GainPower="7.08" FallSpeed="1.29" />
+			<Param ID="ID_Endless_73" Level="3" PerfectLimit="4.9" GainPower="7.07" FallSpeed="1.29" />
+			<Param ID="ID_Endless_74" Level="3" PerfectLimit="4.91" GainPower="7.06" FallSpeed="1.29" />
+			<Param ID="ID_Endless_75" Level="3" PerfectLimit="4.92" GainPower="7.05" FallSpeed="1.29" />
+			<Param ID="ID_Endless_76" Level="3" PerfectLimit="4.91" GainPower="7.04" FallSpeed="1.28" />
+			<Param ID="ID_Endless_77" Level="3" PerfectLimit="4.92" GainPower="7.03" FallSpeed="1.28" />
+			<Param ID="ID_Endless_78" Level="3" PerfectLimit="4.93" GainPower="7.02" FallSpeed="1.28" />
+			<Param ID="ID_Endless_79" Level="3" PerfectLimit="4.94" GainPower="7.01" FallSpeed="1.28" />
+			<Param ID="ID_Endless_80" Level="3" PerfectLimit="4.95" GainPower="7" FallSpeed="1.28" />
+			<Param ID="ID_Endless_81" Level="3" PerfectLimit="4.94" GainPower="6.993" FallSpeed="1.27" />
+			<Param ID="ID_Endless_82" Level="3" PerfectLimit="4.95" GainPower="6.986" FallSpeed="1.27" />
+			<Param ID="ID_Endless_83" Level="3" PerfectLimit="4.96" GainPower="6.979" FallSpeed="1.27" />
+			<Param ID="ID_Endless_84" Level="3" PerfectLimit="4.96" GainPower="6.972" FallSpeed="1.27" />
+			<Param ID="ID_Endless_85" Level="3" PerfectLimit="4.97" GainPower="6.965" FallSpeed="1.27" />
+			<Param ID="ID_Endless_86" Level="3" PerfectLimit="4.96" GainPower="6.958" FallSpeed="1.26" />
+			<Param ID="ID_Endless_87" Level="3" PerfectLimit="4.97" GainPower="6.951" FallSpeed="1.26" />
+			<Param ID="ID_Endless_88" Level="3" PerfectLimit="4.97" GainPower="6.944" FallSpeed="1.26" />
+			<Param ID="ID_Endless_89" Level="3" PerfectLimit="4.98" GainPower="6.937" FallSpeed="1.26" />
+			<Param ID="ID_Endless_90" Level="3" PerfectLimit="4.99" GainPower="6.93" FallSpeed="1.26" />
+			<Param ID="ID_Endless_91" Level="3" PerfectLimit="5.02" GainPower="6.88" FallSpeed="1.25" />
+			<Param ID="ID_Endless_92" Level="3" PerfectLimit="5.08" GainPower="6.83" FallSpeed="1.25" />
+			<Param ID="ID_Endless_93" Level="3" PerfectLimit="5.14" GainPower="6.78" FallSpeed="1.25" />
+			<Param ID="ID_Endless_94" Level="3" PerfectLimit="5.2" GainPower="6.73" FallSpeed="1.25" />
+			<Param ID="ID_Endless_95" Level="3" PerfectLimit="5.26" GainPower="6.68" FallSpeed="1.25" />
+			<Param ID="ID_Endless_96" Level="3" PerfectLimit="5.3" GainPower="6.63" FallSpeed="1.24" />
+			<Param ID="ID_Endless_97" Level="3" PerfectLimit="5.37" GainPower="6.58" FallSpeed="1.24" />
+			<Param ID="ID_Endless_98" Level="3" PerfectLimit="5.43" GainPower="6.53" FallSpeed="1.24" />
+			<Param ID="ID_Endless_99" Level="3" PerfectLimit="5.5" GainPower="6.48" FallSpeed="1.24" />
+			<Param ID="ID_Endless_100" Level="3" PerfectLimit="5.57" GainPower="6.43" FallSpeed="1.24" />
+		</Data>
+	</Sheet>
+	<Sheet Name="腕立て伏せ設定" Count="44">
+		<Header>
+			<Param Name="識別子" Ident="ID" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="難易度" Ident="Level" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="バーの初期速度" Ident="SpeedMin" Type="float" Min="" Max="" Chg="" />
+			<Param Name="バーの最高速度" Ident="SpeedMax" Type="float" Min="" Max="" Chg="" />
+			<Param Name="次のレベルまでの回数" Ident="LevelUpCount" Type="int" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param ID="ID_ANormal_1" Level="0" SpeedMin="2.4" SpeedMax="12" LevelUpCount="5" />
+			<Param ID="ID_ANormal_2" Level="0" SpeedMin="3.2" SpeedMax="16" LevelUpCount="5" />
+			<Param ID="ID_ANormal_3" Level="0" SpeedMin="4" SpeedMax="20" LevelUpCount="5" />
+			<Param ID="ID_ANormal_4" Level="0" SpeedMin="4.8" SpeedMax="24" LevelUpCount="5" />
+			<Param ID="ID_ANormal_5" Level="0" SpeedMin="5.6" SpeedMax="28" LevelUpCount="5" />
+			<Param ID="ID_ANormal_6" Level="0" SpeedMin="6.4" SpeedMax="32" LevelUpCount="5" />
+			<Param ID="ID_AHard_1" Level="1" SpeedMin="2.4" SpeedMax="12" LevelUpCount="5" />
+			<Param ID="ID_AHard_2" Level="1" SpeedMin="3.1" SpeedMax="15.5" LevelUpCount="5" />
+			<Param ID="ID_AHard_3" Level="1" SpeedMin="3.8" SpeedMax="19" LevelUpCount="5" />
+			<Param ID="ID_AHard_4" Level="1" SpeedMin="4.5" SpeedMax="22.5" LevelUpCount="5" />
+			<Param ID="ID_AHard_5" Level="1" SpeedMin="5.2" SpeedMax="26" LevelUpCount="5" />
+			<Param ID="ID_AHard_6" Level="1" SpeedMin="5.9" SpeedMax="29.5" LevelUpCount="5" />
+			<Param ID="ID_AHard_7" Level="1" SpeedMin="6.6" SpeedMax="33" LevelUpCount="5" />
+			<Param ID="ID_AHard_8" Level="1" SpeedMin="7.3" SpeedMax="36.5" LevelUpCount="5" />
+			<Param ID="ID_AMaster_1" Level="2" SpeedMin="2.4" SpeedMax="12" LevelUpCount="5" />
+			<Param ID="ID_AMaster_2" Level="2" SpeedMin="3.04" SpeedMax="15.2" LevelUpCount="5" />
+			<Param ID="ID_AMaster_3" Level="2" SpeedMin="3.68" SpeedMax="18.4" LevelUpCount="5" />
+			<Param ID="ID_AMaster_4" Level="2" SpeedMin="4.32" SpeedMax="21.6" LevelUpCount="5" />
+			<Param ID="ID_AMaster_5" Level="2" SpeedMin="4.96" SpeedMax="24.8" LevelUpCount="5" />
+			<Param ID="ID_AMaster_6" Level="2" SpeedMin="5.6" SpeedMax="28" LevelUpCount="5" />
+			<Param ID="ID_AMaster_7" Level="2" SpeedMin="6.24" SpeedMax="31.2" LevelUpCount="5" />
+			<Param ID="ID_AMaster_8" Level="2" SpeedMin="6.88" SpeedMax="34.4" LevelUpCount="5" />
+			<Param ID="ID_AMaster_9" Level="2" SpeedMin="7.52" SpeedMax="37.6" LevelUpCount="5" />
+			<Param ID="ID_AMaster_10" Level="2" SpeedMin="8.16" SpeedMax="40.8" LevelUpCount="5" />
+			<Param ID="ID_AEndless_1" Level="3" SpeedMin="2.4" SpeedMax="12" LevelUpCount="5" />
+			<Param ID="ID_AEndless_2" Level="3" SpeedMin="3" SpeedMax="15" LevelUpCount="5" />
+			<Param ID="ID_AEndless_3" Level="3" SpeedMin="3.6" SpeedMax="18" LevelUpCount="5" />
+			<Param ID="ID_AEndless_4" Level="3" SpeedMin="4.2" SpeedMax="21" LevelUpCount="5" />
+			<Param ID="ID_AEndless_5" Level="3" SpeedMin="4.6" SpeedMax="23" LevelUpCount="5" />
+			<Param ID="ID_AEndless_6" Level="3" SpeedMin="5" SpeedMax="25" LevelUpCount="5" />
+			<Param ID="ID_AEndless_7" Level="3" SpeedMin="5.4" SpeedMax="27" LevelUpCount="5" />
+			<Param ID="ID_AEndless_8" Level="3" SpeedMin="5.7" SpeedMax="28.5" LevelUpCount="5" />
+			<Param ID="ID_AEndless_9" Level="3" SpeedMin="6.2" SpeedMax="31" LevelUpCount="5" />
+			<Param ID="ID_AEndless_10" Level="3" SpeedMin="6.5" SpeedMax="32.5" LevelUpCount="5" />
+			<Param ID="ID_AEndless_11" Level="3" SpeedMin="6.7" SpeedMax="33.5" LevelUpCount="5" />
+			<Param ID="ID_AEndless_12" Level="3" SpeedMin="6.9" SpeedMax="34.5" LevelUpCount="5" />
+			<Param ID="ID_AEndless_13" Level="3" SpeedMin="7.1" SpeedMax="35.5" LevelUpCount="5" />
+			<Param ID="ID_AEndless_14" Level="3" SpeedMin="7.2" SpeedMax="36" LevelUpCount="5" />
+			<Param ID="ID_AEndless_15" Level="3" SpeedMin="7.3" SpeedMax="36.5" LevelUpCount="5" />
+			<Param ID="ID_AEndless_16" Level="3" SpeedMin="7.4" SpeedMax="37" LevelUpCount="5" />
+			<Param ID="ID_AEndless_17" Level="3" SpeedMin="7.5" SpeedMax="37.5" LevelUpCount="5" />
+			<Param ID="ID_AEndless_18" Level="3" SpeedMin="7.6" SpeedMax="38" LevelUpCount="5" />
+			<Param ID="ID_AEndless_19" Level="3" SpeedMin="7.7" SpeedMax="38.5" LevelUpCount="5" />
+			<Param ID="ID_AEndless_20" Level="3" SpeedMin="7.8" SpeedMax="39" LevelUpCount="5" />
+		</Data>
+	</Sheet>
+	<Sheet Name="スクワット判定エリア設定" Count="1">
+		<Header>
+			<Param Name="識別子" Ident="ID" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="Bad" Ident="BadFrameFirst" Type="float" Min="0" Max="" Chg="" />
+			<Param Name="Good" Ident="GoodFrameFirst" Type="float" Min="0" Max="" Chg="" />
+			<Param Name="Perfect" Ident="PerfectFrameFirst" Type="float" Min="0" Max="" Chg="" />
+			<Param Name="Perfect" Ident="PerfectFrameLatter" Type="float" Min="0" Max="" Chg="" />
+			<Param Name="Good" Ident="GoodFrameLatter" Type="float" Min="0" Max="" Chg="" />
+			<Param Name="Bad" Ident="BadFrameLatter" Type="float" Min="0" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param ID="ID_JudgeBase" BadFrameFirst="10" GoodFrameFirst="45" PerfectFrameFirst="55" PerfectFrameLatter="55" GoodFrameLatter="45" BadFrameLatter="10" />
+		</Data>
+	</Sheet>
+	<Sheet Name="スクワット譜面設定" Count="4">
+		<Header>
+			<Param Name="識別子" Ident="ID" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="難易度" Ident="Level" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="個数" Ident="UseCount" Type="int" Min="" Max="" Chg="" />
+			<Param Name="重複ありかどうか" Ident="IsDoubleChoice" Type="bool" Min="" Max="" Chg="" />
+			<Param Name="スピード倍率" Ident="Speed" Type="float" Min="" Max="" Chg="" />
+			<Param Name="ノーツ間距離倍率" Ident="Length" Type="float" Min="" Max="" Chg="" />
+			<Param Name="候補１" Ident="Type_1" Type="string" Min="" Max="" Chg="" />
+			<Param Name="抽選確立１" Ident="LotteryParam_1" Type="float" Min="" Max="" Chg="" />
+			<Param Name="候補2" Ident="Type_2" Type="string" Min="" Max="" Chg="" />
+			<Param Name="抽選確立２" Ident="LotteryParam_2" Type="float" Min="" Max="" Chg="" />
+			<Param Name="候補３" Ident="Type_3" Type="string" Min="" Max="" Chg="" />
+			<Param Name="抽選確立３" Ident="LotteryParam_3" Type="float" Min="" Max="" Chg="" />
+			<Param Name="候補４" Ident="Type_4" Type="string" Min="" Max="" Chg="" />
+			<Param Name="抽選確立４" Ident="LotteryParam_4" Type="float" Min="" Max="" Chg="" />
+			<Param Name="候補５" Ident="Type_5" Type="string" Min="" Max="" Chg="" />
+			<Param Name="抽選確立５" Ident="LotteryParam_5" Type="float" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param ID="ID_Normal" Level="0" UseCount="2" IsDoubleChoice="true" Speed="2" Length="0.918" Type_1="A" LotteryParam_1="100" Type_2="" LotteryParam_2="-1" Type_3="" LotteryParam_3="-1" Type_4="" LotteryParam_4="-1" Type_5="" LotteryParam_5="-1" />
+			<Param ID="ID_Hard" Level="1" UseCount="3" IsDoubleChoice="true" Speed="3.5" Length="0.918" Type_1="A" LotteryParam_1="0" Type_2="B" LotteryParam_2="100" Type_3="C" LotteryParam_3="0" Type_4="" LotteryParam_4="-1" Type_5="" LotteryParam_5="-1" />
+			<Param ID="ID_Master" Level="2" UseCount="4" IsDoubleChoice="true" Speed="4" Length="0.918" Type_1="A" LotteryParam_1="0" Type_2="B" LotteryParam_2="0" Type_3="C" LotteryParam_3="100" Type_4="D" LotteryParam_4="0" Type_5="" LotteryParam_5="-1" />
+			<Param ID="ID_Endless" Level="3" UseCount="5" IsDoubleChoice="true" Speed="4" Length="0.918" Type_1="A" LotteryParam_1="-1" Type_2="B" LotteryParam_2="-1" Type_3="C" LotteryParam_3="-1" Type_4="D" LotteryParam_4="-1" Type_5="E" LotteryParam_5="100" />
+		</Data>
+	</Sheet>
+	<Sheet Name="スクワット譜面シート" Count="225">
+		<Header>
+			<Param Name="識別子" Ident="ID" Type="PublicArray" Min="" Max="" Chg="" />
+			<Param Name="左" Ident="TypeA_L" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="右" Ident="TypeA_R" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="左" Ident="TypeB_L" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="右" Ident="TypeB_R" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="左" Ident="TypeC_L" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="右" Ident="TypeC_R" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="左" Ident="TypeD_L" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="右" Ident="TypeD_R" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="左" Ident="TypeE_L" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="右" Ident="TypeE_R" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="保存用" Ident="Ensure" Type="int" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param ID="ID_List" TypeA_L="" TypeA_R="" TypeB_L="" TypeB_R="" TypeC_L="" TypeC_R="" TypeD_L="" TypeD_R="" TypeE_L="" TypeE_R="" Ensure="" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="2" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="1" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="2" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="1" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="1" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="1" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="2" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="2" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="1" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="2" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="2" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="1" TypeE_R="2" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="1" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="2" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="2" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="1" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="1" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="2" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="2" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="1" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="1" TypeE_R="2" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="2" TypeE_R="2" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="2" TypeE_R="2" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="2" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="2" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="1" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="2" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="1" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="2" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="2" TypeE_R="2" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="2" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="1" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="2" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="2" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="1" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="2" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="2" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="1" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="60" TypeE_R="50" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="6" TypeE_R="5" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="0" TypeE_R="0" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="50" TypeE_R="60" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="5" TypeE_R="6" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="0" TypeE_R="0" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="2" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="1" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="2" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="2" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="1" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="2" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="50" TypeE_R="60" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="5" TypeE_R="6" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="0" TypeE_R="0" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="60" TypeE_R="50" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="6" TypeE_R="5" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="0" TypeE_R="0" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="2" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="2" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="1" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="2" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="1" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="2" TypeE_R="2" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="0" TypeE_R="0" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="1" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="1" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="50" TypeE_R="50" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="5" TypeE_R="5" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="0" TypeE_R="0" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="2" TypeE_R="2" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="2" TypeE_R="2" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="60" TypeE_R="60" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="6" TypeE_R="6" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="0" TypeE_R="0" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="2" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="2" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="1" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="2" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="2" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="1" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="2" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="1" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="1" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="2" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="2" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="1" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="2" TypeE_R="2" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="2" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="2" TypeC_R="1" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="1" TypeC_R="2" TypeD_L="0" TypeD_R="0" TypeE_L="1" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="3" TypeC_R="3" TypeD_L="0" TypeD_R="0" TypeE_L="2" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="1" TypeC_R="1" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="4" TypeC_R="4" TypeD_L="0" TypeD_R="0" TypeE_L="1" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="2" TypeC_R="2" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="2" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="3" TypeC_R="3" TypeD_L="0" TypeD_R="0" TypeE_L="3" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="1" TypeC_R="2" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="3" TypeB_R="3" TypeC_L="4" TypeC_R="4" TypeD_L="0" TypeD_R="0" TypeE_L="4" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="4" TypeB_R="4" TypeC_L="2" TypeC_R="1" TypeD_L="0" TypeD_R="0" TypeE_L="2" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="3" TypeB_R="3" TypeC_L="3" TypeC_R="3" TypeD_L="3" TypeD_R="4" TypeE_L="3" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="2" TypeA_R="1" TypeB_L="4" TypeB_R="4" TypeC_L="0" TypeC_R="0" TypeD_L="4" TypeD_R="1" TypeE_L="1" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="60" TypeB_R="50" TypeC_L="2" TypeC_R="1" TypeD_L="2" TypeD_R="4" TypeE_L="0" TypeE_R="0" Ensure="0" />
+			<Param ID="" TypeA_L="1" TypeA_R="2" TypeB_L="6" TypeB_R="5" TypeC_L="3" TypeC_R="3" TypeD_L="4" TypeD_R="3" TypeE_L="0" TypeE_R="0" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="60" TypeC_R="50" TypeD_L="1" TypeD_R="3" TypeE_L="60" TypeE_R="60" Ensure="0" />
+			<Param ID="" TypeA_L="2" TypeA_R="1" TypeB_L="0" TypeB_R="0" TypeC_L="6" TypeC_R="5" TypeD_L="4" TypeD_R="1" TypeE_L="6" TypeE_R="6" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="2" TypeB_R="1" TypeC_L="0" TypeC_R="0" TypeD_L="2" TypeD_R="4" TypeE_L="0" TypeE_R="0" Ensure="0" />
+			<Param ID="" TypeA_L="1" TypeA_R="2" TypeB_L="1" TypeB_R="2" TypeC_L="3" TypeC_R="4" TypeD_L="3" TypeD_R="1" TypeE_L="50" TypeE_R="50" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="2" TypeB_R="1" TypeC_L="4" TypeC_R="3" TypeD_L="1" TypeD_R="4" TypeE_L="5" TypeE_R="5" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="60" TypeB_R="50" TypeC_L="3" TypeC_R="4" TypeD_L="4" TypeD_R="2" TypeE_L="0" TypeE_R="0" Ensure="0" />
+			<Param ID="" TypeA_L="60" TypeA_R="50" TypeB_L="6" TypeB_R="5" TypeC_L="60" TypeC_R="50" TypeD_L="3" TypeD_R="4" TypeE_L="4" TypeE_R="2" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="6" TypeC_R="5" TypeD_L="4" TypeD_R="3" TypeE_L="3" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="6" TypeA_R="5" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="4" TypeD_R="1" TypeE_L="4" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="3" TypeB_R="3" TypeC_L="2" TypeC_R="1" TypeD_L="2" TypeD_R="4" TypeE_L="4" TypeE_R="2" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="60" TypeB_R="50" TypeC_L="0" TypeC_R="0" TypeD_L="3" TypeD_R="1" TypeE_L="3" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="3" TypeA_R="3" TypeB_L="6" TypeB_R="5" TypeC_L="2" TypeC_R="1" TypeD_L="1" TypeD_R="4" TypeE_L="4" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="4" TypeD_R="2" TypeE_L="4" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="4" TypeA_R="4" TypeB_L="0" TypeB_R="0" TypeC_L="3" TypeC_R="4" TypeD_L="3" TypeD_R="4" TypeE_L="3" TypeE_R="2" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="4" TypeB_R="4" TypeC_L="4" TypeC_R="3" TypeD_L="4" TypeD_R="3" TypeE_L="1" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="60" TypeB_R="50" TypeC_L="3" TypeC_R="4" TypeD_L="4" TypeD_R="2" TypeE_L="4" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="60" TypeA_R="50" TypeB_L="6" TypeB_R="5" TypeC_L="0" TypeC_R="0" TypeD_L="3" TypeD_R="4" TypeE_L="2" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="4" TypeC_R="4" TypeD_L="4" TypeD_R="3" TypeE_L="4" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="6" TypeA_R="5" TypeB_L="0" TypeB_R="0" TypeC_L="2" TypeC_R="1" TypeD_L="4" TypeD_R="3" TypeE_L="3" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="2" TypeB_R="1" TypeC_L="3" TypeC_R="3" TypeD_L="3" TypeD_R="2" TypeE_L="2" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="60" TypeB_R="50" TypeC_L="1" TypeC_R="2" TypeD_L="1" TypeD_R="3" TypeE_L="3" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="2" TypeA_R="1" TypeB_L="6" TypeB_R="5" TypeC_L="4" TypeC_R="4" TypeD_L="4" TypeD_R="1" TypeE_L="1" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="2" TypeC_R="1" TypeD_L="2" TypeD_R="4" TypeE_L="4" TypeE_R="2" Ensure="0" />
+			<Param ID="" TypeA_L="2" TypeA_R="1" TypeB_L="1" TypeB_R="1" TypeC_L="3" TypeC_R="3" TypeD_L="4" TypeD_R="3" TypeE_L="3" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="2" TypeB_R="2" TypeC_L="0" TypeC_R="0" TypeD_L="3" TypeD_R="4" TypeE_L="4" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="1" TypeB_R="1" TypeC_L="3" TypeC_R="1" TypeD_L="2" TypeD_R="3" TypeE_L="3" TypeE_R="2" Ensure="0" />
+			<Param ID="" TypeA_L="60" TypeA_R="50" TypeB_L="0" TypeB_R="0" TypeC_L="2" TypeC_R="3" TypeD_L="3" TypeD_R="1" TypeE_L="1" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="2" TypeB_R="2" TypeC_L="3" TypeC_R="1" TypeD_L="1" TypeD_R="4" TypeE_L="4" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="6" TypeA_R="5" TypeB_L="1" TypeB_R="1" TypeC_L="0" TypeC_R="0" TypeD_L="4" TypeD_R="2" TypeE_L="2" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="2" TypeB_R="2" TypeC_L="2" TypeC_R="3" TypeD_L="3" TypeD_R="4" TypeE_L="4" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="4" TypeD_R="3" TypeE_L="3" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="1" TypeB_R="1" TypeC_L="3" TypeC_R="1" TypeD_L="3" TypeD_R="2" TypeE_L="4" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="60" TypeA_R="50" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="1" TypeD_R="3" TypeE_L="3" TypeE_R="2" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="2" TypeB_R="2" TypeC_L="2" TypeC_R="4" TypeD_L="4" TypeD_R="1" TypeE_L="1" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="6" TypeA_R="5" TypeB_L="0" TypeB_R="0" TypeC_L="4" TypeC_R="1" TypeD_L="2" TypeD_R="4" TypeE_L="4" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="60" TypeB_R="50" TypeC_L="2" TypeC_R="4" TypeD_L="4" TypeD_R="3" TypeE_L="2" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="6" TypeB_R="5" TypeC_L="0" TypeC_R="0" TypeD_L="3" TypeD_R="4" TypeE_L="4" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="4" TypeC_R="1" TypeD_L="4" TypeD_R="3" TypeE_L="3" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="60" TypeB_R="50" TypeC_L="0" TypeC_R="0" TypeD_L="3" TypeD_R="2" TypeE_L="2" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="3" TypeA_R="3" TypeB_L="6" TypeB_R="5" TypeC_L="2" TypeC_R="4" TypeD_L="1" TypeD_R="3" TypeE_L="3" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="4" TypeD_R="1" TypeE_L="1" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="3" TypeA_R="3" TypeB_L="3" TypeB_R="3" TypeC_L="4" TypeC_R="3" TypeD_L="2" TypeD_R="4" TypeE_L="4" TypeE_R="2" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="4" TypeB_R="4" TypeC_L="3" TypeC_R="4" TypeD_L="4" TypeD_R="3" TypeE_L="3" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="4" TypeA_R="4" TypeB_L="3" TypeB_R="3" TypeC_L="4" TypeC_R="3" TypeD_L="3" TypeD_R="4" TypeE_L="4" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="2" TypeD_R="3" TypeE_L="3" TypeE_R="2" Ensure="0" />
+			<Param ID="" TypeA_L="4" TypeA_R="4" TypeB_L="2" TypeB_R="1" TypeC_L="3" TypeC_R="4" TypeD_L="3" TypeD_R="1" TypeE_L="1" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="1" TypeD_R="4" TypeE_L="4" TypeE_R="1" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="2" TypeB_R="1" TypeC_L="4" TypeC_R="3" TypeD_L="4" TypeD_R="2" TypeE_L="2" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="3" TypeD_R="4" TypeE_L="0" TypeE_R="0" Ensure="0" />
+			<Param ID="" TypeA_L="2" TypeA_R="1" TypeB_L="4" TypeB_R="4" TypeC_L="3" TypeC_R="4" TypeD_L="4" TypeD_R="3" TypeE_L="3" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="3" TypeB_R="3" TypeC_L="4" TypeC_R="3" TypeD_L="3" TypeD_R="2" TypeE_L="4" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="2" TypeA_R="1" TypeB_L="4" TypeB_R="4" TypeC_L="3" TypeC_R="4" TypeD_L="1" TypeD_R="3" TypeE_L="3" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="4" TypeD_R="1" TypeE_L="0" TypeE_R="0" Ensure="0" />
+			<Param ID="" TypeA_L="2" TypeA_R="1" TypeB_L="2" TypeB_R="1" TypeC_L="4" TypeC_R="3" TypeD_L="2" TypeD_R="4" TypeE_L="4" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="4" TypeD_R="3" TypeE_L="3" TypeE_R="3" Ensure="0" />
+			<Param ID="" TypeA_L="2" TypeA_R="1" TypeB_L="2" TypeB_R="1" TypeC_L="3" TypeC_R="4" TypeD_L="3" TypeD_R="4" TypeE_L="4" TypeE_R="4" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="0" TypeE_R="0" Ensure="0" />
+			<Param ID="" TypeA_L="0" TypeA_R="0" TypeB_L="0" TypeB_R="0" TypeC_L="0" TypeC_R="0" TypeD_L="0" TypeD_R="0" TypeE_L="0" TypeE_R="0" Ensure="0" />
+			<Param ID="ID_Next" TypeA_L="" TypeA_R="" TypeB_L="" TypeB_R="" TypeC_L="" TypeC_R="" TypeD_L="" TypeD_R="" TypeE_L="" TypeE_R="" Ensure="" />
+		</Data>
+	</Sheet>
+	<Sheet Name="ソラのアシスト設定" Count="3">
+		<Header>
+			<Param Name="識別子" Ident="ID" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="0" Ident="Level_00" Type="int" Min="" Max="" Chg="" />
+			<Param Name="1" Ident="Level_01" Type="int" Min="" Max="" Chg="" />
+			<Param Name="2" Ident="Level_02" Type="int" Min="" Max="" Chg="" />
+			<Param Name="3" Ident="Level_03" Type="int" Min="" Max="" Chg="" />
+			<Param Name="4" Ident="Level_04" Type="int" Min="" Max="" Chg="" />
+			<Param Name="5" Ident="Level_05" Type="int" Min="" Max="" Chg="" />
+			<Param Name="6" Ident="Level_06" Type="int" Min="" Max="" Chg="" />
+			<Param Name="7" Ident="Level_07" Type="int" Min="" Max="" Chg="" />
+			<Param Name="8" Ident="Level_08" Type="int" Min="" Max="" Chg="" />
+			<Param Name="9" Ident="Level_09" Type="int" Min="" Max="" Chg="" />
+			<Param Name="10" Ident="Level_10" Type="int" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param ID="ID_AssistPushUp" Level_00="0" Level_01="2" Level_02="2" Level_03="3" Level_04="3" Level_05="4" Level_06="4" Level_07="5" Level_08="5" Level_09="6" Level_10="6" />
+			<Param ID="ID_AssistSitUp" Level_00="0" Level_01="1" Level_02="1" Level_03="2" Level_04="2" Level_05="3" Level_06="3" Level_07="4" Level_08="4" Level_09="5" Level_10="5" />
+			<Param ID="ID_AssistSquat" Level_00="0" Level_01="2" Level_02="2" Level_03="3" Level_04="3" Level_05="4" Level_06="4" Level_07="5" Level_08="5" Level_09="6" Level_10="6" />
+		</Data>
+	</Sheet>
+</Book>

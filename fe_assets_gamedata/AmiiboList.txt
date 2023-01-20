@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Book Count="1">
+	<Sheet Name="リスト" Count="12">
+		<Header>
+			<Param Name="ナンバリングID" Ident="NumberingID" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="入手アイテム" Ident="IIDs" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="入手アクセサリ" Ident="AID" Type="string" Min="" Max="" Chg="" />
+			<Param Name="入手BGM" Ident="BGM" Type="string" Min="" Max="" Chg="" />
+			<Param Name="入手チケット数&#xA;（2回目以降）" Ident="TicketNum" Type="int" Min="" Max="" Chg="" />
+			<Param Name="入手絆のかけら数&#xA;（2回目以降）" Ident="KizunaNum" Type="int" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param NumberingID="AMPID_0x2100" IIDs="IID_衣装交換チケット;" AID="" BGM="楽曲交換チケット" TicketNum="1" KizunaNum="0" />
+			<Param NumberingID="AMPID_0x2101" IIDs="IID_衣装交換チケット;" AID="" BGM="楽曲交換チケット" TicketNum="1" KizunaNum="0" />
+			<Param NumberingID="AMPID_0x2102" IIDs="IID_衣装交換チケット;" AID="" BGM="楽曲交換チケット" TicketNum="1" KizunaNum="0" />
+			<Param NumberingID="AMPID_0x2103" IIDs="IID_衣装交換チケット;" AID="" BGM="楽曲交換チケット" TicketNum="1" KizunaNum="0" />
+			<Param NumberingID="AMPID_0x2104" IIDs="IID_衣装交換チケット;" AID="" BGM="楽曲交換チケット" TicketNum="1" KizunaNum="0" />
+			<Param NumberingID="AMPID_0x2105" IIDs="IID_衣装交換チケット;" AID="" BGM="楽曲交換チケット" TicketNum="1" KizunaNum="0" />
+			<Param NumberingID="AMPID_0x2106" IIDs="IID_衣装交換チケット;" AID="" BGM="楽曲交換チケット" TicketNum="1" KizunaNum="0" />
+			<Param NumberingID="AMPID_0x2107" IIDs="IID_衣装交換チケット;" AID="" BGM="楽曲交換チケット" TicketNum="1" KizunaNum="0" />
+			<Param NumberingID="AMPID_0x2108" IIDs="IID_衣装交換チケット;" AID="" BGM="楽曲交換チケット" TicketNum="1" KizunaNum="0" />
+			<Param NumberingID="AMPID_0x2109" IIDs="IID_衣装交換チケット;" AID="" BGM="楽曲交換チケット" TicketNum="1" KizunaNum="0" />
+			<Param NumberingID="AMPID_0x210B" IIDs="IID_衣装交換チケット;" AID="" BGM="楽曲交換チケット" TicketNum="1" KizunaNum="0" />
+			<Param NumberingID="AMPID_その他" IIDs="IID_HPの薬;IID_力の薬;IID_魔力の薬;IID_魔防の薬;IID_技の薬;IID_速さの薬;IID_幸運の薬;IID_守備の薬;IID_てつの晶石;IID_はがねの晶石;IID_ぎんの晶石;IID_牛肉;IID_豚肉;IID_鶏肉;IID_羊肉;IID_タマネギ;IID_キャベツ;IID_ハーブ;IID_トマト;IID_芋;IID_幻の野菜;IID_小麦;IID_リンゴ;IID_オレンジ;IID_モモ;IID_ブドウ;IID_ベリー;IID_幻の果物;IID_木の実;IID_ニシン;IID_コイ;IID_サケ;IID_タラ;IID_ウナギ;IID_イワシ;IID_すり身;IID_干物;IID_刺身;IID_幻の魚;IID_ミルク;IID_タマゴ;IID_米;IID_豆;IID_スパイス;IID_傷薬;IID_特効薬;IID_毒消し;IID_聖水;" AID="" BGM="" TicketNum="0" KizunaNum="0" />
+		</Data>
+	</Sheet>
+</Book>

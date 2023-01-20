@@ -1,0 +1,797 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Book Count="2">
+	<Sheet Name="チュートリアル情報" Count="551">
+		<Header>
+			<Param Name="チュートリアルID" Ident="TUTID" Type="PublicArray" Min="" Max="" Chg="" />
+			<Param Name="メッセージ名" Ident="MID" Type="string" Min="" Max="" Chg="" />
+			<Param Name="タイトル名" Ident="Title" Type="string" Min="" Max="" Chg="" />
+			<Param Name="スプライトアトラス名" Ident="SpriteAtlas" Type="string" Min="" Max="" Chg="" />
+			<Param Name="種類" Ident="Type" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="通知" Ident="Notice" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="解放章" Ident="Cid" Type="string" Min="" Max="" Chg="" />
+			<Param Name="順番" Ident="No" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="SS言語対応" Ident="SSType" Type="s8" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param TUTID="TUTID_移動" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_MOVE_0" Title="MID_TUT_BMAP_MOVE_TITLE" SpriteAtlas="BMAP_MOVE" Type="0" Notice="0" Cid="CID_M000" No="11" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_MOVE_1" Title="MID_TUT_BMAP_MOVE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_MOVE_2" Title="MID_TUT_BMAP_MOVE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_ユニットコマンド" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_COMMAND_0" Title="MID_TUT_BMAP_COMMAND_TITLE" SpriteAtlas="BMAP_COMMAND" Type="0" Notice="0" Cid="CID_M000" No="12" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_COMMAND_1" Title="MID_TUT_BMAP_COMMAND_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_フェイズチェンジ" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_CHANGE_0" Title="MID_TUT_BMAP_CHANGE_TITLE" SpriteAtlas="BMAP_CHANGE" Type="0" Notice="0" Cid="CID_M000" No="13" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_CHANGE_1" Title="MID_TUT_BMAP_CHANGE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_攻撃" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_ATTACK_0" Title="MID_TUT_BMAP_ATTACK_TITLE" SpriteAtlas="BMAP_ATTACK" Type="0" Notice="0" Cid="CID_M000" No="15" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_ATTACK_1" Title="MID_TUT_BMAP_ATTACK_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_エンゲージ" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_ENGAGE_0" Title="MID_TUT_BMAP_ENGAGE_TITLE" SpriteAtlas="BMAP_ENGAGE" Type="0" Notice="2" Cid="CID_M000" No="21" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_ENGAGE_1" Title="MID_TUT_BMAP_ENGAGE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_ENGAGE_2" Title="MID_TUT_BMAP_ENGAGE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_ENGAGE_3" Title="MID_TUT_BMAP_ENGAGE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_エンゲージ技" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_ENGAGE_ATTACK_0" Title="MID_TUT_BMAP_ENGAGE_ATTACK_TITLE" SpriteAtlas="BMAP_ENGAGE_ATTACK" Type="0" Notice="2" Cid="CID_M000" No="22" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_ENGAGE_ATTACK_1" Title="MID_TUT_BMAP_ENGAGE_ATTACK_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_ENGAGE_ATTACK_2" Title="MID_TUT_BMAP_ENGAGE_ATTACK_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_地形効果" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_TERRAIN_0" Title="MID_TUT_BMAP_TERRAIN_TITLE" SpriteAtlas="BMAP_TERRAIN" Type="0" Notice="0" Cid="CID_M001" No="61" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_TERRAIN_1" Title="MID_TUT_BMAP_TERRAIN_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_TERRAIN_2" Title="MID_TUT_BMAP_TERRAIN_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_回復" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_RECOVERY_0" Title="MID_TUT_BMAP_RECOVERY_TITLE" SpriteAtlas="BMAP_RECOVERY" Type="0" Notice="0" Cid="CID_M001" No="41" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_RECOVERY_1" Title="MID_TUT_BMAP_RECOVERY_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_シンクロ" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_SYNCHRO_0" Title="MID_TUT_BMAP_SYNCHRO_TITLE" SpriteAtlas="BMAP_SYNCHRO" Type="0" Notice="2" Cid="CID_M001" No="23" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_SYNCHRO_1" Title="MID_TUT_BMAP_SYNCHRO_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_絆レベル" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_KIZUNA_LV_0" Title="MID_TUT_BMAP_KIZUNA_LV_TITLE" SpriteAtlas="BMAP_KIZUNA_LV" Type="0" Notice="2" Cid="" No="31" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_KIZUNA_LV_1" Title="MID_TUT_BMAP_KIZUNA_LV_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_射程" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_RANGE_0" Title="MID_TUT_BMAP_RANGE_TITLE" SpriteAtlas="BMAP_RANGE" Type="0" Notice="0" Cid="CID_M002" No="42" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_RANGE_1" Title="MID_TUT_BMAP_RANGE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_危険範囲" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_OVERALLINFORMATION_0" Title="MID_TUT_OVERALLINFORMATION_TITLE" SpriteAtlas="BMAP_OVERALLINFORMATION" Type="0" Notice="0" Cid="CID_M002" No="43" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_OVERALLINFORMATION_1" Title="MID_TUT_OVERALLINFORMATION_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_ブレイク" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_BREAK_0" Title="MID_TUT_BMAP_BREAK_TITLE" SpriteAtlas="BMAP_BREAK" Type="0" Notice="2" Cid="CID_M002" No="49" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_BREAK_1" Title="MID_TUT_BMAP_BREAK_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_BREAK_2" Title="MID_TUT_BMAP_BREAK_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_杖" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_WAND_0" Title="MID_TUT_BMAP_WAND_TITLE" SpriteAtlas="BMAP_WAND" Type="0" Notice="0" Cid="CID_M002" No="47" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_WAND_1" Title="MID_TUT_BMAP_WAND_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_WAND_2" Title="MID_TUT_BMAP_WAND_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_気功スタイル" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_STYLE_PRANA_0" Title="MID_TUT_STYLE_PRANA_TITLE" SpriteAtlas="STYLE_PRANA" Type="0" Notice="2" Cid="CID_M002" No="55" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_STYLE_PRANA_1" Title="MID_TUT_STYLE_PRANA_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_STYLE_PRANA_2" Title="MID_TUT_STYLE_PRANA_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_魔法" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_MAGIC_0" Title="MID_TUT_BMAP_MAGIC_TITLE" SpriteAtlas="BMAP_MAGIC" Type="0" Notice="0" Cid="CID_M002" No="46" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_MAGIC_1" Title="MID_TUT_BMAP_MAGIC_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_魔法スタイル" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_STYLE_MAGIC_0" Title="MID_TUT_STYLE_MAGIC_TITLE" SpriteAtlas="STYLE_MAGIC" Type="0" Notice="2" Cid="CID_M002" No="54" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_STYLE_MAGIC_1" Title="MID_TUT_STYLE_MAGIC_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_紋章氣" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_GOD_ENERGY_0" Title="MID_TUT_BMAP_GOD_ENERGY_TITLE" SpriteAtlas="BMAP_GOD_ENERGY" Type="0" Notice="2" Cid="CID_M002" No="62" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_GOD_ENERGY_1" Title="MID_TUT_BMAP_GOD_ENERGY_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_特効" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_SPECIALATTACK_0" Title="MID_TUT_BMAP_SPECIALATTACK_TITLE" SpriteAtlas="BMAP_SPECIALATTACK" Type="0" Notice="0" Cid="CID_M003" No="44" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_SPECIALATTACK_1" Title="MID_TUT_BMAP_SPECIALATTACK_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_連携スタイル" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_STYLE_COOP_0" Title="MID_TUT_STYLE_COOP_TITLE" SpriteAtlas="STYLE_COOP" Type="0" Notice="2" Cid="CID_M003" No="56" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_STYLE_COOP_1" Title="MID_TUT_STYLE_COOP_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_騎馬スタイル" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_STYLE_HORSE_0" Title="MID_TUT_STYLE_HORSE_TITLE" SpriteAtlas="STYLE_HORSE" Type="0" Notice="0" Cid="CID_M001" No="53" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_STYLE_HORSE_1" Title="MID_TUT_STYLE_HORSE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_隠密スタイル" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_STYLE_COVERT_0" Title="MID_TUT_STYLE_COVERT_TITLE" SpriteAtlas="STYLE_COVERT" Type="0" Notice="1" Cid="" No="59" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_STYLE_COVERT_1" Title="MID_TUT_STYLE_COVERT_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_重装スタイル" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_STYLE_HEAVY_0" Title="MID_TUT_STYLE_HEAVY_TITLE" SpriteAtlas="STYLE_HEAVY" Type="0" Notice="1" Cid="" No="57" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_STYLE_HEAVY_1" Title="MID_TUT_STYLE_HEAVY_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_飛行スタイル" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_STYLE_FLY_0" Title="MID_TUT_STYLE_FLY_TITLE" SpriteAtlas="STYLE_FLY" Type="0" Notice="1" Cid="" No="58" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_STYLE_FLY_1" Title="MID_TUT_STYLE_FLY_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_竜族スタイル" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_STYLE_DRAGON_0" Title="MID_TUT_STYLE_DRAGON_TITLE" SpriteAtlas="STYLE_DRAGON" Type="0" Notice="1" Cid="" No="52" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_STYLE_DRAGON_1" Title="MID_TUT_STYLE_DRAGON_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_戦闘スタイル" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_STYLE_BATTLE_0" Title="MID_TUT_STYLE_BATTLE_TITLE" SpriteAtlas="STYLE_BATTLE" Type="0" Notice="2" Cid="CID_M001" No="51" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_STYLE_BATTLE_1" Title="MID_TUT_STYLE_BATTLE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_ドロップアイコン" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_ITEMDROP_0" Title="MID_TUT_BMAP_ITEMDROP_TITLE" SpriteAtlas="BMAP_ITEMDROP" Type="0" Notice="0" Cid="CID_M003" No="81" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_ITEMDROP_1" Title="MID_TUT_BMAP_ITEMDROP_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_Xヘルプ" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_XHELP_0" Title="MID_TUT_BMAP_XHELP_TITLE" SpriteAtlas="BMAP_XHELP" Type="0" Notice="0" Cid="CID_M003" No="16" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_XHELP_1" Title="MID_TUT_BMAP_XHELP_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_XHELP_2" Title="MID_TUT_BMAP_XHELP_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_絆会話" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_BONDSSUPPORTTALK_0" Title="MID_TUT_BMAP_BONDSSUPPORTTALK_TITLE" SpriteAtlas="BMAP_BONDSSUPPORTTALK" Type="0" Notice="2" Cid="" No="32" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_BONDSSUPPORTTALK_1" Title="MID_TUT_BMAP_BONDSSUPPORTTALK_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_BONDSSUPPORTTALK_2" Title="MID_TUT_BMAP_BONDSSUPPORTTALK_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_支援効果" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_SUPPORT_0" Title="MID_TUT_BMAP_SUPPORT_TITLE" SpriteAtlas="BMAP_SUPPORT" Type="0" Notice="0" Cid="" No="33" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_SUPPORT_1" Title="MID_TUT_BMAP_SUPPORT_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_SUPPORT_2" Title="MID_TUT_BMAP_SUPPORT_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_訪問" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_VISIT_0" Title="MID_TUT_BMAP_VISIT_TITLE" SpriteAtlas="BMAP_VISIT" Type="0" Notice="0" Cid="CID_M004" No="64" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_VISIT_1" Title="MID_TUT_BMAP_VISIT_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_VISIT_2" Title="MID_TUT_BMAP_VISIT_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_竜の時水晶" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_TIMECRYSTAL_0" Title="MID_TUT_BMAP_TIMECRYSTAL_TITLE" SpriteAtlas="BMAP_TIMECRYSTAL" Type="0" Notice="2" Cid="CID_M004" No="40" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_TIMECRYSTAL_1" Title="MID_TUT_BMAP_TIMECRYSTAL_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_増援" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_REINFORCEMENT_0" Title="MID_TUT_BMAP_REINFORCEMENT_TITLE" SpriteAtlas="BMAP_REINFORCEMENT" Type="0" Notice="0" Cid="CID_M004" No="63" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_REINFORCEMENT_1" Title="MID_TUT_BMAP_REINFORCEMENT_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_戦死者の魂" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_DEADSOUL_0" Title="MID_TUT_BMAP_DEADSOUL_TITLE" SpriteAtlas="BMAP_DEADSOUL" Type="0" Notice="0" Cid="CID_M004" No="74" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_DEADSOUL_1" Title="MID_TUT_BMAP_DEADSOUL_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_DEADSOUL_2" Title="MID_TUT_BMAP_DEADSOUL_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_進撃準備" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_SORTIE_0" Title="MID_TUT_BMAP_SORTIE_TITLE" SpriteAtlas="BMAP_SORTIE" Type="0" Notice="0" Cid="CID_M004" No="1" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_SORTIE_1" Title="MID_TUT_BMAP_SORTIE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_ユニット編成" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_UNIT_SELECT_0" Title="MID_TUT_BMAP_UNIT_SELECT_TITLE" SpriteAtlas="BMAP_UNIT_SELECT" Type="0" Notice="0" Cid="" No="2" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_UNIT_SELECT_1" Title="MID_TUT_BMAP_UNIT_SELECT_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_UNIT_SELECT_2" Title="MID_TUT_BMAP_UNIT_SELECT_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_紋章士選択" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_HERALDICCHOICE_0" Title="MID_TUT_BMAP_HERALDICCHOICE_TITLE" SpriteAtlas="BMAP_HERALDICCHOICE" Type="0" Notice="2" Cid="" No="3" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_HERALDICCHOICE_1" Title="MID_TUT_BMAP_HERALDICCHOICE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_身支度" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_GETTINGDRESSED_0" Title="MID_TUT_BMAP_GETTINGDRESSED_TITLE" SpriteAtlas="BMAP_GETTINGDRESSED" Type="0" Notice="0" Cid="" No="4" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_GETTINGDRESSED_1" Title="MID_TUT_BMAP_GETTINGDRESSED_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_GETTINGDRESSED_2" Title="MID_TUT_BMAP_GETTINGDRESSED_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_GETTINGDRESSED_3" Title="MID_TUT_BMAP_GETTINGDRESSED_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_マップ確認" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_MAPVERIFICATION_0" Title="MID_TUT_BMAP_MAPVERIFICATION_TITLE" SpriteAtlas="BMAP_MAPVERIFICATION" Type="0" Notice="0" Cid="" No="5" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_MAPVERIFICATION_1" Title="MID_TUT_BMAP_MAPVERIFICATION_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_MAPVERIFICATION_2" Title="MID_TUT_BMAP_MAPVERIFICATION_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_MAPVERIFICATION_3" Title="MID_TUT_BMAP_MAPVERIFICATION_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_輸送隊" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_TRANSPORTER_0" Title="MID_TUT_BMAP_TRANSPORTER_TITLE" SpriteAtlas="BMAP_TRANSPORTER" Type="0" Notice="0" Cid="" No="6" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_TRANSPORTER_1" Title="MID_TUT_BMAP_TRANSPORTER_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_スキル" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_EQUIP_SKILL_0" Title="MID_TUT_BMAP_EQUIP_SKILL_TITLE" SpriteAtlas="BMAP_EQUIP_SKILL" Type="0" Notice="0" Cid="" No="7" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_EQUIP_SKILL_1" Title="MID_TUT_BMAP_EQUIP_SKILL_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_扉" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_DOOR_0" Title="MID_TUT_BMAP_DOOR_TITLE" SpriteAtlas="BMAP_DOOR" Type="0" Notice="0" Cid="CID_M005" No="65" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_DOOR_1" Title="MID_TUT_BMAP_DOOR_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_宝箱" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_TREASUREBOX_0" Title="MID_TUT_BMAP_TREASUREBOX_TITLE" SpriteAtlas="BMAP_TREASUREBOX" Type="0" Notice="0" Cid="CID_M005" No="67" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_TREASUREBOX_1" Title="MID_TUT_BMAP_TREASUREBOX_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_地形破壊" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_BREAKINGWALL_0" Title="MID_TUT_BMAP_BREAKINGWALL_TITLE" SpriteAtlas="BMAP_BREAKINGWALL" Type="0" Notice="0" Cid="CID_M005" No="66" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_BREAKINGWALL_1" Title="MID_TUT_BMAP_BREAKINGWALL_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_妨害杖" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_INTERFERINGCANE_0" Title="MID_TUT_BMAP_INTERFERINGCANE_TITLE" SpriteAtlas="BMAP_INTERFERINGCANE" Type="0" Notice="0" Cid="CID_M005" No="48" SSType="0" />
+			<Param TUTID="TUTID_HPストック" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_HPSTOCK_0" Title="MID_TUT_BMAP_HPSTOCK_TITLE" SpriteAtlas="BMAP_HPSTOCK" Type="0" Notice="0" Cid="CID_M005" No="82" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_HPSTOCK_1" Title="MID_TUT_BMAP_HPSTOCK_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_HPSTOCK_2" Title="MID_TUT_BMAP_HPSTOCK_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_索敵" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_SEARCH_0" Title="MID_TUT_BMAP_SEARCH_TITLE" SpriteAtlas="BMAP_SEARCH" Type="0" Notice="0" Cid="CID_M006" No="68" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_SEARCH_1" Title="MID_TUT_BMAP_SEARCH_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_毒" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_POISON_0" Title="MID_TUT_BMAP_POISON_TITLE" SpriteAtlas="BMAP_POISON" Type="0" Notice="0" Cid="CID_M006" No="45" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_POISON_1" Title="MID_TUT_BMAP_POISON_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_POISON_2" Title="MID_TUT_BMAP_POISON_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_POISON_3" Title="MID_TUT_BMAP_POISON_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_篝火" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_TORCH_0" Title="MID_TUT_BMAP_TORCH_TITLE" SpriteAtlas="BMAP_TORCH" Type="0" Notice="0" Cid="CID_M006" No="69" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_TORCH_1" Title="MID_TUT_BMAP_TORCH_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_スマッシュ" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_SMASH_0" Title="MID_TUT_BMAP_SMASH_TITLE" SpriteAtlas="BMAP_SMASH" Type="0" Notice="2" Cid="CID_M007" No="50" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_SMASH_1" Title="MID_TUT_BMAP_SMASH_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_SMASH_2" Title="MID_TUT_BMAP_SMASH_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_闇シンクロ" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_DARKSYNCHRO_0" Title="MID_TUT_BMAP_DARKSYNCHRO_TITLE" SpriteAtlas="BMAP_DARKSYNCHRO" Type="0" Notice="2" Cid="CID_M007" No="24" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_DARKSYNCHRO_1" Title="MID_TUT_BMAP_DARKSYNCHRO_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_DARKSYNCHRO_2" Title="MID_TUT_BMAP_DARKSYNCHRO_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_クラスチェンジ" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_CLASSCHANGE_0" Title="MID_TUT_BMAP_CLASSCHANGE_TITLE" SpriteAtlas="BMAP_CLASSCHANGE" Type="0" Notice="2" Cid="CID_M007" No="8" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_CLASSCHANGE_1" Title="MID_TUT_BMAP_CLASSCHANGE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_CLASSCHANGE_2" Title="MID_TUT_BMAP_CLASSCHANGE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_CLASSCHANGE_3" Title="MID_TUT_BMAP_CLASSCHANGE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_素質" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_APTITUDE_0" Title="MID_TUT_BMAP_APTITUDE_TITLE" SpriteAtlas="BMAP_APTITUDE" Type="0" Notice="2" Cid="" No="9" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_APTITUDE_1" Title="MID_TUT_BMAP_APTITUDE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_APTITUDE_2" Title="MID_TUT_BMAP_APTITUDE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_弓砲台" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_BOWTURRET_0" Title="MID_TUT_BMAP_BOWTURRET_TITLE" SpriteAtlas="BMAP_BOWTURRET" Type="0" Notice="0" Cid="CID_M008" No="71" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_BOWTURRET_1" Title="MID_TUT_BMAP_BOWTURRET_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_BOWTURRET_2" Title="MID_TUT_BMAP_BOWTURRET_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_会話" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_CONVERSATION_0" Title="MID_TUT_BMAP_CONVERSATION_TITLE" SpriteAtlas="BMAP_CONVERSATION" Type="0" Notice="0" Cid="" No="91" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_CONVERSATION_1" Title="MID_TUT_BMAP_CONVERSATION_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_CONVERSATION_2" Title="MID_TUT_BMAP_CONVERSATION_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_魔砲台" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_MAGICTURRET_0" Title="MID_TUT_BMAP_MAGICTURRET_TITLE" SpriteAtlas="BMAP_MAGICTURRET" Type="0" Notice="0" Cid="CID_M010" No="72" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_MAGICTURRET_1" Title="MID_TUT_BMAP_MAGICTURRET_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_MAGICTURRET_2" Title="MID_TUT_BMAP_MAGICTURRET_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_流砂" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_QUICKSAND_0" Title="MID_TUT_BMAP_QUICKSAND_TITLE" SpriteAtlas="BMAP_QUICKSAND" Type="0" Notice="0" Cid="CID_M012" No="70" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_QUICKSAND_1" Title="MID_TUT_BMAP_QUICKSAND_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_暴走" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_RECKLESS_0" Title="MID_TUT_BMAP_RECKLESS_TITLE" SpriteAtlas="BMAP_RECKLESS" Type="0" Notice="2" Cid="CID_M014" No="25" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_RECKLESS_1" Title="MID_TUT_BMAP_RECKLESS_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_踊り" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_DANCE_0" Title="MID_TUT_BMAP_DANCE_TITLE" SpriteAtlas="BMAP_DANCE" Type="0" Notice="0" Cid="CID_M015" No="99" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_DANCE_1" Title="MID_TUT_BMAP_DANCE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_火炎砲台" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_FLAMETURRET_0" Title="MID_TUT_BMAP_FLAMETURRET_TITLE" SpriteAtlas="BMAP_FLAMETURRET" Type="0" Notice="0" Cid="CID_M018" No="73" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_FLAMETURRET_1" Title="MID_TUT_BMAP_FLAMETURRET_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_FLAMETURRET_2" Title="MID_TUT_BMAP_FLAMETURRET_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_指輪収集" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_PICKUPARING_0" Title="MID_TUT_BMAP_PICKUPARING_TITLE" SpriteAtlas="BMAP_PICKUPARING" Type="5" Notice="2" Cid="CID_M022" No="0" SSType="0" />
+			<Param TUTID="TUTID_再シンクロ" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_LINKINGUP_0" Title="MID_TUT_BMAP_LINKINGUP_TITLE" SpriteAtlas="BMAP_LINKINGUP" Type="5" Notice="2" Cid="CID_M022" No="0" SSType="0" />
+			<Param TUTID="TUTID_邪竜紋" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_DRAGONCREST_0" Title="MID_TUT_BMAP_DRAGONCREST_TITLE" SpriteAtlas="BMAP_DRAGONCREST" Type="5" Notice="2" Cid="CID_M023" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_DRAGONCREST_1" Title="MID_TUT_BMAP_DRAGONCREST_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_火山弾" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_VOLCANICBOMB_0" Title="MID_TUT_BMAP_VOLCANICBOMB_TITLE" SpriteAtlas="BMAP_VOLCANICBOMB" Type="5" Notice="2" Cid="CID_M023" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_VOLCANICBOMB_1" Title="MID_TUT_BMAP_VOLCANICBOMB_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_VOLCANICBOMB_2" Title="MID_TUT_BMAP_VOLCANICBOMB_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_雪崩" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_AVALANCHE_0" Title="MID_TUT_BMAP_AVALANCHE_TITLE" SpriteAtlas="BMAP_AVALANCHE" Type="5" Notice="2" Cid="CID_M024" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_AVALANCHE_1" Title="MID_TUT_BMAP_AVALANCHE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_AVALANCHE_2" Title="MID_TUT_BMAP_AVALANCHE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_ターン制限" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_TURNLIMIT_0" Title="MID_TUT_BMAP_TURNLIMIT_TITLE" SpriteAtlas="BMAP_TURNLIMIT" Type="0" Notice="2" Cid="CID_M024" No="14" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_TURNLIMIT_1" Title="MID_TUT_BMAP_TURNLIMIT_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_邪竜紋砲" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_DRAGONBEAM_0" Title="MID_TUT_BMAP_DRAGONBEAM_TITLE" SpriteAtlas="BMAP_DRAGONBEAM" Type="5" Notice="2" Cid="CID_M025" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_DRAGONBEAM_1" Title="MID_TUT_BMAP_DRAGONBEAM_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_闇の紋章士" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_DARKHERALDIC_0" Title="MID_TUT_BMAP_DARKHERALDIC_TITLE" SpriteAtlas="BMAP_DARKHERALDIC" Type="5" Notice="2" Cid="CID_M026" No="0" SSType="0" />
+			<Param TUTID="TUTID_闇の結界" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_BARRIER_0" Title="MID_TUT_BMAP_BARRIER_TITLE" SpriteAtlas="BMAP_BARRIER" Type="5" Notice="2" Cid="CID_M026" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_BARRIER_1" Title="MID_TUT_BMAP_BARRIER_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_約束の指輪" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_BMAP_ENGAGERING_0" Title="MID_TUT_BMAP_ENGAGERING_TITLE" SpriteAtlas="BMAP_ENGAGERING" Type="2" Notice="2" Cid="" No="34" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_ENGAGERING_1" Title="MID_TUT_BMAP_ENGAGERING_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_BMAP_ENGAGERING_2" Title="MID_TUT_BMAP_ENGAGERING_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_紋章士マルス" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_GOD_MARTH_0" Title="MID_TUT_GOD_MARTH_TITLE" SpriteAtlas="GOD_MARTH" Type="1" Notice="0" Cid="CID_M001" No="1" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_MARTH_1" Title="MID_TUT_GOD_MARTH_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_MARTH_2" Title="MID_TUT_GOD_MARTH_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_MARTH_3" Title="MID_TUT_GOD_MARTH_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_MARTH_4" Title="MID_TUT_GOD_MARTH_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_紋章士シグルド" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_GOD_SIGLUD_0" Title="MID_TUT_GOD_SIGLUD_TITLE" SpriteAtlas="GOD_SIGLUD" Type="1" Notice="0" Cid="CID_M004" No="3" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_SIGLUD_1" Title="MID_TUT_GOD_SIGLUD_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_SIGLUD_2" Title="MID_TUT_GOD_SIGLUD_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_SIGLUD_3" Title="MID_TUT_GOD_SIGLUD_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_SIGLUD_4" Title="MID_TUT_GOD_SIGLUD_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_紋章士セリカ" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_GOD_CELICA_0" Title="MID_TUT_GOD_CELICA_TITLE" SpriteAtlas="GOD_CELICA" Type="1" Notice="0" Cid="CID_M004" No="2" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_CELICA_1" Title="MID_TUT_GOD_CELICA_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_CELICA_2" Title="MID_TUT_GOD_CELICA_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_CELICA_3" Title="MID_TUT_GOD_CELICA_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_CELICA_4" Title="MID_TUT_GOD_CELICA_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_紋章士ミカヤ" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_GOD_MICAIAH_0" Title="MID_TUT_GOD_MICAIAH_TITLE" SpriteAtlas="GOD_MICAIAH" Type="1" Notice="0" Cid="CID_M006" No="9" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_MICAIAH_1" Title="MID_TUT_GOD_MICAIAH_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_MICAIAH_2" Title="MID_TUT_GOD_MICAIAH_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_MICAIAH_3" Title="MID_TUT_GOD_MICAIAH_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_MICAIAH_4" Title="MID_TUT_GOD_MICAIAH_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_紋章士ロイ" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_GOD_ROY_0" Title="MID_TUT_GOD_ROY_TITLE" SpriteAtlas="GOD_ROY" Type="1" Notice="0" Cid="CID_M008" No="5" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_ROY_1" Title="MID_TUT_GOD_ROY_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_ROY_2" Title="MID_TUT_GOD_ROY_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_ROY_3" Title="MID_TUT_GOD_ROY_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_ROY_4" Title="MID_TUT_GOD_ROY_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_紋章士リーフ" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_GOD_LEAF_0" Title="MID_TUT_GOD_LEAF_TITLE" SpriteAtlas="GOD_LEAF" Type="1" Notice="0" Cid="CID_M010" No="4" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_LEAF_1" Title="MID_TUT_GOD_LEAF_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_LEAF_2" Title="MID_TUT_GOD_LEAF_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_LEAF_3" Title="MID_TUT_GOD_LEAF_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_LEAF_4" Title="MID_TUT_GOD_LEAF_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_紋章士リン" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_GOD_LIN_0" Title="MID_TUT_GOD_LIN_TITLE" SpriteAtlas="GOD_LIN" Type="1" Notice="0" Cid="CID_M011" No="6" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_LIN_1" Title="MID_TUT_GOD_LIN_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_LIN_2" Title="MID_TUT_GOD_LIN_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_LIN_3" Title="MID_TUT_GOD_LIN_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_LIN_4" Title="MID_TUT_GOD_LIN_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_紋章士ルキナ" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_GOD_LUCINA_0" Title="MID_TUT_GOD_LUCINA_TITLE" SpriteAtlas="GOD_LUCINA" Type="1" Notice="0" Cid="CID_M011" No="10" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_LUCINA_1" Title="MID_TUT_GOD_LUCINA_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_LUCINA_2" Title="MID_TUT_GOD_LUCINA_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_LUCINA_3" Title="MID_TUT_GOD_LUCINA_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_LUCINA_4" Title="MID_TUT_GOD_LUCINA_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_紋章士アイク" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_GOD_IKE_0" Title="MID_TUT_GOD_IKE_TITLE" SpriteAtlas="GOD_IKE" Type="1" Notice="0" Cid="CID_M013" No="8" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_IKE_1" Title="MID_TUT_GOD_IKE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_IKE_2" Title="MID_TUT_GOD_IKE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_IKE_3" Title="MID_TUT_GOD_IKE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_IKE_4" Title="MID_TUT_GOD_IKE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_紋章士カムイ" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_GOD_KAMUI_0" Title="MID_TUT_GOD_KAMUI_TITLE" SpriteAtlas="GOD_KAMUI" Type="1" Notice="0" Cid="CID_M015" No="11" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_KAMUI_1" Title="MID_TUT_GOD_KAMUI_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_KAMUI_2" Title="MID_TUT_GOD_KAMUI_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_KAMUI_3" Title="MID_TUT_GOD_KAMUI_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_KAMUI_4" Title="MID_TUT_GOD_KAMUI_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_紋章士ベレト" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_GOD_BYLETH_0" Title="MID_TUT_GOD_BYLETH_TITLE" SpriteAtlas="GOD_BYLETH" Type="1" Notice="0" Cid="CID_M015" No="12" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_BYLETH_1" Title="MID_TUT_GOD_BYLETH_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_BYLETH_2" Title="MID_TUT_GOD_BYLETH_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_BYLETH_3" Title="MID_TUT_GOD_BYLETH_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_BYLETH_4" Title="MID_TUT_GOD_BYLETH_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_紋章士エイリーク" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_GOD_EIRIK_0" Title="MID_TUT_GOD_EIRIK_TITLE" SpriteAtlas="GOD_EIRIK" Type="1" Notice="0" Cid="CID_M016" No="7" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_EIRIK_1" Title="MID_TUT_GOD_EIRIK_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_EIRIK_2" Title="MID_TUT_GOD_EIRIK_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_EIRIK_3" Title="MID_TUT_GOD_EIRIK_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_EIRIK_4" Title="MID_TUT_GOD_EIRIK_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_紋章士リュール" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_GOD_LUEUR_0" Title="MID_TUT_GOD_LUEUR_TITLE" SpriteAtlas="GOD_LUEUR" Type="1" Notice="0" Cid="CID_M023" No="13" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_LUEUR_1" Title="MID_TUT_GOD_LUEUR_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_LUEUR_2" Title="MID_TUT_GOD_LUEUR_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_LUEUR_3" Title="MID_TUT_GOD_LUEUR_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_LUEUR_4" Title="MID_TUT_GOD_LUEUR_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_紋章士リュールの絆レベル" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_GOD_LUEUR_KL_0" Title="MID_TUT_GOD_LUEUR_KL_TITLE" SpriteAtlas="GOD_LUEUR_KL" Type="1" Notice="2" Cid="CID_M023" No="14" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GOD_LUEUR_KL_1" Title="MID_TUT_GOD_LUEUR_KL_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_エンゲージ+" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_ENGAGE_PLUS_0" Title="MID_TUT_ENGAGE_PLUS_TITLE" SpriteAtlas="ENGAGE_PLUS" Type="1" Notice="2" Cid="CID_M023" No="15" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_ENGAGE_PLUS_1" Title="MID_TUT_ENGAGE_PLUS_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_ENGAGE_PLUS_2" Title="MID_TUT_ENGAGE_PLUS_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_ワールドマップ" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_GMAP_BASIC_0" Title="MID_TUT_GMAP_BASIC_TITLE" SpriteAtlas="GMAP_BASIC" Type="3" Notice="0" Cid="" No="3" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GMAP_BASIC_1" Title="MID_TUT_GMAP_BASIC_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GMAP_BASIC_2" Title="MID_TUT_GMAP_BASIC_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_外伝マップ" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_GMAP_SIDE_0" Title="MID_TUT_GMAP_SIDE_TITLE" SpriteAtlas="GMAP_SIDE" Type="3" Notice="0" Cid="" No="4" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GMAP_SIDE_1" Title="MID_TUT_GMAP_SIDE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_遭遇戦" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_GMAP_ENCOUNT_0" Title="MID_TUT_GMAP_ENCOUNT_TITLE" SpriteAtlas="GMAP_ENCOUNT" Type="3" Notice="0" Cid="" No="5" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GMAP_ENCOUNT_1" Title="MID_TUT_GMAP_ENCOUNT_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GMAP_ENCOUNT_2" Title="MID_TUT_GMAP_ENCOUNT_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_出撃ランキング" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_GMAP_RANKING_0" Title="MID_TUT_GMAP_RANKING_TITLE" SpriteAtlas="GMAP_RANKING" Type="3" Notice="0" Cid="" No="6" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_GMAP_RANKING_1" Title="MID_TUT_GMAP_RANKING_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_絆リザルト" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_KR_KIZUNARESULT_0" Title="MID_TUT_KR_KIZUNARESULT_TITLE" SpriteAtlas="KR_KIZUNARESULT" Type="3" Notice="2" Cid="" No="1" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_KR_KIZUNARESULT_1" Title="MID_TUT_KR_KIZUNARESULT_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_KR_KIZUNARESULT_2" Title="MID_TUT_KR_KIZUNARESULT_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_絆のかけら" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_KR_KIZUNAPIECE_0" Title="MID_TUT_KR_KIZUNAPIECE_TITLE" SpriteAtlas="KR_KIZUNAPIECE" Type="3" Notice="2" Cid="" No="2" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_KR_KIZUNAPIECE_1" Title="MID_TUT_KR_KIZUNAPIECE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_KR_KIZUNAPIECE_2" Title="MID_TUT_KR_KIZUNAPIECE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_拠点" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_HUB_BASIC_0" Title="MID_TUT_HUB_BASIC_TITLE" SpriteAtlas="HUB_BASIC" Type="2" Notice="0" Cid="" No="1" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_BASIC_1" Title="MID_TUT_HUB_BASIC_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_BASIC_2" Title="MID_TUT_HUB_BASIC_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_カフェテラス" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_HUB_CENTRALLOBBY_0" Title="MID_TUT_HUB_CENTRALLOBBY_TITLE" SpriteAtlas="HUB_CENTRALLOBBY" Type="2" Notice="0" Cid="" No="3" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_CENTRALLOBBY_1" Title="MID_TUT_HUB_CENTRALLOBBY_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_CENTRALLOBBY_2" Title="MID_TUT_HUB_CENTRALLOBBY_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_投資" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_HUB_INVESTMENT_0" Title="MID_TUT_HUB_INVESTMENT_TITLE" SpriteAtlas="HUB_INVESTMENT" Type="2" Notice="0" Cid="" No="4" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_INVESTMENT_1" Title="MID_TUT_HUB_INVESTMENT_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_INVESTMENT_2" Title="MID_TUT_HUB_INVESTMENT_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_拠点情報" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_HUB_INFORMATION_0" Title="MID_TUT_HUB_INFORMATION_TITLE" SpriteAtlas="HUB_INFORMATION" Type="2" Notice="0" Cid="" No="5" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_INFORMATION_1" Title="MID_TUT_HUB_INFORMATION_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_実績" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_HUB_ACHIEVEMENT_0" Title="MID_TUT_HUB_ACHIEVEMENT_TITLE" SpriteAtlas="HUB_ACHIEVEMENT" Type="2" Notice="0" Cid="" No="6" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_ACHIEVEMENT_1" Title="MID_TUT_HUB_ACHIEVEMENT_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_マイルーム" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_HUB_MYROOM_0" Title="MID_TUT_HUB_MYROOM_TITLE" SpriteAtlas="HUB_MYROOM" Type="2" Notice="0" Cid="" No="2" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_MYROOM_1" Title="MID_TUT_HUB_MYROOM_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_MYROOM_2" Title="MID_TUT_HUB_MYROOM_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_MYROOM_3" Title="MID_TUT_HUB_MYROOM_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_MYROOM_4" Title="MID_TUT_HUB_MYROOM_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_動物小屋" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_HUB_ANIMAL_0" Title="MID_TUT_HUB_ANIMAL_TITLE" SpriteAtlas="HUB_ANIMAL" Type="2" Notice="0" Cid="" No="31" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_ANIMAL_1" Title="MID_TUT_HUB_ANIMAL_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_ANIMAL_2" Title="MID_TUT_HUB_ANIMAL_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_武器屋" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_HUB_WEAPONSHOP_0" Title="MID_TUT_HUB_WEAPONSHOP_TITLE" SpriteAtlas="HUB_WEAPONSHOP" Type="2" Notice="0" Cid="" No="21" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_WEAPONSHOP_1" Title="MID_TUT_HUB_WEAPONSHOP_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_道具屋" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_HUB_ITEMSHOP_0" Title="MID_TUT_HUB_ITEMSHOP_TITLE" SpriteAtlas="HUB_ITEMSHOP" Type="2" Notice="0" Cid="" No="22" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_ITEMSHOP_1" Title="MID_TUT_HUB_ITEMSHOP_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_紋章士の間" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_HUB_HERALDICSPACE_0" Title="MID_TUT_HUB_HERALDICSPACE_TITLE" SpriteAtlas="HUB_HERALDICSPACE" Type="2" Notice="0" Cid="" No="8" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_HERALDICSPACE_1" Title="MID_TUT_HUB_HERALDICSPACE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_HERALDICSPACE_2" Title="MID_TUT_HUB_HERALDICSPACE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_スキル継承" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_HUB_INHERITSKILL_0" Title="MID_TUT_HUB_INHERITSKILL_TITLE" SpriteAtlas="HUB_INHERITSKILL" Type="2" Notice="0" Cid="" No="9" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_INHERITSKILL_1" Title="MID_TUT_HUB_INHERITSKILL_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_INHERITSKILL_2" Title="MID_TUT_HUB_INHERITSKILL_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_INHERITSKILL_3" Title="MID_TUT_HUB_INHERITSKILL_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_指輪精製" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_HUB_CREATE_RING_0" Title="MID_TUT_HUB_CREATE_RING_TITLE" SpriteAtlas="HUB_CREATE_RING" Type="2" Notice="0" Cid="" No="10" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_CREATE_RING_1" Title="MID_TUT_HUB_CREATE_RING_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_エンゲージ武器強化" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_HUB_ENGWEAPON_REFINE_0" Title="MID_TUT_HUB_ENGWEAPON_REFINE_TITLE" SpriteAtlas="HUB_ENGWEAPON_REFINE" Type="2" Notice="0" Cid="" No="11" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_ENGWEAPON_REFINE_1" Title="MID_TUT_HUB_ENGWEAPON_REFINE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_ENGWEAPON_REFINE_2" Title="MID_TUT_HUB_ENGWEAPON_REFINE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_ENGWEAPON_REFINE_3" Title="MID_TUT_HUB_ENGWEAPON_REFINE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_神秘の洞窟" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_HUB_MASCOT_0" Title="MID_TUT_HUB_MASCOT_TITLE" SpriteAtlas="HUB_MASCOT" Type="2" Notice="0" Cid="" No="32" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_MASCOT_1" Title="MID_TUT_HUB_MASCOT_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_筋肉体操" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_HUB_MUSCLEEXERCISES_0" Title="MID_TUT_HUB_MUSCLEEXERCISES_TITLE" SpriteAtlas="HUB_MUSCLEEXERCISES" Type="5" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_MUSCLEEXERCISES_1" Title="MID_TUT_HUB_MUSCLEEXERCISES_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_MUSCLEEXERCISES_2" Title="MID_TUT_HUB_MUSCLEEXERCISES_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_腕立て伏せ" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_HUB_ME_PUSHUPS_0" Title="MID_TUT_HUB_ME_PUSHUPS_TITLE" SpriteAtlas="HUB_ME_PUSHUPS" Type="5" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_ME_PUSHUPS_1" Title="MID_TUT_HUB_ME_PUSHUPS_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_ME_PUSHUPS_2" Title="MID_TUT_HUB_ME_PUSHUPS_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_腹筋" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_HUB_ME_SITUP_0" Title="MID_TUT_HUB_ME_SITUP_TITLE" SpriteAtlas="HUB_ME_SITUP" Type="5" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_ME_SITUP_1" Title="MID_TUT_HUB_ME_SITUP_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_ME_SITUP_2" Title="MID_TUT_HUB_ME_SITUP_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_スクワット" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_HUB_ME_SQUAT_0" Title="MID_TUT_HUB_ME_SQUAT_TITLE" SpriteAtlas="HUB_ME_SQUAT" Type="5" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_ME_SQUAT_1" Title="MID_TUT_HUB_ME_SQUAT_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_ME_SQUAT_2" Title="MID_TUT_HUB_ME_SQUAT_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_鍛錬の間" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_HUB_ARENA_0" Title="MID_TUT_HUB_ARENA_TITLE" SpriteAtlas="HUB_ARENA" Type="2" Notice="0" Cid="" No="12" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_ARENA_1" Title="MID_TUT_HUB_ARENA_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_ARENA_2" Title="MID_TUT_HUB_ARENA_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_amiiboスポット" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_HUB_AMIIBO_0" Title="MID_TUT_HUB_AMIIBO_TITLE" SpriteAtlas="HUB_AMIIBO" Type="2" Notice="0" Cid="" No="33" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_AMIIBO_1" Title="MID_TUT_HUB_AMIIBO_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_錬成屋" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_HUB_DRILLINGSHOP_0" Title="MID_TUT_HUB_DRILLINGSHOP_TITLE" SpriteAtlas="HUB_DRILLINGSHOP" Type="2" Notice="0" Cid="" No="23" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_DRILLINGSHOP_1" Title="MID_TUT_HUB_DRILLINGSHOP_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_DRILLINGSHOP_2" Title="MID_TUT_HUB_DRILLINGSHOP_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_DRILLINGSHOP_3" Title="MID_TUT_HUB_DRILLINGSHOP_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_アクセサリー屋" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_HUB_ACCESSORYSHOP_0" Title="MID_TUT_HUB_ACCESSORYSHOP_TITLE" SpriteAtlas="HUB_ACCESSORYSHOP" Type="2" Notice="0" Cid="" No="24" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_ACCESSORYSHOP_1" Title="MID_TUT_HUB_ACCESSORYSHOP_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_ACCESSORYSHOP_2" Title="MID_TUT_HUB_ACCESSORYSHOP_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_食事" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_HUB_COOK_0" Title="MID_TUT_HUB_COOK_TITLE" SpriteAtlas="HUB_COOK" Type="2" Notice="0" Cid="" No="7" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_COOK_1" Title="MID_TUT_HUB_COOK_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_COOK_2" Title="MID_TUT_HUB_COOK_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_COOK_3" Title="MID_TUT_HUB_COOK_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_試練の離れ" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_HUB_CAPERIDGE_0" Title="MID_TUT_HUB_CAPERIDGE_TITLE" SpriteAtlas="HUB_CAPERIDGE" Type="2" Notice="0" Cid="" No="34" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_CAPERIDGE_1" Title="MID_TUT_HUB_CAPERIDGE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_CAPERIDGE_2" Title="MID_TUT_HUB_CAPERIDGE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_CAPERIDGE_3" Title="MID_TUT_HUB_CAPERIDGE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_釣り体験" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_HUB_FISHING_0" Title="MID_TUT_HUB_FISHING_TITLE" SpriteAtlas="HUB_FISHING" Type="5" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_FISHING_1" Title="MID_TUT_HUB_FISHING_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_FISHING_2" Title="MID_TUT_HUB_FISHING_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_FISHING_3" Title="MID_TUT_HUB_FISHING_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_FISHING_4" Title="MID_TUT_HUB_FISHING_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_ドラゴンライド" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_HUB_DRAGONRIDE_0" Title="MID_TUT_HUB_DRAGONRIDE_TITLE" SpriteAtlas="HUB_DRAGONRIDE" Type="5" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_DRAGONRIDE_1" Title="MID_TUT_HUB_DRAGONRIDE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_蚤の市" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_HUB_FLEAMARKET_0" Title="MID_TUT_HUB_FLEAMARKET_TITLE" SpriteAtlas="HUB_FLEAMARKET" Type="2" Notice="0" Cid="" No="25" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_FLEAMARKET_1" Title="MID_TUT_HUB_FLEAMARKET_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_占いの小屋" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_HUB_FORTUNE_0" Title="MID_TUT_HUB_FORTUNE_TITLE" SpriteAtlas="HUB_FORTUNE" Type="2" Notice="0" Cid="" No="26" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_FORTUNE_1" Title="MID_TUT_HUB_FORTUNE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_試練中の出撃" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_HUB_CAPERIDGE_DETAIL_0" Title="MID_TUT_HUB_CAPERIDGE_DETAIL_TITLE" SpriteAtlas="HUB_CAPERIDGE_DETAIL" Type="4" Notice="0" Cid="" No="1" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_CAPERIDGE_DETAIL_1" Title="MID_TUT_HUB_CAPERIDGE_DETAIL_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_CAPERIDGE_DETAIL_2" Title="MID_TUT_HUB_CAPERIDGE_DETAIL_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_連戦の試練" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_CHALLENGE_0" Title="MID_TUT_CHALLENGE_TITLE" SpriteAtlas="TUT_CHALLENGE" Type="4" Notice="0" Cid="" No="2" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_CHALLENGE_1" Title="MID_TUT_CHALLENGE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_CHALLENGE_2" Title="MID_TUT_CHALLENGE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_繋戦の試練" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_RELAY_0" Title="MID_TUT_RELAY_TITLE" SpriteAtlas="TUT_RELAY" Type="4" Notice="0" Cid="" No="3" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_RELAY_1" Title="MID_TUT_RELAY_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_RELAY_2" Title="MID_TUT_RELAY_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_RELAY_3" Title="MID_TUT_RELAY_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_エントリーパネル" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_RELAY_ENTRY_PANEL_0" Title="MID_TUT_RELAY_ENTRY_PANEL_TITLE" SpriteAtlas="TUT_RELAY_ENTRY_PANEL" Type="4" Notice="0" Cid="" No="4" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_RELAY_ENTRY_PANEL_1" Title="MID_TUT_RELAY_ENTRY_PANEL_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_RELAY_ENTRY_PANEL_2" Title="MID_TUT_RELAY_ENTRY_PANEL_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_データの引き継ぎ" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_RELAY_DATA_TAKEOVER_0" Title="MID_TUT_RELAY_DATA_TAKEOVER_TITLE" SpriteAtlas="TUT_RELAY_DATA_TAKEOVER" Type="4" Notice="0" Cid="" No="5" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_RELAY_DATA_TAKEOVER_1" Title="MID_TUT_RELAY_DATA_TAKEOVER_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_RELAY_DATA_TAKEOVER_2" Title="MID_TUT_RELAY_DATA_TAKEOVER_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_新しく始める" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_RELAY_NEWDATA_0" Title="MID_TUT_RELAY_NEWDATA_TITLE" SpriteAtlas="TUT_RELAY_NEWDATA" Type="4" Notice="0" Cid="" No="6" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_RELAY_NEWDATA_1" Title="MID_TUT_RELAY_NEWDATA_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_RELAY_NEWDATA_2" Title="MID_TUT_RELAY_NEWDATA_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_引き継ぐ" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_RELAY_TAKEOVER_0" Title="MID_TUT_RELAY_TAKEOVER_TITLE" SpriteAtlas="TUT_RELAY_TAKEOVER" Type="4" Notice="0" Cid="" No="7" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_RELAY_TAKEOVER_1" Title="MID_TUT_RELAY_TAKEOVER_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_RELAY_TAKEOVER_2" Title="MID_TUT_RELAY_TAKEOVER_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_RELAY_TAKEOVER_3" Title="MID_TUT_RELAY_TAKEOVER_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_結果確認" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_RELAY_FINISH_0" Title="MID_TUT_RELAY_FINISH_TITLE" SpriteAtlas="TUT_RELAY_FINISH" Type="4" Notice="0" Cid="" No="8" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_RELAY_FINISH_1" Title="MID_TUT_RELAY_FINISH_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_RELAY_FINISH_2" Title="MID_TUT_RELAY_FINISH_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_異界の試練" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_MATCH_0" Title="MID_TUT_MATCH_TITLE" SpriteAtlas="TUT_MATCH" Type="4" Notice="0" Cid="" No="9" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_MATCH_1" Title="MID_TUT_MATCH_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_MATCH_2" Title="MID_TUT_MATCH_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_MATCH_3" Title="MID_TUT_MATCH_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_お手軽モード" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_MATCH_EASY_0" Title="MID_TUT_MATCH_EASY_TITLE" SpriteAtlas="TUT_MATCH_EASY" Type="4" Notice="0" Cid="" No="10" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_MATCH_EASY_1" Title="MID_TUT_MATCH_EASY_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_MATCH_EASY_2" Title="MID_TUT_MATCH_EASY_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_MATCH_EASY_3" Title="MID_TUT_MATCH_EASY_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_ガチモード" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_MATCH_SERIOUS_0" Title="MID_TUT_MATCH_SERIOUS_TITLE" SpriteAtlas="TUT_MATCH_SERIOUS" Type="4" Notice="0" Cid="" No="11" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_MATCH_SERIOUS_1" Title="MID_TUT_MATCH_SERIOUS_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_エディットしたマップで対戦" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_MATCH_EDIT_ATTACK_0" Title="MID_TUT_MATCH_EDIT_ATTACK_TITLE" SpriteAtlas="TUT_MATCH_EDIT_ATTACK" Type="4" Notice="0" Cid="" No="12" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_MATCH_EDIT_ATTACK_1" Title="MID_TUT_MATCH_EDIT_ATTACK_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_MATCH_EDIT_ATTACK_2" Title="MID_TUT_MATCH_EDIT_ATTACK_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_MATCH_EDIT_ATTACK_3" Title="MID_TUT_MATCH_EDIT_ATTACK_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_対戦開始" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_MATCH_ATTACK_0" Title="MID_TUT_MATCH_ATTACK_TITLE" SpriteAtlas="TUT_MATCH_ATTACK" Type="4" Notice="0" Cid="" No="13" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_MATCH_ATTACK_1" Title="MID_TUT_MATCH_ATTACK_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_MATCH_ATTACK_2" Title="MID_TUT_MATCH_ATTACK_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_MATCH_ATTACK_3" Title="MID_TUT_MATCH_ATTACK_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_マップエディット" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_MATCH_EDIT_0" Title="MID_TUT_MATCH_EDIT_TITLE" SpriteAtlas="TUT_MATCH_EDIT" Type="4" Notice="0" Cid="" No="14" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_MATCH_EDIT_1" Title="MID_TUT_MATCH_EDIT_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_MATCH_EDIT_2" Title="MID_TUT_MATCH_EDIT_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_MATCH_EDIT_3" Title="MID_TUT_MATCH_EDIT_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_防衛部隊の設定とマップ保存" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_MATCH_EDIT_SAVE_0" Title="MID_TUT_MATCH_EDIT_SAVE_TITLE" SpriteAtlas="TUT_MATCH_EDIT_SAVE" Type="4" Notice="0" Cid="" No="15" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_MATCH_EDIT_SAVE_1" Title="MID_TUT_MATCH_EDIT_SAVE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_MATCH_EDIT_SAVE_2" Title="MID_TUT_MATCH_EDIT_SAVE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_MATCH_EDIT_SAVE_3" Title="MID_TUT_MATCH_EDIT_SAVE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_MATCH_EDIT_SAVE_4" Title="MID_TUT_MATCH_EDIT_SAVE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_結果の確認（リプレイ）" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_MATCH_REPLAY_0" Title="MID_TUT_MATCH_REPLAY_TITLE" SpriteAtlas="TUT_MATCH_REPLAY" Type="4" Notice="0" Cid="" No="16" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_MATCH_REPLAY_1" Title="MID_TUT_MATCH_REPLAY_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_MATCH_REPLAY_2" Title="MID_TUT_MATCH_REPLAY_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_MATCH_REPLAY_3" Title="MID_TUT_MATCH_REPLAY_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_模擬戦" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_MATCH_MOCKCOMBAT_0" Title="MID_TUT_MATCH_MOCKCOMBAT_TITLE" SpriteAtlas="TUT_MATCH_MOCKCOMBAT" Type="4" Notice="0" Cid="" No="17" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_MATCH_MOCKCOMBAT_1" Title="MID_TUT_MATCH_MOCKCOMBAT_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_MATCH_MOCKCOMBAT_2" Title="MID_TUT_MATCH_MOCKCOMBAT_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_活動記録の館" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_HUB_RECORD_HALL_0" Title="MID_TUT_HUB_RECORD_HALL_TITLE" SpriteAtlas="HUB_RECORD_HALL" Type="2" Notice="2" Cid="" No="42" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_RECORD_HALL_1" Title="MID_TUT_HUB_RECORD_HALL_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_戦歴カード" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_HUB_PROFILE_0" Title="MID_TUT_HUB_PROFILE_TITLE" SpriteAtlas="HUB_PROFILE" Type="2" Notice="2" Cid="" No="42" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_PROFILE_1" Title="MID_TUT_HUB_PROFILE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_戦歴カード編集" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_HUB_PROFILE_EDIT_0" Title="MID_TUT_HUB_PROFILE_EDIT_TITLE" SpriteAtlas="HUB_PROFILE_EDIT" Type="2" Notice="2" Cid="" No="43" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_PROFILE_EDIT_1" Title="MID_TUT_HUB_PROFILE_EDIT_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_戦歴カード撮影" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_HUB_PROFILE_PHOTO_0" Title="MID_TUT_HUB_PROFILE_PHOTO_TITLE" SpriteAtlas="HUB_PROFILE_PHOTO" Type="2" Notice="2" Cid="" No="44" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_PROFILE_PHOTO_1" Title="MID_TUT_HUB_PROFILE_PHOTO_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_PROFILE_PHOTO_2" Title="MID_TUT_HUB_PROFILE_PHOTO_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="TUTID_戦歴カード交換" MID="" Title="" SpriteAtlas="" Type="" Notice="" Cid="" No="" SSType="" />
+			<Param TUTID="" MID="MID_TUT_HUB_PROFILE_TRADE_0" Title="MID_TUT_HUB_PROFILE_TRADE_TITLE" SpriteAtlas="HUB_PROFILE_TRADE" Type="2" Notice="2" Cid="" No="45" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_PROFILE_TRADE_1" Title="MID_TUT_HUB_PROFILE_TRADE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+			<Param TUTID="" MID="MID_TUT_HUB_PROFILE_TRADE_2" Title="MID_TUT_HUB_PROFILE_TRADE_TITLE" SpriteAtlas="" Type="0" Notice="0" Cid="" No="0" SSType="0" />
+		</Data>
+	</Sheet>
+	<Sheet Name="Tips" Count="214">
+		<Header>
+			<Param Name="識別子" Ident="ID" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="タイトル" Ident="Title" Type="string" Min="" Max="" Chg="" />
+			<Param Name="説明" Ident="Tips" Type="string" Min="" Max="" Chg="" />
+			<Param Name="アイテムやスキルの所有者(PID/GID)" Ident="OwnID" Type="string" Min="" Max="" Chg="" />
+			<Param Name="アイコン情報(PID/GID/IID/SID)" Ident="IconInfoID" Type="string" Min="" Max="" Chg="" />
+			<Param Name="条件章" Ident="Chapter" Type="string" Min="" Max="" Chg="" />
+			<Param Name="条件変数" Ident="Variable" Type="string" Min="" Max="" Chg="" />
+			<Param Name="表示許可" Ident="Allow" Type="flag" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param ID="TID_指南リスト" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_1" OwnID="" IconInfoID="" Chapter="CID_M000" Variable="" Allow="7" />
+			<Param ID="TID_戦闘演出のオンオフ" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_2" OwnID="" IconInfoID="" Chapter="CID_M000" Variable="" Allow="7" />
+			<Param ID="TID_敵全体の攻撃範囲" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_3" OwnID="" IconInfoID="" Chapter="CID_M000" Variable="" Allow="7" />
+			<Param ID="TID_敵単体の攻撃範囲" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_4" OwnID="" IconInfoID="" Chapter="CID_M000" Variable="" Allow="7" />
+			<Param ID="TID_フェーズ切り替え" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_5" OwnID="" IconInfoID="" Chapter="CID_M000" Variable="" Allow="7" />
+			<Param ID="TID_会話早送り" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_6" OwnID="" IconInfoID="" Chapter="CID_M000" Variable="" Allow="7" />
+			<Param ID="TID_レベルアップ" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_7" OwnID="" IconInfoID="" Chapter="CID_M001" Variable="" Allow="7" />
+			<Param ID="TID_Xヘルプ" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_8" OwnID="" IconInfoID="" Chapter="CID_M001" Variable="" Allow="7" />
+			<Param ID="TID_ユニットの詳細情報" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_9" OwnID="" IconInfoID="" Chapter="CID_M001" Variable="" Allow="7" />
+			<Param ID="TID_補助情報切替メニュー" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_10" OwnID="" IconInfoID="" Chapter="CID_M001" Variable="" Allow="7" />
+			<Param ID="TID_補助情報" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_50" OwnID="" IconInfoID="" Chapter="CID_M001" Variable="" Allow="7" />
+			<Param ID="TID_ステータス体格" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_11" OwnID="" IconInfoID="" Chapter="CID_M001" Variable="" Allow="7" />
+			<Param ID="TID_ステータス幸運" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_12" OwnID="" IconInfoID="" Chapter="CID_M001" Variable="" Allow="7" />
+			<Param ID="TID_地形効果" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_13" OwnID="" IconInfoID="" Chapter="CID_M001" Variable="" Allow="7" />
+			<Param ID="TID_回復アイテム" Title="MID_TUT_TIPS_ITEM" Tips="MID_TIPS_ITEM_0" OwnID="" IconInfoID="" Chapter="CID_M001" Variable="" Allow="7" />
+			<Param ID="TID_消費アイテム" Title="MID_TUT_TIPS_ITEM" Tips="MID_TIPS_ITEM_1" OwnID="" IconInfoID="" Chapter="CID_M001" Variable="" Allow="7" />
+			<Param ID="SID_神竜の結束" Title="SID_神竜の結束" Tips="SID_神竜の結束" OwnID="PID_リュール" IconInfoID="SID_神竜の結束" Chapter="CID_M001" Variable="" Allow="7" />
+			<Param ID="SID_白の忠誠" Title="SID_白の忠誠" Tips="SID_白の忠誠" OwnID="PID_ヴァンドレ" IconInfoID="SID_白の忠誠" Chapter="CID_M001" Variable="" Allow="7" />
+			<Param ID="IID_傷薬" Title="IID_傷薬" Tips="IID_傷薬" OwnID="" IconInfoID="IID_傷薬" Chapter="CID_M001" Variable="" Allow="7" />
+			<Param ID="TID_おまかせ" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_14" OwnID="" IconInfoID="" Chapter="CID_M002" Variable="" Allow="7" />
+			<Param ID="TID_三すくみ" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_15" OwnID="" IconInfoID="" Chapter="CID_M002" Variable="" Allow="7" />
+			<Param ID="TID_体術ブレイク相性" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_51" OwnID="" IconInfoID="" Chapter="CID_M002" Variable="" Allow="7" />
+			<Param ID="TID_ブレイク" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_16" OwnID="" IconInfoID="" Chapter="CID_M002" Variable="" Allow="7" />
+			<Param ID="TID_エンゲージ技" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_17" OwnID="" IconInfoID="" Chapter="CID_M002" Variable="" Allow="7" />
+			<Param ID="TID_絆レベル" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_SKILL_0" OwnID="" IconInfoID="" Chapter="CID_M002" Variable="" Allow="7" />
+			<Param ID="TID_エンゲージカウント" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_SKILL_1" OwnID="" IconInfoID="" Chapter="CID_M002" Variable="" Allow="7" />
+			<Param ID="TID_紋章氣マス" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_SKILL_28" OwnID="" IconInfoID="" Chapter="CID_M002" Variable="" Allow="7" />
+			<Param ID="TID_マルスのエンゲ技" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_SKILL_2" OwnID="" IconInfoID="" Chapter="CID_M002" Variable="" Allow="7" />
+			<Param ID="TID_体術系の武器" Title="MID_TUT_TIPS_WEAPON" Tips="MID_TIPS_ITEM_2" OwnID="" IconInfoID="" Chapter="CID_M002" Variable="" Allow="7" />
+			<Param ID="SID_マルスエンゲージ技" Title="SID_マルスエンゲージ技" Tips="SID_マルスエンゲージ技" OwnID="GID_マルス" IconInfoID="SID_マルスエンゲージ技" Chapter="CID_M002" Variable="" Allow="7" />
+			<Param ID="SID_ブレイク時追撃" Title="SID_ブレイク時追撃" Tips="SID_ブレイク時追撃" OwnID="GID_マルス" IconInfoID="SID_ブレイク時追撃" Chapter="CID_M002" Variable="" Allow="7" />
+			<Param ID="IID_リベラシオン" Title="IID_リベラシオン" Tips="IID_リベラシオン" OwnID="PID_リュール" IconInfoID="IID_リベラシオン" Chapter="CID_M002" Variable="" Allow="7" />
+			<Param ID="IID_マルス_レイピア" Title="IID_マルス_レイピア" Tips="IID_マルス_レイピア" OwnID="GID_マルス" IconInfoID="IID_マルス_レイピア" Chapter="CID_M002" Variable="" Allow="7" />
+			<Param ID="TID_固有スキル" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_18" OwnID="" IconInfoID="" Chapter="CID_M003" Variable="" Allow="7" />
+			<Param ID="TID_部隊表" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_19" OwnID="" IconInfoID="" Chapter="CID_M003" Variable="" Allow="7" />
+			<Param ID="TID_支援値" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_20" OwnID="" IconInfoID="" Chapter="CID_M003" Variable="" Allow="7" />
+			<Param ID="TID_武器の持ち替え" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_21" OwnID="" IconInfoID="" Chapter="CID_M003" Variable="" Allow="7" />
+			<Param ID="TID_袋アイコン" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_22" OwnID="" IconInfoID="" Chapter="CID_M003" Variable="" Allow="7" />
+			<Param ID="TID_飛行に有効な武器" Title="MID_TUT_TIPS_WEAPON" Tips="MID_TIPS_ITEM_3" OwnID="" IconInfoID="" Chapter="CID_M003" Variable="" Allow="7" />
+			<Param ID="TID_重装に有効な武器" Title="MID_TUT_TIPS_WEAPON" Tips="MID_TIPS_ITEM_4" OwnID="" IconInfoID="" Chapter="CID_M003" Variable="" Allow="7" />
+			<Param ID="TID_難易度変更" Title="MID_TUT_TIPS_HUB" Tips="MID_TIPS_OTHER_33" OwnID="" IconInfoID="" Chapter="CID_M003" Variable="" Allow="7" />
+			<Param ID="IID_シグルド_ナイトキラー" Title="IID_シグルド_ナイトキラー" Tips="IID_シグルド_ナイトキラー" OwnID="GID_シグルド" IconInfoID="IID_シグルド_ナイトキラー" Chapter="CID_M003" Variable="" Allow="7" />
+			<Param ID="SID_迅走" Title="SID_迅走" Tips="SID_迅走" OwnID="GID_シグルド" IconInfoID="SID_迅走" Chapter="CID_M003" Variable="" Allow="7" />
+			<Param ID="SID_再移動" Title="SID_再移動" Tips="SID_再移動" OwnID="GID_シグルド" IconInfoID="SID_再移動" Chapter="CID_M003" Variable="" Allow="7" />
+			<Param ID="SID_自己研鑽" Title="SID_自己研鑽" Tips="SID_自己研鑽" OwnID="PID_アルフレッド" IconInfoID="SID_自己研鑽" Chapter="CID_M003" Variable="" Allow="7" />
+			<Param ID="TID_訪問" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_24" OwnID="" IconInfoID="" Chapter="CID_M004" Variable="" Allow="7" />
+			<Param ID="TID_砦や防御床" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_25" OwnID="" IconInfoID="" Chapter="CID_M004" Variable="" Allow="7" />
+			<Param ID="TID_輸送体" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_27" OwnID="" IconInfoID="" Chapter="CID_M004" Variable="" Allow="7" />
+			<Param ID="TID_絆会話" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_28" OwnID="" IconInfoID="" Chapter="CID_M004" Variable="" Allow="7" />
+			<Param ID="TID_支援会話" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_29" OwnID="" IconInfoID="" Chapter="CID_M004" Variable="" Allow="7" />
+			<Param ID="TID_支援レベル" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_30" OwnID="" IconInfoID="" Chapter="CID_M004" Variable="" Allow="7" />
+			<Param ID="TID_ブレイク可能アイコン" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_32" OwnID="" IconInfoID="" Chapter="CID_M004" Variable="" Allow="7" />
+			<Param ID="TID_必殺アイコン" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_33" OwnID="" IconInfoID="" Chapter="CID_M004" Variable="" Allow="7" />
+			<Param ID="TID_竜の時水晶" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_34" OwnID="" IconInfoID="" Chapter="CID_M004" Variable="" Allow="7" />
+			<Param ID="TID_手槍や手斧" Title="MID_TUT_TIPS_WEAPON" Tips="MID_TIPS_ITEM_5" OwnID="" IconInfoID="" Chapter="CID_M004" Variable="" Allow="7" />
+			<Param ID="TID_サージ" Title="MID_TUT_TIPS_WEAPON" Tips="MID_TIPS_ITEM_6" OwnID="" IconInfoID="" Chapter="CID_M004" Variable="" Allow="7" />
+			<Param ID="TID_散策での会話" Title="MID_TUT_TIPS_KIZUNA" Tips="MID_TIPS_OTHER_0" OwnID="" IconInfoID="" Chapter="CID_M004" Variable="" Allow="7" />
+			<Param ID="TID_散策の素材" Title="MID_TUT_TIPS_KIZUNA" Tips="MID_TIPS_OTHER_1" OwnID="" IconInfoID="" Chapter="CID_M004" Variable="" Allow="7" />
+			<Param ID="TID_指輪精製" Title="MID_TUT_TIPS_HUB" Tips="MID_TIPS_OTHER_2" OwnID="" IconInfoID="" Chapter="CID_M004" Variable="" Allow="7" />
+			<Param ID="TID_ファストトラベル" Title="MID_TUT_TIPS_HUB" Tips="MID_TIPS_OTHER_3" OwnID="" IconInfoID="" Chapter="CID_M004" Variable="" Allow="7" />
+			<Param ID="TID_贈り物" Title="MID_TUT_TIPS_HUB" Tips="MID_TIPS_OTHER_4" OwnID="" IconInfoID="" Chapter="CID_M004" Variable="" Allow="7" />
+			<Param ID="TID_サウンドボックス" Title="MID_TUT_TIPS_HUB" Tips="MID_TIPS_OTHER_6" OwnID="" IconInfoID="" Chapter="CID_M004" Variable="" Allow="7" />
+			<Param ID="TID_マイベッド" Title="MID_TUT_TIPS_HUB" Tips="MID_TIPS_OTHER_7" OwnID="" IconInfoID="" Chapter="CID_M004" Variable="" Allow="7" />
+			<Param ID="TID_起こしイベント" Title="MID_TUT_TIPS_HUB" Tips="MID_TIPS_OTHER_8" OwnID="" IconInfoID="" Chapter="CID_M004" Variable="" Allow="7" />
+			<Param ID="TID_紋章士の間" Title="MID_TUT_TIPS_HUB" Tips="MID_TIPS_OTHER_9" OwnID="" IconInfoID="" Chapter="CID_M004" Variable="" Allow="7" />
+			<Param ID="TID_守り神と絆のかけら" Title="MID_TUT_TIPS_HUB" Tips="MID_TIPS_OTHER_10" OwnID="" IconInfoID="" Chapter="CID_M004" Variable="" Allow="7" />
+			<Param ID="TID_筋肉体操" Title="MID_TUT_TIPS_HUB" Tips="MID_TIPS_OTHER_12" OwnID="" IconInfoID="" Chapter="CID_M004" Variable="" Allow="7" />
+			<Param ID="TID_散策" Title="MID_TUT_TIPS_HUB" Tips="MID_TIPS_OTHER_13" OwnID="" IconInfoID="" Chapter="CID_M004" Variable="" Allow="7" />
+			<Param ID="TID_売却" Title="MID_TUT_TIPS_HUB" Tips="MID_TIPS_OTHER_32" OwnID="" IconInfoID="" Chapter="CID_M004" Variable="" Allow="7" />
+			<Param ID="SID_シグルドエンゲージ技" Title="SID_シグルドエンゲージ技" Tips="SID_シグルドエンゲージ技" OwnID="GID_シグルド" IconInfoID="SID_シグルドエンゲージ技" Chapter="CID_M004" Variable="" Allow="7" />
+			<Param ID="SID_セリカエンゲージ技" Title="SID_セリカエンゲージ技" Tips="SID_セリカエンゲージ技" OwnID="GID_セリカ" IconInfoID="SID_セリカエンゲージ技" Chapter="CID_M004" Variable="" Allow="7" />
+			<Param ID="SID_異形リベンジ" Title="SID_異形リベンジ" Tips="SID_異形リベンジ" OwnID="GID_セリカ" IconInfoID="SID_異形リベンジ" Chapter="CID_M004" Variable="" Allow="7" />
+			<Param ID="IID_セリカ_エンジェル" Title="IID_セリカ_エンジェル" Tips="IID_セリカ_エンジェル" OwnID="GID_セリカ" IconInfoID="IID_セリカ_エンジェル" Chapter="CID_M004" Variable="" Allow="7" />
+			<Param ID="SID_重唱" Title="SID_重唱" Tips="SID_重唱" OwnID="GID_セリカ" IconInfoID="SID_重唱" Chapter="CID_M004" Variable="" Allow="7" />
+			<Param ID="SID_平和の花" Title="SID_平和の花" Tips="SID_平和の花" OwnID="PID_セリーヌ" IconInfoID="SID_平和の花" Chapter="CID_M004" Variable="" Allow="7" />
+			<Param ID="IID_毒消し" Title="IID_毒消し" Tips="IID_毒消し" OwnID="" IconInfoID="IID_毒消し" Chapter="CID_M004" Variable="" Allow="7" />
+			<Param ID="IID_たいまつ" Title="IID_たいまつ" Tips="IID_たいまつ" OwnID="" IconInfoID="IID_たいまつ" Chapter="CID_M004" Variable="" Allow="7" />
+			<Param ID="IID_ライブ" Title="IID_ライブ" Tips="IID_ライブ" OwnID="" IconInfoID="IID_ライブ" Chapter="CID_M004" Variable="" Allow="7" />
+			<Param ID="IID_トーチ" Title="IID_トーチ" Tips="IID_トーチ" OwnID="" IconInfoID="IID_トーチ" Chapter="CID_M004" Variable="" Allow="7" />
+			<Param ID="TID_敵シーフと宝箱" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_35" OwnID="" IconInfoID="" Chapter="CID_M005" Variable="" Allow="7" />
+			<Param ID="TID_閉じた扉" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_36" OwnID="" IconInfoID="" Chapter="CID_M005" Variable="" Allow="7" />
+			<Param ID="TID_ドーピングアイテム" Title="MID_TUT_TIPS_ITEM" Tips="MID_TIPS_ITEM_8" OwnID="" IconInfoID="" Chapter="CID_M005" Variable="" Allow="7" />
+			<Param ID="TID_騎馬特効の武器" Title="MID_TUT_TIPS_WEAPON" Tips="MID_TIPS_ITEM_9" OwnID="" IconInfoID="" Chapter="CID_M005" Variable="" Allow="7" />
+			<Param ID="TID_ワールドマップ" Title="MID_TUT_TIPS_GMAP" Tips="MID_TIPS_OTHER_15" OwnID="" IconInfoID="" Chapter="CID_M005" Variable="" Allow="7" />
+			<Param ID="TID_鍛錬の間" Title="MID_TUT_TIPS_HUB" Tips="MID_TIPS_OTHER_16" OwnID="" IconInfoID="" Chapter="CID_M005" Variable="" Allow="7" />
+			<Param ID="TID_訓練" Title="MID_TUT_TIPS_GMAP" Tips="MID_TIPS_OTHER_17" OwnID="" IconInfoID="" Chapter="CID_M005" Variable="" Allow="7" />
+			<Param ID="IID_聖水" Title="IID_聖水" Tips="IID_聖水" OwnID="" IconInfoID="IID_聖水" Chapter="CID_M005" Variable="" Allow="7" />
+			<Param ID="TID_戦闘スタイル竜族" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_39" OwnID="" IconInfoID="" Chapter="CID_M006" Variable="" Allow="7" />
+			<Param ID="TID_戦闘スタイル連携" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_40" OwnID="" IconInfoID="" Chapter="CID_M006" Variable="" Allow="7" />
+			<Param ID="TID_戦闘スタイル騎馬" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_41" OwnID="" IconInfoID="" Chapter="CID_M006" Variable="" Allow="7" />
+			<Param ID="TID_戦闘スタイル魔道" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_42" OwnID="" IconInfoID="" Chapter="CID_M006" Variable="" Allow="7" />
+			<Param ID="TID_戦闘スタイル気功" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_43" OwnID="" IconInfoID="" Chapter="CID_M006" Variable="" Allow="7" />
+			<Param ID="TID_戦闘スタイル隠密" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_44" OwnID="" IconInfoID="" Chapter="CID_M006" Variable="" Allow="7" />
+			<Param ID="TID_戦闘スタイル飛行" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_45" OwnID="" IconInfoID="" Chapter="CID_M006" Variable="" Allow="7" />
+			<Param ID="TID_戦闘スタイル重装" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_46" OwnID="" IconInfoID="" Chapter="CID_M006" Variable="" Allow="7" />
+			<Param ID="TID_素質" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_47" OwnID="" IconInfoID="" Chapter="CID_M006" Variable="" Allow="7" />
+			<Param ID="TID_遠距離攻撃の武器" Title="MID_TUT_TIPS_WEAPON" Tips="MID_TIPS_ITEM_10" OwnID="" IconInfoID="" Chapter="CID_M006" Variable="" Allow="7" />
+			<Param ID="TID_ナイフの毒" Title="MID_TUT_TIPS_WEAPON" Tips="MID_TIPS_ITEM_11" OwnID="" IconInfoID="" Chapter="CID_M006" Variable="" Allow="7" />
+			<Param ID="TID_重装特効の武器" Title="MID_TUT_TIPS_WEAPON" Tips="MID_TIPS_ITEM_12" OwnID="" IconInfoID="" Chapter="CID_M006" Variable="" Allow="7" />
+			<Param ID="TID_お弁当" Title="MID_TUT_TIPS_HUB" Tips="MID_TIPS_OTHER_14" OwnID="" IconInfoID="" Chapter="CID_M006" Variable="" Allow="7" />
+			<Param ID="TID_料理" Title="MID_TUT_TIPS_HUB" Tips="MID_TIPS_OTHER_19" OwnID="" IconInfoID="" Chapter="CID_M006" Variable="" Allow="7" />
+			<Param ID="TID_果樹園" Title="MID_TUT_TIPS_HUB" Tips="MID_TIPS_OTHER_20" OwnID="" IconInfoID="" Chapter="CID_M006" Variable="" Allow="7" />
+			<Param ID="TID_実績" Title="MID_TUT_TIPS_HUB" Tips="MID_TIPS_OTHER_21" OwnID="" IconInfoID="" Chapter="CID_M006" Variable="" Allow="7" />
+			<Param ID="TID_投資" Title="MID_TUT_TIPS_HUB" Tips="MID_TIPS_OTHER_22" OwnID="" IconInfoID="" Chapter="CID_M006" Variable="" Allow="7" />
+			<Param ID="TID_投資レベル遭遇戦" Title="MID_TUT_TIPS_HUB" Tips="MID_TIPS_OTHER_30" OwnID="" IconInfoID="" Chapter="CID_M006" Variable="" Allow="7" />
+			<Param ID="TID_投資レベル散策" Title="MID_TUT_TIPS_HUB" Tips="MID_TIPS_OTHER_31" OwnID="" IconInfoID="" Chapter="CID_M006" Variable="" Allow="7" />
+			<Param ID="TID_遭遇戦" Title="MID_TUT_TIPS_ENCOUNTER" Tips="MID_TIPS_OTHER_23" OwnID="" IconInfoID="" Chapter="CID_M006" Variable="" Allow="7" />
+			<Param ID="SID_ミカヤエンゲージ技" Title="SID_ミカヤエンゲージ技" Tips="SID_ミカヤエンゲージ技" OwnID="GID_ミカヤ" IconInfoID="SID_ミカヤエンゲージ技" Chapter="CID_M006" Variable="" Allow="7" />
+			<Param ID="SID_杖使い" Title="SID_杖使い" Tips="SID_杖使い" OwnID="GID_ミカヤ" IconInfoID="SID_杖使い" Chapter="CID_M006" Variable="" Allow="7" />
+			<Param ID="IID_ミカヤ_シャイン" Title="IID_ミカヤ_シャイン" Tips="IID_ミカヤ_シャイン" OwnID="GID_ミカヤ" IconInfoID="IID_ミカヤ_シャイン" Chapter="CID_M006" Variable="" Allow="7" />
+			<Param ID="TID_杖の命中" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_SKILL_38" OwnID="" IconInfoID="" Chapter="CID_M006" Variable="" Allow="7" />
+			<Param ID="TID_神竜戦歴カード" Title="MID_TUT_TIPS_HUB" Tips="MID_TIPS_OTHER_34" OwnID="" IconInfoID="" Chapter="CID_M006" Variable="" Allow="7" />
+			<Param ID="TID_敵のエンゲ技" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_48" OwnID="" IconInfoID="" Chapter="CID_M007" Variable="" Allow="7" />
+			<Param ID="TID_敵のエンゲ技ダメージ" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_52" OwnID="" IconInfoID="" Chapter="CID_M007" Variable="" Allow="7" />
+			<Param ID="SID_僕が守ります！" Title="SID_僕が守ります！" Tips="SID_僕が守ります！" OwnID="PID_スタルーク" IconInfoID="SID_僕が守ります！" Chapter="CID_M007" Variable="" Allow="7" />
+			<Param ID="TID_クラスチェンジ" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_TUTORIAL_49" OwnID="" IconInfoID="" Chapter="CID_M008" Variable="" Allow="7" />
+			<Param ID="TID_毒の治療" Title="MID_TUT_TIPS_ITEM" Tips="MID_TIPS_ITEM_13" OwnID="" IconInfoID="" Chapter="CID_M008" Variable="" Allow="7" />
+			<Param ID="TID_マスタープルフ" Title="MID_TUT_TIPS_ITEM" Tips="MID_TIPS_ITEM_14" OwnID="" IconInfoID="" Chapter="CID_M008" Variable="" Allow="7" />
+			<Param ID="TID_スマッシュ武器" Title="MID_TUT_TIPS_WEAPON" Tips="MID_TIPS_ITEM_15" OwnID="" IconInfoID="" Chapter="CID_M008" Variable="" Allow="7" />
+			<Param ID="TID_釣り体験" Title="MID_TUT_TIPS_HUB" Tips="MID_TIPS_OTHER_24" OwnID="" IconInfoID="" Chapter="CID_M008" Variable="" Allow="7" />
+			<Param ID="SID_ロイエンゲージ技" Title="SID_ロイエンゲージ技" Tips="SID_ロイエンゲージ技" OwnID="GID_ロイ" IconInfoID="SID_ロイエンゲージ技" Chapter="CID_M008" Variable="" Allow="7" />
+			<Param ID="SID_踏ん張り" Title="SID_踏ん張り" Tips="SID_踏ん張り" OwnID="GID_ロイ" IconInfoID="SID_踏ん張り" Chapter="CID_M008" Variable="" Allow="7" />
+			<Param ID="SID_超越" Title="SID_超越" Tips="SID_超越" OwnID="GID_ロイ" IconInfoID="SID_超越" Chapter="CID_M008" Variable="" Allow="7" />
+			<Param ID="SID_真っ向勝負" Title="SID_真っ向勝負" Tips="SID_真っ向勝負" OwnID="PID_ディアマンド" IconInfoID="SID_真っ向勝負" Chapter="CID_M008" Variable="" Allow="7" />
+			<Param ID="IID_アイスロック" Title="IID_アイスロック" Tips="IID_アイスロック" OwnID="" IconInfoID="IID_アイスロック" Chapter="CID_M008" Variable="" Allow="7" />
+			<Param ID="IID_ロイ_ランスバスター" Title="IID_ロイ_ランスバスター" Tips="IID_ロイ_ランスバスター" OwnID="GID_ロイ" IconInfoID="IID_ロイ_ランスバスター" Chapter="CID_M008" Variable="" Allow="7" />
+			<Param ID="IID_リライブ" Title="IID_リライブ" Tips="IID_リライブ" OwnID="" IconInfoID="IID_リライブ" Chapter="CID_M008" Variable="" Allow="7" />
+			<Param ID="IID_リワープ" Title="IID_リワープ" Tips="IID_リワープ" OwnID="" IconInfoID="IID_リワープ" Chapter="CID_M008" Variable="" Allow="7" />
+			<Param ID="IID_レスト" Title="IID_レスト" Tips="IID_レスト" OwnID="" IconInfoID="IID_レスト" Chapter="CID_M008" Variable="" Allow="7" />
+			<Param ID="SID_武器相性激化" Title="SID_武器相性激化" Tips="SID_武器相性激化" OwnID="GID_リーフ" IconInfoID="SID_武器相性激化" Chapter="CID_M009" Variable="" Allow="7" />
+			<Param ID="SID_リーフエンゲージ技" Title="SID_リーフエンゲージ技" Tips="SID_リーフエンゲージ技" OwnID="GID_リーフ" IconInfoID="SID_リーフエンゲージ技" Chapter="CID_M009" Variable="" Allow="7" />
+			<Param ID="SID_順応" Title="SID_順応" Tips="SID_順応" OwnID="GID_リーフ" IconInfoID="SID_順応" Chapter="CID_M009" Variable="" Allow="7" />
+			<Param ID="IID_リーフ_キラーアクス" Title="IID_リーフ_キラーアクス" Tips="IID_リーフ_キラーアクス" OwnID="GID_リーフ" IconInfoID="IID_リーフ_キラーアクス" Chapter="CID_M009" Variable="" Allow="7" />
+			<Param ID="TID_チェンジプルフ" Title="MID_TUT_TIPS_ITEM" Tips="MID_TIPS_ITEM_16" OwnID="" IconInfoID="" Chapter="CID_M011" Variable="" Allow="7" />
+			<Param ID="TID_キル系の武器" Title="MID_TUT_TIPS_WEAPON" Tips="MID_TIPS_ITEM_17" OwnID="" IconInfoID="" Chapter="CID_M011" Variable="" Allow="7" />
+			<Param ID="TID_ミニゲーム" Title="MID_TUT_TIPS_HUB" Tips="MID_TIPS_OTHER_11" OwnID="" IconInfoID="" Chapter="CID_M011" Variable="" Allow="7" />
+			<Param ID="TID_ドラゴンシューター" Title="MID_TUT_TIPS_HUB" Tips="MID_TIPS_OTHER_37" OwnID="" IconInfoID="" Chapter="CID_M011" Variable="" Allow="7" />
+			<Param ID="SID_絆の力" Title="SID_絆の力" Tips="SID_絆の力" OwnID="GID_ルキナ" IconInfoID="SID_絆の力" Chapter="CID_M011" Variable="" Allow="7" />
+			<Param ID="SID_ルキナエンゲージ技" Title="SID_ルキナエンゲージ技" Tips="SID_ルキナエンゲージ技" OwnID="GID_ルキナ" IconInfoID="SID_ルキナエンゲージ技" Chapter="CID_M011" Variable="" Allow="7" />
+			<Param ID="SID_速さの吸収" Title="SID_速さの吸収" Tips="SID_速さの吸収" OwnID="GID_リン" IconInfoID="SID_速さの吸収" Chapter="CID_M011" Variable="" Allow="7" />
+			<Param ID="SID_リンエンゲージ技" Title="SID_リンエンゲージ技" Tips="SID_リンエンゲージ技" OwnID="GID_リン" IconInfoID="SID_リンエンゲージ技" Chapter="CID_M011" Variable="" Allow="7" />
+			<Param ID="SID_攻め立て" Title="SID_攻め立て" Tips="SID_攻め立て" OwnID="GID_リン" IconInfoID="SID_攻め立て" Chapter="CID_M011" Variable="" Allow="7" />
+			<Param ID="SID_残像" Title="SID_残像" Tips="SID_残像" OwnID="GID_リン" IconInfoID="SID_残像" Chapter="CID_M011" Variable="" Allow="7" />
+			<Param ID="SID_執着" Title="SID_執着" Tips="SID_執着" OwnID="PID_アイビー" IconInfoID="SID_執着" Chapter="CID_M011" Variable="" Allow="7" />
+			<Param ID="IID_フリーズ" Title="IID_フリーズ" Tips="IID_フリーズ" OwnID="" IconInfoID="IID_フリーズ" Chapter="CID_M011" Variable="" Allow="7" />
+			<Param ID="IID_サイレス" Title="IID_サイレス" Tips="IID_サイレス" OwnID="" IconInfoID="IID_サイレス" Chapter="CID_M011" Variable="" Allow="7" />
+			<Param ID="IID_ルキナ_ノーブルレイピア" Title="IID_ルキナ_ノーブルレイピア" Tips="IID_ルキナ_ノーブルレイピア" OwnID="GID_ルキナ" IconInfoID="IID_ルキナ_ノーブルレイピア" Chapter="CID_M011" Variable="" Allow="7" />
+			<Param ID="IID_リン_キラーボウ" Title="IID_リン_キラーボウ" Tips="IID_リン_キラーボウ" OwnID="GID_リン" IconInfoID="IID_リン_キラーボウ" Chapter="CID_M011" Variable="" Allow="7" />
+			<Param ID="IID_リブロー" Title="IID_リブロー" Tips="IID_リブロー" OwnID="" IconInfoID="IID_リブロー" Chapter="CID_M011" Variable="" Allow="7" />
+			<Param ID="SID_人たらし" Title="SID_人たらし" Tips="SID_人たらし" OwnID="PID_フォガート" IconInfoID="SID_人たらし" Chapter="CID_M012" Variable="" Allow="7" />
+			<Param ID="TID_蚤の市" Title="MID_TUT_TIPS_HUB" Tips="MID_TIPS_OTHER_26" OwnID="" IconInfoID="" Chapter="CID_M013" Variable="" Allow="7" />
+			<Param ID="TID_紋章士外伝" Title="MID_TUT_TIPS_GMAP" Tips="MID_TIPS_OTHER_27" OwnID="" IconInfoID="" Chapter="CID_M013" Variable="" Allow="7" />
+			<Param ID="TID_アイクのエンゲ技" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_SKILL_29" OwnID="" IconInfoID="" Chapter="CID_M013" Variable="" Allow="7" />
+			<Param ID="SID_アイクエンゲージ技" Title="SID_アイクエンゲージ技" Tips="SID_アイクエンゲージ技" OwnID="GID_アイク" IconInfoID="SID_アイクエンゲージ技" Chapter="CID_M013" Variable="" Allow="7" />
+			<Param ID="SID_引き戻し" Title="SID_引き戻し" Tips="SID_引き戻し" OwnID="GID_アイク" IconInfoID="SID_引き戻し" Chapter="CID_M013" Variable="" Allow="7" />
+			<Param ID="SID_破壊" Title="SID_破壊" Tips="SID_破壊" OwnID="GID_アイク" IconInfoID="SID_破壊" Chapter="CID_M013" Variable="" Allow="7" />
+			<Param ID="SID_ソルムの騒音" Title="SID_ソルムの騒音" Tips="SID_ソルムの騒音" OwnID="PID_ミスティラ" IconInfoID="SID_ソルムの騒音" Chapter="CID_M013" Variable="" Allow="7" />
+			<Param ID="IID_アイク_ハンマー" Title="IID_アイク_ハンマー" Tips="IID_アイク_ハンマー" OwnID="GID_アイク" IconInfoID="IID_アイク_ハンマー" Chapter="CID_M013" Variable="" Allow="7" />
+			<Param ID="TID_ベレトのエンゲ武器" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_SKILL_22" OwnID="GID_ベレト" IconInfoID="" Chapter="CID_M014" Variable="" Allow="7" />
+			<Param ID="SID_ベレトエンゲージ技" Title="SID_ベレトエンゲージ技" Tips="SID_ベレトエンゲージ技" OwnID="GID_ベレト" IconInfoID="SID_ベレトエンゲージ技" Chapter="CID_M014" Variable="" Allow="7" />
+			<Param ID="SID_師の導き" Title="SID_師の導き" Tips="SID_師の導き" OwnID="GID_ベレト" IconInfoID="SID_師の導き" Chapter="CID_M014" Variable="" Allow="7" />
+			<Param ID="SID_先生" Title="SID_先生" Tips="SID_先生" OwnID="GID_ベレト" IconInfoID="SID_先生" Chapter="CID_M014" Variable="" Allow="7" />
+			<Param ID="IID_コラプス" Title="IID_コラプス" Tips="IID_コラプス" OwnID="" IconInfoID="IID_コラプス" Chapter="CID_M014" Variable="" Allow="7" />
+			<Param ID="IID_ベレト_アイムール" Title="IID_ベレト_アイムール" Tips="IID_ベレト_アイムール" OwnID="GID_ベレト" IconInfoID="IID_ベレト_アイムール" Chapter="CID_M014" Variable="" Allow="7" />
+			<Param ID="IID_ベレト_ブルトガング" Title="IID_ベレト_ブルトガング" Tips="IID_ベレト_ブルトガング" OwnID="GID_ベレト" IconInfoID="IID_ベレト_ブルトガング" Chapter="CID_M014" Variable="" Allow="7" />
+			<Param ID="IID_ベレト_ルーン" Title="IID_ベレト_ルーン" Tips="IID_ベレト_ルーン" OwnID="GID_ベレト" IconInfoID="IID_ベレト_ルーン" Chapter="CID_M014" Variable="" Allow="7" />
+			<Param ID="IID_ベレト_アラドヴァル" Title="IID_ベレト_アラドヴァル" Tips="IID_ベレト_アラドヴァル" OwnID="GID_ベレト" IconInfoID="IID_ベレト_アラドヴァル" Chapter="CID_M014" Variable="" Allow="7" />
+			<Param ID="IID_ベレト_アイギスの盾" Title="IID_ベレト_アイギスの盾" Tips="IID_ベレト_アイギスの盾" OwnID="GID_ベレト" IconInfoID="IID_ベレト_アイギスの盾" Chapter="CID_M014" Variable="" Allow="7" />
+			<Param ID="IID_ベレト_フェイルノート" Title="IID_ベレト_フェイルノート" Tips="IID_ベレト_フェイルノート" OwnID="GID_ベレト" IconInfoID="IID_ベレト_フェイルノート" Chapter="CID_M014" Variable="" Allow="7" />
+			<Param ID="IID_ベレト_テュルソスの杖" Title="IID_ベレト_テュルソスの杖" Tips="IID_ベレト_テュルソスの杖" OwnID="GID_ベレト" IconInfoID="IID_ベレト_テュルソスの杖" Chapter="CID_M014" Variable="" Allow="7" />
+			<Param ID="IID_ベレト_ラファイルの宝珠" Title="IID_ベレト_ラファイルの宝珠" Tips="IID_ベレト_ラファイルの宝珠" OwnID="GID_ベレト" IconInfoID="IID_ベレト_ラファイルの宝珠" Chapter="CID_M014" Variable="" Allow="7" />
+			<Param ID="SID_煌めく理力" Title="SID_煌めく理力" Tips="SID_煌めく理力" OwnID="PID_オルテンシア" IconInfoID="SID_煌めく理力" Chapter="CID_M014" Variable="" Allow="7" />
+			<Param ID="TID_竜脈や竜穿砲" Title="MID_TUT_TIPS_TUTORIAL" Tips="MID_TIPS_SKILL_25" OwnID="" IconInfoID="" Chapter="CID_M015" Variable="" Allow="7" />
+			<Param ID="TID_占いの小屋" Title="MID_TUT_TIPS_HUB" Tips="MID_TIPS_OTHER_28" OwnID="" IconInfoID="" Chapter="CID_M015" Variable="" Allow="7" />
+			<Param ID="SID_カムイエンゲージ技" Title="SID_カムイエンゲージ技" Tips="SID_カムイエンゲージ技" OwnID="GID_カムイ" IconInfoID="SID_カムイエンゲージ技" Chapter="CID_M015" Variable="" Allow="7" />
+			<Param ID="SID_竜脈" Title="SID_竜脈" Tips="SID_竜脈" OwnID="GID_カムイ" IconInfoID="SID_竜脈" Chapter="CID_M015" Variable="" Allow="7" />
+			<Param ID="SID_防陣" Title="SID_防陣" Tips="SID_防陣" OwnID="GID_カムイ" IconInfoID="SID_防陣" Chapter="CID_M015" Variable="" Allow="7" />
+			<Param ID="IID_カムイ_逆刀" Title="IID_カムイ_逆刀" Tips="IID_カムイ_逆刀" OwnID="GID_カムイ" IconInfoID="IID_カムイ_逆刀" Chapter="CID_M015" Variable="" Allow="7" />
+			<Param ID="IID_特効薬" Title="IID_特効薬" Tips="IID_特効薬" OwnID="" IconInfoID="IID_特効薬" Chapter="CID_M015" Variable="" Allow="7" />
+			<Param ID="TID_試練の離れ" Title="MID_TUT_TIPS_HUB" Tips="MID_TIPS_OTHER_29" OwnID="" IconInfoID="" Chapter="CID_M016" Variable="" Allow="7" />
+			<Param ID="SID_月の腕輪" Title="SID_月の腕輪" Tips="SID_月の腕輪" OwnID="GID_エイリーク" IconInfoID="SID_月の腕輪" Chapter="CID_M016" Variable="" Allow="7" />
+			<Param ID="SID_太陽の腕輪" Title="SID_太陽の腕輪" Tips="SID_太陽の腕輪" OwnID="GID_エフラム" IconInfoID="SID_太陽の腕輪" Chapter="CID_M016" Variable="" Allow="7" />
+			<Param ID="SID_エイリークエンゲージ技" Title="SID_エイリークエンゲージ技" Tips="SID_エイリークエンゲージ技" OwnID="GID_エイリーク" IconInfoID="SID_エイリークエンゲージ技" Chapter="CID_M016" Variable="" Allow="7" />
+			<Param ID="SID_オルタネイト" Title="SID_オルタネイト" Tips="SID_オルタネイト" OwnID="GID_エイリーク" IconInfoID="SID_オルタネイト" Chapter="CID_M016" Variable="" Allow="7" />
+			<Param ID="SID_双聖" Title="SID_双聖" Tips="SID_双聖" OwnID="GID_エイリーク" IconInfoID="SID_双聖" Chapter="CID_M016" Variable="" Allow="7" />
+			<Param ID="IID_エイリーク_レイピア" Title="IID_エイリーク_レイピア" Tips="IID_エイリーク_レイピア" OwnID="GID_エイリーク" IconInfoID="IID_エイリーク_レイピア" Chapter="CID_M016" Variable="" Allow="7" />
+			<Param ID="IID_レスキュー" Title="IID_レスキュー" Tips="IID_レスキュー" OwnID="" IconInfoID="IID_レスキュー" Chapter="CID_M017" Variable="" Allow="7" />
+			<Param ID="TID_勇者系の武器" Title="MID_TUT_TIPS_WEAPON" Tips="MID_TIPS_ITEM_18" OwnID="" IconInfoID="" Chapter="CID_M020" Variable="" Allow="7" />
+			<Param ID="SID_邪竜の救済" Title="SID_邪竜の救済" Tips="SID_邪竜の救済" OwnID="PID_ヴェイル" IconInfoID="SID_邪竜の救済" Chapter="CID_M023" Variable="" Allow="7" />
+			<Param ID="TID_約束の指輪" Title="MIID_PromiseRing" Tips="MID_TIPS_ITEM_19" OwnID="" IconInfoID="" Chapter="CID_S015" Variable="" Allow="7" />
+			<Param ID="TID_マルストリビア01" Title="MID_TUT_TIPS_Marth" Tips="MID_TIPS_GOD_0" OwnID="" IconInfoID="GID_マルス" Chapter="CID_M002" Variable="" Allow="2" />
+			<Param ID="TID_マルストリビア02" Title="MID_TUT_TIPS_Marth" Tips="MID_TIPS_GOD_1" OwnID="" IconInfoID="GID_マルス" Chapter="CID_M002" Variable="" Allow="2" />
+			<Param ID="TID_シグルドトリビア01" Title="MID_TUT_TIPS_Siglud" Tips="MID_TIPS_GOD_2" OwnID="" IconInfoID="GID_シグルド" Chapter="CID_M004" Variable="" Allow="2" />
+			<Param ID="TID_シグルドトリビア02" Title="MID_TUT_TIPS_Siglud" Tips="MID_TIPS_GOD_3" OwnID="" IconInfoID="GID_シグルド" Chapter="CID_M004" Variable="" Allow="2" />
+			<Param ID="TID_セリカトリビア01" Title="MID_TUT_TIPS_Celica" Tips="MID_TIPS_GOD_4" OwnID="" IconInfoID="GID_セリカ" Chapter="CID_M005" Variable="" Allow="2" />
+			<Param ID="TID_セリカトリビア02" Title="MID_TUT_TIPS_Celica" Tips="MID_TIPS_GOD_5" OwnID="" IconInfoID="GID_セリカ" Chapter="CID_M005" Variable="" Allow="2" />
+			<Param ID="TID_ミカヤトリビア01" Title="MID_TUT_TIPS_Micaiah" Tips="MID_TIPS_GOD_6" OwnID="" IconInfoID="GID_ミカヤ" Chapter="CID_M007" Variable="" Allow="2" />
+			<Param ID="TID_ミカヤトリビア02" Title="MID_TUT_TIPS_Micaiah" Tips="MID_TIPS_GOD_7" OwnID="" IconInfoID="GID_ミカヤ" Chapter="CID_M007" Variable="" Allow="2" />
+			<Param ID="TID_ロイトリビア01" Title="MID_TUT_TIPS_Roy" Tips="MID_TIPS_GOD_8" OwnID="" IconInfoID="GID_ロイ" Chapter="CID_M009" Variable="" Allow="2" />
+			<Param ID="TID_ロイトリビア02" Title="MID_TUT_TIPS_Roy" Tips="MID_TIPS_GOD_9" OwnID="" IconInfoID="GID_ロイ" Chapter="CID_M009" Variable="" Allow="2" />
+			<Param ID="TID_リントリビア01" Title="MID_TUT_TIPS_Lin" Tips="MID_TIPS_GOD_10" OwnID="" IconInfoID="GID_リン" Chapter="CID_M011" Variable="" Allow="2" />
+			<Param ID="TID_リントリビア02" Title="MID_TUT_TIPS_Lin" Tips="MID_TIPS_GOD_11" OwnID="" IconInfoID="GID_リン" Chapter="CID_M011" Variable="" Allow="2" />
+			<Param ID="TID_アイクトリビア01" Title="MID_TUT_TIPS_Ike" Tips="MID_TIPS_GOD_12" OwnID="" IconInfoID="GID_アイク" Chapter="CID_M014" Variable="" Allow="2" />
+			<Param ID="TID_アイクトリビア02" Title="MID_TUT_TIPS_Ike" Tips="MID_TIPS_GOD_13" OwnID="" IconInfoID="GID_アイク" Chapter="CID_M014" Variable="" Allow="2" />
+			<Param ID="TID_ルキナトリビア01" Title="MID_TUT_TIPS_Lucina" Tips="MID_TIPS_GOD_14" OwnID="" IconInfoID="GID_ルキナ" Chapter="CID_M011" Variable="" Allow="2" />
+			<Param ID="TID_ルキナトリビア02" Title="MID_TUT_TIPS_Lucina" Tips="MID_TIPS_GOD_15" OwnID="" IconInfoID="GID_ルキナ" Chapter="CID_M011" Variable="" Allow="2" />
+			<Param ID="TID_リーフトリビア01" Title="MID_TUT_TIPS_Leaf" Tips="MID_TIPS_GOD_16" OwnID="" IconInfoID="GID_リーフ" Chapter="CID_M010" Variable="" Allow="2" />
+			<Param ID="TID_リーフトリビア02" Title="MID_TUT_TIPS_Leaf" Tips="MID_TIPS_GOD_17" OwnID="" IconInfoID="GID_リーフ" Chapter="CID_M010" Variable="" Allow="2" />
+			<Param ID="TID_カムイトリビア01" Title="MID_TUT_TIPS_Kamui" Tips="MID_TIPS_GOD_18" OwnID="" IconInfoID="GID_カムイ" Chapter="CID_M016" Variable="" Allow="2" />
+			<Param ID="TID_カムイトリビア02" Title="MID_TUT_TIPS_Kamui" Tips="MID_TIPS_GOD_19" OwnID="" IconInfoID="GID_カムイ" Chapter="CID_M016" Variable="" Allow="2" />
+			<Param ID="TID_エイリークトリビア01" Title="MID_TUT_TIPS_Eirik" Tips="MID_TIPS_GOD_20" OwnID="" IconInfoID="GID_エイリーク" Chapter="CID_M017" Variable="" Allow="2" />
+			<Param ID="TID_エフラムトリビア02" Title="MID_TUT_TIPS_Ephraim" Tips="MID_TIPS_GOD_21" OwnID="" IconInfoID="GID_エフラム" Chapter="CID_M017" Variable="" Allow="2" />
+			<Param ID="TID_ベレトトリビア01" Title="MID_TUT_TIPS_Byleth" Tips="MID_TIPS_GOD_22" OwnID="" IconInfoID="GID_ベレト" Chapter="CID_M015" Variable="" Allow="2" />
+			<Param ID="TID_ベレトトリビア02" Title="MID_TUT_TIPS_Byleth" Tips="MID_TIPS_GOD_23" OwnID="" IconInfoID="GID_ベレト" Chapter="CID_M015" Variable="" Allow="2" />
+		</Data>
+	</Sheet>
+</Book>

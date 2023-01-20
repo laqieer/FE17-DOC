@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Book Count="2">
+	<Sheet Name="タイトルコール" Count="48">
+		<Header>
+			<Param Name="出力先" Ident="Out" Type="PublicFile" Min="" Max="" Chg="" />
+			<Param Name="キャラのPIDまたはGID" Ident="PidOrGid" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="解放条件のクリア章" Ident="Cid" Type="string" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Out="" PidOrGid="PID_リュール" Cid="" />
+			<Param Out="" PidOrGid="PID_ヴァンドレ" Cid="CID_M001" />
+			<Param Out="" PidOrGid="PID_クラン" Cid="CID_M001" />
+			<Param Out="" PidOrGid="PID_フラン" Cid="CID_M001" />
+			<Param Out="" PidOrGid="PID_アルフレッド" Cid="CID_M003" />
+			<Param Out="" PidOrGid="PID_ブシュロン" Cid="CID_M003" />
+			<Param Out="" PidOrGid="PID_エーティエ" Cid="CID_M003" />
+			<Param Out="" PidOrGid="PID_セリーヌ" Cid="CID_M004" />
+			<Param Out="" PidOrGid="PID_ルイ" Cid="CID_M004" />
+			<Param Out="" PidOrGid="PID_クロエ" Cid="CID_M004" />
+			<Param Out="" PidOrGid="PID_スタルーク" Cid="CID_M007" />
+			<Param Out="" PidOrGid="PID_ラピス" Cid="CID_M007" />
+			<Param Out="" PidOrGid="PID_シトリニカ" Cid="CID_M007" />
+			<Param Out="" PidOrGid="PID_ディアマンド" Cid="CID_M008" />
+			<Param Out="" PidOrGid="PID_アンバー" Cid="CID_M008" />
+			<Param Out="" PidOrGid="PID_ジェーデ" Cid="CID_M009" />
+			<Param Out="" PidOrGid="PID_アイビー" Cid="CID_M011" />
+			<Param Out="" PidOrGid="PID_ゼルコバ" Cid="CID_M011" />
+			<Param Out="" PidOrGid="PID_カゲツ" Cid="CID_M011" />
+			<Param Out="" PidOrGid="PID_オルテンシア" Cid="CID_M014" />
+			<Param Out="" PidOrGid="PID_ロサード" Cid="CID_M016" />
+			<Param Out="" PidOrGid="PID_ゴルドマリー" Cid="CID_M016" />
+			<Param Out="" PidOrGid="PID_フォガート" Cid="CID_M012" />
+			<Param Out="" PidOrGid="PID_パンドロ" Cid="CID_M012" />
+			<Param Out="" PidOrGid="PID_ボネ" Cid="CID_M012" />
+			<Param Out="" PidOrGid="PID_ミスティラ" Cid="CID_M013" />
+			<Param Out="" PidOrGid="PID_メリン" Cid="CID_M013" />
+			<Param Out="" PidOrGid="PID_パネトネ" Cid="CID_M013" />
+			<Param Out="" PidOrGid="PID_ジャン" Cid="CID_S001" />
+			<Param Out="" PidOrGid="PID_アンナ" Cid="CID_S002" />
+			<Param Out="" PidOrGid="PID_ユナカ" Cid="CID_M006" />
+			<Param Out="" PidOrGid="PID_セアダス" Cid="CID_M015" />
+			<Param Out="" PidOrGid="PID_リンデン" Cid="CID_M018" />
+			<Param Out="" PidOrGid="PID_ザフィーア" Cid="CID_M019" />
+			<Param Out="" PidOrGid="PID_ヴェイル" Cid="CID_M022" />
+			<Param Out="" PidOrGid="PID_モーヴ" Cid="CID_M021" />
+			<Param Out="" PidOrGid="GID_マルス" Cid="CID_M000" />
+			<Param Out="" PidOrGid="GID_シグルド" Cid="CID_M003" />
+			<Param Out="" PidOrGid="GID_セリカ" Cid="CID_M004" />
+			<Param Out="" PidOrGid="GID_ミカヤ" Cid="CID_M006" />
+			<Param Out="" PidOrGid="GID_リーフ" Cid="CID_M008" />
+			<Param Out="" PidOrGid="GID_ロイ" Cid="CID_M008" />
+			<Param Out="" PidOrGid="GID_リン" Cid="CID_M011" />
+			<Param Out="" PidOrGid="GID_ルキナ" Cid="CID_M011" />
+			<Param Out="" PidOrGid="GID_アイク" Cid="CID_M013" />
+			<Param Out="" PidOrGid="GID_ベレト" Cid="CID_M014" />
+			<Param Out="" PidOrGid="GID_カムイ" Cid="CID_M015" />
+			<Param Out="" PidOrGid="GID_エイリーク" Cid="CID_M016" />
+		</Data>
+	</Sheet>
+	<Sheet Name="指輪台座" Count="12">
+		<Header>
+			<Param Name="出力先" Ident="Out" Type="PublicFile" Min="" Max="" Chg="" />
+			<Param Name="光らせる指輪の台座名" Ident="PedestalName" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="解放条件のクリア章" Ident="Cid" Type="string" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Out="" PedestalName="Crest_Marth" Cid="CID_M001" />
+			<Param Out="" PedestalName="Crest_Sigrud" Cid="CID_M003" />
+			<Param Out="" PedestalName="Crest_Celica" Cid="CID_M004" />
+			<Param Out="" PedestalName="Crest_Mic" Cid="CID_M006" />
+			<Param Out="" PedestalName="Crest_Roy" Cid="CID_M008" />
+			<Param Out="" PedestalName="Crest_Leaf" Cid="CID_M008" />
+			<Param Out="" PedestalName="Crest_Lyn" Cid="CID_M011" />
+			<Param Out="" PedestalName="Crest_Lucina" Cid="CID_M011" />
+			<Param Out="" PedestalName="Crest_Ike" Cid="CID_M013" />
+			<Param Out="" PedestalName="Crest_Byleth" Cid="CID_M014" />
+			<Param Out="" PedestalName="Crest_Kamui" Cid="CID_M015" />
+			<Param Out="" PedestalName="Crest_Eirika" Cid="CID_M016" />
+		</Data>
+	</Sheet>
+</Book>

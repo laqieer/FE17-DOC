@@ -1,0 +1,836 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Book Count="2">
+	<Sheet Name="実績一覧" Count="801">
+		<Header>
+			<Param Name="実績" Ident="Aid" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="名前" Ident="Name" Type="string" Min="" Max="" Chg="" />
+			<Param Name="カテゴリー" Ident="Category" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="種類" Ident="Kind" Type="s16" Min="" Max="" Chg="" />
+			<Param Name="回数" Ident="Count" Type="int" Min="" Max="" Chg="" />
+			<Param Name="引数" Ident="Arg" Type="string" Min="" Max="" Chg="" />
+			<Param Name="単位表示" Ident="CountUnit" Type="string" Min="" Max="" Chg="" />
+			<Param Name="絆報酬" Ident="KizunaReward" Type="int" Min="1" Max="99999" Chg="1" />
+			<Param Name="開放条件" Ident="Chapter" Type="string" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Aid="AID_ヴァンドレとの支援会話が発生" Name="MID_ACHIEVE_RELIANCE_FIRST" Category="0" Kind="5" Count="-1" Arg="PID_ヴァンドレ" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_クランとの支援会話が発生" Name="MID_ACHIEVE_RELIANCE_FIRST" Category="0" Kind="5" Count="-1" Arg="PID_クラン" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_フランとの支援会話が発生" Name="MID_ACHIEVE_RELIANCE_FIRST" Category="0" Kind="5" Count="-1" Arg="PID_フラン" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_アルフレッドとの支援会話が発生" Name="MID_ACHIEVE_RELIANCE_FIRST" Category="0" Kind="5" Count="-1" Arg="PID_アルフレッド" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_ブシュロンとの支援会話が発生" Name="MID_ACHIEVE_RELIANCE_FIRST" Category="0" Kind="5" Count="-1" Arg="PID_ブシュロン" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_エーティエとの支援会話が発生" Name="MID_ACHIEVE_RELIANCE_FIRST" Category="0" Kind="5" Count="-1" Arg="PID_エーティエ" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_セリーヌとの支援会話が発生" Name="MID_ACHIEVE_RELIANCE_FIRST" Category="0" Kind="5" Count="-1" Arg="PID_セリーヌ" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_ルイとの支援会話が発生" Name="MID_ACHIEVE_RELIANCE_FIRST" Category="0" Kind="5" Count="-1" Arg="PID_ルイ" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_クロエとの支援会話が発生" Name="MID_ACHIEVE_RELIANCE_FIRST" Category="0" Kind="5" Count="-1" Arg="PID_クロエ" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_ディアマンドとの支援会話が発生" Name="MID_ACHIEVE_RELIANCE_FIRST" Category="0" Kind="5" Count="-1" Arg="PID_ディアマンド" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_アンバーとの支援会話が発生" Name="MID_ACHIEVE_RELIANCE_FIRST" Category="0" Kind="5" Count="-1" Arg="PID_アンバー" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_ジェーデとの支援会話が発生" Name="MID_ACHIEVE_RELIANCE_FIRST" Category="0" Kind="5" Count="-1" Arg="PID_ジェーデ" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_スタルークとの支援会話が発生" Name="MID_ACHIEVE_RELIANCE_FIRST" Category="0" Kind="5" Count="-1" Arg="PID_スタルーク" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_ラピスとの支援会話が発生" Name="MID_ACHIEVE_RELIANCE_FIRST" Category="0" Kind="5" Count="-1" Arg="PID_ラピス" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_シトリニカとの支援会話が発生" Name="MID_ACHIEVE_RELIANCE_FIRST" Category="0" Kind="5" Count="-1" Arg="PID_シトリニカ" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_アイビーとの支援会話が発生" Name="MID_ACHIEVE_RELIANCE_FIRST" Category="0" Kind="5" Count="-1" Arg="PID_アイビー" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_ゼルコバとの支援会話が発生" Name="MID_ACHIEVE_RELIANCE_FIRST" Category="0" Kind="5" Count="-1" Arg="PID_ゼルコバ" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_カゲツとの支援会話が発生" Name="MID_ACHIEVE_RELIANCE_FIRST" Category="0" Kind="5" Count="-1" Arg="PID_カゲツ" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_オルテンシアとの支援会話が発生" Name="MID_ACHIEVE_RELIANCE_FIRST" Category="0" Kind="5" Count="-1" Arg="PID_オルテンシア" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_ロサードとの支援会話が発生" Name="MID_ACHIEVE_RELIANCE_FIRST" Category="0" Kind="5" Count="-1" Arg="PID_ロサード" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_ゴルドマリーとの支援会話が発生" Name="MID_ACHIEVE_RELIANCE_FIRST" Category="0" Kind="5" Count="-1" Arg="PID_ゴルドマリー" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_ミスティラとの支援会話が発生" Name="MID_ACHIEVE_RELIANCE_FIRST" Category="0" Kind="5" Count="-1" Arg="PID_ミスティラ" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_メリンとの支援会話が発生" Name="MID_ACHIEVE_RELIANCE_FIRST" Category="0" Kind="5" Count="-1" Arg="PID_メリン" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_パネトネとの支援会話が発生" Name="MID_ACHIEVE_RELIANCE_FIRST" Category="0" Kind="5" Count="-1" Arg="PID_パネトネ" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_フォガートとの支援会話が発生" Name="MID_ACHIEVE_RELIANCE_FIRST" Category="0" Kind="5" Count="-1" Arg="PID_フォガート" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_パンドロとの支援会話が発生" Name="MID_ACHIEVE_RELIANCE_FIRST" Category="0" Kind="5" Count="-1" Arg="PID_パンドロ" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_ボネとの支援会話が発生" Name="MID_ACHIEVE_RELIANCE_FIRST" Category="0" Kind="5" Count="-1" Arg="PID_ボネ" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_アンナとの支援会話が発生" Name="MID_ACHIEVE_RELIANCE_FIRST" Category="0" Kind="5" Count="-1" Arg="PID_アンナ" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_ジャンとの支援会話が発生" Name="MID_ACHIEVE_RELIANCE_FIRST" Category="0" Kind="5" Count="-1" Arg="PID_ジャン" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_ユナカとの支援会話が発生" Name="MID_ACHIEVE_RELIANCE_FIRST" Category="0" Kind="5" Count="-1" Arg="PID_ユナカ" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_セアダスとの支援会話が発生" Name="MID_ACHIEVE_RELIANCE_FIRST" Category="0" Kind="5" Count="-1" Arg="PID_セアダス" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_リンデンとの支援会話が発生" Name="MID_ACHIEVE_RELIANCE_FIRST" Category="0" Kind="5" Count="-1" Arg="PID_リンデン" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_ザフィーアとの支援会話が発生" Name="MID_ACHIEVE_RELIANCE_FIRST" Category="0" Kind="5" Count="-1" Arg="PID_ザフィーア" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_ヴェイルとの支援会話が発生" Name="MID_ACHIEVE_RELIANCE_FIRST" Category="0" Kind="5" Count="-1" Arg="PID_ヴェイル" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_モーヴとの支援会話が発生" Name="MID_ACHIEVE_RELIANCE_FIRST" Category="0" Kind="5" Count="-1" Arg="PID_モーヴ" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_仲間初めて支援会話Bが発生" Name="MID_ACHIEVE_RELIANCE_B_FIRST" Category="0" Kind="6" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="50" Chapter="" />
+			<Param Aid="AID_仲間５人と支援会話Bが発生" Name="MID_ACHIEVE_RELIANCE_B_COUNT" Category="0" Kind="6" Count="5" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="60" Chapter="" />
+			<Param Aid="AID_仲間１０人と支援会話Bが発生" Name="MID_ACHIEVE_RELIANCE_B_COUNT" Category="0" Kind="6" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="70" Chapter="" />
+			<Param Aid="AID_仲間１５人と支援会話Bが発生" Name="MID_ACHIEVE_RELIANCE_B_COUNT" Category="0" Kind="6" Count="15" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="80" Chapter="" />
+			<Param Aid="AID_仲間２０人と支援会話Bが発生" Name="MID_ACHIEVE_RELIANCE_B_COUNT" Category="0" Kind="6" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_仲間２５人と支援会話Bが発生" Name="MID_ACHIEVE_RELIANCE_B_COUNT" Category="0" Kind="6" Count="25" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="150" Chapter="" />
+			<Param Aid="AID_仲間３０人と支援会話Bが発生" Name="MID_ACHIEVE_RELIANCE_B_COUNT" Category="0" Kind="6" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_仲間３５人と支援会話Bが発生" Name="MID_ACHIEVE_RELIANCE_B_COUNT" Category="0" Kind="6" Count="35" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="250" Chapter="" />
+			<Param Aid="AID_仲間初めて支援会話Aが発生" Name="MID_ACHIEVE_RELIANCE_A_FIRST" Category="0" Kind="7" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="50" Chapter="" />
+			<Param Aid="AID_仲間５人と支援会話Aが発生" Name="MID_ACHIEVE_RELIANCE_A_COUNT" Category="0" Kind="7" Count="5" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="60" Chapter="" />
+			<Param Aid="AID_仲間１０人と支援会話Aが発生" Name="MID_ACHIEVE_RELIANCE_A_COUNT" Category="0" Kind="7" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="80" Chapter="" />
+			<Param Aid="AID_仲間１５人と支援会話Aが発生" Name="MID_ACHIEVE_RELIANCE_A_COUNT" Category="0" Kind="7" Count="15" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_仲間２０人と支援会話Aが発生" Name="MID_ACHIEVE_RELIANCE_A_COUNT" Category="0" Kind="7" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_仲間２５人と支援会話Aが発生" Name="MID_ACHIEVE_RELIANCE_A_COUNT" Category="0" Kind="7" Count="25" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="250" Chapter="" />
+			<Param Aid="AID_仲間３０人と支援会話Aが発生" Name="MID_ACHIEVE_RELIANCE_A_COUNT" Category="0" Kind="7" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="500" Chapter="" />
+			<Param Aid="AID_仲間３５人と支援会話Aが発生" Name="MID_ACHIEVE_RELIANCE_A_COUNT" Category="0" Kind="7" Count="35" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="1000" Chapter="" />
+			<Param Aid="AID_仲間初めて支援会話Ringが発生" Name="MID_ACHIEVE_RELIANCE_ENGAGE" Category="0" Kind="8" Count="-1" Arg="" CountUnit="" KizunaReward="1000" Chapter="" />
+			<Param Aid="AID_ヴァンドレと共に5回進軍" Name="MID_ACHIEVE_SORTIE_COUNT" Category="0" Kind="14" Count="5" Arg="PID_ヴァンドレ" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_クランと共に5回進軍" Name="MID_ACHIEVE_SORTIE_COUNT" Category="0" Kind="14" Count="5" Arg="PID_クラン" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_フランと共に5回進軍" Name="MID_ACHIEVE_SORTIE_COUNT" Category="0" Kind="14" Count="5" Arg="PID_フラン" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_アルフレッドと共に5回進軍" Name="MID_ACHIEVE_SORTIE_COUNT" Category="0" Kind="14" Count="5" Arg="PID_アルフレッド" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_ブシュロンと共に5回進軍" Name="MID_ACHIEVE_SORTIE_COUNT" Category="0" Kind="14" Count="5" Arg="PID_ブシュロン" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_エーティエと共に5回進軍" Name="MID_ACHIEVE_SORTIE_COUNT" Category="0" Kind="14" Count="5" Arg="PID_エーティエ" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_セリーヌと共に5回進軍" Name="MID_ACHIEVE_SORTIE_COUNT" Category="0" Kind="14" Count="5" Arg="PID_セリーヌ" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_ルイと共に5回進軍" Name="MID_ACHIEVE_SORTIE_COUNT" Category="0" Kind="14" Count="5" Arg="PID_ルイ" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_クロエと共に5回進軍" Name="MID_ACHIEVE_SORTIE_COUNT" Category="0" Kind="14" Count="5" Arg="PID_クロエ" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_ディアマンドと共に5回進軍" Name="MID_ACHIEVE_SORTIE_COUNT" Category="0" Kind="14" Count="5" Arg="PID_ディアマンド" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_アンバーと共に5回進軍" Name="MID_ACHIEVE_SORTIE_COUNT" Category="0" Kind="14" Count="5" Arg="PID_アンバー" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_ジェーデと共に5回進軍" Name="MID_ACHIEVE_SORTIE_COUNT" Category="0" Kind="14" Count="5" Arg="PID_ジェーデ" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_スタルークと共に5回進軍" Name="MID_ACHIEVE_SORTIE_COUNT" Category="0" Kind="14" Count="5" Arg="PID_スタルーク" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_ラピスと共に5回進軍" Name="MID_ACHIEVE_SORTIE_COUNT" Category="0" Kind="14" Count="5" Arg="PID_ラピス" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_シトリニカと共に5回進軍" Name="MID_ACHIEVE_SORTIE_COUNT" Category="0" Kind="14" Count="5" Arg="PID_シトリニカ" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_アイビーと共に5回進軍" Name="MID_ACHIEVE_SORTIE_COUNT" Category="0" Kind="14" Count="5" Arg="PID_アイビー" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_ゼルコバと共に5回進軍" Name="MID_ACHIEVE_SORTIE_COUNT" Category="0" Kind="14" Count="5" Arg="PID_ゼルコバ" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_カゲツと共に5回進軍" Name="MID_ACHIEVE_SORTIE_COUNT" Category="0" Kind="14" Count="5" Arg="PID_カゲツ" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_オルテンシアと共に5回進軍" Name="MID_ACHIEVE_SORTIE_COUNT" Category="0" Kind="14" Count="5" Arg="PID_オルテンシア" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_ロサードと共に5回進軍" Name="MID_ACHIEVE_SORTIE_COUNT" Category="0" Kind="14" Count="5" Arg="PID_ロサード" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_ゴルドマリーと共に5回進軍" Name="MID_ACHIEVE_SORTIE_COUNT" Category="0" Kind="14" Count="5" Arg="PID_ゴルドマリー" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_ミスティラと共に5回進軍" Name="MID_ACHIEVE_SORTIE_COUNT" Category="0" Kind="14" Count="5" Arg="PID_ミスティラ" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_メリンと共に5回進軍" Name="MID_ACHIEVE_SORTIE_COUNT" Category="0" Kind="14" Count="5" Arg="PID_メリン" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_パネトネと共に5回進軍" Name="MID_ACHIEVE_SORTIE_COUNT" Category="0" Kind="14" Count="5" Arg="PID_パネトネ" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_フォガートと共に5回進軍" Name="MID_ACHIEVE_SORTIE_COUNT" Category="0" Kind="14" Count="5" Arg="PID_フォガート" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_パンドロと共に5回進軍" Name="MID_ACHIEVE_SORTIE_COUNT" Category="0" Kind="14" Count="5" Arg="PID_パンドロ" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_ボネと共に5回進軍" Name="MID_ACHIEVE_SORTIE_COUNT" Category="0" Kind="14" Count="5" Arg="PID_ボネ" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_アンナと共に5回進軍" Name="MID_ACHIEVE_SORTIE_COUNT" Category="0" Kind="14" Count="5" Arg="PID_アンナ" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_ジャンと共に5回進軍" Name="MID_ACHIEVE_SORTIE_COUNT" Category="0" Kind="14" Count="5" Arg="PID_ジャン" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_ユナカと共に5回進軍" Name="MID_ACHIEVE_SORTIE_COUNT" Category="0" Kind="14" Count="5" Arg="PID_ユナカ" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_セアダスと共に5回進軍" Name="MID_ACHIEVE_SORTIE_COUNT" Category="0" Kind="14" Count="5" Arg="PID_セアダス" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_リンデンと共に5回進軍" Name="MID_ACHIEVE_SORTIE_COUNT" Category="0" Kind="14" Count="5" Arg="PID_リンデン" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_ザフィーアと共に5回進軍" Name="MID_ACHIEVE_SORTIE_COUNT" Category="0" Kind="14" Count="5" Arg="PID_ザフィーア" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_ヴェイルと共に5回進軍" Name="MID_ACHIEVE_SORTIE_COUNT" Category="0" Kind="14" Count="5" Arg="PID_ヴェイル" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_モーヴと共に5回進軍" Name="MID_ACHIEVE_SORTIE_COUNT" Category="0" Kind="14" Count="5" Arg="PID_モーヴ" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_遭遇戦初回クリア" Name="MID_ACHIEVE_ENCOUNT_BATTLE_FIRST" Category="1" Kind="13" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_遭遇戦５回クリア" Name="MID_ACHIEVE_ENCOUNT_BATTLE_COUNT" Category="1" Kind="13" Count="5" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="50" Chapter="" />
+			<Param Aid="AID_遭遇戦１０回クリア" Name="MID_ACHIEVE_ENCOUNT_BATTLE_COUNT" Category="1" Kind="13" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_遭遇戦１５回クリア" Name="MID_ACHIEVE_ENCOUNT_BATTLE_COUNT" Category="1" Kind="13" Count="15" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="150" Chapter="" />
+			<Param Aid="AID_遭遇戦２０回クリア" Name="MID_ACHIEVE_ENCOUNT_BATTLE_COUNT" Category="1" Kind="13" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_遭遇戦２５回クリア" Name="MID_ACHIEVE_ENCOUNT_BATTLE_COUNT" Category="1" Kind="13" Count="25" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="250" Chapter="" />
+			<Param Aid="AID_遭遇戦３０回クリア" Name="MID_ACHIEVE_ENCOUNT_BATTLE_COUNT" Category="1" Kind="13" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_遭遇戦３５回クリア" Name="MID_ACHIEVE_ENCOUNT_BATTLE_COUNT" Category="1" Kind="13" Count="35" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="350" Chapter="" />
+			<Param Aid="AID_遭遇戦４０回クリア" Name="MID_ACHIEVE_ENCOUNT_BATTLE_COUNT" Category="1" Kind="13" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="400" Chapter="" />
+			<Param Aid="AID_遭遇戦４５回クリア" Name="MID_ACHIEVE_ENCOUNT_BATTLE_COUNT" Category="1" Kind="13" Count="45" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="450" Chapter="" />
+			<Param Aid="AID_戦闘回数50回達成" Name="MID_ACHIEVE_BATTLE_COUNT" Category="1" Kind="3" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="50" Chapter="" />
+			<Param Aid="AID_戦闘回数100回達成" Name="MID_ACHIEVE_BATTLE_COUNT" Category="1" Kind="3" Count="100" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_戦闘回数200回達成" Name="MID_ACHIEVE_BATTLE_COUNT" Category="1" Kind="3" Count="200" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_戦闘回数300回達成" Name="MID_ACHIEVE_BATTLE_COUNT" Category="1" Kind="3" Count="300" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_戦闘回数400回達成" Name="MID_ACHIEVE_BATTLE_COUNT" Category="1" Kind="3" Count="400" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="400" Chapter="" />
+			<Param Aid="AID_戦闘回数500回達成" Name="MID_ACHIEVE_BATTLE_COUNT" Category="1" Kind="3" Count="500" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="500" Chapter="" />
+			<Param Aid="AID_戦闘回数750回達成" Name="MID_ACHIEVE_BATTLE_COUNT" Category="1" Kind="3" Count="750" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="750" Chapter="" />
+			<Param Aid="AID_戦闘回数1000回達成" Name="MID_ACHIEVE_BATTLE_COUNT" Category="1" Kind="3" Count="1000" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="1000" Chapter="" />
+			<Param Aid="AID_戦闘回数1250回達成" Name="MID_ACHIEVE_BATTLE_COUNT" Category="1" Kind="3" Count="1250" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="1250" Chapter="" />
+			<Param Aid="AID_戦闘回数1500回達成" Name="MID_ACHIEVE_BATTLE_COUNT" Category="1" Kind="3" Count="1500" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="1500" Chapter="" />
+			<Param Aid="AID_戦闘回数1750回達成" Name="MID_ACHIEVE_BATTLE_COUNT" Category="1" Kind="3" Count="1750" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="1750" Chapter="" />
+			<Param Aid="AID_戦闘回数2000回達成" Name="MID_ACHIEVE_BATTLE_COUNT" Category="1" Kind="3" Count="2000" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="2000" Chapter="" />
+			<Param Aid="AID_戦闘回数2500回達成" Name="MID_ACHIEVE_BATTLE_COUNT" Category="1" Kind="3" Count="2500" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="2500" Chapter="" />
+			<Param Aid="AID_戦闘回数3000回達成" Name="MID_ACHIEVE_BATTLE_COUNT" Category="1" Kind="3" Count="3000" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="3000" Chapter="" />
+			<Param Aid="AID_戦闘回数3500回達成" Name="MID_ACHIEVE_BATTLE_COUNT" Category="1" Kind="3" Count="3500" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="3500" Chapter="" />
+			<Param Aid="AID_戦闘回数4000回達成" Name="MID_ACHIEVE_BATTLE_COUNT" Category="1" Kind="3" Count="4000" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="4000" Chapter="" />
+			<Param Aid="AID_戦闘回数4500回達成" Name="MID_ACHIEVE_BATTLE_COUNT" Category="1" Kind="3" Count="4500" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="4500" Chapter="" />
+			<Param Aid="AID_戦闘回数5000回達成" Name="MID_ACHIEVE_BATTLE_COUNT" Category="1" Kind="3" Count="5000" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="5000" Chapter="" />
+			<Param Aid="AID_一般兵初回撃破" Name="MID_ACHIEVE_SOLDIER_DEFEAT_FIRST" Category="1" Kind="9" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_一般兵10体撃破" Name="MID_ACHIEVE_SOLDIER_DEFEAT_COUNT" Category="1" Kind="9" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_一般兵20体撃破" Name="MID_ACHIEVE_SOLDIER_DEFEAT_COUNT" Category="1" Kind="9" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="20" Chapter="" />
+			<Param Aid="AID_一般兵30体撃破" Name="MID_ACHIEVE_SOLDIER_DEFEAT_COUNT" Category="1" Kind="9" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_一般兵40体撃破" Name="MID_ACHIEVE_SOLDIER_DEFEAT_COUNT" Category="1" Kind="9" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="40" Chapter="" />
+			<Param Aid="AID_一般兵50体撃破" Name="MID_ACHIEVE_SOLDIER_DEFEAT_COUNT" Category="1" Kind="9" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="50" Chapter="" />
+			<Param Aid="AID_一般兵75体撃破" Name="MID_ACHIEVE_SOLDIER_DEFEAT_COUNT" Category="1" Kind="9" Count="75" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="75" Chapter="" />
+			<Param Aid="AID_一般兵100体撃破" Name="MID_ACHIEVE_SOLDIER_DEFEAT_COUNT" Category="1" Kind="9" Count="100" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_一般兵150体撃破" Name="MID_ACHIEVE_SOLDIER_DEFEAT_COUNT" Category="1" Kind="9" Count="150" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="150" Chapter="" />
+			<Param Aid="AID_一般兵200体撃破" Name="MID_ACHIEVE_SOLDIER_DEFEAT_COUNT" Category="1" Kind="9" Count="200" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_一般兵250体撃破" Name="MID_ACHIEVE_SOLDIER_DEFEAT_COUNT" Category="1" Kind="9" Count="250" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="250" Chapter="" />
+			<Param Aid="AID_一般兵300体撃破" Name="MID_ACHIEVE_SOLDIER_DEFEAT_COUNT" Category="1" Kind="9" Count="300" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_一般兵350体撃破" Name="MID_ACHIEVE_SOLDIER_DEFEAT_COUNT" Category="1" Kind="9" Count="350" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="350" Chapter="" />
+			<Param Aid="AID_一般兵400体撃破" Name="MID_ACHIEVE_SOLDIER_DEFEAT_COUNT" Category="1" Kind="9" Count="400" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="400" Chapter="" />
+			<Param Aid="AID_一般兵450体撃破" Name="MID_ACHIEVE_SOLDIER_DEFEAT_COUNT" Category="1" Kind="9" Count="450" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="450" Chapter="" />
+			<Param Aid="AID_一般兵500体撃破" Name="MID_ACHIEVE_SOLDIER_DEFEAT_COUNT" Category="1" Kind="9" Count="500" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="500" Chapter="" />
+			<Param Aid="AID_異形兵初回撃破" Name="MID_ACHIEVE_MORPH_DEFEAT_FIRST" Category="1" Kind="10" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ENEMY" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_異形兵10体撃破" Name="MID_ACHIEVE_MORPH_DEFEAT_COUNT" Category="1" Kind="10" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ENEMY" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_異形兵20体撃破" Name="MID_ACHIEVE_MORPH_DEFEAT_COUNT" Category="1" Kind="10" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ENEMY" KizunaReward="20" Chapter="" />
+			<Param Aid="AID_異形兵30体撃破" Name="MID_ACHIEVE_MORPH_DEFEAT_COUNT" Category="1" Kind="10" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ENEMY" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_異形兵40体撃破" Name="MID_ACHIEVE_MORPH_DEFEAT_COUNT" Category="1" Kind="10" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ENEMY" KizunaReward="40" Chapter="" />
+			<Param Aid="AID_異形兵50体撃破" Name="MID_ACHIEVE_MORPH_DEFEAT_COUNT" Category="1" Kind="10" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ENEMY" KizunaReward="50" Chapter="" />
+			<Param Aid="AID_異形兵75体撃破" Name="MID_ACHIEVE_MORPH_DEFEAT_COUNT" Category="1" Kind="10" Count="75" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ENEMY" KizunaReward="75" Chapter="" />
+			<Param Aid="AID_異形兵100体撃破" Name="MID_ACHIEVE_MORPH_DEFEAT_COUNT" Category="1" Kind="10" Count="100" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ENEMY" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_異形兵150体撃破" Name="MID_ACHIEVE_MORPH_DEFEAT_COUNT" Category="1" Kind="10" Count="150" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ENEMY" KizunaReward="150" Chapter="" />
+			<Param Aid="AID_異形兵200体撃破" Name="MID_ACHIEVE_MORPH_DEFEAT_COUNT" Category="1" Kind="10" Count="200" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ENEMY" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_異形兵250体撃破" Name="MID_ACHIEVE_MORPH_DEFEAT_COUNT" Category="1" Kind="10" Count="250" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ENEMY" KizunaReward="250" Chapter="" />
+			<Param Aid="AID_異形兵300体撃破" Name="MID_ACHIEVE_MORPH_DEFEAT_COUNT" Category="1" Kind="10" Count="300" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ENEMY" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_異形兵350体撃破" Name="MID_ACHIEVE_MORPH_DEFEAT_COUNT" Category="1" Kind="10" Count="350" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ENEMY" KizunaReward="350" Chapter="" />
+			<Param Aid="AID_異形兵400体撃破" Name="MID_ACHIEVE_MORPH_DEFEAT_COUNT" Category="1" Kind="10" Count="400" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ENEMY" KizunaReward="400" Chapter="" />
+			<Param Aid="AID_異形兵450体撃破" Name="MID_ACHIEVE_MORPH_DEFEAT_COUNT" Category="1" Kind="10" Count="450" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ENEMY" KizunaReward="450" Chapter="" />
+			<Param Aid="AID_異形兵500体撃破" Name="MID_ACHIEVE_MORPH_DEFEAT_COUNT" Category="1" Kind="10" Count="500" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ENEMY" KizunaReward="500" Chapter="" />
+			<Param Aid="AID_蛮族初回撃破" Name="MID_ACHIEVE_BANDITS_DEFEAT_FIRST" Category="1" Kind="11" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_蛮族10体撃破" Name="MID_ACHIEVE_BANDITS_DEFEAT_COUNT" Category="1" Kind="11" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_蛮族20体撃破" Name="MID_ACHIEVE_BANDITS_DEFEAT_COUNT" Category="1" Kind="11" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="20" Chapter="" />
+			<Param Aid="AID_蛮族30体撃破" Name="MID_ACHIEVE_BANDITS_DEFEAT_COUNT" Category="1" Kind="11" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_蛮族40体撃破" Name="MID_ACHIEVE_BANDITS_DEFEAT_COUNT" Category="1" Kind="11" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="40" Chapter="" />
+			<Param Aid="AID_蛮族50体撃破" Name="MID_ACHIEVE_BANDITS_DEFEAT_COUNT" Category="1" Kind="11" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="50" Chapter="" />
+			<Param Aid="AID_蛮族75体撃破" Name="MID_ACHIEVE_BANDITS_DEFEAT_COUNT" Category="1" Kind="11" Count="75" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="75" Chapter="" />
+			<Param Aid="AID_蛮族100体撃破" Name="MID_ACHIEVE_BANDITS_DEFEAT_COUNT" Category="1" Kind="11" Count="100" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_蛮族150体撃破" Name="MID_ACHIEVE_BANDITS_DEFEAT_COUNT" Category="1" Kind="11" Count="150" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="150" Chapter="" />
+			<Param Aid="AID_蛮族200体撃破" Name="MID_ACHIEVE_BANDITS_DEFEAT_COUNT" Category="1" Kind="11" Count="200" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_蛮族250体撃破" Name="MID_ACHIEVE_BANDITS_DEFEAT_COUNT" Category="1" Kind="11" Count="250" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="250" Chapter="" />
+			<Param Aid="AID_蛮族300体撃破" Name="MID_ACHIEVE_BANDITS_DEFEAT_COUNT" Category="1" Kind="11" Count="300" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_蛮族350体撃破" Name="MID_ACHIEVE_BANDITS_DEFEAT_COUNT" Category="1" Kind="11" Count="350" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="350" Chapter="" />
+			<Param Aid="AID_蛮族400体撃破" Name="MID_ACHIEVE_BANDITS_DEFEAT_COUNT" Category="1" Kind="11" Count="400" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="400" Chapter="" />
+			<Param Aid="AID_蛮族450体撃破" Name="MID_ACHIEVE_BANDITS_DEFEAT_COUNT" Category="1" Kind="11" Count="450" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="450" Chapter="" />
+			<Param Aid="AID_蛮族500体撃破" Name="MID_ACHIEVE_BANDITS_DEFEAT_COUNT" Category="1" Kind="11" Count="500" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="500" Chapter="" />
+			<Param Aid="AID_杖10回使用" Name="MID_ACHIEVE_CANE_COUNT" Category="1" Kind="4" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_杖50回使用" Name="MID_ACHIEVE_CANE_COUNT" Category="1" Kind="4" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="50" Chapter="" />
+			<Param Aid="AID_杖100回使用" Name="MID_ACHIEVE_CANE_COUNT" Category="1" Kind="4" Count="100" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_杖150回使用" Name="MID_ACHIEVE_CANE_COUNT" Category="1" Kind="4" Count="150" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="150" Chapter="" />
+			<Param Aid="AID_杖200回使用" Name="MID_ACHIEVE_CANE_COUNT" Category="1" Kind="4" Count="200" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_杖250回使用" Name="MID_ACHIEVE_CANE_COUNT" Category="1" Kind="4" Count="250" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="250" Chapter="" />
+			<Param Aid="AID_杖300回使用" Name="MID_ACHIEVE_CANE_COUNT" Category="1" Kind="4" Count="300" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_杖350回使用" Name="MID_ACHIEVE_CANE_COUNT" Category="1" Kind="4" Count="350" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="350" Chapter="" />
+			<Param Aid="AID_杖400回使用" Name="MID_ACHIEVE_CANE_COUNT" Category="1" Kind="4" Count="400" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="400" Chapter="" />
+			<Param Aid="AID_杖450回使用" Name="MID_ACHIEVE_CANE_COUNT" Category="1" Kind="4" Count="450" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="450" Chapter="" />
+			<Param Aid="AID_杖500回使用" Name="MID_ACHIEVE_CANE_COUNT" Category="1" Kind="4" Count="500" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="500" Chapter="" />
+			<Param Aid="AID_必殺技初回発動" Name="MID_ACHIEVE_CRITICAL_FIRST" Category="1" Kind="15" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_必殺技5回発動" Name="MID_ACHIEVE_CRITICAL_COUNT" Category="1" Kind="15" Count="5" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_必殺技20回発動" Name="MID_ACHIEVE_CRITICAL_COUNT" Category="1" Kind="15" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="20" Chapter="" />
+			<Param Aid="AID_必殺技50回発動" Name="MID_ACHIEVE_CRITICAL_COUNT" Category="1" Kind="15" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="50" Chapter="" />
+			<Param Aid="AID_必殺技100回発動" Name="MID_ACHIEVE_CRITICAL_COUNT" Category="1" Kind="15" Count="100" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_必殺技150回発動" Name="MID_ACHIEVE_CRITICAL_COUNT" Category="1" Kind="15" Count="150" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="150" Chapter="" />
+			<Param Aid="AID_必殺技200回発動" Name="MID_ACHIEVE_CRITICAL_COUNT" Category="1" Kind="15" Count="200" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_必殺技250回発動" Name="MID_ACHIEVE_CRITICAL_COUNT" Category="1" Kind="15" Count="250" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="250" Chapter="" />
+			<Param Aid="AID_必殺技300回発動" Name="MID_ACHIEVE_CRITICAL_COUNT" Category="1" Kind="15" Count="300" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_エンゲージ初回" Name="MID_ACHIEVE_ENGAGE_FIRST" Category="1" Kind="16" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_エンゲージ5回" Name="MID_ACHIEVE_ENGAGE_COUNT" Category="1" Kind="16" Count="5" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_エンゲージ20回" Name="MID_ACHIEVE_ENGAGE_COUNT" Category="1" Kind="16" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="20" Chapter="" />
+			<Param Aid="AID_エンゲージ50回" Name="MID_ACHIEVE_ENGAGE_COUNT" Category="1" Kind="16" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="50" Chapter="" />
+			<Param Aid="AID_エンゲージ100回" Name="MID_ACHIEVE_ENGAGE_COUNT" Category="1" Kind="16" Count="100" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_エンゲージ150回" Name="MID_ACHIEVE_ENGAGE_COUNT" Category="1" Kind="16" Count="150" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="150" Chapter="" />
+			<Param Aid="AID_エンゲージ200回" Name="MID_ACHIEVE_ENGAGE_COUNT" Category="1" Kind="16" Count="200" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_エンゲージ250回" Name="MID_ACHIEVE_ENGAGE_COUNT" Category="1" Kind="16" Count="250" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="250" Chapter="" />
+			<Param Aid="AID_エンゲージ300回" Name="MID_ACHIEVE_ENGAGE_COUNT" Category="1" Kind="16" Count="300" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_エンゲージ技初回" Name="MID_ACHIEVE_ENGAGEATTACK_FIRST" Category="1" Kind="17" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_エンゲージ技5回発動" Name="MID_ACHIEVE_ENGAGEATTACK_COUNT" Category="1" Kind="17" Count="5" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_エンゲージ技20回発動" Name="MID_ACHIEVE_ENGAGEATTACK_COUNT" Category="1" Kind="17" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="20" Chapter="" />
+			<Param Aid="AID_エンゲージ技50回発動" Name="MID_ACHIEVE_ENGAGEATTACK_COUNT" Category="1" Kind="17" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="50" Chapter="" />
+			<Param Aid="AID_エンゲージ技100回発動" Name="MID_ACHIEVE_ENGAGEATTACK_COUNT" Category="1" Kind="17" Count="100" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_エンゲージ技150回発動" Name="MID_ACHIEVE_ENGAGEATTACK_COUNT" Category="1" Kind="17" Count="150" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="150" Chapter="" />
+			<Param Aid="AID_エンゲージ技200回発動" Name="MID_ACHIEVE_ENGAGEATTACK_COUNT" Category="1" Kind="17" Count="200" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_エンゲージ技250回発動" Name="MID_ACHIEVE_ENGAGEATTACK_COUNT" Category="1" Kind="17" Count="250" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="250" Chapter="" />
+			<Param Aid="AID_エンゲージ技300回発動" Name="MID_ACHIEVE_ENGAGEATTACK_COUNT" Category="1" Kind="17" Count="300" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_攻撃回避初回発生" Name="MID_ACHIEVE_AVOIDANCE_FIRST" Category="1" Kind="18" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_攻撃回避10回発生" Name="MID_ACHIEVE_AVOIDANCE_COUNT" Category="1" Kind="18" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_攻撃回避50回発生" Name="MID_ACHIEVE_AVOIDANCE_COUNT" Category="1" Kind="18" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="50" Chapter="" />
+			<Param Aid="AID_攻撃回避100回発生" Name="MID_ACHIEVE_AVOIDANCE_COUNT" Category="1" Kind="18" Count="100" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_攻撃回避200回発生" Name="MID_ACHIEVE_AVOIDANCE_COUNT" Category="1" Kind="18" Count="200" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_攻撃回避300回発生" Name="MID_ACHIEVE_AVOIDANCE_COUNT" Category="1" Kind="18" Count="300" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_攻撃回避400回発生" Name="MID_ACHIEVE_AVOIDANCE_COUNT" Category="1" Kind="18" Count="400" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="400" Chapter="" />
+			<Param Aid="AID_攻撃回避500回発生" Name="MID_ACHIEVE_AVOIDANCE_COUNT" Category="1" Kind="18" Count="500" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="500" Chapter="" />
+			<Param Aid="AID_チェインガード初回発生" Name="MID_ACHIEVE_DEGENSE_FIRST" Category="1" Kind="19" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_チェインガード5回発生" Name="MID_ACHIEVE_DEGENSE_COUNT" Category="1" Kind="19" Count="5" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_チェインガード10回発生" Name="MID_ACHIEVE_DEGENSE_COUNT" Category="1" Kind="19" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_チェインガード20回発生" Name="MID_ACHIEVE_DEGENSE_COUNT" Category="1" Kind="19" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="20" Chapter="" />
+			<Param Aid="AID_チェインガード50回発生" Name="MID_ACHIEVE_DEGENSE_COUNT" Category="1" Kind="19" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="50" Chapter="" />
+			<Param Aid="AID_チェインガード100回発生" Name="MID_ACHIEVE_DEGENSE_COUNT" Category="1" Kind="19" Count="100" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_チェインガード150回発生" Name="MID_ACHIEVE_DEGENSE_COUNT" Category="1" Kind="19" Count="150" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="150" Chapter="" />
+			<Param Aid="AID_チェインガード200回発生" Name="MID_ACHIEVE_DEGENSE_COUNT" Category="1" Kind="19" Count="200" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_チェインガード250回発生" Name="MID_ACHIEVE_DEGENSE_COUNT" Category="1" Kind="19" Count="250" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="250" Chapter="" />
+			<Param Aid="AID_チェインガード300回発生" Name="MID_ACHIEVE_DEGENSE_COUNT" Category="1" Kind="19" Count="300" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_チェインアタック初回発生" Name="MID_ACHIEVE_CHAIN_FIRST" Category="1" Kind="20" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_チェインアタック5回発生" Name="MID_ACHIEVE_CHAIN_COUNT" Category="1" Kind="20" Count="5" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_チェインアタック10回発生" Name="MID_ACHIEVE_CHAIN_COUNT" Category="1" Kind="20" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_チェインアタック20回発生" Name="MID_ACHIEVE_CHAIN_COUNT" Category="1" Kind="20" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="20" Chapter="" />
+			<Param Aid="AID_チェインアタック50回発生" Name="MID_ACHIEVE_CHAIN_COUNT" Category="1" Kind="20" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="50" Chapter="" />
+			<Param Aid="AID_チェインアタック100回発生" Name="MID_ACHIEVE_CHAIN_COUNT" Category="1" Kind="20" Count="100" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_チェインアタック150回発生" Name="MID_ACHIEVE_CHAIN_COUNT" Category="1" Kind="20" Count="150" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="150" Chapter="" />
+			<Param Aid="AID_チェインアタック200回発生" Name="MID_ACHIEVE_CHAIN_COUNT" Category="1" Kind="20" Count="200" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_チェインアタック250回発生" Name="MID_ACHIEVE_CHAIN_COUNT" Category="1" Kind="20" Count="250" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="250" Chapter="" />
+			<Param Aid="AID_チェインアタック300回発生" Name="MID_ACHIEVE_CHAIN_COUNT" Category="1" Kind="20" Count="300" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_3人チェイン発生" Name="MID_ACHIEVE_CHAIN_UNIT_COUNT" Category="1" Kind="21" Count="3" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_4人チェイン発生" Name="MID_ACHIEVE_CHAIN_UNIT_COUNT" Category="1" Kind="21" Count="4" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="400" Chapter="" />
+			<Param Aid="AID_5人チェイン発生" Name="MID_ACHIEVE_CHAIN_UNIT_COUNT" Category="1" Kind="21" Count="5" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="500" Chapter="" />
+			<Param Aid="AID_6人チェイン発生" Name="MID_ACHIEVE_CHAIN_UNIT_COUNT" Category="1" Kind="21" Count="6" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="600" Chapter="" />
+			<Param Aid="AID_7人チェイン発生" Name="MID_ACHIEVE_CHAIN_UNIT_COUNT" Category="1" Kind="21" Count="7" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="700" Chapter="" />
+			<Param Aid="AID_8人チェイン発生" Name="MID_ACHIEVE_CHAIN_UNIT_COUNT" Category="1" Kind="21" Count="8" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="800" Chapter="" />
+			<Param Aid="AID_9人チェイン発生" Name="MID_ACHIEVE_CHAIN_UNIT_COUNT" Category="1" Kind="21" Count="9" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="900" Chapter="" />
+			<Param Aid="AID_10人チェイン発生" Name="MID_ACHIEVE_CHAIN_UNIT_COUNT" Category="1" Kind="21" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="1000" Chapter="" />
+			<Param Aid="AID_ブレイク初回発生" Name="MID_ACHIEVE_BREAK_FIRST" Category="1" Kind="22" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_ブレイク5回発生" Name="MID_ACHIEVE_BREAK_COUNT" Category="1" Kind="22" Count="5" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_ブレイク10回発生" Name="MID_ACHIEVE_BREAK_COUNT" Category="1" Kind="22" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_ブレイク20回発生" Name="MID_ACHIEVE_BREAK_COUNT" Category="1" Kind="22" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="20" Chapter="" />
+			<Param Aid="AID_ブレイク50回発生" Name="MID_ACHIEVE_BREAK_COUNT" Category="1" Kind="22" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="50" Chapter="" />
+			<Param Aid="AID_ブレイク100回発生" Name="MID_ACHIEVE_BREAK_COUNT" Category="1" Kind="22" Count="100" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_ブレイク150回発生" Name="MID_ACHIEVE_BREAK_COUNT" Category="1" Kind="22" Count="150" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="150" Chapter="" />
+			<Param Aid="AID_ブレイク200回発生" Name="MID_ACHIEVE_BREAK_COUNT" Category="1" Kind="22" Count="200" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_ブレイク250回発生" Name="MID_ACHIEVE_BREAK_COUNT" Category="1" Kind="22" Count="250" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="250" Chapter="" />
+			<Param Aid="AID_ブレイク300回発生" Name="MID_ACHIEVE_BREAK_COUNT" Category="1" Kind="22" Count="300" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_スマッシュ初回発生" Name="MID_ACHIEVE_SMASH_FIRST" Category="1" Kind="23" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_スマッシュ5回発生" Name="MID_ACHIEVE_SMASH_COUNT" Category="1" Kind="23" Count="5" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="50" Chapter="" />
+			<Param Aid="AID_スマッシュ10回発生" Name="MID_ACHIEVE_SMASH_COUNT" Category="1" Kind="23" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_スマッシュ20回発生" Name="MID_ACHIEVE_SMASH_COUNT" Category="1" Kind="23" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_スマッシュ30回発生" Name="MID_ACHIEVE_SMASH_COUNT" Category="1" Kind="23" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_スマッシュ40回発生" Name="MID_ACHIEVE_SMASH_COUNT" Category="1" Kind="23" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="400" Chapter="" />
+			<Param Aid="AID_スマッシュ50回発生" Name="MID_ACHIEVE_SMASH_COUNT" Category="1" Kind="23" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="500" Chapter="" />
+			<Param Aid="AID_ミニゲーム初回プレイ" Name="MID_ACHIEVE_MINIGAME_FIRST" Category="2" Kind="24" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="CID_M004" />
+			<Param Aid="AID_ミニゲーム10回プレイ" Name="MID_ACHIEVE_MINIGAME_COUNT" Category="2" Kind="24" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="CID_M004" />
+			<Param Aid="AID_ミニゲーム20回プレイ" Name="MID_ACHIEVE_MINIGAME_COUNT" Category="2" Kind="24" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="200" Chapter="CID_M004" />
+			<Param Aid="AID_ミニゲーム30回プレイ" Name="MID_ACHIEVE_MINIGAME_COUNT" Category="2" Kind="24" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="300" Chapter="CID_M004" />
+			<Param Aid="AID_ミニゲーム40回プレイ" Name="MID_ACHIEVE_MINIGAME_COUNT" Category="2" Kind="24" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="400" Chapter="CID_M004" />
+			<Param Aid="AID_ミニゲーム50回プレイ" Name="MID_ACHIEVE_MINIGAME_COUNT" Category="2" Kind="24" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="500" Chapter="CID_M004" />
+			<Param Aid="AID_ミニゲーム60回プレイ" Name="MID_ACHIEVE_MINIGAME_COUNT" Category="2" Kind="24" Count="60" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="600" Chapter="CID_M004" />
+			<Param Aid="AID_ミニゲーム70回プレイ" Name="MID_ACHIEVE_MINIGAME_COUNT" Category="2" Kind="24" Count="70" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="700" Chapter="CID_M004" />
+			<Param Aid="AID_ミニゲーム80回プレイ" Name="MID_ACHIEVE_MINIGAME_COUNT" Category="2" Kind="24" Count="80" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="800" Chapter="CID_M004" />
+			<Param Aid="AID_ミニゲーム90回プレイ" Name="MID_ACHIEVE_MINIGAME_COUNT" Category="2" Kind="24" Count="90" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="900" Chapter="CID_M004" />
+			<Param Aid="AID_ミニゲーム100回プレイ" Name="MID_ACHIEVE_MINIGAME_COUNT" Category="2" Kind="24" Count="100" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="CID_M004" />
+			<Param Aid="AID_指輪初めて精製" Name="MID_ACHIEVE_RING_FORM_FIRST" Category="2" Kind="25" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="10" Chapter="CID_M004" />
+			<Param Aid="AID_指輪50個精製" Name="MID_ACHIEVE_RING_FORM_COUNT" Category="2" Kind="25" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="50" Chapter="CID_M004" />
+			<Param Aid="AID_指輪100個精製" Name="MID_ACHIEVE_RING_FORM_COUNT" Category="2" Kind="25" Count="100" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="50" Chapter="CID_M004" />
+			<Param Aid="AID_指輪500個精製" Name="MID_ACHIEVE_RING_FORM_COUNT" Category="2" Kind="25" Count="500" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="50" Chapter="CID_M004" />
+			<Param Aid="AID_指輪1000個精製" Name="MID_ACHIEVE_RING_FORM_COUNT" Category="2" Kind="25" Count="1000" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="100" Chapter="CID_M004" />
+			<Param Aid="AID_指輪1500個精製" Name="MID_ACHIEVE_RING_FORM_COUNT" Category="2" Kind="25" Count="1500" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="150" Chapter="CID_M004" />
+			<Param Aid="AID_指輪2000個精製" Name="MID_ACHIEVE_RING_FORM_COUNT" Category="2" Kind="25" Count="2000" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="200" Chapter="CID_M004" />
+			<Param Aid="AID_指輪2500個精製" Name="MID_ACHIEVE_RING_FORM_COUNT" Category="2" Kind="25" Count="2500" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="250" Chapter="CID_M004" />
+			<Param Aid="AID_指輪3000個精製" Name="MID_ACHIEVE_RING_FORM_COUNT" Category="2" Kind="25" Count="3000" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="300" Chapter="CID_M004" />
+			<Param Aid="AID_指輪3500個精製" Name="MID_ACHIEVE_RING_FORM_COUNT" Category="2" Kind="25" Count="3500" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="350" Chapter="CID_M004" />
+			<Param Aid="AID_指輪4000個精製" Name="MID_ACHIEVE_RING_FORM_COUNT" Category="2" Kind="25" Count="4000" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="400" Chapter="CID_M004" />
+			<Param Aid="AID_指輪4500個精製" Name="MID_ACHIEVE_RING_FORM_COUNT" Category="2" Kind="25" Count="4500" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="450" Chapter="CID_M004" />
+			<Param Aid="AID_指輪5000個精製" Name="MID_ACHIEVE_RING_FORM_COUNT" Category="2" Kind="25" Count="5000" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="500" Chapter="CID_M004" />
+			<Param Aid="AID_指輪初めて合成" Name="MID_ACHIEVE_RING_MIX_FIRST" Category="2" Kind="26" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="10" Chapter="CID_M004" />
+			<Param Aid="AID_指輪10個合成" Name="MID_ACHIEVE_RING_MIX_COUNT" Category="2" Kind="26" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="10" Chapter="CID_M004" />
+			<Param Aid="AID_指輪50個合成" Name="MID_ACHIEVE_RING_MIX_COUNT" Category="2" Kind="26" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="50" Chapter="CID_M004" />
+			<Param Aid="AID_指輪100個合成" Name="MID_ACHIEVE_RING_MIX_COUNT" Category="2" Kind="26" Count="100" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="100" Chapter="CID_M004" />
+			<Param Aid="AID_指輪150個合成" Name="MID_ACHIEVE_RING_MIX_COUNT" Category="2" Kind="26" Count="150" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="150" Chapter="CID_M004" />
+			<Param Aid="AID_指輪200個合成" Name="MID_ACHIEVE_RING_MIX_COUNT" Category="2" Kind="26" Count="200" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="200" Chapter="CID_M004" />
+			<Param Aid="AID_指輪250個合成" Name="MID_ACHIEVE_RING_MIX_COUNT" Category="2" Kind="26" Count="250" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="250" Chapter="CID_M004" />
+			<Param Aid="AID_指輪300個合成" Name="MID_ACHIEVE_RING_MIX_COUNT" Category="2" Kind="26" Count="300" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="300" Chapter="CID_M004" />
+			<Param Aid="AID_指輪350個合成" Name="MID_ACHIEVE_RING_MIX_COUNT" Category="2" Kind="26" Count="350" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="350" Chapter="CID_M004" />
+			<Param Aid="AID_指輪400個合成" Name="MID_ACHIEVE_RING_MIX_COUNT" Category="2" Kind="26" Count="400" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="400" Chapter="CID_M004" />
+			<Param Aid="AID_指輪450個合成" Name="MID_ACHIEVE_RING_MIX_COUNT" Category="2" Kind="26" Count="450" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="450" Chapter="CID_M004" />
+			<Param Aid="AID_指輪500個合成" Name="MID_ACHIEVE_RING_MIX_COUNT" Category="2" Kind="26" Count="500" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="500" Chapter="CID_M004" />
+			<Param Aid="AID_Cランク指輪10個獲得" Name="MID_ACHIEVE_BONDSRING_C_COUNT" Category="2" Kind="27" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="5" Chapter="CID_M004" />
+			<Param Aid="AID_Cランク指輪100個獲得" Name="MID_ACHIEVE_BONDSRING_C_COUNT" Category="2" Kind="27" Count="100" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="10" Chapter="CID_M004" />
+			<Param Aid="AID_Cランク指輪500個獲得" Name="MID_ACHIEVE_BONDSRING_C_COUNT" Category="2" Kind="27" Count="500" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="20" Chapter="CID_M004" />
+			<Param Aid="AID_Cランク指輪1000個獲得" Name="MID_ACHIEVE_BONDSRING_C_COUNT" Category="2" Kind="27" Count="1000" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="30" Chapter="CID_M004" />
+			<Param Aid="AID_Bランク指輪5個獲得" Name="MID_ACHIEVE_BONDSRING_B_COUNT" Category="2" Kind="28" Count="5" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="10" Chapter="CID_M004" />
+			<Param Aid="AID_Bランク指輪20個獲得" Name="MID_ACHIEVE_BONDSRING_B_COUNT" Category="2" Kind="28" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="30" Chapter="CID_M004" />
+			<Param Aid="AID_Bランク指輪50個獲得" Name="MID_ACHIEVE_BONDSRING_B_COUNT" Category="2" Kind="28" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="50" Chapter="CID_M004" />
+			<Param Aid="AID_Bランク指輪100個獲得" Name="MID_ACHIEVE_BONDSRING_B_COUNT" Category="2" Kind="28" Count="100" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="70" Chapter="CID_M004" />
+			<Param Aid="AID_Aランク指輪3個獲得" Name="MID_ACHIEVE_BONDSRING_A_COUNT" Category="2" Kind="29" Count="3" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="20" Chapter="CID_M004" />
+			<Param Aid="AID_Aランク指輪10個獲得" Name="MID_ACHIEVE_BONDSRING_A_COUNT" Category="2" Kind="29" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="60" Chapter="CID_M004" />
+			<Param Aid="AID_Aランク指輪20個獲得" Name="MID_ACHIEVE_BONDSRING_A_COUNT" Category="2" Kind="29" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="100" Chapter="CID_M004" />
+			<Param Aid="AID_Aランク指輪50個獲得" Name="MID_ACHIEVE_BONDSRING_A_COUNT" Category="2" Kind="29" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="200" Chapter="CID_M004" />
+			<Param Aid="AID_Sランク指輪1個獲得" Name="MID_ACHIEVE_BONDSRING_S_FIRST" Category="2" Kind="30" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="100" Chapter="CID_M004" />
+			<Param Aid="AID_Sランク指輪3個獲得" Name="MID_ACHIEVE_BONDSRING_S_COUNT" Category="2" Kind="30" Count="3" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="300" Chapter="CID_M004" />
+			<Param Aid="AID_Sランク指輪5個獲得" Name="MID_ACHIEVE_BONDSRING_S_COUNT" Category="2" Kind="30" Count="5" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="500" Chapter="CID_M004" />
+			<Param Aid="AID_Sランク指輪10個獲得" Name="MID_ACHIEVE_BONDSRING_S_COUNT" Category="2" Kind="30" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="1000" Chapter="CID_M004" />
+			<Param Aid="AID_指輪磨き初回" Name="MID_ACHIEVE_RING_CLEANING_FIRST" Category="2" Kind="31" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="10" Chapter="CID_M004" />
+			<Param Aid="AID_指輪磨き5回" Name="MID_ACHIEVE_RING_CLEANING_COUNT" Category="2" Kind="31" Count="5" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="10" Chapter="CID_M004" />
+			<Param Aid="AID_指輪磨き10回" Name="MID_ACHIEVE_RING_CLEANING_COUNT" Category="2" Kind="31" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="10" Chapter="CID_M004" />
+			<Param Aid="AID_指輪磨き20回" Name="MID_ACHIEVE_RING_CLEANING_COUNT" Category="2" Kind="31" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="20" Chapter="CID_M004" />
+			<Param Aid="AID_指輪磨き30回" Name="MID_ACHIEVE_RING_CLEANING_COUNT" Category="2" Kind="31" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="30" Chapter="CID_M004" />
+			<Param Aid="AID_指輪磨き40回" Name="MID_ACHIEVE_RING_CLEANING_COUNT" Category="2" Kind="31" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="40" Chapter="CID_M004" />
+			<Param Aid="AID_指輪磨き50回" Name="MID_ACHIEVE_RING_CLEANING_COUNT" Category="2" Kind="31" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="50" Chapter="CID_M004" />
+			<Param Aid="AID_指輪磨き60回" Name="MID_ACHIEVE_RING_CLEANING_COUNT" Category="2" Kind="31" Count="60" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="60" Chapter="CID_M004" />
+			<Param Aid="AID_指輪磨き70回" Name="MID_ACHIEVE_RING_CLEANING_COUNT" Category="2" Kind="31" Count="70" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="70" Chapter="CID_M004" />
+			<Param Aid="AID_指輪磨き80回" Name="MID_ACHIEVE_RING_CLEANING_COUNT" Category="2" Kind="31" Count="80" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="80" Chapter="CID_M004" />
+			<Param Aid="AID_指輪磨き90回" Name="MID_ACHIEVE_RING_CLEANING_COUNT" Category="2" Kind="31" Count="90" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="90" Chapter="CID_M004" />
+			<Param Aid="AID_指輪磨き100回" Name="MID_ACHIEVE_RING_CLEANING_COUNT" Category="2" Kind="31" Count="100" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="100" Chapter="CID_M004" />
+			<Param Aid="AID_フィレネに投資" Name="MID_ACHIEVE_INVESTMENT_FILENE" Category="2" Kind="32" Count="1" Arg="" CountUnit="" KizunaReward="50" Chapter="" />
+			<Param Aid="AID_フィレネの投資段階が２になった" Name="MID_ACHIEVE_INVESTMENT_FILENE_STAGE_COUNT" Category="2" Kind="32" Count="2" Arg="" CountUnit="" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_フィレネの投資段階が３になった" Name="MID_ACHIEVE_INVESTMENT_FILENE_STAGE_COUNT" Category="2" Kind="32" Count="3" Arg="" CountUnit="" KizunaReward="150" Chapter="" />
+			<Param Aid="AID_フィレネの投資段階が４になった" Name="MID_ACHIEVE_INVESTMENT_FILENE_STAGE_COUNT" Category="2" Kind="32" Count="4" Arg="" CountUnit="" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_フィレネの投資段階が５になった" Name="MID_ACHIEVE_INVESTMENT_FILENE_STAGE_COUNT" Category="2" Kind="32" Count="5" Arg="" CountUnit="" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_ブロディアに投資" Name="MID_ACHIEVE_INVESTMENT_BRODIA" Category="2" Kind="33" Count="1" Arg="" CountUnit="" KizunaReward="50" Chapter="CID_M007" />
+			<Param Aid="AID_ブロディアの投資段階が２になった" Name="MID_ACHIEVE_INVESTMENT_BRODIA_STAGE_COUNT" Category="2" Kind="33" Count="2" Arg="" CountUnit="" KizunaReward="100" Chapter="CID_M007" />
+			<Param Aid="AID_ブロディアの投資段階が３になった" Name="MID_ACHIEVE_INVESTMENT_BRODIA_STAGE_COUNT" Category="2" Kind="33" Count="3" Arg="" CountUnit="" KizunaReward="150" Chapter="CID_M007" />
+			<Param Aid="AID_ブロディアの投資段階が４になった" Name="MID_ACHIEVE_INVESTMENT_BRODIA_STAGE_COUNT" Category="2" Kind="33" Count="4" Arg="" CountUnit="" KizunaReward="200" Chapter="CID_M007" />
+			<Param Aid="AID_ブロディアの投資段階が５になった" Name="MID_ACHIEVE_INVESTMENT_BRODIA_STAGE_COUNT" Category="2" Kind="33" Count="5" Arg="" CountUnit="" KizunaReward="300" Chapter="CID_M007" />
+			<Param Aid="AID_イルシオンに投資" Name="MID_ACHIEVE_INVESTMENT_IRCION" Category="2" Kind="34" Count="1" Arg="" CountUnit="" KizunaReward="50" Chapter="CID_M010" />
+			<Param Aid="AID_イルシオンの投資段階が２になった" Name="MID_ACHIEVE_INVESTMENT_IRCION_STAGE_COUNT" Category="2" Kind="34" Count="2" Arg="" CountUnit="" KizunaReward="100" Chapter="CID_M010" />
+			<Param Aid="AID_イルシオンの投資段階が３になった" Name="MID_ACHIEVE_INVESTMENT_IRCION_STAGE_COUNT" Category="2" Kind="34" Count="3" Arg="" CountUnit="" KizunaReward="150" Chapter="CID_M010" />
+			<Param Aid="AID_イルシオンの投資段階が４になった" Name="MID_ACHIEVE_INVESTMENT_IRCION_STAGE_COUNT" Category="2" Kind="34" Count="4" Arg="" CountUnit="" KizunaReward="200" Chapter="CID_M010" />
+			<Param Aid="AID_イルシオンの投資段階が５になった" Name="MID_ACHIEVE_INVESTMENT_IRCION_STAGE_COUNT" Category="2" Kind="34" Count="5" Arg="" CountUnit="" KizunaReward="300" Chapter="CID_M010" />
+			<Param Aid="AID_ソルムに投資" Name="MID_ACHIEVE_INVESTMENT_SOLUM" Category="2" Kind="35" Count="1" Arg="" CountUnit="" KizunaReward="50" Chapter="CID_M012" />
+			<Param Aid="AID_ソルムの投資段階が２になった" Name="MID_ACHIEVE_INVESTMENT_SOLUM_STAGE_COUNT" Category="2" Kind="35" Count="2" Arg="" CountUnit="" KizunaReward="100" Chapter="CID_M012" />
+			<Param Aid="AID_ソルムの投資段階が３になった" Name="MID_ACHIEVE_INVESTMENT_SOLUM_STAGE_COUNT" Category="2" Kind="35" Count="3" Arg="" CountUnit="" KizunaReward="150" Chapter="CID_M012" />
+			<Param Aid="AID_ソルムの投資段階が４になった" Name="MID_ACHIEVE_INVESTMENT_SOLUM_STAGE_COUNT" Category="2" Kind="35" Count="4" Arg="" CountUnit="" KizunaReward="200" Chapter="CID_M012" />
+			<Param Aid="AID_ソルムの投資段階が５になった" Name="MID_ACHIEVE_INVESTMENT_SOLUM_STAGE_COUNT" Category="2" Kind="35" Count="5" Arg="" CountUnit="" KizunaReward="300" Chapter="CID_M012" />
+			<Param Aid="AID_全ての国の投資段階を最大にした" Name="MID_ACHIEVE_INVESTMENT_ALL_STAGE_MAX" Category="2" Kind="36" Count="-1" Arg="" CountUnit="" KizunaReward="2000" Chapter="CID_M012" />
+			<Param Aid="AID_投資額合計10000" Name="MID_ACHIEVE_INVESTMENT_MONEY_COUNT" Category="2" Kind="37" Count="10000" Arg="" CountUnit="MID_MONETARY_UNIT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_投資額合計100000" Name="MID_ACHIEVE_INVESTMENT_MONEY_COUNT" Category="2" Kind="37" Count="100000" Arg="" CountUnit="MID_MONETARY_UNIT" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_投資額合計1000000" Name="MID_ACHIEVE_INVESTMENT_MONEY_COUNT" Category="2" Kind="37" Count="350000" Arg="" CountUnit="MID_MONETARY_UNIT" KizunaReward="500" Chapter="" />
+			<Param Aid="AID_料理初回製作" Name="MID_ACHIEVE_COOK_FIRST" Category="2" Kind="38" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="CID_M006" />
+			<Param Aid="AID_料理10回製作" Name="MID_ACHIEVE_COOK_COUNT" Category="2" Kind="38" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="CID_M006" />
+			<Param Aid="AID_料理20回製作" Name="MID_ACHIEVE_COOK_COUNT" Category="2" Kind="38" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="20" Chapter="CID_M006" />
+			<Param Aid="AID_料理30回製作" Name="MID_ACHIEVE_COOK_COUNT" Category="2" Kind="38" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="30" Chapter="CID_M006" />
+			<Param Aid="AID_料理40回製作" Name="MID_ACHIEVE_COOK_COUNT" Category="2" Kind="38" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="40" Chapter="CID_M006" />
+			<Param Aid="AID_料理50回製作" Name="MID_ACHIEVE_COOK_COUNT" Category="2" Kind="38" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="50" Chapter="CID_M006" />
+			<Param Aid="AID_料理60回製作" Name="MID_ACHIEVE_COOK_COUNT" Category="2" Kind="38" Count="60" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="60" Chapter="CID_M006" />
+			<Param Aid="AID_料理70回製作" Name="MID_ACHIEVE_COOK_COUNT" Category="2" Kind="38" Count="70" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="70" Chapter="CID_M006" />
+			<Param Aid="AID_料理80回製作" Name="MID_ACHIEVE_COOK_COUNT" Category="2" Kind="38" Count="80" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="80" Chapter="CID_M006" />
+			<Param Aid="AID_料理90回製作" Name="MID_ACHIEVE_COOK_COUNT" Category="2" Kind="38" Count="90" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="90" Chapter="CID_M006" />
+			<Param Aid="AID_料理100回製作" Name="MID_ACHIEVE_COOK_COUNT" Category="2" Kind="38" Count="100" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="CID_M006" />
+			<Param Aid="AID_料理G初回" Name="MID_ACHIEVE_COOK_RANK_FIRST" Category="2" Kind="39" Count="1" Arg="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_G" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="CID_M006" />
+			<Param Aid="AID_料理G5回" Name="MID_ACHIEVE_COOK_RANK_COUNT" Category="2" Kind="39" Count="5" Arg="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_G" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="50" Chapter="CID_M006" />
+			<Param Aid="AID_料理F初回" Name="MID_ACHIEVE_COOK_RANK_FIRST" Category="2" Kind="40" Count="1" Arg="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_F" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="20" Chapter="CID_M006" />
+			<Param Aid="AID_料理F5回" Name="MID_ACHIEVE_COOK_RANK_COUNT" Category="2" Kind="40" Count="5" Arg="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_F" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="CID_M006" />
+			<Param Aid="AID_料理E初回" Name="MID_ACHIEVE_COOK_RANK_FIRST" Category="2" Kind="41" Count="1" Arg="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_E" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="30" Chapter="CID_M006" />
+			<Param Aid="AID_料理E5回" Name="MID_ACHIEVE_COOK_RANK_COUNT" Category="2" Kind="41" Count="5" Arg="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_E" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="CID_M006" />
+			<Param Aid="AID_料理D初回" Name="MID_ACHIEVE_COOK_RANK_FIRST" Category="2" Kind="42" Count="1" Arg="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_D" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="40" Chapter="CID_M006" />
+			<Param Aid="AID_料理D5回" Name="MID_ACHIEVE_COOK_RANK_COUNT" Category="2" Kind="42" Count="5" Arg="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_D" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="CID_M006" />
+			<Param Aid="AID_料理C初回" Name="MID_ACHIEVE_COOK_RANK_FIRST" Category="2" Kind="43" Count="1" Arg="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_C" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="50" Chapter="CID_M006" />
+			<Param Aid="AID_料理C20回" Name="MID_ACHIEVE_COOK_RANK_COUNT" Category="2" Kind="43" Count="20" Arg="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_C" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="CID_M006" />
+			<Param Aid="AID_料理B初回" Name="MID_ACHIEVE_COOK_RANK_FIRST" Category="2" Kind="44" Count="1" Arg="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_B" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="60" Chapter="CID_M006" />
+			<Param Aid="AID_料理B20回" Name="MID_ACHIEVE_COOK_RANK_COUNT" Category="2" Kind="44" Count="20" Arg="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_B" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="150" Chapter="CID_M006" />
+			<Param Aid="AID_料理A初回" Name="MID_ACHIEVE_COOK_RANK_FIRST" Category="2" Kind="45" Count="1" Arg="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_A" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="70" Chapter="CID_M006" />
+			<Param Aid="AID_料理A20回" Name="MID_ACHIEVE_COOK_RANK_COUNT" Category="2" Kind="45" Count="20" Arg="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_A" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="200" Chapter="CID_M006" />
+			<Param Aid="AID_料理S初回" Name="MID_ACHIEVE_COOK_RANK_FIRST" Category="2" Kind="46" Count="1" Arg="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_S" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="80" Chapter="CID_M006" />
+			<Param Aid="AID_料理S5回" Name="MID_ACHIEVE_COOK_RANK_COUNT" Category="2" Kind="46" Count="5" Arg="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_S" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="250" Chapter="CID_M006" />
+			<Param Aid="AID_料理SS初回" Name="MID_ACHIEVE_COOK_RANK_FIRST" Category="2" Kind="47" Count="1" Arg="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_SS" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="CID_M006" />
+			<Param Aid="AID_料理SS3回" Name="MID_ACHIEVE_COOK_RANK_COUNT" Category="2" Kind="47" Count="3" Arg="MID_Hub_CafeTerrace_Cook_Workmanship_Rank_SS" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="300" Chapter="CID_M006" />
+			<Param Aid="AID_寝る初回" Name="MID_ACHIEVE_SLEEP_FIRST" Category="2" Kind="48" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_寝る5回" Name="MID_ACHIEVE_SLEEP_COUNT" Category="2" Kind="48" Count="5" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="50" Chapter="" />
+			<Param Aid="AID_寝る10回" Name="MID_ACHIEVE_SLEEP_COUNT" Category="2" Kind="48" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_寝る20回" Name="MID_ACHIEVE_SLEEP_COUNT" Category="2" Kind="48" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_寝る30回" Name="MID_ACHIEVE_SLEEP_COUNT" Category="2" Kind="48" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_寝る40回" Name="MID_ACHIEVE_SLEEP_COUNT" Category="2" Kind="48" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="400" Chapter="" />
+			<Param Aid="AID_寝る50回" Name="MID_ACHIEVE_SLEEP_COUNT" Category="2" Kind="48" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="500" Chapter="" />
+			<Param Aid="AID_寝る60回" Name="MID_ACHIEVE_SLEEP_COUNT" Category="2" Kind="48" Count="60" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="600" Chapter="" />
+			<Param Aid="AID_寝る70回" Name="MID_ACHIEVE_SLEEP_COUNT" Category="2" Kind="48" Count="70" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="700" Chapter="" />
+			<Param Aid="AID_寝る80回" Name="MID_ACHIEVE_SLEEP_COUNT" Category="2" Kind="48" Count="80" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="800" Chapter="" />
+			<Param Aid="AID_寝る90回" Name="MID_ACHIEVE_SLEEP_COUNT" Category="2" Kind="48" Count="90" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="900" Chapter="" />
+			<Param Aid="AID_寝る100回" Name="MID_ACHIEVE_SLEEP_COUNT" Category="2" Kind="48" Count="100" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="1000" Chapter="" />
+			<Param Aid="AID_仲間５人と起こしイベントCが発生" Name="MID_ACHIEVE_WAKEUP_EVENT_C_COUNT" Category="2" Kind="49" Count="5" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="60" Chapter="" />
+			<Param Aid="AID_仲間１０人と起こしイベントCが発生" Name="MID_ACHIEVE_WAKEUP_EVENT_C_COUNT" Category="2" Kind="49" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="60" Chapter="" />
+			<Param Aid="AID_仲間１５人と起こしイベントCが発生" Name="MID_ACHIEVE_WAKEUP_EVENT_C_COUNT" Category="2" Kind="49" Count="15" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="70" Chapter="" />
+			<Param Aid="AID_仲間２０人と起こしイベントCが発生" Name="MID_ACHIEVE_WAKEUP_EVENT_C_COUNT" Category="2" Kind="49" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="70" Chapter="" />
+			<Param Aid="AID_仲間２５人と起こしイベントCが発生" Name="MID_ACHIEVE_WAKEUP_EVENT_C_COUNT" Category="2" Kind="49" Count="25" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="80" Chapter="" />
+			<Param Aid="AID_仲間３０人と起こしイベントCが発生" Name="MID_ACHIEVE_WAKEUP_EVENT_C_COUNT" Category="2" Kind="49" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="80" Chapter="" />
+			<Param Aid="AID_仲間５人と起こしイベントBが発生" Name="MID_ACHIEVE_WAKEUP_EVENT_B_COUNT" Category="2" Kind="50" Count="5" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="90" Chapter="" />
+			<Param Aid="AID_仲間１０人と起こしイベントBが発生" Name="MID_ACHIEVE_WAKEUP_EVENT_B_COUNT" Category="2" Kind="50" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="90" Chapter="" />
+			<Param Aid="AID_仲間１５人と起こしイベントBが発生" Name="MID_ACHIEVE_WAKEUP_EVENT_B_COUNT" Category="2" Kind="50" Count="15" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_仲間２０人と起こしイベントBが発生" Name="MID_ACHIEVE_WAKEUP_EVENT_B_COUNT" Category="2" Kind="50" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="110" Chapter="" />
+			<Param Aid="AID_仲間２５人と起こしイベントBが発生" Name="MID_ACHIEVE_WAKEUP_EVENT_B_COUNT" Category="2" Kind="50" Count="25" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="120" Chapter="" />
+			<Param Aid="AID_仲間３０人と起こしイベントBが発生" Name="MID_ACHIEVE_WAKEUP_EVENT_B_COUNT" Category="2" Kind="50" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="130" Chapter="" />
+			<Param Aid="AID_仲間５人と起こしイベントAが発生" Name="MID_ACHIEVE_WAKEUP_EVENT_A_COUNT" Category="2" Kind="51" Count="5" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="150" Chapter="" />
+			<Param Aid="AID_仲間１０人と起こしイベントAが発生" Name="MID_ACHIEVE_WAKEUP_EVENT_A_COUNT" Category="2" Kind="51" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="160" Chapter="" />
+			<Param Aid="AID_仲間１５人と起こしイベントAが発生" Name="MID_ACHIEVE_WAKEUP_EVENT_A_COUNT" Category="2" Kind="51" Count="15" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="170" Chapter="" />
+			<Param Aid="AID_仲間２０人と起こしイベントAが発生" Name="MID_ACHIEVE_WAKEUP_EVENT_A_COUNT" Category="2" Kind="51" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="180" Chapter="" />
+			<Param Aid="AID_仲間２５人と起こしイベントAが発生" Name="MID_ACHIEVE_WAKEUP_EVENT_A_COUNT" Category="2" Kind="51" Count="25" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="190" Chapter="" />
+			<Param Aid="AID_仲間３０人と起こしイベントAが発生" Name="MID_ACHIEVE_WAKEUP_EVENT_A_COUNT" Category="2" Kind="51" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_HUMAN" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_仲間と起こしイベントSが発生" Name="MID_ACHIEVE_WAKEUP_EVENT_S" Category="2" Kind="52" Count="-1" Arg="" CountUnit="" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_仲間とバトル初回" Name="MID_ACHIEVE_ARENA_UNIT_BATTLE_FIRST" Category="2" Kind="53" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_仲間とバトル10回" Name="MID_ACHIEVE_ARENA_UNIT_BATTLE_COUNT" Category="2" Kind="53" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_仲間とバトル20回" Name="MID_ACHIEVE_ARENA_UNIT_BATTLE_COUNT" Category="2" Kind="53" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_仲間とバトル30回" Name="MID_ACHIEVE_ARENA_UNIT_BATTLE_COUNT" Category="2" Kind="53" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_仲間とバトル40回" Name="MID_ACHIEVE_ARENA_UNIT_BATTLE_COUNT" Category="2" Kind="53" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="400" Chapter="" />
+			<Param Aid="AID_仲間とバトル50回" Name="MID_ACHIEVE_ARENA_UNIT_BATTLE_COUNT" Category="2" Kind="53" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="500" Chapter="" />
+			<Param Aid="AID_仲間とバトル60回" Name="MID_ACHIEVE_ARENA_UNIT_BATTLE_COUNT" Category="2" Kind="53" Count="60" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="600" Chapter="" />
+			<Param Aid="AID_仲間とバトル70回" Name="MID_ACHIEVE_ARENA_UNIT_BATTLE_COUNT" Category="2" Kind="53" Count="70" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="700" Chapter="" />
+			<Param Aid="AID_仲間とバトル80回" Name="MID_ACHIEVE_ARENA_UNIT_BATTLE_COUNT" Category="2" Kind="53" Count="80" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="800" Chapter="" />
+			<Param Aid="AID_仲間とバトル90回" Name="MID_ACHIEVE_ARENA_UNIT_BATTLE_COUNT" Category="2" Kind="53" Count="90" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="900" Chapter="" />
+			<Param Aid="AID_仲間とバトル100回" Name="MID_ACHIEVE_ARENA_UNIT_BATTLE_COUNT" Category="2" Kind="53" Count="100" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="1000" Chapter="" />
+			<Param Aid="AID_仲間とバトル初勝利" Name="MID_ACHIEVE_ARENA_UNIT_WIN_FIRST" Category="2" Kind="54" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_仲間とバトル5回勝利" Name="MID_ACHIEVE_ARENA_UNIT_WIN_COUNT" Category="2" Kind="54" Count="5" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="50" Chapter="" />
+			<Param Aid="AID_仲間とバトル10回勝利" Name="MID_ACHIEVE_ARENA_UNIT_WIN_COUNT" Category="2" Kind="54" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_仲間とバトル20回勝利" Name="MID_ACHIEVE_ARENA_UNIT_WIN_COUNT" Category="2" Kind="54" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_仲間とバトル30回勝利" Name="MID_ACHIEVE_ARENA_UNIT_WIN_COUNT" Category="2" Kind="54" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_仲間とバトル40回勝利" Name="MID_ACHIEVE_ARENA_UNIT_WIN_COUNT" Category="2" Kind="54" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="400" Chapter="" />
+			<Param Aid="AID_仲間とバトル50回勝利" Name="MID_ACHIEVE_ARENA_UNIT_WIN_COUNT" Category="2" Kind="54" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="500" Chapter="" />
+			<Param Aid="AID_仲間とバトル60回勝利" Name="MID_ACHIEVE_ARENA_UNIT_WIN_COUNT" Category="2" Kind="54" Count="60" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="600" Chapter="" />
+			<Param Aid="AID_仲間とバトル70回勝利" Name="MID_ACHIEVE_ARENA_UNIT_WIN_COUNT" Category="2" Kind="54" Count="70" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="700" Chapter="" />
+			<Param Aid="AID_仲間とバトル80回勝利" Name="MID_ACHIEVE_ARENA_UNIT_WIN_COUNT" Category="2" Kind="54" Count="80" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="800" Chapter="" />
+			<Param Aid="AID_仲間とバトル90回勝利" Name="MID_ACHIEVE_ARENA_UNIT_WIN_COUNT" Category="2" Kind="54" Count="90" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="900" Chapter="" />
+			<Param Aid="AID_仲間とバトル100回勝利" Name="MID_ACHIEVE_ARENA_UNIT_WIN_COUNT" Category="2" Kind="54" Count="100" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="1000" Chapter="" />
+			<Param Aid="AID_紋章士とバトル初回" Name="MID_ACHIEVE_ARENA_GOD_BATTLE_FIRST" Category="2" Kind="55" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_紋章士とバトル10回" Name="MID_ACHIEVE_ARENA_GOD_BATTLE_COUNT" Category="2" Kind="55" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_紋章士とバトル20回" Name="MID_ACHIEVE_ARENA_GOD_BATTLE_COUNT" Category="2" Kind="55" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_紋章士とバトル30回" Name="MID_ACHIEVE_ARENA_GOD_BATTLE_COUNT" Category="2" Kind="55" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_紋章士とバトル40回" Name="MID_ACHIEVE_ARENA_GOD_BATTLE_COUNT" Category="2" Kind="55" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="400" Chapter="" />
+			<Param Aid="AID_紋章士とバトル50回" Name="MID_ACHIEVE_ARENA_GOD_BATTLE_COUNT" Category="2" Kind="55" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="500" Chapter="" />
+			<Param Aid="AID_紋章士とバトル60回" Name="MID_ACHIEVE_ARENA_GOD_BATTLE_COUNT" Category="2" Kind="55" Count="60" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="600" Chapter="" />
+			<Param Aid="AID_紋章士とバトル70回" Name="MID_ACHIEVE_ARENA_GOD_BATTLE_COUNT" Category="2" Kind="55" Count="70" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="700" Chapter="" />
+			<Param Aid="AID_紋章士とバトル80回" Name="MID_ACHIEVE_ARENA_GOD_BATTLE_COUNT" Category="2" Kind="55" Count="80" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="800" Chapter="" />
+			<Param Aid="AID_紋章士とバトル90回" Name="MID_ACHIEVE_ARENA_GOD_BATTLE_COUNT" Category="2" Kind="55" Count="90" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="900" Chapter="" />
+			<Param Aid="AID_紋章士とバトル100回" Name="MID_ACHIEVE_ARENA_GOD_BATTLE_COUNT" Category="2" Kind="55" Count="100" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="1000" Chapter="" />
+			<Param Aid="AID_紋章士とバトル初勝利" Name="MID_ACHIEVE_ARENA_GOD_WIN_FIRST" Category="2" Kind="56" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_紋章士とバトル5回勝利" Name="MID_ACHIEVE_ARENA_GOD_WIN_COUNT" Category="2" Kind="56" Count="5" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="50" Chapter="" />
+			<Param Aid="AID_紋章士とバトル10回勝利" Name="MID_ACHIEVE_ARENA_GOD_WIN_COUNT" Category="2" Kind="56" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_紋章士とバトル20回勝利" Name="MID_ACHIEVE_ARENA_GOD_WIN_COUNT" Category="2" Kind="56" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_紋章士とバトル30回勝利" Name="MID_ACHIEVE_ARENA_GOD_WIN_COUNT" Category="2" Kind="56" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_紋章士とバトル40回勝利" Name="MID_ACHIEVE_ARENA_GOD_WIN_COUNT" Category="2" Kind="56" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="400" Chapter="" />
+			<Param Aid="AID_紋章士とバトル50回勝利" Name="MID_ACHIEVE_ARENA_GOD_WIN_COUNT" Category="2" Kind="56" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="500" Chapter="" />
+			<Param Aid="AID_紋章士とバトル60回勝利" Name="MID_ACHIEVE_ARENA_GOD_WIN_COUNT" Category="2" Kind="56" Count="60" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="600" Chapter="" />
+			<Param Aid="AID_紋章士とバトル70回勝利" Name="MID_ACHIEVE_ARENA_GOD_WIN_COUNT" Category="2" Kind="56" Count="70" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="700" Chapter="" />
+			<Param Aid="AID_紋章士とバトル80回勝利" Name="MID_ACHIEVE_ARENA_GOD_WIN_COUNT" Category="2" Kind="56" Count="80" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="800" Chapter="" />
+			<Param Aid="AID_紋章士とバトル90回勝利" Name="MID_ACHIEVE_ARENA_GOD_WIN_COUNT" Category="2" Kind="56" Count="90" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="900" Chapter="" />
+			<Param Aid="AID_紋章士とバトル100回勝利" Name="MID_ACHIEVE_ARENA_GOD_WIN_COUNT" Category="2" Kind="56" Count="100" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="1000" Chapter="" />
+			<Param Aid="AID_武器初めて購入" Name="MID_ACHIEVE_WEAPON_BUY_FIRST" Category="3" Kind="57" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_武器10点購入" Name="MID_ACHIEVE_WEAPON_BUY_COUNT" Category="3" Kind="57" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_武器20点購入" Name="MID_ACHIEVE_WEAPON_BUY_COUNT" Category="3" Kind="57" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_武器30点購入" Name="MID_ACHIEVE_WEAPON_BUY_COUNT" Category="3" Kind="57" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_武器40点購入" Name="MID_ACHIEVE_WEAPON_BUY_COUNT" Category="3" Kind="57" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="400" Chapter="" />
+			<Param Aid="AID_武器50点購入" Name="MID_ACHIEVE_WEAPON_BUY_COUNT" Category="3" Kind="57" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="500" Chapter="" />
+			<Param Aid="AID_武器60点購入" Name="MID_ACHIEVE_WEAPON_BUY_COUNT" Category="3" Kind="57" Count="60" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="600" Chapter="" />
+			<Param Aid="AID_武器70点購入" Name="MID_ACHIEVE_WEAPON_BUY_COUNT" Category="3" Kind="57" Count="70" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="700" Chapter="" />
+			<Param Aid="AID_武器80点購入" Name="MID_ACHIEVE_WEAPON_BUY_COUNT" Category="3" Kind="57" Count="80" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="800" Chapter="" />
+			<Param Aid="AID_武器90点購入" Name="MID_ACHIEVE_WEAPON_BUY_COUNT" Category="3" Kind="57" Count="90" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="900" Chapter="" />
+			<Param Aid="AID_武器100点購入" Name="MID_ACHIEVE_WEAPON_BUY_COUNT" Category="3" Kind="57" Count="100" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="1000" Chapter="" />
+			<Param Aid="AID_武器剣10点購入" Name="MID_ACHIEVE_SWORD_BUY_COUNT" Category="3" Kind="58" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_武器剣20点購入" Name="MID_ACHIEVE_SWORD_BUY_COUNT" Category="3" Kind="58" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_武器剣30点購入" Name="MID_ACHIEVE_SWORD_BUY_COUNT" Category="3" Kind="58" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_武器剣40点購入" Name="MID_ACHIEVE_SWORD_BUY_COUNT" Category="3" Kind="58" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="400" Chapter="" />
+			<Param Aid="AID_武器剣50点購入" Name="MID_ACHIEVE_SWORD_BUY_COUNT" Category="3" Kind="58" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="500" Chapter="" />
+			<Param Aid="AID_武器槍10点購入" Name="MID_ACHIEVE_LANCE_BUY_COUNT" Category="3" Kind="59" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_武器槍20点購入" Name="MID_ACHIEVE_LANCE_BUY_COUNT" Category="3" Kind="59" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_武器槍30点購入" Name="MID_ACHIEVE_LANCE_BUY_COUNT" Category="3" Kind="59" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_武器槍40点購入" Name="MID_ACHIEVE_LANCE_BUY_COUNT" Category="3" Kind="59" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="400" Chapter="" />
+			<Param Aid="AID_武器槍50点購入" Name="MID_ACHIEVE_LANCE_BUY_COUNT" Category="3" Kind="59" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="500" Chapter="" />
+			<Param Aid="AID_武器斧10点購入" Name="MID_ACHIEVE_AXE_BUY_COUNT" Category="3" Kind="60" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_武器斧20点購入" Name="MID_ACHIEVE_AXE_BUY_COUNT" Category="3" Kind="60" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_武器斧30点購入" Name="MID_ACHIEVE_AXE_BUY_COUNT" Category="3" Kind="60" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_武器斧40点購入" Name="MID_ACHIEVE_AXE_BUY_COUNT" Category="3" Kind="60" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="400" Chapter="" />
+			<Param Aid="AID_武器斧50点購入" Name="MID_ACHIEVE_AXE_BUY_COUNT" Category="3" Kind="60" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="500" Chapter="" />
+			<Param Aid="AID_武器弓10点購入" Name="MID_ACHIEVE_BOW_BUY_COUNT" Category="3" Kind="61" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_武器弓20点購入" Name="MID_ACHIEVE_BOW_BUY_COUNT" Category="3" Kind="61" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_武器弓30点購入" Name="MID_ACHIEVE_BOW_BUY_COUNT" Category="3" Kind="61" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_武器弓40点購入" Name="MID_ACHIEVE_BOW_BUY_COUNT" Category="3" Kind="61" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="400" Chapter="" />
+			<Param Aid="AID_武器弓50点購入" Name="MID_ACHIEVE_BOW_BUY_COUNT" Category="3" Kind="61" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="500" Chapter="" />
+			<Param Aid="AID_武器短剣10点購入" Name="MID_ACHIEVE_KNIFE_BUY_COUNT" Category="3" Kind="62" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_武器短剣20点購入" Name="MID_ACHIEVE_KNIFE_BUY_COUNT" Category="3" Kind="62" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_武器短剣30点購入" Name="MID_ACHIEVE_KNIFE_BUY_COUNT" Category="3" Kind="62" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_武器短剣40点購入" Name="MID_ACHIEVE_KNIFE_BUY_COUNT" Category="3" Kind="62" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="400" Chapter="" />
+			<Param Aid="AID_武器短剣50点購入" Name="MID_ACHIEVE_KNIFE_BUY_COUNT" Category="3" Kind="62" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="500" Chapter="" />
+			<Param Aid="AID_武器魔法10点購入" Name="MID_ACHIEVE_MAGIC_BUY_COUNT" Category="3" Kind="63" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_武器魔法20点購入" Name="MID_ACHIEVE_MAGIC_BUY_COUNT" Category="3" Kind="63" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_武器魔法30点購入" Name="MID_ACHIEVE_MAGIC_BUY_COUNT" Category="3" Kind="63" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_武器魔法40点購入" Name="MID_ACHIEVE_MAGIC_BUY_COUNT" Category="3" Kind="63" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="400" Chapter="" />
+			<Param Aid="AID_武器魔法50点購入" Name="MID_ACHIEVE_MAGIC_BUY_COUNT" Category="3" Kind="63" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="500" Chapter="" />
+			<Param Aid="AID_武器拳10点購入" Name="MID_ACHIEVE_FIST_BUY_COUNT" Category="3" Kind="64" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_武器拳20点購入" Name="MID_ACHIEVE_FIST_BUY_COUNT" Category="3" Kind="64" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_武器拳30点購入" Name="MID_ACHIEVE_FIST_BUY_COUNT" Category="3" Kind="64" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_武器拳40点購入" Name="MID_ACHIEVE_FIST_BUY_COUNT" Category="3" Kind="64" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="400" Chapter="" />
+			<Param Aid="AID_武器拳50点購入" Name="MID_ACHIEVE_FIST_BUY_COUNT" Category="3" Kind="64" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="500" Chapter="" />
+			<Param Aid="AID_武器初めて売却" Name="MID_ACHIEVE_WEAPON_SELL_FIRST" Category="3" Kind="65" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_武器10点売却" Name="MID_ACHIEVE_WEAPON_SELL_COUNT" Category="3" Kind="65" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_武器20点売却" Name="MID_ACHIEVE_WEAPON_SELL_COUNT" Category="3" Kind="65" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_武器30点売却" Name="MID_ACHIEVE_WEAPON_SELL_COUNT" Category="3" Kind="65" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_武器40点売却" Name="MID_ACHIEVE_WEAPON_SELL_COUNT" Category="3" Kind="65" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="400" Chapter="" />
+			<Param Aid="AID_武器50点売却" Name="MID_ACHIEVE_WEAPON_SELL_COUNT" Category="3" Kind="65" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="500" Chapter="" />
+			<Param Aid="AID_道具初めて購入" Name="MID_ACHIEVE_ITEM_BUY_FIRST" Category="3" Kind="66" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_道具50点購入" Name="MID_ACHIEVE_ITEM_BUY_COUNT" Category="3" Kind="66" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="50" Chapter="" />
+			<Param Aid="AID_道具100点購入" Name="MID_ACHIEVE_ITEM_BUY_COUNT" Category="3" Kind="66" Count="100" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_道具150点購入" Name="MID_ACHIEVE_ITEM_BUY_COUNT" Category="3" Kind="66" Count="150" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="150" Chapter="" />
+			<Param Aid="AID_道具200点購入" Name="MID_ACHIEVE_ITEM_BUY_COUNT" Category="3" Kind="66" Count="200" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_道具250点購入" Name="MID_ACHIEVE_ITEM_BUY_COUNT" Category="3" Kind="66" Count="250" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="250" Chapter="" />
+			<Param Aid="AID_道具300点購入" Name="MID_ACHIEVE_ITEM_BUY_COUNT" Category="3" Kind="66" Count="300" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_道具350点購入" Name="MID_ACHIEVE_ITEM_BUY_COUNT" Category="3" Kind="66" Count="350" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="350" Chapter="" />
+			<Param Aid="AID_道具400点購入" Name="MID_ACHIEVE_ITEM_BUY_COUNT" Category="3" Kind="66" Count="400" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="400" Chapter="" />
+			<Param Aid="AID_道具450点購入" Name="MID_ACHIEVE_ITEM_BUY_COUNT" Category="3" Kind="66" Count="450" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="450" Chapter="" />
+			<Param Aid="AID_道具500点購入" Name="MID_ACHIEVE_ITEM_BUY_COUNT" Category="3" Kind="66" Count="500" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="500" Chapter="" />
+			<Param Aid="AID_道具初めて売却" Name="MID_ACHIEVE_ITEM_SELL_FIRST" Category="3" Kind="67" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_道具10点売却" Name="MID_ACHIEVE_ITEM_SELL_COUNT" Category="3" Kind="67" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_道具20点売却" Name="MID_ACHIEVE_ITEM_SELL_COUNT" Category="3" Kind="67" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_道具30点売却" Name="MID_ACHIEVE_ITEM_SELL_COUNT" Category="3" Kind="67" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_道具40点売却" Name="MID_ACHIEVE_ITEM_SELL_COUNT" Category="3" Kind="67" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="400" Chapter="" />
+			<Param Aid="AID_道具50点売却" Name="MID_ACHIEVE_ITEM_SELL_COUNT" Category="3" Kind="67" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="500" Chapter="" />
+			<Param Aid="AID_道具杖10点購入" Name="MID_ACHIEVE_ROD_BUY_COUNT" Category="3" Kind="68" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_道具杖20点購入" Name="MID_ACHIEVE_ROD_BUY_COUNT" Category="3" Kind="68" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_道具杖30点購入" Name="MID_ACHIEVE_ROD_BUY_COUNT" Category="3" Kind="68" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_道具杖40点購入" Name="MID_ACHIEVE_ROD_BUY_COUNT" Category="3" Kind="68" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="400" Chapter="" />
+			<Param Aid="AID_道具杖50点購入" Name="MID_ACHIEVE_ROD_BUY_COUNT" Category="3" Kind="68" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="500" Chapter="" />
+			<Param Aid="AID_アクセサリ初めて購入" Name="MID_ACHIEVE_ACCESSORIES_BUY_FIRST" Category="3" Kind="69" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="10" Chapter="CID_M005" />
+			<Param Aid="AID_アクセサリ5点購入" Name="MID_ACHIEVE_ACCESSORIES_BUY_COUNT" Category="3" Kind="69" Count="5" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="50" Chapter="CID_M005" />
+			<Param Aid="AID_アクセサリ10点購入" Name="MID_ACHIEVE_ACCESSORIES_BUY_COUNT" Category="3" Kind="69" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="100" Chapter="CID_M005" />
+			<Param Aid="AID_アクセサリ15点購入" Name="MID_ACHIEVE_ACCESSORIES_BUY_COUNT" Category="3" Kind="69" Count="15" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="150" Chapter="CID_M005" />
+			<Param Aid="AID_アクセサリ20点購入" Name="MID_ACHIEVE_ACCESSORIES_BUY_COUNT" Category="3" Kind="69" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="200" Chapter="CID_M005" />
+			<Param Aid="AID_アクセサリ25点購入" Name="MID_ACHIEVE_ACCESSORIES_BUY_COUNT" Category="3" Kind="69" Count="25" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_ITEM" KizunaReward="250" Chapter="CID_M005" />
+			<Param Aid="AID_着せ替え初回" Name="MID_ACHIEVE_ACCESSORIES_CHANGE_FIRST" Category="3" Kind="70" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="CID_M005" />
+			<Param Aid="AID_着せ替え10回" Name="MID_ACHIEVE_ACCESSORIES_CHANGE_COUNT" Category="3" Kind="70" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="CID_M005" />
+			<Param Aid="AID_着せ替え30回" Name="MID_ACHIEVE_ACCESSORIES_CHANGE_COUNT" Category="3" Kind="70" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="30" Chapter="CID_M005" />
+			<Param Aid="AID_着せ替え50回" Name="MID_ACHIEVE_ACCESSORIES_CHANGE_COUNT" Category="3" Kind="70" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="50" Chapter="CID_M005" />
+			<Param Aid="AID_着せ替え80回" Name="MID_ACHIEVE_ACCESSORIES_CHANGE_COUNT" Category="3" Kind="70" Count="80" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="80" Chapter="CID_M005" />
+			<Param Aid="AID_着せ替え100回" Name="MID_ACHIEVE_ACCESSORIES_CHANGE_COUNT" Category="3" Kind="70" Count="100" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="CID_M005" />
+			<Param Aid="AID_初めて錬成" Name="MID_ACHIEVE_WEAPON_FORGING_FIRST" Category="3" Kind="71" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="CID_M005" />
+			<Param Aid="AID_錬成10回" Name="MID_ACHIEVE_WEAPON_FORGING_COUNT" Category="3" Kind="71" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="CID_M005" />
+			<Param Aid="AID_錬成20回" Name="MID_ACHIEVE_WEAPON_FORGING_COUNT" Category="3" Kind="71" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="200" Chapter="CID_M005" />
+			<Param Aid="AID_錬成30回" Name="MID_ACHIEVE_WEAPON_FORGING_COUNT" Category="3" Kind="71" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="300" Chapter="CID_M005" />
+			<Param Aid="AID_錬成40回" Name="MID_ACHIEVE_WEAPON_FORGING_COUNT" Category="3" Kind="71" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="400" Chapter="CID_M005" />
+			<Param Aid="AID_錬成50回" Name="MID_ACHIEVE_WEAPON_FORGING_COUNT" Category="3" Kind="71" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="500" Chapter="CID_M005" />
+			<Param Aid="AID_錬成60回" Name="MID_ACHIEVE_WEAPON_FORGING_COUNT" Category="3" Kind="71" Count="60" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="600" Chapter="CID_M005" />
+			<Param Aid="AID_錬成70回" Name="MID_ACHIEVE_WEAPON_FORGING_COUNT" Category="3" Kind="71" Count="70" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="700" Chapter="CID_M005" />
+			<Param Aid="AID_錬成80回" Name="MID_ACHIEVE_WEAPON_FORGING_COUNT" Category="3" Kind="71" Count="80" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="800" Chapter="CID_M005" />
+			<Param Aid="AID_錬成90回" Name="MID_ACHIEVE_WEAPON_FORGING_COUNT" Category="3" Kind="71" Count="90" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="900" Chapter="CID_M005" />
+			<Param Aid="AID_錬成100回" Name="MID_ACHIEVE_WEAPON_FORGING_COUNT" Category="3" Kind="71" Count="100" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="1000" Chapter="CID_M005" />
+			<Param Aid="AID_錬成剣10回" Name="MID_ACHIEVE_SWORD_FORGING_COUNT" Category="3" Kind="72" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="CID_M005" />
+			<Param Aid="AID_錬成剣20回" Name="MID_ACHIEVE_SWORD_FORGING_COUNT" Category="3" Kind="72" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="200" Chapter="CID_M005" />
+			<Param Aid="AID_錬成剣30回" Name="MID_ACHIEVE_SWORD_FORGING_COUNT" Category="3" Kind="72" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="300" Chapter="CID_M005" />
+			<Param Aid="AID_錬成剣40回" Name="MID_ACHIEVE_SWORD_FORGING_COUNT" Category="3" Kind="72" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="400" Chapter="CID_M005" />
+			<Param Aid="AID_錬成剣50回" Name="MID_ACHIEVE_SWORD_FORGING_COUNT" Category="3" Kind="72" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="500" Chapter="CID_M005" />
+			<Param Aid="AID_錬成槍10回" Name="MID_ACHIEVE_LANCE_FORGING_COUNT" Category="3" Kind="73" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="CID_M005" />
+			<Param Aid="AID_錬成槍20回" Name="MID_ACHIEVE_LANCE_FORGING_COUNT" Category="3" Kind="73" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="200" Chapter="CID_M005" />
+			<Param Aid="AID_錬成槍30回" Name="MID_ACHIEVE_LANCE_FORGING_COUNT" Category="3" Kind="73" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="300" Chapter="CID_M005" />
+			<Param Aid="AID_錬成槍40回" Name="MID_ACHIEVE_LANCE_FORGING_COUNT" Category="3" Kind="73" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="400" Chapter="CID_M005" />
+			<Param Aid="AID_錬成槍50回" Name="MID_ACHIEVE_LANCE_FORGING_COUNT" Category="3" Kind="73" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="500" Chapter="CID_M005" />
+			<Param Aid="AID_錬成斧10回" Name="MID_ACHIEVE_AXE_FORGING_COUNT" Category="3" Kind="74" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="CID_M005" />
+			<Param Aid="AID_錬成斧20回" Name="MID_ACHIEVE_AXE_FORGING_COUNT" Category="3" Kind="74" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="200" Chapter="CID_M005" />
+			<Param Aid="AID_錬成斧30回" Name="MID_ACHIEVE_AXE_FORGING_COUNT" Category="3" Kind="74" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="300" Chapter="CID_M005" />
+			<Param Aid="AID_錬成斧40回" Name="MID_ACHIEVE_AXE_FORGING_COUNT" Category="3" Kind="74" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="400" Chapter="CID_M005" />
+			<Param Aid="AID_錬成斧50回" Name="MID_ACHIEVE_AXE_FORGING_COUNT" Category="3" Kind="74" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="500" Chapter="CID_M005" />
+			<Param Aid="AID_錬成弓10回" Name="MID_ACHIEVE_BOW_FORGING_COUNT" Category="3" Kind="75" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="CID_M005" />
+			<Param Aid="AID_錬成弓20回" Name="MID_ACHIEVE_BOW_FORGING_COUNT" Category="3" Kind="75" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="200" Chapter="CID_M005" />
+			<Param Aid="AID_錬成弓30回" Name="MID_ACHIEVE_BOW_FORGING_COUNT" Category="3" Kind="75" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="300" Chapter="CID_M005" />
+			<Param Aid="AID_錬成弓40回" Name="MID_ACHIEVE_BOW_FORGING_COUNT" Category="3" Kind="75" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="400" Chapter="CID_M005" />
+			<Param Aid="AID_錬成弓50回" Name="MID_ACHIEVE_BOW_FORGING_COUNT" Category="3" Kind="75" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="500" Chapter="CID_M005" />
+			<Param Aid="AID_錬成短剣10回" Name="MID_ACHIEVE_KNIFE_FORGING_COUNT" Category="3" Kind="76" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="CID_M005" />
+			<Param Aid="AID_錬成短剣20回" Name="MID_ACHIEVE_KNIFE_FORGING_COUNT" Category="3" Kind="76" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="200" Chapter="CID_M005" />
+			<Param Aid="AID_錬成短剣30回" Name="MID_ACHIEVE_KNIFE_FORGING_COUNT" Category="3" Kind="76" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="300" Chapter="CID_M005" />
+			<Param Aid="AID_錬成短剣40回" Name="MID_ACHIEVE_KNIFE_FORGING_COUNT" Category="3" Kind="76" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="400" Chapter="CID_M005" />
+			<Param Aid="AID_錬成短剣50回" Name="MID_ACHIEVE_KNIFE_FORGING_COUNT" Category="3" Kind="76" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="500" Chapter="CID_M005" />
+			<Param Aid="AID_錬成魔法10回" Name="MID_ACHIEVE_MAGIC_FORGING_COUNT" Category="3" Kind="77" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="CID_M005" />
+			<Param Aid="AID_錬成魔法20回" Name="MID_ACHIEVE_MAGIC_FORGING_COUNT" Category="3" Kind="77" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="200" Chapter="CID_M005" />
+			<Param Aid="AID_錬成魔法30回" Name="MID_ACHIEVE_MAGIC_FORGING_COUNT" Category="3" Kind="77" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="300" Chapter="CID_M005" />
+			<Param Aid="AID_錬成魔法40回" Name="MID_ACHIEVE_MAGIC_FORGING_COUNT" Category="3" Kind="77" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="400" Chapter="CID_M005" />
+			<Param Aid="AID_錬成魔法50回" Name="MID_ACHIEVE_MAGIC_FORGING_COUNT" Category="3" Kind="77" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="500" Chapter="CID_M005" />
+			<Param Aid="AID_錬成拳10回" Name="MID_ACHIEVE_FIST_FORGING_COUNT" Category="3" Kind="78" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="CID_M005" />
+			<Param Aid="AID_錬成拳20回" Name="MID_ACHIEVE_FIST_FORGING_COUNT" Category="3" Kind="78" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="200" Chapter="CID_M005" />
+			<Param Aid="AID_錬成拳30回" Name="MID_ACHIEVE_FIST_FORGING_COUNT" Category="3" Kind="78" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="300" Chapter="CID_M005" />
+			<Param Aid="AID_錬成拳40回" Name="MID_ACHIEVE_FIST_FORGING_COUNT" Category="3" Kind="78" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="400" Chapter="CID_M005" />
+			<Param Aid="AID_錬成拳50回" Name="MID_ACHIEVE_FIST_FORGING_COUNT" Category="3" Kind="78" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="500" Chapter="CID_M005" />
+			<Param Aid="AID_初めて紋章を刻む" Name="MID_ACHIEVE_ENGRAVE_FIRST" Category="3" Kind="79" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="CID_M005" />
+			<Param Aid="AID_紋章を刻む10回" Name="MID_ACHIEVE_ENGRAVE_COUNT" Category="3" Kind="79" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="CID_M005" />
+			<Param Aid="AID_紋章を刻む20回" Name="MID_ACHIEVE_ENGRAVE_COUNT" Category="3" Kind="79" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="200" Chapter="CID_M005" />
+			<Param Aid="AID_紋章を刻む30回" Name="MID_ACHIEVE_ENGRAVE_COUNT" Category="3" Kind="79" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="300" Chapter="CID_M005" />
+			<Param Aid="AID_紋章を刻む40回" Name="MID_ACHIEVE_ENGRAVE_COUNT" Category="3" Kind="79" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="400" Chapter="CID_M005" />
+			<Param Aid="AID_紋章を刻む50回" Name="MID_ACHIEVE_ENGRAVE_COUNT" Category="3" Kind="79" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="500" Chapter="CID_M005" />
+			<Param Aid="AID_紋章を刻む60回" Name="MID_ACHIEVE_ENGRAVE_COUNT" Category="3" Kind="79" Count="60" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="600" Chapter="CID_M005" />
+			<Param Aid="AID_紋章を刻む70回" Name="MID_ACHIEVE_ENGRAVE_COUNT" Category="3" Kind="79" Count="70" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="700" Chapter="CID_M005" />
+			<Param Aid="AID_紋章を刻む80回" Name="MID_ACHIEVE_ENGRAVE_COUNT" Category="3" Kind="79" Count="80" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="800" Chapter="CID_M005" />
+			<Param Aid="AID_紋章を刻む90回" Name="MID_ACHIEVE_ENGRAVE_COUNT" Category="3" Kind="79" Count="90" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="900" Chapter="CID_M005" />
+			<Param Aid="AID_紋章を刻む100回" Name="MID_ACHIEVE_ENGRAVE_COUNT" Category="3" Kind="79" Count="100" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="1000" Chapter="CID_M005" />
+			<Param Aid="AID_プレイ時間12時間経過" Name="MID_ACHIEVE_PLAY_TIME" Category="4" Kind="12" Count="12" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_TIME" KizunaReward="120" Chapter="" />
+			<Param Aid="AID_プレイ時間24時間経過" Name="MID_ACHIEVE_PLAY_TIME" Category="4" Kind="12" Count="24" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_TIME" KizunaReward="240" Chapter="" />
+			<Param Aid="AID_プレイ時間48時間経過" Name="MID_ACHIEVE_PLAY_TIME" Category="4" Kind="12" Count="48" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_TIME" KizunaReward="480" Chapter="" />
+			<Param Aid="AID_プレイ時間72時間経過" Name="MID_ACHIEVE_PLAY_TIME" Category="4" Kind="12" Count="72" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_TIME" KizunaReward="720" Chapter="" />
+			<Param Aid="AID_プレイ時間96時間経過" Name="MID_ACHIEVE_PLAY_TIME" Category="4" Kind="12" Count="96" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_TIME" KizunaReward="960" Chapter="" />
+			<Param Aid="AID_プレイ時間120時間経過" Name="MID_ACHIEVE_PLAY_TIME" Category="4" Kind="12" Count="120" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_TIME" KizunaReward="1200" Chapter="" />
+			<Param Aid="AID_プレイ時間144時間経過" Name="MID_ACHIEVE_PLAY_TIME" Category="4" Kind="12" Count="144" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_TIME" KizunaReward="1400" Chapter="" />
+			<Param Aid="AID_プレイ時間168時間経過" Name="MID_ACHIEVE_PLAY_TIME" Category="4" Kind="12" Count="168" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_TIME" KizunaReward="1680" Chapter="" />
+			<Param Aid="AID_プレイ時間192時間経過" Name="MID_ACHIEVE_PLAY_TIME" Category="4" Kind="12" Count="192" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_TIME" KizunaReward="1920" Chapter="" />
+			<Param Aid="AID_プレイ時間216時間経過" Name="MID_ACHIEVE_PLAY_TIME" Category="4" Kind="12" Count="216" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_TIME" KizunaReward="2160" Chapter="" />
+			<Param Aid="AID_プレイ時間240時間経過" Name="MID_ACHIEVE_PLAY_TIME" Category="4" Kind="12" Count="240" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_TIME" KizunaReward="2400" Chapter="" />
+			<Param Aid="AID_1章クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="1" Count="-1" Arg="CID_M001" CountUnit="" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_2章クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="1" Count="-1" Arg="CID_M002" CountUnit="" KizunaReward="20" Chapter="" />
+			<Param Aid="AID_3章クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="1" Count="-1" Arg="CID_M003" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_4章クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="1" Count="-1" Arg="CID_M004" CountUnit="" KizunaReward="40" Chapter="" />
+			<Param Aid="AID_5章クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="1" Count="-1" Arg="CID_M005" CountUnit="" KizunaReward="50" Chapter="" />
+			<Param Aid="AID_6章クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="1" Count="-1" Arg="CID_M006" CountUnit="" KizunaReward="60" Chapter="" />
+			<Param Aid="AID_7章クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="1" Count="-1" Arg="CID_M007" CountUnit="" KizunaReward="70" Chapter="" />
+			<Param Aid="AID_8章クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="1" Count="-1" Arg="CID_M008" CountUnit="" KizunaReward="80" Chapter="" />
+			<Param Aid="AID_9章クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="1" Count="-1" Arg="CID_M009" CountUnit="" KizunaReward="90" Chapter="" />
+			<Param Aid="AID_10章クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="1" Count="-1" Arg="CID_M010" CountUnit="" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_11章クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="1" Count="-1" Arg="CID_M011" CountUnit="" KizunaReward="110" Chapter="" />
+			<Param Aid="AID_12章クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="1" Count="-1" Arg="CID_M012" CountUnit="" KizunaReward="120" Chapter="" />
+			<Param Aid="AID_13章クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="1" Count="-1" Arg="CID_M013" CountUnit="" KizunaReward="130" Chapter="" />
+			<Param Aid="AID_14章クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="1" Count="-1" Arg="CID_M014" CountUnit="" KizunaReward="140" Chapter="" />
+			<Param Aid="AID_15章クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="1" Count="-1" Arg="CID_M015" CountUnit="" KizunaReward="150" Chapter="" />
+			<Param Aid="AID_16章クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="1" Count="-1" Arg="CID_M016" CountUnit="" KizunaReward="160" Chapter="" />
+			<Param Aid="AID_17章クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="1" Count="-1" Arg="CID_M017" CountUnit="" KizunaReward="170" Chapter="" />
+			<Param Aid="AID_18章クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="1" Count="-1" Arg="CID_M018" CountUnit="" KizunaReward="180" Chapter="" />
+			<Param Aid="AID_19章クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="1" Count="-1" Arg="CID_M019" CountUnit="" KizunaReward="190" Chapter="" />
+			<Param Aid="AID_20章クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="1" Count="-1" Arg="CID_M020" CountUnit="" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_21章クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="1" Count="-1" Arg="CID_M021" CountUnit="" KizunaReward="210" Chapter="" />
+			<Param Aid="AID_22章クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="1" Count="-1" Arg="CID_M022" CountUnit="" KizunaReward="220" Chapter="" />
+			<Param Aid="AID_23章クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="1" Count="-1" Arg="CID_M023" CountUnit="" KizunaReward="230" Chapter="" />
+			<Param Aid="AID_24章クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="1" Count="-1" Arg="CID_M024" CountUnit="" KizunaReward="240" Chapter="" />
+			<Param Aid="AID_25章クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="1" Count="-1" Arg="CID_M025" CountUnit="" KizunaReward="250" Chapter="" />
+			<Param Aid="AID_26章クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="1" Count="-1" Arg="CID_M026" CountUnit="" KizunaReward="260" Chapter="" />
+			<Param Aid="AID_外伝０１クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="2" Count="-1" Arg="CID_S001" CountUnit="" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_外伝０２クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="2" Count="-1" Arg="CID_S002" CountUnit="" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_外伝０３クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="2" Count="-1" Arg="CID_S003" CountUnit="" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_外伝０４クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="2" Count="-1" Arg="CID_S004" CountUnit="" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_外伝０５クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="2" Count="-1" Arg="CID_S005" CountUnit="" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_外伝０６クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="2" Count="-1" Arg="CID_S006" CountUnit="" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_外伝０７クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="2" Count="-1" Arg="CID_S007" CountUnit="" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_外伝０８クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="2" Count="-1" Arg="CID_S008" CountUnit="" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_外伝０９クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="2" Count="-1" Arg="CID_S009" CountUnit="" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_外伝１０クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="2" Count="-1" Arg="CID_S010" CountUnit="" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_外伝１１クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="2" Count="-1" Arg="CID_S011" CountUnit="" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_外伝１２クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="2" Count="-1" Arg="CID_S012" CountUnit="" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_外伝１３クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="2" Count="-1" Arg="CID_S013" CountUnit="" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_外伝１４クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="2" Count="-1" Arg="CID_S014" CountUnit="" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_外伝１５クリア" Name="MID_ACHIEVE_CHAPTER_CLEAR" Category="4" Kind="2" Count="-1" Arg="CID_S015" CountUnit="" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_通信対戦数初回" Name="MID_ACHIEVE_NETMATCH_FIRST" Category="4" Kind="80" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_通信対戦数10回" Name="MID_ACHIEVE_NETMATCH_COUNT" Category="4" Kind="80" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_通信対戦数20回" Name="MID_ACHIEVE_NETMATCH_COUNT" Category="4" Kind="80" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_通信対戦数30回" Name="MID_ACHIEVE_NETMATCH_COUNT" Category="4" Kind="80" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_通信対戦数40回" Name="MID_ACHIEVE_NETMATCH_COUNT" Category="4" Kind="80" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="400" Chapter="" />
+			<Param Aid="AID_通信対戦数50回" Name="MID_ACHIEVE_NETMATCH_COUNT" Category="4" Kind="80" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="500" Chapter="" />
+			<Param Aid="AID_通信対戦数60回" Name="MID_ACHIEVE_NETMATCH_COUNT" Category="4" Kind="80" Count="60" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="600" Chapter="" />
+			<Param Aid="AID_通信対戦数70回" Name="MID_ACHIEVE_NETMATCH_COUNT" Category="4" Kind="80" Count="70" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="700" Chapter="" />
+			<Param Aid="AID_通信対戦数80回" Name="MID_ACHIEVE_NETMATCH_COUNT" Category="4" Kind="80" Count="80" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="800" Chapter="" />
+			<Param Aid="AID_通信対戦数90回" Name="MID_ACHIEVE_NETMATCH_COUNT" Category="4" Kind="80" Count="90" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="900" Chapter="" />
+			<Param Aid="AID_通信対戦数100回" Name="MID_ACHIEVE_NETMATCH_COUNT" Category="4" Kind="80" Count="100" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="1000" Chapter="" />
+			<Param Aid="AID_通信対戦数110回" Name="MID_ACHIEVE_NETMATCH_COUNT" Category="4" Kind="80" Count="110" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="1100" Chapter="" />
+			<Param Aid="AID_通信対戦数120回" Name="MID_ACHIEVE_NETMATCH_COUNT" Category="4" Kind="80" Count="120" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="1200" Chapter="" />
+			<Param Aid="AID_通信対戦数130回" Name="MID_ACHIEVE_NETMATCH_COUNT" Category="4" Kind="80" Count="130" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="1300" Chapter="" />
+			<Param Aid="AID_通信対戦数140回" Name="MID_ACHIEVE_NETMATCH_COUNT" Category="4" Kind="80" Count="140" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="1400" Chapter="" />
+			<Param Aid="AID_通信対戦数150回" Name="MID_ACHIEVE_NETMATCH_COUNT" Category="4" Kind="80" Count="150" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="1500" Chapter="" />
+			<Param Aid="AID_通信対戦数160回" Name="MID_ACHIEVE_NETMATCH_COUNT" Category="4" Kind="80" Count="160" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="1600" Chapter="" />
+			<Param Aid="AID_通信対戦数170回" Name="MID_ACHIEVE_NETMATCH_COUNT" Category="4" Kind="80" Count="170" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="1700" Chapter="" />
+			<Param Aid="AID_通信対戦数180回" Name="MID_ACHIEVE_NETMATCH_COUNT" Category="4" Kind="80" Count="180" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="1800" Chapter="" />
+			<Param Aid="AID_通信対戦数190回" Name="MID_ACHIEVE_NETMATCH_COUNT" Category="4" Kind="80" Count="190" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="1900" Chapter="" />
+			<Param Aid="AID_通信対戦数200回" Name="MID_ACHIEVE_NETMATCH_COUNT" Category="4" Kind="80" Count="200" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="2000" Chapter="" />
+			<Param Aid="AID_通信対戦勝利数　初回" Name="MID_ACHIEVE_NETMATCH_WIN_FIRST" Category="4" Kind="81" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_通信対戦勝利数　10回" Name="MID_ACHIEVE_NETMATCH_WIN_COUNT" Category="4" Kind="81" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_通信対戦勝利数　20回" Name="MID_ACHIEVE_NETMATCH_WIN_COUNT" Category="4" Kind="81" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_通信対戦勝利数　30回" Name="MID_ACHIEVE_NETMATCH_WIN_COUNT" Category="4" Kind="81" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_通信対戦勝利数　40回" Name="MID_ACHIEVE_NETMATCH_WIN_COUNT" Category="4" Kind="81" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="400" Chapter="" />
+			<Param Aid="AID_通信対戦勝利数　50回" Name="MID_ACHIEVE_NETMATCH_WIN_COUNT" Category="4" Kind="81" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="500" Chapter="" />
+			<Param Aid="AID_通信対戦勝利数　60回" Name="MID_ACHIEVE_NETMATCH_WIN_COUNT" Category="4" Kind="81" Count="60" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="600" Chapter="" />
+			<Param Aid="AID_通信対戦勝利数　70回" Name="MID_ACHIEVE_NETMATCH_WIN_COUNT" Category="4" Kind="81" Count="70" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="700" Chapter="" />
+			<Param Aid="AID_通信対戦勝利数　80回" Name="MID_ACHIEVE_NETMATCH_WIN_COUNT" Category="4" Kind="81" Count="80" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="800" Chapter="" />
+			<Param Aid="AID_通信対戦勝利数　90回" Name="MID_ACHIEVE_NETMATCH_WIN_COUNT" Category="4" Kind="81" Count="90" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="900" Chapter="" />
+			<Param Aid="AID_通信対戦勝利数　100回" Name="MID_ACHIEVE_NETMATCH_WIN_COUNT" Category="4" Kind="81" Count="100" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="1000" Chapter="" />
+			<Param Aid="AID_リレーバトル数　初回" Name="MID_ACHIEVE_RELAYBATTLE_FIRST" Category="4" Kind="82" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_リレーバトル数　10回" Name="MID_ACHIEVE_RELAYBATTLE_COUNT" Category="4" Kind="82" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_リレーバトル数　20回" Name="MID_ACHIEVE_RELAYBATTLE_COUNT" Category="4" Kind="82" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_リレーバトル数　30回" Name="MID_ACHIEVE_RELAYBATTLE_COUNT" Category="4" Kind="82" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_リレーバトル数　40回" Name="MID_ACHIEVE_RELAYBATTLE_COUNT" Category="4" Kind="82" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="400" Chapter="" />
+			<Param Aid="AID_リレーバトル数　50回" Name="MID_ACHIEVE_RELAYBATTLE_COUNT" Category="4" Kind="82" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="500" Chapter="" />
+			<Param Aid="AID_リレーバトル数　60回" Name="MID_ACHIEVE_RELAYBATTLE_COUNT" Category="4" Kind="82" Count="60" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="600" Chapter="" />
+			<Param Aid="AID_リレーバトル数　70回" Name="MID_ACHIEVE_RELAYBATTLE_COUNT" Category="4" Kind="82" Count="70" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="700" Chapter="" />
+			<Param Aid="AID_リレーバトル数　80回" Name="MID_ACHIEVE_RELAYBATTLE_COUNT" Category="4" Kind="82" Count="80" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="800" Chapter="" />
+			<Param Aid="AID_リレーバトル数　90回" Name="MID_ACHIEVE_RELAYBATTLE_COUNT" Category="4" Kind="82" Count="90" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="900" Chapter="" />
+			<Param Aid="AID_リレーバトル数　100回" Name="MID_ACHIEVE_RELAYBATTLE_COUNT" Category="4" Kind="82" Count="100" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="1000" Chapter="" />
+			<Param Aid="AID_リレーバトル数　110回" Name="MID_ACHIEVE_RELAYBATTLE_COUNT" Category="4" Kind="82" Count="110" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="1100" Chapter="" />
+			<Param Aid="AID_リレーバトル数　120回" Name="MID_ACHIEVE_RELAYBATTLE_COUNT" Category="4" Kind="82" Count="120" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="1200" Chapter="" />
+			<Param Aid="AID_リレーバトル数　130回" Name="MID_ACHIEVE_RELAYBATTLE_COUNT" Category="4" Kind="82" Count="130" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="1300" Chapter="" />
+			<Param Aid="AID_リレーバトル数　140回" Name="MID_ACHIEVE_RELAYBATTLE_COUNT" Category="4" Kind="82" Count="140" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="1400" Chapter="" />
+			<Param Aid="AID_リレーバトル数　150回" Name="MID_ACHIEVE_RELAYBATTLE_COUNT" Category="4" Kind="82" Count="150" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="1500" Chapter="" />
+			<Param Aid="AID_リレーバトル数　160回" Name="MID_ACHIEVE_RELAYBATTLE_COUNT" Category="4" Kind="82" Count="160" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="1600" Chapter="" />
+			<Param Aid="AID_リレーバトル数　170回" Name="MID_ACHIEVE_RELAYBATTLE_COUNT" Category="4" Kind="82" Count="170" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="1700" Chapter="" />
+			<Param Aid="AID_リレーバトル数　180回" Name="MID_ACHIEVE_RELAYBATTLE_COUNT" Category="4" Kind="82" Count="180" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="1800" Chapter="" />
+			<Param Aid="AID_リレーバトル数　190回" Name="MID_ACHIEVE_RELAYBATTLE_COUNT" Category="4" Kind="82" Count="190" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="1900" Chapter="" />
+			<Param Aid="AID_リレーバトル数　200回" Name="MID_ACHIEVE_RELAYBATTLE_COUNT" Category="4" Kind="82" Count="200" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="2000" Chapter="" />
+			<Param Aid="AID_リレーバトル勝利数　初回" Name="MID_ACHIEVE_RELAYBATTLE_WIN_FIRST" Category="4" Kind="83" Count="1" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_リレーバトル勝利数　10回" Name="MID_ACHIEVE_RELAYBATTLE_WIN_COUNT" Category="4" Kind="83" Count="10" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="100" Chapter="" />
+			<Param Aid="AID_リレーバトル勝利数　20回" Name="MID_ACHIEVE_RELAYBATTLE_WIN_COUNT" Category="4" Kind="83" Count="20" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="200" Chapter="" />
+			<Param Aid="AID_リレーバトル勝利数　30回" Name="MID_ACHIEVE_RELAYBATTLE_WIN_COUNT" Category="4" Kind="83" Count="30" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="300" Chapter="" />
+			<Param Aid="AID_リレーバトル勝利数　40回" Name="MID_ACHIEVE_RELAYBATTLE_WIN_COUNT" Category="4" Kind="83" Count="40" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="400" Chapter="" />
+			<Param Aid="AID_リレーバトル勝利数　50回" Name="MID_ACHIEVE_RELAYBATTLE_WIN_COUNT" Category="4" Kind="83" Count="50" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="500" Chapter="" />
+			<Param Aid="AID_リレーバトル勝利数　60回" Name="MID_ACHIEVE_RELAYBATTLE_WIN_COUNT" Category="4" Kind="83" Count="60" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="600" Chapter="" />
+			<Param Aid="AID_リレーバトル勝利数　70回" Name="MID_ACHIEVE_RELAYBATTLE_WIN_COUNT" Category="4" Kind="83" Count="70" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="700" Chapter="" />
+			<Param Aid="AID_リレーバトル勝利数　80回" Name="MID_ACHIEVE_RELAYBATTLE_WIN_COUNT" Category="4" Kind="83" Count="80" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="800" Chapter="" />
+			<Param Aid="AID_リレーバトル勝利数　90回" Name="MID_ACHIEVE_RELAYBATTLE_WIN_COUNT" Category="4" Kind="83" Count="90" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="900" Chapter="" />
+			<Param Aid="AID_リレーバトル勝利数　100回" Name="MID_ACHIEVE_RELAYBATTLE_WIN_COUNT" Category="4" Kind="83" Count="100" Arg="" CountUnit="MID_MENU_ACHIEVEMENT_UNIT_COUNT" KizunaReward="1000" Chapter="" />
+			<Param Aid="AID_連戦マップ１　ランク1" Name="MID_ACHIEVE_SERIESBATTLE_RANK1" Category="4" Kind="84" Count="1" Arg="MID_CHALLENGE_C001_TITLE" CountUnit="" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_連戦マップ１　ランク10" Name="MID_ACHIEVE_SERIESBATTLE_RANK" Category="4" Kind="84" Count="10" Arg="MID_CHALLENGE_C001_TITLE" CountUnit="" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_連戦マップ１　ランク20" Name="MID_ACHIEVE_SERIESBATTLE_RANK" Category="4" Kind="84" Count="20" Arg="MID_CHALLENGE_C001_TITLE" CountUnit="" KizunaReward="20" Chapter="" />
+			<Param Aid="AID_連戦マップ１　ランク30" Name="MID_ACHIEVE_SERIESBATTLE_RANK" Category="4" Kind="84" Count="30" Arg="MID_CHALLENGE_C001_TITLE" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_連戦マップ１　ランク40" Name="MID_ACHIEVE_SERIESBATTLE_RANK" Category="4" Kind="84" Count="40" Arg="MID_CHALLENGE_C001_TITLE" CountUnit="" KizunaReward="40" Chapter="" />
+			<Param Aid="AID_連戦マップ１　ランク50" Name="MID_ACHIEVE_SERIESBATTLE_RANK" Category="4" Kind="84" Count="50" Arg="MID_CHALLENGE_C001_TITLE" CountUnit="" KizunaReward="50" Chapter="" />
+			<Param Aid="AID_連戦マップ２　ランク1" Name="MID_ACHIEVE_SERIESBATTLE_RANK1" Category="4" Kind="85" Count="1" Arg="MID_CHALLENGE_C002_TITLE" CountUnit="" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_連戦マップ２　ランク10" Name="MID_ACHIEVE_SERIESBATTLE_RANK" Category="4" Kind="85" Count="10" Arg="MID_CHALLENGE_C002_TITLE" CountUnit="" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_連戦マップ２　ランク20" Name="MID_ACHIEVE_SERIESBATTLE_RANK" Category="4" Kind="85" Count="20" Arg="MID_CHALLENGE_C002_TITLE" CountUnit="" KizunaReward="20" Chapter="" />
+			<Param Aid="AID_連戦マップ２　ランク30" Name="MID_ACHIEVE_SERIESBATTLE_RANK" Category="4" Kind="85" Count="30" Arg="MID_CHALLENGE_C002_TITLE" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_連戦マップ２　ランク40" Name="MID_ACHIEVE_SERIESBATTLE_RANK" Category="4" Kind="85" Count="40" Arg="MID_CHALLENGE_C002_TITLE" CountUnit="" KizunaReward="40" Chapter="" />
+			<Param Aid="AID_連戦マップ２　ランク50" Name="MID_ACHIEVE_SERIESBATTLE_RANK" Category="4" Kind="85" Count="50" Arg="MID_CHALLENGE_C002_TITLE" CountUnit="" KizunaReward="50" Chapter="" />
+			<Param Aid="AID_連戦マップ３　ランク1" Name="MID_ACHIEVE_SERIESBATTLE_RANK1" Category="4" Kind="86" Count="1" Arg="MID_CHALLENGE_C003_TITLE" CountUnit="" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_連戦マップ３　ランク10" Name="MID_ACHIEVE_SERIESBATTLE_RANK" Category="4" Kind="86" Count="10" Arg="MID_CHALLENGE_C003_TITLE" CountUnit="" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_連戦マップ３　ランク20" Name="MID_ACHIEVE_SERIESBATTLE_RANK" Category="4" Kind="86" Count="20" Arg="MID_CHALLENGE_C003_TITLE" CountUnit="" KizunaReward="20" Chapter="" />
+			<Param Aid="AID_連戦マップ３　ランク30" Name="MID_ACHIEVE_SERIESBATTLE_RANK" Category="4" Kind="86" Count="30" Arg="MID_CHALLENGE_C003_TITLE" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_連戦マップ３　ランク40" Name="MID_ACHIEVE_SERIESBATTLE_RANK" Category="4" Kind="86" Count="40" Arg="MID_CHALLENGE_C003_TITLE" CountUnit="" KizunaReward="40" Chapter="" />
+			<Param Aid="AID_連戦マップ３　ランク50" Name="MID_ACHIEVE_SERIESBATTLE_RANK" Category="4" Kind="86" Count="50" Arg="MID_CHALLENGE_C003_TITLE" CountUnit="" KizunaReward="50" Chapter="" />
+			<Param Aid="AID_連戦マップ４　ランク1" Name="MID_ACHIEVE_SERIESBATTLE_RANK1" Category="4" Kind="87" Count="-1" Arg="MID_CHALLENGE_C004_TITLE" CountUnit="" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_連戦マップ４　ランク10" Name="MID_ACHIEVE_SERIESBATTLE_RANK" Category="4" Kind="87" Count="10" Arg="MID_CHALLENGE_C004_TITLE" CountUnit="" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_連戦マップ４　ランク20" Name="MID_ACHIEVE_SERIESBATTLE_RANK" Category="4" Kind="87" Count="20" Arg="MID_CHALLENGE_C004_TITLE" CountUnit="" KizunaReward="20" Chapter="" />
+			<Param Aid="AID_連戦マップ４　ランク30" Name="MID_ACHIEVE_SERIESBATTLE_RANK" Category="4" Kind="87" Count="30" Arg="MID_CHALLENGE_C004_TITLE" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_連戦マップ４　ランク40" Name="MID_ACHIEVE_SERIESBATTLE_RANK" Category="4" Kind="87" Count="40" Arg="MID_CHALLENGE_C004_TITLE" CountUnit="" KizunaReward="40" Chapter="" />
+			<Param Aid="AID_連戦マップ４　ランク50" Name="MID_ACHIEVE_SERIESBATTLE_RANK" Category="4" Kind="87" Count="50" Arg="MID_CHALLENGE_C004_TITLE" CountUnit="" KizunaReward="50" Chapter="" />
+			<Param Aid="AID_連戦マップ５　ランク1" Name="MID_ACHIEVE_SERIESBATTLE_RANK1" Category="4" Kind="88" Count="1" Arg="MID_CHALLENGE_C005_TITLE" CountUnit="" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_連戦マップ５　ランク10" Name="MID_ACHIEVE_SERIESBATTLE_RANK" Category="4" Kind="88" Count="10" Arg="MID_CHALLENGE_C005_TITLE" CountUnit="" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_連戦マップ５　ランク20" Name="MID_ACHIEVE_SERIESBATTLE_RANK" Category="4" Kind="88" Count="20" Arg="MID_CHALLENGE_C005_TITLE" CountUnit="" KizunaReward="20" Chapter="" />
+			<Param Aid="AID_連戦マップ５　ランク30" Name="MID_ACHIEVE_SERIESBATTLE_RANK" Category="4" Kind="88" Count="30" Arg="MID_CHALLENGE_C005_TITLE" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_連戦マップ５　ランク40" Name="MID_ACHIEVE_SERIESBATTLE_RANK" Category="4" Kind="88" Count="40" Arg="MID_CHALLENGE_C005_TITLE" CountUnit="" KizunaReward="40" Chapter="" />
+			<Param Aid="AID_連戦マップ５　ランク50" Name="MID_ACHIEVE_SERIESBATTLE_RANK" Category="4" Kind="88" Count="50" Arg="MID_CHALLENGE_C005_TITLE" CountUnit="" KizunaReward="50" Chapter="" />
+			<Param Aid="AID_連戦マップ６　ランク1" Name="MID_ACHIEVE_SERIESBATTLE_RANK1" Category="4" Kind="89" Count="1" Arg="MID_CHALLENGE_C006_TITLE" CountUnit="" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_連戦マップ６　ランク10" Name="MID_ACHIEVE_SERIESBATTLE_RANK" Category="4" Kind="89" Count="10" Arg="MID_CHALLENGE_C006_TITLE" CountUnit="" KizunaReward="10" Chapter="" />
+			<Param Aid="AID_連戦マップ６　ランク20" Name="MID_ACHIEVE_SERIESBATTLE_RANK" Category="4" Kind="89" Count="20" Arg="MID_CHALLENGE_C006_TITLE" CountUnit="" KizunaReward="20" Chapter="" />
+			<Param Aid="AID_連戦マップ６　ランク30" Name="MID_ACHIEVE_SERIESBATTLE_RANK" Category="4" Kind="89" Count="30" Arg="MID_CHALLENGE_C006_TITLE" CountUnit="" KizunaReward="30" Chapter="" />
+			<Param Aid="AID_連戦マップ６　ランク40" Name="MID_ACHIEVE_SERIESBATTLE_RANK" Category="4" Kind="89" Count="40" Arg="MID_CHALLENGE_C006_TITLE" CountUnit="" KizunaReward="40" Chapter="" />
+			<Param Aid="AID_連戦マップ６　ランク50" Name="MID_ACHIEVE_SERIESBATTLE_RANK" Category="4" Kind="89" Count="50" Arg="MID_CHALLENGE_C006_TITLE" CountUnit="" KizunaReward="50" Chapter="" />
+			<Param Aid="AID_クラスチェンジした回数" Name="" Category="5" Kind="90" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_腕立て伏せノーマルをプレイした回数" Name="" Category="5" Kind="91" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_腕立て伏せハードをプレイした回数" Name="" Category="5" Kind="92" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_腕立て伏せエキスパートをプレイした回数" Name="" Category="5" Kind="93" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_腕立て伏せマッスルをプレイした回数" Name="" Category="5" Kind="94" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_腹筋ノーマルをプレイした回数" Name="" Category="5" Kind="95" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_腹筋ハードをプレイした回数" Name="" Category="5" Kind="96" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_腹筋エキスパートをプレイした回数" Name="" Category="5" Kind="97" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_腹筋マッスルをプレイした回数" Name="" Category="5" Kind="98" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_スクワットノーマルをプレイした回数" Name="" Category="5" Kind="99" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_スクワットハードをプレイした回数" Name="" Category="5" Kind="100" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_スクワットエキスパートをプレイした回数" Name="" Category="5" Kind="101" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_スクワットマッスルをプレイした回数" Name="" Category="5" Kind="102" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_ドラゴンシューターノーマルをプレイした回数" Name="" Category="5" Kind="103" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_ドラゴンシューターハードをプレイした回数" Name="" Category="5" Kind="104" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_ドラゴンシューターエキスパートをプレイした回数" Name="" Category="5" Kind="105" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_小魚用竿で釣りした回数" Name="" Category="5" Kind="106" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_頑丈竿で釣りした回数" Name="" Category="5" Kind="107" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_万能竿で釣りした回数" Name="" Category="5" Kind="108" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_マルスの指輪を磨いた回数" Name="" Category="5" Kind="109" Count="-1" Arg="GID_マルス" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_シグルドの指輪を磨いた回数" Name="" Category="5" Kind="109" Count="-1" Arg="GID_シグルド" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_セリカの指輪を磨いた回数" Name="" Category="5" Kind="109" Count="-1" Arg="GID_セリカ" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_ミカヤの指輪を磨いた回数" Name="" Category="5" Kind="109" Count="-1" Arg="GID_ミカヤ" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_ロイの指輪を磨いた回数" Name="" Category="5" Kind="109" Count="-1" Arg="GID_ロイ" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_リーフの指輪を磨いた回数" Name="" Category="5" Kind="109" Count="-1" Arg="GID_リーフ" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_ルキナの指輪を磨いた回数" Name="" Category="5" Kind="109" Count="-1" Arg="GID_ルキナ" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_リンの指輪を磨いた回数" Name="" Category="5" Kind="109" Count="-1" Arg="GID_リン" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_アイクの指輪を磨いた回数" Name="" Category="5" Kind="109" Count="-1" Arg="GID_アイク" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_ベレトの指輪を磨いた回数" Name="" Category="5" Kind="109" Count="-1" Arg="GID_ベレト" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_カムイの指輪を磨いた回数" Name="" Category="5" Kind="109" Count="-1" Arg="GID_カムイ" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_エイリークの指輪を磨いた回数" Name="" Category="5" Kind="109" Count="-1" Arg="GID_エイリーク" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_連戦マップ１挑戦する回数" Name="" Category="5" Kind="110" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_連戦マップ２挑戦する回数" Name="" Category="5" Kind="111" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_連戦マップ３挑戦する回数" Name="" Category="5" Kind="112" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_連戦マップ４挑戦する回数" Name="" Category="5" Kind="113" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_連戦マップ５挑戦する回数" Name="" Category="5" Kind="114" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_連戦マップ６挑戦する回数" Name="" Category="5" Kind="115" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_連戦マップ１クリアした回数" Name="" Category="5" Kind="116" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_連戦マップ２クリアした回数" Name="" Category="5" Kind="117" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_連戦マップ３クリアした回数" Name="" Category="5" Kind="118" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_連戦マップ４クリアした回数" Name="" Category="5" Kind="119" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_連戦マップ５クリアした回数" Name="" Category="5" Kind="120" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_連戦マップ６クリアした回数" Name="" Category="5" Kind="121" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_リレーバトル１開始した回数" Name="" Category="5" Kind="122" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_リレーバトル２開始した回数" Name="" Category="5" Kind="123" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_リレーバトル３開始した回数" Name="" Category="5" Kind="124" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_リレーバトル４開始した回数" Name="" Category="5" Kind="125" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_リレーバトル５開始した回数" Name="" Category="5" Kind="126" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_リレーバトル６開始した回数" Name="" Category="5" Kind="127" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_リレーバトル引き継いだ回数" Name="" Category="5" Kind="128" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_お手軽対戦をプレイした回数" Name="" Category="5" Kind="129" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_お手軽対戦で勝利した回数" Name="" Category="5" Kind="130" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_お手軽対戦で失敗した回数" Name="" Category="5" Kind="131" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_本格対戦をプレイした回数" Name="" Category="5" Kind="132" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_本格対戦で勝利した回数" Name="" Category="5" Kind="133" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_本格対戦で失敗した回数" Name="" Category="5" Kind="134" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_本格対戦で防御勝利した回数" Name="" Category="5" Kind="135" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+			<Param Aid="AID_本格対戦で防御失敗した回数" Name="" Category="5" Kind="136" Count="-1" Arg="" CountUnit="" KizunaReward="1" Chapter="" />
+		</Data>
+	</Sheet>
+	<Sheet Name="所属一覧" Count="8">
+		<Header>
+			<Param Name="所属" Ident="Bid" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="名前" Ident="Name" Type="string" Min="" Max="" Chg="" />
+			<Param Name="撃破実績" Ident="DefeatAchieve" Type="s8" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Bid="BID_無し" Name="" DefeatAchieve="0" />
+			<Param Bid="BID_無所属" Name="" DefeatAchieve="11" />
+			<Param Bid="BID_フィレネ" Name="" DefeatAchieve="9" />
+			<Param Bid="BID_ブロディア" Name="" DefeatAchieve="9" />
+			<Param Bid="BID_ソルム" Name="" DefeatAchieve="9" />
+			<Param Bid="BID_イルシオン" Name="" DefeatAchieve="9" />
+			<Param Bid="BID_異形" Name="" DefeatAchieve="10" />
+			<Param Bid="BID_幻影" Name="" DefeatAchieve="0" />
+		</Data>
+	</Sheet>
+</Book>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Book Count="1">
+	<Sheet Name="ドラゴンライド景品" Count="27">
+		<Header>
+			<Param Name="識別子" Ident="Group" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="絆のかけら" Ident="PieceOfBond" Type="int" Min="" Max="" Chg="" />
+			<Param Name="アイテム数" Ident="ItemCount" Type="int" Min="" Max="" Chg="" />
+			<Param Name="アイテム_1" Ident="Item1" Type="string" Min="" Max="" Chg="" />
+			<Param Name="アイテム_2" Ident="Item2" Type="string" Min="" Max="" Chg="" />
+			<Param Name="アイテム_3" Ident="Item3" Type="string" Min="" Max="" Chg="" />
+			<Param Name="アイテム_4" Ident="Item4" Type="string" Min="" Max="" Chg="" />
+			<Param Name="アイテム_5" Ident="Item5" Type="string" Min="" Max="" Chg="" />
+			<Param Name="アイテム_6" Ident="Item6" Type="string" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Group="ID_Normal_SSS" PieceOfBond="100" ItemCount="3" Item1="特効薬" Item2="傷薬" Item3="毒消し" Item4="聖水" Item5="たいまつ" Item6="HPの薬" />
+			<Param Group="ID_Normal_SS" PieceOfBond="90" ItemCount="2" Item1="特効薬" Item2="傷薬" Item3="毒消し" Item4="聖水" Item5="たいまつ" Item6="HPの薬" />
+			<Param Group="ID_Normal_S" PieceOfBond="80" ItemCount="1" Item1="特効薬" Item2="傷薬" Item3="毒消し" Item4="聖水" Item5="たいまつ" Item6="HPの薬" />
+			<Param Group="ID_Normal_A" PieceOfBond="70" ItemCount="0" Item1="" Item2="" Item3="" Item4="" Item5="" Item6="" />
+			<Param Group="ID_Normal_B" PieceOfBond="60" ItemCount="0" Item1="" Item2="" Item3="" Item4="" Item5="" Item6="" />
+			<Param Group="ID_Normal_C" PieceOfBond="50" ItemCount="0" Item1="" Item2="" Item3="" Item4="" Item5="" Item6="" />
+			<Param Group="ID_Normal_D" PieceOfBond="40" ItemCount="0" Item1="" Item2="" Item3="" Item4="" Item5="" Item6="" />
+			<Param Group="ID_Normal_E" PieceOfBond="30" ItemCount="0" Item1="" Item2="" Item3="" Item4="" Item5="" Item6="" />
+			<Param Group="ID_Normal_F" PieceOfBond="20" ItemCount="0" Item1="" Item2="" Item3="" Item4="" Item5="" Item6="" />
+			<Param Group="ID_Hard_SSS" PieceOfBond="200" ItemCount="4" Item1="特効薬" Item2="傷薬" Item3="毒消し" Item4="聖水" Item5="たいまつ" Item6="HPの薬" />
+			<Param Group="ID_Hard_SS" PieceOfBond="180" ItemCount="3" Item1="特効薬" Item2="傷薬" Item3="毒消し" Item4="聖水" Item5="たいまつ" Item6="HPの薬" />
+			<Param Group="ID_Hard_S" PieceOfBond="160" ItemCount="2" Item1="特効薬" Item2="傷薬" Item3="毒消し" Item4="聖水" Item5="たいまつ" Item6="HPの薬" />
+			<Param Group="ID_Hard_A" PieceOfBond="140" ItemCount="1" Item1="特効薬" Item2="傷薬" Item3="毒消し" Item4="聖水" Item5="たいまつ" Item6="HPの薬" />
+			<Param Group="ID_Hard_B" PieceOfBond="120" ItemCount="0" Item1="" Item2="" Item3="" Item4="" Item5="" Item6="" />
+			<Param Group="ID_Hard_C" PieceOfBond="100" ItemCount="0" Item1="" Item2="" Item3="" Item4="" Item5="" Item6="" />
+			<Param Group="ID_Hard_D" PieceOfBond="80" ItemCount="0" Item1="" Item2="" Item3="" Item4="" Item5="" Item6="" />
+			<Param Group="ID_Hard_E" PieceOfBond="60" ItemCount="0" Item1="" Item2="" Item3="" Item4="" Item5="" Item6="" />
+			<Param Group="ID_Hard_F" PieceOfBond="40" ItemCount="0" Item1="" Item2="" Item3="" Item4="" Item5="" Item6="" />
+			<Param Group="ID_Expert_SSS" PieceOfBond="300" ItemCount="5" Item1="特効薬" Item2="傷薬" Item3="毒消し" Item4="聖水" Item5="たいまつ" Item6="HPの薬" />
+			<Param Group="ID_Expert_SS" PieceOfBond="270" ItemCount="4" Item1="特効薬" Item2="傷薬" Item3="毒消し" Item4="聖水" Item5="たいまつ" Item6="HPの薬" />
+			<Param Group="ID_Expert_S" PieceOfBond="240" ItemCount="3" Item1="特効薬" Item2="傷薬" Item3="毒消し" Item4="聖水" Item5="たいまつ" Item6="HPの薬" />
+			<Param Group="ID_Expert_A" PieceOfBond="210" ItemCount="2" Item1="特効薬" Item2="傷薬" Item3="毒消し" Item4="聖水" Item5="たいまつ" Item6="HPの薬" />
+			<Param Group="ID_Expert_B" PieceOfBond="180" ItemCount="1" Item1="特効薬" Item2="傷薬" Item3="毒消し" Item4="聖水" Item5="たいまつ" Item6="HPの薬" />
+			<Param Group="ID_Expert_C" PieceOfBond="150" ItemCount="0" Item1="" Item2="" Item3="" Item4="" Item5="" Item6="" />
+			<Param Group="ID_Expert_D" PieceOfBond="120" ItemCount="0" Item1="" Item2="" Item3="" Item4="" Item5="" Item6="" />
+			<Param Group="ID_Expert_E" PieceOfBond="90" ItemCount="0" Item1="" Item2="" Item3="" Item4="" Item5="" Item6="" />
+			<Param Group="ID_Expert_F" PieceOfBond="60" ItemCount="0" Item1="" Item2="" Item3="" Item4="" Item5="" Item6="" />
+		</Data>
+	</Sheet>
+</Book>

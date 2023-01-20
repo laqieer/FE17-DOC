@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Book Count="2">
+	<Sheet Name="撃破" Count="55">
+		<Header>
+			<Param Name="パターン" Ident="Name" Type="PublicArray" Min="" Max="" Chg="" />
+			<Param Name="アイテム" Ident="Iid" Type="string" Min="" Max="" Chg="" />
+			<Param Name="出現比率" Ident="Rate" Type="u8" Min="0" Max="100" Chg="1" />
+			<Param Name="切り替え章" Ident="Cid" Type="string" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Name="パターン1" Iid="" Rate="" Cid="" />
+			<Param Name="" Iid="IID_傷薬" Rate="20" Cid="" />
+			<Param Name="" Iid="IID_たいまつ" Rate="10" Cid="" />
+			<Param Name="" Iid="IID_毒消し" Rate="10" Cid="" />
+			<Param Name="" Iid="IID_ほそみの剣" Rate="10" Cid="" />
+			<Param Name="" Iid="IID_ほそみの槍" Rate="10" Cid="" />
+			<Param Name="" Iid="IID_ショートアクス" Rate="10" Cid="" />
+			<Param Name="" Iid="IID_ショートボウ" Rate="10" Cid="" />
+			<Param Name="" Iid="IID_ショートナイフ" Rate="10" Cid="" />
+			<Param Name="" Iid="IID_サージ" Rate="10" Cid="" />
+			<Param Name="パターン2" Iid="" Rate="" Cid="" />
+			<Param Name="" Iid="IID_傷薬" Rate="5" Cid="CID_M010" />
+			<Param Name="" Iid="IID_毒消し" Rate="10" Cid="" />
+			<Param Name="" Iid="IID_聖水" Rate="8" Cid="" />
+			<Param Name="" Iid="IID_ほそみの剣" Rate="3" Cid="" />
+			<Param Name="" Iid="IID_ほそみの槍" Rate="3" Cid="" />
+			<Param Name="" Iid="IID_ショートアクス" Rate="3" Cid="" />
+			<Param Name="" Iid="IID_ショートボウ" Rate="3" Cid="" />
+			<Param Name="" Iid="IID_ショートナイフ" Rate="3" Cid="" />
+			<Param Name="" Iid="IID_サージ" Rate="3" Cid="" />
+			<Param Name="" Iid="IID_鉄の剣" Rate="10" Cid="" />
+			<Param Name="" Iid="IID_鉄の槍" Rate="10" Cid="" />
+			<Param Name="" Iid="IID_鉄の斧" Rate="10" Cid="" />
+			<Param Name="" Iid="IID_鉄の弓" Rate="10" Cid="" />
+			<Param Name="" Iid="IID_鉄のナイフ" Rate="10" Cid="" />
+			<Param Name="" Iid="IID_ファイアー" Rate="3" Cid="" />
+			<Param Name="" Iid="IID_サンダー" Rate="3" Cid="" />
+			<Param Name="" Iid="IID_ウィンド" Rate="3" Cid="" />
+			<Param Name="パターン3" Iid="" Rate="" Cid="" />
+			<Param Name="" Iid="IID_傷薬" Rate="1" Cid="CID_M020" />
+			<Param Name="" Iid="IID_毒消し" Rate="3" Cid="" />
+			<Param Name="" Iid="IID_聖水" Rate="5" Cid="" />
+			<Param Name="" Iid="IID_特効薬" Rate="10" Cid="" />
+			<Param Name="" Iid="IID_ほそみの剣" Rate="1" Cid="" />
+			<Param Name="" Iid="IID_ほそみの槍" Rate="1" Cid="" />
+			<Param Name="" Iid="IID_ショートアクス" Rate="1" Cid="" />
+			<Param Name="" Iid="IID_ショートボウ" Rate="1" Cid="" />
+			<Param Name="" Iid="IID_ショートナイフ" Rate="1" Cid="" />
+			<Param Name="" Iid="IID_サージ" Rate="1" Cid="" />
+			<Param Name="" Iid="IID_鉄の剣" Rate="2" Cid="" />
+			<Param Name="" Iid="IID_鉄の槍" Rate="2" Cid="" />
+			<Param Name="" Iid="IID_鉄の斧" Rate="2" Cid="" />
+			<Param Name="" Iid="IID_鉄の弓" Rate="2" Cid="" />
+			<Param Name="" Iid="IID_鉄のナイフ" Rate="2" Cid="" />
+			<Param Name="" Iid="IID_ファイアー" Rate="2" Cid="" />
+			<Param Name="" Iid="IID_サンダー" Rate="2" Cid="" />
+			<Param Name="" Iid="IID_ウィンド" Rate="2" Cid="" />
+			<Param Name="" Iid="IID_鋼の剣" Rate="10" Cid="" />
+			<Param Name="" Iid="IID_鋼の槍" Rate="10" Cid="" />
+			<Param Name="" Iid="IID_鋼の斧" Rate="10" Cid="" />
+			<Param Name="" Iid="IID_鋼の弓" Rate="10" Cid="" />
+			<Param Name="" Iid="IID_鋼のナイフ" Rate="10" Cid="" />
+			<Param Name="" Iid="IID_エルファイアー" Rate="3" Cid="" />
+			<Param Name="" Iid="IID_エルサンダー" Rate="3" Cid="" />
+			<Param Name="" Iid="IID_エルウィンド" Rate="3" Cid="" />
+		</Data>
+	</Sheet>
+	<Sheet Name="被撃破" Count="4">
+		<Header>
+			<Param Name="名前" Ident="Name" Type="PublicArray" Min="" Max="" Chg="" />
+			<Param Name="種類" Ident="Kind" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="量" Ident="Value" Type="int" Min="0" Max="10000" Chg="1" />
+			<Param Name="出現比率" Ident="Rate" Type="u8" Min="0" Max="100" Chg="1" />
+			<Param Name="フラグ" Ident="Flag" Type="flag" Min="" Max="" Chg="" />
+			<Param Name="切り替え章" Ident="Cid" Type="string" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Name="パターン1" Kind="" Value="" Rate="" Flag="0" Cid="" />
+			<Param Name="" Kind="1" Value="10" Rate="50" Flag="0" Cid="" />
+			<Param Name="" Kind="2" Value="25" Rate="25" Flag="0" Cid="" />
+			<Param Name="" Kind="4" Value="3" Rate="25" Flag="1" Cid="" />
+		</Data>
+	</Sheet>
+</Book>

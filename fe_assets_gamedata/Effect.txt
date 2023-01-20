@@ -1,0 +1,390 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Book Count="2">
+	<Sheet Name="エフェクト一覧" Count="298">
+		<Header>
+			<Param Name="エフェクト名" Ident="Eid" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="ファイルパス" Ident="FilePath" Type="string" Min="" Max="" Chg="" />
+			<Param Name="効果音" Ident="SoundLabel" Type="string" Min="" Max="" Chg="" />
+			<Param Name="再生タイプ" Ident="Type" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="常駐タイプ" Ident="Resident" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="再生遅延" Ident="DelayTime" Type="float" Min="" Max="" Chg="" />
+			<Param Name="待ち時間" Ident="WaitTime" Type="float" Min="" Max="" Chg="" />
+			<Param Name="揺れ時間" Ident="ShakeTime" Type="float" Min="" Max="" Chg="" />
+			<Param Name="揺れ強度" Ident="ShakeMagnitude" Type="float" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Eid="汎用スキル_発動" FilePath="Effects/BMap/Skill/Prefabs/Eff_Skill_Trigger_00" SoundLabel="" Type="0" Resident="1" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="汎用スキル_ヒット" FilePath="Effects/BMap/Skill/Prefabs/Eff_Skill_Hit_00" SoundLabel="" Type="0" Resident="1" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="シンクロスキル_発動" FilePath="Effects/BMap/Skill/Prefabs/Eff_Skill_Trigger_Emblem" SoundLabel="" Type="0" Resident="1" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="エンゲージスキル_発動" FilePath="Effects/BMap/Skill/Prefabs/Eff_Skill_Trigger_Engage" SoundLabel="" Type="0" Resident="1" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="毒スキルヒット" FilePath="Effects/BMap/Skill/Prefabs/Eff_Skill_Poison_00" SoundLabel="SE_Effect_Skill_Poison_00_BMap" Type="0" Resident="1" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="共通ヒット" FilePath="Effects/BMap/Battle/Hit/Prefabs/Eff_Hit_00" SoundLabel="" Type="0" Resident="1" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="移動煙" FilePath="Effects/BMap/Battle/Hit/Prefabs/Eff_BattleSmoke_00" SoundLabel="" Type="0" Resident="1" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="跳ね返りヒット" FilePath="Effects/BMap/Battle/Hit/Prefabs/Eff_BattleSmoke_01" SoundLabel="SE_Effect_BattleSmoke_01" Type="0" Resident="1" DelayTime="0" WaitTime="0" ShakeTime="0.2" ShakeMagnitude="0.2" />
+			<Param Eid="必殺ヒット" FilePath="Effects/BMap/Battle/Hit/Prefabs/Eff_Hit_Critical_00" SoundLabel="" Type="0" Resident="1" DelayTime="0" WaitTime="0" ShakeTime="0.2" ShakeMagnitude="0.3" />
+			<Param Eid="特攻ヒット" FilePath="Effects/BMap/Battle/Hit/Prefabs/Eff_Hit_Special_00" SoundLabel="Bmap_SpecialDamage" Type="0" Resident="1" DelayTime="0" WaitTime="0" ShakeTime="0.2" ShakeMagnitude="0.3" />
+			<Param Eid="エンゲージ技ヒット" FilePath="Effects/BMap/Battle/Hit/Prefabs/Eff_Hit_01" SoundLabel="" Type="0" Resident="1" DelayTime="0" WaitTime="0" ShakeTime="0.1" ShakeMagnitude="0.2" />
+			<Param Eid="共通ガード" FilePath="Effects/BMap/Battle/Hit/Prefabs/Eff_Guard_00" SoundLabel="" Type="0" Resident="1" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="杖効果ガード" FilePath="Effects/BMap/Battle/Hit/Prefabs/Eff_Guard_Rod_00" SoundLabel="Damage_N" Type="0" Resident="1" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="チェインガード" FilePath="Effects/BMap/Battle/Hit/Prefabs/Eff_Guard_Monk_00" SoundLabel="" Type="0" Resident="1" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="共通踊る" FilePath="Effects/BMap/Battle/Hit/Prefabs/Eff_Dance_00" SoundLabel="SE_Effect_Dance_ActionAgain" Type="0" Resident="1" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ブレイク" FilePath="Effects/BMap/Battle/Hit/Prefabs/Eff_Break_00" SoundLabel="SE_Break_Bmap" Type="0" Resident="1" DelayTime="0" WaitTime="0" ShakeTime="0.2" ShakeMagnitude="0.3" />
+			<Param Eid="スタン" FilePath="Effects/BMap/Battle/Hit/Prefabs/Eff_Stun_00" SoundLabel="" Type="0" Resident="1" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="スマッシュ" FilePath="Effects/BMap/Battle/Hit/Prefabs/Eff_Smash_00" SoundLabel="Bmap_Damage_Smash" Type="0" Resident="1" DelayTime="0" WaitTime="0" ShakeTime="0.2" ShakeMagnitude="0.3" />
+			<Param Eid="ステータス上昇" FilePath="Effects/BMap/Battle/Status/Prefabs/Eff_PowerUp" SoundLabel="Status_Up" Type="0" Resident="1" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ステータス下降" FilePath="Effects/BMap/Battle/Status/Prefabs/Eff_PowerDown" SoundLabel="Status_Down" Type="0" Resident="1" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="共通矢発射" FilePath="Effects/BMap/Battle/Hit/Prefabs/Eff_Bow_Shot" SoundLabel="SE_Eff_Bmap_Bow_01" Type="0" Resident="1" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="手斧発射" FilePath="Effects/BMap/Battle/Hit/Prefabs/Eff_FlyAxe_Shot" SoundLabel="" Type="0" Resident="1" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="手やり発射" FilePath="Effects/BMap/Battle/Hit/Prefabs/Eff_FlyLnc_Shot" SoundLabel="" Type="0" Resident="1" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="SP取得" FilePath="Effects/Bmap/Battle/Prefabs/Eff_SkillGet_00" SoundLabel="Status_Up" Type="0" Resident="1" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="チェインガードコマンド" FilePath="Effects/BMap/Battle/Command/Prefabs/Eff_Guard_Chain_00" SoundLabel="SE_Bmap_ChainGuard" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="残像コマンド" FilePath="Effects/BMap/Battle/Command/Prefabs/Eff_Avatar_00" SoundLabel="SE_Lin_Avatar" Type="0" Resident="0" DelayTime="0" WaitTime="0.25" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="残像解除コマンド" FilePath="Effects/BMap/Battle/Command/Prefabs/Eff_Avatar_01" SoundLabel="SE_Lin_Avatar_Off" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="覇克天空コマンド" FilePath="Effects/BMap/Battle/Command/Prefabs/Eff_EngageSkill_Ike_00" SoundLabel="SE_Ike_Ready" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ワープライナーイン" FilePath="Effects/BMap/Battle/Command/Prefabs/Eff_EngageSkill_Cel_In" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ワープライナーアウト" FilePath="Effects/BMap/Battle/Command/Prefabs/Eff_EngageSkill_Cel_Out" SoundLabel="SE_GodSkil_Cellica_Bmap" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="スキルコマンド_G3" FilePath="Effects/Bmap/EngageSkill/Prefabs/Eff_Avatar_G3" SoundLabel="SE_DLC_Summon_Light" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="スキルコマンド_G0" FilePath="Effects/Bmap/EngageSkill/Prefabs/Eff_Avatar_G0" SoundLabel="SE_Lin_Avatar" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="スキルコマンド_G2" FilePath="Effects/Bmap/EngageSkill/Prefabs/EngageSkill_G2_00" SoundLabel="" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="スキルコマンド_G3a" FilePath="Effects/Bmap/EngageSkill/Prefabs/Eff_Dance_G3" SoundLabel="SE_Effect_Dance_ActionAgain" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="支援値上昇" FilePath="Effects/BMap/Battle/Status/Prefabs/Eff_Support_Heart" SoundLabel="Heart_Up" Type="0" Resident="1" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="絆値上昇" FilePath="Effects/BMap/Battle/Status/Prefabs/Eff_Support_Kizuna" SoundLabel="Heart_Up" Type="0" Resident="1" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="毒ヒット" FilePath="Effects/BMap/Battle/Status/Prefabs/Eff_Poison" SoundLabel="" Type="0" Resident="1" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="スタンヒット" FilePath="Effects/BMap/Battle/Hit/Prefabs/Eff_Stun_00" SoundLabel="" Type="0" Resident="1" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="魔砲台無_発動" FilePath="Effects/BMap/Cannon/Prefabs/Eff_MagicCannon_Trigger_Nature" SoundLabel="SE_Effect_Magiccannon_Nature_Shot" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="魔砲台無_発射" FilePath="Effects/BMap/Cannon/Prefabs/Eff_MagicCannon_Shoot_Nature" SoundLabel="SE_Effect_Magiccannon_Nature_Trigger" Type="0" Resident="0" DelayTime="0.25" WaitTime="0.25" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="魔砲台無_ヒット" FilePath="Effects/BMap/Cannon/Prefabs/Eff_MagicCannon_Hit_Nature" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0.25" ShakeTime="0.2" ShakeMagnitude="0.3" />
+			<Param Eid="魔砲台炎_発動" FilePath="Effects/BMap/Cannon/Prefabs/Eff_MagicCannon_Trigger_Fire" SoundLabel="SE_Effect_Magiccannon_Fire_Shot" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="魔砲台炎_発射" FilePath="Effects/BMap/Cannon/Prefabs/Eff_MagicCannon_Shoot_Fire" SoundLabel="SE_Effect_Magiccannon_Fire_Trigger" Type="0" Resident="0" DelayTime="0.25" WaitTime="0.25" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="魔砲台炎_ヒット" FilePath="Effects/BMap/Cannon/Prefabs/Eff_MagicCannon_Hit_Fire" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0.25" ShakeTime="0.2" ShakeMagnitude="0.3" />
+			<Param Eid="魔砲台雷_発動" FilePath="Effects/BMap/Cannon/Prefabs/Eff_MagicCannon_Trigger_Thunder" SoundLabel="SE_Effect_Magiccannon_Thunder_Shot" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="魔砲台雷_発射" FilePath="Effects/BMap/Cannon/Prefabs/Eff_MagicCannon_Shoot_Thunder" SoundLabel="SE_Effect_Magiccannon_Thunder_Trigger" Type="0" Resident="0" DelayTime="0.25" WaitTime="0.25" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="魔砲台雷_ヒット" FilePath="Effects/BMap/Cannon/Prefabs/Eff_MagicCannon_Hit_Thunder" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0.25" ShakeTime="0.2" ShakeMagnitude="0.3" />
+			<Param Eid="魔砲台風_発動" FilePath="Effects/BMap/Cannon/Prefabs/Eff_MagicCannon_Trigger_Wind" SoundLabel="SE_Effect_Magiccannon_Wind_Shot" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="魔砲台風_発射" FilePath="Effects/BMap/Cannon/Prefabs/Eff_MagicCannon_Shoot_Wind" SoundLabel="SE_Effect_Magiccannon_Wind_Trigger" Type="0" Resident="0" DelayTime="0.25" WaitTime="0.25" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="魔砲台風_ヒット" FilePath="Effects/BMap/Cannon/Prefabs/Eff_MagicCannon_Hit_Wind" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0.25" ShakeTime="0.2" ShakeMagnitude="0.3" />
+			<Param Eid="魔砲台闇_発動" FilePath="Effects/BMap/Cannon/Prefabs/Eff_MagicCannon_Trigger_Dark" SoundLabel="SE_Effect_Magiccannon_Obscurite_Shot" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="魔砲台闇_発射" FilePath="Effects/BMap/Cannon/Prefabs/Eff_MagicCannon_Shoot_Dark" SoundLabel="SE_Effect_Magiccannon_Obscurite_Trigger" Type="0" Resident="0" DelayTime="0.25" WaitTime="0.25" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="魔砲台闇_ヒット" FilePath="Effects/BMap/Cannon/Prefabs/Eff_MagicCannon_Hit_Dark" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0.25" ShakeTime="0.2" ShakeMagnitude="0.3" />
+			<Param Eid="魔砲台光_発動" FilePath="Effects/BMap/Cannon/Prefabs/Eff_MagicCannon_Trigger_Light" SoundLabel="SE_Effect_Magiccannon_Shine_Shot" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="魔砲台光_発射" FilePath="Effects/BMap/Cannon/Prefabs/Eff_MagicCannon_Shoot_Light" SoundLabel="SE_Effect_Magiccannon_Shine_Trigger" Type="0" Resident="0" DelayTime="0.25" WaitTime="0.25" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="魔砲台光_ヒット" FilePath="Effects/BMap/Cannon/Prefabs/Eff_MagicCannon_Hit_Light" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0.25" ShakeTime="0.2" ShakeMagnitude="0.3" />
+			<Param Eid="火炎砲台_発射" FilePath="Effects/BMap/Cannon/Prefabs/Eff_FlameCannon_Shoot" SoundLabel="SE_Eff_Cannon_Trigger_Bmap" Type="0" Resident="0" DelayTime="0.25" WaitTime="0.25" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="火炎砲台_ヒット" FilePath="Effects/BMap/Cannon/Prefabs/Eff_FlameCannon_Hit" SoundLabel="SE_Eff_VolcanoBall_Hit" Type="0" Resident="0" DelayTime="0" WaitTime="0.25" ShakeTime="0.2" ShakeMagnitude="0.3" />
+			<Param Eid="弓砲台_発射" FilePath="Effects/BMap/Cannon/Prefabs/Eff_BowCannon_Shoot" SoundLabel="SE_Eff_Bmap_BowCannon_01" Type="0" Resident="0" DelayTime="0.25" WaitTime="0.25" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="弓砲台_ヒット" FilePath="Effects/BMap/Cannon/Prefabs/Eff_BowCannon_Hit" SoundLabel="SE_Eff_Bmap_BowCannon_02" Type="0" Resident="0" DelayTime="0" WaitTime="0.25" ShakeTime="0.2" ShakeMagnitude="0.3" />
+			<Param Eid="弾_共通発射" FilePath="Effects/Bmap/Battle/Prefabs/Eff_Bullet_Shot" SoundLabel="SE_DLC_Cannon_Trigger_Bmap" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="弾_全弾発射_ヒット" FilePath="Effects/Bmap/Battle/Prefabs/Eff_FullBullet_Hit" SoundLabel="SE_Eff_VolcanoBall_Hit" Type="0" Resident="0" DelayTime="0" WaitTime="0.25" ShakeTime="0.2" ShakeMagnitude="0.3" />
+			<Param Eid="いかづちの剣" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Thunder_Hit" SoundLabel="SE_Magic_Bmap_Thunder_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="封印の剣" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Fire_Hit" SoundLabel="SE_Magic_Bmap_Fire_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ひかりの剣" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Light_Hit" SoundLabel="SE_Magic_Bmap_Light_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="かぜの剣" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Wind_Hit" SoundLabel="SE_Magic_Bmap_Wind_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ラグネル" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Nature_Hit" SoundLabel="SE_Magic_Bmap_Surge_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ブルトガング" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Dark_Hit" SoundLabel="SE_Magic_Bmap_Obscurite_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="竜神の法" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Nature_Hit" SoundLabel="SE_Magic_Bmap_Surge_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ルーンソード" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Dark_Hit" SoundLabel="SE_Magic_Bmap_Obscurite_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="サンダーソード" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Thunder_Hit" SoundLabel="SE_Magic_Bmap_Thunder_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ほのおの槍" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Fire_Hit" SoundLabel="SE_Magic_Bmap_Fire_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="かぜの大斧" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Wind_Hit" SoundLabel="SE_Magic_Bmap_Wind_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ボルトアクス" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Thunder_Hit" SoundLabel="SE_Magic_Bmap_Thunder_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="光の弓" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Light_Hit" SoundLabel="SE_Magic_Bmap_Light_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ミセリコルデ" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Dark_Hit" SoundLabel="SE_Magic_Bmap_Obscurite_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="サージ" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Nature_Hit" SoundLabel="SE_Magic_Bmap_Surge_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ファイアー" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Fire_Hit" SoundLabel="SE_Magic_Bmap_Fire_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="サンダー" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Thunder_Hit" SoundLabel="SE_Magic_Bmap_Thunder_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ウィンド" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Wind_Hit" SoundLabel="SE_Magic_Bmap_Wind_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="エルサージ" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Nature_Hit" SoundLabel="SE_Magic_Bmap_Surge_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="エルファイアー" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Fire_Hit" SoundLabel="SE_Magic_Bmap_Fire_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="エルサンダー" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Thunder_Hit" SoundLabel="SE_Magic_Bmap_Thunder_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="エルウィンド" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Wind_Hit" SoundLabel="SE_Magic_Bmap_Wind_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ボルガノン" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Fire_Hit" SoundLabel="SE_Magic_Bmap_Fire_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="トロン" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Thunder_Hit" SoundLabel="SE_Magic_Bmap_Thunder_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="トロン_セピア専用" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Thunder_Hit" SoundLabel="SE_Magic_Bmap_Thunder_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="エクスカリバー" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Wind_Hit" SoundLabel="SE_Magic_Bmap_Wind_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="エクスカリバー_グリ専用" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Wind_Hit" SoundLabel="SE_Magic_Bmap_Wind_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ノヴァ" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Nature_Hit" SoundLabel="SE_Magic_Bmap_Surge_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="メティオ" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Fire_Hit" SoundLabel="SE_Magic_Bmap_Fire_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="オヴスキュリテ" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Dark_Hit" SoundLabel="SE_Magic_Bmap_Obscurite_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="オヴスキュリテ_M000" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Dark_Hit" SoundLabel="SE_Magic_Bmap_Obscurite_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="エリヴァーガル" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Dark_Hit" SoundLabel="SE_Magic_Bmap_Obscurite_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="サンダーストーム" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Thunder_Hit" SoundLabel="SE_Magic_Bmap_Thunder_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="レクスカリバー" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Wind_Hit" SoundLabel="SE_Magic_Bmap_Wind_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ライトニング" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Light_Hit" SoundLabel="SE_Magic_Bmap_Light_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="トロン_ルフレ専用" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Thunder_Hit" SoundLabel="SE_Magic_Bmap_Thunder_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ライブ" FilePath="Effects/BMap/Battle/Rod/Prefabs/Eff_Heal" SoundLabel="Play_Magic_Live" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="リライブ" FilePath="Effects/BMap/Battle/Rod/Prefabs/Eff_HiHeal" SoundLabel="SE_Magic_Bmap_HiHeal_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="リブロー" FilePath="Effects/BMap/Battle/Rod/Prefabs/Eff_FarHeal" SoundLabel="Play_Magic_Live" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="リカバー" FilePath="Effects/BMap/Battle/Rod/Prefabs/Eff_Recover" SoundLabel="SE_Magic_Bmap_RangeHeal_02" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="リザーブ" FilePath="Effects/BMap/Battle/Rod/Prefabs/Eff_WholeHeal" SoundLabel="SE_Magic_Bmap_RangeHeal_02" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="レスト" FilePath="Effects/BMap/Battle/Rod/Prefabs/Eff_Rest" SoundLabel="Play_Magic_Live" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ワープ" FilePath="Effects/BMap/Battle/Rod/Prefabs/Eff_Warp" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="リワープ" FilePath="Effects/BMap/Battle/Rod/Prefabs/Eff_ReWarp" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="レスキュー" FilePath="Effects/BMap/Battle/Rod/Prefabs/Eff_Rescue" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="レスキュー_M019" FilePath="Effects/BMap/Battle/Rod/Prefabs/Eff_Rescue" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ドロー" FilePath="Effects/BMap/Battle/Rod/Prefabs/Eff_Draw" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="トーチ" FilePath="Effects/BMap/Battle/Rod/Prefabs/Eff_TorchRod" SoundLabel="SE_Magic_Bmap_Torch_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="フリーズ" FilePath="Effects/BMap/Battle/Rod/Prefabs/Eff_Freeze" SoundLabel="SE_Magic_Bmap_Interference_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="フリーズ_S010" FilePath="Effects/BMap/Battle/Rod/Prefabs/Eff_Freeze" SoundLabel="SE_Magic_Bmap_Interference_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="サイレス" FilePath="Effects/BMap/Battle/Rod/Prefabs/Eff_Silence" SoundLabel="SE_Magic_Bmap_Interference_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="サイレス_S010" FilePath="Effects/BMap/Battle/Rod/Prefabs/Eff_Silence" SoundLabel="SE_Magic_Bmap_Interference_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="アイスロック" FilePath="Effects/BMap/Battle/Rod/Prefabs/Eff_Freeze" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="コラプス" FilePath="Effects/BMap/Battle/Rod/Prefabs/Eff_Freeze" SoundLabel="SE_Magic_Bmap_Collapse" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="コラプス_M014" FilePath="Effects/BMap/Battle/Rod/Prefabs/Eff_Freeze" SoundLabel="SE_Magic_Bmap_Collapse" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="コラプス_S010" FilePath="Effects/BMap/Battle/Rod/Prefabs/Eff_Freeze" SoundLabel="SE_Magic_Bmap_Collapse" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ノードゥス" FilePath="Effects/BMap/Battle/Rod/Prefabs/Eff_SRod" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="フリズスキャルヴ" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Nature_Hit" SoundLabel="SE_Magic_Bmap_Surge_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="マジックシールド" FilePath="Effects/Bmap/Battle/Prefabs/Eff_Rod_G004" SoundLabel="SE_Magic_Bmap_RangeHeal_02" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ワープイン" FilePath="Effects/BMap/Battle/Rod/Prefabs/Eff_Warp_In" SoundLabel="SE_Magic_Bmap_Warp_02" Type="0" Resident="0" DelayTime="0" WaitTime="0.25" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ワープアウト" FilePath="Effects/BMap/Battle/Rod/Prefabs/Eff_Warp_Out" SoundLabel="SE_Magic_Bmap_Warp_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ワープイン_闇" FilePath="Effects/BMap/Battle/Rod/Prefabs/Eff_Warp_In_Dark" SoundLabel="SE_Magic_Bmap_Warp_Evil_02" Type="0" Resident="0" DelayTime="0" WaitTime="0.25" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ワープアウト_闇" FilePath="Effects/BMap/Battle/Rod/Prefabs/Eff_Warp_Out_Dark" SoundLabel="SE_Magic_Bmap_Warp_Evil_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ワープイン_W2H2" FilePath="Effects/BMap/Battle/Rod/Prefabs/Eff_Warp_In_W2H2" SoundLabel="SE_Magic_Bmap_Warp_02" Type="0" Resident="0" DelayTime="0" WaitTime="0.25" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ワープアウト_W2H2" FilePath="Effects/BMap/Battle/Rod/Prefabs/Eff_Warp_Out_W2H2" SoundLabel="SE_Magic_Bmap_Warp_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="火のブレス" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Fire_Hit" SoundLabel="SE_Magic_Bmap_Fire_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="炎塊" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Fire_Hit" SoundLabel="SE_Magic_Bmap_Fire_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ソンブル_物理攻撃" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Dark_Hit" SoundLabel="SE_Magic_Bmap_Obscurite_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0.2" ShakeMagnitude="0.3" />
+			<Param Eid="ソンブル_魔法攻撃" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Dark_Hit" SoundLabel="SE_Magic_Bmap_Obscurite_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0.2" ShakeMagnitude="0.3" />
+			<Param Eid="ソンブル_回転アタック" FilePath="Effects/BMap/Field/Gimmick/M026/Prefabs/Eff_Sdk_Circle_00" SoundLabel="SE_Effect_Sdk1AT_Rolling" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0.2" ShakeMagnitude="0.4" />
+			<Param Eid="ソンブル_ビーム" FilePath="Effects/BMap/Field/Gimmick/M026/Prefabs/Eff_Sdk_Beam_01" SoundLabel="SE_Effect_Sdk1AT_BMAP_Beam" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ソンブル_エンゲージブレイク" FilePath="Effects/BMap/Field/Gimmick/M026/Prefabs/Eff_EngageBreak_00" SoundLabel="SE_Magic_Bmap_Obscurite_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="チキ_ブレス" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Fire_Hit" SoundLabel="SE_Magic_Bmap_Fire_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="チキ_ブレス_竜族" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Nature_Hit" SoundLabel="SE_Magic_Bmap_Surge_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="チキ_ブレス_重装" FilePath="Effects/Bmap/Battle/Prefabs/Eff_Ice_Hit" SoundLabel="SE_Eff_Bmap_BGType_Ice_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="チキ_ブレス_飛行" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Fire_Hit" SoundLabel="SE_Magic_Bmap_Fire_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="チキ_ブレス_魔法" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Dark_Hit" SoundLabel="SE_Magic_Bmap_Obscurite_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="氷のブレス" FilePath="Effects/Bmap/Battle/Prefabs/Eff_Ice_Hit" SoundLabel="SE_Eff_Bmap_BGType_Ice_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="瘴気のブレス" FilePath="Effects/Bmap/Battle/Prefabs/Eff_DarkAura_Hit" SoundLabel="SE_Effect_Skill_Poison_00_BMap" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="氷塊" FilePath="Effects/Bmap/Battle/Prefabs/Eff_Ice_Hit" SoundLabel="SE_Eff_Bmap_BGType_Ice_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="瘴気の塊" FilePath="Effects/Bmap/Battle/Prefabs/Eff_DarkAura_Hit" SoundLabel="SE_Effect_Skill_Poison_00_BMap" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="汎用回復" FilePath="Effects/BMap/Battle/Item/Prefabs/Eff_ItemHeal_00" SoundLabel="Play_Magic_Live" Type="0" Resident="1" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="特効薬" FilePath="Effects/BMap/Battle/Item/Prefabs/Eff_ItemHeal_00" SoundLabel="Play_Magic_Live" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="傷薬" FilePath="Effects/BMap/Battle/Item/Prefabs/Eff_ItemHeal_00" SoundLabel="Play_Magic_Live" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="毒消し" FilePath="Effects/BMap/Battle/Rod/Prefabs/Eff_Rest" SoundLabel="Play_Magic_Live" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="聖水" FilePath="Effects/BMap/Battle/Rod/Prefabs/Eff_Rest" SoundLabel="Play_Magic_Live" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="たいまつ" FilePath="Effects/BMap/Battle/Rod/Prefabs/Eff_TorchRod" SoundLabel="MapObj_BaleFire_On" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="天使の衣" FilePath="Effects/BMap/Battle/Status/Prefabs/Eff_PowerUp" SoundLabel="Status_Up" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="力のしずく" FilePath="Effects/BMap/Battle/Status/Prefabs/Eff_PowerUp" SoundLabel="Status_Up" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="精霊の粉" FilePath="Effects/BMap/Battle/Status/Prefabs/Eff_PowerUp" SoundLabel="Status_Up" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="秘伝の書" FilePath="Effects/BMap/Battle/Status/Prefabs/Eff_PowerUp" SoundLabel="Status_Up" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="はやての羽" FilePath="Effects/BMap/Battle/Status/Prefabs/Eff_PowerUp" SoundLabel="Status_Up" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="女神の像" FilePath="Effects/BMap/Battle/Status/Prefabs/Eff_PowerUp" SoundLabel="Status_Up" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="竜の盾" FilePath="Effects/BMap/Battle/Status/Prefabs/Eff_PowerUp" SoundLabel="Status_Up" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="魔よけ" FilePath="Effects/BMap/Battle/Status/Prefabs/Eff_PowerUp" SoundLabel="Status_Up" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ブーツ" FilePath="Effects/BMap/Battle/Status/Prefabs/Eff_PowerUp" SoundLabel="Status_Up" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="HPの薬" FilePath="Effects/BMap/Battle/Status/Prefabs/Eff_PowerUp" SoundLabel="Status_Up" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="力の薬" FilePath="Effects/BMap/Battle/Status/Prefabs/Eff_PowerUp" SoundLabel="Status_Up" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="技の薬" FilePath="Effects/BMap/Battle/Status/Prefabs/Eff_PowerUp" SoundLabel="Status_Up" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="速さの薬" FilePath="Effects/BMap/Battle/Status/Prefabs/Eff_PowerUp" SoundLabel="Status_Up" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="幸運の薬" FilePath="Effects/BMap/Battle/Status/Prefabs/Eff_PowerUp" SoundLabel="Status_Up" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="守備の薬" FilePath="Effects/BMap/Battle/Status/Prefabs/Eff_PowerUp" SoundLabel="Status_Up" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="魔力の薬" FilePath="Effects/BMap/Battle/Status/Prefabs/Eff_PowerUp" SoundLabel="Status_Up" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="魔防の薬" FilePath="Effects/BMap/Battle/Status/Prefabs/Eff_PowerUp" SoundLabel="Status_Up" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="マスタープルフ" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Light_Hit" SoundLabel="SE_Magic_Bmap_Light_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="チェンジプルフ" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Light_Hit" SoundLabel="SE_Magic_Bmap_Light_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="エンゲージOn" FilePath="Effects/BMap/Emblem/Engage/Prefabs/Eff_Engage_ON" SoundLabel="SE_Effect_Engage_On" Type="0" Resident="1" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="エンゲージOff" FilePath="Effects/BMap/Emblem/Engage/Prefabs/Eff_Engage_OFF" SoundLabel="SE_Effect_Engage_Off" Type="0" Resident="1" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="闇エンゲージOn" FilePath="Effects/BMap/Emblem/Engage/Prefabs/Eff_Enemy_Engage_ON" SoundLabel="SE_Eff_loseControl" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="エンゲージカウント回復マス" FilePath="Effects/BMap/Emblem/Engage/Prefabs/Eff_EngageCount_HealArea" SoundLabel="" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="エンゲージカウント玉" FilePath="Effects/BMap/Emblem/Engage/Prefabs/Eff_EngageCount_00" SoundLabel="" Type="1" Resident="1" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="紋章士On" FilePath="Effects/BMap/Emblem/Engage/Prefabs/Eff_Emblem_ON" SoundLabel="Play_God_Appear" Type="0" Resident="1" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="紋章士Off" FilePath="Effects/BMap/Emblem/Engage/Prefabs/Eff_Emblem_OFF" SoundLabel="Play_God_Disappear" Type="0" Resident="1" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="エンゲージ技_発射_シグルド" FilePath="Effects/BMap/Emblem/EngageSkill/EngageSkill_Sig/Prefabs/EngageSkill_Sig_00" SoundLabel="EngageSkill_Sig_00" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="エンゲージ技_発射_ロイ" FilePath="Effects/BMap/Emblem/EngageSkill/EngageSkill_Roy/Prefabs/EngageSkill_Roy_00" SoundLabel="EngageSkill_Roy_00" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="エンゲージ技_発射_ミカヤ" FilePath="Effects/BMap/Emblem/EngageSkill/EngageSkill_Mic/Prefabs/EngageSkill_Mic_00" SoundLabel="EngageSkill_Mic_00" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="エンゲージ技_発射_アイク" FilePath="Effects/BMap/Emblem/EngageSkill/EngageSkill_Ike/Prefabs/EngageSkill_Ike_00" SoundLabel="EngageSkill_Ike_00" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="エンゲージ技_発射_カムイ" FilePath="Effects/BMap/Emblem/EngageSkill/EngageSkill_Cor/Prefabs/EngageSkill_Cor_00" SoundLabel="EngageSkill_Cor_00" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="エンゲージ技_発射_ベレト" FilePath="Effects/BMap/Emblem/EngageSkill/EngageSkill_Byl/Prefabs/EngageSkill_Byl_00" SoundLabel="EngageSkill_Byl_00" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="エンゲージ技_発射_G1" FilePath="Effects/Bmap/EngageSkill/Prefabs/EngageSkill_G1_00" SoundLabel="SE_DLC_Eff_Tiki_Dragon_Appear" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="エンゲージ技_発射_G4a" FilePath="Effects/Bmap/EngageSkill/Prefabs/EngageSkill_G4_00" SoundLabel="SE_DLC_Engage_G4a_Effect01_Bmap" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="エンゲージ技_発射_G4b" FilePath="Effects/Bmap/EngageSkill/Prefabs/EngageSkill_G4_01" SoundLabel="SE_DLC_Engage_G4a_Effect01_Bmap" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="エンゲージ技_発射_G6" FilePath="Effects/Bmap/EngageSkill/Prefabs/EngageSkill_G6_00" SoundLabel="EngageSkill_Sig_00" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="エンゲージ技_発射_G5" FilePath="Effects/Bmap/EngageSkill/Prefabs/EngageSkill_G5_00" SoundLabel="EngageSkill_Roy_00" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="エンゲージ技_発射_G0" FilePath="Effects/Bmap/EngageSkill/Prefabs/EngageSkill_G0_00" SoundLabel="SE_DLC_Engage_Thr1_Effect01_Bmap" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="セリカ_エンジェル" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Fire_Hit" SoundLabel="SE_Magic_Bmap_Fire_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="セリカ_エンジェル_闇" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Dark_Hit" SoundLabel="SE_Magic_Bmap_Obscurite_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="セリカ_リカバー" FilePath="Effects/BMap/Battle/Rod/Prefabs/Eff_Recover" SoundLabel="Play_Magic_Live" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="セリカ_ライナロック" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Fire_Hit" SoundLabel="SE_Magic_Bmap_Fire_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ミカヤ_シャイン" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Light_Hit" SoundLabel="SE_Magic_Bmap_Light_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ミカヤ_リザイア" FilePath="Effects/BMap/Battle/Rod/Prefabs/Eff_HiHeal" SoundLabel="Play_Magic_Live" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ミカヤ_セイニー" FilePath="Effects/BMap/Battle/Magic/Prefabs/Eff_Light_Hit" SoundLabel="SE_Magic_Bmap_Light_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="癒しの手" FilePath="Effects/BMap/Battle/Rod/Prefabs/Eff_WholeHeal" SoundLabel="SE_Magic_Bmap_RangeHeal_02" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="癒しの手_重装" FilePath="Effects/BMap/Battle/Rod/Prefabs/Eff_WholeHeal" SoundLabel="SE_Magic_Bmap_RangeHeal_02" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="癒しの手_気功" FilePath="Effects/BMap/Battle/Rod/Prefabs/Eff_WholeHeal" SoundLabel="SE_Magic_Bmap_RangeHeal_02" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="宝箱開閉" FilePath="" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ドア開閉" FilePath="" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="索敵接触" FilePath="Effects/BMap/Field/Search/Prefabs/Eff_Contact_00" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="屋根(開閉)" FilePath="" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="海面上下" FilePath="" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="指輪集め_シグルド" FilePath="Effects/Field/M022/Prefabs/Eff_Ring_Sig_00" SoundLabel="" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="指輪集め_セリカ" FilePath="Effects/Field/M022/Prefabs/Eff_Ring_Cel_00" SoundLabel="" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="指輪集め_リーフ" FilePath="Effects/Field/M022/Prefabs/Eff_Ring_Lei_00" SoundLabel="" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="指輪集め_ロイ" FilePath="Effects/Field/M022/Prefabs/Eff_Ring_Roy_00" SoundLabel="" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="指輪集め_リン" FilePath="Effects/Field/M022/Prefabs/Eff_Ring_Lyn_00" SoundLabel="" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="指輪集め_エイリーク" FilePath="Effects/Field/M022/Prefabs/Eff_Ring_Eir_00" SoundLabel="" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="指輪集め_アイク" FilePath="Effects/Field/M022/Prefabs/Eff_Ring_Ike_00" SoundLabel="" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="指輪集め_ミカヤ" FilePath="Effects/Field/M022/Prefabs/Eff_Ring_Mic_00" SoundLabel="" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="指輪集め_ルキナ" FilePath="Effects/Field/M022/Prefabs/Eff_Ring_Luc_00" SoundLabel="" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="指輪集め_カムイ" FilePath="Effects/Field/M022/Prefabs/Eff_Ring_Cor_00" SoundLabel="" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="指輪集め_ベレト" FilePath="Effects/Field/M022/Prefabs/Eff_Ring_Byl_00" SoundLabel="" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="邪竜紋_準備" FilePath="Effects/BMap/Field/Gimmick/M023/Prefabs/Eff_DragonStone_Charge" SoundLabel="SE_Eff_DragonStone_Charge" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="邪竜紋_発動" FilePath="Effects/BMap/Field/Gimmick/M023/Prefabs/Eff_DragonStone_Trigger" SoundLabel="SE_Eff_DragonStone_Shot" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0.3" ShakeMagnitude="0.4" />
+			<Param Eid="邪竜紋_破壊" FilePath="" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="火山弾_発射" FilePath="Effects/BMap/Field/Gimmick/M023/Prefabs/Eff_VolcanoBall_Shot" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="1" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="火山弾_ヒット" FilePath="Effects/BMap/Field/Gimmick/M023/Prefabs/Eff_VolcanoBall_Hit" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0.2" ShakeMagnitude="0.5" />
+			<Param Eid="竜脈_発射" FilePath="Effects/BMap/Field/Gimmick/S007/Prefabs/Eff_Gimmick_River_Shoot" SoundLabel="SE_Eff_DragonVein_01" Type="0" Resident="0" DelayTime="0" WaitTime="1" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="竜脈_ヒット" FilePath="Effects/BMap/Field/Gimmick/S007/Prefabs/Eff_Gimmick_River_Hit" SoundLabel="SE_Eff_DragonVein_02" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0.2" ShakeMagnitude="0.5" />
+			<Param Eid="雪崩_発射" FilePath="Effects/BMap/Field/Gimmick/M024/Prefabs/Eff_SnowWave_00" SoundLabel="SE_Evt_M24_SnowSlide_Bmap" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0.2" ShakeMagnitude="0.3" />
+			<Param Eid="エンゲージビーム_準備" FilePath="Effects/BMap/Field/Gimmick/M025/Prefabs/Eff_EngageBeam_00" SoundLabel="SE_Eff_Bmap_LUMIERE_Beam_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="エンゲージビーム_発射" FilePath="Effects/BMap/Field/Gimmick/M025/Prefabs/Eff_EngageBeam_01" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="大柱バリア" FilePath="Effects/BMap/Field/Gimmick/M025/Prefabs/Eff_EngageBeam_Guard_00" SoundLabel="SE_Eff_Bmap_LUMIERE_Beam_Guard" Type="0" Resident="0" DelayTime="0" WaitTime="1" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ソンブルバリア_Lv4" FilePath="Effects/BMap/Field/Gimmick/M026/Prefabs/Eff_DarkBarrier_00" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ソンブルバリア_Lv3" FilePath="Effects/BMap/Field/Gimmick/M026/Prefabs/Eff_DarkBarrier_01" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ソンブルバリア_Lv2" FilePath="Effects/BMap/Field/Gimmick/M026/Prefabs/Eff_DarkBarrier_02" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ソンブルバリア_Lv1" FilePath="Effects/BMap/Field/Gimmick/M026/Prefabs/Eff_DarkBarrier_03" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ソンブルバリア_破壊" FilePath="Effects/BMap/Field/Gimmick/M026/Prefabs/Eff_DarkBarrier_Break" SoundLabel="SE_Effect_Sdk1AT_Shield_Break" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0.2" ShakeMagnitude="0.3" />
+			<Param Eid="ソンブル_消滅" FilePath="" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="魔法陣" FilePath="Effects/BMap/Field/Gimmick/M026/Prefabs/Eff_BG_MagicCircle_00" SoundLabel="" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="闇紋章士_召喚" FilePath="" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="闇紋章士_消滅" FilePath="" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ソンブル_範囲物理攻撃" FilePath="Effects/BMap/Field/Gimmick/M026/Prefabs/Eff_Sdk_Circle_00" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ソンブルビーム_準備" FilePath="Effects/BMap/Field/Gimmick/M026/Prefabs/Eff_Sdk_Beam_00" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ソンブルビーム_発射" FilePath="Effects/BMap/Field/Gimmick/M026/Prefabs/Eff_Sdk_Beam_01" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="エンゲージブレイク_発動" FilePath="Effects/BMap/Field/Gimmick/M026/Prefabs/Eff_EngageBreak_00" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="エンゲージブレイク_ヒット" FilePath="Effects/BMap/Field/Gimmick/M026/Prefabs/Eff_EngageBreak_01" SoundLabel="SE_Sdk1AT_EngageBreak_Break" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0.2" ShakeMagnitude="0.3" />
+			<Param Eid="連動破壊" FilePath="" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="水晶破壊" FilePath="" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="干上がり" FilePath="" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="橋起動" FilePath="" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="橋が落ちる" FilePath="" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ワープ演出" FilePath="" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="加勢ポイント_発動" FilePath="Effects/BMap/Field/Gimmick/SummonFloor/Prefabs/Eff_SummonFloor_Trigger" SoundLabel="SE_Eff_Aid_01" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="加勢ポイント_ループ" FilePath="Effects/BMap/Field/Gimmick/SummonFloor/Prefabs/Eff_SummonFloor" SoundLabel="" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ドロップアイテム" FilePath="Effects/Field/Prefabs/Eff_DropItem_00" SoundLabel="" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="魔法陣_G001" FilePath="Effects/Field/Prefabs/Eff_G001_BG_MagicCircle_00" SoundLabel="" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="毒ガス_発射W1" FilePath="Effects/Bmap/Gimmick/Prefabs/Eff_G002_Poison_Shot_W1" SoundLabel="SE_DLC_G002_Poison_Shot" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="毒ガス_発射W2" FilePath="Effects/Bmap/Gimmick/Prefabs/Eff_G002_Poison_Shot_W2" SoundLabel="SE_DLC_G002_Poison_Shot" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="毒ガス_発射W3" FilePath="Effects/Bmap/Gimmick/Prefabs/Eff_G002_Poison_Shot_W3" SoundLabel="SE_DLC_G002_Poison_Shot" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="毒ガス_発射W4" FilePath="Effects/Bmap/Gimmick/Prefabs/Eff_G002_Poison_Shot_W4" SoundLabel="SE_DLC_G002_Poison_Shot" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="毒ガス_発射W5" FilePath="Effects/Bmap/Gimmick/Prefabs/Eff_G002_Poison_Shot_W5" SoundLabel="SE_DLC_G002_Poison_Shot" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="起動盤_移動前" FilePath="Effects/Bmap/Gimmick/Prefabs/Eff_G003_Land_Trigger" SoundLabel="SE_DLC_Eff_G003_Land_Trigger" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0.3" ShakeMagnitude="0.4" />
+			<Param Eid="起動盤_移動後" FilePath="Effects/Bmap/Gimmick/Prefabs/Eff_G003_Land_Combine" SoundLabel="SE_DLC_Eff_G003_Land_Combine" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0.6" ShakeMagnitude="0.6" />
+			<Param Eid="火山弾_噴出_G004" FilePath="Effects/Bmap/Gimmick/Prefabs/Eff_G004_VolcanoBall_Start" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="1" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="火山弾_発射_G004" FilePath="Effects/Bmap/Gimmick/Prefabs/Eff_G004_VolcanoBall_Shot" SoundLabel="SE_Eff_VolcanoBall_Shot" Type="0" Resident="0" DelayTime="0" WaitTime="1" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="火山弾_ヒット_G004" FilePath="Effects/Bmap/Gimmick/Prefabs/Eff_G004_VolcanoBall_Hit" SoundLabel="SE_Eff_VolcanoBall_Hit" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0.2" ShakeMagnitude="0.5" />
+			<Param Eid="黒煙噴出" FilePath="Effects/Bmap/Gimmick/Prefabs/Eff_G004_Smoke_00" SoundLabel="SE_DLC_Eff_G004_Smoke_00" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="水球_発動" FilePath="Effects/Bmap/Gimmick/Prefabs/Eff_G005_Water_Trigger" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="1" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="水球_発射" FilePath="Effects/Bmap/Gimmick/Prefabs/Eff_G005_Water_Shot" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="1" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="水球_ヒット" FilePath="Effects/Bmap/Gimmick/Prefabs/Eff_G005_Water_Hit" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0.2" ShakeMagnitude="0.3" />
+			<Param Eid="水晶修復" FilePath="Effects/Bmap/Gimmick/Prefabs/Eff_G006_BreakCrystal_Return" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="水晶障壁_破壊" FilePath="Effects/Bmap/Gimmick/Prefabs/Eff_G006_MagicCircle_Break" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="水晶障壁_ループ" FilePath="Effects/Bmap/Gimmick/Prefabs/Eff_G006_MagicCircle_Loop" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="魔法障壁_展開_E005" FilePath="Effects/Bmap/Gimmick/Prefabs/Eff_E005_MagicBarrier" SoundLabel="" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="魔法障壁_破壊_E005" FilePath="Effects/Bmap/Gimmick/Prefabs/Eff_E005_MagicBarrier_Break" SoundLabel="SE_DLC_Eff_E005_MagicBarrier_Break" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="即死攻撃範囲_エリア1" FilePath="Effects/UI/Prefabs/Eff_DeathRange_Area_01" SoundLabel="" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="即死攻撃範囲_エリア2" FilePath="Effects/UI/Prefabs/Eff_DeathRange_Area_02" SoundLabel="" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="即死攻撃範囲_エリア3" FilePath="Effects/UI/Prefabs/Eff_DeathRange_Area_03" SoundLabel="" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="即死攻撃範囲_エリア4" FilePath="Effects/UI/Prefabs/Eff_DeathRange_Area_04" SoundLabel="" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="即死攻撃範囲_エリア5" FilePath="Effects/UI/Prefabs/Eff_DeathRange_Area_05" SoundLabel="" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="即死攻撃範囲_エリア6" FilePath="Effects/UI/Prefabs/Eff_DeathRange_Area_06" SoundLabel="" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="吸収即死範囲_下" FilePath="Effects/UI/Prefabs/Eff_DeathRange_Area_D" SoundLabel="" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="吸収即死範囲_右" FilePath="Effects/UI/Prefabs/Eff_DeathRange_Area_R" SoundLabel="" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="吸収即死範囲_左" FilePath="Effects/UI/Prefabs/Eff_DeathRange_Area_L" SoundLabel="" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="召喚渦" FilePath="Effects/Bmap/Gimmick/Prefabs/Eff_E006_Vortex" SoundLabel="SE_Eff_Aid_01" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="崩壊_開始" FilePath="Effects/Bmap/Gimmick/Prefabs/Eff_E006_Land_Trigger" SoundLabel="SE_DLC_IL_Rush" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="1" ShakeMagnitude="1" />
+			<Param Eid="崩壊_吸収" FilePath="Effects/Bmap/Gimmick/Prefabs/Eff_E006_RushSuck" SoundLabel="SE_DLC_IL_Absorption2" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="吸収攻撃" FilePath="Effects/Bmap/Gimmick/Prefabs/Eff_E006_SuckAttack" SoundLabel="SE_DLC_IL_Absorption2" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="吸収攻撃_発動" FilePath="Effects/Bmap/Gimmick/Prefabs/Eff_E006_SuckTrigger" SoundLabel="SE_DLC_IL_Absorption1" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="薙ぎ払いビーム_発射" FilePath="Effects/Bmap/Gimmick/Prefabs/Eff_E006_Beam_00" SoundLabel="SE_DLC_IL_Nagi" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="1" ShakeMagnitude="0.5" />
+			<Param Eid="竜化_G1" FilePath="Effects/Bmap/EngageSkill/Prefabs/Eff_DragonMode_00" SoundLabel="SE_DLC_Eff_Tiki_Dragon_Appear" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="竜化_On" FilePath="Effects/Bmap/Battle/Prefabs/Eff_DragonMode_On" SoundLabel="SE_DLC_Eff_EDragon_Appear" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="竜化_Off" FilePath="Effects/Bmap/Battle/Prefabs/Eff_DragonMode_Off" SoundLabel="" Type="0" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="戦死者の魂_青" FilePath="Effects/BMap/Online/Prefabs/Eff_MapSoul_00" SoundLabel="" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="戦死者の魂_赤" FilePath="Effects/BMap/Online/Prefabs/Eff_MapSoul_01" SoundLabel="" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="霧" FilePath="Effects/Field/Common/BGType/Prefabs/Eff_BGType_Fog_00" SoundLabel="SE_Eff_Bmap_BGType_Mist_01" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="炎上" FilePath="Effects/Field/Common/BGType/Prefabs/Eff_BGType_Fire_00" SoundLabel="SE_Eff_Bmap_BGType_Fire_01" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="瘴気" FilePath="Effects/Field/Common/BGType/Prefabs/Eff_BGType_DarkAura_00" SoundLabel="SE_Eff_Bmap_BGType_DarkAura_01" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="アロマ" FilePath="Effects/Field/Common/BGType/Prefabs/Eff_BGType_Aroma_00" SoundLabel="SE_Eff_Bmap_BGType_Heal_01" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ブロック" FilePath="Effects/Field/Common/BGType/Prefabs/Eff_BGType_Block_00" SoundLabel="SE_Eff_Bmap_BGType_Ice_01" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="水溜まり" FilePath="Effects/Field/Common/BGType/Prefabs/Eff_BGType_Puddle_00" SoundLabel="SE_Eff_Bmap_BGType_Water_01" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="ツタ" FilePath="Effects/Field/Common/BGType/Prefabs/Eff_BGType_Wood_00" SoundLabel="SE_Eff_Bmap_BGType_Natural_01" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="照明" FilePath="Effects/Field/Common/BGType/Prefabs/Eff_BGType_Shine_00" SoundLabel="SE_Magic_Bmap_Torch_01" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="土柱" FilePath="Effects/Field/Common/BGType/Prefabs/Eff_BGType_Stone_00" SoundLabel="SE_Eff_Bmap_BGType_Dirt_01" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="氷床" FilePath="Effects/Field/Prefabs/Eff_BGType_Ice_00" SoundLabel="SE_Eff_Bmap_BGType_Ice_01" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+			<Param Eid="黒煙" FilePath="Effects/Field/Prefabs/Eff_BGType_Smoke_00" SoundLabel="SE_Eff_Bmap_BGType_Mist_01" Type="1" Resident="0" DelayTime="0" WaitTime="0" ShakeTime="0" ShakeMagnitude="0" />
+		</Data>
+	</Sheet>
+	<Sheet Name="シーケンス一覧" Count="64">
+		<Header>
+			<Param Name="シーケンス名" Ident="Sequence" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="発動エフェクト" Ident="Active" Type="string" Min="" Max="" Chg="" />
+			<Param Name="発射エフェクト" Ident="Shoot" Type="string" Min="" Max="" Chg="" />
+			<Param Name="ヒットエフェクト" Ident="Hit" Type="string" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Sequence="エフェクト無し" Active="" Shoot="" Hit="" />
+			<Param Sequence="汎用スキル" Active="汎用スキル_発動" Shoot="" Hit="" />
+			<Param Sequence="汎用ヒットスキル" Active="" Shoot="" Hit="汎用スキル_ヒット" />
+			<Param Sequence="シンクロスキル" Active="シンクロスキル_発動" Shoot="" Hit="" />
+			<Param Sequence="エンゲージスキル" Active="エンゲージスキル_発動" Shoot="" Hit="" />
+			<Param Sequence="毒ヒットスキル" Active="" Shoot="毒スキルヒット" Hit="毒スキルヒット" />
+			<Param Sequence="汎用ステータス上昇" Active="" Shoot="" Hit="ステータス上昇" />
+			<Param Sequence="汎用ステータス下降" Active="" Shoot="" Hit="ステータス下降" />
+			<Param Sequence="汎用回復スキル" Active="" Shoot="" Hit="汎用回復" />
+			<Param Sequence="汎用スキル_発動ヒット" Active="汎用スキル_発動" Shoot="" Hit="汎用スキル_ヒット" />
+			<Param Sequence="汎用スキル_発動ステータス下降" Active="汎用スキル_発動" Shoot="" Hit="ステータス下降" />
+			<Param Sequence="汎用スキル_発動ステータス上昇" Active="汎用スキル_発動" Shoot="" Hit="ステータス上昇" />
+			<Param Sequence="シンクロスキル_発動ヒット" Active="シンクロスキル_発動" Shoot="" Hit="汎用スキル_ヒット" />
+			<Param Sequence="シンクロスキル_発動ステータス下降" Active="シンクロスキル_発動" Shoot="" Hit="ステータス下降" />
+			<Param Sequence="シンクロスキル_発動ステータス上昇" Active="シンクロスキル_発動" Shoot="" Hit="ステータス上昇" />
+			<Param Sequence="エンゲージスキル_発動ヒット" Active="エンゲージスキル_発動" Shoot="" Hit="汎用スキル_ヒット" />
+			<Param Sequence="エンゲージスキル_発動ステータス下降" Active="エンゲージスキル_発動" Shoot="" Hit="ステータス下降" />
+			<Param Sequence="エンゲージスキル_発動ステータス上昇" Active="エンゲージスキル_発動" Shoot="" Hit="ステータス上昇" />
+			<Param Sequence="魔砲台無" Active="魔砲台無_発動" Shoot="魔砲台無_発射" Hit="魔砲台無_ヒット" />
+			<Param Sequence="魔砲台炎" Active="魔砲台炎_発動" Shoot="魔砲台炎_発射" Hit="魔砲台炎_ヒット" />
+			<Param Sequence="魔砲台雷" Active="魔砲台雷_発動" Shoot="魔砲台雷_発射" Hit="魔砲台雷_ヒット" />
+			<Param Sequence="魔砲台風" Active="魔砲台風_発動" Shoot="魔砲台風_発射" Hit="魔砲台風_ヒット" />
+			<Param Sequence="魔砲台闇" Active="魔砲台闇_発動" Shoot="魔砲台闇_発射" Hit="魔砲台闇_ヒット" />
+			<Param Sequence="魔砲台光" Active="魔砲台光_発動" Shoot="魔砲台光_発射" Hit="魔砲台光_ヒット" />
+			<Param Sequence="火炎砲台" Active="" Shoot="火炎砲台_発射" Hit="火炎砲台_ヒット" />
+			<Param Sequence="弓砲台" Active="" Shoot="弓砲台_発射" Hit="弓砲台_ヒット" />
+			<Param Sequence="全弾発射" Active="" Shoot="" Hit="弾_全弾発射_ヒット" />
+			<Param Sequence="汎用エンゲージ技" Active="汎用スキル_発動" Shoot="" Hit="汎用スキル_ヒット" />
+			<Param Sequence="エンゲージ技_シグルド" Active="汎用スキル_発動" Shoot="エンゲージ技_発射_シグルド" Hit="汎用スキル_ヒット" />
+			<Param Sequence="エンゲージ技_ロイ" Active="汎用スキル_発動" Shoot="エンゲージ技_発射_ロイ" Hit="汎用スキル_ヒット" />
+			<Param Sequence="エンゲージ技_ミカヤ" Active="汎用スキル_発動" Shoot="エンゲージ技_発射_ミカヤ" Hit="汎用スキル_ヒット" />
+			<Param Sequence="エンゲージ技_アイク" Active="汎用スキル_発動" Shoot="エンゲージ技_発射_アイク" Hit="汎用スキル_ヒット" />
+			<Param Sequence="エンゲージ技_カムイ" Active="汎用スキル_発動" Shoot="エンゲージ技_発射_カムイ" Hit="汎用スキル_ヒット" />
+			<Param Sequence="エンゲージ技_ベレト" Active="汎用スキル_発動" Shoot="エンゲージ技_発射_ベレト" Hit="汎用スキル_ヒット" />
+			<Param Sequence="エンゲージ技_G1" Active="汎用スキル_発動" Shoot="エンゲージ技_発射_G1" Hit="汎用スキル_ヒット" />
+			<Param Sequence="エンゲージ技_G4a" Active="汎用スキル_発動" Shoot="エンゲージ技_発射_G4a" Hit="汎用スキル_ヒット" />
+			<Param Sequence="エンゲージ技_G4b" Active="汎用スキル_発動" Shoot="エンゲージ技_発射_G4b" Hit="汎用スキル_ヒット" />
+			<Param Sequence="エンゲージ技_G6" Active="汎用スキル_発動" Shoot="エンゲージ技_発射_G6" Hit="汎用スキル_ヒット" />
+			<Param Sequence="エンゲージ技_G5" Active="汎用スキル_発動" Shoot="エンゲージ技_発射_G5" Hit="汎用スキル_ヒット" />
+			<Param Sequence="エンゲージ技_G0" Active="汎用スキル_発動" Shoot="エンゲージ技_発射_G0" Hit="汎用スキル_ヒット" />
+			<Param Sequence="火山弾" Active="" Shoot="火山弾_発射" Hit="火山弾_ヒット" />
+			<Param Sequence="雪崩" Active="" Shoot="雪崩_発射" Hit="" />
+			<Param Sequence="エンゲージビーム" Active="エンゲージビーム_準備" Shoot="エンゲージビーム_発射" Hit="" />
+			<Param Sequence="大柱バリア" Active="大柱バリア" Shoot="" Hit="" />
+			<Param Sequence="ソンブルバリア_Lv4" Active="" Shoot="" Hit="ソンブルバリア_Lv4" />
+			<Param Sequence="ソンブルバリア_Lv3" Active="" Shoot="" Hit="ソンブルバリア_Lv3" />
+			<Param Sequence="ソンブルバリア_Lv2" Active="" Shoot="" Hit="ソンブルバリア_Lv2" />
+			<Param Sequence="ソンブルバリア_Lv1" Active="" Shoot="" Hit="ソンブルバリア_Lv1" />
+			<Param Sequence="ソンブルバリア_破壊" Active="" Shoot="" Hit="ソンブルバリア_破壊" />
+			<Param Sequence="ソンブル_消滅" Active="" Shoot="" Hit="" />
+			<Param Sequence="魔法陣" Active="" Shoot="" Hit="魔法陣" />
+			<Param Sequence="闇紋章士_召喚" Active="" Shoot="" Hit="" />
+			<Param Sequence="闇紋章士_消滅" Active="" Shoot="" Hit="" />
+			<Param Sequence="連動破壊" Active="" Shoot="" Hit="" />
+			<Param Sequence="水晶破壊" Active="" Shoot="" Hit="" />
+			<Param Sequence="カムイ竜脈" Active="" Shoot="竜脈_発射" Hit="竜脈_ヒット" />
+			<Param Sequence="橋起動" Active="" Shoot="" Hit="" />
+			<Param Sequence="橋が落ちる" Active="" Shoot="" Hit="" />
+			<Param Sequence="ワープ演出" Active="" Shoot="" Hit="" />
+			<Param Sequence="ドロップアイテム" Active="" Shoot="" Hit="ドロップアイテム" />
+			<Param Sequence="魔法陣_G001" Active="" Shoot="" Hit="魔法陣_G001" />
+			<Param Sequence="火山弾_G004" Active="" Shoot="火山弾_発射_G004" Hit="火山弾_ヒット_G004" />
+			<Param Sequence="水球" Active="" Shoot="水球_発射" Hit="水球_ヒット" />
+			<Param Sequence="起動盤" Active="" Shoot="起動盤_移動前" Hit="起動盤_移動後" />
+		</Data>
+	</Sheet>
+</Book>

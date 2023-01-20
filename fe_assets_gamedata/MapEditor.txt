@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Book Count="2">
+	<Sheet Name="配置オブジェクト" Count="25">
+		<Header>
+			<Param Name="出力先" Ident="Out" Type="PublicFile" Min="" Max="" Chg="" />
+			<Param Name="オブジェクト名" Ident="ObjectName" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="設置サウンド" Ident="SoundEvent" Type="string" Min="" Max="" Chg="" />
+			<Param Name="カテゴリ" Ident="Category" Type="string" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Out="" ObjectName="E_PillarA" SoundEvent="SE_MapEdit_Stone" Category="CID_柱" />
+			<Param Out="" ObjectName="E_PillarB" SoundEvent="SE_MapEdit_Grass" Category="CID_柱" />
+			<Param Out="" ObjectName="E_PillarC" SoundEvent="SE_MapEdit_Grass" Category="CID_柱" />
+			<Param Out="" ObjectName="E_PillarD" SoundEvent="SE_MapEdit_Stone" Category="CID_柱" />
+			<Param Out="" ObjectName="E_ShrubberyA" SoundEvent="SE_MapEdit_Grass" Category="CID_植え込み" />
+			<Param Out="" ObjectName="E_ShrubberyB" SoundEvent="SE_MapEdit_GrassWood" Category="CID_植え込み" />
+			<Param Out="" ObjectName="E_ShrubberyC" SoundEvent="SE_MapEdit_Rock" Category="CID_植え込み" />
+			<Param Out="" ObjectName="E_ShrubberyD" SoundEvent="SE_MapEdit_Wood" Category="CID_植え込み" />
+			<Param Out="" ObjectName="E_BreakWallA" SoundEvent="SE_MapEdit_Stone" Category="CID_脆い壁" />
+			<Param Out="" ObjectName="E_BreakWallB" SoundEvent="SE_MapEdit_Snow" Category="CID_脆い壁" />
+			<Param Out="" ObjectName="E_BreakWallC" SoundEvent="SE_MapEdit_Grass" Category="CID_脆い壁" />
+			<Param Out="" ObjectName="E_BreakWallD" SoundEvent="SE_MapEdit_Rock" Category="CID_脆い壁" />
+			<Param Out="" ObjectName="E_WallA" SoundEvent="SE_MapEdit_Rock" Category="CID_壁" />
+			<Param Out="" ObjectName="E_WallB" SoundEvent="SE_MapEdit_Wood" Category="CID_壁" />
+			<Param Out="" ObjectName="E_WallC" SoundEvent="SE_MapEdit_Rock" Category="CID_壁" />
+			<Param Out="" ObjectName="E_WallD" SoundEvent="SE_MapEdit_Rock" Category="CID_壁" />
+			<Param Out="" ObjectName="E_AvoidanceDownA" SoundEvent="SE_MapEdit_Sand" Category="CID_回避減" />
+			<Param Out="" ObjectName="E_AvoidanceDownB" SoundEvent="SE_MapEdit_Gold" Category="CID_回避減" />
+			<Param Out="" ObjectName="E_AvoidanceDownC" SoundEvent="SE_MapEdit_Water" Category="CID_回避減" />
+			<Param Out="" ObjectName="E_AvoidanceDownD" SoundEvent="SE_MapEdit_Ice" Category="CID_回避減" />
+			<Param Out="" ObjectName="E_HealFloorA" SoundEvent="SE_MapEdit_Stone" Category="CID_回復床" />
+			<Param Out="" ObjectName="E_FortFloorA" SoundEvent="SE_MapEdit_Metal" Category="CID_防衛床" />
+			<Param Out="" ObjectName="E_BallistaA" SoundEvent="SE_MapEdit_Alow" Category="CID_弓砲台" />
+			<Param Out="" ObjectName="E_MagicCannonA" SoundEvent="SE_MapEdit_Rock" Category="CID_魔砲台" />
+			<Param Out="" ObjectName="E_BatteryA" SoundEvent="SE_MapEdit_Cannon" Category="CID_火炎砲台" />
+		</Data>
+	</Sheet>
+	<Sheet Name="カテゴリ" Count="10">
+		<Header>
+			<Param Name="出力先" Ident="Out" Type="PublicFile" Min="" Max="" Chg="" />
+			<Param Name="カテゴリ名" Ident="Cid" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="最大設置上限" Ident="CountMax" Type="int" Min="" Max="" Chg="" />
+			<Param Name="アイコン名" Ident="IconName" Type="string" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Out="" Cid="CID_柱" CountMax="15" IconName="Pillar" />
+			<Param Out="" Cid="CID_植え込み" CountMax="10" IconName="Shrubbery" />
+			<Param Out="" Cid="CID_脆い壁" CountMax="15" IconName="BreakWall" />
+			<Param Out="" Cid="CID_壁" CountMax="15" IconName="Wall" />
+			<Param Out="" Cid="CID_回避減" CountMax="10" IconName="AvoidanceDown" />
+			<Param Out="" Cid="CID_回復床" CountMax="3" IconName="HealFloor" />
+			<Param Out="" Cid="CID_防衛床" CountMax="3" IconName="FortFloor" />
+			<Param Out="" Cid="CID_弓砲台" CountMax="1" IconName="Ballista" />
+			<Param Out="" Cid="CID_魔砲台" CountMax="1" IconName="MagicCannon" />
+			<Param Out="" Cid="CID_火炎砲台" CountMax="1" IconName="Battery" />
+		</Data>
+	</Sheet>
+</Book>

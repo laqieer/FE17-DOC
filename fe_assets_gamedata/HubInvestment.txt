@@ -1,0 +1,372 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Book Count="7">
+	<Sheet Name="国データ" Count="6">
+		<Header>
+			<Param Name="出力先" Ident="Out" Type="PublicFile" Min="" Max="" Chg="" />
+			<Param Name="識別子" Ident="ID" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="国名" Ident="Name" Type="string" Min="" Max="" Chg="" />
+			<Param Name="登場章" Ident="Chapter" Type="string" Min="" Max="" Chg="" />
+			<Param Name="投資レベル無し" Ident="IsNotLevel" Type="bool" Min="" Max="" Chg="" />
+			<Param Name="シンボルテクスチャ名" Ident="SymbolTexture" Type="string" Min="" Max="" Chg="" />
+			<Param Name="レベル情報ID" Ident="LevelInfo" Type="string" Min="" Max="" Chg="" />
+			<Param Name="食材情報ID" Ident="FoodstuffInfo" Type="string" Min="" Max="" Chg="" />
+			<Param Name="動物情報ID" Ident="AnimalInfo" Type="string" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Out="" ID="NID_フィレネ" Name="MID_PLACE_Filene" Chapter="CID_M001" IsNotLevel="false" SymbolTexture="Filene" LevelInfo="フィレネ" FoodstuffInfo="フィレネ" AnimalInfo="フィレネ" />
+			<Param Out="" ID="NID_ブロディア" Name="MID_PLACE_Brodia" Chapter="CID_M007" IsNotLevel="false" SymbolTexture="Brodia" LevelInfo="ブロディア" FoodstuffInfo="ブロディア" AnimalInfo="ブロディア" />
+			<Param Out="" ID="NID_イルシオン" Name="MID_PLACE_Ircion" Chapter="CID_M010" IsNotLevel="false" SymbolTexture="Ircion" LevelInfo="イルシオン" FoodstuffInfo="イルシオン" AnimalInfo="イルシオン" />
+			<Param Out="" ID="NID_ソルム" Name="MID_PLACE_Solum" Chapter="CID_M012" IsNotLevel="false" SymbolTexture="Solum" LevelInfo="ソルム" FoodstuffInfo="ソルム" AnimalInfo="ソルム" />
+			<Param Out="" ID="NID_リトス" Name="MID_PLACE_Lithos" Chapter="CID_M021" IsNotLevel="true" SymbolTexture="Lithos" LevelInfo="リトス" FoodstuffInfo="リトス" AnimalInfo="リトス" />
+			<Param Out="" ID="NID_グラドロン" Name="MID_PLACE_Gradron" Chapter="CID_M023" IsNotLevel="true" SymbolTexture="Gradron" LevelInfo="グラドロン" FoodstuffInfo="グラドロン" AnimalInfo="グラドロン" />
+		</Data>
+	</Sheet>
+	<Sheet Name="レベル情報" Count="48">
+		<Header>
+			<Param Name="グループ１" Ident="Group" Type="PublicArray" Min="" Max="" Chg="" />
+			<Param Name="投資金額" Ident="Cost" Type="int" Min="" Max="" Chg="" />
+			<Param Name="ボーナスアイテム名" Ident="BonusName" Type="string" Min="" Max="" Chg="" />
+			<Param Name="ボーナスアイテム名" Ident="BonusItem" Type="string" Min="" Max="" Chg="" />
+			<Param Name="ボーナス食材名" Ident="BonusFood" Type="string" Min="" Max="" Chg="" />
+			<Param Name="ボーナス動物名" Ident="BonusAnimal" Type="string" Min="" Max="" Chg="" />
+			<Param Name="取得ボーナスアクセサリー" Ident="BonusAccessoryAid" Type="string" Min="" Max="" Chg="" />
+			<Param Name="ボーナス錬成素材（鉄）" Ident="BonusIron" Type="int" Min="" Max="" Chg="" />
+			<Param Name="ボーナス錬成素材（鋼）" Ident="BonusSteel" Type="int" Min="" Max="" Chg="" />
+			<Param Name="ボーナス錬成素材（銀）" Ident="BonusSilver" Type="int" Min="" Max="" Chg="" />
+			<Param Name="ボーナス絆のかけら" Ident="BonusPieceOfBond" Type="int" Min="" Max="" Chg="" />
+			<Param Name="金塊レア敵出現率" Ident="GoldEnemyRate" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="経験値レア敵出現率" Ident="ExpEnemyRate" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="錬成素材（鉄）取得量" Ident="Iron" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="錬成素材（鋼）取得量" Ident="Steel" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="錬成素材（銀）取得量" Ident="Silver" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="絆のかけら取得量" Ident="PieceOfBond" Type="u8" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Group="フィレネ" Cost="" BonusName="" BonusItem="" BonusFood="" BonusAnimal="" BonusAccessoryAid="" BonusIron="" BonusSteel="" BonusSilver="" BonusPieceOfBond="" GoldEnemyRate="" ExpEnemyRate="" Iron="" Steel="" Silver="" PieceOfBond="" />
+			<Param Group="" Cost="0" BonusName="" BonusItem="" BonusFood="" BonusAnimal="" BonusAccessoryAid="" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="0" GoldEnemyRate="20" ExpEnemyRate="10" Iron="1" Steel="1" Silver="1" PieceOfBond="1" />
+			<Param Group="" Cost="5000" BonusName="MID_MENU_INVESTMENT_BONUS_FILENE_1" BonusItem="" BonusFood="フィレネ_2" BonusAnimal="" BonusAccessoryAid="" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="500" GoldEnemyRate="20" ExpEnemyRate="10" Iron="2" Steel="2" Silver="2" PieceOfBond="2" />
+			<Param Group="" Cost="10000" BonusName="MID_MENU_INVESTMENT_BONUS_2" BonusItem="フィレネ_3" BonusFood="" BonusAnimal="" BonusAccessoryAid="AID_フィレネの平素な服３" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="1000" GoldEnemyRate="30" ExpEnemyRate="20" Iron="2" Steel="2" Silver="2" PieceOfBond="3" />
+			<Param Group="" Cost="25000" BonusName="MID_MENU_INVESTMENT_BONUS_3" BonusItem="フィレネ_4" BonusFood="" BonusAnimal="フィレネ_4" BonusAccessoryAid="" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="2000" GoldEnemyRate="30" ExpEnemyRate="20" Iron="3" Steel="3" Silver="3" PieceOfBond="4" />
+			<Param Group="" Cost="50000" BonusName="MID_MENU_INVESTMENT_BONUS_4" BonusItem="フィレネ_5" BonusFood="" BonusAnimal="" BonusAccessoryAid="AID_フィレネの高貴な服３" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="3000" GoldEnemyRate="40" ExpEnemyRate="30" Iron="3" Steel="3" Silver="3" PieceOfBond="5" />
+			<Param Group="ブロディア" Cost="" BonusName="" BonusItem="" BonusFood="" BonusAnimal="" BonusAccessoryAid="" BonusIron="" BonusSteel="" BonusSilver="" BonusPieceOfBond="" GoldEnemyRate="" ExpEnemyRate="" Iron="" Steel="" Silver="" PieceOfBond="" />
+			<Param Group="" Cost="0" BonusName="" BonusItem="" BonusFood="" BonusAnimal="" BonusAccessoryAid="" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="0" GoldEnemyRate="10" ExpEnemyRate="20" Iron="1" Steel="1" Silver="1" PieceOfBond="1" />
+			<Param Group="" Cost="5000" BonusName="MID_MENU_INVESTMENT_BONUS_BRODIA_1" BonusItem="" BonusFood="" BonusAnimal="" BonusAccessoryAid="" BonusIron="10" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="500" GoldEnemyRate="10" ExpEnemyRate="20" Iron="3" Steel="3" Silver="3" PieceOfBond="2" />
+			<Param Group="" Cost="10000" BonusName="MID_MENU_INVESTMENT_BONUS_2" BonusItem="ブロディア_3" BonusFood="" BonusAnimal="" BonusAccessoryAid="AID_ブロディアの平素な服３" BonusIron="0" BonusSteel="3" BonusSilver="0" BonusPieceOfBond="1000" GoldEnemyRate="20" ExpEnemyRate="30" Iron="5" Steel="5" Silver="5" PieceOfBond="3" />
+			<Param Group="" Cost="25000" BonusName="MID_MENU_INVESTMENT_BONUS_3" BonusItem="ブロディア_4" BonusFood="" BonusAnimal="ブロディア_4" BonusAccessoryAid="" BonusIron="0" BonusSteel="0" BonusSilver="1" BonusPieceOfBond="2000" GoldEnemyRate="20" ExpEnemyRate="30" Iron="7" Steel="7" Silver="7" PieceOfBond="4" />
+			<Param Group="" Cost="50000" BonusName="MID_MENU_INVESTMENT_BONUS_4" BonusItem="ブロディア_5" BonusFood="" BonusAnimal="" BonusAccessoryAid="AID_ブロディアの高貴な服３" BonusIron="0" BonusSteel="0" BonusSilver="2" BonusPieceOfBond="3000" GoldEnemyRate="30" ExpEnemyRate="40" Iron="10" Steel="10" Silver="10" PieceOfBond="5" />
+			<Param Group="イルシオン" Cost="" BonusName="" BonusItem="" BonusFood="" BonusAnimal="" BonusAccessoryAid="" BonusIron="" BonusSteel="" BonusSilver="" BonusPieceOfBond="" GoldEnemyRate="" ExpEnemyRate="" Iron="" Steel="" Silver="" PieceOfBond="" />
+			<Param Group="" Cost="0" BonusName="" BonusItem="" BonusFood="" BonusAnimal="" BonusAccessoryAid="" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="0" GoldEnemyRate="30" ExpEnemyRate="20" Iron="1" Steel="1" Silver="1" PieceOfBond="1" />
+			<Param Group="" Cost="5000" BonusName="MID_MENU_INVESTMENT_BONUS_IRCION_1" BonusItem="イルシオン_2" BonusFood="" BonusAnimal="" BonusAccessoryAid="" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="500" GoldEnemyRate="40" ExpEnemyRate="20" Iron="2" Steel="2" Silver="2" PieceOfBond="2" />
+			<Param Group="" Cost="10000" BonusName="MID_MENU_INVESTMENT_BONUS_2" BonusItem="イルシオン_3" BonusFood="" BonusAnimal="" BonusAccessoryAid="AID_イルシオンの平素な服３" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="1000" GoldEnemyRate="50" ExpEnemyRate="20" Iron="2" Steel="2" Silver="2" PieceOfBond="3" />
+			<Param Group="" Cost="25000" BonusName="MID_MENU_INVESTMENT_BONUS_3" BonusItem="イルシオン_4" BonusFood="" BonusAnimal="イルシオン_4" BonusAccessoryAid="" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="2000" GoldEnemyRate="60" ExpEnemyRate="20" Iron="3" Steel="3" Silver="3" PieceOfBond="4" />
+			<Param Group="" Cost="50000" BonusName="MID_MENU_INVESTMENT_BONUS_4" BonusItem="イルシオン_5" BonusFood="" BonusAnimal="" BonusAccessoryAid="AID_イルシオンの高貴な服３" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="3000" GoldEnemyRate="70" ExpEnemyRate="20" Iron="3" Steel="3" Silver="3" PieceOfBond="5" />
+			<Param Group="ソルム" Cost="" BonusName="" BonusItem="" BonusFood="" BonusAnimal="" BonusAccessoryAid="" BonusIron="" BonusSteel="" BonusSilver="" BonusPieceOfBond="" GoldEnemyRate="" ExpEnemyRate="" Iron="" Steel="" Silver="" PieceOfBond="" />
+			<Param Group="" Cost="0" BonusName="" BonusItem="" BonusFood="" BonusAnimal="" BonusAccessoryAid="" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="0" GoldEnemyRate="20" ExpEnemyRate="30" Iron="1" Steel="1" Silver="1" PieceOfBond="1" />
+			<Param Group="" Cost="5000" BonusName="MID_MENU_INVESTMENT_BONUS_SOLUM_1" BonusItem="" BonusFood="ソルム_2" BonusAnimal="" BonusAccessoryAid="" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="500" GoldEnemyRate="20" ExpEnemyRate="40" Iron="2" Steel="2" Silver="2" PieceOfBond="2" />
+			<Param Group="" Cost="10000" BonusName="MID_MENU_INVESTMENT_BONUS_2" BonusItem="ソルム_3" BonusFood="" BonusAnimal="" BonusAccessoryAid="AID_ソルムの平素な服３" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="1000" GoldEnemyRate="20" ExpEnemyRate="50" Iron="2" Steel="2" Silver="2" PieceOfBond="3" />
+			<Param Group="" Cost="25000" BonusName="MID_MENU_INVESTMENT_BONUS_3" BonusItem="ソルム_4" BonusFood="" BonusAnimal="ソルム_4" BonusAccessoryAid="" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="2000" GoldEnemyRate="20" ExpEnemyRate="60" Iron="3" Steel="3" Silver="3" PieceOfBond="4" />
+			<Param Group="" Cost="50000" BonusName="MID_MENU_INVESTMENT_BONUS_4" BonusItem="ソルム_5" BonusFood="" BonusAnimal="" BonusAccessoryAid="AID_ソルムの高貴な服３" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="3000" GoldEnemyRate="20" ExpEnemyRate="70" Iron="3" Steel="3" Silver="3" PieceOfBond="5" />
+			<Param Group="リトス" Cost="" BonusName="" BonusItem="" BonusFood="" BonusAnimal="" BonusAccessoryAid="" BonusIron="" BonusSteel="" BonusSilver="" BonusPieceOfBond="" GoldEnemyRate="" ExpEnemyRate="" Iron="" Steel="" Silver="" PieceOfBond="" />
+			<Param Group="" Cost="0" BonusName="" BonusItem="" BonusFood="" BonusAnimal="" BonusAccessoryAid="" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="0" GoldEnemyRate="0" ExpEnemyRate="0" Iron="1" Steel="1" Silver="1" PieceOfBond="1" />
+			<Param Group="" Cost="0" BonusName="" BonusItem="" BonusFood="" BonusAnimal="" BonusAccessoryAid="" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="0" GoldEnemyRate="0" ExpEnemyRate="0" Iron="2" Steel="2" Silver="2" PieceOfBond="3" />
+			<Param Group="" Cost="0" BonusName="" BonusItem="" BonusFood="" BonusAnimal="" BonusAccessoryAid="" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="0" GoldEnemyRate="0" ExpEnemyRate="0" Iron="3" Steel="3" Silver="3" PieceOfBond="5" />
+			<Param Group="" Cost="0" BonusName="" BonusItem="" BonusFood="" BonusAnimal="" BonusAccessoryAid="" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="0" GoldEnemyRate="0" ExpEnemyRate="0" Iron="4" Steel="4" Silver="4" PieceOfBond="7" />
+			<Param Group="" Cost="0" BonusName="" BonusItem="" BonusFood="" BonusAnimal="" BonusAccessoryAid="" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="0" GoldEnemyRate="0" ExpEnemyRate="0" Iron="5" Steel="5" Silver="5" PieceOfBond="10" />
+			<Param Group="グラドロン" Cost="" BonusName="" BonusItem="" BonusFood="" BonusAnimal="" BonusAccessoryAid="" BonusIron="" BonusSteel="" BonusSilver="" BonusPieceOfBond="" GoldEnemyRate="" ExpEnemyRate="" Iron="" Steel="" Silver="" PieceOfBond="" />
+			<Param Group="" Cost="0" BonusName="" BonusItem="" BonusFood="" BonusAnimal="" BonusAccessoryAid="" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="0" GoldEnemyRate="0" ExpEnemyRate="0" Iron="1" Steel="1" Silver="1" PieceOfBond="1" />
+			<Param Group="" Cost="0" BonusName="" BonusItem="" BonusFood="" BonusAnimal="" BonusAccessoryAid="" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="0" GoldEnemyRate="0" ExpEnemyRate="0" Iron="2" Steel="2" Silver="2" PieceOfBond="2" />
+			<Param Group="" Cost="0" BonusName="" BonusItem="" BonusFood="" BonusAnimal="" BonusAccessoryAid="" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="0" GoldEnemyRate="0" ExpEnemyRate="0" Iron="3" Steel="3" Silver="3" PieceOfBond="3" />
+			<Param Group="" Cost="0" BonusName="" BonusItem="" BonusFood="" BonusAnimal="" BonusAccessoryAid="" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="0" GoldEnemyRate="0" ExpEnemyRate="0" Iron="4" Steel="4" Silver="4" PieceOfBond="4" />
+			<Param Group="" Cost="0" BonusName="" BonusItem="" BonusFood="" BonusAnimal="" BonusAccessoryAid="" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="0" GoldEnemyRate="0" ExpEnemyRate="0" Iron="5" Steel="5" Silver="5" PieceOfBond="5" />
+			<Param Group="神竜の章共通" Cost="" BonusName="" BonusItem="" BonusFood="" BonusAnimal="" BonusAccessoryAid="" BonusIron="" BonusSteel="" BonusSilver="" BonusPieceOfBond="" GoldEnemyRate="" ExpEnemyRate="" Iron="" Steel="" Silver="" PieceOfBond="" />
+			<Param Group="" Cost="0" BonusName="" BonusItem="" BonusFood="" BonusAnimal="" BonusAccessoryAid="" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="0" GoldEnemyRate="0" ExpEnemyRate="100" Iron="3" Steel="3" Silver="3" PieceOfBond="5" />
+			<Param Group="" Cost="0" BonusName="" BonusItem="" BonusFood="" BonusAnimal="" BonusAccessoryAid="" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="0" GoldEnemyRate="0" ExpEnemyRate="100" Iron="3" Steel="3" Silver="3" PieceOfBond="5" />
+			<Param Group="" Cost="0" BonusName="" BonusItem="" BonusFood="" BonusAnimal="" BonusAccessoryAid="" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="0" GoldEnemyRate="0" ExpEnemyRate="100" Iron="3" Steel="3" Silver="3" PieceOfBond="5" />
+			<Param Group="" Cost="0" BonusName="" BonusItem="" BonusFood="" BonusAnimal="" BonusAccessoryAid="" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="0" GoldEnemyRate="0" ExpEnemyRate="100" Iron="3" Steel="3" Silver="3" PieceOfBond="5" />
+			<Param Group="" Cost="0" BonusName="" BonusItem="" BonusFood="" BonusAnimal="" BonusAccessoryAid="" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="0" GoldEnemyRate="0" ExpEnemyRate="100" Iron="3" Steel="3" Silver="3" PieceOfBond="5" />
+			<Param Group="邪竜の章共通" Cost="" BonusName="" BonusItem="" BonusFood="" BonusAnimal="" BonusAccessoryAid="" BonusIron="" BonusSteel="" BonusSilver="" BonusPieceOfBond="" GoldEnemyRate="" ExpEnemyRate="" Iron="" Steel="" Silver="" PieceOfBond="" />
+			<Param Group="" Cost="0" BonusName="" BonusItem="" BonusFood="" BonusAnimal="" BonusAccessoryAid="" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="0" GoldEnemyRate="100" ExpEnemyRate="0" Iron="3" Steel="3" Silver="3" PieceOfBond="3" />
+			<Param Group="" Cost="0" BonusName="" BonusItem="" BonusFood="" BonusAnimal="" BonusAccessoryAid="" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="0" GoldEnemyRate="100" ExpEnemyRate="0" Iron="3" Steel="3" Silver="3" PieceOfBond="3" />
+			<Param Group="" Cost="0" BonusName="" BonusItem="" BonusFood="" BonusAnimal="" BonusAccessoryAid="" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="0" GoldEnemyRate="100" ExpEnemyRate="0" Iron="3" Steel="3" Silver="3" PieceOfBond="3" />
+			<Param Group="" Cost="0" BonusName="" BonusItem="" BonusFood="" BonusAnimal="" BonusAccessoryAid="" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="0" GoldEnemyRate="100" ExpEnemyRate="0" Iron="3" Steel="3" Silver="3" PieceOfBond="3" />
+			<Param Group="" Cost="0" BonusName="" BonusItem="" BonusFood="" BonusAnimal="" BonusAccessoryAid="" BonusIron="0" BonusSteel="0" BonusSilver="0" BonusPieceOfBond="0" GoldEnemyRate="100" ExpEnemyRate="0" Iron="3" Steel="3" Silver="3" PieceOfBond="3" />
+		</Data>
+	</Sheet>
+	<Sheet Name="食材" Count="68">
+		<Header>
+			<Param Name="グループ１" Ident="Group" Type="PublicArray" Min="" Max="" Chg="" />
+			<Param Name="食材" Ident="Foodstuff" Type="string" Min="" Max="" Chg="" />
+			<Param Name="レベル1取得量" Ident="Lv1" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="レベル2取得量" Ident="Lv2" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="レベル3取得量" Ident="Lv3" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="レベル4取得量" Ident="Lv4" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="レベル5取得量" Ident="Lv5" Type="u8" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Group="フィレネ" Foodstuff="" Lv1="" Lv2="" Lv3="" Lv4="" Lv5="" />
+			<Param Group="" Foodstuff="IID_トマト" Lv1="1" Lv2="1" Lv3="2" Lv4="2" Lv5="3" />
+			<Param Group="" Foodstuff="IID_芋" Lv1="1" Lv2="1" Lv3="2" Lv4="2" Lv5="3" />
+			<Param Group="" Foodstuff="IID_小麦" Lv1="1" Lv2="1" Lv3="1" Lv4="2" Lv5="2" />
+			<Param Group="" Foodstuff="IID_オレンジ" Lv1="1" Lv2="2" Lv3="3" Lv4="4" Lv5="5" />
+			<Param Group="" Foodstuff="IID_ベリー" Lv1="1" Lv2="1" Lv3="2" Lv4="2" Lv5="2" />
+			<Param Group="" Foodstuff="IID_幻の果物" Lv1="1" Lv2="1" Lv3="2" Lv4="2" Lv5="3" />
+			<Param Group="" Foodstuff="IID_木の実" Lv1="1" Lv2="1" Lv3="1" Lv4="2" Lv5="2" />
+			<Param Group="" Foodstuff="IID_ミルク" Lv1="1" Lv2="2" Lv3="2" Lv4="3" Lv5="3" />
+			<Param Group="" Foodstuff="IID_タマゴ" Lv1="1" Lv2="2" Lv3="2" Lv4="3" Lv5="3" />
+			<Param Group="" Foodstuff="IID_米" Lv1="1" Lv2="1" Lv3="1" Lv4="1" Lv5="2" />
+			<Param Group="" Foodstuff="IID_豆" Lv1="1" Lv2="1" Lv3="1" Lv4="1" Lv5="2" />
+			<Param Group="ブロディア" Foodstuff="" Lv1="" Lv2="" Lv3="" Lv4="" Lv5="" />
+			<Param Group="" Foodstuff="IID_芋" Lv1="1" Lv2="1" Lv3="1" Lv4="1" Lv5="2" />
+			<Param Group="" Foodstuff="IID_小麦" Lv1="1" Lv2="1" Lv3="2" Lv4="2" Lv5="3" />
+			<Param Group="" Foodstuff="IID_幻の果物" Lv1="1" Lv2="1" Lv3="2" Lv4="2" Lv5="3" />
+			<Param Group="" Foodstuff="IID_木の実" Lv1="1" Lv2="1" Lv3="1" Lv4="1" Lv5="2" />
+			<Param Group="" Foodstuff="IID_米" Lv1="1" Lv2="1" Lv3="1" Lv4="2" Lv5="2" />
+			<Param Group="" Foodstuff="IID_豆" Lv1="1" Lv2="1" Lv3="1" Lv4="2" Lv5="2" />
+			<Param Group="" Foodstuff="IID_スパイス" Lv1="1" Lv2="1" Lv3="1" Lv4="1" Lv5="2" />
+			<Param Group="イルシオン" Foodstuff="" Lv1="" Lv2="" Lv3="" Lv4="" Lv5="" />
+			<Param Group="" Foodstuff="IID_トマト" Lv1="1" Lv2="1" Lv3="2" Lv4="2" Lv5="3" />
+			<Param Group="" Foodstuff="IID_小麦" Lv1="1" Lv2="1" Lv3="1" Lv4="1" Lv5="2" />
+			<Param Group="" Foodstuff="IID_ベリー" Lv1="1" Lv2="2" Lv3="2" Lv4="3" Lv5="4" />
+			<Param Group="" Foodstuff="IID_木の実" Lv1="1" Lv2="2" Lv3="2" Lv4="3" Lv5="3" />
+			<Param Group="" Foodstuff="IID_ミルク" Lv1="1" Lv2="1" Lv3="2" Lv4="2" Lv5="3" />
+			<Param Group="" Foodstuff="IID_米" Lv1="1" Lv2="1" Lv3="1" Lv4="1" Lv5="2" />
+			<Param Group="" Foodstuff="IID_豆" Lv1="1" Lv2="1" Lv3="1" Lv4="1" Lv5="2" />
+			<Param Group="" Foodstuff="IID_スパイス" Lv1="1" Lv2="1" Lv3="1" Lv4="1" Lv5="2" />
+			<Param Group="ソルム" Foodstuff="" Lv1="" Lv2="" Lv3="" Lv4="" Lv5="" />
+			<Param Group="" Foodstuff="IID_トマト" Lv1="1" Lv2="1" Lv3="1" Lv4="1" Lv5="2" />
+			<Param Group="" Foodstuff="IID_芋" Lv1="1" Lv2="1" Lv3="1" Lv4="1" Lv5="2" />
+			<Param Group="" Foodstuff="IID_幻の野菜" Lv1="1" Lv2="1" Lv3="2" Lv4="2" Lv5="3" />
+			<Param Group="" Foodstuff="IID_ベリー" Lv1="1" Lv2="1" Lv3="1" Lv4="1" Lv5="2" />
+			<Param Group="" Foodstuff="IID_木の実" Lv1="1" Lv2="1" Lv3="1" Lv4="1" Lv5="2" />
+			<Param Group="" Foodstuff="IID_タマゴ" Lv1="1" Lv2="1" Lv3="2" Lv4="2" Lv5="3" />
+			<Param Group="" Foodstuff="IID_豆" Lv1="1" Lv2="2" Lv3="2" Lv4="3" Lv5="3" />
+			<Param Group="" Foodstuff="IID_スパイス" Lv1="1" Lv2="2" Lv3="2" Lv4="3" Lv5="4" />
+			<Param Group="リトス" Foodstuff="" Lv1="" Lv2="" Lv3="" Lv4="" Lv5="" />
+			<Param Group="" Foodstuff="IID_トマト" Lv1="1" Lv2="2" Lv3="3" Lv4="4" Lv5="5" />
+			<Param Group="" Foodstuff="IID_芋" Lv1="1" Lv2="2" Lv3="3" Lv4="4" Lv5="5" />
+			<Param Group="" Foodstuff="IID_ベリー" Lv1="1" Lv2="2" Lv3="3" Lv4="4" Lv5="5" />
+			<Param Group="グラドロン" Foodstuff="" Lv1="" Lv2="" Lv3="" Lv4="" Lv5="" />
+			<Param Group="" Foodstuff="IID_トマト" Lv1="1" Lv2="2" Lv3="3" Lv4="4" Lv5="5" />
+			<Param Group="" Foodstuff="IID_芋" Lv1="1" Lv2="2" Lv3="3" Lv4="4" Lv5="5" />
+			<Param Group="" Foodstuff="IID_ベリー" Lv1="1" Lv2="2" Lv3="3" Lv4="4" Lv5="5" />
+			<Param Group="神竜の章共通" Foodstuff="" Lv1="" Lv2="" Lv3="" Lv4="" Lv5="" />
+			<Param Group="" Foodstuff="IID_トマト" Lv1="2" Lv2="2" Lv3="2" Lv4="2" Lv5="2" />
+			<Param Group="" Foodstuff="IID_芋" Lv1="2" Lv2="2" Lv3="2" Lv4="2" Lv5="2" />
+			<Param Group="" Foodstuff="IID_小麦" Lv1="2" Lv2="2" Lv3="2" Lv4="2" Lv5="2" />
+			<Param Group="" Foodstuff="IID_オレンジ" Lv1="2" Lv2="2" Lv3="2" Lv4="2" Lv5="2" />
+			<Param Group="" Foodstuff="IID_ベリー" Lv1="2" Lv2="2" Lv3="2" Lv4="2" Lv5="2" />
+			<Param Group="" Foodstuff="IID_幻の果物" Lv1="2" Lv2="2" Lv3="2" Lv4="2" Lv5="2" />
+			<Param Group="" Foodstuff="IID_幻の野菜" Lv1="2" Lv2="2" Lv3="2" Lv4="2" Lv5="2" />
+			<Param Group="" Foodstuff="IID_木の実" Lv1="2" Lv2="2" Lv3="2" Lv4="2" Lv5="2" />
+			<Param Group="" Foodstuff="IID_ミルク" Lv1="2" Lv2="2" Lv3="2" Lv4="2" Lv5="2" />
+			<Param Group="" Foodstuff="IID_タマゴ" Lv1="2" Lv2="2" Lv3="2" Lv4="2" Lv5="2" />
+			<Param Group="" Foodstuff="IID_米" Lv1="2" Lv2="2" Lv3="2" Lv4="2" Lv5="2" />
+			<Param Group="" Foodstuff="IID_豆" Lv1="2" Lv2="2" Lv3="2" Lv4="2" Lv5="2" />
+			<Param Group="邪竜の章共通" Foodstuff="" Lv1="" Lv2="" Lv3="" Lv4="" Lv5="" />
+			<Param Group="" Foodstuff="IID_トマト" Lv1="1" Lv2="1" Lv3="1" Lv4="1" Lv5="1" />
+			<Param Group="" Foodstuff="IID_芋" Lv1="1" Lv2="1" Lv3="1" Lv4="1" Lv5="1" />
+			<Param Group="" Foodstuff="IID_小麦" Lv1="1" Lv2="1" Lv3="1" Lv4="1" Lv5="1" />
+			<Param Group="" Foodstuff="IID_ベリー" Lv1="1" Lv2="1" Lv3="1" Lv4="1" Lv5="1" />
+			<Param Group="" Foodstuff="IID_幻の果物" Lv1="1" Lv2="1" Lv3="1" Lv4="1" Lv5="1" />
+			<Param Group="" Foodstuff="IID_木の実" Lv1="1" Lv2="1" Lv3="1" Lv4="1" Lv5="1" />
+			<Param Group="" Foodstuff="IID_米" Lv1="1" Lv2="1" Lv3="1" Lv4="1" Lv5="1" />
+			<Param Group="" Foodstuff="IID_スパイス" Lv1="2" Lv2="2" Lv3="2" Lv4="2" Lv5="2" />
+		</Data>
+	</Sheet>
+	<Sheet Name="動物" Count="93">
+		<Header>
+			<Param Name="グループ１" Ident="Group" Type="PublicArray" Min="" Max="" Chg="" />
+			<Param Name="動物ID" Ident="ANID" Type="string" Min="" Max="" Chg="" />
+			<Param Name="レベル1出現率" Ident="AppearRateLv1" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="レベル2出現率" Ident="AppearRateLv2" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="レベル3出現率" Ident="AppearRateLv3" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="レベル4出現率" Ident="AppearRateLv4" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="レベル5出現率" Ident="AppearRateLv5" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="捕獲可能レベル" Ident="CaptureLevel" Type="u8" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Group="フィレネ" ANID="" AppearRateLv1="" AppearRateLv2="" AppearRateLv3="" AppearRateLv4="" AppearRateLv5="" CaptureLevel="" />
+			<Param Group="" ANID="EleosGoat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="WhitePyonRabbit" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="PyonRabbit" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="EastCat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="WestCat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="SouthCat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="NorthCat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="FileneCat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="2" />
+			<Param Group="" ANID="KarisonCoco" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="2" />
+			<Param Group="" ANID="EleosPigeon" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="EleosSeagull" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="EleosDog" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="EleosBlackDog" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="EleosWhiteDog" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="MailDonkey" AppearRateLv1="20" AppearRateLv2="20" AppearRateLv3="20" AppearRateLv4="20" AppearRateLv5="50" CaptureLevel="2" />
+			<Param Group="ブロディア" ANID="" AppearRateLv1="" AppearRateLv2="" AppearRateLv3="" AppearRateLv4="" AppearRateLv5="" CaptureLevel="" />
+			<Param Group="" ANID="EleosGoat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="WhitePyonRabbit" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="PyonRabbit" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="EastCat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="WestCat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="SouthCat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="NorthCat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="BrodiaCat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="2" />
+			<Param Group="" ANID="AuraEagle" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="2" />
+			<Param Group="" ANID="EleosPigeon" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="EleosSeagull" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="EleosDog" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="EleosBlackDog" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="EleosWhiteDog" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="RutileMarmot" AppearRateLv1="20" AppearRateLv2="20" AppearRateLv3="20" AppearRateLv4="20" AppearRateLv5="50" CaptureLevel="2" />
+			<Param Group="イルシオン" ANID="" AppearRateLv1="" AppearRateLv2="" AppearRateLv3="" AppearRateLv4="" AppearRateLv5="" CaptureLevel="" />
+			<Param Group="" ANID="EleosGoat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="WhitePyonRabbit" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="PyonRabbit" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="EastCat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="WestCat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="SouthCat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="NorthCat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="IrcionCat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="2" />
+			<Param Group="" ANID="IrisOwl" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="2" />
+			<Param Group="" ANID="EleosPigeon" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="EleosSeagull" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="EleosDog" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="EleosBlackDog" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="EleosWhiteDog" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="LizardsReindeer" AppearRateLv1="20" AppearRateLv2="20" AppearRateLv3="20" AppearRateLv4="20" AppearRateLv5="50" CaptureLevel="2" />
+			<Param Group="ソルム" ANID="" AppearRateLv1="" AppearRateLv2="" AppearRateLv3="" AppearRateLv4="" AppearRateLv5="" CaptureLevel="" />
+			<Param Group="" ANID="EleosGoat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="WhitePyonRabbit" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="PyonRabbit" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="EastCat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="WestCat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="SouthCat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="NorthCat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="SolumCat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="2" />
+			<Param Group="" ANID="PannaCamel" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="2" />
+			<Param Group="" ANID="EleosPigeon" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="EleosSeagull" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="EleosDog" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="EleosBlackDog" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="EleosWhiteDog" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="BavaroFlamingo" AppearRateLv1="20" AppearRateLv2="20" AppearRateLv3="20" AppearRateLv4="20" AppearRateLv5="50" CaptureLevel="2" />
+			<Param Group="リトス" ANID="" AppearRateLv1="" AppearRateLv2="" AppearRateLv3="" AppearRateLv4="" AppearRateLv5="" CaptureLevel="" />
+			<Param Group="" ANID="WhitePyonRabbit" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="EastCat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="WestCat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="SouthCat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="NorthCat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="EleosPigeon" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="LizardsReindeer" AppearRateLv1="20" AppearRateLv2="20" AppearRateLv3="20" AppearRateLv4="20" AppearRateLv5="50" CaptureLevel="2" />
+			<Param Group="グラドロン" ANID="" AppearRateLv1="" AppearRateLv2="" AppearRateLv3="" AppearRateLv4="" AppearRateLv5="" CaptureLevel="" />
+			<Param Group="" ANID="WhitePyonRabbit" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="EastCat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="WestCat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="SouthCat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="NorthCat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="EleosPigeon" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="LizardsReindeer" AppearRateLv1="20" AppearRateLv2="20" AppearRateLv3="20" AppearRateLv4="20" AppearRateLv5="50" CaptureLevel="2" />
+			<Param Group="DLC共通" ANID="" AppearRateLv1="" AppearRateLv2="" AppearRateLv3="" AppearRateLv4="" AppearRateLv5="" CaptureLevel="" />
+			<Param Group="" ANID="PyonRabbit" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="FileneCat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="2" />
+			<Param Group="" ANID="BrodiaCat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="2" />
+			<Param Group="" ANID="IrcionCat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="2" />
+			<Param Group="" ANID="SolumCat" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="2" />
+			<Param Group="" ANID="IrisOwl" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="2" />
+			<Param Group="" ANID="EleosBlackDog" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="EleosWhiteDog" AppearRateLv1="100" AppearRateLv2="100" AppearRateLv3="100" AppearRateLv4="100" AppearRateLv5="100" CaptureLevel="1" />
+			<Param Group="" ANID="MailDonkey" AppearRateLv1="50" AppearRateLv2="50" AppearRateLv3="50" AppearRateLv4="50" AppearRateLv5="50" CaptureLevel="2" />
+			<Param Group="" ANID="RutileMarmot" AppearRateLv1="50" AppearRateLv2="50" AppearRateLv3="50" AppearRateLv4="50" AppearRateLv5="50" CaptureLevel="2" />
+			<Param Group="" ANID="LizardsReindeer" AppearRateLv1="50" AppearRateLv2="50" AppearRateLv3="50" AppearRateLv4="50" AppearRateLv5="50" CaptureLevel="2" />
+			<Param Group="" ANID="BavaroFlamingo" AppearRateLv1="50" AppearRateLv2="50" AppearRateLv3="50" AppearRateLv4="50" AppearRateLv5="50" CaptureLevel="2" />
+		</Data>
+	</Sheet>
+	<Sheet Name="ボーナスアイテム" Count="26">
+		<Header>
+			<Param Name="グループ１" Ident="Group" Type="PublicArray" Min="" Max="" Chg="" />
+			<Param Name="アイテム" Ident="ItemId" Type="string" Min="" Max="" Chg="" />
+			<Param Name="取得数" Ident="Num" Type="u8" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Group="フィレネ_3" ItemId="" Num="" />
+			<Param Group="" ItemId="IID_鋼の槍" Num="1" />
+			<Param Group="フィレネ_4" ItemId="" Num="" />
+			<Param Group="" ItemId="IID_スレンドスピア" Num="1" />
+			<Param Group="フィレネ_5" ItemId="" Num="" />
+			<Param Group="" ItemId="IID_ヴェノマス" Num="1" />
+			<Param Group="ブロディア_3" ItemId="" Num="" />
+			<Param Group="" ItemId="IID_倭刀" Num="1" />
+			<Param Group="ブロディア_4" ItemId="" Num="" />
+			<Param Group="" ItemId="IID_勇者の剣" Num="1" />
+			<Param Group="ブロディア_5" ItemId="" Num="" />
+			<Param Group="" ItemId="IID_覇神の法" Num="1" />
+			<Param Group="イルシオン_2" ItemId="" Num="" />
+			<Param Group="" ItemId="IID_リブロー" Num="1" />
+			<Param Group="イルシオン_3" ItemId="" Num="" />
+			<Param Group="" ItemId="IID_ボルガノン" Num="1" />
+			<Param Group="イルシオン_4" ItemId="" Num="" />
+			<Param Group="" ItemId="IID_リザーブ" Num="1" />
+			<Param Group="イルシオン_5" ItemId="" Num="" />
+			<Param Group="" ItemId="IID_ノードゥス" Num="1" />
+			<Param Group="ソルム_3" ItemId="" Num="" />
+			<Param Group="" ItemId="IID_勇者の斧" Num="1" />
+			<Param Group="ソルム_4" ItemId="" Num="" />
+			<Param Group="" ItemId="IID_銀の大斧" Num="1" />
+			<Param Group="ソルム_5" ItemId="" Num="" />
+			<Param Group="" ItemId="IID_フラガラッハ" Num="1" />
+		</Data>
+	</Sheet>
+	<Sheet Name="ボーナス食材" Count="28">
+		<Header>
+			<Param Name="グループ１" Ident="Group" Type="PublicArray" Min="" Max="" Chg="" />
+			<Param Name="食材" Ident="Foodstuff" Type="string" Min="" Max="" Chg="" />
+			<Param Name="取得数" Ident="Num" Type="u8" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Group="フィレネ_2" Foodstuff="" Num="" />
+			<Param Group="" Foodstuff="IID_タマネギ" Num="5" />
+			<Param Group="" Foodstuff="IID_キャベツ" Num="5" />
+			<Param Group="" Foodstuff="IID_ハーブ" Num="5" />
+			<Param Group="" Foodstuff="IID_トマト" Num="5" />
+			<Param Group="" Foodstuff="IID_芋" Num="5" />
+			<Param Group="" Foodstuff="IID_幻の野菜" Num="10" />
+			<Param Group="" Foodstuff="IID_小麦" Num="5" />
+			<Param Group="" Foodstuff="IID_リンゴ" Num="5" />
+			<Param Group="" Foodstuff="IID_オレンジ" Num="5" />
+			<Param Group="" Foodstuff="IID_モモ" Num="5" />
+			<Param Group="" Foodstuff="IID_ブドウ" Num="5" />
+			<Param Group="" Foodstuff="IID_ベリー" Num="5" />
+			<Param Group="" Foodstuff="IID_幻の果物" Num="10" />
+			<Param Group="" Foodstuff="IID_木の実" Num="5" />
+			<Param Group="ソルム_2" Foodstuff="" Num="" />
+			<Param Group="" Foodstuff="IID_牛肉" Num="5" />
+			<Param Group="" Foodstuff="IID_豚肉" Num="5" />
+			<Param Group="" Foodstuff="IID_鶏肉" Num="5" />
+			<Param Group="" Foodstuff="IID_羊肉" Num="5" />
+			<Param Group="" Foodstuff="IID_ニシン" Num="5" />
+			<Param Group="" Foodstuff="IID_サケ" Num="5" />
+			<Param Group="" Foodstuff="IID_タラ" Num="5" />
+			<Param Group="" Foodstuff="IID_ウナギ" Num="5" />
+			<Param Group="" Foodstuff="IID_幻の魚" Num="10" />
+			<Param Group="" Foodstuff="IID_ミルク" Num="5" />
+			<Param Group="" Foodstuff="IID_タマゴ" Num="5" />
+			<Param Group="" Foodstuff="IID_米" Num="5" />
+		</Data>
+	</Sheet>
+	<Sheet Name="ボーナス動物" Count="8">
+		<Header>
+			<Param Name="グループ１" Ident="Group" Type="PublicArray" Min="" Max="" Chg="" />
+			<Param Name="動物ID" Ident="AnimalId" Type="string" Min="" Max="" Chg="" />
+			<Param Name="取得数" Ident="Num" Type="u8" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Group="フィレネ_4" AnimalId="" Num="" />
+			<Param Group="" AnimalId="MailDonkey" Num="2" />
+			<Param Group="ブロディア_4" AnimalId="" Num="" />
+			<Param Group="" AnimalId="RutileMarmot" Num="2" />
+			<Param Group="イルシオン_4" AnimalId="" Num="" />
+			<Param Group="" AnimalId="LizardsReindeer" Num="2" />
+			<Param Group="ソルム_4" AnimalId="" Num="" />
+			<Param Group="" AnimalId="BavaroFlamingo" Num="2" />
+		</Data>
+	</Sheet>
+</Book>

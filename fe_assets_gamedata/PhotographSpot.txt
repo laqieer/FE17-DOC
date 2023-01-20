@@ -1,0 +1,362 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Book Count="2">
+	<Sheet Name="スポット" Count="46">
+		<Header>
+			<Param Name="スポット名(English)" Ident="Name" Type="string" Min="" Max="" Chg="" />
+			<Param Name="表示名" Ident="MID" Type="string" Min="" Max="" Chg="" />
+			<Param Name="開放チャプター" Ident="ConditionCid" Type="string" Min="" Max="" Chg="" />
+			<Param Name="ロケータの数" Ident="LocatorCount" Type="int" Min="" Max="" Chg="" />
+			<Param Name="ロケータ1のポーズグループ名" Ident="PauseGroupNameList1" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="ロケータ2のポーズグループ名" Ident="PauseGroupNameList2" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="ロケータ3のポーズグループ名" Ident="PauseGroupNameList3" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="ロケータ4のポーズグループ名" Ident="PauseGroupNameList4" Type="string[]" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Name="Entrance_front1" MID="PSSMID_Entrance_front1" ConditionCid="CID_M006" LocatorCount="4" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="基本;拠点;勝利;紋章士;" PauseGroupNameList4="マスコット;" />
+			<Param Name="Entrance_front2" MID="PSSMID_Entrance_front2" ConditionCid="CID_M026" LocatorCount="3" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="基本;拠点;勝利;紋章士;" PauseGroupNameList4="" />
+			<Param Name="Entrance1" MID="PSSMID_Entrance1" ConditionCid="CID_M022" LocatorCount="3" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="マスコット;" PauseGroupNameList4="" />
+			<Param Name="Entrance2" MID="PSSMID_Entrance2" ConditionCid="CID_M022" LocatorCount="4" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="基本;拠点;勝利;紋章士;" PauseGroupNameList4="マスコット;" />
+			<Param Name="Cafeteria_front1" MID="PSSMID_Cafeteria_front1" ConditionCid="CID_M006" LocatorCount="4" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="基本;拠点;勝利;紋章士;" PauseGroupNameList4="マスコット;" />
+			<Param Name="Cafeteria_front2" MID="PSSMID_Cafeteria_front2" ConditionCid="CID_M026" LocatorCount="3" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="基本;拠点;勝利;紋章士;" PauseGroupNameList4="" />
+			<Param Name="Cafeteria1" MID="PSSMID_Cafeteria1" ConditionCid="CID_M006" LocatorCount="4" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="基本;拠点;勝利;紋章士;" PauseGroupNameList4="マスコット;" />
+			<Param Name="Cafeteria2" MID="PSSMID_Cafeteria2" ConditionCid="CID_M006" LocatorCount="3" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="拠点_椅子;" PauseGroupNameList3="基本;拠点;勝利;紋章士;" PauseGroupNameList4="" />
+			<Param Name="Cafeteria3" MID="PSSMID_Cafeteria3" ConditionCid="CID_M006" LocatorCount="3" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="マスコット;" PauseGroupNameList4="" />
+			<Param Name="WeaponShop_front" MID="PSSMID_WeaponShop_front" ConditionCid="CID_M006" LocatorCount="4" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="基本;拠点;勝利;紋章士;" PauseGroupNameList4="マスコット;" />
+			<Param Name="WeaponShop1" MID="PSSMID_WeaponShop1" ConditionCid="CID_M012" LocatorCount="4" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="基本;拠点;勝利;紋章士;" PauseGroupNameList4="マスコット;" />
+			<Param Name="ItemShop_front" MID="PSSMID_ItemShop_front" ConditionCid="CID_M006" LocatorCount="4" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="基本;拠点;勝利;紋章士;" PauseGroupNameList4="マスコット;" />
+			<Param Name="ItemShop1" MID="PSSMID_ItemShop1" ConditionCid="CID_M012" LocatorCount="4" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="基本;拠点;勝利;紋章士;" PauseGroupNameList4="マスコット;" />
+			<Param Name="RefineShop_front" MID="PSSMID_RefineShop_front" ConditionCid="CID_M006" LocatorCount="4" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="基本;拠点;勝利;紋章士;" PauseGroupNameList4="マスコット;" />
+			<Param Name="RefineShop1" MID="PSSMID_RefineShop1" ConditionCid="CID_M012" LocatorCount="4" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="基本;拠点;勝利;紋章士;" PauseGroupNameList4="マスコット;" />
+			<Param Name="AccessoryShop_front" MID="PSSMID_AccessoryShop_front" ConditionCid="CID_M006" LocatorCount="4" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="基本;拠点;勝利;紋章士;" PauseGroupNameList4="マスコット;" />
+			<Param Name="AccessoryShop1" MID="PSSMID_AccessoryShop1" ConditionCid="CID_M012" LocatorCount="4" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="基本;拠点;勝利;紋章士;" PauseGroupNameList4="マスコット;" />
+			<Param Name="Poolside_front" MID="PSSMID_Poolside_front" ConditionCid="CID_M006" LocatorCount="4" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="基本;拠点;勝利;紋章士;" PauseGroupNameList4="マスコット;" />
+			<Param Name="Poolside1" MID="PSSMID_Poolside1" ConditionCid="CID_M013" LocatorCount="3" PauseGroupNameList1="拠点_プール;" PauseGroupNameList2="拠点_プール;" PauseGroupNameList3="拠点_プール;" PauseGroupNameList4="" />
+			<Param Name="FleaMarket_front" MID="PSSMID_FleaMarket_front" ConditionCid="CID_M013" LocatorCount="4" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="基本;拠点;勝利;紋章士;" PauseGroupNameList4="マスコット;" />
+			<Param Name="FleaMarket1" MID="PSSMID_FleaMarket1" ConditionCid="CID_M013" LocatorCount="4" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="基本;拠点;勝利;紋章士;" PauseGroupNameList4="マスコット;" />
+			<Param Name="Fortune_front" MID="PSSMID_Fortune_front" ConditionCid="CID_M015" LocatorCount="4" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="基本;拠点;勝利;紋章士;" PauseGroupNameList4="マスコット;" />
+			<Param Name="Fortune1" MID="PSSMID_Fortune1" ConditionCid="CID_M015" LocatorCount="4" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="基本;拠点;勝利;紋章士;" PauseGroupNameList4="マスコット;" />
+			<Param Name="Orchard_front" MID="PSSMID_Orchard_front" ConditionCid="CID_M006" LocatorCount="4" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="基本;拠点;勝利;紋章士;" PauseGroupNameList4="マスコット;" />
+			<Param Name="Orchard1" MID="PSSMID_Orchard1" ConditionCid="CID_M007" LocatorCount="4" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="基本;拠点;勝利;紋章士;" PauseGroupNameList4="マスコット;" />
+			<Param Name="Fountain_front" MID="PSSMID_Fountain_front" ConditionCid="CID_M006" LocatorCount="4" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="基本;拠点;勝利;紋章士;" PauseGroupNameList4="マスコット;" />
+			<Param Name="Fountain1" MID="PSSMID_Fountain1" ConditionCid="CID_M007" LocatorCount="4" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="基本;拠点;勝利;紋章士;" PauseGroupNameList4="マスコット;" />
+			<Param Name="Corridor1" MID="PSSMID_Corridor1" ConditionCid="CID_M006" LocatorCount="2" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="" PauseGroupNameList4="" />
+			<Param Name="Pond_front" MID="PSSMID_Pond_front" ConditionCid="CID_M008" LocatorCount="4" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="基本;拠点;勝利;紋章士;" PauseGroupNameList4="マスコット;" />
+			<Param Name="Pond1" MID="PSSMID_Pond1" ConditionCid="CID_M008" LocatorCount="3" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="マスコット;" PauseGroupNameList4="" />
+			<Param Name="Pond2" MID="PSSMID_Pond2" ConditionCid="CID_M008" LocatorCount="4" PauseGroupNameList1="基本;拠点_座る有;勝利;紋章士;" PauseGroupNameList2="基本;拠点_座る有;勝利;紋章士;" PauseGroupNameList3="基本;拠点_座る有;勝利;紋章士;" PauseGroupNameList4="マスコット;" />
+			<Param Name="TrainingSpot_front" MID="PSSMID_TrainingSpot_front" ConditionCid="CID_M006" LocatorCount="4" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="基本;拠点;勝利;紋章士;" PauseGroupNameList4="マスコット;" />
+			<Param Name="TrainingSpot1" MID="PSSMID_TrainingSpot1" ConditionCid="CID_M006" LocatorCount="4" PauseGroupNameList1="基本;拠点_裏庭;勝利;紋章士;" PauseGroupNameList2="基本;拠点_裏庭;勝利;紋章士;" PauseGroupNameList3="基本;拠点_裏庭;勝利;紋章士;" PauseGroupNameList4="マスコット;" />
+			<Param Name="TrainingSpot2" MID="PSSMID_TrainingSpot2" ConditionCid="CID_M011" LocatorCount="3" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="マスコット;" PauseGroupNameList4="" />
+			<Param Name="TrainingSpot3" MID="PSSMID_TrainingSpot3" ConditionCid="CID_M011" LocatorCount="3" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="マスコット;" PauseGroupNameList4="" />
+			<Param Name="TrainingSpot4" MID="PSSMID_TrainingSpot4" ConditionCid="CID_M026" LocatorCount="4" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="基本;拠点;勝利;紋章士;" PauseGroupNameList4="マスコット;" />
+			<Param Name="Farm_front" MID="PSSMID_Farm_front" ConditionCid="CID_M006" LocatorCount="4" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="基本;拠点;勝利;紋章士;" PauseGroupNameList4="マスコット;" />
+			<Param Name="Farm1" MID="PSSMID_Farm1" ConditionCid="CID_M006" LocatorCount="3" PauseGroupNameList1="基本;拠点_座る有;勝利;紋章士;" PauseGroupNameList2="基本;拠点_座る有;勝利;紋章士;" PauseGroupNameList3="マスコット;" PauseGroupNameList4="" />
+			<Param Name="Farm2" MID="PSSMID_Farm2" ConditionCid="CID_M006" LocatorCount="4" PauseGroupNameList1="基本;拠点_座る有;勝利;紋章士;" PauseGroupNameList2="基本;拠点_座る有;勝利;紋章士;" PauseGroupNameList3="基本;拠点_座る有;勝利;紋章士;" PauseGroupNameList4="マスコット;" />
+			<Param Name="Farm3" MID="PSSMID_Farm3" ConditionCid="CID_M015" LocatorCount="3" PauseGroupNameList1="基本;拠点_座る有;勝利;紋章士;" PauseGroupNameList2="基本;拠点_座る有;勝利;紋章士;" PauseGroupNameList3="マスコット;" PauseGroupNameList4="" />
+			<Param Name="Cave_front" MID="PSSMID_Cave_front" ConditionCid="CID_M007" LocatorCount="4" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="基本;拠点;勝利;紋章士;" PauseGroupNameList4="マスコット;" />
+			<Param Name="Cave1" MID="PSSMID_Cave1" ConditionCid="CID_M008" LocatorCount="4" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="基本;拠点;勝利;紋章士;" PauseGroupNameList4="マスコット;" />
+			<Param Name="GoodViewSpot_front" MID="PSSMID_GoodViewSpot_front" ConditionCid="CID_M011" LocatorCount="4" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="拠点_椅子;" PauseGroupNameList3="基本;拠点;勝利;紋章士;" PauseGroupNameList4="マスコット;" />
+			<Param Name="GoodViewSpot1" MID="PSSMID_GoodViewSpot1" ConditionCid="CID_M011" LocatorCount="4" PauseGroupNameList1="基本;拠点_座る有;勝利;紋章士;" PauseGroupNameList2="拠点_椅子;" PauseGroupNameList3="拠点_椅子;" PauseGroupNameList4="マスコット;" />
+			<Param Name="Tower_front" MID="PSSMID_Tower_front" ConditionCid="CID_M006" LocatorCount="3" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="基本;拠点;勝利;紋章士;" PauseGroupNameList4="" />
+			<Param Name="Tower1" MID="PSSMID_Tower1" ConditionCid="CID_M006" LocatorCount="4" PauseGroupNameList1="基本;拠点;勝利;紋章士;" PauseGroupNameList2="基本;拠点;勝利;紋章士;" PauseGroupNameList3="基本;拠点;勝利;紋章士;" PauseGroupNameList4="マスコット;" />
+		</Data>
+	</Sheet>
+	<Sheet Name="ポーズ" Count="286">
+		<Header>
+			<Param Name="グループ名" Ident="GroupName" Type="PublicArray" Min="" Max="" Chg="" />
+			<Param Name="ポーズ名" Ident="PauseName" Type="string" Min="" Max="" Chg="" />
+			<Param Name="ポーズ名" Ident="Mid" Type="string" Min="" Max="" Chg="" />
+			<Param Name="ポーズ番号" Ident="No" Type="int" Min="" Max="" Chg="" />
+			<Param Name="アニメフレーム" Ident="AnimeFrame" Type="int" Min="" Max="" Chg="" />
+			<Param Name="表情アニメ" Ident="FaceAnime" Type="string" Min="" Max="" Chg="" />
+			<Param Name="ポーズ差分対象ユニットのリスト" Ident="CharaIdList" Type="string[]" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param GroupName="基本" PauseName="" Mid="" No="" AnimeFrame="" FaceAnime="" CharaIdList="" />
+			<Param GroupName="" PauseName="待つ1" Mid="PSPMID_Normal" No="1" AnimeFrame="1" FaceAnime="Normal" CharaIdList="" />
+			<Param GroupName="" PauseName="待つ2" Mid="PSPMID_Normal" No="2" AnimeFrame="2" FaceAnime="Normal" CharaIdList="" />
+			<Param GroupName="" PauseName="待つ3" Mid="PSPMID_Normal" No="3" AnimeFrame="3" FaceAnime="Normal" CharaIdList="" />
+			<Param GroupName="" PauseName="待つ4" Mid="PSPMID_Normal" No="4" AnimeFrame="4" FaceAnime="Normal" CharaIdList="" />
+			<Param GroupName="" PauseName="怒る1" Mid="PSPMID_Angry" No="1" AnimeFrame="5" FaceAnime="Angry" CharaIdList="" />
+			<Param GroupName="" PauseName="怒る2" Mid="PSPMID_Angry" No="2" AnimeFrame="6" FaceAnime="Angry" CharaIdList="" />
+			<Param GroupName="" PauseName="怒る3" Mid="PSPMID_Angry" No="3" AnimeFrame="7" FaceAnime="Angry" CharaIdList="" />
+			<Param GroupName="" PauseName="否定する1" Mid="PSPMID_Deny" No="1" AnimeFrame="8" FaceAnime="Shy" CharaIdList="" />
+			<Param GroupName="" PauseName="否定する2" Mid="PSPMID_Deny" No="2" AnimeFrame="9" FaceAnime="Shy" CharaIdList="" />
+			<Param GroupName="" PauseName="否定する3" Mid="PSPMID_Deny" No="3" AnimeFrame="10" FaceAnime="Angry" CharaIdList="" />
+			<Param GroupName="" PauseName="否定する4" Mid="PSPMID_Deny" No="4" AnimeFrame="11" FaceAnime="Shy" CharaIdList="" />
+			<Param GroupName="" PauseName="否定する5" Mid="PSPMID_Deny" No="5" AnimeFrame="12" FaceAnime="Angry" CharaIdList="" />
+			<Param GroupName="" PauseName="否定する6" Mid="PSPMID_Deny" No="6" AnimeFrame="13" FaceAnime="Angry" CharaIdList="" />
+			<Param GroupName="" PauseName="あげる1" Mid="PSPMID_Give" No="1" AnimeFrame="14" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="あげる2" Mid="PSPMID_Give" No="2" AnimeFrame="15" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="あげる3" Mid="PSPMID_Give" No="3" AnimeFrame="16" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="喜ぶ1" Mid="PSPMID_Joy" No="1" AnimeFrame="17" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="喜ぶ2" Mid="PSPMID_Joy" No="2" AnimeFrame="18" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="喜ぶ3" Mid="PSPMID_Joy" No="3" AnimeFrame="19" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="はしゃぐ1" Mid="PSPMID_Joy2" No="1" AnimeFrame="20" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="はしゃぐ2" Mid="PSPMID_Joy2" No="2" AnimeFrame="21" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="はしゃぐ3" Mid="PSPMID_Joy2" No="3" AnimeFrame="22" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="はしゃぐ4" Mid="PSPMID_Joy2" No="4" AnimeFrame="23" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="はしゃぐ5" Mid="PSPMID_Joy2" No="5" AnimeFrame="24" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="見回す(右)1" Mid="PSPMID_LookR" No="1" AnimeFrame="25" FaceAnime="Normal" CharaIdList="" />
+			<Param GroupName="" PauseName="見回す(右)2" Mid="PSPMID_LookR" No="2" AnimeFrame="26" FaceAnime="Normal" CharaIdList="" />
+			<Param GroupName="" PauseName="見回す(右)3" Mid="PSPMID_LookR" No="3" AnimeFrame="27" FaceAnime="Normal" CharaIdList="" />
+			<Param GroupName="" PauseName="見回す(右)4" Mid="PSPMID_LookR" No="4" AnimeFrame="28" FaceAnime="Normal" CharaIdList="" />
+			<Param GroupName="" PauseName="見回す(左)1" Mid="PSPMID_LookL" No="1" AnimeFrame="29" FaceAnime="Normal" CharaIdList="" />
+			<Param GroupName="" PauseName="見回す(左)2" Mid="PSPMID_LookL" No="2" AnimeFrame="30" FaceAnime="Normal" CharaIdList="" />
+			<Param GroupName="" PauseName="見回す(左)3" Mid="PSPMID_LookL" No="3" AnimeFrame="31" FaceAnime="Normal" CharaIdList="" />
+			<Param GroupName="" PauseName="見回す(左)4" Mid="PSPMID_LookL" No="4" AnimeFrame="32" FaceAnime="Normal" CharaIdList="" />
+			<Param GroupName="" PauseName="祈る1" Mid="PSPMID_Pray" No="1" AnimeFrame="33" FaceAnime="Die" CharaIdList="" />
+			<Param GroupName="" PauseName="祈る2" Mid="PSPMID_Pray" No="2" AnimeFrame="34" FaceAnime="Die" CharaIdList="" />
+			<Param GroupName="" PauseName="祈る3" Mid="PSPMID_Pray" No="3" AnimeFrame="35" FaceAnime="Die" CharaIdList="" />
+			<Param GroupName="" PauseName="祈る4" Mid="PSPMID_Pray" No="4" AnimeFrame="36" FaceAnime="Die" CharaIdList="" />
+			<Param GroupName="" PauseName="誇る1" Mid="PSPMID_Proud" No="1" AnimeFrame="37" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="誇る2" Mid="PSPMID_Proud" No="2" AnimeFrame="38" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="誇る3" Mid="PSPMID_Proud" No="3" AnimeFrame="39" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="誇る4" Mid="PSPMID_Proud" No="4" AnimeFrame="40" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="誇る5" Mid="PSPMID_Proud" No="5" AnimeFrame="41" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="安心する1" Mid="PSPMID_Relax" No="1" AnimeFrame="42" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="安心する2" Mid="PSPMID_Relax" No="2" AnimeFrame="43" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="安心する3" Mid="PSPMID_Relax" No="3" AnimeFrame="44" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="安心する4" Mid="PSPMID_Relax" No="4" AnimeFrame="45" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="落ち込む1" Mid="PSPMID_Sad" No="1" AnimeFrame="46" FaceAnime="Sad" CharaIdList="" />
+			<Param GroupName="" PauseName="落ち込む2" Mid="PSPMID_Sad" No="2" AnimeFrame="47" FaceAnime="Sad" CharaIdList="" />
+			<Param GroupName="" PauseName="落ち込む3" Mid="PSPMID_Sad" No="3" AnimeFrame="48" FaceAnime="Normal" CharaIdList="" />
+			<Param GroupName="" PauseName="落ち込む4" Mid="PSPMID_Sad" No="4" AnimeFrame="49" FaceAnime="Sad" CharaIdList="" />
+			<Param GroupName="" PauseName="悲しむ1" Mid="PSPMID_Sad2" No="1" AnimeFrame="50" FaceAnime="Sad" CharaIdList="" />
+			<Param GroupName="" PauseName="悲しむ2" Mid="PSPMID_Sad2" No="2" AnimeFrame="51" FaceAnime="Sad" CharaIdList="" />
+			<Param GroupName="" PauseName="悲しむ3" Mid="PSPMID_Sad2" No="3" AnimeFrame="52" FaceAnime="Sad" CharaIdList="" />
+			<Param GroupName="" PauseName="悲しむ4" Mid="PSPMID_Sad2" No="4" AnimeFrame="53" FaceAnime="Sad" CharaIdList="" />
+			<Param GroupName="" PauseName="照れる1" Mid="PSPMID_Shy" No="1" AnimeFrame="54" FaceAnime="Shy" CharaIdList="" />
+			<Param GroupName="" PauseName="照れる2" Mid="PSPMID_Shy" No="2" AnimeFrame="55" FaceAnime="Shy" CharaIdList="" />
+			<Param GroupName="" PauseName="照れる3" Mid="PSPMID_Shy" No="3" AnimeFrame="56" FaceAnime="Shy" CharaIdList="" />
+			<Param GroupName="" PauseName="仰天する1" Mid="PSPMID_Surprise" No="1" AnimeFrame="57" FaceAnime="Surprise" CharaIdList="" />
+			<Param GroupName="" PauseName="仰天する2" Mid="PSPMID_Surprise" No="2" AnimeFrame="58" FaceAnime="Surprise" CharaIdList="" />
+			<Param GroupName="" PauseName="仰天する3" Mid="PSPMID_Surprise" No="3" AnimeFrame="59" FaceAnime="Surprise" CharaIdList="" />
+			<Param GroupName="" PauseName="仰天する4" Mid="PSPMID_Surprise" No="4" AnimeFrame="60" FaceAnime="Normal" CharaIdList="" />
+			<Param GroupName="" PauseName="仰天する5" Mid="PSPMID_Surprise" No="5" AnimeFrame="61" FaceAnime="Surprise" CharaIdList="" />
+			<Param GroupName="" PauseName="仰天する6" Mid="PSPMID_Surprise" No="6" AnimeFrame="62" FaceAnime="Surprise" CharaIdList="" />
+			<Param GroupName="" PauseName="驚く1" Mid="PSPMID_Surprise2" No="1" AnimeFrame="63" FaceAnime="Surprise" CharaIdList="" />
+			<Param GroupName="" PauseName="驚く2" Mid="PSPMID_Surprise2" No="2" AnimeFrame="64" FaceAnime="Surprise" CharaIdList="" />
+			<Param GroupName="" PauseName="話す1" Mid="PSPMID_Talk" No="1" AnimeFrame="65" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="話す2" Mid="PSPMID_Talk" No="2" AnimeFrame="66" FaceAnime="Normal" CharaIdList="" />
+			<Param GroupName="" PauseName="話す3" Mid="PSPMID_Talk" No="3" AnimeFrame="67" FaceAnime="Normal" CharaIdList="" />
+			<Param GroupName="" PauseName="話す4" Mid="PSPMID_Talk" No="4" AnimeFrame="68" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="話す5" Mid="PSPMID_Talk" No="5" AnimeFrame="69" FaceAnime="Normal" CharaIdList="" />
+			<Param GroupName="" PauseName="喋る1" Mid="PSPMID_Talk2" No="1" AnimeFrame="70" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="喋る2" Mid="PSPMID_Talk2" No="2" AnimeFrame="71" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="喋る3" Mid="PSPMID_Talk2" No="3" AnimeFrame="72" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="喋る4" Mid="PSPMID_Talk2" No="4" AnimeFrame="73" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="喋る5" Mid="PSPMID_Talk2" No="5" AnimeFrame="74" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="考える1" Mid="PSPMID_Think" No="1" AnimeFrame="75" FaceAnime="Normal" CharaIdList="" />
+			<Param GroupName="" PauseName="考える2" Mid="PSPMID_Think" No="2" AnimeFrame="76" FaceAnime="Normal" CharaIdList="" />
+			<Param GroupName="" PauseName="考える3" Mid="PSPMID_Think" No="3" AnimeFrame="77" FaceAnime="Normal" CharaIdList="" />
+			<Param GroupName="" PauseName="疲れる1" Mid="PSPMID_Tired" No="1" AnimeFrame="78" FaceAnime="Sad" CharaIdList="" />
+			<Param GroupName="" PauseName="疲れる2" Mid="PSPMID_Tired" No="2" AnimeFrame="79" FaceAnime="Sad" CharaIdList="" />
+			<Param GroupName="" PauseName="疲れる3" Mid="PSPMID_Tired" No="3" AnimeFrame="80" FaceAnime="Sad" CharaIdList="" />
+			<Param GroupName="" PauseName="手を振る1" Mid="PSPMID_Wave" No="1" AnimeFrame="81" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="手を振る2" Mid="PSPMID_Wave" No="2" AnimeFrame="82" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="手を振る3" Mid="PSPMID_Wave" No="3" AnimeFrame="83" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="手を振る4" Mid="PSPMID_Wave" No="4" AnimeFrame="84" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="手を振る5" Mid="PSPMID_Wave" No="5" AnimeFrame="85" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="お手軽ポーズ1" Mid="PSPMID_Posing" No="1" AnimeFrame="86" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="お手軽ポーズ2" Mid="PSPMID_Posing" No="2" AnimeFrame="87" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="お手軽ポーズ3" Mid="PSPMID_Posing" No="3" AnimeFrame="88" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="お手軽ポーズ4" Mid="PSPMID_Posing" No="4" AnimeFrame="89" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="お手軽ポーズ5" Mid="PSPMID_Posing" No="5" AnimeFrame="90" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="決めポーズ1" Mid="PSPMID_Posing2" No="1" AnimeFrame="91" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="決めポーズ2" Mid="PSPMID_Posing2" No="2" AnimeFrame="92" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="決めポーズ3" Mid="PSPMID_Posing2" No="3" AnimeFrame="93" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="決めポーズ4" Mid="PSPMID_Posing2" No="4" AnimeFrame="94" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="決めポーズ5" Mid="PSPMID_Posing2" No="5" AnimeFrame="95" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="決めポーズ6" Mid="PSPMID_Posing2" No="6" AnimeFrame="96" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="決めポーズ7" Mid="PSPMID_Posing2" No="7" AnimeFrame="97" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="拠点" PauseName="" Mid="" No="" AnimeFrame="" FaceAnime="" CharaIdList="" />
+			<Param GroupName="" PauseName="応援1" Mid="PSPMID_Cheer1" No="1" AnimeFrame="98" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="応援2" Mid="PSPMID_Cheer1" No="2" AnimeFrame="99" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="応援3" Mid="PSPMID_Cheer2" No="0" AnimeFrame="100" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="応援4" Mid="PSPMID_FishShow" No="0" AnimeFrame="101" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="エサやり1" Mid="PSPMID_ScatterR" No="0" AnimeFrame="102" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="エサやり2" Mid="PSPMID_ScatterL" No="0" AnimeFrame="103" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="歌う1" Mid="PSPMID_Sing" No="1" AnimeFrame="104" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="歌う2" Mid="PSPMID_Sing" No="2" AnimeFrame="105" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="水浴び1" Mid="PSPMID_Splash_OneHand" No="0" AnimeFrame="106" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="水浴び2" Mid="PSPMID_SplashothHands" No="0" AnimeFrame="107" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="水浴び3" Mid="PSPMID_Splash" No="0" AnimeFrame="108" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="ギター" Mid="PSPMID_Guitar" No="0" AnimeFrame="109" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="ブラッシング" Mid="PSPMID_StrokeStand" No="0" AnimeFrame="110" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="水やり1" Mid="PSPMID_WateringR" No="0" AnimeFrame="111" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="水やり2" Mid="PSPMID_WateringL" No="0" AnimeFrame="112" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="収穫1" Mid="PSPMID_Pick1" No="0" AnimeFrame="113" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="収穫2" Mid="PSPMID_Pick2" No="0" AnimeFrame="114" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="収穫3" Mid="PSPMID_Pick3" No="0" AnimeFrame="115" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="拠点_座る有" PauseName="" Mid="" No="" AnimeFrame="" FaceAnime="" CharaIdList="" />
+			<Param GroupName="" PauseName="応援1" Mid="PSPMID_Cheer1" No="1" AnimeFrame="98" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="応援2" Mid="PSPMID_Cheer1" No="2" AnimeFrame="99" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="応援3" Mid="PSPMID_Cheer2" No="0" AnimeFrame="100" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="応援4" Mid="PSPMID_FishShow" No="0" AnimeFrame="101" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="エサやり1" Mid="PSPMID_ScatterR" No="0" AnimeFrame="102" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="エサやり2" Mid="PSPMID_ScatterL" No="0" AnimeFrame="103" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="歌う1" Mid="PSPMID_Sing" No="1" AnimeFrame="104" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="歌う2" Mid="PSPMID_Sing" No="2" AnimeFrame="105" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="水浴び1" Mid="PSPMID_Splash_OneHand" No="0" AnimeFrame="106" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="水浴び2" Mid="PSPMID_SplashothHands" No="0" AnimeFrame="107" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="水浴び3" Mid="PSPMID_Splash" No="0" AnimeFrame="108" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="ギター" Mid="PSPMID_Guitar" No="0" AnimeFrame="109" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="ブラッシング" Mid="PSPMID_StrokeStand" No="0" AnimeFrame="110" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="水やり1" Mid="PSPMID_WateringR" No="0" AnimeFrame="111" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="水やり2" Mid="PSPMID_WateringL" No="0" AnimeFrame="112" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="収穫1" Mid="PSPMID_Pick1" No="0" AnimeFrame="113" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="収穫2" Mid="PSPMID_Pick2" No="0" AnimeFrame="114" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="収穫3" Mid="PSPMID_Pick3" No="0" AnimeFrame="115" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="座る" Mid="PSPMID_SitNormal" No="0" AnimeFrame="116" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="拠点_裏庭" PauseName="" Mid="" No="" AnimeFrame="" FaceAnime="" CharaIdList="" />
+			<Param GroupName="" PauseName="応援1" Mid="PSPMID_Cheer1" No="1" AnimeFrame="98" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="応援2" Mid="PSPMID_Cheer1" No="2" AnimeFrame="99" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="応援3" Mid="PSPMID_Cheer2" No="0" AnimeFrame="100" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="応援4" Mid="PSPMID_FishShow" No="0" AnimeFrame="101" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="エサやり1" Mid="PSPMID_ScatterR" No="0" AnimeFrame="102" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="エサやり2" Mid="PSPMID_ScatterL" No="0" AnimeFrame="103" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="歌う1" Mid="PSPMID_Sing" No="1" AnimeFrame="104" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="歌う2" Mid="PSPMID_Sing" No="2" AnimeFrame="105" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="水浴び1" Mid="PSPMID_Splash_OneHand" No="0" AnimeFrame="106" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="水浴び2" Mid="PSPMID_SplashothHands" No="0" AnimeFrame="107" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="水浴び3" Mid="PSPMID_Splash" No="0" AnimeFrame="108" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="ギター" Mid="PSPMID_Guitar" No="0" AnimeFrame="109" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="ブラッシング" Mid="PSPMID_StrokeStand" No="0" AnimeFrame="110" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="水やり1" Mid="PSPMID_WateringR" No="0" AnimeFrame="111" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="水やり2" Mid="PSPMID_WateringL" No="0" AnimeFrame="112" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="収穫1" Mid="PSPMID_Pick1" No="0" AnimeFrame="113" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="収穫2" Mid="PSPMID_Pick2" No="0" AnimeFrame="114" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="収穫3" Mid="PSPMID_Pick3" No="0" AnimeFrame="115" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="座る" Mid="PSPMID_SitNormal" No="0" AnimeFrame="116" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="腹筋1" Mid="PSPMID_SitUp_Start" No="0" AnimeFrame="117" FaceAnime="Pain" CharaIdList="" />
+			<Param GroupName="" PauseName="腹筋2" Mid="PSPMID_SitUp_End" No="0" AnimeFrame="118" FaceAnime="Pain" CharaIdList="" />
+			<Param GroupName="" PauseName="スクワット1" Mid="PSPMID_Squat_Start" No="0" AnimeFrame="119" FaceAnime="Pain" CharaIdList="" />
+			<Param GroupName="" PauseName="スクワット2" Mid="PSPMID_Squat_End" No="0" AnimeFrame="120" FaceAnime="Pain" CharaIdList="" />
+			<Param GroupName="" PauseName="腕立て伏せ1" Mid="PSPMID_PushUp_Start" No="0" AnimeFrame="121" FaceAnime="Pain" CharaIdList="" />
+			<Param GroupName="" PauseName="腕立て伏せ2" Mid="PSPMID_PushUp_End" No="0" AnimeFrame="122" FaceAnime="Pain" CharaIdList="" />
+			<Param GroupName="拠点_椅子" PauseName="" Mid="" No="" AnimeFrame="" FaceAnime="" CharaIdList="" />
+			<Param GroupName="" PauseName="椅子に座る1" Mid="PSPMID_ChairNormal" No="1" AnimeFrame="143" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="椅子に座る2" Mid="PSPMID_ChairNormal" No="2" AnimeFrame="144" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="美味しい1" Mid="PSPMID_ReactionGood" No="1" AnimeFrame="145" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="美味しい2" Mid="PSPMID_ReactionGood" No="2" AnimeFrame="146" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="美味しい3" Mid="PSPMID_ReactionGreat" No="0" AnimeFrame="147" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="不味い1" Mid="PSPMID_Reactionbad" No="1" AnimeFrame="148" FaceAnime="Sad" CharaIdList="" />
+			<Param GroupName="" PauseName="不味い2" Mid="PSPMID_Reactionbad" No="2" AnimeFrame="149" FaceAnime="Sad" CharaIdList="" />
+			<Param GroupName="拠点_プール" PauseName="" Mid="" No="" AnimeFrame="" FaceAnime="" CharaIdList="" />
+			<Param GroupName="" PauseName="水浴び1" Mid="PSPMID_Splash_OneHand" No="0" AnimeFrame="106" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="水浴び2" Mid="PSPMID_SplashothHands" No="0" AnimeFrame="107" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="水浴び3" Mid="PSPMID_Splash" No="0" AnimeFrame="108" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="勝利" PauseName="" Mid="" No="" AnimeFrame="" FaceAnime="" CharaIdList="" />
+			<Param GroupName="" PauseName="剣1" Mid="PSPMID_Battle_Sword" No="1" AnimeFrame="123" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="剣2" Mid="PSPMID_Battle_Sword" No="2" AnimeFrame="124" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="剣3" Mid="PSPMID_Battle_Sword" No="3" AnimeFrame="125" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="槍1" Mid="PSPMID_Battle_Lance" No="1" AnimeFrame="126" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="槍2" Mid="PSPMID_Battle_Lance" No="2" AnimeFrame="127" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="槍3" Mid="PSPMID_Battle_Lance" No="3" AnimeFrame="128" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="斧1" Mid="PSPMID_Battle_Axe" No="1" AnimeFrame="129" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="斧2" Mid="PSPMID_Battle_Axe" No="2" AnimeFrame="130" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="斧3" Mid="PSPMID_Battle_Axe" No="3" AnimeFrame="131" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="弓1" Mid="PSPMID_Battle_Bow" No="1" AnimeFrame="132" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="弓2" Mid="PSPMID_Battle_Bow" No="2" AnimeFrame="133" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="弓3" Mid="PSPMID_Battle_Bow" No="3" AnimeFrame="134" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="魔導書1" Mid="PSPMID_Battle_Magic" No="1" AnimeFrame="137" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="魔導書2" Mid="PSPMID_Battle_Magic" No="2" AnimeFrame="138" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="短剣1" Mid="PSPMID_Battle_Knife" No="1" AnimeFrame="135" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="短剣2" Mid="PSPMID_Battle_Knife" No="2" AnimeFrame="136" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="体術1" Mid="PSPMID_Battle_Fist" No="1" AnimeFrame="139" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="体術2" Mid="PSPMID_Battle_Fist" No="2" AnimeFrame="140" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="体術3" Mid="PSPMID_Battle_Fist" No="3" AnimeFrame="141" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="体術4" Mid="PSPMID_Battle_Fist" No="4" AnimeFrame="142" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="紋章士" PauseName="" Mid="" No="" AnimeFrame="" FaceAnime="" CharaIdList="" />
+			<Param GroupName="" PauseName="待つ" Mid="PSPMID_Normal" No="0" AnimeFrame="1" FaceAnime="Normal" CharaIdList="" />
+			<Param GroupName="" PauseName="怒る" Mid="PSPMID_Angry" No="0" AnimeFrame="2" FaceAnime="Angry" CharaIdList="" />
+			<Param GroupName="" PauseName="否定する" Mid="PSPMID_Deny" No="0" AnimeFrame="3" FaceAnime="Normal" CharaIdList="" />
+			<Param GroupName="" PauseName="首を振る" Mid="PSPMID_Deny2" No="0" AnimeFrame="4" FaceAnime="Angry" CharaIdList="" />
+			<Param GroupName="" PauseName="あげる" Mid="PSPMID_Give" No="0" AnimeFrame="5" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="喜ぶ" Mid="PSPMID_Joy" No="0" AnimeFrame="6" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="はしゃぐ" Mid="PSPMID_Joy2" No="0" AnimeFrame="7" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="見回す(右)" Mid="PSPMID_LookR" No="0" AnimeFrame="8" FaceAnime="Normal" CharaIdList="" />
+			<Param GroupName="" PauseName="見回す(左)" Mid="PSPMID_LookL" No="0" AnimeFrame="9" FaceAnime="Normal" CharaIdList="" />
+			<Param GroupName="" PauseName="祈る" Mid="PSPMID_Pray" No="0" AnimeFrame="10" FaceAnime="Die" CharaIdList="" />
+			<Param GroupName="" PauseName="誇る" Mid="PSPMID_Proud" No="0" AnimeFrame="11" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="安心する" Mid="PSPMID_Relax" No="0" AnimeFrame="12" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="落ち込む" Mid="PSPMID_Sad" No="0" AnimeFrame="13" FaceAnime="Sad" CharaIdList="" />
+			<Param GroupName="" PauseName="悲しむ" Mid="PSPMID_Sad2" No="0" AnimeFrame="14" FaceAnime="Sad" CharaIdList="" />
+			<Param GroupName="" PauseName="照れる" Mid="PSPMID_Shy" No="0" AnimeFrame="15" FaceAnime="Shy" CharaIdList="" />
+			<Param GroupName="" PauseName="仰天する" Mid="PSPMID_Surprise" No="0" AnimeFrame="16" FaceAnime="Surprise" CharaIdList="" />
+			<Param GroupName="" PauseName="驚く" Mid="PSPMID_Surprise2" No="0" AnimeFrame="17" FaceAnime="Surprise" CharaIdList="" />
+			<Param GroupName="" PauseName="話す" Mid="PSPMID_Talk" No="0" AnimeFrame="18" FaceAnime="Normal" CharaIdList="" />
+			<Param GroupName="" PauseName="喋る" Mid="PSPMID_Talk2" No="0" AnimeFrame="19" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="考える" Mid="PSPMID_Think" No="0" AnimeFrame="20" FaceAnime="Normal" CharaIdList="" />
+			<Param GroupName="" PauseName="疲れる" Mid="PSPMID_Tired" No="0" AnimeFrame="21" FaceAnime="Normal" CharaIdList="" />
+			<Param GroupName="" PauseName="手を振る" Mid="PSPMID_Wave" No="0" AnimeFrame="22" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="マスコット" PauseName="" Mid="" No="" AnimeFrame="" FaceAnime="" CharaIdList="" />
+			<Param GroupName="" PauseName="待つ" Mid="PSPMID_Mascot_Normal" No="0" AnimeFrame="1" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="怒る" Mid="PSPMID_Mascot_Angry" No="0" AnimeFrame="2" FaceAnime="Angry" CharaIdList="" />
+			<Param GroupName="" PauseName="喜ぶ" Mid="PSPMID_Mascot_Joy" No="0" AnimeFrame="3" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="はしゃぐ" Mid="PSPMID_Mascot_Cheer" No="0" AnimeFrame="4" FaceAnime="Smile" CharaIdList="" />
+			<Param GroupName="" PauseName="落ち着く" Mid="PSPMID_Mascot_Petted" No="0" AnimeFrame="5" FaceAnime="Normal" CharaIdList="" />
+			<Param GroupName="" PauseName="悲しむ" Mid="PSPMID_Mascot_Sad" No="0" AnimeFrame="6" FaceAnime="Sad" CharaIdList="" />
+			<Param GroupName="" PauseName="見回す(右)" Mid="PSPMID_Mascot_GestureR" No="0" AnimeFrame="7" FaceAnime="Normal" CharaIdList="" />
+			<Param GroupName="" PauseName="見回す(左)" Mid="PSPMID_Mascot_GestureL" No="0" AnimeFrame="8" FaceAnime="Normal" CharaIdList="" />
+			<Param GroupName="" PauseName="食べる" Mid="PSPMID_Mascot_Eat" No="0" AnimeFrame="9" FaceAnime="Normal" CharaIdList="" />
+			<Param GroupName="" PauseName="のびる" Mid="PSPMID_Mascot_Drop" No="0" AnimeFrame="10" FaceAnime="Die" CharaIdList="" />
+			<Param GroupName="" PauseName="決めポーズ" Mid="PSPMID_Mascot_GetUp" No="0" AnimeFrame="11" FaceAnime="Normal" CharaIdList="" />
+			<Param GroupName="" PauseName="座る" Mid="PSPMID_Mascot_Sit" No="0" AnimeFrame="12" FaceAnime="Normal" CharaIdList="" />
+			<Param GroupName="" PauseName="寝る" Mid="PSPMID_Mascot_Sleep" No="0" AnimeFrame="13" FaceAnime="Die" CharaIdList="" />
+			<Param GroupName="ポーズ差分" PauseName="" Mid="" No="" AnimeFrame="" FaceAnime="" CharaIdList="" />
+			<Param GroupName="" PauseName="否定する1" Mid="" No="0" AnimeFrame="150" FaceAnime="" CharaIdList="リュール男;ヴァンドレ;フォガート;カゲツ;ボネ;グレゴリー;シトリニカ;メリン;" />
+			<Param GroupName="" PauseName="否定する1" Mid="" No="0" AnimeFrame="151" FaceAnime="" CharaIdList="ブシュロン;ルイ;モーヴ;ザフィーア;" />
+			<Param GroupName="" PauseName="否定する6" Mid="" No="0" AnimeFrame="152" FaceAnime="" CharaIdList="リュール男;ヴァンドレ;フォガート;カゲツ;ボネ;グレゴリー;シトリニカ;メリン;" />
+			<Param GroupName="" PauseName="否定する6" Mid="" No="0" AnimeFrame="153" FaceAnime="" CharaIdList="ブシュロン;ルイ;モーヴ;ザフィーア;" />
+			<Param GroupName="" PauseName="祈る2" Mid="" No="0" AnimeFrame="154" FaceAnime="" CharaIdList="リュール男;ヴァンドレ;フォガート;カゲツ;ボネ;グレゴリー;シトリニカ;メリン;" />
+			<Param GroupName="" PauseName="祈る2" Mid="" No="0" AnimeFrame="155" FaceAnime="" CharaIdList="ブシュロン;ルイ;モーヴ;ザフィーア;" />
+			<Param GroupName="" PauseName="祈る2" Mid="" No="0" AnimeFrame="156" FaceAnime="" CharaIdList="スタルーク;ジャン;クラン;" />
+			<Param GroupName="" PauseName="祈る3" Mid="" No="0" AnimeFrame="157" FaceAnime="" CharaIdList="リュール男;ヴァンドレ;フォガート;カゲツ;ボネ;グレゴリー;シトリニカ;メリン;" />
+			<Param GroupName="" PauseName="祈る3" Mid="" No="0" AnimeFrame="158" FaceAnime="" CharaIdList="ブシュロン;ルイ;モーヴ;ザフィーア;" />
+			<Param GroupName="" PauseName="祈る3" Mid="" No="0" AnimeFrame="159" FaceAnime="" CharaIdList="スタルーク;ジャン;クラン;" />
+			<Param GroupName="" PauseName="祈る4" Mid="" No="0" AnimeFrame="160" FaceAnime="" CharaIdList="リュール男;ヴァンドレ;フォガート;カゲツ;ボネ;グレゴリー;シトリニカ;メリン;" />
+			<Param GroupName="" PauseName="祈る4" Mid="" No="0" AnimeFrame="161" FaceAnime="" CharaIdList="ブシュロン;ルイ;モーヴ;ザフィーア;" />
+			<Param GroupName="" PauseName="祈る4" Mid="" No="0" AnimeFrame="162" FaceAnime="" CharaIdList="スタルーク;ジャン;クラン;" />
+			<Param GroupName="" PauseName="誇る1" Mid="" No="0" AnimeFrame="163" FaceAnime="" CharaIdList="リュール男;ヴァンドレ;フォガート;カゲツ;ボネ;グレゴリー;シトリニカ;メリン;" />
+			<Param GroupName="" PauseName="誇る1" Mid="" No="0" AnimeFrame="164" FaceAnime="" CharaIdList="ブシュロン;ルイ;モーヴ;ザフィーア;" />
+			<Param GroupName="" PauseName="誇る2" Mid="" No="0" AnimeFrame="165" FaceAnime="" CharaIdList="カゲツ;" />
+			<Param GroupName="" PauseName="誇る2" Mid="" No="0" AnimeFrame="166" FaceAnime="" CharaIdList="スタルーク;ジャン;" />
+			<Param GroupName="" PauseName="誇る3" Mid="" No="0" AnimeFrame="167" FaceAnime="" CharaIdList="カゲツ;" />
+			<Param GroupName="" PauseName="誇る3" Mid="" No="0" AnimeFrame="168" FaceAnime="" CharaIdList="スタルーク;ジャン;" />
+			<Param GroupName="" PauseName="誇る5" Mid="" No="0" AnimeFrame="169" FaceAnime="" CharaIdList="カゲツ;" />
+			<Param GroupName="" PauseName="誇る5" Mid="" No="0" AnimeFrame="170" FaceAnime="" CharaIdList="スタルーク;ジャン;" />
+			<Param GroupName="" PauseName="体術2" Mid="" No="0" AnimeFrame="171" FaceAnime="" CharaIdList="スタルーク;" />
+			<Param GroupName="" PauseName="体術4" Mid="" No="0" AnimeFrame="172" FaceAnime="" CharaIdList="リュール男;ヴァンドレ;フォガート;カゲツ;ボネ;グレゴリー;シトリニカ;メリン;" />
+			<Param GroupName="" PauseName="体術4" Mid="" No="0" AnimeFrame="173" FaceAnime="" CharaIdList="ブシュロン;ルイ;モーヴ;ザフィーア;" />
+			<Param GroupName="" PauseName="体術4" Mid="" No="0" AnimeFrame="174" FaceAnime="" CharaIdList="スタルーク;ジャン;クラン;" />
+			<Param GroupName="" PauseName="話す1" Mid="" No="0" AnimeFrame="175" FaceAnime="" CharaIdList="カゲツ;" />
+			<Param GroupName="" PauseName="話す1" Mid="" No="0" AnimeFrame="176" FaceAnime="" CharaIdList="スタルーク;ジャン;" />
+			<Param GroupName="" PauseName="話す5" Mid="" No="0" AnimeFrame="177" FaceAnime="" CharaIdList="リュール男;ヴァンドレ;フォガート;カゲツ;ボネ;グレゴリー;シトリニカ;メリン;" />
+			<Param GroupName="" PauseName="話す5" Mid="" No="0" AnimeFrame="178" FaceAnime="" CharaIdList="ブシュロン;ルイ;モーヴ;ザフィーア;" />
+			<Param GroupName="" PauseName="話す5" Mid="" No="0" AnimeFrame="179" FaceAnime="" CharaIdList="スタルーク;ジャン;クラン;" />
+			<Param GroupName="" PauseName="落ち込む1" Mid="" No="0" AnimeFrame="180" FaceAnime="" CharaIdList="スタルーク;ジャン;" />
+			<Param GroupName="" PauseName="落ち込む2" Mid="" No="0" AnimeFrame="181" FaceAnime="" CharaIdList="カゲツ;" />
+			<Param GroupName="" PauseName="落ち込む2" Mid="" No="0" AnimeFrame="182" FaceAnime="" CharaIdList="スタルーク;ジャン;" />
+			<Param GroupName="" PauseName="悲しむ1" Mid="" No="0" AnimeFrame="183" FaceAnime="" CharaIdList="スタルーク;ジャン;" />
+			<Param GroupName="" PauseName="喋る4" Mid="" No="0" AnimeFrame="184" FaceAnime="" CharaIdList="カゲツ;" />
+			<Param GroupName="" PauseName="喋る4" Mid="" No="0" AnimeFrame="185" FaceAnime="" CharaIdList="スタルーク;ジャン;" />
+			<Param GroupName="" PauseName="手を振る1" Mid="" No="0" AnimeFrame="186" FaceAnime="" CharaIdList="カゲツ;" />
+			<Param GroupName="" PauseName="手を振る1" Mid="" No="0" AnimeFrame="187" FaceAnime="" CharaIdList="スタルーク;ジャン;" />
+			<Param GroupName="" PauseName="手を振る2" Mid="" No="0" AnimeFrame="188" FaceAnime="" CharaIdList="カゲツ;" />
+			<Param GroupName="" PauseName="手を振る2" Mid="" No="0" AnimeFrame="189" FaceAnime="" CharaIdList="スタルーク;ジャン;" />
+			<Param GroupName="" PauseName="お手軽ポーズ2" Mid="" No="0" AnimeFrame="190" FaceAnime="" CharaIdList="スタルーク;ジャン;" />
+			<Param GroupName="" PauseName="決めポーズ1" Mid="" No="0" AnimeFrame="191" FaceAnime="" CharaIdList="スタルーク;ジャン;" />
+			<Param GroupName="" PauseName="待つ1" Mid="" No="0" AnimeFrame="192" FaceAnime="" CharaIdList="スタルーク;ジャン;" />
+			<Param GroupName="" PauseName="待つ3" Mid="" No="0" AnimeFrame="193" FaceAnime="" CharaIdList="スタルーク;ジャン;" />
+			<Param GroupName="" PauseName="腕立て伏せ1" Mid="" No="0" AnimeFrame="194" FaceAnime="" CharaIdList="ヴェイル;" />
+			<Param GroupName="" PauseName="腕立て伏せ1" Mid="" No="0" AnimeFrame="195" FaceAnime="" CharaIdList="アンナ;ジェーデ;ディアマンド;ジャン;クラン;フォガート;" />
+			<Param GroupName="" PauseName="腕立て伏せ2" Mid="" No="0" AnimeFrame="196" FaceAnime="" CharaIdList="ヴェイル;" />
+			<Param GroupName="" PauseName="腕立て伏せ2" Mid="" No="0" AnimeFrame="197" FaceAnime="" CharaIdList="アンナ;ジェーデ;ディアマンド;ジャン;クラン;フォガート;" />
+			<Param GroupName="" PauseName="見回す(右)1" Mid="" No="0" AnimeFrame="198" FaceAnime="" CharaIdList="カゲツ;" />
+			<Param GroupName="" PauseName="見回す(左)1" Mid="" No="0" AnimeFrame="199" FaceAnime="" CharaIdList="カゲツ;" />
+			<Param GroupName="" PauseName="弓3" Mid="" No="0" AnimeFrame="200" FaceAnime="" CharaIdList="カゲツ;" />
+			<Param GroupName="" PauseName="椅子に座る1" Mid="" No="0" AnimeFrame="201" FaceAnime="" CharaIdList="スタルーク;ジャン;クラン;" />
+		</Data>
+	</Sheet>
+</Book>

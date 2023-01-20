@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Book Count="1">
+	<Sheet Name="ジュークボックス" Count="5">
+		<Header>
+			<Param Name="出力先" Ident="Out" Type="PublicFile" Min="" Max="" Chg="" />
+			<Param Name="Wwiseイベント名" Ident="EventName" Type="string" Min="" Max="" Chg="" />
+			<Param Name="名前" Ident="Name" Type="string" Min="" Max="" Chg="" />
+			<Param Name="表示条件" Ident="Condition" Type="string" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Out="" EventName="BGM_Sys_Base_Jukebox1" Name="MID_BGM_Sys_Base_Jukebox1_ST_Play" Condition="M006" />
+			<Param Out="" EventName="BGM_Sys_Base_Jukebox2" Name="MID_BGM_Sys_Base_Jukebox2_ST_Play" Condition="M009" />
+			<Param Out="" EventName="BGM_Sys_Base_Jukebox3" Name="MID_BGM_Sys_Base_Jukebox3_ST_Play" Condition="M011" />
+			<Param Out="" EventName="BGM_Sys_Base_Jukebox4" Name="MID_BGM_Sys_Base_Jukebox4_ST_Play" Condition="M016" />
+			<Param Out="" EventName="BGM_Sys_Base_Jukebox5" Name="MID_BGM_Sys_Base_Jukebox5_ST_Play" Condition="M026" />
+		</Data>
+	</Sheet>
+</Book>

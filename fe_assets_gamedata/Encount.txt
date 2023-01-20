@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Book Count="4">
+	<Sheet Name="敵装備" Count="17">
+		<Header>
+			<Param Name="ランク" Ident="Name" Type="PublicArray" Min="" Max="" Chg="" />
+			<Param Name="武器カテゴリ" Ident="Category" Type="string" Min="" Max="" Chg="" />
+			<Param Name="確率" Ident="Percentage" Type="u8" Min="0" Max="100" Chg="" />
+		</Header>
+		<Data>
+			<Param Name="01-08" Category="" Percentage="" />
+			<Param Name="" Category="鉄" Percentage="100" />
+			<Param Name="09-12" Category="" Percentage="" />
+			<Param Name="" Category="鉄" Percentage="50" />
+			<Param Name="" Category="鋼" Percentage="50" />
+			<Param Name="13-16" Category="" Percentage="" />
+			<Param Name="" Category="鋼" Percentage="100" />
+			<Param Name="17-18" Category="" Percentage="" />
+			<Param Name="" Category="鋼" Percentage="50" />
+			<Param Name="" Category="銀" Percentage="50" />
+			<Param Name="19-26" Category="" Percentage="" />
+			<Param Name="" Category="銀" Percentage="100" />
+			<Param Name="27-" Category="" Percentage="" />
+			<Param Name="" Category="銀" Percentage="80" />
+			<Param Name="" Category="勇者" Percentage="20" />
+			<Param Name="追加" Category="" Percentage="" />
+			<Param Name="" Category="間接" Percentage="0" />
+		</Data>
+	</Sheet>
+	<Sheet Name="武器カテゴリ" Count="46">
+		<Header>
+			<Param Name="カテゴリ" Ident="r8" Type="PublicArray" Min="" Max="" Chg="" />
+			<Param Name="武器" Ident="Iid" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="ランク条件（以上）" Ident="RankConditionMore" Type="u8" Min="0" Max="40" Chg="1" />
+			<Param Name="ランク条件（以下）" Ident="RankConditionLess" Type="u8" Min="0" Max="40" Chg="1" />
+			<Param Name="確率" Ident="Percentage" Type="u8" Min="0" Max="100" Chg="1" />
+		</Header>
+		<Data>
+			<Param r8="青銅" Iid="" RankConditionMore="" RankConditionLess="" Percentage="" />
+			<Param r8="" Iid="IID_ほそみの剣" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="" Iid="IID_ほそみの槍" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="" Iid="IID_ショートアクス" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="" Iid="IID_ショートボウ" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="" Iid="IID_ショートナイフ" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="" Iid="IID_サージ" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="" Iid="IID_初心の法" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="鉄" Iid="" RankConditionMore="" RankConditionLess="" Percentage="" />
+			<Param r8="" Iid="IID_鉄の剣" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="" Iid="IID_鉄の槍" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="" Iid="IID_鉄の斧" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="" Iid="IID_鉄の弓" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="" Iid="IID_鉄のナイフ" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="" Iid="IID_ファイアー" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="" Iid="IID_サンダー" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="" Iid="IID_鉄身の法" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="鋼" Iid="" RankConditionMore="" RankConditionLess="" Percentage="" />
+			<Param r8="" Iid="IID_鋼の剣" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="" Iid="IID_鋼の槍" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="" Iid="IID_鋼の斧" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="" Iid="IID_鋼の弓" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="" Iid="IID_鋼のナイフ" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="" Iid="IID_ウィンド" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="" Iid="IID_エルサージ" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="" Iid="IID_エルファイアー" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="" Iid="IID_鋼身の法" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="銀" Iid="" RankConditionMore="" RankConditionLess="" Percentage="" />
+			<Param r8="" Iid="IID_銀の剣" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="" Iid="IID_銀の槍" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="" Iid="IID_銀の斧" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="" Iid="IID_銀の弓" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="" Iid="IID_銀のナイフ" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="" Iid="IID_エルサンダー" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="" Iid="IID_エルウィンド" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="" Iid="IID_銀身の法" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="勇者" Iid="" RankConditionMore="" RankConditionLess="" Percentage="" />
+			<Param r8="" Iid="IID_勇者の剣" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="" Iid="IID_勇者の槍" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="" Iid="IID_勇者の斧" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="" Iid="IID_勇者の弓" RankConditionMore="0" RankConditionLess="40" Percentage="0" />
+			<Param r8="間接" Iid="" RankConditionMore="" RankConditionLess="" Percentage="" />
+			<Param r8="" Iid="IID_手槍" RankConditionMore="5" RankConditionLess="11" Percentage="20" />
+			<Param r8="" Iid="IID_スレンドスピア" RankConditionMore="12" RankConditionLess="40" Percentage="20" />
+			<Param r8="" Iid="IID_手斧" RankConditionMore="5" RankConditionLess="11" Percentage="20" />
+			<Param r8="" Iid="IID_トマホーク" RankConditionMore="12" RankConditionLess="40" Percentage="20" />
+		</Data>
+	</Sheet>
+	<Sheet Name="敵兵種" Count="24">
+		<Header>
+			<Param Name="出力先" Ident="Out" Type="PublicFile" Min="" Max="" Chg="" />
+			<Param Name="名前" Ident="EJid" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="兵種" Ident="Jobs" Type="string[]" Min="" Max="" Chg="" />
+			<Param Name="フラグ" Ident="Flag" Type="flag" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Out="" EJid="EJID_G_ペガサスナイト" Jobs="JID_ソードペガサス;JID_ランスペガサス;JID_アクスペガサス;" Flag="0" />
+			<Param Out="" EJid="EJID_G_ランダム" Jobs="JID_ソードファイター;JID_ランスファイター;JID_アクスファイター;JID_アーチャー;JID_ソードアーマー;JID_ランスアーマー;JID_アクスアーマー;JID_ソードナイト;JID_ランスナイト;JID_アクスナイト;JID_マージ;JID_モンク;JID_ソードペガサス;JID_ランスペガサス;JID_アクスペガサス;JID_シーフ;" Flag="0" />
+			<Param Out="" EJid="EJID_G_ファイター" Jobs="JID_ソードファイター;JID_ランスファイター;JID_アクスファイター;" Flag="1" />
+			<Param Out="" EJid="EJID_G_アーチャー" Jobs="JID_アーチャー;" Flag="0" />
+			<Param Out="" EJid="EJID_G_アーマーナイト" Jobs="JID_ソードアーマー;JID_ランスアーマー;JID_アクスアーマー;" Flag="0" />
+			<Param Out="" EJid="EJID_G_ソシアルナイト" Jobs="JID_ソードナイト;JID_ランスナイト;JID_アクスナイト;" Flag="0" />
+			<Param Out="" EJid="EJID_G_マージ" Jobs="JID_マージ;" Flag="0" />
+			<Param Out="" EJid="EJID_G_モンク" Jobs="JID_モンク;" Flag="0" />
+			<Param Out="" EJid="EJID_G_シーフ" Jobs="JID_シーフ;" Flag="0" />
+			<Param Out="" EJid="EJID_G_賊" Jobs="JID_アクスファイター;JID_アーチャー;JID_シーフ;" Flag="1" />
+			<Param Out="" EJid="EJID_G_槍兵" Jobs="JID_ランスファイター;JID_ランスアーマー;JID_モンク;JID_ランスナイト;JID_ランスペガサス;JID_アーチャー;" Flag="1" />
+			<Param Out="" EJid="EJID_G_斧兵" Jobs="JID_アクスファイター;JID_アクスアーマー;JID_マージ;JID_アクスナイト;JID_アクスペガサス;JID_アーチャー;" Flag="1" />
+			<Param Out="" EJid="EJID_G_剣兵" Jobs="JID_ソードファイター;JID_ソードアーマー;JID_ソードナイト;JID_ソードペガサス;JID_マージ;JID_アーチャー;" Flag="1" />
+			<Param Out="" EJid="EJID_G_正規兵" Jobs="JID_ソードアーマー;JID_ランスアーマー;JID_アクスアーマー;JID_ソードナイト;JID_ランスナイト;JID_アクスナイト;JID_ソードナイト;JID_ランスナイト;JID_アクスナイト;JID_アーチャー;" Flag="1" />
+			<Param Out="" EJid="EJID_G_魔導兵" Jobs="JID_アクスアーマー;JID_マージ;" Flag="1" />
+			<Param Out="" EJid="EJID_G_傭兵" Jobs="JID_ソードファイター;JID_ランスファイター;JID_アクスファイター;JID_シーフ;" Flag="1" />
+			<Param Out="" EJid="EJID_G_騎兵" Jobs="JID_ソードナイト;JID_ランスナイト;JID_アクスナイト;JID_マージ;" Flag="1" />
+			<Param Out="" EJid="EJID_G_鎧兵" Jobs="JID_ソードアーマー;JID_ランスアーマー;JID_アクスアーマー;JID_モンク;" Flag="1" />
+			<Param Out="" EJid="EJID_G_飛兵" Jobs="JID_ソードペガサス;JID_ランスペガサス;JID_アクスペガサス;JID_マージ;" Flag="1" />
+			<Param Out="" EJid="EJID_G_剣_部隊" Jobs="JID_ソードファイター;JID_アーチャー;JID_ソードアーマー;JID_ソードナイト;JID_マージ;JID_モンク;JID_ソードペガサス;JID_シーフ;" Flag="0" />
+			<Param Out="" EJid="EJID_G_槍_部隊" Jobs="JID_ランスファイター;JID_アーチャー;JID_ランスアーマー;JID_ランスナイト;JID_マージ;JID_モンク;JID_ランスペガサス;JID_シーフ;" Flag="0" />
+			<Param Out="" EJid="EJID_G_斧_部隊" Jobs="JID_アクスファイター;JID_アーチャー;JID_アクスアーマー;JID_アクスナイト;JID_マージ;JID_モンク;JID_アクスペガサス;JID_シーフ;" Flag="0" />
+			<Param Out="" EJid="EJID_G_歩兵_部隊" Jobs="JID_ソードファイター;JID_ランスファイター;JID_アクスファイター;JID_アーチャー;JID_ソードアーマー;JID_ランスアーマー;JID_アクスアーマー;JID_ソードナイト;JID_ランスナイト;JID_アクスナイト;JID_マージ;JID_モンク;JID_シーフ;" Flag="0" />
+			<Param Out="" EJid="EJID_G_飛兵_部隊" Jobs="JID_ソードファイター;JID_アーチャー;JID_アクスアーマー;JID_ランスナイト;JID_マージ;JID_モンク;JID_ソードペガサス;JID_ランスペガサス;JID_アクスペガサス;JID_シーフ;" Flag="0" />
+		</Data>
+	</Sheet>
+	<Sheet Name="敵お金レア" Count="18">
+		<Header>
+			<Param Name="出力先" Ident="Name" Type="PublicArray" Min="" Max="" Chg="" />
+			<Param Name="発展度" Ident="NationLevel" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="アイテム" Ident="Iid" Type="string" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Name="ノーマル" NationLevel="" Iid="" />
+			<Param Name="" NationLevel="1" Iid="IID_1000G" />
+			<Param Name="" NationLevel="2" Iid="IID_1000G" />
+			<Param Name="" NationLevel="3" Iid="IID_1200G" />
+			<Param Name="" NationLevel="4" Iid="IID_1200G" />
+			<Param Name="" NationLevel="5" Iid="IID_1500G" />
+			<Param Name="ハード" NationLevel="" Iid="" />
+			<Param Name="" NationLevel="1" Iid="IID_1300G" />
+			<Param Name="" NationLevel="2" Iid="IID_1300G" />
+			<Param Name="" NationLevel="3" Iid="IID_1500G" />
+			<Param Name="" NationLevel="4" Iid="IID_1500G" />
+			<Param Name="" NationLevel="5" Iid="IID_1800G" />
+			<Param Name="ルナティック" NationLevel="" Iid="" />
+			<Param Name="" NationLevel="1" Iid="IID_1500G" />
+			<Param Name="" NationLevel="2" Iid="IID_1500G" />
+			<Param Name="" NationLevel="3" Iid="IID_1700G" />
+			<Param Name="" NationLevel="4" Iid="IID_1700G" />
+			<Param Name="" NationLevel="5" Iid="IID_2000G" />
+		</Data>
+	</Sheet>
+</Book>

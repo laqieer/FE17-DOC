@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Book Count="1">
+	<Sheet Name="後日談" Count="42">
+		<Header>
+			<Param Name="出力先" Ident="Out" Type="PublicFile" Min="" Max="" Chg="" />
+			<Param Name="グループ" Ident="Group" Type="PublicArray" Min="" Max="" Chg="" />
+			<Param Name="個人" Ident="Person" Type="string" Min="" Max="" Chg="" />
+			<Param Name="背景" Ident="Field" Type="string" Min="" Max="" Chg="" />
+			<Param Name="背景の角度" Ident="BackDegree" Type="int" Min="" Max="" Chg="" />
+			<Param Name="光源の角度" Ident="LightDegree" Type="int" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Out="" Group="リトス" Person="" Field="" BackDegree="" LightDegree="" />
+			<Param Out="" Group="" Person="PID_リュール" Field="Map_Event_M002_02" BackDegree="180" LightDegree="50" />
+			<Param Out="" Group="" Person="PID_ヴァンドレ" Field="Map_Event_M001_02" BackDegree="180" LightDegree="50" />
+			<Param Out="" Group="" Person="PID_クラン" Field="Map_Event_M001_01" BackDegree="180" LightDegree="50" />
+			<Param Out="" Group="" Person="PID_フラン" Field="Map_Event_M002_03" BackDegree="180" LightDegree="50" />
+			<Param Out="" Group="フィレネ" Person="" Field="" BackDegree="" LightDegree="" />
+			<Param Out="" Group="" Person="PID_アルフレッド" Field="Map_Event_M004_01" BackDegree="180" LightDegree="50" />
+			<Param Out="" Group="" Person="PID_エーティエ" Field="Map_Event_M004_02" BackDegree="0" LightDegree="50" />
+			<Param Out="" Group="" Person="PID_ブシュロン" Field="Map_Event_M004_03" BackDegree="0" LightDegree="50" />
+			<Param Out="" Group="" Person="PID_セリーヌ" Field="Map_Event_M004_02" BackDegree="90" LightDegree="50" />
+			<Param Out="" Group="" Person="PID_ルイ" Field="Map_Event_M005_02" BackDegree="180" LightDegree="50" />
+			<Param Out="" Group="" Person="PID_クロエ" Field="Map_Event_M005_01" BackDegree="0" LightDegree="50" />
+			<Param Out="" Group="ブロディア" Person="" Field="" BackDegree="" LightDegree="" />
+			<Param Out="" Group="" Person="PID_ディアマンド" Field="Map_Event_M008_01" BackDegree="0" LightDegree="50" />
+			<Param Out="" Group="" Person="PID_アンバー" Field="Map_Event_M009_01" BackDegree="90" LightDegree="50" />
+			<Param Out="" Group="" Person="PID_ジェーデ" Field="Map_Event_M009_03" BackDegree="0" LightDegree="50" />
+			<Param Out="" Group="" Person="PID_スタルーク" Field="Map_Event_M007_01" BackDegree="0" LightDegree="50" />
+			<Param Out="" Group="" Person="PID_ラピス" Field="Map_Event_M007_02" BackDegree="180" LightDegree="50" />
+			<Param Out="" Group="" Person="PID_シトリニカ" Field="Map_Event_M007_03" BackDegree="180" LightDegree="50" />
+			<Param Out="" Group="イルシオン" Person="" Field="" BackDegree="" LightDegree="" />
+			<Param Out="" Group="" Person="PID_アイビー" Field="Map_Event_M012_03" BackDegree="0" LightDegree="50" />
+			<Param Out="" Group="" Person="PID_ゼルコバ" Field="Map_Event_M019_01" BackDegree="-90" LightDegree="50" />
+			<Param Out="" Group="" Person="PID_カゲツ" Field="Map_Event_M009_02" BackDegree="180" LightDegree="50" />
+			<Param Out="" Group="" Person="PID_オルテンシア" Field="Map_Event_M010_03" BackDegree="180" LightDegree="50" />
+			<Param Out="" Group="" Person="PID_ロサード" Field="Map_Event_M019_02" BackDegree="0" LightDegree="50" />
+			<Param Out="" Group="" Person="PID_ゴルドマリー" Field="Map_Event_M010_01" BackDegree="90" LightDegree="50" />
+			<Param Out="" Group="ソルム" Person="" Field="" BackDegree="" LightDegree="" />
+			<Param Out="" Group="" Person="PID_ミスティラ" Field="Map_Event_M014_01" BackDegree="180" LightDegree="50" />
+			<Param Out="" Group="" Person="PID_メリン" Field="Map_Event_M013_02" BackDegree="0" LightDegree="50" />
+			<Param Out="" Group="" Person="PID_パネトネ" Field="Map_Event_M013_04" BackDegree="0" LightDegree="50" />
+			<Param Out="" Group="" Person="PID_フォガート" Field="Map_Event_M012_01" BackDegree="0" LightDegree="50" />
+			<Param Out="" Group="" Person="PID_パンドロ" Field="Map_Event_M013_01" BackDegree="0" LightDegree="50" />
+			<Param Out="" Group="" Person="PID_ボネ" Field="Map_Event_M016_01" BackDegree="0" LightDegree="50" />
+			<Param Out="" Group="その他" Person="" Field="" BackDegree="" LightDegree="" />
+			<Param Out="" Group="" Person="PID_アンナ" Field="Map_Event_S002_01" BackDegree="0" LightDegree="50" />
+			<Param Out="" Group="" Person="PID_ジャン" Field="Map_Event_S001_01" BackDegree="0" LightDegree="50" />
+			<Param Out="" Group="" Person="PID_ユナカ" Field="Map_Event_M006_02" BackDegree="180" LightDegree="50" />
+			<Param Out="" Group="" Person="PID_セアダス" Field="Map_Event_M015_03" BackDegree="0" LightDegree="50" />
+			<Param Out="" Group="" Person="PID_リンデン" Field="Map_Event_M018_01" BackDegree="0" LightDegree="50" />
+			<Param Out="" Group="" Person="PID_ザフィーア" Field="Map_Event_M019_02" BackDegree="0" LightDegree="50" />
+			<Param Out="" Group="" Person="PID_ヴェイル" Field="Map_Event_M021_02" BackDegree="0" LightDegree="50" />
+			<Param Out="" Group="" Person="PID_モーヴ" Field="Map_Event_M022_02" BackDegree="0" LightDegree="50" />
+		</Data>
+	</Sheet>
+</Book>

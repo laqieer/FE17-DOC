@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Book Count="1">
+	<Sheet Name="マップ履歴" Count="31">
+		<Header>
+			<Param Name="出力先" Ident="Out" Type="PublicFile" Min="" Max="" Chg="" />
+			<Param Name="種類" Ident="Mhid" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="行動テキスト" Ident="Action" Type="string" Min="" Max="" Chg="" />
+			<Param Name="テキスト優先度" Ident="Priority" Type="u8" Min="0" Max="100" Chg="1" />
+		</Header>
+		<Data>
+			<Param Out="" Mhid="MHID_PlayerPhase開始" Action="MID_MAP_HIS_PhaseBegin_Player" Priority="100" />
+			<Param Out="" Mhid="MHID_EnemyPhase開始" Action="MID_MAP_HIS_PhaseBegin_Enemy" Priority="100" />
+			<Param Out="" Mhid="MHID_AllyPhase開始" Action="MID_MAP_HIS_PhaseBegin_Ally" Priority="100" />
+			<Param Out="" Mhid="MHID_待機" Action="MID_MAP_HIS_Fixed" Priority="10" />
+			<Param Out="" Mhid="MHID_会話" Action="MID_MAP_HIS_Talk" Priority="100" />
+			<Param Out="" Mhid="MHID_攻撃" Action="MID_MAP_HIS_Attack" Priority="100" />
+			<Param Out="" Mhid="MHID_杖" Action="MID_MAP_HIS_Rod" Priority="100" />
+			<Param Out="" Mhid="MHID_エンゲージ技" Action="MID_MAP_HIS_EngageAttack" Priority="100" />
+			<Param Out="" Mhid="MHID_覇克・天空" Action="MID_MAP_HIS_EngageCharge" Priority="100" />
+			<Param Out="" Mhid="MHID_破壊" Action="MID_MAP_HIS_Destroy" Priority="100" />
+			<Param Out="" Mhid="MHID_持ち物使用" Action="MID_MAP_HIS_ItemUse" Priority="100" />
+			<Param Out="" Mhid="MHID_持ち物交換" Action="MID_MAP_HIS_Trade" Priority="50" />
+			<Param Out="" Mhid="MHID_持ち物捨てる" Action="MID_MAP_HIS_PutOff" Priority="50" />
+			<Param Out="" Mhid="MHID_訪問" Action="MID_MAP_HIS_Visit" Priority="100" />
+			<Param Out="" Mhid="MHID_制圧" Action="MID_MAP_HIS_Breakdown" Priority="100" />
+			<Param Out="" Mhid="MHID_離脱" Action="MID_MAP_HIS_Escape" Priority="100" />
+			<Param Out="" Mhid="MHID_扉" Action="MID_MAP_HIS_Door" Priority="100" />
+			<Param Out="" Mhid="MHID_かがり火消す" Action="MID_MAP_HIS_Torch_Off" Priority="100" />
+			<Param Out="" Mhid="MHID_かがり火付ける" Action="MID_MAP_HIS_Torch_On" Priority="100" />
+			<Param Out="" Mhid="MHID_宝箱" Action="MID_MAP_HIS_TreasureBox" Priority="100" />
+			<Param Out="" Mhid="MHID_輸送隊" Action="MID_MAP_HIS_Transporter" Priority="50" />
+			<Param Out="" Mhid="MHID_踊る" Action="MID_MAP_HIS_Dance" Priority="100" />
+			<Param Out="" Mhid="MHID_チェインガード" Action="MID_MAP_HIS_Guard" Priority="100" />
+			<Param Out="" Mhid="MHID_絆盾" Action="MID_MAP_HIS_LucinaEngage" Priority="100" />
+			<Param Out="" Mhid="MHID_竜脈" Action="MID_MAP_HIS_OverlapSkill" Priority="100" />
+			<Param Out="" Mhid="MHID_コマンドスキル" Action="MID_MAP_HIS_CommandSkill" Priority="100" />
+			<Param Out="" Mhid="MHID_残像作成" Action="MID_MAP_HIS_VisionCreate" Priority="100" />
+			<Param Out="" Mhid="MHID_残像削除" Action="MID_MAP_HIS_VisionDelete" Priority="100" />
+			<Param Out="" Mhid="MHID_村破壊" Action="MID_MAP_HIS_DestroyVillage" Priority="100" />
+			<Param Out="" Mhid="MHID_エンゲージブレイク" Action="MID_MAP_HIS_EngageBreak" Priority="100" />
+			<Param Out="" Mhid="MHID_ピックアップ" Action="MID_MAP_HIS_PickUp" Priority="0" />
+		</Data>
+	</Sheet>
+</Book>

@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Book Count="1">
+	<Sheet Name="イベントデモ" Count="178">
+		<Header>
+			<Param Name="グループ" Ident="Group" Type="PublicArray" Min="" Max="" Chg="" />
+			<Param Name="コマンド" Ident="Command" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="引数1" Ident="Arg1" Type="string" Min="" Max="" Chg="" />
+			<Param Name="引数2" Ident="Arg2" Type="string" Min="" Max="" Chg="" />
+			<Param Name="引数3" Ident="Arg3" Type="string" Min="" Max="" Chg="" />
+			<Param Name="引数4" Ident="Arg4" Type="string" Min="" Max="" Chg="" />
+			<Param Name="引数5" Ident="Arg5" Type="string" Min="" Max="" Chg="" />
+			<Param Name="引数6" Ident="Arg6" Type="string" Min="" Max="" Chg="" />
+			<Param Name="引数7" Ident="Arg7" Type="string" Min="" Max="" Chg="" />
+			<Param Name="条件" Ident="Condition" Type="string" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Group="サンプルデモ" Command="" Arg1="" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="60" Arg1="Sample" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="21" Arg1="Mt_Event_M004_01" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="41" Arg1="SceneCamWideFromMe" Arg2="camera_pan_R" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="50" Arg1="PID_リュール" Arg2="ME_IN_C" Arg3="[服装]" Arg4="" Arg5="Idle" Arg6="0" Arg7="" Condition="" />
+			<Param Group="" Command="50" Arg1="PID_ルミエル" Arg2="YOU_IN_C" Arg3="[服装]" Arg4="" Arg5="Idle" Arg6="0" Arg7="" Condition="" />
+			<Param Group="" Command="50" Arg1="PID_エーティエ" Arg2="YOU_IN_B" Arg3="[服装]" Arg4="" Arg5="Idle" Arg6="0" Arg7="" Condition="" />
+			<Param Group="" Command="50" Arg1="PID_セリーヌ" Arg2="YOU_IN_D" Arg3="[服装]" Arg4="" Arg5="Idle" Arg6="0" Arg7="" Condition="" />
+			<Param Group="" Command="30" Arg1="" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#001" Arg2="PID_リュール" Arg3="" Arg4="" Arg5="PID_ルミエル" Arg6="PID_ルミエル" Arg7="True" Condition="" />
+			<Param Group="" Command="40" Arg1="CharaCamStandardR" Arg2="PID_ルミエル" Arg3="camera_pan_L" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#002" Arg2="PID_ルミエル" Arg3="" Arg4="" Arg5="PID_リュール" Arg6="PID_リュール" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#003" Arg2="PID_ルミエル" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="40" Arg1="CharaCamStandardL" Arg2="PID_ルミエル" Arg3="camera_pan_R" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#004" Arg2="PID_ルミエル" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#005" Arg2="PID_ルミエル" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#006" Arg2="PID_リュール" Arg3="" Arg4="Appeal" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="40" Arg1="CharaCamFront" Arg2="PID_ルミエル" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#007" Arg2="PID_ルミエル" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#008" Arg2="PID_ルミエル" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="40" Arg1="CharaCamShoulderR" Arg2="PID_リュール" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#009" Arg2="PID_リュール" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#010" Arg2="PID_ルミエル" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#011" Arg2="PID_ルミエル" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#012" Arg2="PID_ルミエル" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#013" Arg2="PID_ルミエル" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="41" Arg1="SceneCamWideR" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#014" Arg2="PID_リュール" Arg3="" Arg4="Positive" Arg5="PID_セリーヌ" Arg6="PID_セリーヌ" Arg7="True" Condition="" />
+			<Param Group="" Command="40" Arg1="CharaCamStandardR" Arg2="PID_セリーヌ" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#015" Arg2="PID_セリーヌ" Arg3="" Arg4="" Arg5="PID_リュール" Arg6="PID_リュール" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#016" Arg2="PID_セリーヌ" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="40" Arg1="CharaCamStandardL" Arg2="PID_セリーヌ" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#017" Arg2="PID_セリーヌ" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#018" Arg2="PID_セリーヌ" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#019" Arg2="PID_リュール" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="40" Arg1="CharaCamFront" Arg2="PID_セリーヌ" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#020" Arg2="PID_セリーヌ" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#021" Arg2="PID_セリーヌ" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="41" Arg1="SceneCamWideL" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#022" Arg2="PID_リュール" Arg3="" Arg4="Special" Arg5="PID_エーティエ" Arg6="PID_エーティエ" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#023" Arg2="PID_エーティエ" Arg3="" Arg4="" Arg5="PID_リュール" Arg6="PID_リュール" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#024" Arg2="PID_リュール" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#025" Arg2="PID_リュール" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="40" Arg1="CharaCamStandardR" Arg2="PID_エーティエ" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#026" Arg2="PID_エーティエ" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#027" Arg2="PID_エーティエ" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#028" Arg2="PID_リュール" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="40" Arg1="CharaCamStandardL" Arg2="PID_エーティエ" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#029" Arg2="PID_エーティエ" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#030" Arg2="PID_リュール" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#031" Arg2="PID_リュール" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="40" Arg1="CharaCamFront" Arg2="PID_エーティエ" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#032" Arg2="PID_エーティエ" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#033" Arg2="PID_エーティエ" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#034" Arg2="PID_リュール" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="41" Arg1="SceneCamWideFromYou" Arg2="camera_pan_L" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#035" Arg2="PID_ルミエル" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="12" Arg1="2" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="70" Arg1="Tex_Event_Picture_Test" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="12" Arg1="1" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="62" Arg1="MID_SAMPLE_FACE" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="71" Arg1="" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="12" Arg1="1" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="31" Arg1="" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="視線テスト" Command="" Arg1="" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="60" Arg1="Sample" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="21" Arg1="Mt_Event_Church" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="41" Arg1="SceneCamWideFromMe" Arg2="camera_pan_R" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="50" Arg1="PID_リュール" Arg2="ME_IN_C" Arg3="[服装]" Arg4="" Arg5="Idle" Arg6="0" Arg7="" Condition="" />
+			<Param Group="" Command="50" Arg1="PID_ヴァンドレ" Arg2="ME_IN_B" Arg3="[服装]" Arg4="" Arg5="Idle" Arg6="0" Arg7="" Condition="" />
+			<Param Group="" Command="50" Arg1="PID_アルフレッド" Arg2="ME_IN_D" Arg3="[服装]" Arg4="" Arg5="Idle" Arg6="0" Arg7="" Condition="" />
+			<Param Group="" Command="50" Arg1="PID_ルミエル" Arg2="YOU_IN_C" Arg3="[服装]" Arg4="" Arg5="Idle" Arg6="0" Arg7="" Condition="" />
+			<Param Group="" Command="50" Arg1="PID_エーティエ" Arg2="YOU_IN_B" Arg3="[服装]" Arg4="" Arg5="Idle" Arg6="0" Arg7="" Condition="" />
+			<Param Group="" Command="50" Arg1="PID_セリーヌ" Arg2="YOU_IN_D" Arg3="[服装]" Arg4="" Arg5="Idle" Arg6="0" Arg7="" Condition="" />
+			<Param Group="" Command="30" Arg1="" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#001" Arg2="PID_リュール" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="40" Arg1="CharaCamFront" Arg2="PID_リュール" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#002" Arg2="PID_リュール" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#003" Arg2="PID_リュール" Arg3="" Arg4="" Arg5="PID_ルミエル" Arg6="PID_ルミエル" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#004" Arg2="PID_リュール" Arg3="" Arg4="" Arg5="PID_セリーヌ" Arg6="PID_セリーヌ" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#005" Arg2="PID_リュール" Arg3="" Arg4="" Arg5="PID_エーティエ" Arg6="PID_エーティエ" Arg7="True" Condition="" />
+			<Param Group="" Command="40" Arg1="CharaCamFront" Arg2="PID_アルフレッド" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#006" Arg2="PID_アルフレッド" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#007" Arg2="PID_アルフレッド" Arg3="" Arg4="" Arg5="PID_ルミエル" Arg6="PID_ルミエル" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#008" Arg2="PID_アルフレッド" Arg3="" Arg4="" Arg5="PID_セリーヌ" Arg6="PID_セリーヌ" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#009" Arg2="PID_アルフレッド" Arg3="" Arg4="" Arg5="PID_エーティエ" Arg6="PID_エーティエ" Arg7="True" Condition="" />
+			<Param Group="" Command="40" Arg1="CharaCamFront" Arg2="PID_ヴァンドレ" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#010" Arg2="PID_ヴァンドレ" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#011" Arg2="PID_ヴァンドレ" Arg3="" Arg4="" Arg5="PID_ルミエル" Arg6="PID_ルミエル" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#012" Arg2="PID_ヴァンドレ" Arg3="" Arg4="" Arg5="PID_セリーヌ" Arg6="PID_セリーヌ" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#013" Arg2="PID_ヴァンドレ" Arg3="" Arg4="" Arg5="PID_エーティエ" Arg6="PID_エーティエ" Arg7="True" Condition="" />
+			<Param Group="" Command="40" Arg1="CharaCamFront" Arg2="PID_ルミエル" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#014" Arg2="PID_ルミエル" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#015" Arg2="PID_ルミエル" Arg3="" Arg4="" Arg5="PID_ヴァンドレ" Arg6="PID_ヴァンドレ" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#016" Arg2="PID_ルミエル" Arg3="" Arg4="" Arg5="PID_アルフレッド" Arg6="PID_アルフレッド" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#017" Arg2="PID_ルミエル" Arg3="" Arg4="" Arg5="PID_リュール" Arg6="PID_リュール" Arg7="True" Condition="" />
+			<Param Group="" Command="40" Arg1="CharaCamFront" Arg2="PID_セリーヌ" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#018" Arg2="PID_セリーヌ" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#019" Arg2="PID_セリーヌ" Arg3="" Arg4="" Arg5="PID_ヴァンドレ" Arg6="PID_ヴァンドレ" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#020" Arg2="PID_セリーヌ" Arg3="" Arg4="" Arg5="PID_アルフレッド" Arg6="PID_アルフレッド" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#021" Arg2="PID_セリーヌ" Arg3="" Arg4="" Arg5="PID_リュール" Arg6="PID_リュール" Arg7="True" Condition="" />
+			<Param Group="" Command="40" Arg1="CharaCamFront" Arg2="PID_エーティエ" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#022" Arg2="PID_エーティエ" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#023" Arg2="PID_エーティエ" Arg3="" Arg4="" Arg5="PID_ヴァンドレ" Arg6="PID_ヴァンドレ" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#024" Arg2="PID_エーティエ" Arg3="" Arg4="" Arg5="PID_アルフレッド" Arg6="PID_アルフレッド" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#025" Arg2="PID_エーティエ" Arg3="" Arg4="" Arg5="PID_リュール" Arg6="PID_リュール" Arg7="True" Condition="" />
+			<Param Group="" Command="41" Arg1="SceneCamWideFromYou" Arg2="camera_pan_L" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#026" Arg2="PID_ルミエル" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#027" Arg2="PID_ルミエル" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#028" Arg2="PID_リュール" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#029" Arg2="PID_ルミエル" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#030" Arg2="PID_リュール" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#031" Arg2="PID_リュール" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#032" Arg2="PID_ルミエル" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#033" Arg2="PID_ルミエル" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#034" Arg2="PID_リュール" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_OP2_#035" Arg2="PID_ルミエル" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="12" Arg1="1" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="31" Arg1="" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="リップシンクテスト男" Command="" Arg1="" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="60" Arg1="Sample" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="21" Arg1="Mt_Event_Church" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="50" Arg1="PID_リュール" Arg2="ME_IN_C" Arg3="" Arg4="" Arg5="Idle" Arg6="0" Arg7="" Condition="" />
+			<Param Group="" Command="40" Arg1="CharaCamFront" Arg2="PID_リュール" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="30" Arg1="" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_LipSyncTest_Man01_#001" Arg2="PID_リュール" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_LipSyncTest_Man02_#001" Arg2="PID_リュール" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_LipSyncTest_Man03_#001" Arg2="PID_リュール" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_LipSyncTest_Man04_#001" Arg2="PID_リュール" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_LipSyncTest_Man05_#001" Arg2="PID_リュール" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_LipSyncTest_Man06_#001" Arg2="PID_リュール" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_LipSyncTest_Man07_#001" Arg2="PID_リュール" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_LipSyncTest_Man08_#001" Arg2="PID_リュール" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="31" Arg1="" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="リップシンクテスト女" Command="" Arg1="" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="60" Arg1="Sample" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="21" Arg1="Mt_Event_Church" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="50" Arg1="PID_セリーヌ" Arg2="ME_IN_C" Arg3="" Arg4="" Arg5="Idle" Arg6="0" Arg7="" Condition="" />
+			<Param Group="" Command="40" Arg1="CharaCamFront" Arg2="PID_セリーヌ" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="30" Arg1="" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_LipSyncTest_Woman01_#001" Arg2="PID_セリーヌ" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_LipSyncTest_Woman02_#001" Arg2="PID_セリーヌ" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_LipSyncTest_Woman03_#001" Arg2="PID_セリーヌ" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_LipSyncTest_Woman04_#001" Arg2="PID_セリーヌ" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_LipSyncTest_Woman05_#001" Arg2="PID_セリーヌ" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_LipSyncTest_Woman06_#001" Arg2="PID_セリーヌ" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_LipSyncTest_Woman07_#001" Arg2="PID_セリーヌ" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="61" Arg1="MID_LipSyncTest_Woman08_#001" Arg2="PID_セリーヌ" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="True" Condition="" />
+			<Param Group="" Command="31" Arg1="" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="リップシンクコンバットテスト" Command="" Arg1="" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="60" Arg1="Sample" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="100" Arg1="PlayerM" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="21" Arg1="Mt_Event_Church" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="50" Arg1="PID_リュール" Arg2="ME_IN_C" Arg3="" Arg4="" Arg5="Idle" Arg6="0" Arg7="" Condition="" />
+			<Param Group="" Command="40" Arg1="CharaCamFront" Arg2="PID_リュール" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="30" Arg1="" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="102" Arg1="PID_リュール" Arg2="PlayerM" Arg3="V_Attack_H" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="12" Arg1="3" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="102" Arg1="PID_リュール" Arg2="PlayerM" Arg3="V_Attack_L" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="12" Arg1="3" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="102" Arg1="PID_リュール" Arg2="PlayerM" Arg3="V_Damage" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="12" Arg1="3" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="102" Arg1="PID_リュール" Arg2="PlayerM" Arg3="V_Critical" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="12" Arg1="3" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="102" Arg1="PID_リュール" Arg2="PlayerM" Arg3="V_Win" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="12" Arg1="3" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="102" Arg1="PID_リュール" Arg2="PlayerM" Arg3="V_Die" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="12" Arg1="3" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="31" Arg1="" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="101" Arg1="PlayerM" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="リップシンクフェイス会話テスト" Command="" Arg1="" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="60" Arg1="Sample" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="21" Arg1="Mt_Event_Church" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="41" Arg1="SceneCamWideFromMe" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="30" Arg1="" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="62" Arg1="MID_SAMPLE_FACE_LIPSYNC" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="12" Arg1="2" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+			<Param Group="" Command="31" Arg1="" Arg2="" Arg3="" Arg4="" Arg5="" Arg6="" Arg7="" Condition="" />
+		</Data>
+	</Sheet>
+</Book>

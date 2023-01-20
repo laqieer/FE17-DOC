@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Book Count="4">
+	<Sheet Name="会話" Count="9">
+		<Header>
+			<Param Name="KRID" Ident="KRID" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="配置上限数" Ident="Count" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="引数0" Ident="Args0" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="引数1" Ident="Args1" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="入手アイテム" Ident="Item" Type="string" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param KRID="Story" Count="0" Args0="0" Args1="0" Item="" />
+			<Param KRID="ManyKill" Count="3" Args0="3" Args1="0" Item="IID_絆のかけら100" />
+			<Param KRID="LVUP01" Count="2" Args0="0" Args1="0" Item="IID_絆のかけら50" />
+			<Param KRID="ManyHeal" Count="2" Args0="3" Args1="0" Item="IID_絆のかけら50" />
+			<Param KRID="BattleCount1" Count="5" Args0="3" Args1="5" Item="IID_絆のかけら50" />
+			<Param KRID="HeroMVP" Count="3" Args0="0" Args1="0" Item="IID_絆のかけら50" />
+			<Param KRID="HeroLVUP" Count="2" Args0="0" Args1="0" Item="IID_絆のかけら50" />
+			<Param KRID="NoParty" Count="2" Args0="5" Args1="0" Item="IID_絆のかけら10" />
+			<Param KRID="TravelTalk" Count="0" Args0="0" Args1="0" Item="" />
+		</Data>
+	</Sheet>
+	<Sheet Name="縁者" Count="35">
+		<Header>
+			<Param Name="PID" Ident="PID" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="縁者1" Ident="PID1" Type="string" Min="" Max="" Chg="" />
+			<Param Name="縁者2" Ident="PID2" Type="string" Min="" Max="" Chg="" />
+			<Param Name="縁者3" Ident="PID3" Type="string" Min="" Max="" Chg="" />
+			<Param Name="縁者4" Ident="PID4" Type="string" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param PID="PID_ヴァンドレ" PID1="PID_クラン" PID2="PID_フラン" PID3="" PID4="" />
+			<Param PID="PID_クラン" PID1="PID_フラン" PID2="" PID3="" PID4="" />
+			<Param PID="PID_フラン" PID1="PID_クラン" PID2="" PID3="" PID4="" />
+			<Param PID="PID_アルフレッド" PID1="PID_セリーヌ" PID2="PID_ブシュロン" PID3="PID_エーティエ" PID4="" />
+			<Param PID="PID_ブシュロン" PID1="PID_エーティエ" PID2="" PID3="" PID4="" />
+			<Param PID="PID_エーティエ" PID1="PID_ブシュロン" PID2="" PID3="" PID4="" />
+			<Param PID="PID_セリーヌ" PID1="PID_ルイ" PID2="PID_クロエ" PID3="" PID4="" />
+			<Param PID="PID_ルイ" PID1="PID_セリーヌ" PID2="PID_クロエ" PID3="" PID4="" />
+			<Param PID="PID_クロエ" PID1="PID_セリーヌ" PID2="PID_ルイ" PID3="" PID4="" />
+			<Param PID="PID_ディアマンド" PID1="PID_スタルーク" PID2="PID_アンバー" PID3="PID_ジェーデ" PID4="" />
+			<Param PID="PID_アンバー" PID1="PID_ジェーデ" PID2="" PID3="" PID4="" />
+			<Param PID="PID_ジェーデ" PID1="PID_アンバー" PID2="" PID3="" PID4="" />
+			<Param PID="PID_スタルーク" PID1="PID_ラピス" PID2="PID_シトリニカ" PID3="" PID4="" />
+			<Param PID="PID_ラピス" PID1="PID_スタルーク" PID2="PID_シトリニカ" PID3="" PID4="" />
+			<Param PID="PID_シトリニカ" PID1="PID_スタルーク" PID2="PID_ラピス" PID3="" PID4="" />
+			<Param PID="PID_アイビー" PID1="PID_オルテンシア" PID2="PID_カゲツ" PID3="PID_ゼルコバ" PID4="" />
+			<Param PID="PID_ゼルコバ" PID1="PID_カゲツ" PID2="" PID3="" PID4="" />
+			<Param PID="PID_カゲツ" PID1="PID_ゼルコバ" PID2="" PID3="" PID4="" />
+			<Param PID="PID_オルテンシア" PID1="PID_ロサード" PID2="PID_ゴルドマリー" PID3="" PID4="" />
+			<Param PID="PID_ロサード" PID1="PID_オルテンシア" PID2="PID_ゴルドマリー" PID3="" PID4="" />
+			<Param PID="PID_ゴルドマリー" PID1="PID_オルテンシア" PID2="PID_ロサード" PID3="" PID4="" />
+			<Param PID="PID_ミスティラ" PID1="PID_フォガート" PID2="PID_メリン" PID3="PID_パネトネ" PID4="" />
+			<Param PID="PID_メリン" PID1="PID_パネトネ" PID2="" PID3="" PID4="" />
+			<Param PID="PID_パネトネ" PID1="PID_メリン" PID2="PID_パンドロ" PID3="" PID4="" />
+			<Param PID="PID_フォガート" PID1="PID_パンドロ" PID2="PID_ボネ" PID3="" PID4="" />
+			<Param PID="PID_パンドロ" PID1="PID_フォガート" PID2="PID_ボネ" PID3="PID_パネトネ" PID4="" />
+			<Param PID="PID_ボネ" PID1="PID_フォガート" PID2="PID_パンドロ" PID3="" PID4="" />
+			<Param PID="PID_アンナ" PID1="" PID2="" PID3="" PID4="" />
+			<Param PID="PID_ジャン" PID1="" PID2="" PID3="" PID4="" />
+			<Param PID="PID_ユナカ" PID1="" PID2="" PID3="" PID4="" />
+			<Param PID="PID_セアダス" PID1="" PID2="" PID3="" PID4="" />
+			<Param PID="PID_リンデン" PID1="PID_オルテンシア" PID2="" PID3="" PID4="" />
+			<Param PID="PID_ザフィーア" PID1="PID_スタルーク" PID2="" PID3="" PID4="" />
+			<Param PID="PID_ヴェイル" PID1="PID_モーヴ" PID2="" PID3="" PID4="" />
+			<Param PID="PID_モーヴ" PID1="" PID2="" PID3="" PID4="" />
+		</Data>
+	</Sheet>
+	<Sheet Name="施設" Count="5">
+		<Header>
+			<Param Name="会話パターン" Ident="Pattern" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="担当PID" Ident="PID" Type="string" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Pattern="PT00" PID="PID_ディアマンド" />
+			<Param Pattern="PT01" PID="PID_アイビー" />
+			<Param Pattern="PT02" PID="PID_アルフレッド" />
+			<Param Pattern="PT06" PID="PID_セアダス" />
+			<Param Pattern="PT05" PID="PID_ミスティラ" />
+		</Data>
+	</Sheet>
+	<Sheet Name="晶石" Count="26">
+		<Header>
+			<Param Name="条件CID(クリア時)" Ident="CID" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="数" Ident="Count" Type="u8" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param CID="M001" Count="31" />
+			<Param CID="M002" Count="32" />
+			<Param CID="M003" Count="33" />
+			<Param CID="M004" Count="34" />
+			<Param CID="M005" Count="35" />
+			<Param CID="M006" Count="36" />
+			<Param CID="M007" Count="37" />
+			<Param CID="M008" Count="38" />
+			<Param CID="M009" Count="39" />
+			<Param CID="M010" Count="40" />
+			<Param CID="M011" Count="41" />
+			<Param CID="M012" Count="42" />
+			<Param CID="M013" Count="43" />
+			<Param CID="M014" Count="44" />
+			<Param CID="M015" Count="45" />
+			<Param CID="M016" Count="46" />
+			<Param CID="M017" Count="47" />
+			<Param CID="M018" Count="48" />
+			<Param CID="M019" Count="49" />
+			<Param CID="M020" Count="50" />
+			<Param CID="M021" Count="51" />
+			<Param CID="M022" Count="52" />
+			<Param CID="M023" Count="53" />
+			<Param CID="M024" Count="54" />
+			<Param CID="M025" Count="55" />
+			<Param CID="M026" Count="56" />
+		</Data>
+	</Sheet>
+</Book>

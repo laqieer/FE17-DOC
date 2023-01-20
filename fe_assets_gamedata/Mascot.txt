@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Book Count="4">
+	<Sheet Name="アクセサリ" Count="10">
+		<Header>
+			<Param Name="出力先" Ident="Out" Type="PublicFile" Min="" Max="" Chg="" />
+			<Param Name="アクセサリ定義" Ident="Aid" Type="string" Min="" Max="" Chg="" />
+			<Param Name="種類" Ident="Type" Type="s8" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Out="" Aid="AID_しんしのぼうし" Type="0" />
+			<Param Out="" Aid="AID_くろめがね" Type="0" />
+			<Param Out="" Aid="AID_おはなのかんむり" Type="0" />
+			<Param Out="" Aid="AID_おそろいのかみ" Type="0" />
+			<Param Out="" Aid="AID_おマユ" Type="0" />
+			<Param Out="" Aid="AID_ちょうちょ" Type="1" />
+			<Param Out="" Aid="AID_おしリボン" Type="1" />
+			<Param Out="" Aid="AID_すずひもリボン" Type="1" />
+			<Param Out="" Aid="AID_ふわふわのはね" Type="1" />
+			<Param Out="" Aid="AID_まもりのせいそう" Type="1" />
+		</Data>
+	</Sheet>
+	<Sheet Name="カラー" Count="12">
+		<Header>
+			<Param Name="出力先" Ident="Out" Type="PublicFile" Min="" Max="" Chg="" />
+			<Param Name="R" Ident="R" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="G" Ident="G" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="B" Ident="B" Type="u8" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Out="" R="255" G="119" B="119" />
+			<Param Out="" R="222" G="29" B="36" />
+			<Param Out="" R="26" G="58" B="157" />
+			<Param Out="" R="241" G="149" B="71" />
+			<Param Out="" R="255" G="218" B="120" />
+			<Param Out="" R="109" G="212" B="254" />
+			<Param Out="" R="125" G="212" B="179" />
+			<Param Out="" R="96" G="166" B="85" />
+			<Param Out="" R="140" G="152" B="107" />
+			<Param Out="" R="179" G="136" B="191" />
+			<Param Out="" R="53" G="53" B="53" />
+			<Param Out="" R="234" G="234" B="234" />
+		</Data>
+	</Sheet>
+	<Sheet Name="パラメータ" Count="10">
+		<Header>
+			<Param Name="出力先" Ident="Out" Type="PublicFile" Min="" Max="" Chg="" />
+			<Param Name="パラメータ名" Ident="ParamName" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="パラメータ" Ident="Value" Type="s8" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Out="" ParamName="食事" Value="10" />
+			<Param Out="" ParamName="なでる" Value="5" />
+			<Param Out="" ParamName="追従" Value="3" />
+			<Param Out="" ParamName="カスタマイズ" Value="2" />
+			<Param Out="" ParamName="時間経過" Value="-10" />
+			<Param Out="" ParamName="無視" Value="-5" />
+			<Param Out="" ParamName="失踪後未発見" Value="-5" />
+			<Param Out="" ParamName="失踪後発見" Value="5" />
+			<Param Out="" ParamName="ミニゲーム成功" Value="10" />
+			<Param Out="" ParamName="ミニゲーム失敗" Value="-5" />
+		</Data>
+	</Sheet>
+	<Sheet Name="好物" Count="33">
+		<Header>
+			<Param Name="出力先" Ident="Out" Type="PublicFile" Min="" Max="" Chg="" />
+			<Param Name="アイテム名" Ident="Iid" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="なつき度" Ident="Value" Type="s8" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Out="" Iid="IID_牛肉" Value="5" />
+			<Param Out="" Iid="IID_豚肉" Value="10" />
+			<Param Out="" Iid="IID_鶏肉" Value="1" />
+			<Param Out="" Iid="IID_羊肉" Value="5" />
+			<Param Out="" Iid="IID_タマネギ" Value="1" />
+			<Param Out="" Iid="IID_キャベツ" Value="10" />
+			<Param Out="" Iid="IID_ハーブ" Value="5" />
+			<Param Out="" Iid="IID_トマト" Value="5" />
+			<Param Out="" Iid="IID_芋" Value="5" />
+			<Param Out="" Iid="IID_幻の野菜" Value="10" />
+			<Param Out="" Iid="IID_小麦" Value="5" />
+			<Param Out="" Iid="IID_リンゴ" Value="10" />
+			<Param Out="" Iid="IID_オレンジ" Value="10" />
+			<Param Out="" Iid="IID_モモ" Value="10" />
+			<Param Out="" Iid="IID_ブドウ" Value="10" />
+			<Param Out="" Iid="IID_ベリー" Value="5" />
+			<Param Out="" Iid="IID_幻の果物" Value="10" />
+			<Param Out="" Iid="IID_木の実" Value="1" />
+			<Param Out="" Iid="IID_ニシン" Value="5" />
+			<Param Out="" Iid="IID_コイ" Value="5" />
+			<Param Out="" Iid="IID_サケ" Value="1" />
+			<Param Out="" Iid="IID_タラ" Value="5" />
+			<Param Out="" Iid="IID_ウナギ" Value="5" />
+			<Param Out="" Iid="IID_イワシ" Value="10" />
+			<Param Out="" Iid="IID_すり身" Value="10" />
+			<Param Out="" Iid="IID_干物" Value="5" />
+			<Param Out="" Iid="IID_刺身" Value="5" />
+			<Param Out="" Iid="IID_幻の魚" Value="10" />
+			<Param Out="" Iid="IID_ミルク" Value="10" />
+			<Param Out="" Iid="IID_タマゴ" Value="1" />
+			<Param Out="" Iid="IID_米" Value="5" />
+			<Param Out="" Iid="IID_豆" Value="10" />
+			<Param Out="" Iid="IID_スパイス" Value="1" />
+		</Data>
+	</Sheet>
+</Book>

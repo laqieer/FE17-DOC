@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Book Count="1">
+	<Sheet Name="範囲" Count="99">
+		<Header>
+			<Param Name="範囲名" Ident="Group" Type="PublicArray" Min="" Max="" Chg="" />
+			<Param Name="値1" Ident="Value1" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="値2" Ident="Value2" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="値3" Ident="Value3" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="値4" Ident="Value4" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="値5" Ident="Value5" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="値6" Ident="Value6" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="値7" Ident="Value7" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="値8" Ident="Value8" Type="s8" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Group="ロイ攻撃範囲" Value1="" Value2="" Value3="" Value4="" Value5="" Value6="" Value7="" Value8="" />
+			<Param Group="" Value1="2" Value2="2" Value3="2" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="0" Value2="1" Value3="0" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="ロイ攻撃範囲_竜族" Value1="" Value2="" Value3="" Value4="" Value5="" Value6="" Value7="" Value8="" />
+			<Param Group="" Value1="2" Value2="2" Value3="2" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="2" Value2="2" Value3="2" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="0" Value2="1" Value3="0" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="ロイ炎上範囲" Value1="" Value2="" Value3="" Value4="" Value5="" Value6="" Value7="" Value8="" />
+			<Param Group="" Value1="2" Value2="2" Value3="2" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="2" Value2="2" Value3="2" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="2" Value2="2" Value3="2" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="0" Value2="1" Value3="0" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="ロイ炎上範囲_魔法" Value1="" Value2="" Value3="" Value4="" Value5="" Value6="" Value7="" Value8="" />
+			<Param Group="" Value1="2" Value2="2" Value3="2" Value4="2" Value5="2" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="2" Value2="2" Value3="2" Value4="2" Value5="2" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="0" Value2="2" Value3="2" Value4="2" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="0" Value2="0" Value3="1" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="アイク我慢範囲_攻撃" Value1="" Value2="" Value3="" Value4="" Value5="" Value6="" Value7="" Value8="" />
+			<Param Group="" Value1="0" Value2="0" Value3="2" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="0" Value2="2" Value3="2" Value4="2" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="2" Value2="2" Value3="1" Value4="2" Value5="2" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="0" Value2="2" Value3="2" Value4="2" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="0" Value2="0" Value3="2" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="アイク我慢範囲" Value1="" Value2="" Value3="" Value4="" Value5="" Value6="" Value7="" Value8="" />
+			<Param Group="" Value1="0" Value2="0" Value3="2" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="0" Value2="2" Value3="2" Value4="2" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="2" Value2="2" Value3="4" Value4="2" Value5="2" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="0" Value2="2" Value3="2" Value4="2" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="0" Value2="0" Value3="2" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="カムイ竜脈範囲_連携" Value1="" Value2="" Value3="" Value4="" Value5="" Value6="" Value7="" Value8="" />
+			<Param Group="" Value1="3" Value2="3" Value3="3" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="3" Value2="4" Value3="3" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="3" Value2="3" Value3="3" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="カムイ竜脈範囲_騎馬" Value1="" Value2="" Value3="" Value4="" Value5="" Value6="" Value7="" Value8="" />
+			<Param Group="" Value1="0" Value2="2" Value3="0" Value4="2" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="2" Value2="0" Value3="2" Value4="0" Value5="2" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="0" Value2="2" Value3="0" Value4="2" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="2" Value2="0" Value3="2" Value4="0" Value5="2" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="0" Value2="0" Value3="1" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="カムイ竜脈範囲_隠密" Value1="" Value2="" Value3="" Value4="" Value5="" Value6="" Value7="" Value8="" />
+			<Param Group="" Value1="3" Value2="3" Value3="3" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="3" Value2="4" Value3="3" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="3" Value2="3" Value3="3" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="カムイ竜脈範囲_重装" Value1="" Value2="" Value3="" Value4="" Value5="" Value6="" Value7="" Value8="" />
+			<Param Group="" Value1="3" Value2="3" Value3="3" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="3" Value2="4" Value3="3" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="3" Value2="3" Value3="3" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="カムイ竜脈範囲_飛行" Value1="" Value2="" Value3="" Value4="" Value5="" Value6="" Value7="" Value8="" />
+			<Param Group="" Value1="0" Value2="0" Value3="3" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="0" Value2="3" Value3="3" Value4="3" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="3" Value2="3" Value3="4" Value4="3" Value5="3" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="0" Value2="3" Value3="3" Value4="3" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="0" Value2="0" Value3="3" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="カムイ竜脈範囲_魔法" Value1="" Value2="" Value3="" Value4="" Value5="" Value6="" Value7="" Value8="" />
+			<Param Group="" Value1="0" Value2="2" Value3="2" Value4="2" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="0" Value2="2" Value3="2" Value4="2" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="0" Value2="2" Value3="2" Value4="2" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="0" Value2="0" Value3="2" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="0" Value2="0" Value3="1" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="カムイ竜脈範囲_気功" Value1="" Value2="" Value3="" Value4="" Value5="" Value6="" Value7="" Value8="" />
+			<Param Group="" Value1="2" Value2="2" Value3="2" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="2" Value2="2" Value3="2" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="0" Value2="1" Value3="0" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="カムイ攻撃範囲" Value1="" Value2="" Value3="" Value4="" Value5="" Value6="" Value7="" Value8="" />
+			<Param Group="" Value1="2" Value2="0" Value3="0" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="2" Value2="0" Value3="0" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="2" Value2="0" Value3="0" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="1" Value2="0" Value3="0" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="カムイ攻撃範囲_竜族" Value1="" Value2="" Value3="" Value4="" Value5="" Value6="" Value7="" Value8="" />
+			<Param Group="" Value1="2" Value2="0" Value3="0" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="2" Value2="0" Value3="0" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="2" Value2="0" Value3="0" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="2" Value2="0" Value3="0" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="1" Value2="0" Value3="0" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="火炎砲台" Value1="" Value2="" Value3="" Value4="" Value5="" Value6="" Value7="" Value8="" />
+			<Param Group="" Value1="0" Value2="0" Value3="2" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="0" Value2="2" Value3="2" Value4="2" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="2" Value2="2" Value3="4" Value4="2" Value5="2" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="0" Value2="2" Value3="2" Value4="2" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="0" Value2="0" Value3="2" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="全弾発射" Value1="" Value2="" Value3="" Value4="" Value5="" Value6="" Value7="" Value8="" />
+			<Param Group="" Value1="0" Value2="0" Value3="2" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="0" Value2="2" Value3="4" Value4="2" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="0" Value2="0" Value3="2" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="サンプル1" Value1="" Value2="" Value3="" Value4="" Value5="" Value6="" Value7="" Value8="" />
+			<Param Group="" Value1="2" Value2="2" Value3="2" Value4="2" Value5="2" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="0" Value2="2" Value3="2" Value4="2" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="0" Value2="0" Value3="2" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="0" Value2="0" Value3="1" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="サンプル2" Value1="" Value2="" Value3="" Value4="" Value5="" Value6="" Value7="" Value8="" />
+			<Param Group="" Value1="0" Value2="0" Value3="2" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="0" Value2="2" Value3="2" Value4="2" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="2" Value2="2" Value3="1" Value4="2" Value5="2" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="0" Value2="2" Value3="2" Value4="2" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="0" Value2="0" Value3="2" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="隣接" Value1="" Value2="" Value3="" Value4="" Value5="" Value6="" Value7="" Value8="" />
+			<Param Group="" Value1="0" Value2="0" Value3="2" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="0" Value2="2" Value3="4" Value4="2" Value5="0" Value6="0" Value7="0" Value8="0" />
+			<Param Group="" Value1="0" Value2="0" Value3="2" Value4="0" Value5="0" Value6="0" Value7="0" Value8="0" />
+		</Data>
+	</Sheet>
+</Book>

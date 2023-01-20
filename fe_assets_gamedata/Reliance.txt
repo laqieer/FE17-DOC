@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Book Count="3">
+	<Sheet Name="支援関係" Count="36">
+		<Header>
+			<Param Name="出力先" Ident="Out" Type="PublicFile" Min="" Max="" Chg="" />
+			<Param Name="名前" Ident="Pid" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="リュール" Ident="ExpType0" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="ヴァンドレ" Ident="ExpType1" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="クラン" Ident="ExpType2" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="フラン" Ident="ExpType3" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="アルフレッド" Ident="ExpType4" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="ブシュロン" Ident="ExpType5" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="エーティエ" Ident="ExpType6" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="セリーヌ" Ident="ExpType7" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="ルイ" Ident="ExpType8" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="クロエ" Ident="ExpType9" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="ディアマンド" Ident="ExpType10" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="アンバー" Ident="ExpType11" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="ジェーデ" Ident="ExpType12" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="スタルーク" Ident="ExpType13" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="ラピス" Ident="ExpType14" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="シトリニカ" Ident="ExpType15" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="アイビー" Ident="ExpType16" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="ゼルコバ" Ident="ExpType17" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="カゲツ" Ident="ExpType18" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="オルテンシア" Ident="ExpType19" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="ロサード" Ident="ExpType20" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="ゴルドマリー" Ident="ExpType21" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="ミスティラ" Ident="ExpType22" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="メリン" Ident="ExpType23" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="パネトネ" Ident="ExpType24" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="フォガート" Ident="ExpType25" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="パンドロ" Ident="ExpType26" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="ボネ" Ident="ExpType27" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="アンナ" Ident="ExpType28" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="ジャン" Ident="ExpType29" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="ユナカ" Ident="ExpType30" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="セアダス" Ident="ExpType31" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="リンデン" Ident="ExpType32" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="ザフィーア" Ident="ExpType33" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="ヴェイル" Ident="ExpType34" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="モーヴ" Ident="ExpType35" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="予約１" Ident="ExpType36" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="予約２" Ident="ExpType37" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="予約３" Ident="ExpType38" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="予約４" Ident="ExpType39" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="予約５" Ident="ExpType40" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="予約６" Ident="ExpType41" Type="u8" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Out="" Pid="PID_リュール" ExpType0="0" ExpType1="0" ExpType2="0" ExpType3="0" ExpType4="0" ExpType5="0" ExpType6="0" ExpType7="0" ExpType8="0" ExpType9="0" ExpType10="0" ExpType11="0" ExpType12="0" ExpType13="0" ExpType14="0" ExpType15="0" ExpType16="0" ExpType17="0" ExpType18="0" ExpType19="0" ExpType20="0" ExpType21="0" ExpType22="0" ExpType23="0" ExpType24="0" ExpType25="0" ExpType26="0" ExpType27="0" ExpType28="0" ExpType29="0" ExpType30="0" ExpType31="0" ExpType32="0" ExpType33="0" ExpType34="0" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+			<Param Out="" Pid="PID_ヴァンドレ" ExpType0="1" ExpType1="0" ExpType2="0" ExpType3="0" ExpType4="0" ExpType5="0" ExpType6="0" ExpType7="0" ExpType8="0" ExpType9="0" ExpType10="0" ExpType11="0" ExpType12="0" ExpType13="0" ExpType14="0" ExpType15="0" ExpType16="0" ExpType17="0" ExpType18="0" ExpType19="0" ExpType20="0" ExpType21="0" ExpType22="0" ExpType23="0" ExpType24="0" ExpType25="0" ExpType26="0" ExpType27="0" ExpType28="0" ExpType29="0" ExpType30="0" ExpType31="0" ExpType32="0" ExpType33="0" ExpType34="0" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+			<Param Out="" Pid="PID_クラン" ExpType0="1" ExpType1="6" ExpType2="0" ExpType3="0" ExpType4="0" ExpType5="0" ExpType6="0" ExpType7="0" ExpType8="0" ExpType9="0" ExpType10="0" ExpType11="0" ExpType12="0" ExpType13="0" ExpType14="0" ExpType15="0" ExpType16="0" ExpType17="0" ExpType18="0" ExpType19="0" ExpType20="0" ExpType21="0" ExpType22="0" ExpType23="0" ExpType24="0" ExpType25="0" ExpType26="0" ExpType27="0" ExpType28="0" ExpType29="0" ExpType30="0" ExpType31="0" ExpType32="0" ExpType33="0" ExpType34="0" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+			<Param Out="" Pid="PID_フラン" ExpType0="1" ExpType1="6" ExpType2="6" ExpType3="0" ExpType4="0" ExpType5="0" ExpType6="0" ExpType7="0" ExpType8="0" ExpType9="0" ExpType10="0" ExpType11="0" ExpType12="0" ExpType13="0" ExpType14="0" ExpType15="0" ExpType16="0" ExpType17="0" ExpType18="0" ExpType19="0" ExpType20="0" ExpType21="0" ExpType22="0" ExpType23="0" ExpType24="0" ExpType25="0" ExpType26="0" ExpType27="0" ExpType28="0" ExpType29="0" ExpType30="0" ExpType31="0" ExpType32="0" ExpType33="0" ExpType34="0" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+			<Param Out="" Pid="PID_アルフレッド" ExpType0="1" ExpType1="6" ExpType2="0" ExpType3="0" ExpType4="0" ExpType5="0" ExpType6="0" ExpType7="0" ExpType8="0" ExpType9="0" ExpType10="0" ExpType11="0" ExpType12="0" ExpType13="0" ExpType14="0" ExpType15="0" ExpType16="0" ExpType17="0" ExpType18="0" ExpType19="0" ExpType20="0" ExpType21="0" ExpType22="0" ExpType23="0" ExpType24="0" ExpType25="0" ExpType26="0" ExpType27="0" ExpType28="0" ExpType29="0" ExpType30="0" ExpType31="0" ExpType32="0" ExpType33="0" ExpType34="0" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+			<Param Out="" Pid="PID_ブシュロン" ExpType0="1" ExpType1="0" ExpType2="0" ExpType3="6" ExpType4="6" ExpType5="0" ExpType6="0" ExpType7="0" ExpType8="0" ExpType9="0" ExpType10="0" ExpType11="0" ExpType12="0" ExpType13="0" ExpType14="0" ExpType15="0" ExpType16="0" ExpType17="0" ExpType18="0" ExpType19="0" ExpType20="0" ExpType21="0" ExpType22="0" ExpType23="0" ExpType24="0" ExpType25="0" ExpType26="0" ExpType27="0" ExpType28="0" ExpType29="0" ExpType30="0" ExpType31="0" ExpType32="0" ExpType33="0" ExpType34="0" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+			<Param Out="" Pid="PID_エーティエ" ExpType0="1" ExpType1="0" ExpType2="6" ExpType3="0" ExpType4="6" ExpType5="6" ExpType6="0" ExpType7="0" ExpType8="0" ExpType9="0" ExpType10="0" ExpType11="0" ExpType12="0" ExpType13="0" ExpType14="0" ExpType15="0" ExpType16="0" ExpType17="0" ExpType18="0" ExpType19="0" ExpType20="0" ExpType21="0" ExpType22="0" ExpType23="0" ExpType24="0" ExpType25="0" ExpType26="0" ExpType27="0" ExpType28="0" ExpType29="0" ExpType30="0" ExpType31="0" ExpType32="0" ExpType33="0" ExpType34="0" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+			<Param Out="" Pid="PID_セリーヌ" ExpType0="1" ExpType1="0" ExpType2="0" ExpType3="0" ExpType4="6" ExpType5="0" ExpType6="6" ExpType7="0" ExpType8="0" ExpType9="0" ExpType10="0" ExpType11="0" ExpType12="0" ExpType13="0" ExpType14="0" ExpType15="0" ExpType16="0" ExpType17="0" ExpType18="0" ExpType19="0" ExpType20="0" ExpType21="0" ExpType22="0" ExpType23="0" ExpType24="0" ExpType25="0" ExpType26="0" ExpType27="0" ExpType28="0" ExpType29="0" ExpType30="0" ExpType31="0" ExpType32="0" ExpType33="0" ExpType34="0" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+			<Param Out="" Pid="PID_ルイ" ExpType0="1" ExpType1="0" ExpType2="6" ExpType3="0" ExpType4="0" ExpType5="0" ExpType6="0" ExpType7="6" ExpType8="0" ExpType9="0" ExpType10="0" ExpType11="0" ExpType12="0" ExpType13="0" ExpType14="0" ExpType15="0" ExpType16="0" ExpType17="0" ExpType18="0" ExpType19="0" ExpType20="0" ExpType21="0" ExpType22="0" ExpType23="0" ExpType24="0" ExpType25="0" ExpType26="0" ExpType27="0" ExpType28="0" ExpType29="0" ExpType30="0" ExpType31="0" ExpType32="0" ExpType33="0" ExpType34="0" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+			<Param Out="" Pid="PID_クロエ" ExpType0="1" ExpType1="0" ExpType2="0" ExpType3="6" ExpType4="0" ExpType5="0" ExpType6="0" ExpType7="6" ExpType8="6" ExpType9="0" ExpType10="0" ExpType11="0" ExpType12="0" ExpType13="0" ExpType14="0" ExpType15="0" ExpType16="0" ExpType17="0" ExpType18="0" ExpType19="0" ExpType20="0" ExpType21="0" ExpType22="0" ExpType23="0" ExpType24="0" ExpType25="0" ExpType26="0" ExpType27="0" ExpType28="0" ExpType29="0" ExpType30="0" ExpType31="0" ExpType32="0" ExpType33="0" ExpType34="0" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+			<Param Out="" Pid="PID_ディアマンド" ExpType0="1" ExpType1="0" ExpType2="0" ExpType3="6" ExpType4="6" ExpType5="0" ExpType6="0" ExpType7="0" ExpType8="0" ExpType9="0" ExpType10="0" ExpType11="0" ExpType12="0" ExpType13="0" ExpType14="0" ExpType15="0" ExpType16="0" ExpType17="0" ExpType18="0" ExpType19="0" ExpType20="0" ExpType21="0" ExpType22="0" ExpType23="0" ExpType24="0" ExpType25="0" ExpType26="0" ExpType27="0" ExpType28="0" ExpType29="0" ExpType30="0" ExpType31="0" ExpType32="0" ExpType33="0" ExpType34="0" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+			<Param Out="" Pid="PID_アンバー" ExpType0="1" ExpType1="6" ExpType2="0" ExpType3="0" ExpType4="6" ExpType5="0" ExpType6="0" ExpType7="0" ExpType8="0" ExpType9="6" ExpType10="6" ExpType11="0" ExpType12="0" ExpType13="0" ExpType14="0" ExpType15="0" ExpType16="0" ExpType17="0" ExpType18="0" ExpType19="0" ExpType20="0" ExpType21="0" ExpType22="0" ExpType23="0" ExpType24="0" ExpType25="0" ExpType26="0" ExpType27="0" ExpType28="0" ExpType29="0" ExpType30="0" ExpType31="0" ExpType32="0" ExpType33="0" ExpType34="0" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+			<Param Out="" Pid="PID_ジェーデ" ExpType0="1" ExpType1="0" ExpType2="0" ExpType3="0" ExpType4="0" ExpType5="0" ExpType6="6" ExpType7="0" ExpType8="6" ExpType9="0" ExpType10="6" ExpType11="6" ExpType12="0" ExpType13="0" ExpType14="0" ExpType15="0" ExpType16="0" ExpType17="0" ExpType18="0" ExpType19="0" ExpType20="0" ExpType21="0" ExpType22="0" ExpType23="0" ExpType24="0" ExpType25="0" ExpType26="0" ExpType27="0" ExpType28="0" ExpType29="0" ExpType30="0" ExpType31="0" ExpType32="0" ExpType33="0" ExpType34="0" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+			<Param Out="" Pid="PID_スタルーク" ExpType0="1" ExpType1="0" ExpType2="0" ExpType3="0" ExpType4="0" ExpType5="6" ExpType6="0" ExpType7="6" ExpType8="0" ExpType9="0" ExpType10="6" ExpType11="0" ExpType12="0" ExpType13="0" ExpType14="0" ExpType15="0" ExpType16="0" ExpType17="0" ExpType18="0" ExpType19="0" ExpType20="0" ExpType21="0" ExpType22="0" ExpType23="0" ExpType24="0" ExpType25="0" ExpType26="0" ExpType27="0" ExpType28="0" ExpType29="0" ExpType30="0" ExpType31="0" ExpType32="0" ExpType33="0" ExpType34="0" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+			<Param Out="" Pid="PID_ラピス" ExpType0="1" ExpType1="0" ExpType2="0" ExpType3="6" ExpType4="0" ExpType5="6" ExpType6="6" ExpType7="6" ExpType8="0" ExpType9="0" ExpType10="0" ExpType11="0" ExpType12="0" ExpType13="6" ExpType14="0" ExpType15="0" ExpType16="0" ExpType17="0" ExpType18="0" ExpType19="0" ExpType20="0" ExpType21="0" ExpType22="0" ExpType23="0" ExpType24="0" ExpType25="0" ExpType26="0" ExpType27="0" ExpType28="0" ExpType29="0" ExpType30="0" ExpType31="0" ExpType32="0" ExpType33="0" ExpType34="0" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+			<Param Out="" Pid="PID_シトリニカ" ExpType0="1" ExpType1="0" ExpType2="6" ExpType3="0" ExpType4="0" ExpType5="0" ExpType6="0" ExpType7="0" ExpType8="0" ExpType9="6" ExpType10="6" ExpType11="0" ExpType12="0" ExpType13="6" ExpType14="6" ExpType15="0" ExpType16="0" ExpType17="0" ExpType18="0" ExpType19="0" ExpType20="0" ExpType21="0" ExpType22="0" ExpType23="0" ExpType24="0" ExpType25="0" ExpType26="0" ExpType27="0" ExpType28="0" ExpType29="0" ExpType30="0" ExpType31="0" ExpType32="0" ExpType33="0" ExpType34="0" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+			<Param Out="" Pid="PID_アイビー" ExpType0="1" ExpType1="0" ExpType2="0" ExpType3="0" ExpType4="6" ExpType5="0" ExpType6="0" ExpType7="0" ExpType8="6" ExpType9="0" ExpType10="6" ExpType11="0" ExpType12="0" ExpType13="6" ExpType14="0" ExpType15="0" ExpType16="0" ExpType17="0" ExpType18="0" ExpType19="0" ExpType20="0" ExpType21="0" ExpType22="0" ExpType23="0" ExpType24="0" ExpType25="0" ExpType26="0" ExpType27="0" ExpType28="0" ExpType29="0" ExpType30="0" ExpType31="0" ExpType32="0" ExpType33="0" ExpType34="0" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+			<Param Out="" Pid="PID_ゼルコバ" ExpType0="1" ExpType1="0" ExpType2="6" ExpType3="0" ExpType4="0" ExpType5="6" ExpType6="0" ExpType7="0" ExpType8="6" ExpType9="0" ExpType10="0" ExpType11="6" ExpType12="0" ExpType13="0" ExpType14="0" ExpType15="6" ExpType16="6" ExpType17="0" ExpType18="0" ExpType19="0" ExpType20="0" ExpType21="0" ExpType22="0" ExpType23="0" ExpType24="0" ExpType25="0" ExpType26="0" ExpType27="0" ExpType28="0" ExpType29="0" ExpType30="0" ExpType31="0" ExpType32="0" ExpType33="0" ExpType34="0" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+			<Param Out="" Pid="PID_カゲツ" ExpType0="1" ExpType1="0" ExpType2="0" ExpType3="6" ExpType4="0" ExpType5="6" ExpType6="0" ExpType7="6" ExpType8="0" ExpType9="0" ExpType10="6" ExpType11="0" ExpType12="6" ExpType13="0" ExpType14="0" ExpType15="0" ExpType16="6" ExpType17="6" ExpType18="0" ExpType19="0" ExpType20="0" ExpType21="0" ExpType22="0" ExpType23="0" ExpType24="0" ExpType25="0" ExpType26="0" ExpType27="0" ExpType28="0" ExpType29="0" ExpType30="0" ExpType31="0" ExpType32="0" ExpType33="0" ExpType34="0" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+			<Param Out="" Pid="PID_オルテンシア" ExpType0="3" ExpType1="0" ExpType2="8" ExpType3="0" ExpType4="0" ExpType5="0" ExpType6="0" ExpType7="8" ExpType8="0" ExpType9="8" ExpType10="0" ExpType11="0" ExpType12="0" ExpType13="8" ExpType14="0" ExpType15="0" ExpType16="8" ExpType17="0" ExpType18="0" ExpType19="0" ExpType20="0" ExpType21="0" ExpType22="0" ExpType23="0" ExpType24="0" ExpType25="0" ExpType26="0" ExpType27="0" ExpType28="0" ExpType29="0" ExpType30="0" ExpType31="0" ExpType32="0" ExpType33="0" ExpType34="0" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+			<Param Out="" Pid="PID_ロサード" ExpType0="3" ExpType1="0" ExpType2="0" ExpType3="0" ExpType4="0" ExpType5="0" ExpType6="0" ExpType7="0" ExpType8="8" ExpType9="0" ExpType10="0" ExpType11="0" ExpType12="8" ExpType13="0" ExpType14="8" ExpType15="0" ExpType16="0" ExpType17="0" ExpType18="0" ExpType19="8" ExpType20="0" ExpType21="0" ExpType22="0" ExpType23="0" ExpType24="0" ExpType25="0" ExpType26="0" ExpType27="0" ExpType28="0" ExpType29="0" ExpType30="0" ExpType31="0" ExpType32="0" ExpType33="0" ExpType34="0" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+			<Param Out="" Pid="PID_ゴルドマリー" ExpType0="3" ExpType1="8" ExpType2="0" ExpType3="8" ExpType4="0" ExpType5="8" ExpType6="8" ExpType7="0" ExpType8="0" ExpType9="0" ExpType10="0" ExpType11="0" ExpType12="0" ExpType13="0" ExpType14="8" ExpType15="0" ExpType16="0" ExpType17="0" ExpType18="0" ExpType19="8" ExpType20="8" ExpType21="0" ExpType22="0" ExpType23="0" ExpType24="0" ExpType25="0" ExpType26="0" ExpType27="0" ExpType28="0" ExpType29="0" ExpType30="0" ExpType31="0" ExpType32="0" ExpType33="0" ExpType34="0" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+			<Param Out="" Pid="PID_ミスティラ" ExpType0="2" ExpType1="0" ExpType2="0" ExpType3="7" ExpType4="7" ExpType5="0" ExpType6="0" ExpType7="0" ExpType8="0" ExpType9="0" ExpType10="7" ExpType11="0" ExpType12="7" ExpType13="0" ExpType14="0" ExpType15="0" ExpType16="7" ExpType17="0" ExpType18="0" ExpType19="0" ExpType20="0" ExpType21="0" ExpType22="0" ExpType23="0" ExpType24="0" ExpType25="0" ExpType26="0" ExpType27="0" ExpType28="0" ExpType29="0" ExpType30="0" ExpType31="0" ExpType32="0" ExpType33="0" ExpType34="0" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+			<Param Out="" Pid="PID_メリン" ExpType0="2" ExpType1="0" ExpType2="0" ExpType3="0" ExpType4="0" ExpType5="0" ExpType6="0" ExpType7="0" ExpType8="0" ExpType9="7" ExpType10="0" ExpType11="7" ExpType12="0" ExpType13="0" ExpType14="0" ExpType15="7" ExpType16="0" ExpType17="0" ExpType18="7" ExpType19="0" ExpType20="7" ExpType21="0" ExpType22="7" ExpType23="0" ExpType24="0" ExpType25="0" ExpType26="0" ExpType27="0" ExpType28="0" ExpType29="0" ExpType30="0" ExpType31="0" ExpType32="0" ExpType33="0" ExpType34="0" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+			<Param Out="" Pid="PID_パネトネ" ExpType0="2" ExpType1="0" ExpType2="0" ExpType3="0" ExpType4="0" ExpType5="7" ExpType6="7" ExpType7="0" ExpType8="0" ExpType9="0" ExpType10="0" ExpType11="7" ExpType12="0" ExpType13="0" ExpType14="0" ExpType15="0" ExpType16="7" ExpType17="0" ExpType18="0" ExpType19="0" ExpType20="0" ExpType21="7" ExpType22="7" ExpType23="7" ExpType24="0" ExpType25="0" ExpType26="0" ExpType27="0" ExpType28="0" ExpType29="0" ExpType30="0" ExpType31="0" ExpType32="0" ExpType33="0" ExpType34="0" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+			<Param Out="" Pid="PID_フォガート" ExpType0="2" ExpType1="0" ExpType2="7" ExpType3="0" ExpType4="0" ExpType5="0" ExpType6="7" ExpType7="7" ExpType8="0" ExpType9="0" ExpType10="0" ExpType11="0" ExpType12="0" ExpType13="7" ExpType14="7" ExpType15="0" ExpType16="0" ExpType17="0" ExpType18="0" ExpType19="7" ExpType20="7" ExpType21="0" ExpType22="7" ExpType23="0" ExpType24="0" ExpType25="0" ExpType26="0" ExpType27="0" ExpType28="0" ExpType29="0" ExpType30="0" ExpType31="0" ExpType32="0" ExpType33="0" ExpType34="0" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+			<Param Out="" Pid="PID_パンドロ" ExpType0="2" ExpType1="7" ExpType2="0" ExpType3="0" ExpType4="0" ExpType5="0" ExpType6="0" ExpType7="0" ExpType8="7" ExpType9="0" ExpType10="0" ExpType11="0" ExpType12="0" ExpType13="7" ExpType14="0" ExpType15="0" ExpType16="0" ExpType17="0" ExpType18="0" ExpType19="0" ExpType20="7" ExpType21="0" ExpType22="0" ExpType23="0" ExpType24="7" ExpType25="7" ExpType26="0" ExpType27="0" ExpType28="0" ExpType29="0" ExpType30="0" ExpType31="0" ExpType32="0" ExpType33="0" ExpType34="0" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+			<Param Out="" Pid="PID_ボネ" ExpType0="2" ExpType1="0" ExpType2="0" ExpType3="0" ExpType4="7" ExpType5="0" ExpType6="0" ExpType7="0" ExpType8="0" ExpType9="7" ExpType10="0" ExpType11="0" ExpType12="7" ExpType13="0" ExpType14="0" ExpType15="0" ExpType16="0" ExpType17="0" ExpType18="7" ExpType19="0" ExpType20="0" ExpType21="0" ExpType22="0" ExpType23="7" ExpType24="0" ExpType25="7" ExpType26="7" ExpType27="0" ExpType28="0" ExpType29="0" ExpType30="0" ExpType31="0" ExpType32="0" ExpType33="0" ExpType34="0" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+			<Param Out="" Pid="PID_アンナ" ExpType0="1" ExpType1="0" ExpType2="0" ExpType3="6" ExpType4="0" ExpType5="0" ExpType6="0" ExpType7="0" ExpType8="0" ExpType9="0" ExpType10="0" ExpType11="0" ExpType12="0" ExpType13="0" ExpType14="6" ExpType15="0" ExpType16="0" ExpType17="6" ExpType18="0" ExpType19="6" ExpType20="0" ExpType21="0" ExpType22="6" ExpType23="0" ExpType24="0" ExpType25="0" ExpType26="0" ExpType27="6" ExpType28="0" ExpType29="0" ExpType30="0" ExpType31="0" ExpType32="0" ExpType33="0" ExpType34="0" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+			<Param Out="" Pid="PID_ジャン" ExpType0="1" ExpType1="0" ExpType2="6" ExpType3="0" ExpType4="0" ExpType5="0" ExpType6="0" ExpType7="6" ExpType8="0" ExpType9="6" ExpType10="0" ExpType11="0" ExpType12="6" ExpType13="0" ExpType14="0" ExpType15="0" ExpType16="0" ExpType17="6" ExpType18="0" ExpType19="0" ExpType20="0" ExpType21="0" ExpType22="0" ExpType23="0" ExpType24="0" ExpType25="0" ExpType26="0" ExpType27="6" ExpType28="0" ExpType29="0" ExpType30="0" ExpType31="0" ExpType32="0" ExpType33="0" ExpType34="0" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+			<Param Out="" Pid="PID_ユナカ" ExpType0="1" ExpType1="0" ExpType2="0" ExpType3="0" ExpType4="6" ExpType5="0" ExpType6="6" ExpType7="0" ExpType8="6" ExpType9="0" ExpType10="0" ExpType11="0" ExpType12="0" ExpType13="0" ExpType14="0" ExpType15="6" ExpType16="0" ExpType17="6" ExpType18="0" ExpType19="0" ExpType20="0" ExpType21="6" ExpType22="0" ExpType23="6" ExpType24="6" ExpType25="6" ExpType26="0" ExpType27="0" ExpType28="0" ExpType29="0" ExpType30="0" ExpType31="0" ExpType32="0" ExpType33="0" ExpType34="0" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+			<Param Out="" Pid="PID_セアダス" ExpType0="3" ExpType1="0" ExpType2="0" ExpType3="0" ExpType4="0" ExpType5="0" ExpType6="0" ExpType7="0" ExpType8="0" ExpType9="8" ExpType10="0" ExpType11="8" ExpType12="0" ExpType13="8" ExpType14="0" ExpType15="8" ExpType16="0" ExpType17="0" ExpType18="8" ExpType19="0" ExpType20="8" ExpType21="0" ExpType22="8" ExpType23="0" ExpType24="0" ExpType25="0" ExpType26="8" ExpType27="0" ExpType28="0" ExpType29="0" ExpType30="8" ExpType31="0" ExpType32="0" ExpType33="0" ExpType34="0" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+			<Param Out="" Pid="PID_リンデン" ExpType0="4" ExpType1="9" ExpType2="0" ExpType3="0" ExpType4="0" ExpType5="9" ExpType6="0" ExpType7="0" ExpType8="0" ExpType9="0" ExpType10="0" ExpType11="0" ExpType12="9" ExpType13="0" ExpType14="0" ExpType15="0" ExpType16="0" ExpType17="0" ExpType18="0" ExpType19="9" ExpType20="0" ExpType21="0" ExpType22="0" ExpType23="0" ExpType24="0" ExpType25="0" ExpType26="0" ExpType27="0" ExpType28="0" ExpType29="9" ExpType30="0" ExpType31="0" ExpType32="0" ExpType33="0" ExpType34="0" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+			<Param Out="" Pid="PID_ザフィーア" ExpType0="4" ExpType1="9" ExpType2="0" ExpType3="0" ExpType4="0" ExpType5="0" ExpType6="0" ExpType7="0" ExpType8="9" ExpType9="0" ExpType10="9" ExpType11="0" ExpType12="0" ExpType13="9" ExpType14="0" ExpType15="0" ExpType16="0" ExpType17="0" ExpType18="0" ExpType19="0" ExpType20="0" ExpType21="9" ExpType22="0" ExpType23="0" ExpType24="9" ExpType25="0" ExpType26="0" ExpType27="0" ExpType28="0" ExpType29="0" ExpType30="0" ExpType31="0" ExpType32="9" ExpType33="0" ExpType34="0" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+			<Param Out="" Pid="PID_ヴェイル" ExpType0="5" ExpType1="0" ExpType2="10" ExpType3="0" ExpType4="10" ExpType5="0" ExpType6="0" ExpType7="0" ExpType8="0" ExpType9="0" ExpType10="10" ExpType11="0" ExpType12="0" ExpType13="0" ExpType14="0" ExpType15="10" ExpType16="10" ExpType17="0" ExpType18="0" ExpType19="10" ExpType20="0" ExpType21="0" ExpType22="10" ExpType23="10" ExpType24="0" ExpType25="0" ExpType26="10" ExpType27="0" ExpType28="0" ExpType29="0" ExpType30="0" ExpType31="10" ExpType32="0" ExpType33="0" ExpType34="0" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+			<Param Out="" Pid="PID_モーヴ" ExpType0="5" ExpType1="10" ExpType2="0" ExpType3="0" ExpType4="0" ExpType5="0" ExpType6="0" ExpType7="10" ExpType8="0" ExpType9="0" ExpType10="0" ExpType11="10" ExpType12="0" ExpType13="0" ExpType14="0" ExpType15="0" ExpType16="10" ExpType17="0" ExpType18="0" ExpType19="0" ExpType20="10" ExpType21="0" ExpType22="0" ExpType23="0" ExpType24="0" ExpType25="0" ExpType26="10" ExpType27="10" ExpType28="10" ExpType29="0" ExpType30="0" ExpType31="0" ExpType32="10" ExpType33="0" ExpType34="10" ExpType35="0" ExpType36="0" ExpType37="0" ExpType38="0" ExpType39="0" ExpType40="0" ExpType41="0" />
+		</Data>
+	</Sheet>
+	<Sheet Name="必要経験値" Count="11">
+		<Header>
+			<Param Name="出力先" Ident="Out" Type="PublicFile" Min="" Max="" Chg="" />
+			<Param Name="パターン名" Ident="Rexid" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="必要Ｃ" Ident="ExpC" Type="u8" Min="0" Max="100" Chg="1" />
+			<Param Name="必要Ｂ" Ident="ExpB" Type="u8" Min="0" Max="100" Chg="1" />
+			<Param Name="必要Ａ" Ident="ExpA" Type="u8" Min="0" Max="100" Chg="1" />
+		</Header>
+		<Data>
+			<Param Out="" Rexid="REXID_なし" ExpC="0" ExpB="0" ExpA="0" />
+			<Param Out="" Rexid="REXID_パターン１" ExpC="5" ExpB="20" ExpA="45" />
+			<Param Out="" Rexid="REXID_パターン２" ExpC="5" ExpB="20" ExpA="35" />
+			<Param Out="" Rexid="REXID_パターン３" ExpC="3" ExpB="15" ExpA="30" />
+			<Param Out="" Rexid="REXID_パターン４" ExpC="3" ExpB="10" ExpA="20" />
+			<Param Out="" Rexid="REXID_パターン５" ExpC="3" ExpB="10" ExpA="20" />
+			<Param Out="" Rexid="REXID_パターン６" ExpC="5" ExpB="10" ExpA="25" />
+			<Param Out="" Rexid="REXID_パターン７" ExpC="5" ExpB="10" ExpA="20" />
+			<Param Out="" Rexid="REXID_パターン８" ExpC="3" ExpB="9" ExpA="18" />
+			<Param Out="" Rexid="REXID_パターン９" ExpC="3" ExpB="6" ExpA="12" />
+			<Param Out="" Rexid="REXID_パターン１０" ExpC="3" ExpB="6" ExpA="12" />
+		</Data>
+	</Sheet>
+	<Sheet Name="支援効果" Count="30">
+		<Header>
+			<Param Name="出力先" Ident="Out" Type="PublicFile" Min="" Max="" Chg="" />
+			<Param Name="名前" Ident="Name" Type="PublicArray" Min="" Max="" Chg="" />
+			<Param Name="支援レベル" Ident="Level" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="命中加算" Ident="Hit" Type="s8" Min="-100" Max="100" Chg="1" />
+			<Param Name="必殺加算" Ident="Critical" Type="s8" Min="-100" Max="100" Chg="1" />
+			<Param Name="回避加算" Ident="Avoid" Type="s8" Min="-100" Max="100" Chg="1" />
+			<Param Name="必殺回避加算" Ident="Secure" Type="s8" Min="-100" Max="100" Chg="1" />
+		</Header>
+		<Data>
+			<Param Out="" Name="デフォルト" Level="" Hit="" Critical="" Avoid="" Secure="" />
+			<Param Out="" Name="" Level="1" Hit="10" Critical="0" Avoid="0" Secure="0" />
+			<Param Out="" Name="" Level="2" Hit="10" Critical="0" Avoid="0" Secure="0" />
+			<Param Out="" Name="" Level="3" Hit="10" Critical="0" Avoid="0" Secure="0" />
+			<Param Out="" Name="" Level="4" Hit="10" Critical="0" Avoid="0" Secure="0" />
+			<Param Out="" Name="バランス" Level="" Hit="" Critical="" Avoid="" Secure="" />
+			<Param Out="" Name="" Level="1" Hit="10" Critical="0" Avoid="5" Secure="0" />
+			<Param Out="" Name="" Level="2" Hit="10" Critical="3" Avoid="5" Secure="0" />
+			<Param Out="" Name="" Level="3" Hit="10" Critical="3" Avoid="5" Secure="5" />
+			<Param Out="" Name="" Level="4" Hit="10" Critical="6" Avoid="5" Secure="5" />
+			<Param Out="" Name="命中" Level="" Hit="" Critical="" Avoid="" Secure="" />
+			<Param Out="" Name="" Level="1" Hit="15" Critical="0" Avoid="0" Secure="0" />
+			<Param Out="" Name="" Level="2" Hit="15" Critical="0" Avoid="5" Secure="0" />
+			<Param Out="" Name="" Level="3" Hit="20" Critical="0" Avoid="5" Secure="0" />
+			<Param Out="" Name="" Level="4" Hit="30" Critical="0" Avoid="5" Secure="0" />
+			<Param Out="" Name="必殺" Level="" Hit="" Critical="" Avoid="" Secure="" />
+			<Param Out="" Name="" Level="1" Hit="10" Critical="3" Avoid="0" Secure="0" />
+			<Param Out="" Name="" Level="2" Hit="10" Critical="3" Avoid="0" Secure="5" />
+			<Param Out="" Name="" Level="3" Hit="10" Critical="6" Avoid="0" Secure="5" />
+			<Param Out="" Name="" Level="4" Hit="10" Critical="12" Avoid="0" Secure="5" />
+			<Param Out="" Name="回避" Level="" Hit="" Critical="" Avoid="" Secure="" />
+			<Param Out="" Name="" Level="1" Hit="10" Critical="0" Avoid="5" Secure="0" />
+			<Param Out="" Name="" Level="2" Hit="10" Critical="3" Avoid="5" Secure="0" />
+			<Param Out="" Name="" Level="3" Hit="10" Critical="3" Avoid="10" Secure="0" />
+			<Param Out="" Name="" Level="4" Hit="10" Critical="3" Avoid="20" Secure="0" />
+			<Param Out="" Name="必殺回避" Level="" Hit="" Critical="" Avoid="" Secure="" />
+			<Param Out="" Name="" Level="1" Hit="10" Critical="0" Avoid="0" Secure="5" />
+			<Param Out="" Name="" Level="2" Hit="15" Critical="0" Avoid="0" Secure="5" />
+			<Param Out="" Name="" Level="3" Hit="15" Critical="0" Avoid="0" Secure="10" />
+			<Param Out="" Name="" Level="4" Hit="15" Critical="0" Avoid="0" Secure="20" />
+		</Data>
+	</Sheet>
+</Book>

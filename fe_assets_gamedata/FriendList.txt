@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Book Count="1">
+	<Sheet Name="リスト" Count="177">
+		<Header>
+			<Param Name="出力先" Ident="Out" Type="PublicFile" Min="" Max="" Chg="" />
+			<Param Name="手帳ID" Ident="FLID" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="個人" Ident="PID" Type="string" Min="" Max="" Chg="" />
+			<Param Name="必要支援レベル" Ident="Level" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="説明文" Ident="ContentText" Type="string" Min="" Max="" Chg="" />
+			<Param Name="スタンプ名" Ident="StampName" Type="string" Min="" Max="" Chg="" />
+			<Param Name="画像名" Ident="ImageName" Type="string" Min="" Max="" Chg="" />
+			<Param Name="画像S名" Ident="ImageNameS" Type="string" Min="" Max="" Chg="" />
+			<Param Name="所属国" Ident="Country" Type="s8" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param Out="" FLID="FLID_ヴァンドレ_D" PID="PID_ヴァンドレ" Level="0" ContentText="MID_FRIENDLIST_Vandre_TextD" StampName="Vandre0" ImageName="Vandre0" ImageNameS="" Country="0" />
+			<Param Out="" FLID="FLID_ヴァンドレ_C" PID="PID_ヴァンドレ" Level="1" ContentText="MID_FRIENDLIST_Vandre_TextC" StampName="Vandre1" ImageName="Vandre1" ImageNameS="" Country="0" />
+			<Param Out="" FLID="FLID_ヴァンドレ_B" PID="PID_ヴァンドレ" Level="2" ContentText="MID_FRIENDLIST_Vandre_TextB" StampName="Vandre2" ImageName="Vandre2" ImageNameS="" Country="0" />
+			<Param Out="" FLID="FLID_ヴァンドレ_A" PID="PID_ヴァンドレ" Level="3" ContentText="MID_FRIENDLIST_Vandre_TextA" StampName="Vandre3" ImageName="Vandre3" ImageNameS="" Country="0" />
+			<Param Out="" FLID="FLID_ヴァンドレ_S" PID="PID_ヴァンドレ" Level="4" ContentText="MID_FRIENDLIST_Vandre_TextS" StampName="Vandre4" ImageName="Vandre4" ImageNameS="Tex_Event_Reliance_S_01" Country="0" />
+			<Param Out="" FLID="FLID_クラン_D" PID="PID_クラン" Level="0" ContentText="MID_FRIENDLIST_Clan_TextD" StampName="Clan0" ImageName="Clan0" ImageNameS="" Country="0" />
+			<Param Out="" FLID="FLID_クラン_C" PID="PID_クラン" Level="1" ContentText="MID_FRIENDLIST_Clan_TextC" StampName="Clan1" ImageName="Clan1" ImageNameS="" Country="0" />
+			<Param Out="" FLID="FLID_クラン_B" PID="PID_クラン" Level="2" ContentText="MID_FRIENDLIST_Clan_TextB" StampName="Clan2" ImageName="Clan2" ImageNameS="" Country="0" />
+			<Param Out="" FLID="FLID_クラン_A" PID="PID_クラン" Level="3" ContentText="MID_FRIENDLIST_Clan_TextA" StampName="Clan3" ImageName="Clan3" ImageNameS="" Country="0" />
+			<Param Out="" FLID="FLID_クラン_S" PID="PID_クラン" Level="4" ContentText="MID_FRIENDLIST_Clan_TextS" StampName="Clan4" ImageName="Clan4" ImageNameS="Tex_Event_Reliance_S_02" Country="0" />
+			<Param Out="" FLID="FLID_フラン_D" PID="PID_フラン" Level="0" ContentText="MID_FRIENDLIST_Fram_TextD" StampName="Fram0" ImageName="Fram0" ImageNameS="" Country="0" />
+			<Param Out="" FLID="FLID_フラン_C" PID="PID_フラン" Level="1" ContentText="MID_FRIENDLIST_Fram_TextC" StampName="Fram1" ImageName="Fram1" ImageNameS="" Country="0" />
+			<Param Out="" FLID="FLID_フラン_B" PID="PID_フラン" Level="2" ContentText="MID_FRIENDLIST_Fram_TextB" StampName="Fram2" ImageName="Fram2" ImageNameS="" Country="0" />
+			<Param Out="" FLID="FLID_フラン_A" PID="PID_フラン" Level="3" ContentText="MID_FRIENDLIST_Fram_TextA" StampName="Fram3" ImageName="Fram3" ImageNameS="" Country="0" />
+			<Param Out="" FLID="FLID_フラン_S" PID="PID_フラン" Level="4" ContentText="MID_FRIENDLIST_Fram_TextS" StampName="Fram4" ImageName="Fram4" ImageNameS="Tex_Event_Reliance_S_03" Country="0" />
+			<Param Out="" FLID="FLID_アルフレッド_D" PID="PID_アルフレッド" Level="0" ContentText="MID_FRIENDLIST_Alfred_TextD" StampName="Alfred0" ImageName="Alfred0" ImageNameS="" Country="1" />
+			<Param Out="" FLID="FLID_アルフレッド_C" PID="PID_アルフレッド" Level="1" ContentText="MID_FRIENDLIST_Alfred_TextC" StampName="Alfred1" ImageName="Alfred1" ImageNameS="" Country="1" />
+			<Param Out="" FLID="FLID_アルフレッド_B" PID="PID_アルフレッド" Level="2" ContentText="MID_FRIENDLIST_Alfred_TextB" StampName="Alfred2" ImageName="Alfred2" ImageNameS="" Country="1" />
+			<Param Out="" FLID="FLID_アルフレッド_A" PID="PID_アルフレッド" Level="3" ContentText="MID_FRIENDLIST_Alfred_TextA" StampName="Alfred3" ImageName="Alfred3" ImageNameS="" Country="1" />
+			<Param Out="" FLID="FLID_アルフレッド_S" PID="PID_アルフレッド" Level="4" ContentText="MID_FRIENDLIST_Alfred_TextS" StampName="Alfred4" ImageName="Alfred4" ImageNameS="Tex_Event_Reliance_S_04" Country="1" />
+			<Param Out="" FLID="FLID_エーティエ_D" PID="PID_エーティエ" Level="0" ContentText="MID_FRIENDLIST_Etie_TextD" StampName="Etie0" ImageName="Etie0" ImageNameS="" Country="1" />
+			<Param Out="" FLID="FLID_エーティエ_C" PID="PID_エーティエ" Level="1" ContentText="MID_FRIENDLIST_Etie_TextC" StampName="Etie1" ImageName="Etie1" ImageNameS="" Country="1" />
+			<Param Out="" FLID="FLID_エーティエ_B" PID="PID_エーティエ" Level="2" ContentText="MID_FRIENDLIST_Etie_TextB" StampName="Etie2" ImageName="Etie2" ImageNameS="" Country="1" />
+			<Param Out="" FLID="FLID_エーティエ_A" PID="PID_エーティエ" Level="3" ContentText="MID_FRIENDLIST_Etie_TextA" StampName="Etie3" ImageName="Etie3" ImageNameS="" Country="1" />
+			<Param Out="" FLID="FLID_エーティエ_S" PID="PID_エーティエ" Level="4" ContentText="MID_FRIENDLIST_Etie_TextS" StampName="Etie4" ImageName="Etie4" ImageNameS="Tex_Event_Reliance_S_06" Country="1" />
+			<Param Out="" FLID="FLID_ブシュロン_D" PID="PID_ブシュロン" Level="0" ContentText="MID_FRIENDLIST_Boucheron_TextD" StampName="Boucheron0" ImageName="Boucheron0" ImageNameS="" Country="1" />
+			<Param Out="" FLID="FLID_ブシュロン_C" PID="PID_ブシュロン" Level="1" ContentText="MID_FRIENDLIST_Boucheron_TextC" StampName="Boucheron1" ImageName="Boucheron1" ImageNameS="" Country="1" />
+			<Param Out="" FLID="FLID_ブシュロン_B" PID="PID_ブシュロン" Level="2" ContentText="MID_FRIENDLIST_Boucheron_TextB" StampName="Boucheron2" ImageName="Boucheron2" ImageNameS="" Country="1" />
+			<Param Out="" FLID="FLID_ブシュロン_A" PID="PID_ブシュロン" Level="3" ContentText="MID_FRIENDLIST_Boucheron_TextA" StampName="Boucheron3" ImageName="Boucheron3" ImageNameS="" Country="1" />
+			<Param Out="" FLID="FLID_ブシュロン_S" PID="PID_ブシュロン" Level="4" ContentText="MID_FRIENDLIST_Boucheron_TextS" StampName="Boucheron4" ImageName="Boucheron4" ImageNameS="Tex_Event_Reliance_S_05" Country="1" />
+			<Param Out="" FLID="FLID_セリーヌ_D" PID="PID_セリーヌ" Level="0" ContentText="MID_FRIENDLIST_Celine_TextD" StampName="Celine0" ImageName="Celine0" ImageNameS="" Country="1" />
+			<Param Out="" FLID="FLID_セリーヌ_C" PID="PID_セリーヌ" Level="1" ContentText="MID_FRIENDLIST_Celine_TextC" StampName="Celine1" ImageName="Celine1" ImageNameS="" Country="1" />
+			<Param Out="" FLID="FLID_セリーヌ_B" PID="PID_セリーヌ" Level="2" ContentText="MID_FRIENDLIST_Celine_TextB" StampName="Celine2" ImageName="Celine2" ImageNameS="" Country="1" />
+			<Param Out="" FLID="FLID_セリーヌ_A" PID="PID_セリーヌ" Level="3" ContentText="MID_FRIENDLIST_Celine_TextA" StampName="Celine3" ImageName="Celine3" ImageNameS="" Country="1" />
+			<Param Out="" FLID="FLID_セリーヌ_S" PID="PID_セリーヌ" Level="4" ContentText="MID_FRIENDLIST_Celine_TextS" StampName="Celine4" ImageName="Celine4" ImageNameS="Tex_Event_Reliance_S_07" Country="1" />
+			<Param Out="" FLID="FLID_クロエ_D" PID="PID_クロエ" Level="0" ContentText="MID_FRIENDLIST_Chloe_TextD" StampName="Chloe0" ImageName="Chloe0" ImageNameS="" Country="1" />
+			<Param Out="" FLID="FLID_クロエ_C" PID="PID_クロエ" Level="1" ContentText="MID_FRIENDLIST_Chloe_TextC" StampName="Chloe1" ImageName="Chloe1" ImageNameS="" Country="1" />
+			<Param Out="" FLID="FLID_クロエ_B" PID="PID_クロエ" Level="2" ContentText="MID_FRIENDLIST_Chloe_TextB" StampName="Chloe2" ImageName="Chloe2" ImageNameS="" Country="1" />
+			<Param Out="" FLID="FLID_クロエ_A" PID="PID_クロエ" Level="3" ContentText="MID_FRIENDLIST_Chloe_TextA" StampName="Chloe3" ImageName="Chloe3" ImageNameS="" Country="1" />
+			<Param Out="" FLID="FLID_クロエ_S" PID="PID_クロエ" Level="4" ContentText="MID_FRIENDLIST_Chloe_TextS" StampName="Chloe4" ImageName="Chloe4" ImageNameS="Tex_Event_Reliance_S_09" Country="1" />
+			<Param Out="" FLID="FLID_ルイ_D" PID="PID_ルイ" Level="0" ContentText="MID_FRIENDLIST_Louis_TextD" StampName="Louis0" ImageName="Louis0" ImageNameS="" Country="1" />
+			<Param Out="" FLID="FLID_ルイ_C" PID="PID_ルイ" Level="1" ContentText="MID_FRIENDLIST_Louis_TextC" StampName="Louis1" ImageName="Louis1" ImageNameS="" Country="1" />
+			<Param Out="" FLID="FLID_ルイ_B" PID="PID_ルイ" Level="2" ContentText="MID_FRIENDLIST_Louis_TextB" StampName="Louis2" ImageName="Louis2" ImageNameS="" Country="1" />
+			<Param Out="" FLID="FLID_ルイ_A" PID="PID_ルイ" Level="3" ContentText="MID_FRIENDLIST_Louis_TextA" StampName="Louis3" ImageName="Louis3" ImageNameS="" Country="1" />
+			<Param Out="" FLID="FLID_ルイ_S" PID="PID_ルイ" Level="4" ContentText="MID_FRIENDLIST_Louis_TextS" StampName="Louis4" ImageName="Louis4" ImageNameS="Tex_Event_Reliance_S_08" Country="1" />
+			<Param Out="" FLID="FLID_ジャン_D" PID="PID_ジャン" Level="0" ContentText="MID_FRIENDLIST_Jean_TextD" StampName="Jean0" ImageName="Jean0" ImageNameS="" Country="1" />
+			<Param Out="" FLID="FLID_ジャン_C" PID="PID_ジャン" Level="1" ContentText="MID_FRIENDLIST_Jean_TextC" StampName="Jean1" ImageName="Jean1" ImageNameS="" Country="1" />
+			<Param Out="" FLID="FLID_ジャン_B" PID="PID_ジャン" Level="2" ContentText="MID_FRIENDLIST_Jean_TextB" StampName="Jean2" ImageName="Jean2" ImageNameS="" Country="1" />
+			<Param Out="" FLID="FLID_ジャン_A" PID="PID_ジャン" Level="3" ContentText="MID_FRIENDLIST_Jean_TextA" StampName="Jean3" ImageName="Jean3" ImageNameS="" Country="1" />
+			<Param Out="" FLID="FLID_ジャン_S" PID="PID_ジャン" Level="4" ContentText="MID_FRIENDLIST_Jean_TextS" StampName="Jean4" ImageName="Jean4" ImageNameS="Tex_Event_Reliance_S_29" Country="1" />
+			<Param Out="" FLID="FLID_ディアマンド_D" PID="PID_ディアマンド" Level="0" ContentText="MID_FRIENDLIST_Diamand_TextD" StampName="Diamand0" ImageName="Diamand0" ImageNameS="" Country="2" />
+			<Param Out="" FLID="FLID_ディアマンド_C" PID="PID_ディアマンド" Level="1" ContentText="MID_FRIENDLIST_Diamand_TextC" StampName="Diamand1" ImageName="Diamand1" ImageNameS="" Country="2" />
+			<Param Out="" FLID="FLID_ディアマンド_B" PID="PID_ディアマンド" Level="2" ContentText="MID_FRIENDLIST_Diamand_TextB" StampName="Diamand2" ImageName="Diamand2" ImageNameS="" Country="2" />
+			<Param Out="" FLID="FLID_ディアマンド_A" PID="PID_ディアマンド" Level="3" ContentText="MID_FRIENDLIST_Diamand_TextA" StampName="Diamand3" ImageName="Diamand3" ImageNameS="" Country="2" />
+			<Param Out="" FLID="FLID_ディアマンド_S" PID="PID_ディアマンド" Level="4" ContentText="MID_FRIENDLIST_Diamand_TextS" StampName="Diamand4" ImageName="Diamand4" ImageNameS="Tex_Event_Reliance_S_10" Country="2" />
+			<Param Out="" FLID="FLID_アンバー_D" PID="PID_アンバー" Level="0" ContentText="MID_FRIENDLIST_Umber_TextD" StampName="Umber0" ImageName="Umber0" ImageNameS="" Country="2" />
+			<Param Out="" FLID="FLID_アンバー_C" PID="PID_アンバー" Level="1" ContentText="MID_FRIENDLIST_Umber_TextC" StampName="Umber1" ImageName="Umber1" ImageNameS="" Country="2" />
+			<Param Out="" FLID="FLID_アンバー_B" PID="PID_アンバー" Level="2" ContentText="MID_FRIENDLIST_Umber_TextB" StampName="Umber2" ImageName="Umber2" ImageNameS="" Country="2" />
+			<Param Out="" FLID="FLID_アンバー_A" PID="PID_アンバー" Level="3" ContentText="MID_FRIENDLIST_Umber_TextA" StampName="Umber3" ImageName="Umber3" ImageNameS="" Country="2" />
+			<Param Out="" FLID="FLID_アンバー_S" PID="PID_アンバー" Level="4" ContentText="MID_FRIENDLIST_Umber_TextS" StampName="Umber4" ImageName="Umber4" ImageNameS="Tex_Event_Reliance_S_11" Country="2" />
+			<Param Out="" FLID="FLID_ジェーデ_D" PID="PID_ジェーデ" Level="0" ContentText="MID_FRIENDLIST_Jade_TextD" StampName="Jade0" ImageName="Jade0" ImageNameS="" Country="2" />
+			<Param Out="" FLID="FLID_ジェーデ_C" PID="PID_ジェーデ" Level="1" ContentText="MID_FRIENDLIST_Jade_TextC" StampName="Jade1" ImageName="Jade1" ImageNameS="" Country="2" />
+			<Param Out="" FLID="FLID_ジェーデ_B" PID="PID_ジェーデ" Level="2" ContentText="MID_FRIENDLIST_Jade_TextB" StampName="Jade2" ImageName="Jade2" ImageNameS="" Country="2" />
+			<Param Out="" FLID="FLID_ジェーデ_A" PID="PID_ジェーデ" Level="3" ContentText="MID_FRIENDLIST_Jade_TextA" StampName="Jade3" ImageName="Jade3" ImageNameS="" Country="2" />
+			<Param Out="" FLID="FLID_ジェーデ_S" PID="PID_ジェーデ" Level="4" ContentText="MID_FRIENDLIST_Jade_TextS" StampName="Jade4" ImageName="Jade4" ImageNameS="Tex_Event_Reliance_S_12" Country="2" />
+			<Param Out="" FLID="FLID_スタルーク_D" PID="PID_スタルーク" Level="0" ContentText="MID_FRIENDLIST_Staluke_TextD" StampName="Staluke0" ImageName="Staluke0" ImageNameS="" Country="2" />
+			<Param Out="" FLID="FLID_スタルーク_C" PID="PID_スタルーク" Level="1" ContentText="MID_FRIENDLIST_Staluke_TextC" StampName="Staluke1" ImageName="Staluke1" ImageNameS="" Country="2" />
+			<Param Out="" FLID="FLID_スタルーク_B" PID="PID_スタルーク" Level="2" ContentText="MID_FRIENDLIST_Staluke_TextB" StampName="Staluke2" ImageName="Staluke2" ImageNameS="" Country="2" />
+			<Param Out="" FLID="FLID_スタルーク_A" PID="PID_スタルーク" Level="3" ContentText="MID_FRIENDLIST_Staluke_TextA" StampName="Staluke3" ImageName="Staluke3" ImageNameS="" Country="2" />
+			<Param Out="" FLID="FLID_スタルーク_S" PID="PID_スタルーク" Level="4" ContentText="MID_FRIENDLIST_Staluke_TextS" StampName="Staluke4" ImageName="Staluke4" ImageNameS="Tex_Event_Reliance_S_13" Country="2" />
+			<Param Out="" FLID="FLID_シトリニカ_D" PID="PID_シトリニカ" Level="0" ContentText="MID_FRIENDLIST_Citrinica_TextD" StampName="Citrinica0" ImageName="Citrinica0" ImageNameS="" Country="2" />
+			<Param Out="" FLID="FLID_シトリニカ_C" PID="PID_シトリニカ" Level="1" ContentText="MID_FRIENDLIST_Citrinica_TextC" StampName="Citrinica1" ImageName="Citrinica1" ImageNameS="" Country="2" />
+			<Param Out="" FLID="FLID_シトリニカ_B" PID="PID_シトリニカ" Level="2" ContentText="MID_FRIENDLIST_Citrinica_TextB" StampName="Citrinica2" ImageName="Citrinica2" ImageNameS="" Country="2" />
+			<Param Out="" FLID="FLID_シトリニカ_A" PID="PID_シトリニカ" Level="3" ContentText="MID_FRIENDLIST_Citrinica_TextA" StampName="Citrinica3" ImageName="Citrinica3" ImageNameS="" Country="2" />
+			<Param Out="" FLID="FLID_シトリニカ_S" PID="PID_シトリニカ" Level="4" ContentText="MID_FRIENDLIST_Citrinica_TextS" StampName="Citrinica4" ImageName="Citrinica4" ImageNameS="Tex_Event_Reliance_S_15" Country="2" />
+			<Param Out="" FLID="FLID_ラピス_D" PID="PID_ラピス" Level="0" ContentText="MID_FRIENDLIST_Lapis_TextD" StampName="Lapis0" ImageName="Lapis0" ImageNameS="" Country="2" />
+			<Param Out="" FLID="FLID_ラピス_C" PID="PID_ラピス" Level="1" ContentText="MID_FRIENDLIST_Lapis_TextC" StampName="Lapis1" ImageName="Lapis1" ImageNameS="" Country="2" />
+			<Param Out="" FLID="FLID_ラピス_B" PID="PID_ラピス" Level="2" ContentText="MID_FRIENDLIST_Lapis_TextB" StampName="Lapis2" ImageName="Lapis2" ImageNameS="" Country="2" />
+			<Param Out="" FLID="FLID_ラピス_A" PID="PID_ラピス" Level="3" ContentText="MID_FRIENDLIST_Lapis_TextA" StampName="Lapis3" ImageName="Lapis3" ImageNameS="" Country="2" />
+			<Param Out="" FLID="FLID_ラピス_S" PID="PID_ラピス" Level="4" ContentText="MID_FRIENDLIST_Lapis_TextS" StampName="Lapis4" ImageName="Lapis4" ImageNameS="Tex_Event_Reliance_S_14" Country="2" />
+			<Param Out="" FLID="FLID_ユナカ_D" PID="PID_ユナカ" Level="0" ContentText="MID_FRIENDLIST_Yunaka_TextD" StampName="Yunaka0" ImageName="Yunaka0" ImageNameS="" Country="2" />
+			<Param Out="" FLID="FLID_ユナカ_C" PID="PID_ユナカ" Level="1" ContentText="MID_FRIENDLIST_Yunaka_TextC" StampName="Yunaka1" ImageName="Yunaka1" ImageNameS="" Country="2" />
+			<Param Out="" FLID="FLID_ユナカ_B" PID="PID_ユナカ" Level="2" ContentText="MID_FRIENDLIST_Yunaka_TextB" StampName="Yunaka2" ImageName="Yunaka2" ImageNameS="" Country="2" />
+			<Param Out="" FLID="FLID_ユナカ_A" PID="PID_ユナカ" Level="3" ContentText="MID_FRIENDLIST_Yunaka_TextA" StampName="Yunaka3" ImageName="Yunaka3" ImageNameS="" Country="2" />
+			<Param Out="" FLID="FLID_ユナカ_S" PID="PID_ユナカ" Level="4" ContentText="MID_FRIENDLIST_Yunaka_TextS" StampName="Yunaka4" ImageName="Yunaka4" ImageNameS="Tex_Event_Reliance_S_30" Country="2" />
+			<Param Out="" FLID="FLID_ザフィーア_D" PID="PID_ザフィーア" Level="0" ContentText="MID_FRIENDLIST_Saphir_TextD" StampName="Saphir0" ImageName="Saphir0" ImageNameS="" Country="2" />
+			<Param Out="" FLID="FLID_ザフィーア_C" PID="PID_ザフィーア" Level="1" ContentText="MID_FRIENDLIST_Saphir_TextC" StampName="Saphir1" ImageName="Saphir1" ImageNameS="" Country="2" />
+			<Param Out="" FLID="FLID_ザフィーア_B" PID="PID_ザフィーア" Level="2" ContentText="MID_FRIENDLIST_Saphir_TextB" StampName="Saphir2" ImageName="Saphir2" ImageNameS="" Country="2" />
+			<Param Out="" FLID="FLID_ザフィーア_A" PID="PID_ザフィーア" Level="3" ContentText="MID_FRIENDLIST_Saphir_TextA" StampName="Saphir3" ImageName="Saphir3" ImageNameS="" Country="2" />
+			<Param Out="" FLID="FLID_ザフィーア_S" PID="PID_ザフィーア" Level="4" ContentText="MID_FRIENDLIST_Saphir_TextS" StampName="Saphir4" ImageName="Saphir4" ImageNameS="Tex_Event_Reliance_S_33" Country="2" />
+			<Param Out="" FLID="FLID_アイビー_D" PID="PID_アイビー" Level="0" ContentText="MID_FRIENDLIST_Ivy_TextD" StampName="Ivy0" ImageName="Ivy0" ImageNameS="" Country="3" />
+			<Param Out="" FLID="FLID_アイビー_C" PID="PID_アイビー" Level="1" ContentText="MID_FRIENDLIST_Ivy_TextC" StampName="Ivy1" ImageName="Ivy1" ImageNameS="" Country="3" />
+			<Param Out="" FLID="FLID_アイビー_B" PID="PID_アイビー" Level="2" ContentText="MID_FRIENDLIST_Ivy_TextB" StampName="Ivy2" ImageName="Ivy2" ImageNameS="" Country="3" />
+			<Param Out="" FLID="FLID_アイビー_A" PID="PID_アイビー" Level="3" ContentText="MID_FRIENDLIST_Ivy_TextA" StampName="Ivy3" ImageName="Ivy3" ImageNameS="" Country="3" />
+			<Param Out="" FLID="FLID_アイビー_S" PID="PID_アイビー" Level="4" ContentText="MID_FRIENDLIST_Ivy_TextS" StampName="Ivy4" ImageName="Ivy4" ImageNameS="Tex_Event_Reliance_S_16" Country="3" />
+			<Param Out="" FLID="FLID_カゲツ_D" PID="PID_カゲツ" Level="0" ContentText="MID_FRIENDLIST_Kagetsu_TextD" StampName="Kagetsu0" ImageName="Kagetsu0" ImageNameS="" Country="3" />
+			<Param Out="" FLID="FLID_カゲツ_C" PID="PID_カゲツ" Level="1" ContentText="MID_FRIENDLIST_Kagetsu_TextC" StampName="Kagetsu1" ImageName="Kagetsu1" ImageNameS="" Country="3" />
+			<Param Out="" FLID="FLID_カゲツ_B" PID="PID_カゲツ" Level="2" ContentText="MID_FRIENDLIST_Kagetsu_TextB" StampName="Kagetsu2" ImageName="Kagetsu2" ImageNameS="" Country="3" />
+			<Param Out="" FLID="FLID_カゲツ_A" PID="PID_カゲツ" Level="3" ContentText="MID_FRIENDLIST_Kagetsu_TextA" StampName="Kagetsu3" ImageName="Kagetsu3" ImageNameS="" Country="3" />
+			<Param Out="" FLID="FLID_カゲツ_S" PID="PID_カゲツ" Level="4" ContentText="MID_FRIENDLIST_Kagetsu_TextS" StampName="Kagetsu4" ImageName="Kagetsu4" ImageNameS="Tex_Event_Reliance_S_18" Country="3" />
+			<Param Out="" FLID="FLID_ゼルコバ_D" PID="PID_ゼルコバ" Level="0" ContentText="MID_FRIENDLIST_Zelkova_TextD" StampName="Zelkova0" ImageName="Zelkova0" ImageNameS="" Country="3" />
+			<Param Out="" FLID="FLID_ゼルコバ_C" PID="PID_ゼルコバ" Level="1" ContentText="MID_FRIENDLIST_Zelkova_TextC" StampName="Zelkova1" ImageName="Zelkova1" ImageNameS="" Country="3" />
+			<Param Out="" FLID="FLID_ゼルコバ_B" PID="PID_ゼルコバ" Level="2" ContentText="MID_FRIENDLIST_Zelkova_TextB" StampName="Zelkova2" ImageName="Zelkova2" ImageNameS="" Country="3" />
+			<Param Out="" FLID="FLID_ゼルコバ_A" PID="PID_ゼルコバ" Level="3" ContentText="MID_FRIENDLIST_Zelkova_TextA" StampName="Zelkova3" ImageName="Zelkova3" ImageNameS="" Country="3" />
+			<Param Out="" FLID="FLID_ゼルコバ_S" PID="PID_ゼルコバ" Level="4" ContentText="MID_FRIENDLIST_Zelkova_TextS" StampName="Zelkova4" ImageName="Zelkova4" ImageNameS="Tex_Event_Reliance_S_17" Country="3" />
+			<Param Out="" FLID="FLID_オルテンシア_D" PID="PID_オルテンシア" Level="0" ContentText="MID_FRIENDLIST_Hortensia_TextD" StampName="Hortensia0" ImageName="Hortensia0" ImageNameS="" Country="3" />
+			<Param Out="" FLID="FLID_オルテンシア_C" PID="PID_オルテンシア" Level="1" ContentText="MID_FRIENDLIST_Hortensia_TextC" StampName="Hortensia1" ImageName="Hortensia1" ImageNameS="" Country="3" />
+			<Param Out="" FLID="FLID_オルテンシア_B" PID="PID_オルテンシア" Level="2" ContentText="MID_FRIENDLIST_Hortensia_TextB" StampName="Hortensia2" ImageName="Hortensia2" ImageNameS="" Country="3" />
+			<Param Out="" FLID="FLID_オルテンシア_A" PID="PID_オルテンシア" Level="3" ContentText="MID_FRIENDLIST_Hortensia_TextA" StampName="Hortensia3" ImageName="Hortensia3" ImageNameS="" Country="3" />
+			<Param Out="" FLID="FLID_オルテンシア_S" PID="PID_オルテンシア" Level="4" ContentText="MID_FRIENDLIST_Hortensia_TextS" StampName="Hortensia4" ImageName="Hortensia4" ImageNameS="Tex_Event_Reliance_S_19" Country="3" />
+			<Param Out="" FLID="FLID_ロサード_D" PID="PID_ロサード" Level="0" ContentText="MID_FRIENDLIST_Rosado_TextD" StampName="Rosado0" ImageName="Rosado0" ImageNameS="" Country="3" />
+			<Param Out="" FLID="FLID_ロサード_C" PID="PID_ロサード" Level="1" ContentText="MID_FRIENDLIST_Rosado_TextC" StampName="Rosado1" ImageName="Rosado1" ImageNameS="" Country="3" />
+			<Param Out="" FLID="FLID_ロサード_B" PID="PID_ロサード" Level="2" ContentText="MID_FRIENDLIST_Rosado_TextB" StampName="Rosado2" ImageName="Rosado2" ImageNameS="" Country="3" />
+			<Param Out="" FLID="FLID_ロサード_A" PID="PID_ロサード" Level="3" ContentText="MID_FRIENDLIST_Rosado_TextA" StampName="Rosado3" ImageName="Rosado3" ImageNameS="" Country="3" />
+			<Param Out="" FLID="FLID_ロサード_S" PID="PID_ロサード" Level="4" ContentText="MID_FRIENDLIST_Rosado_TextS" StampName="Rosado4" ImageName="Rosado4" ImageNameS="Tex_Event_Reliance_S_20" Country="3" />
+			<Param Out="" FLID="FLID_ゴルドマリー_D" PID="PID_ゴルドマリー" Level="0" ContentText="MID_FRIENDLIST_Goldmary_TextD" StampName="Goldmary0" ImageName="Goldmary0" ImageNameS="" Country="3" />
+			<Param Out="" FLID="FLID_ゴルドマリー_C" PID="PID_ゴルドマリー" Level="1" ContentText="MID_FRIENDLIST_Goldmary_TextC" StampName="Goldmary1" ImageName="Goldmary1" ImageNameS="" Country="3" />
+			<Param Out="" FLID="FLID_ゴルドマリー_B" PID="PID_ゴルドマリー" Level="2" ContentText="MID_FRIENDLIST_Goldmary_TextB" StampName="Goldmary2" ImageName="Goldmary2" ImageNameS="" Country="3" />
+			<Param Out="" FLID="FLID_ゴルドマリー_A" PID="PID_ゴルドマリー" Level="3" ContentText="MID_FRIENDLIST_Goldmary_TextA" StampName="Goldmary3" ImageName="Goldmary3" ImageNameS="" Country="3" />
+			<Param Out="" FLID="FLID_ゴルドマリー_S" PID="PID_ゴルドマリー" Level="4" ContentText="MID_FRIENDLIST_Goldmary_TextS" StampName="Goldmary4" ImageName="Goldmary4" ImageNameS="Tex_Event_Reliance_S_21" Country="3" />
+			<Param Out="" FLID="FLID_アンナ_D" PID="PID_アンナ" Level="0" ContentText="MID_FRIENDLIST_Anna_TextD" StampName="Anna0" ImageName="Anna0" ImageNameS="" Country="3" />
+			<Param Out="" FLID="FLID_アンナ_C" PID="PID_アンナ" Level="1" ContentText="MID_FRIENDLIST_Anna_TextC" StampName="Anna1" ImageName="Anna1" ImageNameS="" Country="3" />
+			<Param Out="" FLID="FLID_アンナ_B" PID="PID_アンナ" Level="2" ContentText="MID_FRIENDLIST_Anna_TextB" StampName="Anna2" ImageName="Anna2" ImageNameS="" Country="3" />
+			<Param Out="" FLID="FLID_アンナ_A" PID="PID_アンナ" Level="3" ContentText="MID_FRIENDLIST_Anna_TextA" StampName="Anna3" ImageName="Anna3" ImageNameS="" Country="3" />
+			<Param Out="" FLID="FLID_アンナ_S" PID="PID_アンナ" Level="4" ContentText="MID_FRIENDLIST_Anna_TextS" StampName="Anna4" ImageName="Anna4" ImageNameS="Tex_Event_Reliance_S_28" Country="3" />
+			<Param Out="" FLID="FLID_リンデン_D" PID="PID_リンデン" Level="0" ContentText="MID_FRIENDLIST_Linden_TextD" StampName="Linden0" ImageName="Linden0" ImageNameS="" Country="3" />
+			<Param Out="" FLID="FLID_リンデン_C" PID="PID_リンデン" Level="1" ContentText="MID_FRIENDLIST_Linden_TextC" StampName="Linden1" ImageName="Linden1" ImageNameS="" Country="3" />
+			<Param Out="" FLID="FLID_リンデン_B" PID="PID_リンデン" Level="2" ContentText="MID_FRIENDLIST_Linden_TextB" StampName="Linden2" ImageName="Linden2" ImageNameS="" Country="3" />
+			<Param Out="" FLID="FLID_リンデン_A" PID="PID_リンデン" Level="3" ContentText="MID_FRIENDLIST_Linden_TextA" StampName="Linden3" ImageName="Linden3" ImageNameS="" Country="3" />
+			<Param Out="" FLID="FLID_リンデン_S" PID="PID_リンデン" Level="4" ContentText="MID_FRIENDLIST_Linden_TextS" StampName="Linden4" ImageName="Linden4" ImageNameS="Tex_Event_Reliance_S_32" Country="3" />
+			<Param Out="" FLID="FLID_ミスティラ_D" PID="PID_ミスティラ" Level="0" ContentText="MID_FRIENDLIST_Misutira_TextD" StampName="Misutira0" ImageName="Misutira0" ImageNameS="" Country="4" />
+			<Param Out="" FLID="FLID_ミスティラ_C" PID="PID_ミスティラ" Level="1" ContentText="MID_FRIENDLIST_Misutira_TextC" StampName="Misutira1" ImageName="Misutira1" ImageNameS="" Country="4" />
+			<Param Out="" FLID="FLID_ミスティラ_B" PID="PID_ミスティラ" Level="2" ContentText="MID_FRIENDLIST_Misutira_TextB" StampName="Misutira2" ImageName="Misutira2" ImageNameS="" Country="4" />
+			<Param Out="" FLID="FLID_ミスティラ_A" PID="PID_ミスティラ" Level="3" ContentText="MID_FRIENDLIST_Misutira_TextA" StampName="Misutira3" ImageName="Misutira3" ImageNameS="" Country="4" />
+			<Param Out="" FLID="FLID_ミスティラ_S" PID="PID_ミスティラ" Level="4" ContentText="MID_FRIENDLIST_Misutira_TextS" StampName="Misutira4" ImageName="Misutira4" ImageNameS="Tex_Event_Reliance_S_22" Country="4" />
+			<Param Out="" FLID="FLID_パネトネ_D" PID="PID_パネトネ" Level="0" ContentText="MID_FRIENDLIST_Panetone_TextD" StampName="Panetone0" ImageName="Panetone0" ImageNameS="" Country="4" />
+			<Param Out="" FLID="FLID_パネトネ_C" PID="PID_パネトネ" Level="1" ContentText="MID_FRIENDLIST_Panetone_TextC" StampName="Panetone1" ImageName="Panetone1" ImageNameS="" Country="4" />
+			<Param Out="" FLID="FLID_パネトネ_B" PID="PID_パネトネ" Level="2" ContentText="MID_FRIENDLIST_Panetone_TextB" StampName="Panetone2" ImageName="Panetone2" ImageNameS="" Country="4" />
+			<Param Out="" FLID="FLID_パネトネ_A" PID="PID_パネトネ" Level="3" ContentText="MID_FRIENDLIST_Panetone_TextA" StampName="Panetone3" ImageName="Panetone3" ImageNameS="" Country="4" />
+			<Param Out="" FLID="FLID_パネトネ_S" PID="PID_パネトネ" Level="4" ContentText="MID_FRIENDLIST_Panetone_TextS" StampName="Panetone4" ImageName="Panetone4" ImageNameS="Tex_Event_Reliance_S_24" Country="4" />
+			<Param Out="" FLID="FLID_メリン_D" PID="PID_メリン" Level="0" ContentText="MID_FRIENDLIST_Merin_TextD" StampName="Merin0" ImageName="Merin0" ImageNameS="" Country="4" />
+			<Param Out="" FLID="FLID_メリン_C" PID="PID_メリン" Level="1" ContentText="MID_FRIENDLIST_Merin_TextC" StampName="Merin1" ImageName="Merin1" ImageNameS="" Country="4" />
+			<Param Out="" FLID="FLID_メリン_B" PID="PID_メリン" Level="2" ContentText="MID_FRIENDLIST_Merin_TextB" StampName="Merin2" ImageName="Merin2" ImageNameS="" Country="4" />
+			<Param Out="" FLID="FLID_メリン_A" PID="PID_メリン" Level="3" ContentText="MID_FRIENDLIST_Merin_TextA" StampName="Merin3" ImageName="Merin3" ImageNameS="" Country="4" />
+			<Param Out="" FLID="FLID_メリン_S" PID="PID_メリン" Level="4" ContentText="MID_FRIENDLIST_Merin_TextS" StampName="Merin4" ImageName="Merin4" ImageNameS="Tex_Event_Reliance_S_23" Country="4" />
+			<Param Out="" FLID="FLID_フォガート_D" PID="PID_フォガート" Level="0" ContentText="MID_FRIENDLIST_Fogato_TextD" StampName="Fogato0" ImageName="Fogato0" ImageNameS="" Country="4" />
+			<Param Out="" FLID="FLID_フォガート_C" PID="PID_フォガート" Level="1" ContentText="MID_FRIENDLIST_Fogato_TextC" StampName="Fogato1" ImageName="Fogato1" ImageNameS="" Country="4" />
+			<Param Out="" FLID="FLID_フォガート_B" PID="PID_フォガート" Level="2" ContentText="MID_FRIENDLIST_Fogato_TextB" StampName="Fogato2" ImageName="Fogato2" ImageNameS="" Country="4" />
+			<Param Out="" FLID="FLID_フォガート_A" PID="PID_フォガート" Level="3" ContentText="MID_FRIENDLIST_Fogato_TextA" StampName="Fogato3" ImageName="Fogato3" ImageNameS="" Country="4" />
+			<Param Out="" FLID="FLID_フォガート_S" PID="PID_フォガート" Level="4" ContentText="MID_FRIENDLIST_Fogato_TextS" StampName="Fogato4" ImageName="Fogato4" ImageNameS="Tex_Event_Reliance_S_25" Country="4" />
+			<Param Out="" FLID="FLID_パンドロ_D" PID="PID_パンドロ" Level="0" ContentText="MID_FRIENDLIST_Pandoro_TextD" StampName="Pandoro0" ImageName="Pandoro0" ImageNameS="" Country="4" />
+			<Param Out="" FLID="FLID_パンドロ_C" PID="PID_パンドロ" Level="1" ContentText="MID_FRIENDLIST_Pandoro_TextC" StampName="Pandoro1" ImageName="Pandoro1" ImageNameS="" Country="4" />
+			<Param Out="" FLID="FLID_パンドロ_B" PID="PID_パンドロ" Level="2" ContentText="MID_FRIENDLIST_Pandoro_TextB" StampName="Pandoro2" ImageName="Pandoro2" ImageNameS="" Country="4" />
+			<Param Out="" FLID="FLID_パンドロ_A" PID="PID_パンドロ" Level="3" ContentText="MID_FRIENDLIST_Pandoro_TextA" StampName="Pandoro3" ImageName="Pandoro3" ImageNameS="" Country="4" />
+			<Param Out="" FLID="FLID_パンドロ_S" PID="PID_パンドロ" Level="4" ContentText="MID_FRIENDLIST_Pandoro_TextS" StampName="Pandoro4" ImageName="Pandoro4" ImageNameS="Tex_Event_Reliance_S_26" Country="4" />
+			<Param Out="" FLID="FLID_ボネ_D" PID="PID_ボネ" Level="0" ContentText="MID_FRIENDLIST_Bonet_TextD" StampName="Bonet0" ImageName="Bonet0" ImageNameS="" Country="4" />
+			<Param Out="" FLID="FLID_ボネ_C" PID="PID_ボネ" Level="1" ContentText="MID_FRIENDLIST_Bonet_TextC" StampName="Bonet1" ImageName="Bonet1" ImageNameS="" Country="4" />
+			<Param Out="" FLID="FLID_ボネ_B" PID="PID_ボネ" Level="2" ContentText="MID_FRIENDLIST_Bonet_TextB" StampName="Bonet2" ImageName="Bonet2" ImageNameS="" Country="4" />
+			<Param Out="" FLID="FLID_ボネ_A" PID="PID_ボネ" Level="3" ContentText="MID_FRIENDLIST_Bonet_TextA" StampName="Bonet3" ImageName="Bonet3" ImageNameS="" Country="4" />
+			<Param Out="" FLID="FLID_ボネ_S" PID="PID_ボネ" Level="4" ContentText="MID_FRIENDLIST_Bonet_TextS" StampName="Bonet4" ImageName="Bonet4" ImageNameS="Tex_Event_Reliance_S_27" Country="4" />
+			<Param Out="" FLID="FLID_セアダス_D" PID="PID_セアダス" Level="0" ContentText="MID_FRIENDLIST_Seadas_TextD" StampName="Seadas0" ImageName="Seadas0" ImageNameS="" Country="4" />
+			<Param Out="" FLID="FLID_セアダス_C" PID="PID_セアダス" Level="1" ContentText="MID_FRIENDLIST_Seadas_TextC" StampName="Seadas1" ImageName="Seadas1" ImageNameS="" Country="4" />
+			<Param Out="" FLID="FLID_セアダス_B" PID="PID_セアダス" Level="2" ContentText="MID_FRIENDLIST_Seadas_TextB" StampName="Seadas2" ImageName="Seadas2" ImageNameS="" Country="4" />
+			<Param Out="" FLID="FLID_セアダス_A" PID="PID_セアダス" Level="3" ContentText="MID_FRIENDLIST_Seadas_TextA" StampName="Seadas3" ImageName="Seadas3" ImageNameS="" Country="4" />
+			<Param Out="" FLID="FLID_セアダス_S" PID="PID_セアダス" Level="4" ContentText="MID_FRIENDLIST_Seadas_TextS" StampName="Seadas4" ImageName="Seadas4" ImageNameS="Tex_Event_Reliance_S_31" Country="4" />
+			<Param Out="" FLID="FLID_ヴェイル_D" PID="PID_ヴェイル" Level="0" ContentText="MID_FRIENDLIST_Veyre_TextD" StampName="Veyre0" ImageName="Veyre0" ImageNameS="" Country="5" />
+			<Param Out="" FLID="FLID_ヴェイル_C" PID="PID_ヴェイル" Level="1" ContentText="MID_FRIENDLIST_Veyre_TextC" StampName="Veyre1" ImageName="Veyre1" ImageNameS="" Country="5" />
+			<Param Out="" FLID="FLID_ヴェイル_B" PID="PID_ヴェイル" Level="2" ContentText="MID_FRIENDLIST_Veyre_TextB" StampName="Veyre2" ImageName="Veyre2" ImageNameS="" Country="5" />
+			<Param Out="" FLID="FLID_ヴェイル_A" PID="PID_ヴェイル" Level="3" ContentText="MID_FRIENDLIST_Veyre_TextA" StampName="Veyre3" ImageName="Veyre3" ImageNameS="" Country="5" />
+			<Param Out="" FLID="FLID_ヴェイル_S" PID="PID_ヴェイル" Level="4" ContentText="MID_FRIENDLIST_Veyre_TextS" StampName="Veyre4" ImageName="Veyre4" ImageNameS="Tex_Event_Reliance_S_34" Country="5" />
+			<Param Out="" FLID="FLID_モーヴ_D" PID="PID_モーヴ" Level="0" ContentText="MID_FRIENDLIST_Mauve_TextD" StampName="Mauve0" ImageName="Mauve0" ImageNameS="" Country="5" />
+			<Param Out="" FLID="FLID_モーヴ_C" PID="PID_モーヴ" Level="1" ContentText="MID_FRIENDLIST_Mauve_TextC" StampName="Mauve1" ImageName="Mauve1" ImageNameS="" Country="5" />
+			<Param Out="" FLID="FLID_モーヴ_B" PID="PID_モーヴ" Level="2" ContentText="MID_FRIENDLIST_Mauve_TextB" StampName="Mauve2" ImageName="Mauve2" ImageNameS="" Country="5" />
+			<Param Out="" FLID="FLID_モーヴ_A" PID="PID_モーヴ" Level="3" ContentText="MID_FRIENDLIST_Mauve_TextA" StampName="Mauve3" ImageName="Mauve3" ImageNameS="" Country="5" />
+			<Param Out="" FLID="FLID_モーヴ_S" PID="PID_モーヴ" Level="4" ContentText="MID_FRIENDLIST_Mauve_TextS" StampName="Mauve4" ImageName="Mauve4" ImageNameS="Tex_Event_Reliance_S_35" Country="5" />
+			<Param Out="" FLID="FLID_ソラ_D" PID="PID_ソラ" Level="0" ContentText="MID_FRIENDLIST_Mascot_TextD" StampName="Sola0" ImageName="Sola0" ImageNameS="" Country="5" />
+			<Param Out="" FLID="FLID_ソラ_A" PID="PID_ソラ" Level="1" ContentText="MID_FRIENDLIST_Mascot_TextA" StampName="Sola1" ImageName="Sola1" ImageNameS="" Country="5" />
+		</Data>
+	</Sheet>
+</Book>

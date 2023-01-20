@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Book Count="2">
+	<Sheet Name="エリア情報" Count="13">
+		<Header>
+			<Param Name="エリアID" Ident="AID" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="表示名" Ident="MID" Type="string" Min="" Max="" Chg="" />
+			<Param Name="説明文" Ident="MID_H" Type="string" Min="" Max="" Chg="" />
+			<Param Name="条件" Ident="ConditionCID" Type="string" Min="" Max="" Chg="" />
+			<Param Name="移動先シーン名" Ident="SceneName" Type="string" Min="" Max="" Chg="" />
+			<Param Name="移動先ロケータ名" Ident="LocatorName" Type="string" Min="" Max="" Chg="" />
+			<Param Name="拠点情報ポイント番号" Ident="MapPointNo" Type="u8" Min="" Max="" Chg="" />
+			<Param Name="施設名" Ident="FacilityAidList" Type="string[]" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param AID="AID_マイルーム" MID="MID_Hub_MyRoom" MID_H="MID_H_Hub_MyRoom" ConditionCID="" SceneName="Hub_MyRoom" LocatorName="From_Cafe" MapPointNo="0" FacilityAidList="AID_マイルーム;" />
+			<Param AID="AID_カフェ" MID="MID_Hub_Cafe" MID_H="MID_H_Hub_Cafe" ConditionCID="" SceneName="Hub_Solanel" LocatorName="Jump_Cafe" MapPointNo="1" FacilityAidList="AID_料理;AID_掲示板;AID_ジュークボックス;" />
+			<Param AID="AID_紋章士の間" MID="MID_Hub_GodRoom" MID_H="MID_H_Hub_GodRoom" ConditionCID="CID_M004" SceneName="Hub_GodRoom" LocatorName="From_Solanel" MapPointNo="2" FacilityAidList="AID_紋章士の間;" />
+			<Param AID="AID_闘技場" MID="MID_Hub_Arena" MID_H="MID_H_Hub_Arena" ConditionCID="CID_M005" SceneName="Hub_Arena" LocatorName="From_Cafe" MapPointNo="3" FacilityAidList="AID_闘技場;" />
+			<Param AID="AID_中央商店" MID="MID_Hub_CentralStores" MID_H="MID_H_Hub_CentralStores" ConditionCID="" SceneName="Hub_Solanel" LocatorName="Start" MapPointNo="4" FacilityAidList="AID_武器屋;AID_道具屋;AID_錬成屋;AID_アクセサリ;" />
+			<Param AID="AID_プールサイド" MID="MID_Hub_Poolside" MID_H="MID_H_Hub_Poolside" ConditionCID="" SceneName="Hub_Solanel" LocatorName="Jump_Pool" MapPointNo="5" FacilityAidList="AID_水遊び;AID_蚤の市;AID_占い小屋;" />
+			<Param AID="AID_果樹園" MID="MID_Hub_Orchard" MID_H="MID_H_Hub_Orchard" ConditionCID="" SceneName="Hub_Solanel" LocatorName="Jump_Fruits" MapPointNo="6" FacilityAidList="AID_果物狩り;AID_アミーボスポット;" />
+			<Param AID="AID_憩いの池" MID="MID_Hub_Pond" MID_H="MID_H_Hub_Pond" ConditionCID="" SceneName="Hub_Solanel" LocatorName="Jump_Fishing" MapPointNo="7" FacilityAidList="AID_釣り;" />
+			<Param AID="AID_トレーニングスポット" MID="MID_Hub_TrainingSpot" MID_H="MID_H_Hub_TrainingSpot" ConditionCID="" SceneName="Hub_Solanel" LocatorName="Jump_Training" MapPointNo="8" FacilityAidList="AID_筋肉体操;AID_ドラゴンライド;AID_不思議な井戸;" />
+			<Param AID="AID_ふれあい農場" MID="MID_Hub_Farm" MID_H="MID_H_Hub_Farm" ConditionCID="" SceneName="Hub_Solanel" LocatorName="Jump_Animal" MapPointNo="9" FacilityAidList="AID_動物小屋;AID_活動記録の館;AID_馬ふれあい;" />
+			<Param AID="AID_ソラネルの尾" MID="MID_Hub_Cave" MID_H="MID_H_Hub_Cave" ConditionCID="" SceneName="Hub_Solanel" LocatorName="Jump_UnderSolanel" MapPointNo="10" FacilityAidList="AID_ソラの祭壇;" />
+			<Param AID="AID_みはらしの丘" MID="MID_Hub_GoodViewSpot" MID_H="MID_H_Hub_GoodViewSpot" ConditionCID="" SceneName="Hub_Solanel" LocatorName="Jump_GoodViewSpot" MapPointNo="12" FacilityAidList="" />
+			<Param AID="AID_岬の塔" MID="MID_Hub_Tower" MID_H="MID_H_Hub_Tower" ConditionCID="" SceneName="Hub_Solanel" LocatorName="Jump_CapeHouse" MapPointNo="11" FacilityAidList="AID_試練の離れ;" />
+		</Data>
+	</Sheet>
+	<Sheet Name="施設情報" Count="20">
+		<Header>
+			<Param Name="エリアID" Ident="AID" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="表示名" Ident="MID" Type="string" Min="" Max="" Chg="" />
+			<Param Name="マップ条件" Ident="ConditionCID" Type="string" Min="" Max="" Chg="" />
+			<Param Name="施設アイコン名" Ident="IconName" Type="string" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param AID="AID_占い小屋" MID="MID_Hub_FortuneStore" ConditionCID="CID_M015" IconName="FortuneTelling" />
+			<Param AID="AID_蚤の市" MID="MID_Hub_FreeMarket" ConditionCID="CID_M013" IconName="Market" />
+			<Param AID="AID_ドラゴンライド" MID="MID_Hub_Talk_DragonRide" ConditionCID="CID_M011" IconName="DragonRide" />
+			<Param AID="AID_釣り" MID="MID_Hub_Talk_Fishing" ConditionCID="CID_M008" IconName="Fishing" />
+			<Param AID="AID_試練の離れ" MID="MID_Hub_Tower" ConditionCID="CID_M006" IconName="Trial" />
+			<Param AID="AID_料理" MID="MID_Hub_CafeTerrace_Cook" ConditionCID="CID_M006" IconName="Cooking" />
+			<Param AID="AID_動物小屋" MID="MID_Hub_Animal" ConditionCID="CID_M004" IconName="Farm" />
+			<Param AID="AID_闘技場" MID="MID_Hub_Arena" ConditionCID="CID_M005" IconName="Arena" />
+			<Param AID="AID_アクセサリ" MID="MID_Hub_AccessoryShop" ConditionCID="CID_M005" IconName="AccShop" />
+			<Param AID="AID_錬成屋" MID="MID_Hub_Blacksmith" ConditionCID="CID_M005" IconName="RefineShop" />
+			<Param AID="AID_筋肉体操" MID="MID_Hub_Talk_MuscleExercises" ConditionCID="CID_M004" IconName="MuscleExercises" />
+			<Param AID="AID_ソラの祭壇" MID="MID_Hub_Mascot" ConditionCID="CID_M004" IconName="SolaCave" />
+			<Param AID="AID_紋章士の間" MID="MID_Hub_GodRoom" ConditionCID="CID_M004" IconName="GodRoom" />
+			<Param AID="AID_道具屋" MID="MID_Hub_ItemShop" ConditionCID="CID_M004" IconName="ItemShop" />
+			<Param AID="AID_武器屋" MID="MID_Hub_WeaponShop" ConditionCID="CID_M004" IconName="WeaponShop" />
+			<Param AID="AID_マイルーム" MID="MID_Hub_MyRoom" ConditionCID="CID_M003" IconName="Bed" />
+			<Param AID="AID_掲示板" MID="MID_Hub_CafeTerrace_Board" ConditionCID="CID_M003" IconName="NoticeBoard" />
+			<Param AID="AID_ジュークボックス" MID="MID_Hub_CafeTerrace_Jukebox" ConditionCID="CID_M003" IconName="Jukebox" />
+			<Param AID="AID_アミーボスポット" MID="MID_Hub_amiibo" ConditionCID="CID_M005" IconName="Amiibo" />
+			<Param AID="AID_活動記録の館" MID="MID_Hub_Photoshop" ConditionCID="CID_M006" IconName="PhotoShop" />
+		</Data>
+	</Sheet>
+</Book>

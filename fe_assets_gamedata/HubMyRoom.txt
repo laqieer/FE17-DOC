@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Book Count="1">
+	<Sheet Name="起こし時間帯" Count="40">
+		<Header>
+			<Param Name="PID" Ident="PID" Type="PublicString" Min="" Max="" Chg="" />
+			<Param Name="C1" Ident="C1" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="C2" Ident="C2" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="B1" Ident="B1" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="B2" Ident="B2" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="A1" Ident="A1" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="A2" Ident="A2" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="S1" Ident="S1" Type="s8" Min="" Max="" Chg="" />
+			<Param Name="S2" Ident="S2" Type="s8" Min="" Max="" Chg="" />
+		</Header>
+		<Data>
+			<Param PID="PID_ヴァンドレ" C1="0" C2="0" B1="-1" B2="0" A1="-1" A2="-1" S1="-1" S2="-1" />
+			<Param PID="PID_クラン" C1="1" C2="0" B1="-1" B2="-1" A1="1" A2="-1" S1="0" S2="1" />
+			<Param PID="PID_フラン" C1="0" C2="1" B1="-1" B2="-1" A1="0" A2="0" S1="0" S2="-1" />
+			<Param PID="PID_アルフレッド" C1="0" C2="2" B1="0" B2="-1" A1="0" A2="0" S1="1" S2="-1" />
+			<Param PID="PID_ブシュロン" C1="-1" C2="2" B1="0" B2="-1" A1="-1" A2="-1" S1="-1" S2="1" />
+			<Param PID="PID_エーティエ" C1="0" C2="0" B1="0" B2="-1" A1="-1" A2="0" S1="0" S2="1" />
+			<Param PID="PID_セリーヌ" C1="0" C2="0" B1="0" B2="0" A1="0" A2="-1" S1="0" S2="0" />
+			<Param PID="PID_ルイ" C1="-1" C2="0" B1="-1" B2="0" A1="-1" A2="0" S1="-1" S2="0" />
+			<Param PID="PID_クロエ" C1="0" C2="0" B1="1" B2="1" A1="2" A2="-1" S1="1" S2="-1" />
+			<Param PID="PID_ディアマンド" C1="0" C2="1" B1="-1" B2="0" A1="-1" A2="-1" S1="0" S2="-1" />
+			<Param PID="PID_アンバー" C1="0" C2="0" B1="-1" B2="0" A1="-1" A2="-1" S1="1" S2="0" />
+			<Param PID="PID_ジェーデ" C1="0" C2="-1" B1="0" B2="0" A1="-1" A2="-1" S1="-1" S2="-1" />
+			<Param PID="PID_スタルーク" C1="0" C2="0" B1="0" B2="-1" A1="0" A2="2" S1="-1" S2="-1" />
+			<Param PID="PID_ラピス" C1="-1" C2="-1" B1="0" B2="0" A1="0" A2="1" S1="-1" S2="-1" />
+			<Param PID="PID_シトリニカ" C1="0" C2="0" B1="0" B2="0" A1="0" A2="0" S1="0" S2="-1" />
+			<Param PID="PID_アイビー" C1="0" C2="0" B1="-1" B2="-1" A1="0" A2="3" S1="-1" S2="-1" />
+			<Param PID="PID_ゼルコバ" C1="0" C2="-1" B1="0" B2="0" A1="-1" A2="-1" S1="-1" S2="-1" />
+			<Param PID="PID_カゲツ" C1="0" C2="3" B1="0" B2="-1" A1="0" A2="0" S1="0" S2="0" />
+			<Param PID="PID_オルテンシア" C1="0" C2="-1" B1="-1" B2="-1" A1="0" A2="-1" S1="1" S2="-1" />
+			<Param PID="PID_ロサード" C1="0" C2="-1" B1="0" B2="1" A1="-1" A2="-1" S1="1" S2="0" />
+			<Param PID="PID_ゴルドマリー" C1="0" C2="0" B1="1" B2="2" A1="0" A2="-1" S1="-1" S2="-1" />
+			<Param PID="PID_ミスティラ" C1="0" C2="1" B1="0" B2="-1" A1="0" A2="-1" S1="0" S2="-1" />
+			<Param PID="PID_メリン" C1="-1" C2="-1" B1="0" B2="0" A1="-1" A2="-1" S1="-1" S2="-1" />
+			<Param PID="PID_パネトネ" C1="0" C2="-1" B1="3" B2="-1" A1="-1" A2="-1" S1="0" S2="0" />
+			<Param PID="PID_フォガート" C1="0" C2="-1" B1="-1" B2="-1" A1="-1" A2="-1" S1="-1" S2="-1" />
+			<Param PID="PID_パンドロ" C1="0" C2="-1" B1="-1" B2="-1" A1="-1" A2="-1" S1="-1" S2="-1" />
+			<Param PID="PID_ボネ" C1="0" C2="0" B1="0" B2="2" A1="-1" A2="-1" S1="0" S2="1" />
+			<Param PID="PID_アンナ" C1="0" C2="0" B1="1" B2="-1" A1="-1" A2="-1" S1="0" S2="0" />
+			<Param PID="PID_ジャン" C1="-1" C2="-1" B1="0" B2="0" A1="-1" A2="-1" S1="0" S2="-1" />
+			<Param PID="PID_ユナカ" C1="0" C2="0" B1="-1" B2="-1" A1="-1" A2="-1" S1="-1" S2="-1" />
+			<Param PID="PID_セアダス" C1="3" C2="0" B1="-1" B2="3" A1="3" A2="0" S1="-1" S2="0" />
+			<Param PID="PID_リンデン" C1="-1" C2="0" B1="-1" B2="-1" A1="-1" A2="-1" S1="0" S2="-1" />
+			<Param PID="PID_ザフィーア" C1="0" C2="0" B1="0" B2="-1" A1="2" A2="1" S1="0" S2="1" />
+			<Param PID="PID_ヴェイル" C1="-1" C2="-1" B1="-1" B2="-1" A1="3" A2="-1" S1="0" S2="-1" />
+			<Param PID="PID_モーヴ" C1="0" C2="0" B1="-1" B2="-1" A1="-1" A2="-1" S1="-1" S2="0" />
+			<Param PID="PID_エル" C1="0" C2="0" B1="1" B2="2" A1="-1" A2="1" S1="0" S2="0" />
+			<Param PID="PID_ラファール" C1="1" C2="1" B1="0" B2="0" A1="0" A2="0" S1="0" S2="-1" />
+			<Param PID="PID_セレスティア" C1="1" C2="2" B1="-1" B2="0" A1="-1" A2="0" S1="-1" S2="1" />
+			<Param PID="PID_グレゴリー" C1="1" C2="-1" B1="-1" B2="-1" A1="1" A2="0" S1="0" S2="1" />
+			<Param PID="PID_マデリーン" C1="-1" C2="0" B1="1" B2="-1" A1="-1" A2="0" S1="1" S2="0" />
+		</Data>
+	</Sheet>
+</Book>
