@@ -8,39 +8,38 @@ when the Corrupted attack?
 --- OP ---
 
 
-[Jean] 父親 2
-[Jean] 父親
+[Jean's Father]
 These pills ought to clear up the problem.
 Let me know if the pain persists, OK?
-[Jean] 父親
+[Jean's Father]
 And you're looking chipper today! I told you
 that cold would be gone before you know it.
 [Jean]
 Father, isn't it time you took a break? Look,
 I made you some tea.
-[Jean] 父親
+[Jean's Father]
 Thank you, Jean. You didn't burn yourself or
 anything preparing it, I hope.
 [Jean]
 You worry too much. I'm old enough to manage
 a simple pot of tea, I assure you.
-[Jean] 父親
+[Jean's Father]
 Hm-hm, it makes me happy to see you growing
 up so fine.
-[Jean] 父親
+[Jean's Father]
 Hm? What's going on out there?
-[Villager] 青年男 3
-[Villager] 青年男
+[Villager young man] 3
+[Villager young man]
 Doctor! You have to help us! Monsters are on
 the attack and people are getting hurt!
 [Corrupted] [Corrupted] [Boss]
 Raaargh! RAAARGH!
 [Jean]
 What the devil are those beasts?!
-[Jean] 父親
+[Jean's Father]
 This will get ugly. Jean, go and hide! I'll take
 care of bringing people to the clinic.
-[Jean] 父親
+[Jean's Father]
 This way, everyone! If you're unhurt, then assist
 someone who's injured! We must pull together!
 [Jean]
@@ -53,19 +52,14 @@ Oh no...
 [Corrupted] [Corrupted] [Boss]
 Rrraaaagh!
 [Alear]
-[Villager] 青年男 t
-" [Villager] 青年男 Pain
-[Villager] 青年男
+" [Villager young man]
 Get moving! There's shelter at the clinic!
 [Corrupted] [Boss]
-[Jean] 父親 b
-$ [Jean] 父親
-Angry
-[Jean] 父親
+$ [Jean's Father]
 Keep your wits about you, everyone! I'll patch
 you up once the crisis has passed.
-[Jean] 父親
-[Villager] 青年男
+[Jean's Father]
+[Villager young man]
 
 [Alear]
 We can't stand idle with the Corrupted on the
@@ -75,92 +69,76 @@ loose. Let's save those villagers!
 [Alear]
 Are you all right?! Get to safety and leave the
 Corrupted to us!
-[Villager] 青年女 b
-[Villager] 青年女 Sad
-[Villager] 青年女
+[Villager young woman]
 You don't have to tell me twice! But there's still
 a few left who didn't make it out in time.
 [Alear]
 We'll do everything in our power to save as
 many of them as we can.
-[Villager] 青年女
+[Villager young woman]
 They'll love you for it if you do. You're their
 last hope at this point!
 
 
 --- ED ---
 
-[Villager] 青年女 t
-* [Villager] 青年女 Surprise
-[Villager] 青年女
+* [Villager young woman]
 Unbelievable! All the monsters are gone!
-[Villager] 青年男 b
-$ [Villager] 青年男
+$ [Villager young man]
 Smile
-[Villager] 青年男
+[Villager young man]
 We're saved! And it's thanks to the lot of you.
-[Villager] 青年女
+[Villager young woman]
 
 [Alear]
 I'm glad no one got hurt. I was a little
 worried there.
-[Villager] 青年男
-[Villager] 青年女 b
-$ [Villager] 青年女
+[Villager young man]
+$ [Villager young woman]
 Smile
-[Villager] 青年女
+[Villager young woman]
 You can't know what this means to us. We
 decided to give you this to show our thanks.
 
-[Villager] 青年女 t
-* [Villager] 青年女 Surprise
-[Villager] 青年女
+* [Villager young woman]
 Are all the monsters really gone?
-[Villager] 青年男 b
-$ [Villager] 青年男
+$ [Villager young man]
 Smile
-[Villager] 青年男
+[Villager young man]
 There were a few casualties, but at least we're
 safe now. We owe you for that.
-[Villager] 青年女
+[Villager young woman]
 
 [Alear]
 I don't know if you should be thanking me. If I'd
 acted faster, I could have saved more lives.
-[Villager] 青年男
-[Villager] 青年女 b
-$ [Villager] 青年女
+[Villager young man]
+$ [Villager young woman]
 Smile
-[Villager] 青年女
+[Villager young woman]
 We're grateful for your help! This isn't much,
 but we hope you'll accept it.
 
-[Villager] 青年女 t
-" [Villager] 青年女 Pain
-[Villager] 青年女
+" [Villager young woman]
 Aah... My husband! Where is my husband?!
-村人女の子 b
-村人女の子 Sad
-村人女の子
+[Villager girl]
 Aww, Daddy!
-[Villager] 青年女
+[Villager young woman]
 
 [Alear]
 I let this village down today. I wasn't fast
 enough, and now so many are gone...
-村人女の子
-[Jean] 父親 b
-[Jean] 父親 Sad
-[Jean] 父親
+[Villager girl]
+[Jean's Father]
 You still tried, even though you're a stranger
 here. That's...something, I suppose.
 
 
-[Jean] 父親 3
-[Jean] 母親 4
+[Jean's Father] 3
+[Jean's Mother] 4
 [Jean]
 Hmm...
-[Jean] 父親
+[Jean's Father]
 Come now, Jean. Give the nice people a proper
 thank-you.
 [Jean]
@@ -181,7 +159,7 @@ Oh, please forgive my rudeness!
 [Alear]
 Don't mention it. Like I said, there was a lot
 going on at the time.
-[Jean] 父親
+[Jean's Father]
 What brings such a splendid personage to
 our humble village?
 [Alear]
@@ -190,7 +168,7 @@ and bring peace to the world.
 [Jean]
 The whole world? Wow. If it's all right with
 you, Divine One, can I come along and help?!
-[Jean] 父親
+[Jean's Father]
 Jean! What's gotten into you?!
 [Jean]
 My dream has always been to become a doctor
@@ -201,7 +179,7 @@ before I can do that. Look what just happened!
 [Jean]
 At the Divine Dragon's side, I think I can learn
 to fight and to heal people at the same time.
-[Jean] 父親
+[Jean's Father]
 That's all very well for you, but what about
 the Divine Dragon? You'd just be a burden.
 [Alear]
@@ -210,19 +188,19 @@ during that battle is anything to go by.
 [Alear]
 If Jean wants to come, I don't mind. Though I
 understand why you'd be worried.
-[Jean] 母親
+[Jean's Mother]
 Well, if he has your permission, then... I can only
 ask that you take good care of my boy.
-[Jean] 父親
+[Jean's Father]
 What? You're actually allowing him to go?
 [Jean]
 Father, I told you, you don't need to worry
 about me. It's not like I'm never coming home.
 In fact, when I do return, I'll be a first-rate
 doctor. You'll see!
-[Jean] 父親
+[Jean's Father]
 How quickly they grow up...
-[Jean] 父親
+[Jean's Father]
 Of course, Jean. Be a good boy, a hard worker,
 and an attentive student. And come home safe.
 [Jean]
@@ -235,18 +213,14 @@ I'll be leaning on you a lot in the days to come.
 
 --- EV ---
 
-[Jean] 父親 b
-" [Jean] 父親 Pain
-[Jean] 父親
+" [Jean's Father]
 There are so many wounded we couldn't get to
 the clinic... Is it up to me to treat them all?!
 
-[Jean] 父親 b
 [Jean]
 Father, I'm here to help! If we split up, we can
 treat everyone!
-* [Jean] 父親 Surprise
-[Jean] 父親
+* [Jean's Father]
 Jean?! I thought I told you to run and hide!
 [Jean]
 I can't stay hidden away when there are so
@@ -254,34 +228,27 @@ many who need my help!
 [Jean]
 After all, Father, am I not your son? You taught
 me that a doctor does whatever is needed!
-$ [Jean] 父親
+$ [Jean's Father]
 Relax
-[Jean] 父親
+[Jean's Father]
 My lessons have sunk in, I see. Very well, then!
 Come and give me a hand!
 
-[Villager] 訪問 t
-[Villager] 訪問 Sad
-[Villager] 訪問
+[Villager visitor]
 Don't know how much use you'll get out of
 this, but every little bit helps, right?
 
-[Jean] 母親 t
-[Jean] 母親 Sad
-[Jean] 母親
+[Jean's Mother]
 Thank you for checking in on me. Do you think
 you could use this?
-[Jean] 母親
+[Jean's Mother]
 There's not much I can do with it, at any rate.
 Better it should go to a soldier like yourself.
 
-[Jean] 母親 t
-* [Jean] 母親 Surprise
-[Jean] 母親
+* [Jean's Mother]
 Jean, get inside this instant! It's too dangerous
 to─ What? You're helping out the village?
-[Jean] 母親 Shy
-[Jean] 母親
+[Jean's Mother]
 Well, if I can't change your mind, then you
 should have this. And Jean...come home safe.
 
@@ -313,10 +280,7 @@ Now come on─there's work to do!
 You're going to have to do more than that to
 scare me off!
 
-[Jean] 父親 t
-$ [Jean] 父親
-Angry
-[Jean] 父親
+$ [Jean's Father]
 You monster! I'll show you that the people of
 this village won't be pushed around!
 
@@ -326,9 +290,7 @@ Raaargh...
 [Corrupted] [Corrupted] [Boss]
 AAAGH!
 
-[Jean] 父親 b
-" [Jean] 父親 Pain
-[Jean] 父親
+" [Jean's Father]
 I know when I'm too injured to fight anymore.
 Time to go and treat my own wounds...
 
