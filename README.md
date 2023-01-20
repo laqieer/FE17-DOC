@@ -1,9 +1,15 @@
 # FE17-DOC
 Documentation for FE17: Fire Emblem Engage
 
-[Online Doc](https://laqieer.github.io/FE17-DOC/)
+## [Calculations](https://github.com/laqieer/FE17-DOC/blob/main/fe_assets_gamedata/Calculator.xml)
 
-## Texts
+Format: `.xml`
+
+## [Chapter Events](https://github.com/laqieer/FE17-DOC/tree/main/fe_assets_scripts)
+
+Format: `.lua`
+
+## [Texts](https://laqieer.github.io/FE17-DOC/)
 
 - [English](https://github.com/laqieer/FE17-DOC/tree/main/fe_assets_message/us/usen/csv)
 - [日本語](https://github.com/laqieer/FE17-DOC/tree/main/fe_assets_message/jp/jpja/csv)
