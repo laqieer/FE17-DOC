@@ -1,14 +1,6 @@
 # FE17-DOC
 Documentation for FE17: Fire Emblem Engage
 
-## [Calculations](https://github.com/laqieer/FE17-DOC/blob/main/fe_assets_gamedata/Calculator.xml)
-
-Format: `.xml`
-
-## [Chapter Events](https://github.com/laqieer/FE17-DOC/tree/main/fe_assets_scripts)
-
-Format: `.lua`
-
 ## [Texts](https://laqieer.github.io/FE17-DOC/)
 
 - [English](https://github.com/laqieer/FE17-DOC/tree/main/fe_assets_message/us/usen/csv)
@@ -93,3 +85,12 @@ Format: `.lua`
 |System.csv|MID_xxx|System|システム|系统|
 |Tutorial.csv|MID_TIPS_xxx<br>MID_TUT_xxx|Guide|指南|指南|
 |WakeUp_xxx.csv|MID_WU_xxx|Wake-Up event|お目覚め会話|唤醒对话（叫醒、起床）|
+
+## Chapter Data
+
+### [Events](https://github.com/laqieer/FE17-DOC/tree/main/fe_assets_scripts)
+
+Format: `.lua`
+### [Units](https://github.com/laqieer/FE17-DOC/tree/main/fe_assets_gamedata/dispos)
+
+Format: `.xml`
